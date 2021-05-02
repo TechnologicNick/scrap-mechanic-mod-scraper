@@ -12,11 +12,11 @@ const superagent = require("superagent");
 const FILE_URL = "https://api.steampowered.com/ISteamRemoteStorage/GetPublishedFileDetails/v1/"
 const QUERY_FILES_URL = "https://api.steampowered.com/IPublishedFileService/QueryFiles/v1/"
 
-async function queryFiles(cursor = "*") {
+async function queryFiles(cursor = "*", numberPerPage = 100) {
     let query = `?key=${ process.env.STEAM_API_KEY }`;
     query += `&query_type=${ SteamUser.EPublishedFileQueryType.RankedByPublicationDate }`;
     query += `&cursor=${ encodeURIComponent(cursor) }`;
-    query += `&numperpage=${ 100 }`;
+    query += `&numperpage=${ numberPerPage }`;
     query += `&appid=${ 387990 }`;
     query += `&requiredtags[0]=${ "Blocks+and+Parts" }`;
     // query += `&ids_only[]=${ true }`;
@@ -43,13 +43,39 @@ async function queryAllFiles() {
         }
     }
 
-    console.log("after");
+    return details.map(d => parseInt(d.publishedfileid));
+}
+
+async function queryNewFiles(until, numberPerPage = 5) {
+    let details = [];
+
+    let data = await queryFiles(undefined, numberPerPage);
+    details.push(...data.publishedfiledetails.map(d => d.publishedfileid).filter(id => id > until));
+
+    // Query more if all ids are newer
+    if (details.length === data.publishedfiledetails.length) {
+        while(data.publishedfiledetails) {
+            data = await queryFiles(data.next_cursor, numberPerPage);
     
+            if (!data.publishedfiledetails) {
+                break;
+            }
+
+            let newIds = data.publishedfiledetails.map(d => d.publishedfileid).filter(id => id > until);
+            details.push(...newIds);
+
+            if (newIds.length < data.publishedfiledetails.length){
+                break;
+            }
+        }
+    }
+
     return details;
 }
 
 (async () => {
-    const details = await queryAllFiles();
+    // const details = await queryAllFiles();
+    const details = await queryNewFiles(2465640381);
 
-    console.log("Done:", details.length);
+    console.log("Done:", details);
 })();
