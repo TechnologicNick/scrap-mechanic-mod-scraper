@@ -9,7 +9,7 @@ const SteamUser = require("steam-user")
 
 const superagent = require("superagent");
 
-const FILE_URL = "https://api.steampowered.com/ISteamRemoteStorage/GetPublishedFileDetails/v1/"
+const GET_PUBLISHED_FILE_DETAILS_URL = "https://api.steampowered.com/ISteamRemoteStorage/GetPublishedFileDetails/v1/"
 const QUERY_FILES_URL = "https://api.steampowered.com/IPublishedFileService/QueryFiles/v1/"
 
 async function queryFiles(cursor = "*", numberPerPage = 100) {
@@ -73,9 +73,34 @@ async function queryNewFiles(until, numberPerPage = 5) {
     return details;
 }
 
+async function getPublishedFileDetails(ids) {
+
+    let formData = {
+        key: process.env.STEAM_API_KEY,
+        itemcount: ids.length
+    }
+    ids.forEach((id, i) => {
+        formData[`publishedfileids[${ i }]`] = id;
+    });
+    
+
+    let request = superagent.post(GET_PUBLISHED_FILE_DETAILS_URL).type("form")
+        .field("key", process.env.STEAM_API_KEY)
+        .field("itemcount", ids.length);
+
+    ids.forEach((id, i) => {
+        request.field(`publishedfileids[${ i }]`, id);
+    });
+
+    let response = await request;
+    
+    return response.body.response;
+}
+
 (async () => {
     // const details = await queryAllFiles();
-    const details = await queryNewFiles(2465640381);
+    // const details = await queryNewFiles(2465640381);
+    const details = await getPublishedFileDetails([2465640381]);
 
     console.log("Done:", details);
 })();
