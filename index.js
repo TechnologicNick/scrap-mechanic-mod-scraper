@@ -9,6 +9,7 @@ const SteamUser = require("steam-user")
 
 const superagent = require("superagent");
 const cp = require("child_process");
+const fs = require("fs");
 
 const GET_PUBLISHED_FILE_DETAILS_URL = "https://api.steampowered.com/ISteamRemoteStorage/GetPublishedFileDetails/v1/"
 const QUERY_FILES_URL = "https://api.steampowered.com/IPublishedFileService/QueryFiles/v1/"
@@ -98,15 +99,26 @@ async function getPublishedFileDetails(ids) {
     return response.body.response;
 }
 
-function downloadWorkshopItems(ids) {
+function downloadWorkshopItems(ids, makeScript = false) {
     return new Promise(async (resolve, reject) => {
         let params = [
             "+login", process.env.STEAM_USERNAME, process.env.STEAM_PASSWORD
         ];
 
-        for (let id of ids) {
-            params.push(...["+workshop_download_item", "387990", id.toString()]);
+        if (makeScript) {
+            fs.promises.writeFile(
+                "/usr/app/download_items.vdf",
+                ids.map(id => `workshop_download_item 387990 ${id.toString()}`).join("\n"),
+                { flag: "w" }    
+            );
+
+            params.push(...["+runscript", "/usr/app/download_items.vdf"]);
+        } else {
+            for (let id of ids) {
+                params.push(...["+workshop_download_item", "387990", id.toString()]);
+            }
         }
+
 
         params.push("+quit");
 
@@ -135,7 +147,7 @@ function downloadWorkshopItems(ids) {
     // const details = await queryAllFiles();
     // const details = await queryNewFiles(2465640381);
     // const details = await getPublishedFileDetails([2465640381]);
-    const details = await downloadWorkshopItems([2465640381]);
+    const details = await downloadWorkshopItems([2465640381], true);
 
     console.log("Done:", details);
 })();
