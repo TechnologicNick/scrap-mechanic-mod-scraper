@@ -11,6 +11,8 @@ const superagent = require("superagent");
 const cp = require("child_process");
 const fs = require("fs");
 
+const Scraper = require("./scraper");
+
 const GET_PUBLISHED_FILE_DETAILS_URL = "https://api.steampowered.com/ISteamRemoteStorage/GetPublishedFileDetails/v1/"
 const QUERY_FILES_URL = "https://api.steampowered.com/IPublishedFileService/QueryFiles/v1/"
 
@@ -147,7 +149,11 @@ function downloadWorkshopItems(ids, makeScript = false) {
     // const details = await queryAllFiles();
     // const details = await queryNewFiles(2465640381);
     // const details = await getPublishedFileDetails([2465640381]);
-    const details = await downloadWorkshopItems([2465640381], true);
+    // const details = await downloadWorkshopItems([2465640381], true);
 
-    console.log("Done:", details);
+    let scraper = new Scraper("./out", "D:/Programma's/SteamCMD/Steamcmd/steamapps/workshop/content/387990");
+    await scraper.scrapeDescriptions();
+    await scraper.scrapeShapesets();
+
+    console.log("Done");
 })();

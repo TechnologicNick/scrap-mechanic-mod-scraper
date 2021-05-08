@@ -2,9 +2,9 @@
   "name": "scrap-mechanic-mod-scraper",
   "version": "1.0.0",
   "description": "Scrapes the Steam Workshop for Scrap Mechanic mods",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "start": "node --require dotenv/config index.js",
+    "start": "node --require dotenv/config src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "TechnologicNick",
@@ -12,6 +12,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "steam-user": "^4.19.4",
+    "strip-json-comments": "^3.1.1",
     "superagent": "^6.1.0"
   }
 }
