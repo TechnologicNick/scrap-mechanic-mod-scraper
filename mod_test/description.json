@@ -1,0 +1,7 @@
+{
+   "description" : "A mod for testing the ModDatabase mod.",
+   "localId" : "521cbf4e-8901-4741-b6a6-4aee2386339f",
+   "name" : "ModDatabaseTest",
+   "type" : "Blocks and Parts",
+   "version" : 0
+}

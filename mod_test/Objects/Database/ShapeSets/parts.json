@@ -1,0 +1,47 @@
+{
+	"partList" : [
+		{
+			"uuid": "f8111180-705e-4096-ab4b-9320fb75d3f3",
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList": [
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/interactive/obj_interactive_logicgate_dif.tga",
+									"$GAME_DATA/Objects/Textures/interactive/obj_interactive_logicgate_asg.tga",
+									"$GAME_DATA/Objects/Textures/interactive/obj_interactive_logicgate_nor.tga"
+								],
+								"material": "PoseAnimDifAsgNor"
+							},
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/interactive/obj_interactive_logicgate_dif.tga",
+									"$GAME_DATA/Objects/Textures/interactive/obj_interactive_logicgate_asg.tga",
+									"$GAME_DATA/Objects/Textures/interactive/obj_interactive_logicgate_nor.tga"
+								],
+								"material": "UVAnimDifAsgNor",
+								"custom":
+								{
+									"uv0": { "u": 0.16666667, "v": 0.1645 }
+								}
+							}
+						],
+						"mesh": "$GAME_DATA/Objects/Mesh/interactive/obj_interactive_logicgate_off.fbx",
+						"pose0": "$GAME_DATA/Objects/Mesh/interactive/obj_interactive_logicgate_on.fbx"
+					}
+				]
+			},
+			"rotationSet": "PropYZ",
+			"color": "df7f00",
+			"box": { "x": 1, "y": 1, "z": 1 },
+			"density": 250.0,
+			"physicsMaterial": "Metal",
+			"scripted": {
+				"filename": "$MOD_DATA/Scripts/ModDatabaseTest.lua",
+				"classname": "ModDatabaseTest"
+			},
+			"qualityLevel": 3
+		}
+	]
+}
