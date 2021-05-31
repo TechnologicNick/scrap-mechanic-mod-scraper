@@ -39,7 +39,7 @@ function ModDatabaseTest.printLoadedMods( self )
     sm.gui.chatMessage(msg)
 
     -- Make sure to unload the databases after you're done using them, they take up quite a bit of memory
-    ModDatabase.loadDescriptions()
-    ModDatabase.loadShapesets()
-    
+    ModDatabase.unloadDescriptions()
+    ModDatabase.unloadShapesets()
+
 end
