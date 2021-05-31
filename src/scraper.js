@@ -2,6 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const stripJsonComments = require("strip-json-comments");
 const Database = require("./database");
+const JSONbig = require("json-bigint")({ storeAsString: true });
 
 module.exports = class Scraper {
     idToUuid = {};
@@ -26,7 +27,7 @@ module.exports = class Scraper {
             try {
                 let full = path.join(this.sourceDir, id);
 
-                let desc = JSON.parse(
+                let desc = JSONbig.parse(
                     stripJsonComments(
                         await (await fs.promises.readFile(
                             path.join(full, "description.json")

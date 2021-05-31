@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^8.2.0",
+    "json-bigint": "^1.0.0",
     "steam-user": "^4.19.4",
     "strip-json-comments": "^3.1.1",
     "superagent": "^6.1.0"

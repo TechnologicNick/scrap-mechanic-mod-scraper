@@ -1,4 +1,5 @@
 const fs = require("fs");
+const JSONbig = require("json-bigint")({ storeAsString: true });
 
 module.exports = class Database {
 
@@ -14,11 +15,11 @@ module.exports = class Database {
             await this.save()
         }
 
-        this.data = JSON.parse(await fs.promises.readFile(this.filename));
+        this.data = JSONbig.parse(await fs.promises.readFile(this.filename));
     }
 
     async save() {
-        await fs.promises.writeFile(this.filename, JSON.stringify(this.data, null, '\t'));
+        await fs.promises.writeFile(this.filename, JSONbig.stringify(this.data, null, '\t'));
     }
 
 

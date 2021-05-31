@@ -151,7 +151,7 @@ function downloadWorkshopItems(ids, makeScript = false) {
     // const details = await getPublishedFileDetails([2465640381]);
     // const details = await downloadWorkshopItems([2465640381], true);
 
-    let scraper = new Scraper("./out", "D:/Programma's/SteamCMD/Steamcmd/steamapps/workshop/content/387990");
+    let scraper = new Scraper("./mod/Scripts/data", "D:/Programma's/SteamCMD/Steamcmd/steamapps/workshop/content/387990");
     await scraper.scrapeDescriptions();
     await scraper.scrapeShapesets();
 
