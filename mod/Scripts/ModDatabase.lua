@@ -30,6 +30,20 @@ function ModDatabase.loadShapesets()
     print("[ModDatabase] Loaded " .. tostring(count) .. " mod shapesets")
 end
 
+function ModDatabase.unloadDescriptions()
+    ModDatabase.databases.descriptions = nil
+    
+    print("[ModDatabase] Unloaded data/descriptions.json")
+end
+
+function ModDatabase.unloadShapesets()
+    ModDatabase.databases.shapesets = nil
+    
+    print("[ModDatabase] Unloaded data/shapesets.json")
+end
+
+
+
 function ModDatabase.isModLoaded(localId)
     assert(ModDatabase.databases.shapesets, "Shapesets database is not loaded! Load it using ModDatabase.loadShapesets()")
 
