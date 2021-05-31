@@ -6,17 +6,18 @@ dofile("$CONTENT_40639a2c-bb9f-4d4f-b88c-41bfe264ffa8/Scripts/ModDatabase.lua")
 ModDatabaseTest = class()
 
 function ModDatabaseTest.client_onInteract( self, character, state )
+    -- Prevent trigger when looking away
     if not state then return end
 
-    self:printLoadedMods()
+    self:doDatabaseStuff()
 end
 
 function ModDatabaseTest.server_onRefresh( self )
-    self:printLoadedMods()
+    self:doDatabaseStuff()
 end
 
 -- Everything works both server-side and client-side
-function ModDatabaseTest.printLoadedMods( self )
+function ModDatabaseTest.doDatabaseStuff( self )
     
     -- Load the databases
     ModDatabase.loadDescriptions()
@@ -27,7 +28,7 @@ function ModDatabaseTest.printLoadedMods( self )
 
     --[[
         WARNING: This is not recommended to do, as it will try to open a file for each mod, causing
-        a long freeze.
+        a long freeze. Also logs 2 lines for each mod not found, increasing it's size by about 500kB.
     ]]
     -- Getting all installed mods
     local installedMods = ModDatabase.getAllInstalledMods()

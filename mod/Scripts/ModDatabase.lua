@@ -14,7 +14,7 @@ function ModDatabase.loadDescriptions()
         count = count + 1
     end
 
-    print("[ModDatabase] Loaded " .. tostring(count) .. " mod descriptions")
+    print("[ModDatabase] Loaded descriptions of " .. tostring(count) .. " mods")
 end
 
 function ModDatabase.loadShapesets()
@@ -27,7 +27,7 @@ function ModDatabase.loadShapesets()
         count = count + 1
     end
 
-    print("[ModDatabase] Loaded " .. tostring(count) .. " mod shapesets")
+    print("[ModDatabase] Loaded shapesets of " .. tostring(count) .. " mods")
 end
 
 function ModDatabase.unloadDescriptions()
