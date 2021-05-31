@@ -85,3 +85,35 @@ function ModDatabase.getAllLoadedMods()
 
     return loaded
 end
+
+
+
+function ModDatabase.isModInstalled(localId)
+    assert(ModDatabase.databases.shapesets, "Shapesets database is not loaded! Load it using ModDatabase.loadShapesets()")
+
+    -- Mod does not exist in database, uncertain if installed
+    if not ModDatabase.databases.shapesets[localId] then
+        return nil
+    end
+
+    for shapeset, shapeUuids in pairs(ModDatabase.databases.shapesets[localId]) do
+        return select(1, pcall(sm.json.open, shapeset))
+    end
+
+    -- Mod doesn't have any shapesets, uncertain if loaded
+    return nil
+end
+
+function ModDatabase.getAllInstalledMods()
+    assert(ModDatabase.databases.shapesets, "Shapesets database is not loaded! Load it using ModDatabase.loadShapesets()")
+
+    local installed = {}
+
+    for localId, shapesets in pairs(ModDatabase.databases.shapesets) do
+        if ModDatabase.isModInstalled(localId) then
+            table.insert(installed, localId)
+        end
+    end
+
+    return installed
+end
