@@ -3,5 +3,11 @@
    "localId" : "521cbf4e-8901-4741-b6a6-4aee2386339f",
    "name" : "ModDatabaseTest",
    "type" : "Blocks and Parts",
-   "version" : 0
+   "version" : 0,
+   "dependencies" : [
+      {
+         "fileId": 2504530003,
+         "localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
+      }
+   ]
 }

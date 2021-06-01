@@ -1,5 +1,6 @@
 {
    "description" : "A dependency that includes information about all Blocks and Parts mods.",
+   "fileId" : 2504530003,
    "localId" : "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
    "name" : "ModDatabase",
    "type" : "Blocks and Parts",
