@@ -20,9 +20,9 @@ jobs:
         
       - name: Save secrets to /usr/app/.env
         run: |
-          echo ${{ secrets.STEAM_USERNAME }} >> /usr/app/.env
-          echo ${{ secrets.STEAM_PASSWORD }} >> /usr/app/.env
-          echo ${{ secrets.STEAM_API_KEY  }} >> /usr/app/.env
+          echo "${{ secrets.STEAM_USERNAME }}" > /usr/app/.env
+          echo "${{ secrets.STEAM_PASSWORD }}" > /usr/app/.env
+          echo "${{ secrets.STEAM_API_KEY  }}" > /usr/app/.env
         
       - name: Run the built image
         run: docker run -t scrap-mechanic-mod-scraper
