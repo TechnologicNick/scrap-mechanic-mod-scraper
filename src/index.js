@@ -27,7 +27,7 @@ async function queryFiles(cursor = "*", numberPerPage = 100) {
 
     const response = await superagent.get(QUERY_FILES_URL + query);
 
-    console.log(response.request.url);
+    // console.log(response.request.url);
     console.log(response.body.response);
 
     return response.body.response;
@@ -146,12 +146,14 @@ function downloadWorkshopItems(ids, makeScript = false) {
 }
 
 (async () => {
-    // const details = await queryAllFiles();
-    // const details = await queryNewFiles(2465640381);
-    // const details = await getPublishedFileDetails([2465640381]);
-    // const details = await downloadWorkshopItems([2465640381], true);
+    const request = await getPublishedFileDetails(await queryAllFiles());
 
-    let scraper = new Scraper("./mod/Scripts/data", "D:/Programma's/SteamCMD/Steamcmd/steamapps/workshop/content/387990");
+    let lastUpdated = 1619827200 // May 1st, 2021, 00:00 GMT
+    let details = request.publishedfiledetails.filter(item => item.time_created > lastUpdated || item.time_updated > lastUpdated)
+
+    let exitCode = await downloadWorkshopItems(details.map(item => item.publishedfileid), true);
+
+    let scraper = new Scraper("./mod/Scripts/data", "/home/steam/Steam/steamapps/workshop/content/387990");
     await scraper.scrapeDescriptions();
     await scraper.scrapeShapesets();
 
