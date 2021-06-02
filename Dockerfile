@@ -21,5 +21,7 @@ ENV PATH="$NVM_DIR/versions/node/$NODE_VERSION/bin:$PATH"
 WORKDIR /usr/app
 COPY --chown=steam . .
 
+USER root
+
 RUN npm install --production
 CMD npm start
