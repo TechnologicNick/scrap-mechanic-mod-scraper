@@ -19,7 +19,7 @@ jobs:
         run: docker build -t scrap-mechanic-mod-scraper .
         
       - name: Run the built image
-        run: docker run -it scrap-mechanic-mod-scraper
+        run: docker run -t scrap-mechanic-mod-scraper
     
       # First time using docker in a GitHub workflow, just testing things
       - run: ls
