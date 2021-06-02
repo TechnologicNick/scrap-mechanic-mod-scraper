@@ -11,17 +11,15 @@ jobs:
   update_database:
     runs-on: ubuntu-latest
     
-    container: cm2network/steamcmd:root
-    
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v2.1.5
-      
-      - name: Install node modules
-        run: npm install --production
+      - name: Build docker image
+        run: docker build -t scrap-mechanic-mod-scraper .
         
-      - name: Run the script
-        run: npm start
+      - name: Run the built image
+        run: docker run -it scrap-mechanic-mod-scraper
+    
+      # First time using docker in a GitHub workflow, just testing things
+      - run: ls
