@@ -11,10 +11,13 @@ jobs:
   update_database:
     runs-on: ubuntu-latest
     
-    container:
-      image: "Dockerfile"
-
     steps:
+      - name: Build docker image
+        run: docker build -t scrap-mechanic-mod-scraper .
+        
+      - name: Run the built image
+        run: docker run -it scrap-mechanic-mod-scraper
+    
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
