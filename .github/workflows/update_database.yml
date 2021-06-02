@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     
     container:
-      image: ./Dockerfile
+      image: "Dockerfile"
 
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
