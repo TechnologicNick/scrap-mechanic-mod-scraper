@@ -12,14 +12,14 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      
       - name: Build docker image
         run: docker build -t scrap-mechanic-mod-scraper .
         
       - name: Run the built image
         run: docker run -it scrap-mechanic-mod-scraper
     
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
-
       # First time using docker in a GitHub workflow, just testing things
       - run: ls
