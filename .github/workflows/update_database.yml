@@ -1,0 +1,22 @@
+name: Update database
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  update_database:
+    runs-on: ubuntu-latest
+    
+    container:
+      image: ./Dockerfile
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # First time using docker in a GitHub workflow, just testing things
+      - run: ls
