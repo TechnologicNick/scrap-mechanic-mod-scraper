@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v2
       
       - name: Build docker image
-        run: docker build -t scrap-mechanic-mod-scraper .
+        run: docker build --progress=plain -t scrap-mechanic-mod-scraper .
         
       - name: Run the built image
         run: docker run --env STEAM_USERNAME --env STEAM_PASSWORD --env STEAM_API_KEY -t scrap-mechanic-mod-scraper
