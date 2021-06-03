@@ -24,7 +24,3 @@ jobs:
           STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
           STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
-    
-      # Debugging
-      - run: ls -la /usr/app
-        if: ${{ always() }}
