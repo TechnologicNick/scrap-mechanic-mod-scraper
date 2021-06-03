@@ -22,6 +22,7 @@ WORKDIR /usr/app
 COPY --chown=steam . .
 
 USER root
-
 RUN npm install --production
+
+USER steam
 CMD npm start
