@@ -18,11 +18,8 @@ ENV PATH="$NVM_DIR/versions/node/$NODE_VERSION/bin:$PATH"
 
 
 # Copy project files
-WORKDIR /usr/app
+WORKDIR /home/steam/app
 COPY --chown=steam . .
 
-USER root
 RUN npm install --production
-
-USER steam
 CMD npm start

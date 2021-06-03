@@ -109,12 +109,12 @@ function downloadWorkshopItems(ids, makeScript = false) {
 
         if (makeScript) {
             fs.promises.writeFile(
-                "/usr/app/download_items.vdf",
+                "/home/steam/app/download_items.vdf",
                 ids.map(id => `workshop_download_item 387990 ${id.toString()}`).join("\n"),
                 { flag: "w" }    
             );
 
-            params.push(...["+runscript", "/usr/app/download_items.vdf"]);
+            params.push(...["+runscript", "/home/steam/app/download_items.vdf"]);
         } else {
             for (let id of ids) {
                 params.push(...["+workshop_download_item", "387990", id.toString()]);
