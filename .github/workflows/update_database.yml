@@ -26,7 +26,7 @@ jobs:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
           
       - name: Extract the updated databases
-        run: docker cp smms:/home/steam/app/mod/Scripts/data/* ./mod/Scripts/data/
+        run: docker cp smms:/home/steam/app/mod/Scripts/data/ ./mod/Scripts/
         
       - name: Commit updated databases
         run: |
