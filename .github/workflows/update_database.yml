@@ -19,8 +19,19 @@ jobs:
         run: docker build --progress=plain -t scrap-mechanic-mod-scraper .
         
       - name: Run the built image
-        run: docker run --env STEAM_USERNAME --env STEAM_PASSWORD --env STEAM_API_KEY -t scrap-mechanic-mod-scraper
+        run: docker run --env STEAM_USERNAME --env STEAM_PASSWORD --env STEAM_API_KEY -t --name=smms scrap-mechanic-mod-scraper
         env:
           STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
           STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          
+      - name: Extract the updated databases
+        run: docker cp smms:/home/steam/app/mod/Scripts/data/* ./mod/Scripts/data/
+        
+      - name: Commit updated databases
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "generated"
+          git push
