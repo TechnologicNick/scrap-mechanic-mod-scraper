@@ -24,10 +24,11 @@ jobs:
           echo "${{ secrets.STEAM_USERNAME }}" | sudo tee -a /usr/app/.env > /dev/null
           echo "${{ secrets.STEAM_PASSWORD }}" | sudo tee -a /usr/app/.env > /dev/null
           echo "${{ secrets.STEAM_API_KEY  }}" | sudo tee -a /usr/app/.env > /dev/null
+          ls -la /usr/app
         
       - name: Run the built image
         run: docker run -t scrap-mechanic-mod-scraper
     
       # Debugging
-      - run: ls -a
+      - run: ls -la /usr/app
         if: ${{ always() }}
