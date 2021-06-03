@@ -18,16 +18,8 @@ jobs:
       - name: Build docker image
         run: docker build -t scrap-mechanic-mod-scraper .
         
-      - name: Save secrets to /usr/app/.env
-        run: |
-          sudo mkdir /usr/app
-          echo "${{ secrets.STEAM_USERNAME }}" | sudo tee -a /usr/app/.env > /dev/null
-          echo "${{ secrets.STEAM_PASSWORD }}" | sudo tee -a /usr/app/.env > /dev/null
-          echo "${{ secrets.STEAM_API_KEY  }}" | sudo tee -a /usr/app/.env > /dev/null
-          ls -la /usr/app
-        
       - name: Run the built image
-        run: docker run -t scrap-mechanic-mod-scraper
+        run: docker run -t scrap-mechanic-mod-scraper -e STEAM_USERNAME=${{ secrets.STEAM_USERNAME }} -e STEAM_PASSWORD=${{ secrets.STEAM_PASSWORD }} -e STEAM_API_KEY=${{ secrets.STEAM_API_KEY }}
     
       # Debugging
       - run: ls -la /usr/app
