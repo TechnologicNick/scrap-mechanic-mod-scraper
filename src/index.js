@@ -156,9 +156,10 @@ function downloadWorkshopItems(ids, makeScript = false) {
     let scraper = new Scraper("./mod/Scripts/data", "/home/steam/Steam/steamapps/workshop/content/387990");
     await scraper.scrapeDescriptions();
     await scraper.scrapeShapesets();
-    let changelog = scrapper.createChangelog(details);
+    let changelog = scraper.createChangelog(details);
 
-    console.log(scraper.changes);
+    console.log(changelog);
+    await fs.promises.writeFile("../changelog.json", JSON.stringify(changelog));
 
     console.log("Done");
 })();

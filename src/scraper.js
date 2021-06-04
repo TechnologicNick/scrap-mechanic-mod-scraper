@@ -148,43 +148,52 @@ module.exports = class Scraper {
 
         // Added mods
         if (obj.added.length > 0) {
-            messageMD += `Added mods (${obj.added.length}):\n`;
+            obj.messageMD += `## Added mods (${obj.added.length})\n`;
 
-            messageBB += `Added mods (${obj.added.length}):\n`;
-            messageBB += `[list]\n`;
+            obj.messageBB += `[h2]Added mods (${obj.added.length})[/h2]\n`;
+            obj.messageBB += `[list]\n`;
 
             for (let id of obj.added) {
                 let name = this.dbDescriptions.data[this.idToUuid[id]].name
                 let url = `https://steamcommunity.com/sharedfiles/filedetails/?id=${ id }`;
 
-                messageMD += `* ${ name } ([workshop](${url}))`
-                messageBB += `[*] ${ name } ([url=${ url }]workshop[/url])`
+                obj.messageMD += `* ${ name } ([workshop](${url}))\n`
+                obj.messageBB += `[*] ${ name } ([url=${ url }]workshop[/url])\n`
             }
 
-            messageBB += `[/list]`;
+            obj.messageBB += `[/list]\n`;
         }
 
         // Add spacer between Added mods and Updated mods
         if (obj.added.length > 0 && obj.updated.length > 0) {
-            messageMD += `\n\n`;
-            messageBB += `\n\n`;
+            obj.messageMD += `\n`;
+            obj.messageBB += `\n`;
         }
 
         // Updated mods
         if (obj.updated.length > 0) {
-            messageMD += `Updated mods (${obj.updated.length}):\n`;
+            obj.messageMD += `## Updated mods (${obj.updated.length})\n`;
             
-            messageBB += `Updated mods (${obj.updated.length}):\n`;
-            messageBB += `[list]\n`;
+            obj.messageBB += `[h2]Updated mods (${obj.updated.length})[/h2]\n`;
+            obj.messageBB += `[list]\n`;
 
             for (let id of obj.updated) {
                 let name = this.dbDescriptions.data[this.idToUuid[id]].name
                 let time_updated = details.find(det => det.publishedfileid === id).time_updated;
                 let url = `https://steamcommunity.com/sharedfiles/filedetails/changelog/${ id }#${ time_updated || "" }`;
 
-                messageMD += `* ${ name } ([changelog](${ url }))`;
-                messageBB += `[*] ${ name } ([url=${ url }]changelog[/url])`
+                obj.messageMD += `* ${ name } ([changelog](${ url }))\n`;
+                obj.messageBB += `[*] ${ name } ([url=${ url }]changelog[/url])\n`
             }
+
+            obj.messageBB += `[/list]\n`;
+        }
+
+        obj.messageMD = obj.messageMD.trim();
+        obj.messageBB = obj.messageBB.trim();
+
+        if (obj.changeCount === 0) {
+            obj.messageMD = obj.messageBB = "No changes found";
         }
 
         return obj;

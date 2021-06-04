@@ -1,3 +1,4 @@
 *.env
+changelog.json
 
 node_modules
