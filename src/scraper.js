@@ -6,7 +6,7 @@ const JSONbig = require("json-bigint")({ storeAsString: true });
 
 module.exports = class Scraper {
     idToUuid = {};
-    changelog = {
+    changes = {
         added: new Set(),
         updated: new Set()
     }
@@ -49,7 +49,7 @@ module.exports = class Scraper {
                     if (JSONbig.stringify(this.dbDescriptions.data[desc.localId]) !== JSONbig.stringify(desc)) {
                         console.log(`[${id}] Updated description`);
 
-                        this.changelog.updated.add(id);
+                        this.changes.updated.add(id);
                     } else {
                         console.log(`[${id}] Did not update description`);
                     }
@@ -57,7 +57,7 @@ module.exports = class Scraper {
                 } else {
                     console.log(`[${id}] Added description`);
 
-                    this.changelog.added.add(id); 
+                    this.changes.added.add(id); 
                 }
 
                 this.dbDescriptions.data[desc.localId] = desc;
@@ -116,7 +116,7 @@ module.exports = class Scraper {
                     if (JSONbig.stringify(this.dbShapesets.data[this.idToUuid[id]]) !== JSONbig.stringify(shapesetFiles)) {
                         console.log(`[${id}] Updated shapesets`);
 
-                        this.changelog.updated.add(id);
+                        this.changes.updated.add(id);
                     } else {
                         console.log(`[${id}] Did not update shapesets`);
                     }
@@ -124,7 +124,7 @@ module.exports = class Scraper {
                 } else {
                     console.log(`[${id}] Added shapesets`);
 
-                    this.changelog.added.add(id); 
+                    this.changes.added.add(id); 
                 }
 
                 this.dbShapesets.data[this.idToUuid[id]] = shapesetFiles;
@@ -135,5 +135,58 @@ module.exports = class Scraper {
         }
 
         await this.dbShapesets.save();
+    }
+
+    createChangelog(details) {
+        let obj = {
+            added: Array.from(this.changes.added),
+            updated: Array.from(this.changes.updated),
+            changeCount: this.changes.added.size + this.changes.updated.size,
+            messageMD: "",
+            messageBB: ""
+        }
+
+        // Added mods
+        if (obj.added.length > 0) {
+            messageMD += `Added mods (${obj.added.length}):\n`;
+
+            messageBB += `Added mods (${obj.added.length}):\n`;
+            messageBB += `[list]\n`;
+
+            for (let id of obj.added) {
+                let name = this.dbDescriptions.data[this.idToUuid[id]].name
+                let url = `https://steamcommunity.com/sharedfiles/filedetails/?id=${ id }`;
+
+                messageMD += `* ${ name } ([workshop](${url}))`
+                messageBB += `[*] ${ name } ([url=${ url }]workshop[/url])`
+            }
+
+            messageBB += `[/list]`;
+        }
+
+        // Add spacer between Added mods and Updated mods
+        if (obj.added.length > 0 && obj.updated.length > 0) {
+            messageMD += `\n\n`;
+            messageBB += `\n\n`;
+        }
+
+        // Updated mods
+        if (obj.updated.length > 0) {
+            messageMD += `Updated mods (${obj.updated.length}):\n`;
+            
+            messageBB += `Updated mods (${obj.updated.length}):\n`;
+            messageBB += `[list]\n`;
+
+            for (let id of obj.updated) {
+                let name = this.dbDescriptions.data[this.idToUuid[id]].name
+                let time_updated = details.find(det => det.publishedfileid === id).time_updated;
+                let url = `https://steamcommunity.com/sharedfiles/filedetails/changelog/${ id }#${ time_updated || "" }`;
+
+                messageMD += `* ${ name } ([changelog](${ url }))`;
+                messageBB += `[*] ${ name } ([url=${ url }]changelog[/url])`
+            }
+        }
+
+        return obj;
     }
 }
