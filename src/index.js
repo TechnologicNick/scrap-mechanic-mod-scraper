@@ -148,7 +148,7 @@ function downloadWorkshopItems(ids, makeScript = false) {
 (async () => {
     const request = await getPublishedFileDetails(await queryAllFiles());
 
-    let lastUpdated = 1619827200 // May 1st, 2021, 00:00 GMT
+    let lastUpdated = 1622566879 // Tuesday 1 June 2021 17:01:19
     let details = request.publishedfiledetails.filter(item => item.time_created > lastUpdated || item.time_updated > lastUpdated)
 
     let exitCode = await downloadWorkshopItems(details.map(item => item.publishedfileid), true);
@@ -156,6 +156,8 @@ function downloadWorkshopItems(ids, makeScript = false) {
     let scraper = new Scraper("./mod/Scripts/data", "/home/steam/Steam/steamapps/workshop/content/387990");
     await scraper.scrapeDescriptions();
     await scraper.scrapeShapesets();
+
+    console.log(scraper.changelog);
 
     console.log("Done");
 })();

@@ -6,6 +6,10 @@ const JSONbig = require("json-bigint")({ storeAsString: true });
 
 module.exports = class Scraper {
     idToUuid = {};
+    changelog = {
+        added: new Set(),
+        updated: new Set()
+    }
     
     constructor(outDir, sourceDir) {
         this.outDir = outDir;
@@ -36,6 +40,25 @@ module.exports = class Scraper {
                 );
 
                 this.idToUuid[id] = desc.localId;
+
+                // Changelog
+                // Check if mod already has an entry
+                if (this.dbDescriptions.data[desc.localId]) {
+
+                    // Check if the description changed
+                    if (JSONbig.stringify(this.dbDescriptions.data[desc.localId]) !== JSONbig.stringify(desc)) {
+                        console.log(`[${id}] Updated description`);
+
+                        this.changelog.updated.add(id);
+                    } else {
+                        console.log(`[${id}] Did not update description`);
+                    }
+
+                } else {
+                    console.log(`[${id}] Added description`);
+
+                    this.changelog.added.add(id); 
+                }
 
                 this.dbDescriptions.data[desc.localId] = desc;
 
@@ -84,6 +107,25 @@ module.exports = class Scraper {
                     console.warn(`ShapeSets directory not found for ${id}`);
                 }
 
+
+                // Changelog
+                // Check if mod already has an entry
+                if (this.dbShapesets.data[this.idToUuid[id]]) {
+
+                    // Check if the shapesets changed
+                    if (JSONbig.stringify(this.dbShapesets.data[this.idToUuid[id]]) !== JSONbig.stringify(shapesetFiles)) {
+                        console.log(`[${id}] Updated shapesets`);
+
+                        this.changelog.updated.add(id);
+                    } else {
+                        console.log(`[${id}] Did not update shapesets`);
+                    }
+
+                } else {
+                    console.log(`[${id}] Added shapesets`);
+
+                    this.changelog.added.add(id); 
+                }
 
                 this.dbShapesets.data[this.idToUuid[id]] = shapesetFiles;
 
