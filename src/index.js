@@ -198,7 +198,7 @@ async function updateMod(appid, publishedfileid, contentfolder, changenote) {
     let changelog = scraper.createChangelog(details);
 
     console.log(changelog);
-    await fs.promises.writeFile("../changelog.json", JSON.stringify(changelog));
+    await fs.promises.writeFile("/home/steam/app/changelog.json", JSON.stringify(changelog));
 
     if (changelog.changeCount > 0) {
         console.log("Changes found, updating workshop mod...");
