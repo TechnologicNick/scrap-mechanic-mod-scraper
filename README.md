@@ -4,6 +4,7 @@
 Scrapes the Steam Workshop for Scrap Mechanic mods and stores useful information. This information is stored in both the [repo](https://github.com/TechnologicNick/scrap-mechanic-mod-scraper/tree/master/mod/Scripts/data) and [workshop mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2504530003).
 
 ## Usage
+[Example mod](https://github.com/TechnologicNick/scrap-mechanic-mod-scraper/tree/master/mod_test)
 
 ### Dependency
 To use the mod database in your own mod you need to add it to your dependencies. This can be done in the `description.json` of your mod.
