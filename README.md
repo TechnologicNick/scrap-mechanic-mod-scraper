@@ -68,6 +68,63 @@ function ModDatabaseTest.doDatabaseStuff( self )
 end
 ```
 
+## Database formats
+Loading a database stores all entries into a dictionary with the `localId` of a mod as key.
+
+> **Note:** Due to `sm.json.open` crashing when it tries to load a 64 bit integer, all integers that require more than 64 bits are stored as strings. If your mod contains such an integer, you have to convert it back yourself.
+
+### Descriptions
+`ModDatabase.databases.descriptions[localId]` returns the `description.json` of a mod as a table.
+```jsonc
+{
+    "dea81b36-44e2-4839-886d-d3dededb3fc6": {
+        "creatorId": "76561197982032350",
+        "description": "Four new hot wheels for your ride!",
+        "fileId": 871146046,
+        "localId": "dea81b36-44e2-4839-886d-d3dededb3fc6",
+        "name": "Crazy Wheel Pack",
+        "type": "Blocks and Parts"
+    },
+    "40938326-3d32-4d54-aaaf-92e6a359427e": {
+        "creatorId": "76561197979016514",
+        "description": "",
+        "fileId": 873609632,
+        "localId": "40938326-3d32-4d54-aaaf-92e6a359427e",
+        "name": "Buttons And Switches Pack",
+        "type": "Blocks and Parts"
+    },
+    /* ... */
+}
+```
+
+### Shapesets
+`ModDatabase.databases.shapesets[localId]` returns a dictionary with a shapesets file as key and an array of blocks and parts it contains as value. To gain addictional information about a shape you can use `sm.json.open(shapeset)` to load the shapeset json straight from the mod.
+```jsonc
+{
+    "dea81b36-44e2-4839-886d-d3dededb3fc6": { /* Crazy Wheel Pack */
+        "$CONTENT_dea81b36-44e2-4839-886d-d3dededb3fc6/Objects/Database/ShapeSets/wheels.json": [
+            "79ae85fe-e5b3-4a48-bd3a-97e2f8fd8d08",
+            "f891a495-356e-4378-8b09-cad11c2887c1",
+            "f055374c-6a32-429b-abd8-4e04cf139572",
+            "f8d325a0-5fac-47f8-b6f8-bfe3f60c811d"
+        ]
+    },
+    "40938326-3d32-4d54-aaaf-92e6a359427e": { /* Buttons And Switches Pack */
+        "$CONTENT_40938326-3d32-4d54-aaaf-92e6a359427e/Objects/Database/ShapeSets/Buttons_and_switches.json": [
+            "753d71cb-03d2-4be9-a54e-2e7f825ff694",
+            "1f62da56-e77a-4301-91e6-fbf8abb56de9",
+            "39962ff2-e50d-4bba-8d82-32fbfeb69053",
+            "96f21deb-908f-4804-9be2-ed0c533e2541",
+            "5518577c-3418-445a-969d-22680e3f14f7",
+            "c3aa933b-5798-4cfc-975b-d9632137ff44",
+            "e669d8b6-31c2-4ea2-a023-7587d81c82c6",
+            "54cd1a35-a9a3-407f-bf7e-82f307740ad6"
+        ]
+    },
+    /* ... */
+}
+```
+
 ## Testing
 There's a test mod included in this repo. It is recommended to create a symbolic link from `./mod_test` to your mods folder.
 
