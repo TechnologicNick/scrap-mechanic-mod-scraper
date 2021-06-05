@@ -1,0 +1,25 @@
+name: Update workshop mod
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update:
+    name: Update workshop mod
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Upload to Steam Workshop
+      - name: Upload to Steam Workshop
+        uses: arma-actions/workshop-upload@v1
+        with:
+          appId: "387990"
+          itemId: "2504530003" # Id of item to update
+          contentPath: "mod"
+          changelog: ""
+        env:
+          STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
+          STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
