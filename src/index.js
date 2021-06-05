@@ -102,6 +102,8 @@ async function getPublishedFileDetails(ids) {
 }
 
 function downloadWorkshopItems(ids, makeScript = false) {
+    console.log("Downloading ids", ids.join(", "));
+
     return new Promise(async (resolve, reject) => {
         let params = [
             "+login", process.env.STEAM_USERNAME, process.env.STEAM_PASSWORD
