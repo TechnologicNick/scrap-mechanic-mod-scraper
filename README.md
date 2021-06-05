@@ -67,3 +67,26 @@ function ModDatabaseTest.doDatabaseStuff( self )
 
 end
 ```
+
+## Testing
+There's a test mod included in this repo. It is recommended to create a symbolic link from `./mod_test` to your mods folder.
+
+Place the part and press the interact button. The output should look something like the following:
+```
+Loaded mods (1)
+  WASD Converter
+Installed mods (13)
+  The Modpack Continuation
+  WASD Converter
+  The Mirror Mod
+  MJM SciFi Mod
+  Extremely Long Piston!
+  Drivable Bathtub
+  Camera Controls
+  Electromagnets
+  Wings
+  Scrap Guard
+  Engineer's Toolbox
+  Player Emotes
+  Buttons And Switches Pack
+```
