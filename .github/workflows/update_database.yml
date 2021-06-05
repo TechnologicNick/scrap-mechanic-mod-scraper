@@ -25,13 +25,21 @@ jobs:
           STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
           
-      - name: Extract the updated databases
-        run: docker cp smms:/home/steam/app/mod/Scripts/data/ ./mod/Scripts/
+      - id: extract
+        name: Extract the updated databases and changelog
+        run: |
+          docker cp smms:/home/steam/app/mod/Scripts/data/ ./mod/Scripts/
+          docker cp smms:/home/steam/app/changelog.json ./changelog.json
+          
+          changelog=`cat ./changelog.json`
+          echo "::set-output name=changelog::$changelog"
+
         
       - name: Commit updated databases
+        if: ${{ fromJson(steps.extract.outputs.changelog).changeCount > 0 }}
         run: |
           git config user.name "GitHub Actions"
           git config user.email github-actions@github.com
           git add .
-          git commit -m "Update databases"
+          git commit -m "Update databases" -m "${{ fromJson(steps.extract.outputs.changelog).messageMD }}"
           git push
