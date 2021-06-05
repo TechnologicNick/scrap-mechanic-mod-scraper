@@ -185,9 +185,10 @@ async function updateMod(appid, publishedfileid, contentfolder, changenote) {
 }
 
 (async () => {
+    const unixNow = Math.floor(new Date().getTime() / 1000);
     const request = await getPublishedFileDetails(await queryAllFiles());
 
-    let lastUpdated = 1619827200 // May 1st, 2021, 00:00 GMT
+    let lastUpdated = JSON.parse(await fs.promises.readFile("./mod/Scripts/data/last_update.json")).unix_timestamp;
     let details = request.publishedfiledetails.filter(item => item.time_created > lastUpdated || item.time_updated > lastUpdated)
 
     let exitCode = await downloadWorkshopItems(details.map(item => item.publishedfileid), true);
@@ -202,6 +203,14 @@ async function updateMod(appid, publishedfileid, contentfolder, changenote) {
 
     if (changelog.changeCount > 0) {
         console.log("Changes found, updating workshop mod...");
+
+        await fs.promises.writeFile("./mod/Scripts/data/last_update.json", JSON.stringify(
+            {
+                unix_timestamp: unixNow
+            },
+            null, "\t"
+        ));
+
         await updateMod(387990, 2504530003, "/home/steam/app/mod", changelog.messageBB);
     } else {
         console.log("No changes found, leaving workshop mod as it is");
