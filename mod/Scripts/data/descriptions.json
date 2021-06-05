@@ -4458,7 +4458,7 @@
 		"version": 0
 	},
 	"17eaceac-6a1e-45e9-a785-483e09cae2a7": {
-		"description": "This is a mod under development that adds a few different exlosives and bombs.\n\nA super strong shockwave bomb - It will blow out all of the windows and yeet you across the area.\nNEW - A very adaptable clusterbomb - It's an actual clusterbomb!\nA few work in progress parts. (Will be changed or removed during the update.)\n\nWe are currently working on a big update that will add a whole lot of more fun stuff.\nThe update, is currently ongoing, and we're progressively adding more items.\n\nIf you're interested in participating you can give us ideas of different things you want in the mod, which you can type in the comments. If you experience any bugs please tell us!\n\nThanks!\n\nLatest:\n\n- Added Cluster Bomb.\n- Added EMP Bomb.\n- Working on more fun stuff.\n- Working on better textures for Cluster Bomb and EMP Bomb.",
+		"description": "This is a mod under development that adds a few different exlosives and bombs.\n\nA super strong shockwave bomb - It will blow out all of the windows and yeet you across the area.\nA peasant 1x1x1 bomb - It is a small bomb. (Note! It will be removed during the update.)\nA few work in progress parts. (Will be changed or removed during the update.)\n\nWe are currently working on a big update that will add a whole lot of more fun stuff.\nThe update is planned to release sometime in 2021, and will contain new explosives with special abilities,\nsuch as a bomb splitting upin to multiple smaller bombs and a stun-bomb.\n\nIf you're interested in participating you can give us ideas of different things you want in the mod, which you can type in the comments.\n\nThanks!\n\nLatest:\n\n- Updated bomb textures and UV-mapping.\n- Added a normal map to bomb.\n- Fine tuned ASG textures.\n- Updated shockwave textures and UV-mapping.",
 		"fileId": 1968225174,
 		"localId": "17eaceac-6a1e-45e9-a785-483e09cae2a7",
 		"name": "Bombs",
@@ -6705,10 +6705,11 @@
 		"version": 0
 	},
 	"95049b88-3b9a-47f4-94b0-78d71a72e58d": {
-		"description": "there are differnt mods that you need to put in the original game folder each of the mods has a description\r\n   you need to replace some folders with the mod folders. if your done then start the game and have fun with the very messed up versions of scrap mechanic.      more mods are coming soon",
-		"fileId": 2483274777,
+		"creatorId": "76561198321855988",
+		"description": "Some blocks",
+		"fileId": 896134384,
 		"localId": "95049b88-3b9a-47f4-94b0-78d71a72e58d",
-		"name": "MESSED UP",
+		"name": "Example",
 		"type": "Blocks and Parts"
 	},
 	"09f74041-e424-4199-b687-13beb15e742c": {
@@ -7135,7 +7136,7 @@
 		"version": 0
 	},
 	"0f723028-a689-437c-9354-633faa0e6039": {
-		"description": "A CPU(6502) in Scrap Mechanic! (and some other stuff)\n\n*Multiplayer not tested\n*Warning: Do not use it underwater\n\n[h1]Parts[/h1]\n[list]\n[*]Hub\n[*]CPU\n[*]IO\n[*]Basic Screen 32x32(Not working)\n[*]Basic Screen 32x16(Not working)\n[/list]",
+		"description": "A CPU(6502) in Scrap Mechanic!",
 		"fileId": 2366905096,
 		"localId": "0f723028-a689-437c-9354-633faa0e6039",
 		"name": "Scrap CPU",
@@ -7750,7 +7751,7 @@
 		"version": 0
 	},
 	"7812d39b-b013-4cd2-bec5-4cada26eb2cb": {
-		"description": "\nUpdate v1.1\n-Added 6 piston calipers\n-Added Drilled textured rotors for all sets of calipers and rotors\n\nThis Mod Aims to add realistic looking brakes for cars in scrap mechanic.\nCurrently I have added Calipers with 0, 1, 2, 4, and 6 pistons. I plan to add more as well as make them more realistic looking.",
+		"description": "This Mod Aims to add realistic looking brakes for cars in scrap mechanic.\nCurrently I have added Calipers with 0, 1, 2, and 4 pistons. I plan to add more as well as make them more realistic looking.",
 		"fileId": 2463596992,
 		"localId": "7812d39b-b013-4cd2-bec5-4cada26eb2cb",
 		"name": "Car Brakes",
@@ -9097,10 +9098,10 @@
 		"type": "Blocks and Parts"
 	},
 	"5f4e3f9f-d25e-46f4-86b5-d93809470fb9": {
-		"description": "Feel free to learn from, remix, or copy any of my mod parts. \nJust want to use the parts? Subscribe!\nLearning to script but can't model? Feel free to use one!\nWant to make your own model but not rewrite the functionality of one of my parts? Use the script!\nDon't know how to mod but want to copy paste just the parts you want into your own special blend? Go for it!\nJust looking for how I did something? Feel free to poke around, but I've been learning LUA and the Scrap Mechanic API as I go, so my solutions may not be the best solutions.\n",
+		"description": "Recent Updates:\n-Fix some bugs with seats/logic.\n-Fix old code in lasers/missiles so they detect players/seats correctly.\n-New \"Seat ReExiter Teleporter\" part. Connect a seat to it and you will teleport to its location upon esit. I made it to avoid getting stuck in the roof in small vehicles, but it's basically a teleporter.\n-Seat Logic reader new modes: left/right mouse click, scroll up/down, and space (space doesn't exit seat when being detected as logic). \n-Seat Logic reader now has GUI for selecting modes.\n-Seats have survival seat bearing control. Also space bar is disabled form jumping out of seat.\n-Tank Engine/Tracks work with survival seats.\n\nTODO - up next:\n-Rework the \"Gravity Core\" and \"Inertia Drive\" scripts and add them back in.\n-Add GUI to things with speed/thrust/etc so they are easier to use.\n",
 		"fileId": 905650948,
 		"localId": "5f4e3f9f-d25e-46f4-86b5-d93809470fb9",
-		"name": "MJM Mod",
+		"name": "MJM SciFi Mod",
 		"type": "Blocks and Parts",
 		"version": 0
 	},
@@ -9927,148 +9928,6 @@
 		"fileId": 2365223488,
 		"localId": "ff49af90-e036-4962-bffe-b2bc677b87eb",
 		"name": "NewBlocksMod",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"705fdcda-506f-42c3-920a-6301bb950e9f": {
-		"description": "Vadam's Creative Tweaks contains :\n- ALL survival parts\n- Tapeguns, Pesticide Gun, Glow Gun.\n- Running Encryptor, Protector\n\nFor the next updates :\n- Memory Gate\n- All bots parts with (with their heads making noise)\n- Running cookbot\n\nLike the mods?\nDon't forget to leave a thumbs up ! ;D\n\nLanguage Support:\n- English: Default\n- French: Maybe Later...",
-		"fileId": 2468268139,
-		"localId": "705fdcda-506f-42c3-920a-6301bb950e9f",
-		"name": "Vadam's Creative Tweaks",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"add3950a-ec50-4607-aaa9-8305144c4c41": {
-		"description": "Yet another World Cleaner mod!\n\nThis Is an extended version of World Cleaner³ by huetobi which itself is copied from World Cleaner ² by Lagerhaus 23 which was copied from Bombs. A Lot Of Bombs. by TheMineTrooper.\n\nI added the green World Cleaner which removes every part that is NOT loose.\n\nRed: Deletes everything.\n\nBlue: Deletes only the block types present in the creation it is attached to.\n\nYellow: Deletes everything that isn't attached to the floor or lift.\n\nGreen: Deletes everything that IS attached somewhere.",
-		"fileId": 2480928118,
-		"localId": "add3950a-ec50-4607-aaa9-8305144c4c41",
-		"name": "World Cleaner ⁴",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"4d9d663d-3216-42b1-9a9a-286ca774ce4d": {
-		"description": "This Mod adds Blocks and Parts that were leaked and found in the game files!\nFor now there are 3 parts and 15 blocks, but more is coming soon!\n\nTo learn more about each block/part, read it's ingame description!\n\nJoin the SMLeaks discord server here:\nhttps://discord.gg/YKSrNW567G\n\nVideo Presentations of the Mod:\nV1.0: SOON!\n\nChangelog:\nV1.0.1:\n-Fixed a bug that caused the description of Concrete Slab v2 to get cut off on lower resolutions (thanks @DANGER for reporting this bug!)\nV1.0.0:\nAdded 15 blocks:\n-Coal Block\n-Concrete Slab Block v2\n-Copper Block\n-Ice Block (in 2 versions: transparent and opaque)\n-Mechanical Block\n-Taped Plaster Block\n-Strong Steel Block\n-Super Strong Steel Block\n-Super Heavy Concrete Block\n-Test01 Block\n-Building01 Block\n-old Insulation Block\n-old Spaceship Block\n-old Indestructible Block\nAdded 3 parts:\n-Grow Light - Round\n-Grow Light - LED Big\n-Grow Light - LED",
-		"fileId": 2481146118,
-		"localId": "4d9d663d-3216-42b1-9a9a-286ca774ce4d",
-		"name": "Leaked Blocks and Parts",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"24e02db7-655b-4f03-bb29-522a10f4ff83": {
-		"description": "This mod doesn't have a description",
-		"fileId": 2484307730,
-		"localId": "24e02db7-655b-4f03-bb29-522a10f4ff83",
-		"name": "Automotive Parts Mod",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"06e58db5-bcff-4632-8ba7-65b2e6aa62b9": {
-		"description": "This mod is an extention module of the programmable processor. It allows to paint on a 96x54 pixel display. Currently it supports uppercase text, drawing and filling ovals and rectagles.\n\nIf you encounter any bugs let me know :)",
-		"fileId": 2484704980,
-		"localId": "06e58db5-bcff-4632-8ba7-65b2e6aa62b9",
-		"name": "Processor Screen Module",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"5d3f25a0-56f4-4096-8aa1-cc0a38dda020": {
-		"description": "Tape Gun - Shoots tape that does 55 damage\nRed Tape Gun - Shoots tape that explodes\nRandom Gun - Shoots random fruits and projectiles\n\n(textures and meshs are from survival)",
-		"fileId": 2484720676,
-		"localId": "5d3f25a0-56f4-4096-8aa1-cc0a38dda020",
-		"name": "Tape Guns",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"db3d2763-0177-4933-82e3-399dbe9d51a5": {
-		"description": "Bubble Epic",
-		"fileId": 2486144298,
-		"localId": "db3d2763-0177-4933-82e3-399dbe9d51a5",
-		"name": "Bubble Epic",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"f42f2312-82fa-4e81-8e0b-000000002012": {
-		"fileId": 2488814107,
-		"localId": "f42f2312-82fa-4e81-8e0b-000000002012",
-		"name": "Scrap Mechanic 2012",
-		"type": "Blocks and Parts"
-	},
-	"c37bb96c-ba39-41ca-a298-719df2de8930": {
-		"description": "Fawx Garments update for 0.5.1.\n\nThanks to Fawx for letting me update his mod, to TechnologicNick for his tutorial : https://www.youtube.com/watch?v=i7xN_lUvV4c\n\nThis mod add 52 new outfits you'll fined them in rare and epic garment boxes. The most beautiful of them are made by Fawx (new 3D model) the others are made mostly by ZabiMa_SK (80%) and the rest by me.\n\n[h1] Installation : [/h1]\n\n1) Go to the mod folder at: SteamLibrary\\steamapps\\workshop\\content\\387990\\2492054706 (a quick way to get here is by right clicking the game in steam and going 'Manage -> Browse Local Files' and then navigating two folders up to steamapps).\n\n2) Open Fawx Garments+Zabvos0.5.1.zip\n\n3) Extract the 3 files (Cache, Data, Survival) in : SteamLibrary\\steamapps\\common\\Scrap Mechanic\n(can also be reached by right clicking the game in steam and going 'Manage -> Browse Local Files').\n\n\n[h1] Frequently Asked Questions : [/h1]\n\n1) Can I play in multiplayer with people who did not install this mod ? \n\nNo. Like most mods, your friends will need to have matching mods in order to play together. \\nBut have no fear! If you uninstall this mod and then re-install it again in the future, all of the garments you unlocked previously will remain unlocked for you.\n\n2) How do I uninstall this mod? Or any mod ? \n\nThe cleanest way to uninstall ALL your mods is to use the \\\"verify integrity\\\" feature in steam, found in the Scrap Mechanic properties in your Steam Library.\"\n\n3) Why aren't Bovine Billy (baby woc backpack) and Back0t Craftp4ck (Bot backpack) animated ? \n\nI didn't manage to make the animations works on 0.5.1, i don't have the knowledge to do it.",
-		"fileId": 2492054706,
-		"localId": "c37bb96c-ba39-41ca-a298-719df2de8930",
-		"name": "Fawx Garments 0.5.1",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"60aae9eb-e6ff-4bdf-851a-832eea59013b": {
-		"description": "Adds a low friction and high friction block to the game",
-		"fileId": 2493959696,
-		"localId": "60aae9eb-e6ff-4bdf-851a-832eea59013b",
-		"name": "Friction Blocks",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"98183968-ab91-47ab-862a-9aae48779123": {
-		"description": "This mod is a pile of crap and concepts there is nothing in it that is finished (just some things i worked on recently) :)\n1) water gun (some people might know what this was intended for ;) )\n2) push pull tool (to move object without a hammer)\n3) hook tool (to pull your self to a certain position)\n4) a light to carry around to see in the dark (left click to activate)\n5) an automatic rifle with a light (press r to activate)\n\nHow to use?\nPlace the one and only block in the mod down.\nPress E to install (or U to uninstall)\nRestart the game and you should have all the tools :)\nThis mod modifies the toolsets.json file from the creative gamefiles.\nI have done my best to make it compatable with other mods changing that file :)\nIf you have questions or suggestions let me know in the comments!",
-		"fileId": 2495938144,
-		"localId": "98183968-ab91-47ab-862a-9aae48779123",
-		"name": "Custom Tool Concepts / Prototypes",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"99a01c3b-c9b7-458a-8db5-95514c7abf40": {
-		"description": "This mod doesn't have a description",
-		"fileId": 2497206180,
-		"localId": "99a01c3b-c9b7-458a-8db5-95514c7abf40",
-		"name": "ChallangeMod",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"0d286e92-3c66-4dd4-b3a6-66b9db156498": {
-		"description": "This Mod adds Vanilla Buttons with Numbers 0-9, Letters A-Z and some special characters on them.",
-		"fileId": 2498098616,
-		"localId": "0d286e92-3c66-4dd4-b3a6-66b9db156498",
-		"name": "More Buttons",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"3dc739a7-0e2b-484f-92d3-9be969fdb510": {
-		"description": "DK Modpack!!!",
-		"fileId": 2499711884,
-		"localId": "3dc739a7-0e2b-484f-92d3-9be969fdb510",
-		"name": "DK Modpack",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"b7d226b7-6ff8-4d0e-993a-7b484c4da196": {
-		"description": "Make it rain!",
-		"fileId": 2501753636,
-		"localId": "b7d226b7-6ff8-4d0e-993a-7b484c4da196",
-		"name": "Rain Mod for Survival!",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"61cf49c5-1147-474a-a079-06da0344453c": {
-		"description": "Library for use inside of other mods, adds no parts.\n\nModders, there is currently no documentation available, although poking through the code should be sufficient",
-		"fileId": 2501944279,
-		"localId": "61cf49c5-1147-474a-a079-06da0344453c",
-		"name": "qLib",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"439e18b3-5a8e-420e-bdd6-b739cc039a12": {
-		"description": "Hunt your friends!",
-		"fileId": 2502291706,
-		"localId": "439e18b3-5a8e-420e-bdd6-b739cc039a12",
-		"name": "Manhunt Mod! - (Speedrunner VS Hunter)",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"ca183bae-f063-4899-a57e-3d6dc642f551": {
-		"description": "This mod is an addon to the basic blocks in the game but gives more styles and weights to make your builds look and feel interesting and different!",
-		"fileId": 2505464595,
-		"localId": "ca183bae-f063-4899-a57e-3d6dc642f551",
-		"name": "Extended Blocks",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
