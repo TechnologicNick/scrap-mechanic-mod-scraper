@@ -145,6 +145,45 @@ function downloadWorkshopItems(ids, makeScript = false) {
     });
 }
 
+async function updateMod(appid, publishedfileid, contentfolder, changenote) {
+    let vdf = "/home/steam/app/upload_workshop.vdf";
+
+    await fs.promises.writeFile(vdf, `"workshopitem"
+{
+    "appid"            "${appid}"
+    "publishedfileid"  "${publishedfileid}"
+    "contentfolder"    "${contentfolder}"
+    "changenote"       "${changenote}"
+}`);
+
+    return await new Promise(async (resolve, reject) => {
+        let params = [
+            "+login", process.env.STEAM_USERNAME, process.env.STEAM_PASSWORD,
+            "+workshop_build_item", vdf,
+            "+quit"
+        ];
+
+        console.log("Params:", params);
+
+
+
+        let ls = cp.spawn("/home/steam/steamcmd/steamcmd.sh", params);
+    
+        ls.stdout.on("data", function (data) {
+            console.log("stdout: " + data.toString());
+        });
+    
+        ls.stderr.on("data", function (data) {
+            console.log("stderr: " + data.toString());
+        });
+    
+        ls.on("exit", function (code) {
+            console.log("child process exited with code " + code.toString());
+            resolve(code);
+        });
+    });
+}
+
 (async () => {
     const request = await getPublishedFileDetails(await queryAllFiles());
 
@@ -160,6 +199,13 @@ function downloadWorkshopItems(ids, makeScript = false) {
 
     console.log(changelog);
     await fs.promises.writeFile("../changelog.json", JSON.stringify(changelog));
+
+    if (changelog.changeCount > 0) {
+        console.log("Changes found, updating workshop mod...");
+        await updateMod(387990, 2504530003, "/home/steam/app/mod", changelog.messageBB);
+    } else {
+        console.log("No changes found, leaving workshop mod as it is");
+    }
 
     console.log("Done");
 })();
