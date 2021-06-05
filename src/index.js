@@ -192,12 +192,16 @@ async function updateMod(appid, publishedfileid, contentfolder, changenote) {
 
     let lastUpdated = JSON.parse(await fs.promises.readFile("./mod/Scripts/data/last_update.json")).unix_timestamp;
     let details = request.publishedfiledetails.filter(item => item.time_created > lastUpdated || item.time_updated > lastUpdated)
-
-    let exitCode = await downloadWorkshopItems(details.map(item => item.publishedfileid), true);
-
+    
     let scraper = new Scraper("./mod/Scripts/data", "/home/steam/Steam/steamapps/workshop/content/387990");
-    await scraper.scrapeDescriptions();
-    await scraper.scrapeShapesets();
+    
+    if (details.length >= 0) {
+        let exitCode = await downloadWorkshopItems(details.map(item => item.publishedfileid), true);
+        
+        await scraper.scrapeDescriptions();
+        await scraper.scrapeShapesets();
+    }
+
     let changelog = scraper.createChangelog(details);
 
     console.log(changelog);
