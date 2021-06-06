@@ -99,7 +99,7 @@ Loading a database stores all entries into a dictionary with the `localId` of a 
 ```
 
 ### Shapesets
-`ModDatabase.databases.shapesets[localId]` returns a dictionary with a shapesets file as key and an array of blocks and parts it contains as value. To gain addictional information about a shape you can use `sm.json.open(shapeset)` to load the shapeset json straight from the mod.
+`ModDatabase.databases.shapesets[localId]` returns a dictionary with a shapesets file as key and an array of blocks and parts it contains as value. To gain additional information about a shape you can use `sm.json.open(shapeset)` to load the shapeset json straight from the mod.
 ```jsonc
 {
     "dea81b36-44e2-4839-886d-d3dededb3fc6": { /* Crazy Wheel Pack */
