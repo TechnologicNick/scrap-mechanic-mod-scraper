@@ -10071,5 +10071,13 @@
 		"name": "Extended Blocks",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"32741acc-817e-4c9c-98c4-4df050180e07": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2508679084,
+		"localId": "32741acc-817e-4c9c-98c4-4df050180e07",
+		"name": "Smaller Logic",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
