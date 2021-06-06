@@ -6034,7 +6034,7 @@
 		"version": 0
 	},
 	"c1f9e6e9-0970-44f7-b027-4f9eefacfbfb": {
-		"description": "This mod is a simple mini voxel map. It features a simple scan. But no real parameters to change (will follow in a later update). In the description of the part is a simple description what to do. When you leave the block in its default color you will get the hight map coloring. If you change it it will be all in the color you painted it in.\nHave fun!\nNOTE: This is (for now) more a proof of concept! Also depending on your system this might case intensive lag (i set the size to be one where it doesnt reduce the framerate but you never know with scrap mechanic ;) )",
+		"description": "This mod is a simple mini voxel map. It features a simple scan. But no real parameters to change (will follow in a later update). In the description of the part is a simple description what to do. When you leave the block in its default color you will get the hight map coloring. If you change it it will be all in the color you painted it in.\nHave fun!",
 		"fileId": 2134763893,
 		"localId": "c1f9e6e9-0970-44f7-b027-4f9eefacfbfb",
 		"name": "Mini Voxel Map",
@@ -10077,6 +10077,14 @@
 		"fileId": 2508679084,
 		"localId": "32741acc-817e-4c9c-98c4-4df050180e07",
 		"name": "Smaller Logic",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"40639a2c-bb9f-4d4f-b88c-41bfe264ffa8": {
+		"description": "A dependency that includes information about all Blocks and Parts mods.",
+		"fileId": 2504530003,
+		"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
+		"name": "ModDatabase",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
