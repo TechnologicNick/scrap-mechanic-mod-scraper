@@ -25968,11 +25968,11 @@
 			"c60f83c3-3617-4a72-8308-57aa95bd2873"
 		],
 		"$CONTENT_5f4e3f9f-d25e-46f4-86b5-d93809470fb9/Objects/Database/ShapeSets/engines.json": [
-			"f3d96978-887a-4751-b1d2-d1e831c92657",
 			"5f16a5b1-394e-492f-afff-f4c2301b1073",
 			"92c856e6-9a9b-4832-91f0-2c741258b40b",
 			"bb1f9495-a25e-4045-ad0e-da5fefc413f6",
-			"abbe03ef-97cb-4ec6-b915-8f59e50d1ce1"
+			"abbe03ef-97cb-4ec6-b915-8f59e50d1ce1",
+			"f3d96978-887a-4751-b1d2-d1e831c92657"
 		],
 		"$CONTENT_5f4e3f9f-d25e-46f4-86b5-d93809470fb9/Objects/Database/ShapeSets/lights.json": [
 			"a02b65b2-7925-4c9e-8e87-feba352099e9",
@@ -28253,6 +28253,10 @@
 			"bceaabd2-5d46-457a-bdc4-b45bad68ac54",
 			"5986105f-c947-48af-9bd6-ad61085600c1",
 			"385d2d75-2788-48d2-9e50-a8e674c6132e",
+			"0adf7116-270a-4c39-b777-56653e684158",
+			"8ba18234-d2f1-425c-93d0-55ab7884dc76",
+			"d9e175e2-4c10-431f-bf02-2ca8e459cac3",
+			"cb735e98-53f0-4f39-b8b5-f4feaf215b36",
 			"d4906c66-3707-4231-946f-bbb8a1bdcc8a",
 			"50205d30-dd92-4114-be2c-079a06eeb5a9",
 			"4c915ac6-103f-4a89-9dac-d3d35e168b9b",
