@@ -7790,7 +7790,7 @@
 		"version": 0
 	},
 	"4f7e1020-1147-44ca-8f8a-214d825d17df": {
-		"description": "Main File Content:\n-Bigger creative world size\n\nAdd-on:\n-Include survival tiles in creative terrain\n\n---------------------------------------------\n\nInstructions:\n-Goto the mod folder location, located at \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\" (NOT VALID PATH, MUST BE CHANGED!!!)\n\n-Open \"readme.txt\" for more instructions.\n\n---------------------------------------------\n\npotential problems / issues:\n(creative mode isnt made for a large world that this mod supplies. Therefore there are some problems that can show up. Here are the problems that showed up when i was testing.)\n\n-when generating / loading world, Scrap Mechanic freezes:\nWhen this happens, you just have to wait. This problem occurs, because the world is a lot bigger, and it takes longer to generate / load worlds.\n\n-Terrain Assets not loading / invisible:\nWhen this problem occurs, the best fix is to exit the world and rejoin (optional but recommended: lower draw distance).\n\n\n(This mod was only tested on my computer, hope it works for other people / on other computers)",
+		"description": "This mod is made for the creative update 0.5+ (The update that adds water to creative mode)\n\n!!! This mod only works for normal creative terrain worlds (Not for custom / flat creative worlds) !!!\n\n!!! For this mod to work, the game files have to be changed !!!\n\nMain File Content:\n-Bigger creative world size\n\nAdd-on:\n-Adds survival mode tiles to creative mode\n\n---------------------------------------------\n\nInstructions:\n-Goto the mod folder location, located at \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2465505686\"\n\n-Open \"readme.txt\" for more instructions.\n\n\nTo uninstall the mod, go to steam and right click on scrap mechanic on the left. Then click properties... / game files / verify integrity of game files...\n\n---------------------------------------------\n\nPotential problems / issues:\n(creative mode isnt made for a large world that this mod supplies. Therefore there are some problems that can show up. Here are the problems that showed up when i was testing.)\n\n-when generating / loading world, Scrap Mechanic freezes:\nWhen this happens, you just have to wait. This problem occurs, because the world is a lot bigger, and it takes longer to generate / load worlds.\n\n-Terrain Assets not loading / invisible:\nWhen this problem occurs, the best fix is to exit the world and rejoin (optional but recommended: lower draw distance).\n\n\n(This mod was only tested on my computer, hope it works for other people / on other computers)",
 		"fileId": 2465505686,
 		"localId": "4f7e1020-1147-44ca-8f8a-214d825d17df",
 		"name": "Better Creative World Mod",
@@ -10085,6 +10085,14 @@
 		"fileId": 2504530003,
 		"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
 		"name": "ModDatabase",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"5f61ef88-d5da-4a7c-b1aa-af34d68ebce4": {
+		"description": "Pinecone's block mod for usefully statted blocks.",
+		"fileId": 2510655794,
+		"localId": "5f61ef88-d5da-4a7c-b1aa-af34d68ebce4",
+		"name": "Pinecone's Blocks",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
