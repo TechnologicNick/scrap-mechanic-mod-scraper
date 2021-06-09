@@ -10095,5 +10095,13 @@
 		"name": "Pinecone's Blocks",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"80c03d36-3b44-49e1-b890-52b3fc3c6284": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2511115769,
+		"localId": "80c03d36-3b44-49e1-b890-52b3fc3c6284",
+		"name": "Bus seats and fabrics mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
