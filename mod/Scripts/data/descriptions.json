@@ -7135,7 +7135,7 @@
 		"version": 0
 	},
 	"0f723028-a689-437c-9354-633faa0e6039": {
-		"description": "A CPU(6502) in Scrap Mechanic! (and some other stuff)\n\n*Multiplayer not tested\n*Warning: Do not use it underwater\n\n[h1]Parts[/h1]\n[list]\n[*]Hub\n[*]CPU\n[*]IO\n[*]Basic Screen 32x32(Not working)\n[*]Basic Screen 32x16(Not working)\n[/list]",
+		"description": "A CPU(6502) in Scrap Mechanic! (and some other stuff)\n\n*Multiplayer not tested\n*Warning: Do not use underwater\n\n[h1]Parts[/h1]\n[list]\n[*]Hub\n[*]CPU\n[*]IO\n[*]Basic Screen 32x32\n[*]Basic Screen 32x16\n[*]Basic Screen 16x32\n[/list]",
 		"fileId": 2366905096,
 		"localId": "0f723028-a689-437c-9354-633faa0e6039",
 		"name": "Scrap CPU",
