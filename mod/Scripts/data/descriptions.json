@@ -10111,5 +10111,13 @@
 		"name": "smooth gears mod",
 		"type": "Blocks and Parts",
 		"version": 0.4
+	},
+	"11e22661-3732-4af4-a567-f498108b47d4": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2514451338,
+		"localId": "11e22661-3732-4af4-a567-f498108b47d4",
+		"name": "slope compilation",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
