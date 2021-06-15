@@ -10119,5 +10119,22 @@
 		"name": "slope compilation",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"bcfe7907-3c5b-44e2-9e65-edddd54ba922": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2517125095,
+		"localId": "bcfe7907-3c5b-44e2-9e65-edddd54ba922",
+		"name": "test",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"1a19d4ff-8253-4867-ac75-e91833436d4c": {
+		"creatorId": "76561198079416722",
+		"description": "Adding a modified thruster with increased values\\r\\n\\r\\nOBS! to be able to use any Workshop mods you need to be on the Scrap mechanic TEST branch! How to set up the test branch(stage 0 is equal to power of stage 6 on the original)\\r\\nStage 1 1,75x\\r\\nStage 2 3,00x\\r\\nStage 3 5,36x\\r\\nStage 4 9,38x\\r\\nStage 5 16,4x\\r\\nStage ?x",
+		"fileId": 2517153296,
+		"localId": "1a19d4ff-8253-4867-ac75-e91833436d4c",
+		"name": "Powerful Thruster MOD hack version",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
