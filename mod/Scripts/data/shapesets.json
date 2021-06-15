@@ -25972,6 +25972,7 @@
 			"d71474de-c21d-4b2b-a08e-523d714a8817"
 		],
 		"$CONTENT_5f4e3f9f-d25e-46f4-86b5-d93809470fb9/Objects/Database/ShapeSets/electronics.json": [
+			"9d21b8f6-71ba-4484-b725-1a96a9cf25ea",
 			"416acd67-2372-4838-bc3a-1bf7b22f2a32",
 			"b85adaa4-0af0-4c7f-8a13-69af46da2f84",
 			"6f64d36d-5e23-4f6b-bcb5-e0057ba43fce",
@@ -26005,6 +26006,9 @@
 			"6e475401-d02a-4144-a8cb-101f5ca5428f",
 			"71890bff-aacc-4a13-86b9-063ca33245f9",
 			"c994d76c-7d96-4877-b0c8-6a792d2c15c5"
+		],
+		"$CONTENT_5f4e3f9f-d25e-46f4-86b5-d93809470fb9/Objects/Database/ShapeSets/other.json": [
+			"449e32a6-d720-4af0-8423-3246ce9771a2"
 		],
 		"$CONTENT_5f4e3f9f-d25e-46f4-86b5-d93809470fb9/Objects/Database/ShapeSets/pistons.json": [
 			"a829d150-5020-47a8-b2ad-7cbbeeb0d96a",
