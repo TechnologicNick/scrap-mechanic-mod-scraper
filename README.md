@@ -72,7 +72,7 @@ end
 ## Database formats
 Loading a database stores all entries into a dictionary with the `localId` of a mod as key.
 
-> **Note:** Due to `sm.json.open` crashing when it tries to load a 64 bit integer, all integers that require more than 64 bits are stored as strings. If your mod contains such an integer, you have to convert it back yourself.
+> **Note:** Due to `sm.json.open` crashing when it tries to load a 64 bit integer, all integers that require more than 32 bits are stored as strings. If your mod contains such an integer, you have to convert it back yourself.
 
 ### Descriptions
 `ModDatabase.databases.descriptions[localId]` returns the `description.json` of a mod as a table.
