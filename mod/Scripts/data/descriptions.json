@@ -10136,5 +10136,13 @@
 		"name": "Powerful Thruster MOD hack version",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"c24b0dd0-1e16-4e48-87bf-f4b3cca88db1": {
+		"description": "This survival mod aims to lessen the grind of vanilla while also changing how you go about your survival game.\n\nThis pack changes some crafting recipes, changes drops from bots and mobs, adds new trades at the hideout, allows for encryptor destruction and warehouse looting, as well as doubling the daycycle (normal is 24 minutes in 1 day, modded is 48 minutes in 1 day).\n\nThe aim of the pack is a more construction focused game, while having more flexibility to allow the player to decide how they aquire their resources.\n\nPlease let me know if you find anything you might consider a bug and i will look into it.\n\nEnjoy!",
+		"fileId": 2520630943,
+		"localId": "c24b0dd0-1e16-4e48-87bf-f4b3cca88db1",
+		"name": "Vanilla+er",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
