@@ -6705,10 +6705,10 @@
 		"version": 0
 	},
 	"95049b88-3b9a-47f4-94b0-78d71a72e58d": {
-		"description": "there are differnt mods that you need to put in the original game folder each of the mods has a description\r\n   you need to replace some folders with the mod folders. if your done then start the game and have fun with the very messed up versions of scrap mechanic.      more mods are coming soon",
-		"fileId": 2483274777,
+		"description": "Creators: Axolot Games, The Red Builder\nThis mod adds all scrap parts + some parts from Survival to Creative.\nChangelog:\n2.5.1.4 - Added icons for missing blocks\n2.5.1.3 - Fixed the mod again\n2.5.1.2 - Removed the stuff, that dev's added in the test branch, changed bot parts UUID (Fixed mod)\n2.5.1.1 - Fixed the elevator buttons...\n2.5.1.0 - BEACONS, new toilet, added missing bots (Refinery, resource collector), Improved models, small Fixes\n2.5.0.0 - Vacuum pipes, food, taped things, crates... Improved models\n2.0.0.0 -Dressbot, chests, resources and consumables + tons more!\n1.1.1.0 - tapebot's arm now shoots spuds (Thanks to Carrot for suggestion), performance update, tape added\n1.1.0.1 - improved the rotation of robot parts\n1.1.0.0 - added bot parts\n1.0.0.0 - mod is downloadable on steam workshop.\n\n\nAbout suggestions: Dont ask for free clothes - or i will remove your comment. Just keep that in mind the answer will always be NO.",
+		"fileId": 2244983467,
 		"localId": "95049b88-3b9a-47f4-94b0-78d71a72e58d",
-		"name": "MESSED UP",
+		"name": "Survival Parts in Creative",
 		"type": "Blocks and Parts"
 	},
 	"09f74041-e424-4199-b687-13beb15e742c": {
