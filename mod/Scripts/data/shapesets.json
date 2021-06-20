@@ -28860,5 +28860,9 @@
 			"2e96037a-a338-490a-a76f-6b4d820f8e46"
 		]
 	},
-	"c24b0dd0-1e16-4e48-87bf-f4b3cca88db1": {}
+	"c24b0dd0-1e16-4e48-87bf-f4b3cca88db1": {},
+	"38d0ae47-a828-4c2a-a81a-025f76145e86": {
+		"$CONTENT_38d0ae47-a828-4c2a-a81a-025f76145e86/Objects/Database/ShapeSets/blocks.json": [],
+		"$CONTENT_38d0ae47-a828-4c2a-a81a-025f76145e86/Objects/Database/ShapeSets/parts.json": []
+	}
 }

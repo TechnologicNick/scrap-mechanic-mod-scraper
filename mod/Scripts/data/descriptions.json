@@ -10144,5 +10144,13 @@
 		"name": "Vanilla+er",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"38d0ae47-a828-4c2a-a81a-025f76145e86": {
+		"description": "A reupload due to technical issues with my mod tool rip.\n\nVanill+er is an alteration to the original game formula. It changes recipes, drops, trades, and allows destruction of the encryptor for warehouse looting.\n\nThe aim of the pack was to facilitate base building and vehicle optimization.\n\nI hope you enjoy toying around, and please provide feedback.",
+		"fileId": 2521432519,
+		"localId": "38d0ae47-a828-4c2a-a81a-025f76145e86",
+		"name": "Vanill+er",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
