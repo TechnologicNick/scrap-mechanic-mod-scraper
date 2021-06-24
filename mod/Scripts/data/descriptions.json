@@ -10159,7 +10159,7 @@
 		"localId": "eeb4c0a9-4225-4fed-a5ed-215235ec285f",
 		"name": "LETTERS PACK [FOLK MOD]",
 		"type": "Blocks and Parts",
-		"version": 0.5
+		"version": 0
 	},
 	"f5452069-d631-422c-a1dc-2957c935cbaa": {
 		"description": "This mod doesn't have a description",
@@ -10174,6 +10174,22 @@
 		"fileId": 2526066167,
 		"localId": "250f418e-fa2c-4fb0-917a-7678c7e534f7",
 		"name": "Bowling Parts",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"48bcbbd8-7980-436a-bca5-7a1916b2d082": {
+		"description": "\n",
+		"fileId": 1361298855,
+		"localId": "48bcbbd8-7980-436a-bca5-7a1916b2d082",
+		"name": "FOLK MOD",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"959e1b45-6c5f-4f51-92b8-4268bdb76bcf": {
+		"description": "\n",
+		"fileId": 2247108171,
+		"localId": "959e1b45-6c5f-4f51-92b8-4268bdb76bcf",
+		"name": "CAR PARTS ADDON [FOLK MOD]",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
