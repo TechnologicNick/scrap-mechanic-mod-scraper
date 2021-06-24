@@ -154,7 +154,9 @@ module.exports = class Scraper {
             obj.messageBB += `[list]\n`;
 
             for (let id of obj.added) {
-                let name = this.dbDescriptions.data[this.idToUuid[id]]?.name ?? "Error: Failed getting name";
+                let name = this.dbDescriptions.data[this.idToUuid[id]]?.name // from description that just got scraped
+                    ?? details.find(det => det.publishedfileid === id)?.title // from getPublishedFileDetails
+                    ?? "Error: Failed getting name";
                 let url = `https://steamcommunity.com/sharedfiles/filedetails/?id=${ id }`;
 
                 obj.messageMD += `* ${ name } ([workshop](${url}))\n`
@@ -178,8 +180,9 @@ module.exports = class Scraper {
             obj.messageBB += `[list]\n`;
 
             for (let id of obj.updated) {
-                let name = this.dbDescriptions.data[this.idToUuid[id]]?.name
-                    ?? Object.values(this.dbDescriptions.data).find(desc => desc.fileId === id)?.name
+                let name = this.dbDescriptions.data[this.idToUuid[id]]?.name // from description that just got scraped
+                    ?? Object.values(this.dbDescriptions.data).find(desc => desc.fileId === id)?.name // from description in database
+                    ?? details.find(det => det.publishedfileid === id)?.title // from getPublishedFileDetails
                     ?? "Error: Failed getting name";
                 let time_updated = details.find(det => det.publishedfileid === id).time_updated;
                 let url = `https://steamcommunity.com/sharedfiles/filedetails/changelog/${ id }#${ time_updated || "" }`;
