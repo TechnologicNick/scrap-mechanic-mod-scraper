@@ -75,6 +75,13 @@ module.exports = class Scraper {
 
         for (let id of await fs.promises.readdir(this.sourceDir)) {
             try {
+                let localId = this.idToUuid[id] // from description that just got scraped
+                    ?? Object.values(this.dbDescriptions.data).find(desc => desc.fileId === id)?.localId; // from description in database
+                
+                if (!localId) {
+                    console.error(`No localId found for mod with id=${id}`);
+                }
+
                 let shapesets = path.join(this.sourceDir, id, "Objects", "Database", "ShapeSets");
 
                 let shapesetFiles = {}
@@ -96,7 +103,7 @@ module.exports = class Scraper {
                                 shapeUuids.push(shape.uuid);
                             }
     
-                            shapesetFiles[`$CONTENT_${this.idToUuid[id]}/Objects/Database/ShapeSets/${shapesetJson}`] = shapeUuids;
+                            shapesetFiles[`$CONTENT_${localId}/Objects/Database/ShapeSets/${shapesetJson}`] = shapeUuids;
     
     
                         } catch (ex) {
@@ -110,10 +117,10 @@ module.exports = class Scraper {
 
                 // Changelog
                 // Check if mod already has an entry
-                if (this.dbShapesets.data[this.idToUuid[id]]) {
+                if (this.dbShapesets.data[localId]) {
 
                     // Check if the shapesets changed
-                    if (JSONbig.stringify(this.dbShapesets.data[this.idToUuid[id]]) !== JSONbig.stringify(shapesetFiles)) {
+                    if (JSONbig.stringify(this.dbShapesets.data[localId]) !== JSONbig.stringify(shapesetFiles)) {
                         console.log(`[${id}] Updated shapesets`);
 
                         this.changes.updated.add(id);
@@ -127,7 +134,7 @@ module.exports = class Scraper {
                     this.changes.added.add(id); 
                 }
 
-                this.dbShapesets.data[this.idToUuid[id]] = shapesetFiles;
+                this.dbShapesets.data[localId] = shapesetFiles;
 
             } catch (ex) {
                 console.error(`Error reading shapesets of ${id}\n`, ex);
