@@ -217,7 +217,9 @@ async function updateMod(appid, publishedfileid, contentfolder, changenote) {
             null, "\t"
         ));
 
-        await updateMod(387990, 2504530003, "/home/steam/app/mod", changelog.messageBB);
+        if (process.env.DISABLE_UPDATE !== "true") {
+            await updateMod(387990, 2504530003, "/home/steam/app/mod", changelog.messageBB);
+        }
     } else {
         console.log("No changes found, leaving workshop mod as it is");
     }
