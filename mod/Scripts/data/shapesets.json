@@ -29906,5 +29906,11 @@
 			"b57ac77b-8be2-4261-9426-f73a3336e18f"
 		],
 		"$CONTENT_a9cd51d4-0af6-476f-afcf-de4b8964fcb7/Objects/Database/ShapeSets/parts.json": []
+	},
+	"bb932bba-3206-4bc2-8c1c-143010249957": {
+		"$CONTENT_bb932bba-3206-4bc2-8c1c-143010249957/Objects/Database/ShapeSets/blocks.json": [],
+		"$CONTENT_bb932bba-3206-4bc2-8c1c-143010249957/Objects/Database/ShapeSets/parts.json": [
+			"a553bf2f-3a66-404a-b4c6-ce9e7b73f9d4"
+		]
 	}
 }

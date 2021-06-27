@@ -10208,5 +10208,13 @@
 		"name": "Extremely Slippery Block",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"bb932bba-3206-4bc2-8c1c-143010249957": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2529304845,
+		"localId": "bb932bba-3206-4bc2-8c1c-143010249957",
+		"name": "Sky Base Block",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
