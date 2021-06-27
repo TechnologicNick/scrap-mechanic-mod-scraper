@@ -10192,5 +10192,21 @@
 		"name": "CAR PARTS ADDON [FOLK MOD]",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"8de89fe8-a4a9-45ef-9603-d826ea3c236d": {
+		"description": "\ufffdTo learn to see- to accustom the eye to calmness, to patience, and to allow things to come up to it; to defer judgment, and to acquire the habit of approaching and grasping an individual case from all sides. This is the first preparatory schooling of intellectuality. One must not respond immediately to a stimulus; one must acquire a command of the obstructing and isolating instincts.\ufffd - Friedrich Nietzsche, Twilight of the Idols",
+		"fileId": 2507968219,
+		"localId": "8de89fe8-a4a9-45ef-9603-d826ea3c236d",
+		"name": "Screen Mod - Scrap Mechanic INSIDE Scrap Mechanic!",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"a9cd51d4-0af6-476f-afcf-de4b8964fcb7": {
+		"description": "A simple mods with a very slippy block.",
+		"fileId": 2528497435,
+		"localId": "a9cd51d4-0af6-476f-afcf-de4b8964fcb7",
+		"name": "Extremely Slippery Block",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
