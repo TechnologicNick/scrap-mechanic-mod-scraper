@@ -20584,7 +20584,6 @@
 		]
 	},
 	"58d7c566-3600-42db-8ac3-8c1fcf540c02": {
-		"$CONTENT_58d7c566-3600-42db-8ac3-8c1fcf540c02/Objects/Database/ShapeSets/blocks.json": [],
 		"$CONTENT_58d7c566-3600-42db-8ac3-8c1fcf540c02/Objects/Database/ShapeSets/parts.json": [
 			"c9a3e0ca-89fd-4cb0-b324-4e06334495d5",
 			"1f2e555e-ae4e-44ca-944d-822b00aa268d"
@@ -29911,6 +29910,12 @@
 		"$CONTENT_bb932bba-3206-4bc2-8c1c-143010249957/Objects/Database/ShapeSets/blocks.json": [],
 		"$CONTENT_bb932bba-3206-4bc2-8c1c-143010249957/Objects/Database/ShapeSets/parts.json": [
 			"a553bf2f-3a66-404a-b4c6-ce9e7b73f9d4"
+		]
+	},
+	"4390bfe2-ae3e-4838-8049-ba3c80bff803": {
+		"$CONTENT_4390bfe2-ae3e-4838-8049-ba3c80bff803/Objects/Database/ShapeSets/blocks.json": [],
+		"$CONTENT_4390bfe2-ae3e-4838-8049-ba3c80bff803/Objects/Database/ShapeSets/parts.json": [
+			"2db06d7f-68ae-41ad-9b28-87f31e1ad3c3"
 		]
 	}
 }
