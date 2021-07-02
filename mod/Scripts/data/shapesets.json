@@ -29915,7 +29915,8 @@
 	"4390bfe2-ae3e-4838-8049-ba3c80bff803": {
 		"$CONTENT_4390bfe2-ae3e-4838-8049-ba3c80bff803/Objects/Database/ShapeSets/blocks.json": [],
 		"$CONTENT_4390bfe2-ae3e-4838-8049-ba3c80bff803/Objects/Database/ShapeSets/parts.json": [
-			"2db06d7f-68ae-41ad-9b28-87f31e1ad3c3"
+			"2db06d7f-68ae-41ad-9b28-87f31e1ad3c3",
+			"115ef2d4-9e87-40a3-81f6-693855d2a755"
 		]
 	}
 }
