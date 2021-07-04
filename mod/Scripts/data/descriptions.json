@@ -10224,5 +10224,13 @@
 		"name": "donut",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"628ca0b8-4d79-4b9f-a18d-da41e3d9f10c": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2535984326,
+		"localId": "628ca0b8-4d79-4b9f-a18d-da41e3d9f10c",
+		"name": "bangbang",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
