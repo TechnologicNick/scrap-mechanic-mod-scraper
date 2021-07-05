@@ -10229,7 +10229,15 @@
 		"description": "This mod doesn't have a description",
 		"fileId": 2535984326,
 		"localId": "628ca0b8-4d79-4b9f-a18d-da41e3d9f10c",
-		"name": "bangbang",
+		"name": "Comfortable Configuration",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"56465da4-e331-49db-beaf-6fe9b85785f1": {
+		"description": "[b]Testing mod for Mechanics Extended Interactables![/b]\n[b]Please play with -dev enabled so you can send me any error messages.[/b]\nSome parts may be lacking names, description, models, textures and/or icons. Doing this stuff takes time and for now my focus is mostly on functionality.\n\nIf you encounter any error messages, send them my way via discord (starting at LUA stack traceback up to and including the red line with the actual error)\nGood luck figuring out what everything does :)",
+		"fileId": 2360250144,
+		"localId": "56465da4-e331-49db-beaf-6fe9b85785f1",
+		"name": "MEI (Beta)",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
