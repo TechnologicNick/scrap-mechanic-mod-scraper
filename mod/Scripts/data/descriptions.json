@@ -10240,45 +10240,5 @@
 		"name": "MEI (Beta)",
 		"type": "Blocks and Parts",
 		"version": 0
-	},
-	"73d1e11a-eb55-487b-bdc7-b743d43718ed": {
-		"description": "FileMod + Crafting recipes forked from ScrapMechanicMods website\n\nMod creator:\n     Durf\n     ScrapMechanicMods: \n     https://scrapmechanicmods.com/u=76561198014346778\n\n     Steam: \n     http://steamcommunity.com/id/sdurf/\n\n     the mod:\n     FileMod V0.5.1 Modpack:\n     https::www.scrapmechanicmods.com/m=42\n\nMod creator\n     Toby1364\n     ScrapMechanicMods:  \n     https://scrapmechanicmods.com/u=76561198299532080\n\n     Steam:\n     https://steamcommunity.com/profiles/76561198299532080/\n\n     the mod:\n     FileMod Crafting Recipes Modpack:\n     https::www.scrapmechanicmods.com/m=62\n     \n\n     \n\n     ",
-		"fileId": 2537995787,
-		"localId": "73d1e11a-eb55-487b-bdc7-b743d43718ed",
-		"name": "FileMod + Crafting Recipes",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"38f702fa-6bd2-4be2-8bd8-d6cc3ef97b6e": {
-		"description": "This is forked from ScrapMechanicMods Website\n\nMod Creator\n    7' 1\" Peppa\n     ScrapmechanicMods:\n     https://scrapmechanicmods.com/u=76561199181996648\n     \n     Steam:\n     https://steamcommunity.com/id/7ft_1in_peppa/\n\nThe Mod\n     FPS Boost\n     https://scrapmechanicmods.com/m=85",
-		"fileId": 2538006192,
-		"localId": "38f702fa-6bd2-4be2-8bd8-d6cc3ef97b6e",
-		"name": "FPS Boost",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"fa4a62da-75ff-405b-a9f2-9ed14bc5e526": {
-		"description": "This is forked from ScrapMechanicMods Website\n\nMod Creator\n     Fawx\n     ScrapmechanicMods:\n     https://scrapmechanicmods.com/u=76561198037350846\n     \n     Steam:\n     https://steamcommunity.com/id/38dedo/\n\nThe Mod\n     Hoarders backpack\n     https://scrapmechanicmods.com/m=28",
-		"fileId": 2538007204,
-		"localId": "fa4a62da-75ff-405b-a9f2-9ed14bc5e526",
-		"name": "Hoarders backpack",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"360a46aa-e554-4d76-b123-c05158cea27e": {
-		"description": "This is forked from ScrapMechanicMods Website\n\nMod Creator\n     WaspEyeNight\n     ScrapmechanicMods:\n     https://scrapmechanicmods.com/u=76561199028274816\n     \n     Steam:\n     https://steamcommunity.com/id/WaspEyeNight/\n\nThe Mod\n     Expanded Info\n     https://scrapmechanicmods.com/m=30",
-		"fileId": 2538011215,
-		"localId": "360a46aa-e554-4d76-b123-c05158cea27e",
-		"name": "Expanded Info",
-		"type": "Blocks and Parts",
-		"version": 0
-	},
-	"6647ae94-f4c0-44e0-90f4-28fffd085bcd": {
-		"description": "This is forked from ScrapMechanicMods Website\n\nMod Creator\n     IvanCoHe\n     ScrapmechanicMods:\n     https://scrapmechanicmods.com/u=76561198328097200\n     \n     Steam:\n     https://steamcommunity.com/profiles/76561198328097200/\n\nThe Mod\n     More Hair Colors\n     https://scrapmechanicmods.com/m=23",
-		"fileId": 2538015279,
-		"localId": "6647ae94-f4c0-44e0-90f4-28fffd085bcd",
-		"name": "More Hair Colors",
-		"type": "Blocks and Parts",
-		"version": 0
 	}
 }
