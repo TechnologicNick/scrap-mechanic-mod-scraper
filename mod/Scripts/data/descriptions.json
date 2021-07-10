@@ -10256,5 +10256,13 @@
 		"name": "sm.q",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"629c1f55-44b3-4313-af24-1d86bd4af1ee": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2542805989,
+		"localId": "629c1f55-44b3-4313-af24-1d86bd4af1ee",
+		"name": "Cage Block",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
