@@ -10240,5 +10240,21 @@
 		"name": "MEI (Beta)",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"9ce48200-78fd-432d-ae12-bb2feb4073a7": {
+		"description": "Rick Astley is paying a visit to Scrap Mechanic , He's Never Gonna Give You Up, \n                                                                                Never Gonna Let You Down ,\n\nThis mod needs to be installed manually.\n\nINSTALLATION:-\n\nGoto you Steam Library , Right Clik on Scrap Mechanic->Manage->Browse Local Files \n\nThen navigate 2 folders back to \" steamapps \"\n\nclick on workshop->content->387990 and the most recent folder is the mod folder\n\nOpen the folder and copy the \"Data\" Folder \n\nThen go back to your steam library , right click on Scrap Mechanic->Manage->Browse Local Files \n\nThen just paste the \" Data \" Folder into the \" Scrap Mechanic \" folder and make sure to replace the existing file\n\nTo listen to the music , you need a radio \n\nMod Id : 2542043270",
+		"fileId": 2542043270,
+		"localId": "9ce48200-78fd-432d-ae12-bb2feb4073a7",
+		"name": "Never Gonna Give You Up - SM Radio",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"e8aa8bcc-c85b-4c63-8319-de491b63c01e": {
+		"description": "",
+		"fileId": 2542264373,
+		"localId": "e8aa8bcc-c85b-4c63-8319-de491b63c01e",
+		"name": "sm.q",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
