@@ -10264,5 +10264,21 @@
 		"name": "Cage Block",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"a364e83c-eb71-4e7e-88e6-378e81180811": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2543110473,
+		"localId": "a364e83c-eb71-4e7e-88e6-378e81180811",
+		"name": "PitaVit_Pack",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"afc4ab7f-34f7-499e-b93e-622a1ce1cfdf": {
+		"description": "Welcome to Snazzy mode!\n\n[This mod was made for ver. 0.5.1 of ScrapMechanic, unless stated this mod will not work with previous or future versions]\n\nThe mod includes overhauled craftbot recipes, adjustments to loot drops [more loot, more often] sledge hammerable large stones, custom blocks with stats set to the extremes! [All 16 combinations of lvl1 and lvl10 stats] Various recycling recipes, as well as allowing placing soil on blocks! [please note that the soil will float if placed on moving parts, this is not a bug, but a feature]\n\n\nThis mod also includes lootable warehouses [destruction of encryptor required]. The emergency banana inside of warehouse elevators are lootable, regardless of encryptor.  Warehouse elevator doors can be destroyed with large explosives.  Both scrapstone and metal resource rods spawn from mined rocks. More wood from all tree types, and faster refining times.\n\n\nThere are various minor changes as well, such as mobs dropping more resources when fed and destroyed. Health, food, and water have been doubled ( a little more than doubled). More crops are needed to trigger raids, and many more!\n\nWe hope you have as much fun playing as we had creating this mod!\n\n-Creator: Copper Boltwire\n-CoCreator: Dead-Man\n",
+		"fileId": 2543558908,
+		"localId": "afc4ab7f-34f7-499e-b93e-622a1ce1cfdf",
+		"name": "Snazzy",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
