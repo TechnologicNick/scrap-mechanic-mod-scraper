@@ -10280,5 +10280,13 @@
 		"name": "Snazzy",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"1da5e732-bf74-4234-a0a3-4a5c9ccd8167": {
+		"description": "The mod for the Scrap mechainc war\n\nopen the folder called modded and copy the folder in there to steamapps>common>scrap mechanic (the scrap mechanic base folder)\n\n\n\nmod location\nsteamapps\\workshop\\content\\387990\\2545399085",
+		"fileId": 2545399085,
+		"localId": "1da5e732-bf74-4234-a0a3-4a5c9ccd8167",
+		"name": "Scrap Mechanic War 1",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
