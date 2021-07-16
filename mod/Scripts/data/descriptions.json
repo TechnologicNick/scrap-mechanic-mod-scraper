@@ -7135,7 +7135,7 @@
 		"version": 0
 	},
 	"0f723028-a689-437c-9354-633faa0e6039": {
-		"description": "A CPU(6502) in Scrap Mechanic! (and some other stuff)\n\n*Multiplayer not tested\n*Warning: Do not use underwater\n\n[h1]Parts[/h1]\n[list]\n[*]Hub\n[*]CPU\n[*]IO\n[*]Basic Screen 32x32\n[*]Basic Screen 32x16\n[*]Basic Screen 16x32\n[/list]",
+		"description": "A CPU(6502) in Scrap Mechanic! (and some other stuff)\n\nCreations using this mod:[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2534399578]https://steamcommunity.com/sharedfiles/filedetails/?id=2534399578[/url]\n\n*Multiplayer not tested\n*Warning: Do not use underwater\n\n[h1]Parts[/h1]\n[list]\n[*]Hub\n[*]CPU\n[*]Midi player(Not working)\n[*]IO\n[*]Basic Screen 32x32\n[*]Basic Screen 32x16\n[*]Basic Screen 16x32\n[/list]",
 		"fileId": 2366905096,
 		"localId": "0f723028-a689-437c-9354-633faa0e6039",
 		"name": "Scrap CPU",
@@ -10294,6 +10294,47 @@
 		"fileId": 2224924941,
 		"localId": "4b0678ee-3197-4658-b190-a4df534ba528",
 		"name": "Niko - Infrastruktura PKP",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"3f79b0cb-0b91-49f3-abe0-af12e52e16ab": {
+		"creatorId": "76561198939444783",
+		"description": "WorldDoors is cute!\nCreator: Wolfline",
+		"fileId": 2547730537,
+		"localId": "3f79b0cb-0b91-49f3-abe0-af12e52e16ab",
+		"name": "Doors mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"b2c30a07-a781-4c56-8ca3-d03fe95544ad": {
+		"description": "Adds offset pipes\n\nThere are a few thousand possible combinations of how the pipes can connect, so I didn't add them all.\nI might add some later if I need them or if someone requests them.",
+		"fileId": 2547767969,
+		"localId": "b2c30a07-a781-4c56-8ca3-d03fe95544ad",
+		"name": "Offset Pipes",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"09a6179c-9ee9-4507-8977-9c4901eda0cc": {
+		"description": "Adds u-joint, hinges, bearings, gears, bevel gears and wheel mounts",
+		"fileId": 2547860987,
+		"localId": "09a6179c-9ee9-4507-8977-9c4901eda0cc",
+		"name": "Mechanical Parts",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"0b712eeb-89fd-406a-9fd8-7e49f1a0e348": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2547886794,
+		"localId": "0b712eeb-89fd-406a-9fd8-7e49f1a0e348",
+		"name": "Parts and Blocks",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"d516df7f-031d-45b6-99fe-e5e280a1e865": {
+		"description": "Mod contains high buoyancy blocks and high friction blocks.",
+		"fileId": 2548068705,
+		"localId": "d516df7f-031d-45b6-99fe-e5e280a1e865",
+		"name": "More Blocks",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
