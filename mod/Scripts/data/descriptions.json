@@ -10345,5 +10345,21 @@
 		"name": "Laptop Mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"fc939454-96c7-4871-bc06-a9130c239694": {
+		"description": "A remake of the world guard due to the old one being discontinued and not being updated for the new verson. \n\nChanges\nAs soon as you login you'll notice its different. The system has been changed to colored blocks in order for creations to be able to toggle values with inputs. I am planing to add a gui verson to but we will see how things go.\n\nColor Codes\nRed : Destructable \nOrange : Buildable\nWhite : Paintable\nYellow : Connectable\nBlack : Erasable\nGreen : Useable\nMagenta : Liftable\nNone : all of the above\n\nPaint input green to only effect body.\n\ncredit to technologicnick for the orginal one.",
+		"fileId": 2549444538,
+		"localId": "fc939454-96c7-4871-bc06-a9130c239694",
+		"name": "World Guard Remade",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"46a63670-01ef-4141-97ed-9bbda09df1a1": {
+		"description": "A mod to add Collision Damge to all your builds!",
+		"fileId": 2550100080,
+		"localId": "46a63670-01ef-4141-97ed-9bbda09df1a1",
+		"name": "Collision damage",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
