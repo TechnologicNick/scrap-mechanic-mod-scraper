@@ -7494,7 +7494,7 @@
 		"version": 0
 	},
 	"8caa15f0-e0a2-40c2-9b6b-d0e9145719c0": {
-		"description": "weird...",
+		"description": "[BETA] weird and u s e l e s s\n\n======================\n              changelog\n======================\n\nadded new block \"smile block\"\n\n",
 		"fileId": 2425978717,
 		"localId": "8caa15f0-e0a2-40c2-9b6b-d0e9145719c0",
 		"name": "darq's mod",
@@ -10335,6 +10335,14 @@
 		"fileId": 2548068705,
 		"localId": "d516df7f-031d-45b6-99fe-e5e280a1e865",
 		"name": "More Blocks",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"2f20d449-c4cd-482d-8304-c521d65ab5fb": {
+		"description": "Addes paintable Latop to the game.",
+		"fileId": 2549895526,
+		"localId": "2f20d449-c4cd-482d-8304-c521d65ab5fb",
+		"name": "Laptop Mod",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
