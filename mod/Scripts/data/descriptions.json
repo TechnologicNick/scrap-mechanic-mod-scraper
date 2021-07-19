@@ -10347,10 +10347,10 @@
 		"version": 0
 	},
 	"fc939454-96c7-4871-bc06-a9130c239694": {
-		"description": "A remake of the world guard due to the old one being discontinued and not being updated for the new verson. \n\nChanges\nAs soon as you login you'll notice its different. The system has been changed to colored blocks in order for creations to be able to toggle values with inputs. I am planing to add a gui verson to but we will see how things go.\n\nColor Codes\nRed : Destructable \nOrange : Buildable\nWhite : Paintable\nYellow : Connectable\nBlack : Erasable\nGreen : Useable\nMagenta : Liftable\nNone : all of the above\n\nPaint input green to only effect body.\n\ncredit to technologicnick for the orginal one.",
+		"description": "A simple mod to a control what you have permission todo. this is a remake of scrap guard but to instead be focused on adding logic support.\n\nChanges\nAs soon as you login you'll notice its different. The system has been changed to colored blocks in order for creations to be able to toggle values with inputs. I am planing to add a gui verson to but we will see how things go.\n\nColor Codes\nRed : Destructable \nOrange : Buildable\nWhite : Paintable\nYellow : Connectable\nBlack : Erasable\nGreen : Useable\nMagenta : Liftable\nNone : all of the above\n\nPaint input green to only effect body.\n\ncredit to technologicnick for the orginal one.",
 		"fileId": 2549444538,
 		"localId": "fc939454-96c7-4871-bc06-a9130c239694",
-		"name": "World Guard Remade",
+		"name": "Creation Protector",
 		"type": "Blocks and Parts",
 		"version": 0
 	},
@@ -10367,6 +10367,14 @@
 		"fileId": 2550711915,
 		"localId": "ea29677d-aac6-4344-a501-1db82ab87e1d",
 		"name": "Blue Bearing",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"fadd4d8d-59b3-4aeb-bab5-936538337af5": {
+		"description": "TTX113 is a mod that completely changes the way scrap mechanic is, it adds new blocks such as ice and other things. The functionality of part and the entire game of scrap mechanic are changed into a better world.",
+		"fileId": 2535206011,
+		"localId": "fadd4d8d-59b3-4aeb-bab5-936538337af5",
+		"name": "TTX113",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
