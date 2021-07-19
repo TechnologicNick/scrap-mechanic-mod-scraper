@@ -30228,5 +30228,11 @@
 		"$CONTENT_46a63670-01ef-4141-97ed-9bbda09df1a1/Objects/Database/ShapeSets/parts.json": [
 			"18ab147b-3c99-46f8-aec6-1ed1b5c72f1d"
 		]
+	},
+	"ea29677d-aac6-4344-a501-1db82ab87e1d": {
+		"$CONTENT_ea29677d-aac6-4344-a501-1db82ab87e1d/Objects/Database/ShapeSets/blocks.json": [],
+		"$CONTENT_ea29677d-aac6-4344-a501-1db82ab87e1d/Objects/Database/ShapeSets/parts.json": [
+			"e1872a75-227f-43e7-b2f9-eb416fa12413"
+		]
 	}
 }

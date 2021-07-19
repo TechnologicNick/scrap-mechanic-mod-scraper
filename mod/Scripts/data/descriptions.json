@@ -10361,5 +10361,13 @@
 		"name": "Collision damage",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"ea29677d-aac6-4344-a501-1db82ab87e1d": {
+		"description": "Show your friends how much more stylish you are with the Blue Bearings. Blue bearings have a custom shade of blue that you can not get by painting it!",
+		"fileId": 2550711915,
+		"localId": "ea29677d-aac6-4344-a501-1db82ab87e1d",
+		"name": "Blue Bearing",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
