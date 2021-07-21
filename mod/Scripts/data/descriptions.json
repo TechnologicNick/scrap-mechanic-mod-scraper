@@ -10377,5 +10377,13 @@
 		"name": "TTX113",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"e49b5a1d-dd13-4ea3-b3c7-bbe8899cc6cd": {
+		"description": "Little lion! Roar!",
+		"fileId": 2552649856,
+		"localId": "e49b5a1d-dd13-4ea3-b3c7-bbe8899cc6cd",
+		"name": "Cattoblock",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
