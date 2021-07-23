@@ -30191,7 +30191,8 @@
 	},
 	"0b712eeb-89fd-406a-9fd8-7e49f1a0e348": {
 		"$CONTENT_0b712eeb-89fd-406a-9fd8-7e49f1a0e348/Objects/Database/ShapeSets/blocks.json": [
-			"bb4f5b30-ce8f-459c-8bcd-96f73780c702"
+			"bb4f5b30-ce8f-459c-8bcd-96f73780c702",
+			"8e913cba-794c-4757-ad54-5ee4f8e199f5"
 		],
 		"$CONTENT_0b712eeb-89fd-406a-9fd8-7e49f1a0e348/Objects/Database/ShapeSets/parts.json": []
 	},
