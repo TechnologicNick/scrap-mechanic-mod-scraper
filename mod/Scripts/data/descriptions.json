@@ -10385,5 +10385,21 @@
 		"name": "Cattoblock",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"3e6ace75-e352-42cb-b463-1dd200ff7f32": {
+		"description": "Mod id : 2557228408 .............. people should know how to use this but....... Steam library --> scrap mechanic ---> either right click or the gear icon ----> manage ---> browse local files ---> data -----> replace the banks folder with the one that is in thw workshop folder.",
+		"fileId": 2557228408,
+		"localId": "3e6ace75-e352-42cb-b463-1dd200ff7f32",
+		"name": "Ain't No Rest For The Wicked, Scrap Mechanic Radio",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"725fb822-a71f-4a97-ad10-d07985ebbe5c": {
+		"description": "Mod id : 2557385192 .............. people should know how to use this but....... Steam library --> scrap mechanic ---> either right click or the gear icon ----> manage ---> browse local files ---> data -----> replace the banks folder with the one that is in thw workshop folder.",
+		"fileId": 2557385192,
+		"localId": "725fb822-a71f-4a97-ad10-d07985ebbe5c",
+		"name": "POPUlAR music blip Totebot music replacements plus radio mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
