@@ -10409,5 +10409,21 @@
 		"name": "Survival Parts in Creative(FantMod compatible)",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"3e2b08a7-dc54-4bce-bee1-e18d5fe1de1d": {
+		"description": "Мой первый мод\nОн не добавляет при включении в мир ничего надо выполнить некоторые действия\n1.Нажмите Win\n2. выбирете \"Компютер\"\n3.Пройдите по етому пути: D:\\Steam\\steamapps\\workshop\\content\\387990\\2559481553\n4.Откройте папку \"Здесь полный скрипт\"\n5.откройте 3 папкуесли играете без файловых модов или 1 если с FANTmod или 2 если с FANTmod и Exempl info\n6.и спомощью WinRaR или 7-Zip и проведите путь к ScrapMechanic\n7.и нажмите \"ДА для всех\" или \"заменить Всё\"",
+		"fileId": 2559481553,
+		"localId": "3e2b08a7-dc54-4bce-bee1-e18d5fe1de1d",
+		"name": "Game appdete",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"7d88175b-e677-43a6-be4f-33830a6ac458": {
+		"description": "Wooiw",
+		"fileId": 2559532981,
+		"localId": "7d88175b-e677-43a6-be4f-33830a6ac458",
+		"name": "Mis-Bølle",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
