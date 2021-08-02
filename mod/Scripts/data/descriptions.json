@@ -10425,5 +10425,13 @@
 		"name": "Mis-Bølle",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"2369fb50-00fe-4fea-996b-83bce29038f8": {
+		"description": "Admin menu for server hosts.",
+		"fileId": 2563285698,
+		"localId": "2369fb50-00fe-4fea-996b-83bce29038f8",
+		"name": "Server Controller Beta",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
