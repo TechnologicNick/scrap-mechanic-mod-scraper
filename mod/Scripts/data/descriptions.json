@@ -10433,5 +10433,13 @@
 		"name": "Server Controller Beta",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"007ed792-420f-4d59-af26-3bd1123c69fc": {
+		"description": "This mod adds spark plugs to scrap mechanic. It can be used to build engines.",
+		"fileId": 2564887431,
+		"localId": "007ed792-420f-4d59-af26-3bd1123c69fc",
+		"name": "Sparkplugs",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }

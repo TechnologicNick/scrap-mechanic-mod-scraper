@@ -30415,6 +30415,12 @@
 		"$CONTENT_5b8b9804-aa3a-4efe-b1c5-ca6ecf904e38/Objects/Database/ShapeSets/7Testing.json": [
 			"2af00456-b22e-4743-b338-a91934aba7c5"
 		],
+		"$CONTENT_5b8b9804-aa3a-4efe-b1c5-ca6ecf904e38/Objects/Database/ShapeSets/interactive.json": [
+			"c8b1bc7b-304e-44ce-9ca1-937b8e69d70c",
+			"8fd2cf31-70b3-499a-bfb0-7e3d2c580258",
+			"8694192c-d91b-444c-a184-910911bbb354",
+			"5eb8975b-0acf-43a7-ab4e-62ce661c0df7"
+		],
 		"$CONTENT_5b8b9804-aa3a-4efe-b1c5-ca6ecf904e38/Objects/Database/ShapeSets/interactivecontainers.json": [
 			"76331bbf-abbd-4b8d-bb54-f721a5b6193b",
 			"38ec258d-c644-4f08-8635-3f7434c884dd"
@@ -30488,6 +30494,12 @@
 		"$CONTENT_2369fb50-00fe-4fea-996b-83bce29038f8/Objects/Database/ShapeSets/blocks.json": [],
 		"$CONTENT_2369fb50-00fe-4fea-996b-83bce29038f8/Objects/Database/ShapeSets/parts.json": [
 			"7a82a4c8-f724-4b95-8c53-a158347eed96"
+		]
+	},
+	"007ed792-420f-4d59-af26-3bd1123c69fc": {
+		"$CONTENT_007ed792-420f-4d59-af26-3bd1123c69fc/Objects/Database/ShapeSets/blocks.json": [],
+		"$CONTENT_007ed792-420f-4d59-af26-3bd1123c69fc/Objects/Database/ShapeSets/parts.json": [
+			"a251e56c-eece-4a8a-8cbf-2a17fac8864a"
 		]
 	}
 }
