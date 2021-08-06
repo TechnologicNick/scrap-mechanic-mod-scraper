@@ -10441,5 +10441,21 @@
 		"name": "Sparkplugs",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"e2a97618-3164-486f-8a49-a0ab8cee4787": {
+		"description": "EN\n\nThis mod contains blocks and parts that I use in my worlds or in my workshop creations.\nI recommend you download this mod as I will be using it everywhere and it has cool blocks in it. I will not be taking suggestions of blocks or parts as I will be creating the blocks and parts I am about to use right now.\n\nBut you can easily use this mod for your own creations.\n\n\nDE\n\nDiese Mod enthält Blöcke und Teile, die ich in meinen Welten oder in meinen Workshop-Kreationen verwende.\nIch empfehle Ihnen, diesen Mod herunterzuladen, da ich eie überall verwenden werde und sie Coole Blöcke enthält. Ich werde keine Vorschläge von Bläcken oder Teilen entgegennehmen, da ich die Blöcke und Teile erstellen werde, die ich gerade verwenden möchte.\n\nAber du kannst diese Mod für problemlos deine eigenen kreationen verwenden.",
+		"fileId": 2566642460,
+		"localId": "e2a97618-3164-486f-8a49-a0ab8cee4787",
+		"name": "DL Blocks&Parts",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"d398b515-50b9-4366-869e-2757e0cc4d48": {
+		"description": "This mod adds the ability to hook into the game environment without editing the files :D",
+		"fileId": 2566712575,
+		"localId": "d398b515-50b9-4366-869e-2757e0cc4d48",
+		"name": "Game Hook",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
