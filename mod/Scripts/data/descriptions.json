@@ -10457,5 +10457,13 @@
 		"name": "Game Hook",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"a81e02e7-a084-43a4-933d-09f64078770d": {
+		"description": "This is a Mod with tools for vanilla logic gates.\n\nThe range of tools will be extended in the future, these are the current ones:\n\n-Connection Copy/Paste:\nCopy from: light pink logic gate\nPaste to: light orange logic gate\nApply copy/paste: Press E on this block",
+		"fileId": 2568516747,
+		"localId": "a81e02e7-a084-43a4-933d-09f64078770d",
+		"name": "Vincling's Vanilla Logic Tools Mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
