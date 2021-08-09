@@ -10465,5 +10465,21 @@
 		"name": "Vincling's Vanilla Logic Tools Mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"58c38bbf-50b1-4e01-a25c-b780c7316f14": {
+		"description": "Sans Graniee",
+		"fileId": 2569474143,
+		"localId": "58c38bbf-50b1-4e01-a25c-b780c7316f14",
+		"name": "Amogus",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"74046bca-5942-4259-b74a-cbbc870bd204": {
+		"description": "Exports creations to the block.",
+		"fileId": 2569946483,
+		"localId": "74046bca-5942-4259-b74a-cbbc870bd204",
+		"name": "Exporter mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
