@@ -10481,5 +10481,13 @@
 		"name": "Exporter mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"3b2ad5bc-084a-41b7-a0fc-7a05cdcb25cd": {
+		"description": "This Is My First Mod Will include the bruh block",
+		"fileId": 2570895120,
+		"localId": "3b2ad5bc-084a-41b7-a0fc-7a05cdcb25cd",
+		"name": "First mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
