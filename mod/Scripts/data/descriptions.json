@@ -10505,5 +10505,12 @@
 		"name": "Pegajoso",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"d25de982-9cfe-4dbe-8c6c-04228653dc45": {
+		"fileId": 2573650439,
+		"localId": "d25de982-9cfe-4dbe-8c6c-04228653dc45",
+		"name": "Collision-Destructible Parts (WIP)",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
