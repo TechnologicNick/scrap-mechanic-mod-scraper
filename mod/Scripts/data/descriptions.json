@@ -2944,7 +2944,7 @@
 		"version": 0
 	},
 	"ad244a3c-78ab-41a6-8a82-8ddaac64f7c3": {
-		"description": "This mod adds more Explosive canisters.\n\nBombs list:\n- Impulse Canister\n- Slightly Stronger Explosive Canister\n- Instant Explosive Canister\n- Medium Explosive Canister\n- Strongly Explosive Canister\n- Weak Nuke Canister\n- Nuke Canister\n\nYou can connect any bomb to the button.\n\n\nLanguage Support:\n- English\n\nCreator: ..::Daniel::..",
+		"description": "This mod adds more Explosive canisters.\n\nBombs list:\n- Impulse Canister\n- Slightly Stronger Explosive Canister\n- Instant Explosive Canister\n- Medium Explosive Canister\n- Strongly Explosive Canister\n- Weak Nuke Explosive Canister\n- Nuke Explosive Canister\n- Switch Explosive Canister\n\nYou can connect any bomb to the button.\n\n\nLanguage Support:\n- English\n\nCreator: ..::Oszo::..",
 		"fileId": 1590786991,
 		"localId": "ad244a3c-78ab-41a6-8a82-8ddaac64f7c3",
 		"name": "Epic Bombs",
@@ -10528,5 +10528,13 @@
 		"name": "RicharLeustaf's Regrowing Trees",
 		"type": "Blocks and Parts",
 		"version": 0.3
+	},
+	"d0c17328-fcf9-4db6-b29c-0c1438cb6f47": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2579806828,
+		"localId": "d0c17328-fcf9-4db6-b29c-0c1438cb6f47",
+		"name": "2x2 invisible seat",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
