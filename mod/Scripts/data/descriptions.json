@@ -7798,7 +7798,7 @@
 		"version": 0
 	},
 	"b6d6e274-3dd0-4c8c-a0b5-5323155cd95b": {
-		"description": "Romytrix's Addon\n/////////////////////////////////////////////////////////////////////\nRoAddon 2.6 - Style Update!!!\n__\nNews:\n__\n1)Changed connection style\n__\nRoAddon Add:\n___\n1)Crafts for all lamps and lights in game\n2)Crafts for chests, locker and microwave\n3)New system for packing(and unpacking) food(with craftbot)\n4)Add microwave\n5)NO compatible with ather SM Survival mods\n6)Add fried steak\n__\n////////////////////////////////////////////////////////////////////////////\n\nhow to install:\nopen \"Steam\\steamapps\\workshop\\content\\387990\\2385193018\"\nor install zip with mod here: https://drive.google.com/file/d/1MSqDueHGCujV91hFH5fzWDnkuA2uzU4I/view?usp=sharing\ncopy folder \"Survival\" and paste in \"Steam\\steamapps\\common\\Scrap Mechanic\"\n\n\n\n\n\nlinks:\nRoAddon Server(RUS): https://discord.gg/tsVh4wz8Sf\nmy Youtube: https://www.youtube.com/channel/UCuIMsVgq_frhmqNRSLx2aKA",
+		"description": "Romytrix's Addon\n/////////////////////////////////////////////////////////////////////\nRoAddon 2.9 - Style Update!!!\n__\nNews:\n__\n1)Changed connection style\n2)Fix some bugs\n__\nRoAddon Add:\n___\n1)Crafts for all lamps and lights in game\n2)Crafts for chests, locker and microwave\n3)New system for packing(and unpacking) food(with craftbot)\n4)Add microwave\n5)NO compatible with ather SM Survival mods\n6)Add fried steak\n__\n////////////////////////////////////////////////////////////////////////////\n\nhow to install:\nopen \"Steam\\steamapps\\workshop\\content\\387990\\2385193018\"\nor install zip with mod here: https://drive.google.com/file/d/1MSqDueHGCujV91hFH5fzWDnkuA2uzU4I/view?usp=sharing\ncopy folder \"Survival\" and paste in \"Steam\\steamapps\\common\\Scrap Mechanic\"\n\n\n\n\n\nlinks:\nRoAddon Server(RUS): https://discord.gg/tsVh4wz8Sf\nmy Youtube: https://www.youtube.com/channel/UCuIMsVgq_frhmqNRSLx2aKA",
 		"fileId": 2465640381,
 		"localId": "b6d6e274-3dd0-4c8c-a0b5-5323155cd95b",
 		"name": "RoAddon",
@@ -10522,7 +10522,7 @@
 		"version": 0
 	},
 	"0a8c391b-3951-431f-9ab7-7a8dd21381bd": {
-		"description": "This mod is for test branch. If not, use 10K's mod, link below.\n\nThis is simple mod that grows trees from stumps. But it also can change the look of the regrowing tree for a bit of diversity and good looking timber forest.\n\nManual install required.\n00Fant's mod compatibility folder included.\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2251509391\nVersion 0.4\n\n10K's mod Survival Recipe and balance :\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2103741159",
+		"description": "Version 0.5\nThis mod is for test branch. If not, use 10K's mod, link below.\n\nThis is simple mod that grows trees from stumps. But it also can change the look of the regrowing tree for a bit of diversity and good looking timber forest.\n\nManual install required.\n\n00Fant's mod compatibility folder included.\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2251509391\n\n10K's mod Survival Recipe and balance :\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2103741159",
 		"fileId": 2577178779,
 		"localId": "0a8c391b-3951-431f-9ab7-7a8dd21381bd",
 		"name": "RicharLeustaf's Regrowing Trees",
@@ -10534,6 +10534,14 @@
 		"fileId": 2579806828,
 		"localId": "d0c17328-fcf9-4db6-b29c-0c1438cb6f47",
 		"name": "2x2 invisible seat",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"da5edd13-7082-4e36-9e74-14ea32f29399": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2580461393,
+		"localId": "da5edd13-7082-4e36-9e74-14ea32f29399",
+		"name": "WRATH",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
