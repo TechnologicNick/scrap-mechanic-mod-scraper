@@ -10544,5 +10544,21 @@
 		"name": "WRATH",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"25b0bd0a-9f5d-4d81-8782-3d11171f68b2": {
+		"description": "Survival Functional Items",
+		"fileId": 2581040249,
+		"localId": "25b0bd0a-9f5d-4d81-8782-3d11171f68b2",
+		"name": "Survival Functional Items",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"6942cfad-f6e4-422b-a688-f0a63de49957": {
+		"description": "FOR MY FRIEND(ish) WRATH",
+		"fileId": 2581216115,
+		"localId": "6942cfad-f6e4-422b-a688-f0a63de49957",
+		"name": "FOR WRATH",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
