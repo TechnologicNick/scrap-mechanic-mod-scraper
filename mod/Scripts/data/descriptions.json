@@ -10443,7 +10443,7 @@
 		"version": 0
 	},
 	"e2a97618-3164-486f-8a49-a0ab8cee4787": {
-		"description": "EN\n\nThis mod contains blocks and parts that I use in my worlds or in my workshop creations.\nI recommend you download this mod as I will be using it everywhere and it has cool blocks in it. I will not be taking suggestions of blocks or parts as I will be creating the blocks and parts I am about to use right now.\n\nBut you can easily use this mod for your own creations.\n\n\nDE\n\nDiese Mod enthält Blöcke und Teile, die ich in meinen Welten oder in meinen Workshop-Kreationen verwende.\nIch empfehle Ihnen, diesen Mod herunterzuladen, da ich eie überall verwenden werde und sie Coole Blöcke enthält. Ich werde keine Vorschläge von Bläcken oder Teilen entgegennehmen, da ich die Blöcke und Teile erstellen werde, die ich gerade verwenden möchte.\n\nAber du kannst diese Mod für problemlos deine eigenen kreationen verwenden.",
+		"description": "EN\n\nThis mod contains blocks and parts that I use in my worlds or in my workshop creations.\nI recommend you download this mod as I will be using it everywhere and it has cool blocks in it. I will not be taking suggestions of blocks or parts as I will be creating the blocks and parts I am about to use right now.\n\nBut you can easily use this mod for your own creations. Please try to avoid using the servicestickers and the manufacturer stickers.\n\n\nDE\n\nDiese Mod enthält Blöcke und Teile, die ich in meinen Welten oder in meinen Workshop-Kreationen verwende.\nIch empfehle Ihnen, diesen Mod herunterzuladen, da ich eie überall verwenden werde und sie Coole Blöcke enthält. Ich werde keine Vorschläge von Bläcken oder Teilen entgegennehmen, da ich die Blöcke und Teile erstellen werde, die ich gerade verwenden möchte.\n\nAber du kannst diese Mod für problemlos deine eigenen Kreationen verwenden. Bitte versuche das Benutzen der Servicesticker und der Herstellersticker zu vermeiden.",
 		"fileId": 2566642460,
 		"localId": "e2a97618-3164-486f-8a49-a0ab8cee4787",
 		"name": "DL Blocks&Parts",
@@ -10558,6 +10558,14 @@
 		"fileId": 2581216115,
 		"localId": "6942cfad-f6e4-422b-a688-f0a63de49957",
 		"name": "FOR WRATH",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"dc025cbf-2477-485c-a638-b87d35132535": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2582264947,
+		"localId": "dc025cbf-2477-485c-a638-b87d35132535",
+		"name": "titanium",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
