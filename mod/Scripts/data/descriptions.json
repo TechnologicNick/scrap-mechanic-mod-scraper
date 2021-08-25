@@ -10573,7 +10573,7 @@
 		"description": "Want to sink your creations through the ground? Send them to blue heaven? Crash your game? Or simply weigh down your friends creations so they cant escape? Then this is the mod for you!",
 		"fileId": 2582092196,
 		"localId": "564a0336-74d3-48f6-a423-14b92a1678af",
-		"name": "The Heavy Blockz",
+		"name": "The Heavy Blocks",
 		"type": "Blocks and Parts",
 		"version": 0
 	},
@@ -10606,6 +10606,38 @@
 		"fileId": 2583200449,
 		"localId": "2e0aa2c5-2f85-42de-83a9-9b8dcec8e826",
 		"name": "Matt's Random stuff",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"5411dc77-fa28-4c61-af84-bcb1415e3476": {
+		"description": "[b]WARNING:[/b] This is a Beta: Things WILL go wrong and may cause your game to freeze or cars to malfunction. Please report any bugs.\n\n[h1]Instructions[/h1]\n[b]Track Setup[/b][olist]\n[*]Build or download SMAR compatible tracks (see video tutorial)\n[*]Place Track tile in a world.\n[*]Go to the start/finish line of the track and place down the Track Scanner. (Make sure arrow is facing the direction you want the cars to go)\n[*]Make Sure track is empty and Press 'E' on scanner\n[*]Wait for scan to complete [moving outside of track walls recommended]. \n[*]If message, \"Scan Complete: Track Saved\"  inspect racing line, If somehing looks wrong or error displayed, feel free to notify me. (Moving the scanning block may fix some errors)[/olist]\nNote: Once track is saved, it is saved to the current world permanently until overwritten. Cross world & scan sharing is coming soon\n\n[b]Car Setup[/b][olist]\n[*] Place down any car  & disconnect all bearings from engine and seat\n[*] Place SMAR Driver block on creation. ENSURE SIDE WITH STEERING WHEEL IS FACING FRONT OF THE CAR AND RIGHT SIDE UP (Arrow up) \n[*] Place SMAR Engine block on creation\n[*] Connect SMAR engine and driver blocks to respective bearings on creation. similar to a driver seat & engine configuration\n[*] Connect driver block to the engine block[/olist]\n\n[b]Race Setup[/b][olist]\n[*] Place SMAR Race control anywhere in world\n[*] Connect switch logic input to Race Control\n[*] Turn switch on and racers will begin to Race![/olist]\nNote: Interact With Race control interface to open a rough UI that allows you to view race status and change various race settings before or mid race.\nResetting the race will restart race completely. You can reset via race control interface, or turning off the switch after a race is finished.\n\nPlease Report any issues in the Bug Report Discussion Forum\n[hr][/hr]\n\n[h1]Features[/h1] \n[b]Engine Speed Color Code[/b]: Black to white: slowest to fastest\n[b]Black:[/b] Slow, Same top speed as gas engine (default)\n[b]Dark Gray:[/b]  Intermediate, Not to",
+		"fileId": 2491894529,
+		"localId": "5411dc77-fa28-4c61-af84-bcb1415e3476",
+		"name": "SM Auto Racers",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"5081324a-c1a2-4fe9-a052-3f77d93a8b06": {
+		"description": "This is a FileMod that enables the lift to be placed anywhere, for example on loose creations or even on itself.\n\n\nHow to Install :\n\nGo into \"[Your Steam Directory]/steamapps/workshop/content/387990/2583101867/Scripts\"\n\nCopy \"Lift.lua\"\n\nGo into Steam, select Scrap Mechanic, right click and click \"Browse Local Files\".\n\nIn the Scrap Mechanic directory, go into \"Data/Scripts/game/\" and paste the Lift.lua there.\n\nIf it asks to replace the file, click \"Yes\".",
+		"fileId": 2583437357,
+		"localId": "5081324a-c1a2-4fe9-a052-3f77d93a8b06",
+		"name": "Lift Everywhere",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"18ef064e-e512-4f8b-9d77-14c051b3794a": {
+		"description": "This is a city called scraptopia and i stopped making with other people so i decided to release it so anyone could get this world and carry on building it.",
+		"fileId": 2583607102,
+		"localId": "18ef064e-e512-4f8b-9d77-14c051b3794a",
+		"name": "Scraptopia",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"2ada4f1c-a989-46a5-b6fe-90106f615426": {
+		"description": "Ads in billy who is a silly block kid\n",
+		"fileId": 2584146599,
+		"localId": "2ada4f1c-a989-46a5-b6fe-90106f615426",
+		"name": "Billys blocks",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
