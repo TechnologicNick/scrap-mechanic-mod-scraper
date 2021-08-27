@@ -10656,5 +10656,13 @@
 		"name": "Totebots can drop any head",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"35890fa3-fdd7-41b2-9481-eff2761350a5": {
+		"description": "Adds a real strong wheel.",
+		"fileId": 2585483966,
+		"localId": "35890fa3-fdd7-41b2-9481-eff2761350a5",
+		"name": "Rocky Wheel",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
