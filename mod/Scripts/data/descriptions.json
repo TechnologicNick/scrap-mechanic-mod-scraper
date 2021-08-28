@@ -10664,5 +10664,13 @@
 		"name": "Rocky Wheel",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"330eb180-3795-4e63-8dc9-677bfa69ac4b": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2586665114,
+		"localId": "330eb180-3795-4e63-8dc9-677bfa69ac4b",
+		"name": "Bed Patch",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
