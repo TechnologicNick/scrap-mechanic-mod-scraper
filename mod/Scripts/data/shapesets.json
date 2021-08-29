@@ -30880,5 +30880,15 @@
 		"$CONTENT_41c57f2c-5dd1-413b-997c-2fe7c281de96/Objects/Database/ShapeSets/parts.json": [
 			"4fb85c98-1162-49d8-89ee-60ebb82c1a85"
 		]
+	},
+	"e44f8548-7e66-4ad4-a2eb-7b0a118cdaa3": {
+		"$CONTENT_e44f8548-7e66-4ad4-a2eb-7b0a118cdaa3/Objects/Database/ShapeSets/blocks.json": [
+			"cd899d38-df94-4134-991d-78aadd1db063",
+			"10b14b4a-94a2-4db8-9dae-f450f8e3821f",
+			"a6299606-64a8-4b1e-81ad-537ff2c1f4ce"
+		],
+		"$CONTENT_e44f8548-7e66-4ad4-a2eb-7b0a118cdaa3/Objects/Database/ShapeSets/parts.json": [
+			"8e3d9a50-47b6-4cfa-a029-90a8f9154c27"
+		]
 	}
 }
