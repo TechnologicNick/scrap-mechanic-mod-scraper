@@ -10696,5 +10696,21 @@
 		"name": "Matt and Tie's Random Stuff",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"bd7b47d6-df36-4602-9d2a-4172cc52e502": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2588867942,
+		"localId": "bd7b47d6-df36-4602-9d2a-4172cc52e502",
+		"name": "PLA HSF",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"997b1bee-74f3-4ba5-ae92-14f0058baff9": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2589081316,
+		"localId": "997b1bee-74f3-4ba5-ae92-14f0058baff9",
+		"name": "FireMod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
