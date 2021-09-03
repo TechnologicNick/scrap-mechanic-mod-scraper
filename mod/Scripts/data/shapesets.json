@@ -28512,6 +28512,12 @@
 		],
 		"$CONTENT_705fdcda-506f-42c3-920a-6301bb950e9f/Objects/Database/ShapeSets/survivalobject.json": [
 			"e49b210a-0d46-4f06-bcd8-08862379d156",
+			"c4aa3807-0806-4202-a36d-b5fa254d3046",
+			"d4e6c84c-a493-44b1-81aa-4f4741ea3ed8",
+			"20b3577f-a2f1-44f3-a22c-83f792732771",
+			"8365cf6a-af1a-41aa-a8c9-34313dce1f55",
+			"79cc711e-7094-4029-8419-bbbf8f08c6f2",
+			"5b628f22-ec0d-448f-a6be-3453950120a4",
 			"9a3058f3-6771-464f-a3e0-25d247f1422f",
 			"5eb8975b-0acf-43a7-ab4e-62ce661c0df7",
 			"8694192c-d91b-444c-a184-910911bbb354",
@@ -30887,7 +30893,8 @@
 			"10b14b4a-94a2-4db8-9dae-f450f8e3821f",
 			"a6299606-64a8-4b1e-81ad-537ff2c1f4ce",
 			"6e05120b-fbb0-4032-adea-5887f338e738",
-			"f2b07339-5221-488c-a770-32ed84b96b41"
+			"f2b07339-5221-488c-a770-32ed84b96b41",
+			"c327c3a1-943d-4a82-8b09-73ab3df0dbd4"
 		],
 		"$CONTENT_e44f8548-7e66-4ad4-a2eb-7b0a118cdaa3/Objects/Database/ShapeSets/parts.json": [
 			"8e3d9a50-47b6-4cfa-a029-90a8f9154c27",
