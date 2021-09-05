@@ -10720,5 +10720,21 @@
 		"name": "dissapearing block",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"8d549f92-edb0-48dc-91e7-9770389eec95": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2593448772,
+		"localId": "8d549f92-edb0-48dc-91e7-9770389eec95",
+		"name": "Funy mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"0b6f176f-de0e-476b-b32b-fd283086bffe": {
+		"description": "Use the Dressbot to customise your look by using the blue wardrobe.",
+		"fileId": 2593495341,
+		"localId": "0b6f176f-de0e-476b-b32b-fd283086bffe",
+		"name": "Dressbot",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
