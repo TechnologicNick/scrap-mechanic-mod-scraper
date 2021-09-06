@@ -10736,5 +10736,13 @@
 		"name": "Dressbot",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"247e0fcb-fc78-4c05-af59-3a6f83729aa6": {
+		"description": "Lowers thruster fuel consumption by 20 times and cuts upgrade cost in half by default\n\nVanilla thrusters are fully hardcoded into the game's binary code.\nThis is a reimplementation of the Scrap Mechanic survival thrusters in lua,\nto allow further modding capabilities, that weren't possible before.",
+		"fileId": 2594525375,
+		"localId": "247e0fcb-fc78-4c05-af59-3a6f83729aa6",
+		"name": "Low Cost Thruster",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
