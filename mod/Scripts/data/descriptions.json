@@ -10760,5 +10760,21 @@
 		"name": "Mystery's Survival Parts Mod [WORKING]",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"536c5c76-eb82-42e8-9ba1-e7a134d99622": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2595472559,
+		"localId": "536c5c76-eb82-42e8-9ba1-e7a134d99622",
+		"name": "3.6.5 Block",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"10c7ba15-aab2-4184-ab51-8aa772e8c30e": {
+		"description": "This FileMod adds one more gun to the survival inventory : The (handheld)Tape Gun!\n\nFeatures : \n\n-Handheld gun can shoot tape or explosive tape, doing the same damage as the tapebot's tape\n-Select which type of tape to shoot by pressing Q\n-The gun can be obtained from the trader\n-Tape Bots drop 1-4 \"Tape Ammo\",\n-Red Tape Bots drop 1-4 \"Explosive Ammo\"\n-When shooting tape, the gun uses \"Tape Ammo\" and when shooting explosivetape, the gun uses \"Explosive Ammo\"\n\nHow to Install :\n\n1. Open the folder : \"[Your Steam Folder] / steamapps / workshop / content / 387990 / 2583437357 / FileMod/\"\n\nOne way to find this folder is :\n\n-Open Steam and select Scrap Mechanic\n-Right-click, click \"manage\" and click \"Browse local files\"\n-Browse back to \"steamapps/\"\n-Then open \"workshop / content / 387990 / 2583437357 / FileMod/\"\n\n\n2. Copy the \"Survival\" folder\n\n3. Go into Steam, select Scrap Mechanic, right click and click \"Browse Local Files\".\n\n4.In the now opened folder, paste the \"Survival\" folder you copied earlier.\n\n5. If it asks to replace files, click \"Yes\".",
+		"fileId": 2595552354,
+		"localId": "10c7ba15-aab2-4184-ab51-8aa772e8c30e",
+		"name": "[Survival FileMod] Tape Gun",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
