@@ -10744,5 +10744,21 @@
 		"name": "Low Cost Thruster",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"55a80e2d-8c36-4716-91fc-b213b18b210b": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2595068425,
+		"localId": "55a80e2d-8c36-4716-91fc-b213b18b210b",
+		"name": "Tiny 1x1x1 drill",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"b3324a74-912f-4e08-a87f-c919ad4f098b": {
+		"description": "Almost every Survival part & item.",
+		"fileId": 2595149886,
+		"localId": "b3324a74-912f-4e08-a87f-c919ad4f098b",
+		"name": "Mystery's Survival Parts Mod [WORKING]",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
