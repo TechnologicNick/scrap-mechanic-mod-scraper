@@ -10776,5 +10776,13 @@
 		"name": "[Survival FileMod] Tape Gun",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"2e2c1332-cd8b-44f2-bdb7-69133f6ffdf4": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2597328170,
+		"localId": "2e2c1332-cd8b-44f2-bdb7-69133f6ffdf4",
+		"name": "Bot and Animal Spawners Mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
