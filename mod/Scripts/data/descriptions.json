@@ -10754,10 +10754,10 @@
 		"version": 0
 	},
 	"b3324a74-912f-4e08-a87f-c919ad4f098b": {
-		"description": "Almost every Survival part & item.\n\nContains:\n\nInteractive:\nCaged Farmer\nBeacon\nRuin Chest\nSeed Container\nFertilizer Container\nPump Button\nRare Crate\nEpic Crate\nMaster Battery Socket\nScrap Wheel\nScrap Engine\nWorn Driver Seat\nWorn Seat\n\nConsumables:\nRevival Baguette\nCotton\nEmber\nGlue Clam\nCircuit Board\nComponent Kit\nGlue\nGlow Poop\nSteak\nAll Fruits & Vegetables\nAll Seeds\nFertilizer\nSunshake\nMilk\nSoilbag\n\nParts:\nEmergency Banana\nK.O. Bag\nMaster Battery\nKeycard",
+		"description": "Almost every Survival part & item.\n\nNEW: PIZZA BURGER, CARROT BURGER\n\nContains:\n\nInteractive:\nCaged Farmer\nBeacon\nRuin Chest\nSeed Container\nFertilizer Container\nPump Button\nRare Crate\nEpic Crate\nMaster Battery Socket\nScrap Wheel\nScrap Engine\nWorn Driver Seat\nWorn Seat\n\nConsumables:\nRevival Baguette\nCotton\nEmber\nGlue Clam\nCircuit Board\nComponent Kit\nGlue\nGlow Poop\nSteak\nAll Fruits & Vegetables\nAll Seeds\nFertilizer\nSunshake\nMilk\nSoilbag\n\nParts:\nEmergency Banana\nK.O. Bag\nMaster Battery\nKeycard",
 		"fileId": 2595149886,
 		"localId": "b3324a74-912f-4e08-a87f-c919ad4f098b",
-		"name": "Mystery's Survival Parts Mod [WORKING]",
+		"name": "Mystery's Survival Parts Mod",
 		"type": "Blocks and Parts",
 		"version": 0
 	},
@@ -10790,6 +10790,14 @@
 		"fileId": 2598021104,
 		"localId": "a4a60ce2-24df-4abd-bd97-ee5b784c8a2b",
 		"name": "Mystery's Useful Tools Mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"b748d5c0-81a0-4784-af7f-d2a0998ce4b3": {
+		"description": "copy CraftingRecipes and put it into your survival files and replace the old files",
+		"fileId": 2598455755,
+		"localId": "b748d5c0-81a0-4784-af7f-d2a0998ce4b3",
+		"name": "mod survival based on gaming skill mod",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
