@@ -10800,5 +10800,13 @@
 		"name": "mod survival based on gaming skill mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"2fbcc234-a6e4-4afc-aa55-43736dc5df4c": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2600643301,
+		"localId": "2fbcc234-a6e4-4afc-aa55-43736dc5df4c",
+		"name": "Survival craft Lights",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
