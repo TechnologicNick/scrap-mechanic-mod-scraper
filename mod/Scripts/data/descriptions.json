@@ -10808,5 +10808,13 @@
 		"name": "Survival craft Lights",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"7f5a958a-4e6a-40da-a62d-a0ae818a233c": {
+		"description": "A very simple controller. To create a accurate weapon, all you need is a switch, two bearing and this view angle controller.",
+		"fileId": 2602343476,
+		"localId": "7f5a958a-4e6a-40da-a62d-a0ae818a233c",
+		"name": "simple view angle controller",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
