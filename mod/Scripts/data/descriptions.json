@@ -10824,5 +10824,29 @@
 		"name": "binary converter",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"2cb82516-8c31-481a-92fd-a9ca5814d9f3": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2581040249,
+		"localId": "2cb82516-8c31-481a-92fd-a9ca5814d9f3",
+		"name": "Survival Functional Items",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"d9174505-8eac-45b3-827c-d6e1144b9699": {
+		"description": "Lucky Block Mod, Test release\n\nHow to install : \n1. Subscribe/download this mod\n2. Enable the Mod and load up a creative world\n3. Place a lucky block and press \"U\" (upgrade) on it.\n4. Chat messages should appear telling you that the mod is installed or, if there were errors, what error happened.\nTo remove mod, verify game files.",
+		"fileId": 2608079677,
+		"localId": "d9174505-8eac-45b3-827c-d6e1144b9699",
+		"name": "Lucky Block Mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"e6d2aead-77d8-48d8-8bbf-945a31645fab": {
+		"description": "With the press of a button, you can spawn a living Caged Farmer.\nThis mod is a addon to my \"Mystery's Survival Parts Mod\".\n\n\"MYSTERY'S SURVIVAL PARTS MOD\" IS REQUIRED FOR THIS MOD TO WORK!\n\nMystery's Survival Parts Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2595149886\n",
+		"fileId": 2608127841,
+		"localId": "e6d2aead-77d8-48d8-8bbf-945a31645fab",
+		"name": "Caged Farmer Spawner REQUIRED: Mystery's Survival Parts Mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
