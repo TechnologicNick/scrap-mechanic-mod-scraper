@@ -10778,7 +10778,7 @@
 		"version": 0
 	},
 	"2e2c1332-cd8b-44f2-bdb7-69133f6ffdf4": {
-		"description": "This mod doesn't have a description",
+		"description": "With this mod, you can easily spawn any Bot or Animal with a click of a button.",
 		"fileId": 2597328170,
 		"localId": "2e2c1332-cd8b-44f2-bdb7-69133f6ffdf4",
 		"name": "Bot and Animal Spawners Mod",
@@ -10842,10 +10842,18 @@
 		"version": 0
 	},
 	"e6d2aead-77d8-48d8-8bbf-945a31645fab": {
-		"description": "With the press of a button, you can spawn a living Caged Farmer.\nThis mod is a addon to my \"Mystery's Survival Parts Mod\".\n\n\"MYSTERY'S SURVIVAL PARTS MOD\" IS REQUIRED FOR THIS MOD TO WORK!\n\nMystery's Survival Parts Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2595149886\n",
+		"description": "With the press of a button, you can spawn a living Caged Farmer.\n\n",
 		"fileId": 2608127841,
 		"localId": "e6d2aead-77d8-48d8-8bbf-945a31645fab",
-		"name": "Caged Farmer Spawner REQUIRED: Mystery's Survival Parts Mod",
+		"name": "Caged Farmer Spawner",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"fb489d1b-8e6d-4710-a98e-600206162b86": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2608811370,
+		"localId": "fb489d1b-8e6d-4710-a98e-600206162b86",
+		"name": "Hidden Parts",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
