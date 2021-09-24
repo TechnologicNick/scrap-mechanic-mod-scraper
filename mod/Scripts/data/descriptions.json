@@ -10856,5 +10856,13 @@
 		"name": "Hidden Parts",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"db9857fa-e69c-4670-a629-426fb57dbb1e": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2557713706,
+		"localId": "db9857fa-e69c-4670-a629-426fb57dbb1e",
+		"name": "konst mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }

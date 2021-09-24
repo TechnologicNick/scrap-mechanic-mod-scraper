@@ -31130,5 +31130,9 @@
 			"6831e2ae-ba6f-4849-97b0-d41357bbbc78",
 			"3ea93c62-1c14-4b50-9274-b332f7c8dd80"
 		]
+	},
+	"db9857fa-e69c-4670-a629-426fb57dbb1e": {
+		"$CONTENT_db9857fa-e69c-4670-a629-426fb57dbb1e/Objects/Database/ShapeSets/blocks.json": [],
+		"$CONTENT_db9857fa-e69c-4670-a629-426fb57dbb1e/Objects/Database/ShapeSets/parts.json": []
 	}
 }
