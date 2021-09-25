@@ -10864,5 +10864,13 @@
 		"name": "konst mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"845ad5ed-f48b-4820-8239-407b3d0b5da6": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2610415469,
+		"localId": "845ad5ed-f48b-4820-8239-407b3d0b5da6",
+		"name": "Invincible Blocks",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
