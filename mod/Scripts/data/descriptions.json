@@ -10888,5 +10888,13 @@
 		"name": "Vanilla Vehicle Parts",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"4a6cc39e-223c-4792-8331-e2af91728d4c": {
+		"description": "Lightweight blocks\n\nMetal\nConcrete\nCaution block ",
+		"fileId": 2613010632,
+		"localId": "4a6cc39e-223c-4792-8331-e2af91728d4c",
+		"name": "Lightweight blocks",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
