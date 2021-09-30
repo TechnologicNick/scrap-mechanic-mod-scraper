@@ -10896,5 +10896,13 @@
 		"name": "Lightweight blocks",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"c54fae14-46fe-47e0-88c3-b49b00c069e6": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2614584356,
+		"localId": "c54fae14-46fe-47e0-88c3-b49b00c069e6",
+		"name": "Zugprojekt",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
