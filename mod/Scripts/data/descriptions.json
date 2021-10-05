@@ -10904,5 +10904,13 @@
 		"name": "Zugprojekt",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"34eddae3-abfb-4b10-b620-656aeabe39fc": {
+		"description": "A collection af Bot poses from Survival mode! Great for scaring your friends into thinking they are real bots!\n\nCurrently Available Statues:\n- Red Totebot\n- Blue Totebot\n- Yellow Totebot\n- Red Tapebot (cuz cool)",
+		"fileId": 2619985338,
+		"localId": "34eddae3-abfb-4b10-b620-656aeabe39fc",
+		"name": "Bot Statues",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }

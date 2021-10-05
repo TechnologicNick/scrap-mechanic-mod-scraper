@@ -31200,5 +31200,13 @@
 			"80841527-8c9d-4031-86b3-2020e3d0ee63"
 		],
 		"$CONTENT_c54fae14-46fe-47e0-88c3-b49b00c069e6/Objects/Database/ShapeSets/parts.json": []
+	},
+	"34eddae3-abfb-4b10-b620-656aeabe39fc": {
+		"$CONTENT_34eddae3-abfb-4b10-b620-656aeabe39fc/Objects/Database/ShapeSets/parts.json": [
+			"4fc6a48c-a445-4e70-a72f-328aceb90a61",
+			"b8f3044b-36fe-469a-a7e2-f8b61260aca9",
+			"343a6552-4e83-47d5-8836-ceba32d350c9",
+			"2aa02853-5f49-419f-9e72-e0c2ae6b2122"
+		]
 	}
 }
