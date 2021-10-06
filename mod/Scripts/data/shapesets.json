@@ -31208,5 +31208,56 @@
 			"343a6552-4e83-47d5-8836-ceba32d350c9",
 			"2aa02853-5f49-419f-9e72-e0c2ae6b2122"
 		]
+	},
+	"6b5e79b0-6dc9-4101-a278-5e7340a889e1": {
+		"$CONTENT_6b5e79b0-6dc9-4101-a278-5e7340a889e1/Objects/Database/ShapeSets/AircraftAttachments.json": [
+			"60d9610d-e915-4377-b2db-cf2ea8d45fc7",
+			"392162cf-9582-4f4e-90f7-2492de454d10",
+			"14120feb-d453-4a06-a012-ba3d91fe70a5",
+			"a0a02c02-a18d-4f00-9a5b-f82f4508ed19",
+			"777226d6-1617-4360-a29b-322693d16764"
+		],
+		"$CONTENT_6b5e79b0-6dc9-4101-a278-5e7340a889e1/Objects/Database/ShapeSets/Ammo.json": [
+			"bfd4d5a9-8fb7-4629-a35a-eda6602e56ab"
+		],
+		"$CONTENT_6b5e79b0-6dc9-4101-a278-5e7340a889e1/Objects/Database/ShapeSets/GunParts.json": [
+			"ac1def09-2162-4ae5-9cb5-e13fe2414ad0",
+			"68e12bea-9543-450e-b1be-39f6d4067a50",
+			"8e3bc203-774f-45c0-a901-e05455fba836",
+			"af8b12d8-aaa6-4eb2-8201-fa6eb80b4e57",
+			"9c93b835-3e36-4d57-947b-43201159461b",
+			"ab890acb-0854-480e-92df-3cda5485fd7d",
+			"1fa210ac-d423-4c26-a313-9ab102240770",
+			"65abdda6-6e1c-4bcf-849b-548701ac3364",
+			"0caf9764-263b-4063-b2ca-0bd2b54f816d",
+			"dfad833f-3690-4178-b48d-3a30be5d3040",
+			"edb050c3-a113-457a-a5bd-28f35f3ec54c",
+			"272f2fbc-943a-4859-9147-25bb78d7f78d",
+			"3aed8a9d-89da-40ab-960f-57f5659e369a",
+			"43883aac-755d-49d5-9079-e6befe4d6004",
+			"05f652e7-87fc-4f08-837d-7abeef999fbb",
+			"49b36559-0f86-4b41-abd8-2eb1f5f072e1",
+			"c85178ce-ab11-411c-b12a-e3cb2576685e",
+			"58b6e504-3da5-4e0f-ba3b-ff64e1f7fe2d",
+			"a637ce4a-b765-4b18-af8b-f0f944f7b86c",
+			"533d6eed-dbd0-48b6-bf77-7bf75e34dbb0",
+			"3b7740a4-a1d2-46a0-912e-e9f036f3da58",
+			"ea7a27ba-74be-4abe-985f-0738b76bb6f0",
+			"c01c7f03-6bf1-4dd0-9346-a2a7e54b452a",
+			"f3d6a113-1333-4f90-9e69-537f6d821ebf",
+			"f9e71dc9-807f-40fb-9501-9124ea69495d",
+			"334ce41a-a3fd-4be7-9a25-e6cab4c49a52",
+			"3816ae46-11b5-45a4-9b4a-e00950eb26b8",
+			"08ad5516-ed82-40bf-9f2f-f6d801f5afc3",
+			"848867d6-95cc-49a8-a8a0-06c33d9eb7ca",
+			"553d3105-4ae5-4148-8f1a-95d57067b6fd",
+			"46f0c61e-3356-4662-9472-0354120f76d3",
+			"3e31ccca-1fb1-4c0f-bdac-2fd6c48e3a8d"
+		],
+		"$CONTENT_6b5e79b0-6dc9-4101-a278-5e7340a889e1/Objects/Database/ShapeSets/HandHeldGuns.json": [
+			"e826b4e5-b5db-4dd9-9197-2f76f4db81d5"
+		],
+		"$CONTENT_6b5e79b0-6dc9-4101-a278-5e7340a889e1/Objects/Database/ShapeSets/blocks.json": [],
+		"$CONTENT_6b5e79b0-6dc9-4101-a278-5e7340a889e1/Objects/Database/ShapeSets/parts.json": []
 	}
 }

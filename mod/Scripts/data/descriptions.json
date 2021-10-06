@@ -6577,7 +6577,7 @@
 		"version": 0
 	},
 	"c6952e0a-b53d-4870-b78f-61f1daf15a46": {
-		"description": "This mod doesn't have a description",
+		"description": "[h1]Install instructions: (Automatic Install / Uninstall )[/h1]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2122179067]Mod Loader[/url]\nDownload, Install, Load, and Inject\n\n[h1]Or manual install:[/h1]\nStep one:\n       Go to [code]SteamLibrary\\steamapps\\workshop\\content\\387990\\2214592864\\Scrap Mechanic[/code]\nStep two:\n       Copy the \"Survrval\" Folder\nStep three:\n       Go to [code]SteamLibrary\\steamapps\\common\\Scrap Mechanic[/code]\nSetp four:\n       Paste the copied folder.\n\n[h1]Mod Version and Game Version[/h1]\nMod version: 0.2.1\nGame Version: 0.4.7\n\n[h1]Mod description[/h1]\nBuffs players health form 100 to 200.\n",
 		"fileId": 2214592864,
 		"localId": "c6952e0a-b53d-4870-b78f-61f1daf15a46",
 		"name": "More Player Health",
@@ -10910,6 +10910,14 @@
 		"fileId": 2619985338,
 		"localId": "34eddae3-abfb-4b10-b620-656aeabe39fc",
 		"name": "Bot Statues",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"6b5e79b0-6dc9-4101-a278-5e7340a889e1": {
+		"description": "ANIMATE GUN",
+		"fileId": 2620814983,
+		"localId": "6b5e79b0-6dc9-4101-a278-5e7340a889e1",
+		"name": "DS",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
