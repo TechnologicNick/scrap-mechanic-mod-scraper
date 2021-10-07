@@ -31259,5 +31259,10 @@
 		],
 		"$CONTENT_6b5e79b0-6dc9-4101-a278-5e7340a889e1/Objects/Database/ShapeSets/blocks.json": [],
 		"$CONTENT_6b5e79b0-6dc9-4101-a278-5e7340a889e1/Objects/Database/ShapeSets/parts.json": []
+	},
+	"6f2bdcca-109d-4511-9e4c-530604375647": {
+		"$CONTENT_6f2bdcca-109d-4511-9e4c-530604375647/Objects/Database/ShapeSets/parts.json": [
+			"a2e13f06-c612-3123-9ef1-fdacdc31af20"
+		]
 	}
 }

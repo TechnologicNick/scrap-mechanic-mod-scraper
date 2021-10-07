@@ -5898,7 +5898,7 @@
 		"version": 0
 	},
 	"50ee5ce2-9583-4a6e-b3da-b5c187cd798c": {
-		"description": "Your Survival Game more FUN And DANGEROUS!\n\n[img]https://steamusercontent-a.akamaihd.net/ugc/933807031682165938/34CBC07D7ED73B6282B3F7AF2E3D47BB462BF9B1/[/img]\n\n[ AUTO INSTALL / UPDATE ]\n\n1. Subscribe, rate and favorite! :)\n2. Go to http://modscrap.sytes.net/\n3. Download and install Scrap Launcher!\n\n\nOR\n\n\n[ MANUAL INSTALL ]\n\n1. Subscribe to download modpack.\n2. Open folder C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2126594034\\\n3. Copy and paste all files and folders to your Scrap Mechanic Folder, usually found in C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\\\n\n\n[MANUAL UPDATE]\n\nMake install again or run ScrapLauncher.exe inside your Scrap Mechanic folder, this will update or install Modscrap if you haven't already. You can get ScrapLauncher.exe  in install folder.\n\n\nThank you for using Modscrap!",
+		"description": "MODPACK UPDATED!\n\nYour Survival Game more FUN And DANGEROUS!\n\n[img]https://steamusercontent-a.akamaihd.net/ugc/933807031682165938/34CBC07D7ED73B6282B3F7AF2E3D47BB462BF9B1/[/img]\n\nSubscribe, rate and favorite! :)\n\n[TO INSTALL]\nCopy and paste all files and folders to your Scrap Mechanic folder. \nUsually found in C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\n\n[TO UPDATE]\nCopy and paste all files and folders to your Scrap Mechanic folder. \nUsually found in C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\n\nBugs? Suggestions?\nhttps://steamcommunity.com/sharedfiles/filedetails/discussions/2126594034\n\nThank you for using Modscrap!",
 		"fileId": 2126594034,
 		"localId": "50ee5ce2-9583-4a6e-b3da-b5c187cd798c",
 		"name": "Modscrap [Survival Modpack]",
@@ -10918,6 +10918,14 @@
 		"fileId": 2620814983,
 		"localId": "6b5e79b0-6dc9-4101-a278-5e7340a889e1",
 		"name": "DS",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"6f2bdcca-109d-4511-9e4c-530604375647": {
+		"description": "This mod adds a camera to the game that can be used to take images to analyse them :)\nNote: Place the camera with the round end of the AND symbol facing upwards\n[h1]SMPL API[/h1]\n[code]\ngetCameras\n\tparameters: []\n\tdescription:\n\t\treturns all cameras connected to the computer\n\nsetResolution\n\tparameters: [camera, width, height]\n\tdescription:\n\t\tsets the resolution that the camera renders\n\nsetFov\n\tparameters: [camera, width, height]\n\tdescription:\n\t\tsets the fov of the camera\n\nsetMode\n\tparameters: [camera, mode]\n\tdescription:\n\t\tsets the mode of the camera\n\t\t\tCamera.DISTANCE\n\t\t\tCamera.COLOR\n\t\t\tCamera.TYPE\n\nsetCastsPerTick\n\tparameters: [camera, amount]\n\tdescription:\n\t\tsets how many raycasts a camera performs per tick\n\nsetRange\n\tparameters: [camera, range]\n\tdescription:\n\t\tsets the number of units the raycast goes\n\ncapture\n\tparameters: [camera]\n\tdescription:\n\t\tstarts the capturing process\n\nisCapturing\n\tparameters: [camera]\n\tdescription:\n\t\treturns if the camera is currently rendering\n\ngetData\n\tparameters: [camera, x, y]\n\tdescription:\n\t\treturns the data for a specific pixel. depending on the mode...\n\t\tDISTANCE -> Number\n\t\tTYPE -> String\n\t\tCOLOR -> Tupel\n\t\t\t(\n\t\t\t\tr: Number,\n\t\t\t\tg: Number,\n\t\t\t\tb: Number\n\t\t\t)\n\n\t\tALL -> Tuple\n\t\t\t(\n\t\t\t\thit: Boolean,\n\t\t\t\tdistance: Number,\n\t\t\t\ttype: String,\n\t\t\t\tcolor: Tuple\n\t\t\t\t\t(\n\t\t\t\t\t\tr: Number,\n\t\t\t\t\t\tg: Number,\n\t\t\t\t\t\tb: Number\n\t\t\t\t\t)\n\t\t\t)\ngetResolution\n\tparameters: [camera]\n\tdescription:\n\t\treturns the resolution of the camera as a tuple (width, height)\n[/code]",
+		"fileId": 2620462764,
+		"localId": "6f2bdcca-109d-4511-9e4c-530604375647",
+		"name": "Processor Camera Module [BETA]",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
