@@ -10928,5 +10928,13 @@
 		"name": "Processor Camera Module [BETA]",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"55e84fe0-750c-40bc-8f36-a9b1466a28c7": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2622787354,
+		"localId": "55e84fe0-750c-40bc-8f36-a9b1466a28c7",
+		"name": "Military truck wheels",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
