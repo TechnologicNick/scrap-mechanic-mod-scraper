@@ -10936,5 +10936,13 @@
 		"name": "Military truck wheels",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"0bf50a3d-6e57-4097-a9ba-57b615097047": {
+		"description": "Input:\n[table]\n  [tr]\n    [th]Color[/th][th]Description[/th]\n  [/tr]\n  [tr]\n    [td]white[/td][td]mode[/td]\n  [/tr]\n  [tr]\n    [td]orange[/td][td]s = Steering(1.0 - -1.0)[/td]\n  [/tr]\n  [tr]\n    [td]red[/td][td]Ф = Outer wheel steering angle[/td]\n  [/tr]\n  [tr]\n    [td]magenta[/td][td]Ө = Inner wheel steering angle[/td]\n  [/tr]\n  [tr]\n    [td]blue[/td][td]a = Wheel track[/td]\n  [/tr]\n  [tr]\n    [td]cyan[/td][td]b = wheelbase[/td]\n  [/tr]\n  [tr]\n    [td]green[/td][td]c = Distance between the pivots of front axle[/td]\n  [/tr]\n  [tr]\n    [td]lime green[/td][td]Ro = turning radius of outer wheel[/td]\n  [/tr]\n  [tr]\n    [td]yellow[/td][td]Ri = turning radius of inner wheel[/td]\n  [/tr]\n  [tr]\n    [td]gray[/td][td]R = turning radius[/td]\n  [/tr]\n[/table]\n\nMode:\n[table]\n  [tr]\n    [th]Id[/th][th]Description[/th][th]Input[/th][th]Output[/th]\n  [/tr]\n  [tr]\n    [td]1[/td]\n    [td]Calculate outer wheel steering angle with inner wheel steering angle[/td]\n    [td]Ө, b, c[/td]\n    [td]Ф[/td]\n  [/tr]\n  [tr]\n    [td]2[/td]\n    [td]Calculate inner wheel steering angle with outer wheel steering angle[/td]\n    [td]Ф, b, c[/td]\n    [td]Ө[/td]\n  [/tr]\n  [tr]\n    [td]3[/td]\n    [td]Calculate turning radius of outer wheel with outer wheel steering angle[/td]\n    [td]Ф, a, b, c[/td]\n    [td]Ro[/td]\n  [/tr]\n  [tr]\n    [td]4[/td]\n    [td]Calculate turning radius of inner wheel with inner wheel steering angle[/td]\n    [td]Ө, a, b, c[/td]\n    [td]Ri[/td]\n  [/tr]\n  [tr]\n    [td]5[/td]\n    [td]Calculate outer wheel steering angle with turning radius of outer wheel[/td]\n    [td]Ro, a, b, c[/td]\n    [td]Ф[/td]\n  [/tr]\n  [tr]\n    [td]6[/td]\n    [td]Calculate inner wheel steering angle with turning radius of inner wheel[/td]\n    [td]Ri, a, b, c[/td]\n    [td]Ө[/td]\n  [/tr]\n  [tr]\n    [td]7[/td]\n    [td]Calculate left wheel steering angle[/td]\n    [td]s, R, a, b, c[/td]\n    [td]lA[/td]\n  [/tr]\n  [tr]\n    [td]8[/td]\n    [td]Calculate right wheel steering angle[/td]\n    [td]s, R, a, b, c[/td]\n    [td]rA[/td]\n  [/tr]\n[/table]",
+		"fileId": 2624065130,
+		"localId": "0bf50a3d-6e57-4097-a9ba-57b615097047",
+		"name": "Ackerman Steering Mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
