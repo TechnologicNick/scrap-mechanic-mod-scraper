@@ -10952,5 +10952,13 @@
 		"name": "The Seatpack",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"0687d041-98ec-49bc-a0b8-d363abf0dfe8": {
+		"description": "With this mod, you can actually use the Encryptor and Protector in the Warehouse!\nThe Orange Encryptor controls the logic connections.\nThe Blue Protector controls building/destroying blocks and parts.\nWhen you disable both, you can take and remove parts from the warehouse.\n\nHow to install this mod : \n\n1. Subscribe to it\n2. Load a creative world with the mod enabled\n3. Place down the \"FileMod Loader\" part and press E(Use) on it.\n4. In the opened GUI, click \"Install\" to install the mod or \"uninstall\" to remove it.\n5. If it installed successfully, you can now load a survival world and use the encryptors.\n\nNote : If you want to unsubscribe from this mod, you need to \"uninstall\" it using the GUI or verify game files first. If you don't do this, part of your game will break as it can't find the file anymore.\n\nNote 2 : I will remove this mod when Axolot makes the warehouses work properly.",
+		"fileId": 2626026457,
+		"localId": "0687d041-98ec-49bc-a0b8-d363abf0dfe8",
+		"name": "Working Warehouse Encryptors",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }

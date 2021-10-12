@@ -31353,5 +31353,10 @@
 		"$CONTENT_abcc065d-982c-4269-a300-54a8093686d6/Objects/Database/ShapeSets/parts.json": [
 			"ffc45450-5f75-4fe8-ba72-f45812399b1b"
 		]
+	},
+	"0687d041-98ec-49bc-a0b8-d363abf0dfe8": {
+		"$CONTENT_0687d041-98ec-49bc-a0b8-d363abf0dfe8/Objects/Database/ShapeSets/parts.json": [
+			"dbca4ddf-ac12-4c89-8bf4-3821da328dfd"
+		]
 	}
 }
