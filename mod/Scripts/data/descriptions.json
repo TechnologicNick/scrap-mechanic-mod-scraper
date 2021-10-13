@@ -10960,5 +10960,13 @@
 		"name": "Working Warehouse Encryptors",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"ab1a6ccd-4b8f-49f9-b475-0704d76bdc71": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2626384377,
+		"localId": "ab1a6ccd-4b8f-49f9-b475-0704d76bdc71",
+		"name": "Super fast, no spread gatling gun",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
