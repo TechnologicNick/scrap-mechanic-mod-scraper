@@ -10968,5 +10968,13 @@
 		"name": "Super fast, no spread gatling gun",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"0cfe89de-dfb2-4bb0-b351-1a880f92090b": {
+		"description": "A simple mod to add working ropes to scrap mechanic.\n\nTodo \nMake it so you can see the rope\n\nChangeLog\n\n1.1\nmade work on world leave.\nFixed a werid bug.\n\n1.0\nreleased",
+		"fileId": 2626646871,
+		"localId": "0cfe89de-dfb2-4bb0-b351-1a880f92090b",
+		"name": "Ropes",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
