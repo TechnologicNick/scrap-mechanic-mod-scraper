@@ -10984,5 +10984,13 @@
 		"name": "MOD",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"536e520d-c642-419b-927b-d859a483a99d": {
+		"description": "Player Protector adds a block that helps fix alot of annyoying glitchs.\n\ncurrent fixs\nwhen you go out of map it teleports you back into the map.\n\nplaned fixs\nwhen creastions go out of map it teleports them back\n",
+		"fileId": 2628149786,
+		"localId": "536e520d-c642-419b-927b-d859a483a99d",
+		"name": "Player Protector",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
