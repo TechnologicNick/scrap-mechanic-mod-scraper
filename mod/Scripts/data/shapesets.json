@@ -31368,5 +31368,10 @@
 		"$CONTENT_0cfe89de-dfb2-4bb0-b351-1a880f92090b/Objects/Database/ShapeSets/parts.json": [
 			"ff8090f2-2f1d-4b44-ab46-7050c345bc20"
 		]
+	},
+	"1ba21aa3-92d5-434e-9e66-83c5caa70b8b": {
+		"$CONTENT_1ba21aa3-92d5-434e-9e66-83c5caa70b8b/Objects/Database/ShapeSets/parts.json": [
+			"a3325406-f419-4db4-9ff1-fdeadc50ec12"
+		]
 	}
 }
