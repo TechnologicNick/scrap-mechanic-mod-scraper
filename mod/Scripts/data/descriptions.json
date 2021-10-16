@@ -10992,5 +10992,13 @@
 		"name": "Player Protector",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"751c6dd2-a91d-4fe9-a05c-7e7558c469f4": {
+		"description": "A collection of 3 sets of springs, each set comes in 2 size variations.\n   A cosmetic alternative to the base game suspension, plus Inflatable and Torsion sets.\n   \n   Please note that the game does not currently support upgradable custom parts, therefore levels 1 through 4 are purely cosmetic and function like level 5 parts. When mod support is updated to allow for upgradable parts, these will be altered to behave like their base game counterparts.",
+		"fileId": 2629098666,
+		"localId": "751c6dd2-a91d-4fe9-a05c-7e7558c469f4",
+		"name": "Extra Springs Pack",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }

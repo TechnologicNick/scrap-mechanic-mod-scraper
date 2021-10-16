@@ -31285,7 +31285,9 @@
 			"ff7ba322-bd50-473a-bf67-54cb399a11a9",
 			"80841527-8c9d-4031-86b3-2020e3d0ee63"
 		],
-		"$CONTENT_c54fae14-46fe-47e0-88c3-b49b00c069e6/Objects/Database/ShapeSets/parts.json": []
+		"$CONTENT_c54fae14-46fe-47e0-88c3-b49b00c069e6/Objects/Database/ShapeSets/parts.json": [
+			"f6535fdf-3d7d-4e25-bc0b-afb099ea55b2"
+		]
 	},
 	"34eddae3-abfb-4b10-b620-656aeabe39fc": {
 		"$CONTENT_34eddae3-abfb-4b10-b620-656aeabe39fc/Objects/Database/ShapeSets/parts.json": [
@@ -31392,6 +31394,44 @@
 		"$CONTENT_536e520d-c642-419b-927b-d859a483a99d/Objects/Database/ShapeSets/blocks.json": [],
 		"$CONTENT_536e520d-c642-419b-927b-d859a483a99d/Objects/Database/ShapeSets/parts.json": [
 			"0f7b34eb-02e5-4629-92ab-f7922df83e7d"
+		]
+	},
+	"751c6dd2-a91d-4fe9-a05c-7e7558c469f4": {
+		"$CONTENT_751c6dd2-a91d-4fe9-a05c-7e7558c469f4/Objects/Database/ShapeSets/001_suspension_basic.json": [
+			"078b0c8c-a06c-471f-9304-0e993b40327d",
+			"567ade36-4a0b-457e-870c-4b517839857d",
+			"5376b75d-25fa-413e-97f2-e33451e22295",
+			"e91c1a5d-070e-4a08-9514-4aae3c299745",
+			"c76c5f63-bf47-444f-99ac-398ca2e7bcaf",
+			"4d9b3c3c-39d4-426b-8275-972d6f339194",
+			"6ae10a2f-14c0-40c4-b4db-6e90f1b87aca",
+			"8baa1e3e-eda7-40a2-93cd-c53f53415d43",
+			"defafd81-28bb-4aea-b1be-27193e077a97",
+			"b9aa8068-ba44-4d85-80b3-cc3e71083a4e"
+		],
+		"$CONTENT_751c6dd2-a91d-4fe9-a05c-7e7558c469f4/Objects/Database/ShapeSets/003_suspension_inflatable.json": [
+			"b1eb5b01-4f4c-4aed-a52b-3689e1aa24f7",
+			"b8d36021-f530-4d8f-9300-852d9023c020",
+			"2be7409f-808d-4d85-b2a5-e65ba8212774",
+			"6dcd17fb-9341-4a0d-9c57-d88f6f749b77",
+			"f5b9a7f9-462f-4ccd-be9f-92573a6b2f42",
+			"8ca4e3b3-c684-42ea-93c0-95b83be30b89",
+			"712c7375-fad8-40e1-987a-006770504fdb",
+			"3894f8df-c6bd-48b9-84a2-fca0545a8d68",
+			"de20015f-d041-4e20-b97e-f15a4373496d",
+			"c7e11e93-c708-4fe6-b998-4389a06fdce5"
+		],
+		"$CONTENT_751c6dd2-a91d-4fe9-a05c-7e7558c469f4/Objects/Database/ShapeSets/004_suspension_sideways.json": [
+			"583ce55c-a142-41ae-85cc-d9a9024a4944",
+			"a959c94a-b17a-4788-a0e1-b29d3f85281f",
+			"fa7c5ef8-acdf-4207-a2d3-d0d22dd85509",
+			"5901b573-51d7-4472-b262-3ca9b801f5ac",
+			"ea9ccd40-68b1-4dd1-893f-271f9d66b1a4",
+			"860acb2d-28ed-4f55-a73b-fdb9fa44758e",
+			"b7745d55-3700-4bdb-8d94-befa38b0aaed",
+			"f600a421-d109-4256-b079-1c450fa9fccf",
+			"230b6a6c-b69e-44d5-98da-99c8354b7e7d",
+			"31012f2a-a3b2-4f66-9b26-3a5fc2db8f36"
 		]
 	}
 }
