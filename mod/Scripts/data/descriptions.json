@@ -11008,5 +11008,13 @@
 		"name": "Our Soviet Anthem Radio Mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"339cc56e-ec4c-4c41-b751-cac9f80548b3": {
+		"description": "This is a compilation of the best songs from the famous franchise Star Wars\n\nSongs included : Duel of the fates\n                            The Imperial March\n                            The Main Star Wars Theme\n                            The Binary Sunset Theme\n\nThis mod needs to be installed manually.\n\nINSTALLATION:-\n\nGoto you Steam Library , Right Clik on Scrap Mechanic->Manage->Browse Local Files \n\nThen navigate 2 folders back to \" steamapps \"\n\nclick on workshop->content->387990 and the most recent folder is the mod folder\n\nOpen the folder and copy the \"Data\" Folder \n\nThen go back to your steam library , right click on Scrap Mechanic->Manage->Browse Local Files \n\nThen just paste the \" Data \" Folder into the \" Scrap Mechanic \" folder and make sure to replace the existing file\n\nTo listen to the music , you need a radio \n\nMod ID : 2630533959",
+		"fileId": 2630533959,
+		"localId": "339cc56e-ec4c-4c41-b751-cac9f80548b3",
+		"name": "Star Wars Songs Radio Mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
