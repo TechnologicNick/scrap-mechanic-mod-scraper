@@ -31250,7 +31250,8 @@
 		"$CONTENT_d9174505-8eac-45b3-827c-d6e1144b9699/Objects/Database/ShapeSets/parts.json": [
 			"2e0ea34e-dc50-4529-94cf-033da31395ad",
 			"7699138d-dfcf-4ddb-b5ed-cb9a72a52f32",
-			"8d7d30ab-9b3f-499f-a67f-084187ec6abf"
+			"8d7d30ab-9b3f-499f-a67f-084187ec6abf",
+			"883f82d0-4b4f-4afa-a3c7-21ca01c9c01a"
 		]
 	},
 	"e6d2aead-77d8-48d8-8bbf-945a31645fab": {
@@ -31477,5 +31478,6 @@
 		]
 	},
 	"cf139911-6b06-4259-bf0c-d23a4d7f08a8": {},
-	"339cc56e-ec4c-4c41-b751-cac9f80548b3": {}
+	"339cc56e-ec4c-4c41-b751-cac9f80548b3": {},
+	"98214b3e-1c2e-467d-8525-4f9fd6cafcec": {}
 }

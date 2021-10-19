@@ -11016,5 +11016,13 @@
 		"name": "Star Wars Songs Radio Mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"98214b3e-1c2e-467d-8525-4f9fd6cafcec": {
+		"description": "This mod makes the wires and bearings easier to see. It adds a dark contour on wires, bearings and connections to make them more visible. \n\n[h1] HOW TO INSTALL: [/h1]\nGoto:\n\"...\\Steam\\SteamApps\\workshop\\content\\387990\\2623326387\"\ncopy the Data folder into:\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\"\nand replace the exsiting files.\n\n\n[h1] HOW TO UNINSTALL: [/h1]\nThe easier way is to use the steam tool to \"Verify integrity of game files\"\n\nIf you want to restore the original files manually, go to:\n\"...\\Steam\\SteamApps\\workshop\\content\\387990\\2623326387\\Backup\"\ncopy the Data folder into:\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\"\n(replacing the exsisting files).\n\n\n[h1] HOW TO INSTALL SMALL BEARINGS [/h1]\n After the normal installation, go to:\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\\Data\\Mesh\"\nRename the file \"bearing_connect.mesh\" to something else like \"bearing_connect_standard.mesh\"\nRename the file \"bearing_connect_small.mesh\" to \"bearing_connect.mesh\"\n(if you don't see the \".mesh\" at the end of the name, just ignore that part).\n\n\n[h1] HOW TO MOD UNCONNECTED BEARINGS [/h1]\n This feature is experimental, the unconnected bearing uses a \"generic\" texture that could be used by other things. I could not find any broken texture with this mod applied, if you do please let me know!\nTo install, copy transparent.tga from the folder:\n\"...\\Steam\\SteamApps\\workshop\\content\\387990\\2623326387\\NotConnectedBearing\"\nand paste it in:\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\\Data\\Texture\"\n",
+		"fileId": 2623326387,
+		"localId": "98214b3e-1c2e-467d-8525-4f9fd6cafcec",
+		"name": "Better wires",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
