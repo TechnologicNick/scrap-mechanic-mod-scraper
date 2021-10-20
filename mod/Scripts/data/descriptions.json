@@ -11024,5 +11024,13 @@
 		"name": "Better wires",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"d100848d-4eda-48de-8792-b5839487b5a5": {
+		"description": "Switch Rails - Blocks and Parts:\n\nSwitch components for left-hand and right-hand rail junctions.\n(Use with Dr3khh's Rail Track - Terrain Assets)",
+		"fileId": 2632353309,
+		"localId": "d100848d-4eda-48de-8792-b5839487b5a5",
+		"name": "Switch Rails",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
