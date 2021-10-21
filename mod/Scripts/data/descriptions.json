@@ -11032,5 +11032,13 @@
 		"name": "Switch Rails",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"8289c77c-78fb-43f1-ab9f-600b14dc2574": {
+		"description": "Copy the \"Master bank\" file.\nLocal file in the scrap mechanic \"Data > Audio > Banks\"    paste",
+		"fileId": 2632900519,
+		"localId": "8289c77c-78fb-43f1-ab9f-600b14dc2574",
+		"name": "Radio",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
