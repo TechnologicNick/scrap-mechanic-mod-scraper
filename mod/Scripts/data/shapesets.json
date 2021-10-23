@@ -31511,5 +31511,12 @@
 			"687619e1-693f-487b-a6d4-7fb405e15124"
 		]
 	},
-	"8289c77c-78fb-43f1-ab9f-600b14dc2574": {}
+	"8289c77c-78fb-43f1-ab9f-600b14dc2574": {},
+	"59040568-03e1-41d8-9098-a47114aa6204": {
+		"$CONTENT_59040568-03e1-41d8-9098-a47114aa6204/Objects/Database/ShapeSets/blocks.json": [
+			"02457469-d81b-4cea-b71f-938dfa2cfec8",
+			"a71aeebb-34ec-497b-be2e-41cc17fb340c"
+		],
+		"$CONTENT_59040568-03e1-41d8-9098-a47114aa6204/Objects/Database/ShapeSets/parts.json": []
+	}
 }
