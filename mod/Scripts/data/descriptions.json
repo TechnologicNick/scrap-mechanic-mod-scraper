@@ -11026,10 +11026,10 @@
 		"version": 0
 	},
 	"d100848d-4eda-48de-8792-b5839487b5a5": {
-		"description": "Switch components and other rail track parts.\n(Use with Dr3khh's Rail Track - Terrain Assets)",
+		"description": "Switch rails for main line and railyard junctions.\nStraight rail for turntable bridge.\n\n(Use with Dr3khh's Rail Track - Terrain Assets)",
 		"fileId": 2632353309,
 		"localId": "d100848d-4eda-48de-8792-b5839487b5a5",
-		"name": "Rail Track - Parts",
+		"name": "Rail Track",
 		"type": "Blocks and Parts",
 		"version": 0
 	},
@@ -11078,6 +11078,14 @@
 		"fileId": 2638058460,
 		"localId": "807e3827-2826-46f6-b641-acc9d599f007",
 		"name": "Replacement for dumdum",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"bffd4c11-d048-4719-a40d-0a025780519d": {
+		"description": "Hello, Thank you for Subscribing!\n\nIn this mod there are parts for Survival as seen on thumbnail that are craftable on the craftbot for Survival.\n\nIf there is anything else you would like me to add... let me know in the comments.\n\nMAKE A BACKUP!\nCopy (Craftbotrecipes to Desktop) \n\n\n\nHow to install...\n\nGo to file explorer/This PC/Local Disk(?)/Program Files(x86)/Steam/ Steamapps/workshop/content\n/387990/2642637815   (Read below)\n\n\nDubble click on (copy inside of this file)\nCopy contents\nGo to file explorer/This PC/Local Disk(?)/Program Files(x86)/Steam/ Steamapps/common/Scrap Mechanic/Survival   (Read below)\n\n\n(Paste in this folder)\nClick on (Replace the files in the destination) \n\nFinished!\n\n\nDon't like the mod? \n\nCopy the (Craftbot Recipes) file and paste in Survival and click (Replace the files in the destination).\n\nor\n\nVerify Game files\n\n\n \n\n\n\n\n",
+		"fileId": 2642637815,
+		"localId": "bffd4c11-d048-4719-a40d-0a025780519d",
+		"name": "Essentials Mod (Scrap Mechanic)",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
