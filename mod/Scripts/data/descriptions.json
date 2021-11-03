@@ -11088,5 +11088,13 @@
 		"name": "Essentials Mod (Scrap Mechanic)",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"9b69da12-7d8f-41b2-ada4-a347513f61cc": {
+		"description": "Mod by Fuumarz Released by Mondee",
+		"fileId": 2644149017,
+		"localId": "9b69da12-7d8f-41b2-ada4-a347513f61cc",
+		"name": "Phonk Radio",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
