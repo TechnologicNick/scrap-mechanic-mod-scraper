@@ -11096,5 +11096,13 @@
 		"name": "Phonk Radio",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"211ee1ce-6ff3-41ed-8f53-56f670749ccc": {
+		"description": "My first mod, and cursed.",
+		"fileId": 2559364183,
+		"localId": "211ee1ce-6ff3-41ed-8f53-56f670749ccc",
+		"name": "Fridge's Stuff",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
