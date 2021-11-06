@@ -11104,5 +11104,13 @@
 		"name": "Fridge's Stuff",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"cc079199-0ee6-43ea-a343-e24a3bbff2a1": {
+		"description": "WORK IN PROGRESS",
+		"fileId": 2646784274,
+		"localId": "cc079199-0ee6-43ea-a343-e24a3bbff2a1",
+		"name": "Hard Mode For Survival- File Mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
