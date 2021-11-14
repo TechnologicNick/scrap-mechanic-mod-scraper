@@ -11120,5 +11120,13 @@
 		"name": "The Raft Mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"48084afa-b264-4fa2-8e89-71eab2926e53": {
+		"description": "Add's a clear version of the Glass Block.",
+		"fileId": 2653460540,
+		"localId": "48084afa-b264-4fa2-8e89-71eab2926e53",
+		"name": "Clear Glass",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
