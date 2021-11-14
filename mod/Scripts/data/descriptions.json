@@ -11128,5 +11128,13 @@
 		"name": "Clear Glass",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"7cb2cfe8-7ca1-466c-9235-da62bae380a6": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2653644271,
+		"localId": "7cb2cfe8-7ca1-466c-9235-da62bae380a6",
+		"name": "Meme Blocks Mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
