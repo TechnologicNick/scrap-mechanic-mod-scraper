@@ -11168,5 +11168,13 @@
 		"name": "Nattes mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"eac99dce-1ab1-49da-af17-d8ab1405c48a": {
+		"description": "my mod @MSC for my friens ",
+		"fileId": 2655306470,
+		"localId": "eac99dce-1ab1-49da-af17-d8ab1405c48a",
+		"name": "msc mods",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
