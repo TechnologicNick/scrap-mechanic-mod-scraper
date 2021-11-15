@@ -11136,5 +11136,37 @@
 		"name": "Meme Blocks Mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"6ddcec8d-82ad-49b6-812a-54c89ecb0e23": {
+		"description": "Communit Blocks , that's about it.",
+		"fileId": 2654495335,
+		"localId": "6ddcec8d-82ad-49b6-812a-54c89ecb0e23",
+		"name": "OUR Soviet Blocks Mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"0f8e0521-7d8e-421c-8e2f-42cf69aedf73": {
+		"description": "Fun fact: you got rickrolled",
+		"fileId": 2654530038,
+		"localId": "0f8e0521-7d8e-421c-8e2f-42cf69aedf73",
+		"name": "Rickroll block mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"6b303c8b-41d4-44fd-8d9b-ed6889a01779": {
+		"description": "This mod adds only german and soviet WW2 tank sights.",
+		"fileId": 2654600401,
+		"localId": "6b303c8b-41d4-44fd-8d9b-ed6889a01779",
+		"name": "WW2 AgaliX's mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"5af3172d-463c-4634-b235-cda0a893b141": {
+		"description": "This mod is made by Natte.Pappelo.",
+		"fileId": 2654687541,
+		"localId": "5af3172d-463c-4634-b235-cda0a893b141",
+		"name": "Nattes mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
