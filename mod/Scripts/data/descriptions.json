@@ -11154,7 +11154,7 @@
 		"version": 0
 	},
 	"6b303c8b-41d4-44fd-8d9b-ed6889a01779": {
-		"description": "This mod adds only german and soviet WW2 tank sights.",
+		"description": "This mod adds one german and one soviet WW2 tank sights. It also includes 5 soviet and 2 german propaganda posters. Object nametags bug has been fixed in second version of the mod.",
 		"fileId": 2654600401,
 		"localId": "6b303c8b-41d4-44fd-8d9b-ed6889a01779",
 		"name": "WW2 AgaliX's mod",
@@ -11174,6 +11174,22 @@
 		"fileId": 2655306470,
 		"localId": "eac99dce-1ab1-49da-af17-d8ab1405c48a",
 		"name": "msc mods",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"324787cb-e347-4105-bea4-b013b4d3722a": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2655446063,
+		"localId": "324787cb-e347-4105-bea4-b013b4d3722a",
+		"name": "Fant Laser",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"c198f09f-1f1a-4801-a57f-974b776230b3": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2655685829,
+		"localId": "c198f09f-1f1a-4801-a57f-974b776230b3",
+		"name": "sussy mod!!!1",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
