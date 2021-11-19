@@ -11026,7 +11026,7 @@
 		"version": 0
 	},
 	"d100848d-4eda-48de-8792-b5839487b5a5": {
-		"description": "Switch rails for main line and railyard junctions.\nStraight rail for turntable bridge.\n\n(Use with Dr3khh's Rail Track - Terrain Assets)",
+		"description": "Rail Track Parts - for use with Rail Track - Terrain Assets\n\nJunction Switch Rails:\n\n- Mainline Straight - Pivot, Blade sections\n- Mainline Curve - Pivot, Middle, Blade sections\n- Railyard Straight - Pivot, Blade sections\n- Railyard Curve - Pivot, Middle, Blade sections\n\n(Use controller values 0, +7 and -7, +7 to pivot the switch rails)\n\n\nTurntable bridge:\n- Straight Rail\n\n\nDeprecated Parts: \n\n- Junction Straight (Left/Right)\n- Junction Curve - Pivot, Middle, Blade (Left/Right)\n- Railyard Straight - Pivot, Blade (Left/Right)\n- Railyard Curve - Pivot, Middle, Blade (Left/Right)\n\n\n\n\n\n",
 		"fileId": 2632353309,
 		"localId": "d100848d-4eda-48de-8792-b5839487b5a5",
 		"name": "Rail Track",
@@ -11231,6 +11231,6 @@
 		"localId": "93049512-6401-46b9-b60b-18a00712c316",
 		"name": "Boat Mod",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	}
 }

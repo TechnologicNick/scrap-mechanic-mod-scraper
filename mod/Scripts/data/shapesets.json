@@ -31575,7 +31575,31 @@
 	"339cc56e-ec4c-4c41-b751-cac9f80548b3": {},
 	"98214b3e-1c2e-467d-8525-4f9fd6cafcec": {},
 	"d100848d-4eda-48de-8792-b5839487b5a5": {
-		"$CONTENT_d100848d-4eda-48de-8792-b5839487b5a5/Objects/Database/ShapeSets/branchline_switch.json": [
+		"$CONTENT_d100848d-4eda-48de-8792-b5839487b5a5/Objects/Database/ShapeSets/mainline.json": [
+			"d66210f7-b131-4d9e-a31b-9592d5169146",
+			"f05e2bf0-1245-46ec-8dba-9f598faeb02f",
+			"3856b6a3-dbce-455d-acc2-6914df5494b5",
+			"6b92b370-5a96-4aa0-ba58-ed4708ed5ab9",
+			"60865bad-3415-4543-b3cf-58d9ed738817",
+			"82504026-7281-448e-bd96-08f316c92398",
+			"737c4355-04d8-44a9-92ff-5f89d8a854ee",
+			"03889bad-2ea9-46ad-905c-4c17d33a4019",
+			"e88d2c14-dd69-4c55-b200-fe72126bbad5",
+			"f06af763-5a09-4677-ab15-c0b22bb7805c"
+		],
+		"$CONTENT_d100848d-4eda-48de-8792-b5839487b5a5/Objects/Database/ShapeSets/railyard.json": [],
+		"$CONTENT_d100848d-4eda-48de-8792-b5839487b5a5/Objects/Database/ShapeSets/turntable.json": [
+			"0a6287f3-beb7-4bdd-ac44-dea8d36e4ff1"
+		],
+		"$CONTENT_d100848d-4eda-48de-8792-b5839487b5a5/Objects/Database/ShapeSets/z-deprecated.json": [
+			"4124568a-1033-4ea1-a6b2-2ab5aab866d8",
+			"63953d9b-0fca-4cc4-a9a7-4dd7dc4dd2b8",
+			"6018ded9-2659-42c5-8f70-9cac5ad147ce",
+			"e7c8c9fe-db11-46c2-9562-ecd0ff3899a9",
+			"ab21ea26-7f7e-4b83-ae4e-5fde64d193fa",
+			"9e1c466e-3d42-4845-a561-b29910544f20",
+			"44a722f9-bfd2-4f81-a10b-198a6f5577fd",
+			"687619e1-693f-487b-a6d4-7fb405e15124",
 			"dc031c2b-518d-47d6-96ac-9245c1a17c73",
 			"1417e3f2-dd9a-4b66-8a98-5e86dfdbdf8a",
 			"80309d0e-e0e7-4149-b765-9bfa7caec22c",
@@ -31586,19 +31610,6 @@
 			"995d40cd-3d21-4026-9d49-9b9120312976",
 			"6de6e9dc-aad1-4ab8-b81f-14045b0e86ea",
 			"f3f2c3b1-f0fe-4f99-9537-47f3b8b7f621"
-		],
-		"$CONTENT_d100848d-4eda-48de-8792-b5839487b5a5/Objects/Database/ShapeSets/mainline_switch.json": [
-			"4124568a-1033-4ea1-a6b2-2ab5aab866d8",
-			"63953d9b-0fca-4cc4-a9a7-4dd7dc4dd2b8",
-			"6018ded9-2659-42c5-8f70-9cac5ad147ce",
-			"e7c8c9fe-db11-46c2-9562-ecd0ff3899a9",
-			"ab21ea26-7f7e-4b83-ae4e-5fde64d193fa",
-			"9e1c466e-3d42-4845-a561-b29910544f20",
-			"44a722f9-bfd2-4f81-a10b-198a6f5577fd",
-			"687619e1-693f-487b-a6d4-7fb405e15124"
-		],
-		"$CONTENT_d100848d-4eda-48de-8792-b5839487b5a5/Objects/Database/ShapeSets/turntable_bridge_rail.json": [
-			"0a6287f3-beb7-4bdd-ac44-dea8d36e4ff1"
 		]
 	},
 	"8289c77c-78fb-43f1-ab9f-600b14dc2574": {},
