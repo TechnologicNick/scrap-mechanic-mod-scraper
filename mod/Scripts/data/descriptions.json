@@ -11224,5 +11224,13 @@
 		"name": "My first mod!",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"93049512-6401-46b9-b60b-18a00712c316": {
+		"description": "This mod adds stuf to make boats :)              This is also my first ever mod. Hope you enjoy it!",
+		"fileId": 2657945329,
+		"localId": "93049512-6401-46b9-b60b-18a00712c316",
+		"name": "Boat Mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
