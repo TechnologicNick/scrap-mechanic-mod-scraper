@@ -31587,7 +31587,18 @@
 			"e88d2c14-dd69-4c55-b200-fe72126bbad5",
 			"f06af763-5a09-4677-ab15-c0b22bb7805c"
 		],
-		"$CONTENT_d100848d-4eda-48de-8792-b5839487b5a5/Objects/Database/ShapeSets/railyard.json": [],
+		"$CONTENT_d100848d-4eda-48de-8792-b5839487b5a5/Objects/Database/ShapeSets/railyard.json": [
+			"75042d05-6025-4740-b56c-ad12a15be344",
+			"2f6d6fcf-aba8-4968-a595-c7a77144934b",
+			"124aa821-fe86-409b-b131-1cf34e919231",
+			"0bec778a-5d0d-4105-87ce-063a4860dc35",
+			"e7fabd39-9edd-439d-8219-d43b91d712cf",
+			"3709aadd-c623-4a0b-b135-7fcdd253586e",
+			"4454a2d6-51ff-401c-918c-e1e9013437bd",
+			"6516c707-b6dc-4c20-b0d7-9f8126ae6402",
+			"ba1ddca6-4bc2-4c72-9677-96ed834b144c",
+			"9b054bc7-d259-4a8c-b58e-dabc829ad977"
+		],
 		"$CONTENT_d100848d-4eda-48de-8792-b5839487b5a5/Objects/Database/ShapeSets/turntable.json": [
 			"0a6287f3-beb7-4bdd-ac44-dea8d36e4ff1"
 		],
