@@ -11154,7 +11154,7 @@
 		"version": 0
 	},
 	"6b303c8b-41d4-44fd-8d9b-ed6889a01779": {
-		"description": "This mod adds one german and one soviet WW2 tank sights. It also includes 5 soviet and 2 german propaganda posters. Object nametags bug has been fixed in second version of the mod.",
+		"description": "Includes:\n- Soviet and german ww2 tank sights\n- 5 soviet and 2 german propaganda posters\n- 2 soviet tank signs",
 		"fileId": 2654600401,
 		"localId": "6b303c8b-41d4-44fd-8d9b-ed6889a01779",
 		"name": "WW2 AgaliX's mod",
@@ -11231,6 +11231,22 @@
 		"localId": "93049512-6401-46b9-b60b-18a00712c316",
 		"name": "Boat Mod",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 0
+	},
+	"461c5a94-d279-4ae5-926f-57d6fa39bc8f": {
+		"description": "this mod adds one block ",
+		"fileId": 2659572497,
+		"localId": "461c5a94-d279-4ae5-926f-57d6fa39bc8f",
+		"name": "my mod thing",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"f356a025-bb12-4066-a266-0d70b7f7f9ad": {
+		"description": "This mod includes the following from the FPS game called DOOM Eternal:\n-Boost Pads which throw the player into the air\n-Monkey Bars which the player can boost themselves off of to gain height\n-Climbable Walls which the player can also boost themselves off of\n[img]https://i.imgur.com/Z8RZ3gd.gif[/img]\n\n[img]https://i.imgur.com/kE4R9tg.gif[/img]\n\nAll of them should work fine no matter how theyre rotated, although the areaTriggers for them might get in a weird place sometimes. Sorry about that.\n\nPlease report any issues in the comments.\n\nSpecial thanks to Sheggy for helping me with networking stuff.\nHave fun!",
+		"fileId": 2659592865,
+		"localId": "f356a025-bb12-4066-a266-0d70b7f7f9ad",
+		"name": "DOOM Eternal Parkour Parts",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
