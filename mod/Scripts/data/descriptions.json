@@ -11154,7 +11154,7 @@
 		"version": 0
 	},
 	"6b303c8b-41d4-44fd-8d9b-ed6889a01779": {
-		"description": "Includes:\n- Soviet and german ww2 tank sights\n- 5 soviet and 2 german propaganda posters\n- 2 soviet tank signs",
+		"description": "Includes:\n- Soviet and german ww2 tank sights\n- 5 soviet and 2 german propaganda posters\n- 3 soviet tank signs\n- 2 german symbols",
 		"fileId": 2654600401,
 		"localId": "6b303c8b-41d4-44fd-8d9b-ed6889a01779",
 		"name": "WW2 AgaliX's mod",
@@ -11242,10 +11242,18 @@
 		"version": 0
 	},
 	"f356a025-bb12-4066-a266-0d70b7f7f9ad": {
-		"description": "This mod includes the following from the FPS game called DOOM Eternal:\n-Boost Pads which throw the player into the air\n-Monkey Bars which the player can boost themselves off of to gain height\n-Climbable Walls which the player can also boost themselves off of\n[img]https://i.imgur.com/Z8RZ3gd.gif[/img]\n\n[img]https://i.imgur.com/kE4R9tg.gif[/img]\n\nAll of them should work fine no matter how theyre rotated, although the areaTriggers for them might get in a weird place sometimes. Sorry about that.\n\nPlease report any issues in the comments.\n\nSpecial thanks to Sheggy for helping me with networking stuff.\nHave fun!",
+		"description": "Current version: 1.1\nCompatible game versions: 0.5.1\n\nThis mod includes the following from the FPS game called DOOM Eternal:\n-Boost Pads which throw the player into the air\n-Monkey Bars which the player can boost themselves off of to gain height\n-Climbable Walls which the player can also boost themselves off of\n[img]https://i.imgur.com/Z8RZ3gd.gif[/img]\n\n[img]https://i.imgur.com/kE4R9tg.gif[/img]\n\nAll of them should work fine no matter how theyre rotated, although the areaTriggers for them might get in a weird place sometimes. Sorry about that.\n\nPlease report any issues in the comments.\n\nSpecial thanks to Sheggy for helping me with networking stuff.\nHave fun!",
 		"fileId": 2659592865,
 		"localId": "f356a025-bb12-4066-a266-0d70b7f7f9ad",
 		"name": "DOOM Eternal Parkour Parts",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"b1b1f32a-a910-4d24-9b59-14b52b8c590f": {
+		"description": "This mod has all the blocks you need.\n\n-Interstellar Block\n-Rick Roll Block\n-Square Rainbow Block\n-Smooth Rainbow Block\n-World Cleaner\n-More Coming In The Future.\n\nHope you enjoy :)",
+		"fileId": 2660896539,
+		"localId": "b1b1f32a-a910-4d24-9b59-14b52b8c590f",
+		"name": "My Mod",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
