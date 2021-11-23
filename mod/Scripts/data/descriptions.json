@@ -11272,5 +11272,13 @@
 		"name": "Survival Servers Mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"6435b06b-bd8b-4ee8-907a-3431406210d5": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2661960635,
+		"localId": "6435b06b-bd8b-4ee8-907a-3431406210d5",
+		"name": "Deadly Bots",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
