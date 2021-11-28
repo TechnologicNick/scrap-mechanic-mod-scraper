@@ -11280,5 +11280,21 @@
 		"name": "Deadly Bots",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"a7da8f0e-92b8-481a-a637-a86067ff57c3": {
+		"description": "FCMod is a small mod that I am working on. This is my first mod, and it contains some useful parts. FCMod is very new, so expect there to be LOTS of updates to this mod.\n\n#ff0000fc#0080ffmod",
+		"fileId": 2666022327,
+		"localId": "a7da8f0e-92b8-481a-a637-a86067ff57c3",
+		"name": "fcmod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"4fd859a4-a05f-4fc3-85a2-0fb7464bf231": {
+		"description": "The Cogpack is a fun modpack by C.O.G. INC .",
+		"fileId": 2666128453,
+		"localId": "4fd859a4-a05f-4fc3-85a2-0fb7464bf231",
+		"name": "The Cogpack",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
