@@ -4242,7 +4242,7 @@
 		"version": 0
 	},
 	"3269e6ef-4d80-4f75-b8f6-dffb303e5243": {
-		"description": "This mod adds new spudguns. They look like famous guns from WW1 and WW2.\nSome of them are animated so check them out if you like that kind of details!\n\n{x} reload time in ticks\n[A] gun is animated\n\n\n====== NEW CONTENT ======\n\n- Browning .50 1x1 added\n- bazooka's explosion radius = 0.5 (0.3 - before update) \n\n=== LIGHT MACHINE GUNS ===\n\n- [A] Lewis M1914  {5}\n- [A] Maxim M1905  {6}\n- Browning .30 {5}\n- MG-34 {5}\n- MG-42 {5}\n- DP-29 {6}\n- DGx03 {6}\n\n=== HEAVY MACHINE GUNS ===\n\n- [A] Browning .50 {7}\n- [A] Browning .50 1x1 {7}\n- [A] Browning .50 Aircraft {7}\n- DSzK 12.7mm {7}\n\n====== 20mm CANNONS ======\n\n- MG 151/20 {8}\n- WZ.38 {10}\n- Hispano {10}\n\n======= EXPLOSIVES ========\n\n- Bomb (proximity fuse)\n- Bomb 50kg\n- Bomb 100kg\n- Bomb 250kg\n- Anti-Tank Mine\n- S-Mine\n\n===== OTHER WEAPONS ======\n\n- Bazooka {120}\n- AK-47 {5}\n- [A] Mosin-Nagant 1891 {50}\n- [A] PTRD-41 {120}\n- [A] Cannon {160}\n\n===========================\n\n\n--------------------------Credit & Copyright:----------------------------\nBrent Batch / DO NOT COPY without permission from \nBrent Batchdiscord)\nQuestion Mark - scripts explosive and non-explosive guns\n\"Alarmblock\" script is made by wingcomstriker405\n--------------------------------------------------------------------------\n",
+		"description": "This mod adds new spudguns. They look like famous guns from WW1 and WW2.\nSome of them are animated so check them out if you like that kind of details!\n\n{x} reload time in ticks\n[A] gun is animated\n\n\n====== NEW CONTENT ======\n\n- [A] Vulcan M61 Minigun {4}\n\n=== LIGHT MACHINE GUNS ===\n\n- [A] Lewis M1914  {5}\n- [A] Maxim M1905  {6}\n- Browning .30 {5}\n- MG-34 {5}\n- MG-42 {5}\n- DP-29 {6}\n- DGx03 {6}\n\n=== HEAVY MACHINE GUNS ===\n\n- [A] Browning .50 {7}\n- [A] Browning .50 1x1 {7}\n- [A] Browning .50 Aircraft {7}\n- DSzK 12.7mm {7}\n\n====== 20mm CANNONS ======\n\n- MG 151/20 {8}\n- WZ.38 {10}\n- Hispano {10}\n- [A] Vulcan M61 {4}\n\n======= EXPLOSIVES ========\n\n- Bomb (proximity fuse)\n- Bomb 50kg\n- Bomb 100kg\n- Bomb 250kg\n- Anti-Tank Mine\n- S-Mine\n\n===== OTHER WEAPONS ======\n\n- Bazooka {120}\n- AK-47 {5}\n- [A] Mosin-Nagant 1891 {50}\n- [A] PTRD-41 {120}\n- [A] Cannon {160}\n\n===========================\n\n\n--------------------------Credit & Copyright:----------------------------\nBrent Batch / DO NOT COPY without permission from \nBrent Batchdiscord)\nQuestion Mark - scripts explosive and non-explosive guns\n\"Alarmblock\" script is made by wingcomstriker405\n--------------------------------------------------------------------------\n",
 		"fileId": 1903792337,
 		"localId": "3269e6ef-4d80-4f75-b8f6-dffb303e5243",
 		"name": "Machine gun",
@@ -11294,6 +11294,14 @@
 		"fileId": 2666128453,
 		"localId": "4fd859a4-a05f-4fc3-85a2-0fb7464bf231",
 		"name": "The Cogpack",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"4f8331b6-deb3-4bd2-b91b-f2a4a685a997": {
+		"description": "This is the fixed version of the Take Flight Mod by sKITZo and SometimesitnotMinecraft\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1408131301\n\nThe mod uses the same UUIDs and items as the original \"Take Flight\" Mod.\n\nIn this version the turbine thrusters are fixed and I have reworked the textures so that they fit better to the Wings mod.\n\nUsage: \nUninstall the original \"Take Flight\" Mod and install this version. Do not use both versions at the same time!!!\n\nCHANGES:\n\n- All Engines and Thruster works again\n- All Thruster textures revised \n- A colorable small rotor blade added\n- Added a Nose Cone Electric Motor Large. \n- Some Description changes\n\n\n- Jumbo Jet style passenger windows with built in switch for attaching to seats to open/close blinds.\n- Propellers with built in thrusters.(2 different sizes)\n- Nose cone with built in motor to adjust the spin rate.(2 different sizes)\nif wanting to attach to wings sub the \"fun and gun\" mod and use the wing blank from there to stick to\n- Jet Turbines for both inwing and under wing\n(fit perfectly with the \"wings\" mod)\n\n- Wooden propeller blades have the same output each as 1 vanilla thruster. (light aircraft)\n- Carbon propeller blades each have double the output as 1 vanilla thruster. (heavier bigger builds)\n- Colorable propeller blades each have double the output as 1 vanilla thruster. (heavier bigger builds)\n- Inline wing turbine has slightly increased power\n- Under wing turbine is increased further.",
+		"fileId": 2668071359,
+		"localId": "4f8331b6-deb3-4bd2-b91b-f2a4a685a997",
+		"name": "Take Flight 2.0",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
