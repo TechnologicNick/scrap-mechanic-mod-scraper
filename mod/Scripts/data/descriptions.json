@@ -11304,5 +11304,21 @@
 		"name": "Take Flight 2.0",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"1ccf147b-8631-477f-9289-f6166829e8bb": {
+		"description": "Toon style log pack,ranging in sizes from 1x1 all the way up to 1x10. More will be added in the future.\n\n Created By: Paradox Studios",
+		"fileId": 2669840690,
+		"localId": "1ccf147b-8631-477f-9289-f6166829e8bb",
+		"name": "Paradox Studios Toon Log Pack",
+		"type": "Blocks and Parts",
+		"version": 0.1
+	},
+	"8d4a78a4-0a31-4e38-80c6-36323b1b4d37": {
+		"description": "A new \"Scrap\" cooler to use as a prop at your camp or maybe even on  your survival rig to keep your Sun Shake ice cold! \n\nCreated By: Paradox Studios",
+		"fileId": 2669917940,
+		"localId": "8d4a78a4-0a31-4e38-80c6-36323b1b4d37",
+		"name": "Scrap Cooler (Prop)",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
