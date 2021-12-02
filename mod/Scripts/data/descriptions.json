@@ -11242,7 +11242,7 @@
 		"version": 0
 	},
 	"f356a025-bb12-4066-a266-0d70b7f7f9ad": {
-		"description": "Current version: 1.2\nCompatible game versions: 0.5.1\n\nThis mod includes the following from the FPS game called DOOM Eternal:\n-Boost Pads which throw the player into the air\n-Monkey Bars which the player can boost themselves off of to gain height\n-Climbable Walls which the player can also boost themselves off of\n[img]https://i.imgur.com/Z8RZ3gd.gif[/img]\n\n[img]https://i.imgur.com/kE4R9tg.gif[/img]\n\nAll of them should work fine no matter how theyre rotated, although the areaTriggers for them might get in a weird place sometimes. Sorry about that.\n\nPlease report any issues in the comments.\n\nSpecial thanks to Sheggy for helping me with networking stuff.\nHave fun!",
+		"description": "Current version: 1.4\nCompatible game versions: 0.5.1\n\nThis mod includes the following from the FPS game called DOOM Eternal:\n-Boost Pads which throw the player into the air\n-Monkey Bars which the player can boost themselves off of to gain height\n-Climbable Walls which the player can also boost themselves off of\n-Buttons that activate after being shot/melee'd, and deactivate after a short while\n[img]https://i.imgur.com/Z8RZ3gd.gif[/img]\n\n[img]https://i.imgur.com/kE4R9tg.gif[/img]\n\nAll of them should work fine no matter how theyre rotated, although the areaTriggers for them might get in a weird place sometimes. Sorry about that.\n\nPlease report any issues in the comments.\n\nSpecial thanks to Sheggy for helping me with networking stuff.\nHave fun!",
 		"fileId": 2659592865,
 		"localId": "f356a025-bb12-4066-a266-0d70b7f7f9ad",
 		"name": "DOOM Eternal Parkour Parts",
