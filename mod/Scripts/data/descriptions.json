@@ -5890,7 +5890,7 @@
 		"version": 0
 	},
 	"a0d72e0c-8cb2-483b-a4b4-ebeef99ee6ef": {
-		"description": "Ever just wanted to be big and red? Ever just wanted to be made of metal like the others? Ever just wanted to have the ability to shoot a nasty chemical? Well if you have all of the above, this mod is (probably) for you!\n\nYou get the premise, \"Be a Farmbot\" turns you into a Farmbot, more specifically the red one. (but green)\n\nCurrent version this works in is 5.0, right now it doesn't work for creative i don't think.\n\n[h1]Latest Updates[/h1]\n[list]\n[*] Added custom animations for existing ones (carry, eat, etc)\n[/list]\n\n[h1]Instructions:[/h1]\n[list]\n[*] Step 1, Go to your steamapps\\workshop\\content\\387990\\ and search (ctrl + f) Farmbot Playermodel\n[*] Step 2, Copy the folder named \"Farmbot Simulator\" and paste it in your Scrap mechanic folder (Not the data or survival folder).\n[*] Step 3, Run the batch file named \"Installer\".\n[/list]\n\nIf you wanna uninstall it, just simply run the Installer's opposite cousin. (the Uninstaller)\n\n[h1]What this mod does[/h1]\n[list]\n[*] 1, You're green instead of skin colored! (not red!)\n[*] 2, You can now die in style!\n[*] 3, The ability to crush robot skulls with your feet! (and also cut them in half)\n[*] 4, Kill other Farmbots!\n[*] 5, Die instantly when you run out of water!\n[*] 6, Shoot a corrosive chemical instead of pesticide and watch the robots melt in it, (and also shoot water) while not having to worry as much about its ballistic trajectory! (though it has limited range now)\n[*] 7, Sink down to the bottom of the ocean like the titanic!\n[*] 8, Spawn in a random location every time you die like a real Farmbot! (this does not affect bed spawns)\n[*] 9, Shoot explosives out of your pesticide launcher when you have a small explosive in your inventory!\n[/list]\n\nTheres more but i'm not gonna bother listing them. It ain't much, but I think its pretty decent. Enjoy it while you still can.",
+		"description": "Ever just wanted to be big and red? Ever just wanted to be made of metal like the others? Ever just wanted to have the ability to shoot a nasty chemical? Well if you have all of the above, this mod is (probably) for you!\n\nYou get the premise, \"Be a Farmbot\" turns you into a Farmbot, more specifically the red one. (but green)\n\nCurrent version this works in is 5.1, right now it doesn't work for creative i don't think.\n\n[h1]Latest Updates[/h1]\n[list]\n[*] Changed Skin color to red\n[*] Changed Thirdperson camera position\n[/list]\n\n[h1]Instructions:[/h1]\n[list]\n[*] Step 1, Go to your steamapps\\workshop\\content\\387990\\ and search (ctrl + f) Farmbot Playermodel (or look for the folder named 2125986549)\n[*] Step 2, Copy the folder named \"Farmbot Simulator\" and paste it in your Scrap mechanic folder (Not the data or survival folder).\n[*] Step 3, Run the batch file named \"Installer\".\n[/list]\n\nIf you wanna uninstall it, just simply run the Installer's opposite cousin. (the Uninstaller)\n\n[h1]What this mod does[/h1]\n[list]\n[*] 1, You're red instead of skin colored!\n[*] 2, You can now die in style!\n[*] 3, The ability to crush robot skulls with your feet! (and also cut them in half)\n[*] 4, Kill other Farmbots!\n[*] 5, Die instantly when you run out of water!\n[*] 6, Shoot a corrosive chemical instead of pesticide and watch the robots melt in it, (and also shoot water) while not having to worry as much about its ballistic trajectory! (though it has limited range now)\n[*] 7, Sink down to the bottom of the ocean like the titanic!\n[*] 8, Spawn in a random location every time you die like a real Farmbot! (this does not affect bed spawns)\n[*] 9, Shoot explosives out of your pesticide launcher when you have a small explosive in your inventory!\n[/list]\n\nTheres more but i'm not gonna bother listing them. It ain't much, but I think its pretty decent. Enjoy it while you still can.",
 		"fileId": 2125986549,
 		"localId": "a0d72e0c-8cb2-483b-a4b4-ebeef99ee6ef",
 		"name": "Be The Farmbot",
@@ -11334,6 +11334,14 @@
 		"fileId": 2673230496,
 		"localId": "cac03d4c-03d3-45ac-bc2e-3771b68dfb4c",
 		"name": "extra blocks mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"8a063d0f-4dde-491b-a9fd-70a025adce18": {
+		"description": "This mod replaces original glowsticks with grenades, so you can throw it\n\nManual installation:\n1.Go into folder \"Scripts\" which takes place in this mod folder\n2.Copy \"Survival\" folder\n3.Paste it into original \"Scrap Mechanic\" folder, which takes place in \"steamapps\" folder\n",
+		"fileId": 2673911531,
+		"localId": "8a063d0f-4dde-491b-a9fd-70a025adce18",
+		"name": "AgaliX's Grenades mod",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
