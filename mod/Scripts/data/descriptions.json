@@ -11328,5 +11328,13 @@
 		"name": "RUSSIAN katyusha RADIO",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"cac03d4c-03d3-45ac-bc2e-3771b68dfb4c": {
+		"description": "Das ist die extra blocks mod\n\nneue blocke zum bauen",
+		"fileId": 2673230496,
+		"localId": "cac03d4c-03d3-45ac-bc2e-3771b68dfb4c",
+		"name": "extra blocks mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
