@@ -11344,5 +11344,13 @@
 		"name": "AgaliX's Grenades mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"a41391a3-c21e-4b34-8037-6cfcf0001d91": {
+		"description": "Just a random block mod. ",
+		"fileId": 2675247612,
+		"localId": "a41391a3-c21e-4b34-8037-6cfcf0001d91",
+		"name": "Testing mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
