@@ -11352,5 +11352,13 @@
 		"name": "Testing mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"b4b0052c-c8de-4ac7-b269-dd63be4da9aa": {
+		"description": "The mod contains custom shooting sounds and also custom WWII styled models to replace vanilla ones",
+		"fileId": 2676983335,
+		"localId": "b4b0052c-c8de-4ac7-b269-dd63be4da9aa",
+		"name": "WWII Styled Spudgun Remodel",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
