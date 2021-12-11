@@ -11266,10 +11266,10 @@
 		"version": 0
 	},
 	"3f7f4e0f-dc99-43a9-9a15-f7ccbaf7dd65": {
-		"description": "This mod doesn't have a description",
+		"description": "by Dr.Pixel Plays",
 		"fileId": 2661301866,
 		"localId": "3f7f4e0f-dc99-43a9-9a15-f7ccbaf7dd65",
-		"name": "Survival Servers Mod",
+		"name": "Survival Servers Mod(by Dr.Pixel Plays)",
 		"type": "Blocks and Parts",
 		"version": 0
 	},
@@ -11358,6 +11358,14 @@
 		"fileId": 2676983335,
 		"localId": "b4b0052c-c8de-4ac7-b269-dd63be4da9aa",
 		"name": "WWII Styled Spudgun Remodel",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"9847679d-5490-4f15-8033-bae52e489bb9": {
+		"description": "Hi Gamers, this is my first mod and it has only two blocks for now Enjoy!!!\n\nVid that helped me\nLink:\nhttps://www.youtube.com/watch?v=TlPC9KV9me8",
+		"fileId": 2678344244,
+		"localId": "9847679d-5490-4f15-8033-bae52e489bb9",
+		"name": "Blocks and stuff (just blocks...)",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
