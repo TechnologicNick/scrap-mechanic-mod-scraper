@@ -11392,5 +11392,13 @@
 		"name": "Paradox Studios Tractor Wheels",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"840f4a48-ffb2-4e1f-8183-69e932a5e39d": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2681766507,
+		"localId": "840f4a48-ffb2-4e1f-8183-69e932a5e39d",
+		"name": "Goozer Mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
