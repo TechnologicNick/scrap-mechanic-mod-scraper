@@ -11400,5 +11400,13 @@
 		"name": "Goozer Mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"08268b70-6560-4241-89d3-3c372a228f50": {
+		"description": "Death",
+		"fileId": 2682409347,
+		"localId": "08268b70-6560-4241-89d3-3c372a228f50",
+		"name": "random scripted_parts",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
