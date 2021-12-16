@@ -11408,5 +11408,13 @@
 		"name": "random scripted_parts",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"a4ae2f4e-4c78-4fca-801e-395f7cfc34cb": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2683415298,
+		"localId": "a4ae2f4e-4c78-4fca-801e-395f7cfc34cb",
+		"name": "Goozer Modpack",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
