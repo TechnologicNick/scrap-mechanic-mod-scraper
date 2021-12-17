@@ -11416,5 +11416,13 @@
 		"name": "Goozer Modpack",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"0eb47fe3-eb3e-431c-afa8-9729c05be2c0": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2684431055,
+		"localId": "0eb47fe3-eb3e-431c-afa8-9729c05be2c0",
+		"name": "Spudgun Tweaks by David 001 (FILE MOD)",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
