@@ -11424,5 +11424,13 @@
 		"name": "Spudgun Tweaks by David 001 (FILE MOD)",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"fe0139ad-c6ee-40d8-ae6a-84cbbc610045": {
+		"description": "[h1]InfiniTrack Blocks & Parts Mod[/h1]\n\nMod Version: 1.0.0\nFor Scrap Mechanic Version: 0.5.1\n\nPimp yo ride! Blocks & parts to create racing vehicles with that are both practical and decorative. They are playtested/designed with care and fit the overall look of Scrap Mechanic. All assets are made from scratch.\n\n[h1]Current Content:[/h1]\n- Interior Mirror\n- Exterior Mirror\n- Windshield\n- Wheels of different grip/appearance\n- Functioning Car Door Handle\n- Modular chrome exhaust pipes \n- Chrome vanilla pipes\n\n[h1]Future Content:[/h1]\n- More shape/size variations for mirrors, windshields, spoilers, wheels...\n- Headlamps\n- Functioning seats with vehicle steering wheel\n- More powerful, realistically sized engines\n- Custom racing suspension\n- Panels/Slabs\n- More Spoilers\n- Mudguards\n- Interior parts\n- Custom shapesets to create hoods or similar with\n- Various metal blocks with appropriate material properties (Painted Metal, Aluminum, Titanium...)\n\nIf you have any suggestions or feedback let me know! Thanks for checking in.\n\n[h1]Links[/h1]\n[*] Rally Car 'Tigershark' [InfiniTrack] https://steamcommunity.com/sharedfiles/filedetails/?id=2685127391",
+		"fileId": 2685106284,
+		"localId": "fe0139ad-c6ee-40d8-ae6a-84cbbc610045",
+		"name": "InfiniTrack Parts",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
