@@ -11432,5 +11432,13 @@
 		"name": "InfiniTrack Parts",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"4b11d258-c80b-4053-9995-ef7633fe7af8": {
+		"description": "Adds sliding to all game modes!\nJust press a directional key and crouch, its that easy.\n*explosive tape firing spudgun not included\n\n[h1]Installation[/h1]\n[list]\n[*]Copy the Survival, Creative and ChallengeData folders from Your Drive:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2686474830\n[*]Paste them in Your Drive:\\Program Files (x86)\\Steam\\steamapps\\Scrap Mechanic\n[*]Overwrite all files\n[*]Enjoy!\n[/list]\n\ngod I hope this works in multiplayer lmfao",
+		"fileId": 2686500371,
+		"localId": "4b11d258-c80b-4053-9995-ef7633fe7af8",
+		"name": "Sliding!",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
