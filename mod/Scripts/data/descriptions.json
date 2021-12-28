@@ -11362,7 +11362,7 @@
 		"version": 0
 	},
 	"9847679d-5490-4f15-8033-bae52e489bb9": {
-		"description": "Hi Gamers, this is my first mod and it has only two blocks for now Enjoy!!!\n\nVid that helped me\nLink:\nhttps://www.youtube.com/watch?v=TlPC9KV9me\n\nUPDATE: 12/12/2021\n\n-Added 2 new blocks\n\n-Fixed Glass\n\n-Changed Name ",
+		"description": "Hi Gamers, this is my first mod and it has only two blocks for now Enjoy!!!\n\nVid that helped me\nLink:\nhttps://www.youtube.com/watch?v=TlPC9KV9me\n\nUPDATE: 12/12/2021\n\n-Added 2 new blocks\n\n-Fixed Glass\n\n-Changed Name \n\n(PC FILE NAME: 2678344244 )\n\n\n\n",
 		"fileId": 2678344244,
 		"localId": "9847679d-5490-4f15-8033-bae52e489bb9",
 		"name": "Weird Blocks Mod!",
@@ -11454,6 +11454,14 @@
 		"fileId": 2693754159,
 		"localId": "c3e40a7a-6405-4df0-a4d0-4c3c449c53df",
 		"name": "PR&FH Mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"a7a3aa9d-d6c8-4ef4-8f71-e340ad1b3398": {
+		"description": "This mod adds alot of useful parts and blocks into the game.\n\n[img]https://i.imgur.com/p7Fv1Z6.gif[/img]\n\nThanks to [url=https://steamcommunity.com/id/Red-Builds] The red builder [/url] for helping!\n\nIf you have any feedback or requests write them in the comments!\n\n",
+		"fileId": 2696789926,
+		"localId": "a7a3aa9d-d6c8-4ef4-8f71-e340ad1b3398",
+		"name": "The Useful Parts Pack",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
