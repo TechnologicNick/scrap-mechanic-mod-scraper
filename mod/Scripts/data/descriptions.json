@@ -11464,5 +11464,21 @@
 		"name": "The Useful Parts Pack",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"9e8f92ae-6e6a-4eba-85c0-aa60874fe0fb": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2700229873,
+		"localId": "9e8f92ae-6e6a-4eba-85c0-aa60874fe0fb",
+		"name": "volt bomb",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"c91482ff-8aa0-4e27-801d-0a6629b69675": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2700254765,
+		"localId": "c91482ff-8aa0-4e27-801d-0a6629b69675",
+		"name": "Stationary FarmBot",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }

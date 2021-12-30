@@ -32397,5 +32397,16 @@
 			"a6acb59c-3209-4cd2-8f01-40f86da719de",
 			"071d32c4-b667-46a4-b0a8-683ff4c3ad90"
 		]
+	},
+	"9e8f92ae-6e6a-4eba-85c0-aa60874fe0fb": {
+		"$CONTENT_9e8f92ae-6e6a-4eba-85c0-aa60874fe0fb/Objects/Database/ShapeSets/blocks.json": [],
+		"$CONTENT_9e8f92ae-6e6a-4eba-85c0-aa60874fe0fb/Objects/Database/ShapeSets/parts.json": [
+			"6d8674de-7b2d-491b-b77c-8576b0fdbd04"
+		]
+	},
+	"c91482ff-8aa0-4e27-801d-0a6629b69675": {
+		"$CONTENT_c91482ff-8aa0-4e27-801d-0a6629b69675/Objects/Database/ShapeSets/parts.json": [
+			"1d85334f-6ca0-4602-9ddc-b2a068f0d22c"
+		]
 	}
 }
