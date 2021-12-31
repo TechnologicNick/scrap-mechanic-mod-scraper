@@ -1480,10 +1480,10 @@
 		"version": 0
 	},
 	"7c10eb65-1c4b-4100-bb2b-6eb491fe34b9": {
-		"description": "This mod doesn't have a description",
+		"description": "Russian transport parts pack",
 		"fileId": 1320682364,
 		"localId": "7c10eb65-1c4b-4100-bb2b-6eb491fe34b9",
-		"name": "Metro Mod",
+		"name": "(RTPP) - Russian transport parts pack",
 		"type": "Blocks and Parts",
 		"version": 0
 	},
@@ -9966,7 +9966,7 @@
 		"description": "This mod is an extention module of the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1969702041]Programmable Processor[/url]. It allows to paint on a 96x54 pixel display. Currently it supports uppercase text, drawing and filling ovals and rectagles. Please keep in mind that it is still work in progress and\nthings might change later in development.\nIn case somebody wants to know the current technical interface to do stuff feel free to get in touch :D\nIf you encounter any bugs let me know :)\nHave fun!\n\n[h1] HLL API [/h1]\n[code]\n[b]get_screens[/b]\n\tparameters: [ ]\n\tdescription:\n\t\treturns a list of all screens that the\n\t\tcomputer is connected to.\n\t\t\n[b]set_screen_resolution[/b]\n\tparameters: [ screen, width, height ]\n\tdescription:\n\t\tsets the amount of pixels of the screen.\n\t\tbe careful using this function because it\n\t\twill recreate all pixels when calling the\n\t\tfunction and can potentially cause lag.\n\t\tthe default resolution is 96x54.\n\n[b]set_screen_size[/b]\n\tparameters: [ screen, width, height ]\n\tdescription:\n\t\tscales the screen to fit into the desired\n\t\twidth and height. the resolution / ratio\n\t\tof the screen stays the same -> the screen\n\t\tmight get distorted.\n\n[b]draw_str[/b]\n\tparameters: [ screen, text, x, y, color ]\n\tdescription:\n\t\tdraws the string in the specified color on\n\t\tthe screen with the left upper corner of the\n\t\tstring as a reference. it currently only knows\n\t\tuppercase input text which i will fix.\n\n[b]draw[/b] and [b]fill[/b]\n\tparameters: [ screen, shape, x, y, width, height, color]\n\tdescription:\n\t\tdraws a shape in the desired color on the screen.\n\t\tit can draw rectangles ('rectangle' as shape parameter)\n\t\twhere x, y specifies the left upper corner and w, h\n\t\tspecify the width and height of the rectangle.\n\t\tit also draws ovals ('oval' as shape parameter) in which\n\t\tcases x, y is the center point and w, h specify the\n\t\tdimensions of the oval.\n[/code]\n\nThe color parameter is a list with 3 numbers from 0.0 to 1.0.\n\n",
 		"fileId": 2484704980,
 		"localId": "06e58db5-bcff-4632-8ba7-65b2e6aa62b9",
-		"name": "Processor Screen Module",
+		"name": "Screen Module",
 		"type": "Blocks and Parts",
 		"version": 0
 	},
@@ -10925,7 +10925,7 @@
 		"description": "This mod adds a camera to the game that can be used to take images to analyse them :)\nNote: Place the camera with the round end of the AND symbol facing upwards\n[h1]SMPL API[/h1]\n[code]\ngetCameras\n\tparameters: []\n\tdescription:\n\t\treturns all cameras connected to the computer\n\nsetResolution\n\tparameters: [camera, width, height]\n\tdescription:\n\t\tsets the resolution that the camera renders\n\nsetFov\n\tparameters: [camera, width, height]\n\tdescription:\n\t\tsets the fov of the camera\n\nsetMode\n\tparameters: [camera, mode]\n\tdescription:\n\t\tsets the mode of the camera\n\t\t\tCamera.DISTANCE\n\t\t\tCamera.COLOR\n\t\t\tCamera.TYPE\n\nsetCastsPerTick\n\tparameters: [camera, amount]\n\tdescription:\n\t\tsets how many raycasts a camera performs per tick\n\nsetRange\n\tparameters: [camera, range]\n\tdescription:\n\t\tsets the number of units the raycast goes\n\ncapture\n\tparameters: [camera]\n\tdescription:\n\t\tstarts the capturing process\n\nisCapturing\n\tparameters: [camera]\n\tdescription:\n\t\treturns if the camera is currently rendering\n\ngetData\n\tparameters: [camera, x, y]\n\tdescription:\n\t\treturns the data for a specific pixel. depending on the mode...\n\t\tDISTANCE -> Number\n\t\tTYPE -> String\n\t\tCOLOR -> Tupel\n\t\t\t(\n\t\t\t\tr: Number,\n\t\t\t\tg: Number,\n\t\t\t\tb: Number\n\t\t\t)\n\n\t\tALL -> Tuple\n\t\t\t(\n\t\t\t\thit: Boolean,\n\t\t\t\tdistance: Number,\n\t\t\t\ttype: String,\n\t\t\t\tcolor: Tuple\n\t\t\t\t\t(\n\t\t\t\t\t\tr: Number,\n\t\t\t\t\t\tg: Number,\n\t\t\t\t\t\tb: Number\n\t\t\t\t\t)\n\t\t\t)\ngetResolution\n\tparameters: [camera]\n\tdescription:\n\t\treturns the resolution of the camera as a tuple (width, height)\n[/code]\n[h1]Example[/h1]\nThis is a simple example that uses the camera and the screen. This is what the program is doing (in general) 1. setting up the screen 2. setting up the camera 3. capturing an image 4. render the image to the screen\n[code]\nimport Screen\nimport Camera\nimport Math\n\nII.setClockSpeed(10000)\n\nscreen = Screen.getScreens()[0]\n(screenWidth, screenHeight) = screen.getResolution()\nscreen.setSize(96, 54)\nprint('clearing screen')\nscreen.fillRect(0, 0, screenWidth, screenHeight, (0, 0, 0))\n\nrange = 100\ncamera = Camera.getCameras()[0]\nca",
 		"fileId": 2620462764,
 		"localId": "6f2bdcca-109d-4511-9e4c-530604375647",
-		"name": "Processor Camera Module [BETA]",
+		"name": "Camera Module",
 		"type": "Blocks and Parts",
 		"version": 0
 	},
@@ -11478,6 +11478,14 @@
 		"fileId": 2700254765,
 		"localId": "c91482ff-8aa0-4e27-801d-0a6629b69675",
 		"name": "Stationary FarmBot",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"0264244c-5d89-42dd-b036-bbbd82e066df": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2700546521,
+		"localId": "0264244c-5d89-42dd-b036-bbbd82e066df",
+		"name": "Идет обновление",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
