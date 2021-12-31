@@ -32441,5 +32441,16 @@
 			"8d7d30ab-9b3f-499f-a67f-084187ec6abf",
 			"883f82d0-4b4f-4afa-a3c7-21ca01c9c01a"
 		]
+	},
+	"3564df5d-687d-42f1-bc04-9c3c4ea37cc5": {
+		"$CONTENT_3564df5d-687d-42f1-bc04-9c3c4ea37cc5/Objects/Database/ShapeSets/blocks.json": [
+			"ccfd0166-3d47-4bdf-8f04-29641b5f5dcd",
+			"526c41b2-4557-426e-ab24-220d68f84a4f",
+			"c7ef8b08-a91f-4a29-beb7-56ad4d20cb17",
+			"d05b44a3-ebaa-4477-8c25-15631d9402eb",
+			"0695f078-b74d-4cdd-b32b-14c4eceae348",
+			"0e240193-5d0e-4c3e-b862-c7300bcf919b"
+		],
+		"$CONTENT_3564df5d-687d-42f1-bc04-9c3c4ea37cc5/Objects/Database/ShapeSets/parts.json": []
 	}
 }

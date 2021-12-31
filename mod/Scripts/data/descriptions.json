@@ -11488,5 +11488,13 @@
 		"name": "Идет обновление",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"3564df5d-687d-42f1-bc04-9c3c4ea37cc5": {
+		"description": "A mod that adds pixel blocks, I made all of the art.",
+		"fileId": 2701599039,
+		"localId": "3564df5d-687d-42f1-bc04-9c3c4ea37cc5",
+		"name": "Pixel Blocks",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
