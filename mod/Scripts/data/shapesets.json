@@ -32452,5 +32452,10 @@
 			"0e240193-5d0e-4c3e-b862-c7300bcf919b"
 		],
 		"$CONTENT_3564df5d-687d-42f1-bc04-9c3c4ea37cc5/Objects/Database/ShapeSets/parts.json": []
+	},
+	"5e306b00-e009-46d5-9ee8-68d610524070": {
+		"$CONTENT_5e306b00-e009-46d5-9ee8-68d610524070/Objects/Database/ShapeSets/parts.json": [
+			"ab1e4305-bcb1-47b0-a2f6-badf3b47af3e"
+		]
 	}
 }

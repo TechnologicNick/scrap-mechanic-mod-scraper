@@ -11496,5 +11496,13 @@
 		"name": "Pixel Blocks",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"5e306b00-e009-46d5-9ee8-68d610524070": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2702596934,
+		"localId": "5e306b00-e009-46d5-9ee8-68d610524070",
+		"name": "Water Bomb",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
