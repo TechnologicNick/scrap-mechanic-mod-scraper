@@ -11504,5 +11504,13 @@
 		"name": "Water Bomb",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"d0e6e573-9384-4e70-be2f-a68ecf8de1af": {
+		"description": "Listen to some Catarinth radio in Scrap Mechanic with this simple file mod\n\nHow to install: Go to the steamapps folder and then workshop then content and then 387990 and locate 2704316105 and then drag Data into the Scrap Mechanic folder, say yes to replacing files and then its done.",
+		"fileId": 2704316105,
+		"localId": "d0e6e573-9384-4e70-be2f-a68ecf8de1af",
+		"name": "Catarinth radio",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
