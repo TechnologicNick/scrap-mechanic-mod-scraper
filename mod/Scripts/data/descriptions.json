@@ -11512,5 +11512,13 @@
 		"name": "Catarinth radio",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"2258f44a-4f93-43f6-8f07-cf90f396ea3b": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2707987812,
+		"localId": "2258f44a-4f93-43f6-8f07-cf90f396ea3b",
+		"name": "Tesla Cybertruck by mimiha420",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
