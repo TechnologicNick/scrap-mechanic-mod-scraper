@@ -11520,5 +11520,21 @@
 		"name": "Tesla Cybertruck by mimiha420",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"0a0eaa34-f921-43d4-9441-a2d5bb504242": {
+		"description": "Welcome to my first mod - Suvad!\n\nThis is a mod that will be supplemented and improved with new versions. Support right now, because someday you will build with this.",
+		"fileId": 2709329853,
+		"localId": "0a0eaa34-f921-43d4-9441-a2d5bb504242",
+		"name": "Suvad's Mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"46a40ee7-fd6d-4fb1-8525-cfff878281dd": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2709391324,
+		"localId": "46a40ee7-fd6d-4fb1-8525-cfff878281dd",
+		"name": "Unlocked Destruction",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
