@@ -11536,5 +11536,21 @@
 		"name": "Unlocked Destruction",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"b8919611-ad70-4f7e-b061-1df16ac79707": {
+		"description": "If you want to add some extra difficulty to the game it's a mod for you! Haybots will spawn EVEYWHERE randomly. If there will be to much lagg you can always change the value in the script.\nThiis a file mod !!!\nfor quicker installation link for smm page\nhttps://scrapmechanicmods.com/m=103",
+		"fileId": 2712580892,
+		"localId": "b8919611-ad70-4f7e-b061-1df16ac79707",
+		"name": "haybot apocalypse",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"0adcc5d8-ba61-44bc-8dd0-cc203016d045": {
+		"description": "Just some custom RB themed tool textures that replace the old ones.\n\nYou will have to Download them from Github and then manually replace them one by one. (follow the instructions in the README file on github.)\n\nGithub Download: https://github.com/Rand0mB0y/RandomBoy-s-Custom-SM-Tools",
+		"fileId": 2712960753,
+		"localId": "0adcc5d8-ba61-44bc-8dd0-cc203016d045",
+		"name": "Random Boy's Tools (Read Description)",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
