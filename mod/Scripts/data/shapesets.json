@@ -4496,6 +4496,9 @@
 		]
 	},
 	"7c10eb65-1c4b-4100-bb2b-6eb491fe34b9": {
+		"$CONTENT_7c10eb65-1c4b-4100-bb2b-6eb491fe34b9/Objects/Database/ShapeSets/Bashmak.json": [
+			"f93a825a-90a0-4ab4-ac33-06271e5ade43"
+		],
 		"$CONTENT_7c10eb65-1c4b-4100-bb2b-6eb491fe34b9/Objects/Database/ShapeSets/CentralizHandle.json": [
 			"f46eb9ce-6450-4fbc-8054-894d6fc35d5b"
 		],
@@ -4552,6 +4555,9 @@
 		],
 		"$CONTENT_7c10eb65-1c4b-4100-bb2b-6eb491fe34b9/Objects/Database/ShapeSets/RB-80.json": [
 			"d3e475d4-3132-11e8-b477-0ed4a89f718b"
+		],
+		"$CONTENT_7c10eb65-1c4b-4100-bb2b-6eb491fe34b9/Objects/Database/ShapeSets/TrainWhistle.json": [
+			"ff77c96a-3030-46cc-bdb7-688ae6353f5c"
 		],
 		"$CONTENT_7c10eb65-1c4b-4100-bb2b-6eb491fe34b9/Objects/Database/ShapeSets/av8b.json": [
 			"d6818720-2fa5-11e8-b467-0ed5f89f718b"
@@ -32614,7 +32620,8 @@
 	"46a40ee7-fd6d-4fb1-8525-cfff878281dd": {
 		"$CONTENT_46a40ee7-fd6d-4fb1-8525-cfff878281dd/Objects/Database/ShapeSets/blocks.json": [],
 		"$CONTENT_46a40ee7-fd6d-4fb1-8525-cfff878281dd/Objects/Database/ShapeSets/parts.json": [
-			"24b2a26e-6352-4404-8777-3e314235f27a"
+			"24b2a26e-6352-4404-8777-3e314235f27a",
+			"ef212828-4c0f-40fe-847a-dc1a0dcc612d"
 		]
 	},
 	"b8919611-ad70-4f7e-b061-1df16ac79707": {},
