@@ -11576,5 +11576,21 @@
 		"name": "CookbotV2",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"837ee281-fe9a-4b66-8a6f-3e7b58a9c023": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2728770877,
+		"localId": "837ee281-fe9a-4b66-8a6f-3e7b58a9c023",
+		"name": "Newblocks",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"3b95c10a-6a36-431d-bca3-727ad7a502e1": {
+		"description": "1. Go to steamapps>workshop>content>387990>ID>mod \n2. Read guide.txt",
+		"fileId": 2728854690,
+		"localId": "3b95c10a-6a36-431d-bca3-727ad7a502e1",
+		"name": "Extra Recipes Mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
