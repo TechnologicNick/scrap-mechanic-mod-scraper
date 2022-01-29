@@ -11592,5 +11592,13 @@
 		"name": "Extra Recipes Mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"f32cc35c-36c4-4841-93b3-3ae70a13b366": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2734800143,
+		"localId": "f32cc35c-36c4-4841-93b3-3ae70a13b366",
+		"name": "UnLock Assets - Survival Assets in Creative Tiles!",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
