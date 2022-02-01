@@ -11600,5 +11600,13 @@
 		"name": "UnLock Assets - Survival Assets in Creative Tiles!",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"1c4b4aa1-be26-4e2d-a9d1-23b08d923de7": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2738364336,
+		"localId": "1c4b4aa1-be26-4e2d-a9d1-23b08d923de7",
+		"name": "spaceship",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
