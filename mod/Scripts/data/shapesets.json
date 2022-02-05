@@ -32923,5 +32923,11 @@
 			"e6988e41-fa55-4c06-bb42-d7a7b914b81f"
 		],
 		"$CONTENT_cb155a25-03b1-44ea-99f0-3a3c8d53c26d/Objects/Database/ShapeSets/parts.json": []
+	},
+	"db81ed99-68ef-4eb5-9993-6048421c2dc1": {
+		"$CONTENT_db81ed99-68ef-4eb5-9993-6048421c2dc1/Objects/Database/ShapeSets/blocks.json": [],
+		"$CONTENT_db81ed99-68ef-4eb5-9993-6048421c2dc1/Objects/Database/ShapeSets/parts.json": [
+			"3012aaad-5494-11e6-beb8-9e71128cae88"
+		]
 	}
 }

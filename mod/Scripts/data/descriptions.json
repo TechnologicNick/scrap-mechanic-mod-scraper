@@ -11640,5 +11640,13 @@
 		"name": "Meme_Star Mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"db81ed99-68ef-4eb5-9993-6048421c2dc1": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2743387883,
+		"localId": "db81ed99-68ef-4eb5-9993-6048421c2dc1",
+		"name": "Spray paint",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
