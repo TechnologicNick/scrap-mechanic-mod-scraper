@@ -11648,5 +11648,13 @@
 		"name": "Spray paint",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"cfb3c200-4272-4de8-9810-69c0079e0287": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2745522922,
+		"localId": "cfb3c200-4272-4de8-9810-69c0079e0287",
+		"name": "Zepsun's Variety Blocks",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
