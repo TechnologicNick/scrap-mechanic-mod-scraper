@@ -11656,5 +11656,13 @@
 		"name": "Zepsun's Variety Blocks",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"5a692414-9a09-4bd2-889b-e3d7365b95a5": {
+		"description": "Diesel-Electric Locomotive Wheel Truck Parts:\n\n- Wheel, Wheel & Axle, Bearing\n- Bearing Support Bracket\n- Frame Mount (Single, Double)\n- Air Cylinder (Left, Right)\n- Air Line (Left, Right)\n- Frame Parts: A, B, C, D (Left, Right), E (Left, Right), F\n\nNote: suspension parts in Scrap Mechanic cannot be rotated, to allow for this the following parts have been created:\n\n- Suspension (Left, Right)\n- Suspension & Yaw (Left & Right)\n- Suspension & Damper (Front - Left, Front - Right)\n- Suspension & Damper (Rear - Left, Rear - Right)\n\nIf you like this mod and would like to see other similar parts developed, please leave a comment with some ideas for future parts and hit the like button, thanks.\n",
+		"fileId": 2745671652,
+		"localId": "5a692414-9a09-4bd2-889b-e3d7365b95a5",
+		"name": "Locomotive Parts",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }

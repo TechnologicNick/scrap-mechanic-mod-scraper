@@ -32932,8 +32932,47 @@
 	"cfb3c200-4272-4de8-9810-69c0079e0287": {
 		"$CONTENT_cfb3c200-4272-4de8-9810-69c0079e0287/Objects/Database/ShapeSets/blocks.json": [
 			"0d5ad108-1aaf-43cd-b951-ba42fc2f98e5",
-			"eb294099-5303-4ab8-882e-f421ea976502"
+			"eb294099-5303-4ab8-882e-f421ea976502",
+			"018cf703-144e-43d5-ae58-534485d897f0"
 		],
 		"$CONTENT_cfb3c200-4272-4de8-9810-69c0079e0287/Objects/Database/ShapeSets/parts.json": []
+	},
+	"5a692414-9a09-4bd2-889b-e3d7365b95a5": {
+		"$CONTENT_5a692414-9a09-4bd2-889b-e3d7365b95a5/Objects/Database/ShapeSets/damper.json": [
+			"17a99e96-ffec-4b99-92e8-72d39c248a2e",
+			"dc448890-ee3f-47d0-bdc0-6664606bb995",
+			"4c1375ab-c779-452f-a809-4f1890efbe2e",
+			"d3ef708e-703b-4394-93e3-2a9a0391ea91"
+		],
+		"$CONTENT_5a692414-9a09-4bd2-889b-e3d7365b95a5/Objects/Database/ShapeSets/frame.json": [
+			"160d79d0-55d0-42e6-9985-928180011552",
+			"d6001fbf-230d-4973-8267-6f915e325bb0",
+			"be69bf9f-72dd-4ba0-82dd-fac6d15b8eca",
+			"df52b96a-0e77-49ed-b2ae-f4796f4dfbfc",
+			"2ff39962-0c54-4289-81d5-d7957d0e7e34",
+			"99859876-e386-4c90-b6ae-4572eb941a48",
+			"b74490e2-6436-4fa3-8807-60c9230f5567",
+			"0aa69dab-f213-4ed7-970e-d144ea487a72"
+		],
+		"$CONTENT_5a692414-9a09-4bd2-889b-e3d7365b95a5/Objects/Database/ShapeSets/parts.json": [
+			"3e493bd2-9df8-489a-ab41-1006aaba2c42",
+			"95c93cfe-90d2-4510-bf1f-5b2d6a5ab9fe",
+			"5386eb80-5e0b-42d3-ba89-636d06c6e78d",
+			"13fceeb7-d838-4889-a855-633c26c79396",
+			"0b51c691-6045-4ce9-aa05-ff62cc30b45e",
+			"5ca8d1b4-931c-48c6-a5ec-43b3b2a510fe",
+			"b0f362e7-0d2a-4c86-8e9f-939ce2ea3aab",
+			"a1e61c62-fe51-4efb-aa97-8f6357416e66",
+			"093774d4-c6fd-4592-8857-191c800aaf10",
+			"1a758d43-8688-4fb0-a072-a51c0cced26f"
+		],
+		"$CONTENT_5a692414-9a09-4bd2-889b-e3d7365b95a5/Objects/Database/ShapeSets/suspension.json": [
+			"e2f5eba1-2e4f-41c0-aadb-e9aa81c3f27d",
+			"c2bcb954-1b74-494f-a015-d8bac40a63f4"
+		],
+		"$CONTENT_5a692414-9a09-4bd2-889b-e3d7365b95a5/Objects/Database/ShapeSets/yaw.json": [
+			"78d5dda6-1f29-4427-83a9-e1f67b393c04",
+			"7446dfd8-f594-407a-befa-c8a5fe5f5e14"
+		]
 	}
 }
