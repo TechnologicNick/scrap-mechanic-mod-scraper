@@ -29012,6 +29012,7 @@
 			"be29592a-ef58-4b1d-b18c-895023abd27f"
 		],
 		"$CONTENT_705fdcda-506f-42c3-920a-6301bb950e9f/Objects/Database/ShapeSets/dev.json": [
+			"f00ce58f-a490-425a-8422-437022c3f47f",
 			"42c8e4fc-0c38-4aa8-80ea-1835dd982d7c"
 		],
 		"$CONTENT_705fdcda-506f-42c3-920a-6301bb950e9f/Objects/Database/ShapeSets/fruitcrates.json": [
@@ -32933,7 +32934,8 @@
 		"$CONTENT_cfb3c200-4272-4de8-9810-69c0079e0287/Objects/Database/ShapeSets/blocks.json": [
 			"0d5ad108-1aaf-43cd-b951-ba42fc2f98e5",
 			"eb294099-5303-4ab8-882e-f421ea976502",
-			"018cf703-144e-43d5-ae58-534485d897f0"
+			"018cf703-144e-43d5-ae58-534485d897f0",
+			"201db93e-4465-4fba-acb9-539bb12fa312"
 		],
 		"$CONTENT_cfb3c200-4272-4de8-9810-69c0079e0287/Objects/Database/ShapeSets/parts.json": []
 	},
