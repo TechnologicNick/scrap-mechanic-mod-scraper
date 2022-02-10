@@ -11154,7 +11154,7 @@
 		"version": 0
 	},
 	"6b303c8b-41d4-44fd-8d9b-ed6889a01779": {
-		"description": "Includes:\n- Soviet and german ww2 tank sights\n- 5 soviet and 2 german propaganda posters\n- 3 soviet tank signs\n- 2 german symbols\n- tank view slit",
+		"description": "Includes:\n- Soviet and german ww2 tank sights\n- Invisible extra armor\n- 5 soviet and 2 german propaganda posters\n- 3 soviet tank signs\n- 2 german symbols\n- tank view slit",
 		"fileId": 2654600401,
 		"localId": "6b303c8b-41d4-44fd-8d9b-ed6889a01779",
 		"name": "WW2 AgaliX's mod",
@@ -11662,6 +11662,14 @@
 		"fileId": 2745671652,
 		"localId": "5a692414-9a09-4bd2-889b-e3d7365b95a5",
 		"name": "Locomotive Parts",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"2f665895-7584-477a-b64b-2038dacb26a3": {
+		"description": "This mod just adds 4 blocks in the game.",
+		"fileId": 2748190841,
+		"localId": "2f665895-7584-477a-b64b-2038dacb26a3",
+		"name": "Extra Random Blocks",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
