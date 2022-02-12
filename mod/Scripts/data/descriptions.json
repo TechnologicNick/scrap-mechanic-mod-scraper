@@ -11672,5 +11672,21 @@
 		"name": "Extra Random Blocks",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"a7ae854c-03e2-4928-a30f-38d3186c51f1": {
+		"description": "Super block mod !!! ",
+		"fileId": 2750193092,
+		"localId": "a7ae854c-03e2-4928-a30f-38d3186c51f1",
+		"name": "Scrap Duck Mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"4e37b16b-4062-41bd-8389-27b27294b07a": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2750204393,
+		"localId": "4e37b16b-4062-41bd-8389-27b27294b07a",
+		"name": "Scrap",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
