@@ -32076,7 +32076,9 @@
 			"e76b2071-c095-4fb9-adbf-5aeed5f0b08c",
 			"50004f08-a99f-45c4-94c3-0097f4422f32",
 			"8e1a96c8-4f9e-4628-8d65-5daa94489572",
-			"ce9fb7af-3d3c-4fbb-acec-547551d284f3"
+			"ce9fb7af-3d3c-4fbb-acec-547551d284f3",
+			"c7b1bdfc-a1b4-4cb6-9bd4-aa58276e2a2d",
+			"4ed7ef79-73d3-49e0-97a6-96665fb5ee4c"
 		]
 	},
 	"cc079199-0ee6-43ea-a343-e24a3bbff2a1": {},
@@ -33030,5 +33032,40 @@
 			"2305a272-450f-4a3a-8b64-539ce14a22a3"
 		],
 		"$CONTENT_4e37b16b-4062-41bd-8389-27b27294b07a/Objects/Database/ShapeSets/parts.json": []
+	},
+	"dae379d7-9cfa-4110-9ac1-2c48be26c7bd": {
+		"$CONTENT_dae379d7-9cfa-4110-9ac1-2c48be26c7bd/Objects/Database/ShapeSets/blocks.json": [
+			"59f9be28-7e00-4cf8-a5cf-b52485f214da",
+			"428c7e26-341b-489a-b92e-e71fe2a78765",
+			"ac258bd6-41f4-49cc-be79-41f634960ac0",
+			"c8d14c64-f5e9-4d5a-b08c-23dd94f84826"
+		],
+		"$CONTENT_dae379d7-9cfa-4110-9ac1-2c48be26c7bd/Objects/Database/ShapeSets/parts.json": []
+	},
+	"846cd012-badd-4b4a-97b9-d1cf85f473b3": {
+		"$CONTENT_846cd012-badd-4b4a-97b9-d1cf85f473b3/Objects/Database/ShapeSets/blocks.json": [
+			"e4384547-a5de-4394-b6db-195f58cf0cd4",
+			"62c3db39-52fe-4dbe-8690-0136b1499a6f"
+		],
+		"$CONTENT_846cd012-badd-4b4a-97b9-d1cf85f473b3/Objects/Database/ShapeSets/parts.json": []
+	},
+	"d43db044-ae56-4d54-9a79-a4dff3930c6f": {
+		"$CONTENT_d43db044-ae56-4d54-9a79-a4dff3930c6f/Objects/Database/ShapeSets/blocks.json": [
+			"178c6d55-fab8-47c5-9b8c-db2fbf626be7",
+			"ec613cb7-ead1-425f-971c-408f50813088",
+			"178c6d55-fab8-47c5-9b8c-db2fbf626be7"
+		],
+		"$CONTENT_d43db044-ae56-4d54-9a79-a4dff3930c6f/Objects/Database/ShapeSets/parts.json": []
+	},
+	"d9e6682a-1885-44b2-9cda-11bf5fec9dac": {
+		"$CONTENT_d9e6682a-1885-44b2-9cda-11bf5fec9dac/Objects/Database/ShapeSets/blocks.json": [],
+		"$CONTENT_d9e6682a-1885-44b2-9cda-11bf5fec9dac/Objects/Database/ShapeSets/parts.json": [
+			"be0ae915-0d23-4bfa-ab1f-2fcda51180fd"
+		]
+	},
+	"67145ee8-9f40-4f28-a6b7-6c398869f830": {
+		"$CONTENT_67145ee8-9f40-4f28-a6b7-6c398869f830/Objects/Database/ShapeSets/parts.json": [
+			"ea2162ab-78ae-4f39-87f6-ef6911d649f8"
+		]
 	}
 }

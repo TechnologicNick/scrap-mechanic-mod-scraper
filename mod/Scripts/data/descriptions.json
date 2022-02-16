@@ -11688,5 +11688,45 @@
 		"name": "Scrap",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"dae379d7-9cfa-4110-9ac1-2c48be26c7bd": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2100075577,
+		"localId": "dae379d7-9cfa-4110-9ac1-2c48be26c7bd",
+		"name": "mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"846cd012-badd-4b4a-97b9-d1cf85f473b3": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2754524398,
+		"localId": "846cd012-badd-4b4a-97b9-d1cf85f473b3",
+		"name": "Extra Blocks",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"d43db044-ae56-4d54-9a79-a4dff3930c6f": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2754534049,
+		"localId": "d43db044-ae56-4d54-9a79-a4dff3930c6f",
+		"name": "mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"d9e6682a-1885-44b2-9cda-11bf5fec9dac": {
+		"description": "This mod adds a spudgun that you can adjust in various ways.\nJust interact with the gun and begin tuning it however you'd like!\n\nThings you can adjust:\n-Projectile type\n-Projectile damage\n-Projectile velocity\n-How many times the projectile gets shot\n-Spread(unique to each projectile if more than one gets shot)\n-Reload time(ticks)\n-Whether it shoots continuously or not",
+		"fileId": 2754754406,
+		"localId": "d9e6682a-1885-44b2-9cda-11bf5fec9dac",
+		"name": "Adjustable Mountable Spudgun",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"67145ee8-9f40-4f28-a6b7-6c398869f830": {
+		"description": "",
+		"fileId": 2754786413,
+		"localId": "67145ee8-9f40-4f28-a6b7-6c398869f830",
+		"name": "Collision destruction Physics",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
