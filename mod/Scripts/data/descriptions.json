@@ -11714,7 +11714,7 @@
 		"version": 0
 	},
 	"d9e6682a-1885-44b2-9cda-11bf5fec9dac": {
-		"description": "This mod adds a spudgun that you can adjust in various ways.\nJust interact with the gun and begin tuning it however you'd like!\n\nThings you can adjust:\n-Projectile type\n-Projectile damage\n-Projectile velocity\n-How many times the projectile gets shot\n-Spread(unique to each projectile if more than one gets shot)\n-Reload time(ticks)\n-Whether it shoots continuously or not\n\nProjectile types:\n-Potato\n-Small Potato(gatling gun projectiles)\n-Fries\n-Tape\n-Explosive Tape\n-Water\n-Pesticide\n-Glowstick\n\n",
+		"description": "This mod adds a spudgun that you can adjust in various ways.\nJust interact with the gun and begin tuning it however you'd like!\n\nYou can also create templates out of the guns! Just press U on the gun you want to make a template of, press E on another gun and click the template button! You can also switch templates by connecting another logic input. It will inherit the template gun's stats and everything! You can have multiple templates. \n\nThings you can adjust:\n-Projectile type\n-Projectile damage\n-Projectile velocity\n-How many times the projectile gets shot\n-Spread(unique to each projectile if more than one gets shot)\n-Reload time(ticks)\n-Whether it shoots continuously or not\n\nProjectile types:\n-Potato\n-Small Potato(gatling gun projectiles)\n-Fries\n-Tape\n-Explosive Tape\n-Water\n-Pesticide\n-Glowstick\n\n",
 		"fileId": 2754754406,
 		"localId": "d9e6682a-1885-44b2-9cda-11bf5fec9dac",
 		"name": "Adjustable Mountable Spudgun",
@@ -11726,6 +11726,14 @@
 		"fileId": 2754786413,
 		"localId": "67145ee8-9f40-4f28-a6b7-6c398869f830",
 		"name": "Collision destruction Physics",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"fdabdaaf-e484-4271-a162-acd63b5b91f5": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2756530863,
+		"localId": "fdabdaaf-e484-4271-a162-acd63b5b91f5",
+		"name": "Tile",
 		"type": "Blocks and Parts",
 		"version": 0
 	}

@@ -33072,5 +33072,19 @@
 		"$CONTENT_67145ee8-9f40-4f28-a6b7-6c398869f830/Objects/Database/ShapeSets/parts.json": [
 			"ea2162ab-78ae-4f39-87f6-ef6911d649f8"
 		]
+	},
+	"fdabdaaf-e484-4271-a162-acd63b5b91f5": {
+		"$CONTENT_fdabdaaf-e484-4271-a162-acd63b5b91f5/Objects/Database/ShapeSets/blocks.json": [
+			"7415ef57-6c85-4a1e-82b2-fb3dc5a37681",
+			"09f23155-eecc-4706-9292-00ae7bb5f3bc",
+			"288d75d2-3781-46da-816e-be5d1b7bc18e",
+			"880c7c46-e382-43b0-bb68-34fe948b93c5",
+			"4bc7197a-24b2-45a8-bc57-e6f5215a66b8",
+			"4776de4e-7588-4ca1-9951-ea9c34d82734",
+			"1ce32b70-7b9b-49f3-a3bf-8a7a4d24b696",
+			"349660e7-cf1c-43ff-9b46-24d2f1f499eb",
+			"b462f1f7-bd5b-4e0a-a43f-1f7fd6ca93d0"
+		],
+		"$CONTENT_fdabdaaf-e484-4271-a162-acd63b5b91f5/Objects/Database/ShapeSets/parts.json": []
 	}
 }
