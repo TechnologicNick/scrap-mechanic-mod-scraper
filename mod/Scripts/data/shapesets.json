@@ -32978,7 +32978,11 @@
 			"018cf703-144e-43d5-ae58-534485d897f0",
 			"201db93e-4465-4fba-acb9-539bb12fa312"
 		],
-		"$CONTENT_cfb3c200-4272-4de8-9810-69c0079e0287/Objects/Database/ShapeSets/parts.json": []
+		"$CONTENT_cfb3c200-4272-4de8-9810-69c0079e0287/Objects/Database/ShapeSets/parts.json": [
+			"44377a81-4b3c-4c0f-a766-5ae6922638b7",
+			"1fea7410-db81-4e1a-9b96-73df18cfdea4",
+			"fb4d7a36-93d7-41fb-96a5-57b07a30f80c"
+		]
 	},
 	"5a692414-9a09-4bd2-889b-e3d7365b95a5": {
 		"$CONTENT_5a692414-9a09-4bd2-889b-e3d7365b95a5/Objects/Database/ShapeSets/damper.json": [
