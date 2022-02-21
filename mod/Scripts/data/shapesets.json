@@ -6835,6 +6835,7 @@
 			"2490aaaa-5494-11e6-beb8-9e71128cae77",
 			"3001aacf-5494-11e6-beb8-9e71128cae77",
 			"3002aaad-5494-11e6-beb8-9e71128cae77",
+			"3008aacf-5494-11e6-beb8-9e71128cae77",
 			"3001aaad-5494-11e6-beb8-9e71128cae77",
 			"3002aace-5494-11e6-beb8-9e71128cae77",
 			"3003aaad-5494-11e6-beb8-9e71128cae77",
@@ -7341,6 +7342,9 @@
 			"2486aaaa-5494-11e6-beb8-9e71128cae77",
 			"4004aacd-5494-11e6-beb8-9e71128cae77",
 			"3064aaab-5494-11e6-beb8-9e71128cae77",
+			"4009aacf-5494-11e6-beb8-9e71128cae77",
+			"4010aacf-5494-11e6-beb8-9e71128cae77",
+			"4011aacf-5494-11e6-beb8-9e71128cae77",
 			"a296753a-4585-11e6-beb8-9e71128cae77",
 			"3061aaab-5494-11e6-beb8-9e71128cae77",
 			"3062aaab-5494-11e6-beb8-9e71128cae77",
@@ -24224,6 +24228,7 @@
 			"2490aaaa-5494-11e6-beb8-9e71128cae77",
 			"3001aacf-5494-11e6-beb8-9e71128cae77",
 			"3002aaad-5494-11e6-beb8-9e71128cae77",
+			"3008aacf-5494-11e6-beb8-9e71128cae77",
 			"3001aaad-5494-11e6-beb8-9e71128cae77",
 			"3002aace-5494-11e6-beb8-9e71128cae77",
 			"3003aaad-5494-11e6-beb8-9e71128cae77",
@@ -24730,6 +24735,9 @@
 			"2486aaaa-5494-11e6-beb8-9e71128cae77",
 			"4004aacd-5494-11e6-beb8-9e71128cae77",
 			"3064aaab-5494-11e6-beb8-9e71128cae77",
+			"4009aacf-5494-11e6-beb8-9e71128cae77",
+			"4010aacf-5494-11e6-beb8-9e71128cae77",
+			"4011aacf-5494-11e6-beb8-9e71128cae77",
 			"a296753a-4585-11e6-beb8-9e71128cae77",
 			"3061aaab-5494-11e6-beb8-9e71128cae77",
 			"3062aaab-5494-11e6-beb8-9e71128cae77",
@@ -33113,5 +33121,9 @@
 	"1f8a76d2-b38a-4672-9919-41f8a3bc42fa": {
 		"$CONTENT_1f8a76d2-b38a-4672-9919-41f8a3bc42fa/Objects/Database/ShapeSets/blocks.json": [],
 		"$CONTENT_1f8a76d2-b38a-4672-9919-41f8a3bc42fa/Objects/Database/ShapeSets/parts.json": []
+	},
+	"ea7c489f-590c-4bd7-b749-8dda5dd0e675": {
+		"$CONTENT_ea7c489f-590c-4bd7-b749-8dda5dd0e675/Objects/Database/ShapeSets/blocks.json": [],
+		"$CONTENT_ea7c489f-590c-4bd7-b749-8dda5dd0e675/Objects/Database/ShapeSets/parts.json": []
 	}
 }

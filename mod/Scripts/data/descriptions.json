@@ -11760,5 +11760,13 @@
 		"name": "Timoha's Test",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"ea7c489f-590c-4bd7-b749-8dda5dd0e675": {
+		"description": "ss",
+		"fileId": 2760474990,
+		"localId": "ea7c489f-590c-4bd7-b749-8dda5dd0e675",
+		"name": "Plyta peronowa szablon",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
