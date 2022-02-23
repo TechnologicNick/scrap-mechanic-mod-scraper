@@ -11768,5 +11768,13 @@
 		"name": "Plyta peronowa szablon",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"8fc38581-0d29-4d73-9c5a-f3a9728ee937": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2761663266,
+		"localId": "8fc38581-0d29-4d73-9c5a-f3a9728ee937",
+		"name": "Better Glass Mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
