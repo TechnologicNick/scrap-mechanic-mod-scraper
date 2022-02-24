@@ -11776,5 +11776,13 @@
 		"name": "Better Glass Mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"19414211-45a7-4fff-b9e6-2bdc21a6d2a8": {
+		"description": "Breaking cotton now gives component kits\nBreaking corn gives cicuit boards\nSledgehammer does 100 damage (exatcly the health of an haybot)\nTo install the mod go to the \"Survival\" folder (for example mine is located at: D:\\SteamLibrary\\SteamLibrary\\steamapps\\common\\Scrap Mechanic) and change the paste the \"Scripts\" folder of the mod folder in it (for example the mod folder is located at: D:\\SteamLibrary\\SteamLibrary\\steamapps\\workshop\\content\\387990\\2762837189)",
+		"fileId": 2762837189,
+		"localId": "19414211-45a7-4fff-b9e6-2bdc21a6d2a8",
+		"name": "Epik mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
