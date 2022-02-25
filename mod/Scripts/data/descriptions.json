@@ -11784,5 +11784,13 @@
 		"name": "Epik mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"6a9b37d7-5923-43ae-a48a-702fdc5fa5df": {
+		"description": "Adds a single block, the Instant Logic Gate\nIf an Instant Logic Gate is used with other Instant Logic Gates then all logic will be calculated in a single tick (without delay)\nif there are any loops, then the gates that create the loop will disable themselves and show an (X) on top of the block",
+		"fileId": 2763789692,
+		"localId": "6a9b37d7-5923-43ae-a48a-702fdc5fa5df",
+		"name": "Instant Logic",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }

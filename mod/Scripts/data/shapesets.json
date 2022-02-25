@@ -6745,11 +6745,14 @@
 			"1001aaca-5494-11e6-beb8-9e71128cae77",
 			"1045aabd-5494-11e6-beb8-9e71128cae77",
 			"1001aacb-5494-11e6-beb8-9e71128cae77",
+			"1034aacf-5494-11e6-beb8-9e71128cae77",
 			"1029aace-5494-11e6-beb8-9e71128cae77",
 			"1026aacf-5494-11e6-beb8-9e71128cae77",
 			"1027aacf-5494-11e6-beb8-9e71128cae77",
 			"1028aacf-5494-11e6-beb8-9e71128cae77",
 			"a71fbf96-4583-11e6-beb8-9e71128cae77",
+			"1032aacf-5494-11e6-beb8-9e71128cae77",
+			"1033aacf-5494-11e6-beb8-9e71128cae77",
 			"1036aace-5494-11e6-beb8-9e71128cae77",
 			"1037aace-5494-11e6-beb8-9e71128cae77",
 			"1027aace-5494-11e6-beb8-9e71128cae77",
@@ -7275,6 +7278,7 @@
 			"7008aabf-5494-11e6-beb8-9e71128cae77",
 			"7001aacf-5494-11e6-beb8-9e71128cae77",
 			"7002aacf-5494-11e6-beb8-9e71128cae77",
+			"7003aacf-5494-11e6-beb8-9e71128cae77",
 			"6007aaac-5494-11e6-beb8-9e71128cae77",
 			"6008aaac-5494-11e6-beb8-9e71128cae77",
 			"6009aaac-5494-11e6-beb8-9e71128cae77",
@@ -24138,11 +24142,14 @@
 			"1001aaca-5494-11e6-beb8-9e71128cae77",
 			"1045aabd-5494-11e6-beb8-9e71128cae77",
 			"1001aacb-5494-11e6-beb8-9e71128cae77",
+			"1034aacf-5494-11e6-beb8-9e71128cae77",
 			"1029aace-5494-11e6-beb8-9e71128cae77",
 			"1026aacf-5494-11e6-beb8-9e71128cae77",
 			"1027aacf-5494-11e6-beb8-9e71128cae77",
 			"1028aacf-5494-11e6-beb8-9e71128cae77",
 			"a71fbf96-4583-11e6-beb8-9e71128cae77",
+			"1032aacf-5494-11e6-beb8-9e71128cae77",
+			"1033aacf-5494-11e6-beb8-9e71128cae77",
 			"1036aace-5494-11e6-beb8-9e71128cae77",
 			"1037aace-5494-11e6-beb8-9e71128cae77",
 			"1027aace-5494-11e6-beb8-9e71128cae77",
@@ -24668,6 +24675,7 @@
 			"7008aabf-5494-11e6-beb8-9e71128cae77",
 			"7001aacf-5494-11e6-beb8-9e71128cae77",
 			"7002aacf-5494-11e6-beb8-9e71128cae77",
+			"7003aacf-5494-11e6-beb8-9e71128cae77",
 			"6007aaac-5494-11e6-beb8-9e71128cae77",
 			"6008aaac-5494-11e6-beb8-9e71128cae77",
 			"6009aaac-5494-11e6-beb8-9e71128cae77",
@@ -33141,5 +33149,11 @@
 		],
 		"$CONTENT_8fc38581-0d29-4d73-9c5a-f3a9728ee937/Objects/Database/ShapeSets/parts.json": []
 	},
-	"19414211-45a7-4fff-b9e6-2bdc21a6d2a8": {}
+	"19414211-45a7-4fff-b9e6-2bdc21a6d2a8": {},
+	"6a9b37d7-5923-43ae-a48a-702fdc5fa5df": {
+		"$CONTENT_6a9b37d7-5923-43ae-a48a-702fdc5fa5df/Objects/Database/ShapeSets/blocks.json": [],
+		"$CONTENT_6a9b37d7-5923-43ae-a48a-702fdc5fa5df/Objects/Database/ShapeSets/parts.json": [
+			"0af555d4-6627-46dd-9500-ca6095f6003c"
+		]
+	}
 }
