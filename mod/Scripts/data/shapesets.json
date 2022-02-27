@@ -33093,7 +33093,8 @@
 	"d9e6682a-1885-44b2-9cda-11bf5fec9dac": {
 		"$CONTENT_d9e6682a-1885-44b2-9cda-11bf5fec9dac/Objects/Database/ShapeSets/blocks.json": [],
 		"$CONTENT_d9e6682a-1885-44b2-9cda-11bf5fec9dac/Objects/Database/ShapeSets/parts.json": [
-			"be0ae915-0d23-4bfa-ab1f-2fcda51180fd"
+			"be0ae915-0d23-4bfa-ab1f-2fcda51180fd",
+			"477a8e5b-6752-4efb-a0ba-72a3042fe2cd"
 		]
 	},
 	"67145ee8-9f40-4f28-a6b7-6c398869f830": {
