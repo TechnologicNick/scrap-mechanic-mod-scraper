@@ -11824,5 +11824,13 @@
 		"name": "My First ever mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"24369143-fadb-4bd5-8a37-6bc6b538c802": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2771620481,
+		"localId": "24369143-fadb-4bd5-8a37-6bc6b538c802",
+		"name": "Scrap_Server AD",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
