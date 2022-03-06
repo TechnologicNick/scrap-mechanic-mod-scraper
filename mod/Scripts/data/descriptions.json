@@ -11832,5 +11832,13 @@
 		"name": "Scrap_Server AD",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"06ea097b-77b3-4a35-b155-cb956adcf5c2": {
+		"description": "This mod has a description, but it is useless so we will not show it.",
+		"fileId": 2773793760,
+		"localId": "06ea097b-77b3-4a35-b155-cb956adcf5c2",
+		"name": "bad mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
