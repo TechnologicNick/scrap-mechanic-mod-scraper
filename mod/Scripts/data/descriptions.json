@@ -11722,7 +11722,7 @@
 		"version": 0
 	},
 	"67145ee8-9f40-4f28-a6b7-6c398869f830": {
-		"description": "",
+		"description": "v1\nUpdate: 25.02.2022\n\nFeature - The lighter the body, the harder it would break. Piston engines are now more stable\nFeature - Instead of deleting, parts may be detached and then deleted after 10 seconds\nFeature - Parts that fell underground will be deleted\nFix - Script works correctly after restart\n\nv2\nUpdate: 06.03.2022\n\nRework - Detached or single parts will be deleted up to 30 seconds. Parts that fell underground will no longer be deleted\n\nAuthors:\nhttps://steamcommunity.com/id/donyti\nhttps://steamcommunity.com/id/WillTurn\nHelped:\nhttps://steamcommunity.com/id/tward0wsky\nhttps://steamcommunity.com/id/dushaman\n",
 		"fileId": 2754786413,
 		"localId": "67145ee8-9f40-4f28-a6b7-6c398869f830",
 		"name": "Collision destruction Physics",
@@ -11819,7 +11819,7 @@
 	},
 	"44beaff6-1975-4067-95a6-91532f49873e": {
 		"description": "This is my first mod, made following Dr Pixel Plays' modding tutorial\n(Also yes the preview is the default preview but sideways and colored)",
-		"fileId": 2771962907,
+		"fileId": 2774640685,
 		"localId": "44beaff6-1975-4067-95a6-91532f49873e",
 		"name": "My First ever mod",
 		"type": "Blocks and Parts",
