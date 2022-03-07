@@ -11840,5 +11840,29 @@
 		"name": "bad mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"1114c905-5ee2-4d73-8e1f-7d699ebbd7c1": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2517883846,
+		"localId": "1114c905-5ee2-4d73-8e1f-7d699ebbd7c1",
+		"name": "Vehicle Parts",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"b814ea6a-6463-4fb5-b4ff-ad12cd9475aa": {
+		"description": "he bloc (first mod) (4 fren)",
+		"fileId": 2774456129,
+		"localId": "b814ea6a-6463-4fb5-b4ff-ad12cd9475aa",
+		"name": "BLOC",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"ec9caf77-cf5b-4e67-8dd7-874214acabd8": {
+		"description": "Switch Rail Components - use with Rail Track terrain assets\n\nCurved Junction (Radius 121u):\n\n- Pivot (L/R)\n- Mid 1 (L/R)\n- Mid 2 (L/R)\n- Mid 3 (L/R)\n- Blade (L/R)\n\n---------------\nNotes:\n\nAttach the pivot section to a bearing and construct the rails in the component order,\ni.e. Pivot + Mid 1 + Mid 2 + Mid 3 + Blade\n\nUse a controller to set the rotation angle of the bearing.\n\n---------------\nIn Development:\nRadius 143u and Radius 165u Curved Junction Switch Rails\n\n\n",
+		"fileId": 2774768653,
+		"localId": "ec9caf77-cf5b-4e67-8dd7-874214acabd8",
+		"name": "Switch Rail - Curved Junction (Radius 121u)",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
