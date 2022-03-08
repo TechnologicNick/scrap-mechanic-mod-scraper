@@ -32029,30 +32029,6 @@
 	"339cc56e-ec4c-4c41-b751-cac9f80548b3": {},
 	"98214b3e-1c2e-467d-8525-4f9fd6cafcec": {},
 	"d100848d-4eda-48de-8792-b5839487b5a5": {
-		"$CONTENT_d100848d-4eda-48de-8792-b5839487b5a5/Objects/Database/ShapeSets/mainline.json": [
-			"d66210f7-b131-4d9e-a31b-9592d5169146",
-			"f05e2bf0-1245-46ec-8dba-9f598faeb02f",
-			"3856b6a3-dbce-455d-acc2-6914df5494b5",
-			"6b92b370-5a96-4aa0-ba58-ed4708ed5ab9",
-			"60865bad-3415-4543-b3cf-58d9ed738817",
-			"82504026-7281-448e-bd96-08f316c92398",
-			"737c4355-04d8-44a9-92ff-5f89d8a854ee",
-			"03889bad-2ea9-46ad-905c-4c17d33a4019",
-			"e88d2c14-dd69-4c55-b200-fe72126bbad5",
-			"f06af763-5a09-4677-ab15-c0b22bb7805c"
-		],
-		"$CONTENT_d100848d-4eda-48de-8792-b5839487b5a5/Objects/Database/ShapeSets/railyard.json": [
-			"75042d05-6025-4740-b56c-ad12a15be344",
-			"2f6d6fcf-aba8-4968-a595-c7a77144934b",
-			"124aa821-fe86-409b-b131-1cf34e919231",
-			"0bec778a-5d0d-4105-87ce-063a4860dc35",
-			"e7fabd39-9edd-439d-8219-d43b91d712cf",
-			"3709aadd-c623-4a0b-b135-7fcdd253586e",
-			"4454a2d6-51ff-401c-918c-e1e9013437bd",
-			"6516c707-b6dc-4c20-b0d7-9f8126ae6402",
-			"ba1ddca6-4bc2-4c72-9677-96ed834b144c",
-			"9b054bc7-d259-4a8c-b58e-dabc829ad977"
-		],
 		"$CONTENT_d100848d-4eda-48de-8792-b5839487b5a5/Objects/Database/ShapeSets/turntable.json": [
 			"0a6287f3-beb7-4bdd-ac44-dea8d36e4ff1"
 		],
@@ -33233,7 +33209,8 @@
 		"$CONTENT_44beaff6-1975-4067-95a6-91532f49873e/Objects/Database/ShapeSets/blocks.json": [
 			"9d5ad108-1abf-43cd-b951-ba42fc2f98e5",
 			"21f23844-0629-4415-a8c5-d6cfa4b99eae",
-			"9002962d-b8b1-4609-b015-0d21736e8124"
+			"9002962d-b8b1-4609-b015-0d21736e8124",
+			"82abdc8c-f762-4371-bf62-d1bb7b5a20d1"
 		],
 		"$CONTENT_44beaff6-1975-4067-95a6-91532f49873e/Objects/Database/ShapeSets/parts.json": []
 	},
@@ -33310,6 +33287,34 @@
 			"2d4902fe-bb41-442e-9df4-c5fb5c756a75",
 			"8c418103-8c7d-4908-a685-de8d8b4b525a",
 			"f516d99d-788d-41b9-93cc-65e7b740847a"
+		]
+	},
+	"36a53ef0-6b92-4004-9219-6f2492bb9305": {
+		"$CONTENT_36a53ef0-6b92-4004-9219-6f2492bb9305/Objects/Database/ShapeSets/switchrails.json": [
+			"6b92b370-5a96-4aa0-ba58-ed4708ed5ab9",
+			"60865bad-3415-4543-b3cf-58d9ed738817",
+			"d66210f7-b131-4d9e-a31b-9592d5169146",
+			"f05e2bf0-1245-46ec-8dba-9f598faeb02f",
+			"3856b6a3-dbce-455d-acc2-6914df5494b5",
+			"82504026-7281-448e-bd96-08f316c92398",
+			"737c4355-04d8-44a9-92ff-5f89d8a854ee",
+			"03889bad-2ea9-46ad-905c-4c17d33a4019",
+			"e88d2c14-dd69-4c55-b200-fe72126bbad5",
+			"f06af763-5a09-4677-ab15-c0b22bb7805c"
+		]
+	},
+	"b637ebf8-5732-4f96-b1df-56d2e9e0d99d": {
+		"$CONTENT_b637ebf8-5732-4f96-b1df-56d2e9e0d99d/Objects/Database/ShapeSets/switchrails.json": [
+			"0bec778a-5d0d-4105-87ce-063a4860dc35",
+			"e7fabd39-9edd-439d-8219-d43b91d712cf",
+			"75042d05-6025-4740-b56c-ad12a15be344",
+			"2f6d6fcf-aba8-4968-a595-c7a77144934b",
+			"124aa821-fe86-409b-b131-1cf34e919231",
+			"3709aadd-c623-4a0b-b135-7fcdd253586e",
+			"4454a2d6-51ff-401c-918c-e1e9013437bd",
+			"6516c707-b6dc-4c20-b0d7-9f8126ae6402",
+			"ba1ddca6-4bc2-4c72-9677-96ed834b144c",
+			"9b054bc7-d259-4a8c-b58e-dabc829ad977"
 		]
 	}
 }

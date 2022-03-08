@@ -11026,7 +11026,21 @@
 		"version": 0
 	},
 	"d100848d-4eda-48de-8792-b5839487b5a5": {
-		"description": "Rail Track Parts - for use with Rail Track - Terrain Assets\n\nJunction Switch Rails:\n\n- Mainline Straight - Pivot, Blade sections\n- Mainline Curve - Pivot, Middle, Blade sections\n- Railyard Straight - Pivot, Blade sections\n- Railyard Curve - Pivot, Middle, Blade sections\n\n(Use controller values 0, +7 and -7, +7 to pivot the switch rails)\n\n\nTurntable bridge:\n- Straight Rail\n\n\nDeprecated Parts: \n\n- Junction Straight (Left/Right)\n- Junction Curve - Pivot, Middle, Blade (Left/Right)\n- Railyard Straight - Pivot, Blade (Left/Right)\n- Railyard Curve - Pivot, Middle, Blade (Left/Right)\n\n\n\n\n\n",
+		"dependencies": [
+			{
+				"fileId": 2775130925,
+				"localId": "36a53ef0-6b92-4004-9219-6f2492bb9305"
+			},
+			{
+				"fileId": 2775264561,
+				"localId": "b637ebf8-5732-4f96-b1df-56d2e9e0d99d"
+			},
+			{
+				"fileId": 2774768653,
+				"localId": "ec9caf77-cf5b-4e67-8dd7-874214acabd8"
+			}
+		],
+		"description": "Rail Track Parts - for use with Rail Track - Terrain Assets\n\nTurntable bridge:\n - Straight Rail\n\nDeprecated Parts: \n - Junction Straight (Left/Right)\n - Junction Curve - Pivot, Middle, Blade (Left/Right)\n - Railyard Straight - Pivot, Blade (Left/Right)\n - Railyard Curve - Pivot, Middle, Blade (Left/Right)\n\nDependencies:\n - Switch Rail (Main Line Junction)\n - Switch Rail (Rail Yard Junction)\n - Switch Rail (Curved Junction - Radius 121u)\n\n\n\n\n",
 		"fileId": 2632353309,
 		"localId": "d100848d-4eda-48de-8792-b5839487b5a5",
 		"name": "Rail Track",
@@ -11819,7 +11833,7 @@
 	},
 	"44beaff6-1975-4067-95a6-91532f49873e": {
 		"description": "This is my first mod, made following Dr Pixel Plays' modding tutorial\n(Also yes the preview is the default preview but sideways and colored)",
-		"fileId": 2774640685,
+		"fileId": 2775225586,
 		"localId": "44beaff6-1975-4067-95a6-91532f49873e",
 		"name": "My First ever mod",
 		"type": "Blocks and Parts",
@@ -11842,7 +11856,7 @@
 		"version": 0
 	},
 	"1114c905-5ee2-4d73-8e1f-7d699ebbd7c1": {
-		"description": "This mod doesn't have a description",
+		"description": "A collection of unused parts",
 		"fileId": 2517883846,
 		"localId": "1114c905-5ee2-4d73-8e1f-7d699ebbd7c1",
 		"name": "Vehicle Parts",
@@ -11862,6 +11876,22 @@
 		"fileId": 2774768653,
 		"localId": "ec9caf77-cf5b-4e67-8dd7-874214acabd8",
 		"name": "Switch Rail - Curved Junction (Radius 121u)",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"36a53ef0-6b92-4004-9219-6f2492bb9305": {
+		"description": "Switch Rail Components - use with Rail Track terrain assets\n\nLeft and Right Hand Main Line Junction:\n\n - Straight Rail (Pivot and Blade sections)\n - Curve Rail (Pivot, Mid and Blade sections)\n\nAttach the Pivot section to a bearing and construct the rails in the component order,\n\n  Curve Rail = Pivot + Mid + Blade\n  Straight Rail = Pivot + Blade\n\nUse a controller to set the rotation angle of the bearing.",
+		"fileId": 2775130925,
+		"localId": "36a53ef0-6b92-4004-9219-6f2492bb9305",
+		"name": "Switch Rail    (Main Line Junction)",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"b637ebf8-5732-4f96-b1df-56d2e9e0d99d": {
+		"description": "Switch Rail Components - use with Rail Track terrain assets\n\nLeft and Right Hand Rail Yard Junction:\n\n - Straight Rail (Pivot and Blade sections)\n - Curve Rail (Pivot, Mid and Blade sections)\n\nAttach the Pivot section to a bearing and construct the rails in the component order,\n\n  Curve Rail = Pivot + Mid + Blade\n  Straight Rail = Pivot + Blade\n\nUse a controller to set the rotation angle of the bearing.",
+		"fileId": 2775264561,
+		"localId": "b637ebf8-5732-4f96-b1df-56d2e9e0d99d",
+		"name": "Switch Rail    (Rail Yard Junction)",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
