@@ -11894,5 +11894,29 @@
 		"name": "Switch Rail    (Rail Yard Junction)",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"53282ab7-0a4f-436a-979b-fa7b65c5c1d7": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2775598308,
+		"localId": "53282ab7-0a4f-436a-979b-fa7b65c5c1d7",
+		"name": "Dark Mode Loading Screen",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"7533d0bd-1e25-407c-b62a-4cd4f84d26d4": {
+		"description": "This mod contains some random, custom logic pieces I made.\n\nIt currently has:\n\n- Random Signal Generator\n  Generates a random on/off signal every X ticks.\n  The default delay is 10 ticks, but it can be changed using number logic.\n\n- Alert Block\n  Set a text and if it gets a logic signal, the text will display.\n\n- Number Lock\n  You can set a 5-digit number code, if the code is correctly entered a second\n  time, the lock outputs a 1-tick logic signal.\n\n- Bearing Switcher\n  Set an angle, speed and force. When you apply a logic signal, a\n  connected bearing will rotate by the set angle, with the set speed and force.\n\n- Reverse W/S converter\n  Connect 2 logic gates (black and white) into the part and the part into an engine.\n  If the white input is on, the engine spins one way. If the black input is on, the engine\n  spins the other way.\n",
+		"fileId": 2775674266,
+		"localId": "7533d0bd-1e25-407c-b62a-4cd4f84d26d4",
+		"name": "Custom Logic Mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"b1efbd5c-8b12-482b-9f8d-81daf678c630": {
+		"description": "This Mod replaces the original Track with the Among Us Meme Song",
+		"fileId": 2775796370,
+		"localId": "b1efbd5c-8b12-482b-9f8d-81daf678c630",
+		"name": "Among Us Meme Radio",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
