@@ -11934,5 +11934,13 @@
 		"name": "BOYNT",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"bce92060-6f55-42f8-84c3-e6f408f83481": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2777307005,
+		"localId": "bce92060-6f55-42f8-84c3-e6f408f83481",
+		"name": "DOOM Sounds",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
