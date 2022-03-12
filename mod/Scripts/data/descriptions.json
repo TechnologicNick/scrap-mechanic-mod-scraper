@@ -11936,7 +11936,7 @@
 		"version": 0
 	},
 	"bce92060-6f55-42f8-84c3-e6f408f83481": {
-		"description": "This mod doesn't have a description",
+		"description": "------------------------------------------------------------------------------------------------------\n[ENG]\nAdds sounds from DOOM 1 & 2 to all guns and some blocks like an explosive barrel, and replaces a couple of soundtracks like Turning Gears and some more.\n------------------------------------------------------------------------------------------------------\nsteam/steamapps/workshop/2777307005/\ndata/audio/Banks/Master Bank.bank\nput to Scrap Mechanic/Data/Audio/Banks\nwith replacement\n------------------------------------------------------------------------------------------------------\nmore sounds coming soon!\n------------------------------------------------------------------------------------------------------\n[RUS]\nДобавляет звуки из DOOM 1 и 2 ко всем пушкам и некоторым блокам, таким как взрывная бочка, и заменяет пару саунтреков, таких как Turning Gears и некоторые другие.\n------------------------------------------------------------------------------------------------------\nsteam/steamapps/workshop/2777307005/\ndata/audio/Banks/Master Bank.bank\nкидать в Scrap Mechanic/Data/Audio/Banks\nс заменой\n------------------------------------------------------------------------------------------------------\nВ скором времени появятся новые звуки!",
 		"fileId": 2777307005,
 		"localId": "bce92060-6f55-42f8-84c3-e6f408f83481",
 		"name": "DOOM Sounds",
