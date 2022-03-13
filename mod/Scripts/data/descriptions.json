@@ -11942,5 +11942,13 @@
 		"name": "DOOM Sounds",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"f276b18d-28ba-4391-b87a-33d04c0a91e4": {
+		"description": "Adds different durable polygons",
+		"fileId": 2777667288,
+		"localId": "f276b18d-28ba-4391-b87a-33d04c0a91e4",
+		"name": "HM's Armoured Polygons",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
