@@ -33073,7 +33073,9 @@
 		"$CONTENT_b9483b35-2084-44a0-8fdb-3d4c4d73ca8b/Objects/Database/ShapeSets/parts.json": []
 	},
 	"1f8a76d2-b38a-4672-9919-41f8a3bc42fa": {
-		"$CONTENT_1f8a76d2-b38a-4672-9919-41f8a3bc42fa/Objects/Database/ShapeSets/blocks.json": [],
+		"$CONTENT_1f8a76d2-b38a-4672-9919-41f8a3bc42fa/Objects/Database/ShapeSets/blocks.json": [
+			"c4abe9a0-c571-4774-ab80-7d0ec4570a49"
+		],
 		"$CONTENT_1f8a76d2-b38a-4672-9919-41f8a3bc42fa/Objects/Database/ShapeSets/parts.json": []
 	},
 	"ea7c489f-590c-4bd7-b749-8dda5dd0e675": {
