@@ -11950,5 +11950,13 @@
 		"name": "HM's Armoured Polygons",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"1a19f80b-a0e9-4be5-8859-16242217ed05": {
+		"description": "Adds More Blocks To The Base Game",
+		"fileId": 2779148338,
+		"localId": "1a19f80b-a0e9-4be5-8859-16242217ed05",
+		"name": "Blocks+",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
