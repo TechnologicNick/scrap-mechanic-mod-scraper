@@ -11128,7 +11128,7 @@
 		"version": 0
 	},
 	"dba9af02-8f79-4cb2-ad07-d6b94c87d456": {
-		"description": "Yes you heard right an Raft like adventure in Scrap Mechanic.\n\nMy Apologies for the mod having issues for so long. \n\nthis is a in Development version do not make me responsible if it breaks your game!\n\nVersion 0.0.3ID\n\nWhats New?:\n- I've Added two miners one for stone and metal the other one drills for oil.\n- Removed unnecessary Files from the Mod and Fixed Block not Found and no Icons Error\n\nWhats Next?:\n- I thought of improving the islands and if you have any Suggestions feel free to write them in the Comments\n\nDISCLAIMER: THIS MOD WILL BREAK YOUR GAME AND OR WORLD IF YOU PLAY WITH IT ON A WORLD THAT WAS CREATED WITHOUT THE MOD BEING INSTALLED!!!\n\n\nHow to Install:\n\n1. Subscribe to the mod and wait for it to download.\n2.Go to your Steam library and right-click Scrap Mechanic. Click \"Manage\" -> \"Browse Local Files\"\n3.This should open the folder: Steam\\steamapps\\common\\Scrap Mechanic\n4.Move two folders upward to the folder: Steam\\steamapps\n5.Then navigate to \"workshop\" -> \"content\" -> \"387990\" -> \"2650760178\"\n6.Open the \"Copy to install Raft Mod\" folder and copy the \"Survival\" & \"Cache\" folders.\n7.Repeat step 2\n8.Paste the three folders in the Steam\\steamapps\\common\\Scrap Mechanic folder. You'll need to 9.click replace files in destination when prompted.\n10. You're done! Now go and Have fun, alone or with your friends!\n\nCredit:\nparts of the following mods were used:\n\n- https://steamcommunity.com/sharedfiles/filedetails/?id=1406581885 Buoyancy Mod\n\n- Also thanks to Dr Pixel Plays for working with me on this Mod and having the Idea for it.\n\n",
+		"description": "Yes you heard right an Raft like adventure in Scrap Mechanic.\n\nUpdate 0.1.0 Beta\n\nthis is a in Development version do not make me responsible if it breaks your game!\n\nVersion 0.1.0 Beta\n\nWhats New?:\n- I've Added two miners one for stone and metal the other one drills for oil.\n- Removed unnecessary Files from the Mod and Fixed Block not Found and no Icons Error\n- Islands have been Improved\n- The Start is now much more Familiar and Easier\n\nWhats Next?:\n- Eventually new Game Mechanics for Farming also Changing Hideout Recipes\n\nDISCLAIMER: THIS MOD MAY BREAK YOUR WORLD IF YOU PLAY WITH IT ON A WORLD THAT WAS CREATED WITHOUT THE MOD BEING INSTALLED!!!\n\n\nHow to Install:\n\n1. Subscribe to the mod and wait for it to download.\n2.Go to your Steam library and right-click Scrap Mechanic. Click \"Manage\" -> \"Browse Local Files\"\n3.This should open the folder: Steam\\steamapps\\common\\Scrap Mechanic\n4.Move two folders upward to the folder: Steam\\steamapps\n5.Then navigate to \"workshop\" -> \"content\" -> \"387990\" -> \"2650760178\"\n6.Open the \"Copy to install Raft Mod\" folder and copy the \"Survival\" & \"Cache\" folders.\n7.Repeat step 2\n8.Paste the three folders in the Steam\\steamapps\\common\\Scrap Mechanic folder. You'll need to 9.click replace files in destination when prompted.\n10. You're done! Now go and Have fun, alone or with your friends!\n\nCredit:\nparts of the following mods were used:\n\n- https://steamcommunity.com/sharedfiles/filedetails/?id=1406581885 Buoyancy Mod\n\n- Also thanks to Dr Pixel Plays for working with me on this Mod and having the Idea for it.",
 		"fileId": 2650760178,
 		"localId": "dba9af02-8f79-4cb2-ad07-d6b94c87d456",
 		"name": "The Raft Mod",
@@ -11956,6 +11956,14 @@
 		"fileId": 2779148338,
 		"localId": "1a19f80b-a0e9-4be5-8859-16242217ed05",
 		"name": "Blocks+",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"9fb9f27c-29ec-4697-883a-39d6b2db1725": {
+		"description": "This mod have a description",
+		"fileId": 2779328721,
+		"localId": "9fb9f27c-29ec-4697-883a-39d6b2db1725",
+		"name": "wuff_Phoenix's paintable Block's",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
