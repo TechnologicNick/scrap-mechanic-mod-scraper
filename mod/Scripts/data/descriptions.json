@@ -11966,5 +11966,13 @@
 		"name": "wuff_Phoenix's paintable Block's",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"535c944d-1b2b-4a27-9e45-be4c41444aff": {
+		"description": "Adds 3 new type of wood blocks and more coming soon. :)",
+		"fileId": 2779679159,
+		"localId": "535c944d-1b2b-4a27-9e45-be4c41444aff",
+		"name": "More Wood Blocks",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
