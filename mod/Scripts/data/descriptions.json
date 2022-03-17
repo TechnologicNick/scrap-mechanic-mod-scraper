@@ -11974,5 +11974,13 @@
 		"name": "More Wood Blocks",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"710a0aa1-7479-402b-8a59-b8cda9ec2281": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2770849113,
+		"localId": "710a0aa1-7479-402b-8a59-b8cda9ec2281",
+		"name": "LED Matrix Display",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
