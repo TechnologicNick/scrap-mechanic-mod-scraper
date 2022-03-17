@@ -11982,5 +11982,13 @@
 		"name": "LED Matrix Display",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"a7f5e719-1555-4ddf-a0d5-b25085118521": {
+		"description": "This mod adds bult-in logic gates and bitwise operations with the modpack numbers",
+		"fileId": 2780255707,
+		"localId": "a7f5e719-1555-4ddf-a0d5-b25085118521",
+		"name": "bult-in logic gates + bitwise operations",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
