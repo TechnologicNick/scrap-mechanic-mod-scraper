@@ -11990,5 +11990,21 @@
 		"name": "bult-in logic gates + bitwise operations",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"ed4870e8-4c76-485d-8469-cc22b8332890": {
+		"description": "adds block, what can change color of others\nconnect red, green and blue numberblocks(the modpack) to select color\nif numberblocks are not connected, then use self color\nconnect logic or use to paint\nconnect red logic to reset object color",
+		"fileId": 2780706164,
+		"localId": "ed4870e8-4c76-485d-8469-cc22b8332890",
+		"name": "color changer",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"1c626c90-466c-47ec-8927-baf0fa1e7599": {
+		"description": "Test",
+		"fileId": 2780758501,
+		"localId": "1c626c90-466c-47ec-8927-baf0fa1e7599",
+		"name": "test",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
