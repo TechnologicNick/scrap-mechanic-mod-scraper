@@ -12000,10 +12000,18 @@
 		"version": 0
 	},
 	"1c626c90-466c-47ec-8927-baf0fa1e7599": {
-		"description": "Test",
+		"description": "Max's Lab",
 		"fileId": 2780758501,
 		"localId": "1c626c90-466c-47ec-8927-baf0fa1e7599",
-		"name": "test",
+		"name": "Max's Test Mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"669efa52-be61-4c5a-8d0f-693f89a59179": {
+		"description": "truster, what activates on water",
+		"fileId": 2780947738,
+		"localId": "669efa52-be61-4c5a-8d0f-693f89a59179",
+		"name": "water truster",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
