@@ -12014,5 +12014,21 @@
 		"name": "water truster",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"bfba23b2-b9e9-475a-8c5f-86c4a87bca6d": {
+		"description": "(Possibly) The best compatibility patch ever made in the history of mankind.\n!!THIS IS A PATCH AND CONTAINS NO MOD DATA!!\n!!YOU ARE REQUIRED TO HAVE THE MODS INSTALLED FOR THIS PATCH TO WORK!!\nFollow the instructions provided in the mod folder.\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2525165918\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2123450361\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2118868098\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2251509391\nhttps://scrapmechanicmods.com/m=42",
+		"fileId": 2781132962,
+		"localId": "bfba23b2-b9e9-475a-8c5f-86c4a87bca6d",
+		"name": "Kitty's Super Ultra Survival Mode Compatibility Pack Mega",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"818740f5-5989-4fb1-86db-809351e50ae6": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2781178041,
+		"localId": "818740f5-5989-4fb1-86db-809351e50ae6",
+		"name": "Private Message",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
