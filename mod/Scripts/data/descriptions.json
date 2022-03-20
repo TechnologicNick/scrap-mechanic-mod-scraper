@@ -11296,7 +11296,7 @@
 		"version": 0
 	},
 	"a7da8f0e-92b8-481a-a637-a86067ff57c3": {
-		"description": "FCMod is a small mod that I am working on. This is my first mod, and it contains some useful parts. FCMod is very new, so expect there to be LOTS of updates to this mod.\n\nI am learning quickly as I add new things to this mod, so it probably won't seem like my first mod.\n\n#ff0000fc#0080ffmod",
+		"description": "FCMod is a mod that I am working on. It adds some parts that are useful, and some parts that--well--aren't.\n\nDescriptions of all parts:\n\nBlack Hole Block:\nBlock with one billion weight because why not. Falls through everything, be careful not to put it on your car!\n\nGalvanized Metal & Red Metal:\nAn unused texture found in the game files. Maybe you can build something cool with it.\\nThis material is not paintable.\n\nMeter Stick:\nUsed for measuring- yes it's just as useless as you think it is\n\nMod Tablet:\nThis powerful tablet provides new settings that you can modify to affect the game. Press E to change the settings. All settings will still apply if you delete it, but the world will be unloadable without fcmod if you are using custom settings. Press E and click the \"Reset\" tab to reset all of the settings if you want to load the world without fcmod.\n\nLarge Collision Switch & Button:\nIt has the hitbox of a full block to make it easier to press.\n\nTape Gun:\nShoots tape instead of potatoes.\n\nTape Roll:\nCan be used as ammo for the Tape Gun.\n\nTape Container:\nHolds rolls of tape to be shot out of the Tape Gun.\n\nExplosive Tape Gun:\nShoots explosive tape! Boom!\n\nExplosive Tape Roll:\nCan be used as ammo for the Explosive Tape Gun.\n\nExplosive Tape Container:\nHolds very explosive rolls of tape to be shot out of the Explosive Tape Gun.\n\nDwarf Teleporter:\nThis part lets you teleport around the map! Press E while standing on it to teleport to another teleporter in the world with the same paint color. If more than two teleporters have the same paint color, they will form a loop.\n\nIcon Block:\nA logic block with an icon that lights up. Press E to change the icon. As a bonus, setting an upside-down icon block to ON/OFF mode will display \"NO\" when turned on.\n\nBlinker:\nRepeatedly blinks at a specified rate. Connect an input to turn it on and off. Press E to change its blink speed.\n\nSet-Reset Latch:\nWhite painted inputs will switch it on, and black painted inputs will switch it off. Any other color input will toggle it. Unlike other logic gates, this logic gate will always remember its state, even if you save it on the lift or reload the world. Press E to toggle it manually.\n\nProper XOR Gate:\nThe default XOR gate in the game activates if an odd number of inputs are active. A proper XOR gate activates if ONE input is active. Press E to switch to an XNOR gate.",
 		"fileId": 2666022327,
 		"localId": "a7da8f0e-92b8-481a-a637-a86067ff57c3",
 		"name": "fcmod",
@@ -12016,7 +12016,7 @@
 		"version": 0
 	},
 	"bfba23b2-b9e9-475a-8c5f-86c4a87bca6d": {
-		"description": "(Possibly) The best compatibility patch ever made in the history of mankind.\n!!THIS IS A PATCH AND CONTAINS NO MOD DATA!!\n!!YOU ARE REQUIRED TO HAVE THE MODS INSTALLED FOR THIS PATCH TO WORK!!\nFollow the instructions provided in the mod folder.\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2525165918\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2123450361\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2118868098\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2251509391\nhttps://scrapmechanicmods.com/m=42",
+		"description": "(Possibly) [h1]The best compatibility patch ever made in the history of mankind.[/h1]\n\nThis compatibility patch combines the features from:\n• CraftBot+\n• 00Fant Modpack\n• The Modpack\n• Ranger's Tools\n• Forestry\n\nALL IN SURVIVAL MODE WITH RECIPES!\n\n\n----------------------------------!IMPORTANT!----------------------------------------------\n--                              !!THIS IS A PATCH AND CONTAINS NO MOD DATA!!                               --\n-- !!YOU ARE REQUIRED TO HAVE THE MODS INSTALLED FOR THIS PATCH TO WORK!! --\n-----------------------------------------------------------------------------------------------\n\n>>Follow the instructions provided in the mod folder.<<\n\n>>Steam\\steamapps\\workshop\\content\\387990\\2781132962<<\n\n---------------------------Changes---------------------------\n\n1.0 LAUNCH - 3/18/22\n\n--Global--\n\nOrganized all of the crafting list. (Fk me it took forever, no I'm not organizing the creative menu, don't ask.)\nAdded some and removed some recipes.\nCrafting bot now scales with upgrades. (speed L1=1x> L2=1.5x> L3=2x> L4=3x> L5=4x)\nRemoved the cheese. (For obvious reasons.)\n\n--CraftBot+--\n\nRemoved recycle bot because of redundancy with Fant.\nRemoved Anyseed and Anyglass as they break recycling in Fant.\nMoved some recipes to consumable.\n\n--Fant Mod--\n\nRemoved the super speed crafting on everything not Fant related. (And some that are Fant related.)\nRemoved Popcorn landmine function. (This makes the popcorn launcher more of a confetti cannon.)\nRemoved Round Wheel water functions. (so they can just be put in with the other Wheels.)\nSome other small changes with unknown consequences (report bugs as you find them in the discussion, comment reports will be ignored.)\n\n--Survival Player Forestry and Farming Mod--\n\nHarder raids have been migrated with Fant. (i.e. Fant raid controller > SPFAFM raid controller)\nRight clicking on beehives and corn will yield seeds as other crops do. (Fant integration)\n\n--Rangers tools--\n\nRemote explosives removed pending optimizations.\nRemoved Tool controller cos I don't ",
 		"fileId": 2781132962,
 		"localId": "bfba23b2-b9e9-475a-8c5f-86c4a87bca6d",
 		"name": "Kitty's Super Ultra Survival Mode Compatibility Pack Mega",
@@ -12028,6 +12028,14 @@
 		"fileId": 2781178041,
 		"localId": "818740f5-5989-4fb1-86db-809351e50ae6",
 		"name": "Private Message",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"e7ec7edc-f68a-4458-9151-dc83f96d2b44": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2781397556,
+		"localId": "e7ec7edc-f68a-4458-9151-dc83f96d2b44",
+		"name": "The best mod!",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
