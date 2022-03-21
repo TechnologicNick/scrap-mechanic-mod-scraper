@@ -12038,5 +12038,13 @@
 		"name": "The best mod!",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"0d0df9b1-92d3-4cc3-944b-f9a6322982a7": {
+		"description": "a mod that adds a sticky wheel, that isn't actually sticky.",
+		"fileId": 2782249657,
+		"localId": "0d0df9b1-92d3-4cc3-944b-f9a6322982a7",
+		"name": "Sticky wheels",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
