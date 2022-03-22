@@ -33465,5 +33465,9 @@
 		"$CONTENT_7ae900d9-b06d-489a-853e-7d77c5ae33d7/Objects/Database/ShapeSets/parts.json": [
 			"3500be92-320f-4a61-b38f-1d483fd46c79"
 		]
+	},
+	"a0ab5ee2-7b1f-49f9-89ea-8ac38931349f": {
+		"$CONTENT_a0ab5ee2-7b1f-49f9-89ea-8ac38931349f/Objects/Database/ShapeSets/blocks.json": [],
+		"$CONTENT_a0ab5ee2-7b1f-49f9-89ea-8ac38931349f/Objects/Database/ShapeSets/parts.json": []
 	}
 }

@@ -12054,5 +12054,13 @@
 		"name": "Robot Gun",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"a0ab5ee2-7b1f-49f9-89ea-8ac38931349f": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2782732282,
+		"localId": "a0ab5ee2-7b1f-49f9-89ea-8ac38931349f",
+		"name": "Scrap Mechanic Patch Machine",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
