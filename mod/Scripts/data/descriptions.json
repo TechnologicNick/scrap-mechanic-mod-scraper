@@ -11992,7 +11992,7 @@
 		"version": 0
 	},
 	"ed4870e8-4c76-485d-8469-cc22b8332890": {
-		"description": "adds block, what can change color of others\nconnect red, green and blue numberblocks(the modpack) to select color\nif numberblocks are not connected, then use self color\nconnect logic or use to paint\nconnect red logic to reset object color",
+		"description": "adds block, what can change color of others\nconnect red, green and blue numberblocks(the modpack) to select color\nif numberblocks are not connected, then use self color\nconnect logic or use to paint\nconnect red logic to reset object color\n\nmax distance: 100 meters(400 blocks)\n\neng + rus",
 		"fileId": 2780706164,
 		"localId": "ed4870e8-4c76-485d-8469-cc22b8332890",
 		"name": "color changer",
