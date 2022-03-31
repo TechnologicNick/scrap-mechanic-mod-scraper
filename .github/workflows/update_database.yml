@@ -41,5 +41,5 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email github-actions@github.com
           git add .
-          git commit -m "Update databases" -m "${{ fromJson(steps.extract.outputs.changelog).messageMD }}"
+          git commit -m "Update databases" -m '${{ fromJson(steps.extract.outputs.changelog).messageMD }}'
           git push
