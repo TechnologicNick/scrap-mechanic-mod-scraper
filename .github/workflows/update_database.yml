@@ -37,9 +37,11 @@ jobs:
         
       - name: Commit updated databases
         if: ${{ fromJson(steps.extract.outputs.changelog).changeCount > 0 }}
+        env:
+          COMMIT_MESSAGE: ${{ fromJson(steps.extract.outputs.changelog).messageMD }}
         run: |
           git config user.name "GitHub Actions"
           git config user.email github-actions@github.com
           git add .
-          git commit -m "Update databases" -m '${{ fromJson(steps.extract.outputs.changelog).messageMD }}'
+          git commit -m "Update databases" -m "$COMMIT_MESSAGE"
           git push
