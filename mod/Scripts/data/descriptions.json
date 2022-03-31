@@ -10098,7 +10098,7 @@
 	},
 	"80c03d36-3b44-49e1-b890-52b3fc3c6284": {
 		"description": "This mod doesn't have a description",
-		"fileId": 2511115769,
+		"fileId": 2784481999,
 		"localId": "80c03d36-3b44-49e1-b890-52b3fc3c6284",
 		"name": "Bus seats and fabrics mod",
 		"type": "Blocks and Parts",
@@ -11984,7 +11984,7 @@
 		"version": 0
 	},
 	"a7f5e719-1555-4ddf-a0d5-b25085118521": {
-		"description": "This mod adds bult-in logic gates and bitwise operations with the modpack numbers",
+		"description": "This mod adds bult-in logic gates and bitwise operations with the modpack numbers\n\nalso adds:\nlogic gate, what change state on numberblock signal\n\neng + rus\n\nmy first mod",
 		"fileId": 2780255707,
 		"localId": "a7f5e719-1555-4ddf-a0d5-b25085118521",
 		"name": "bult-in logic gates + bitwise operations",
@@ -12000,10 +12000,10 @@
 		"version": 0
 	},
 	"1c626c90-466c-47ec-8927-baf0fa1e7599": {
-		"description": "Max's test mod",
+		"description": "< ! >Max's test mod\n测试部件包含：\n1. 单面砖&斜面\n2. 奇怪的衣服包\n3. 迷你架子\n图标目前仅包含：\n（名称 x 数量---提供者 {尺寸} ）\n1. Max的LOGO x 1 --- Max { 1*1 }\n2. 秃鹰队徽 x 3 --- trex { 1*1  2*2  3*3 }\n3. 嘉然贴花 x 1 --- trex { 2*2 }\n4. Asoul贴花 x 10 --- trex { 6*6  7*7}",
 		"fileId": 2780758501,
 		"localId": "1c626c90-466c-47ec-8927-baf0fa1e7599",
-		"name": "Max's Logo Lab",
+		"name": "徽标实验室 Max's Logo Lab",
 		"type": "Blocks and Parts",
 		"version": 0
 	},
@@ -12076,6 +12076,134 @@
 		"fileId": 2783098705,
 		"localId": "1ffbe232-16a9-4caa-bad4-841df584fa90",
 		"name": "tim's logic triggers and blocks",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"038cacc8-a283-4c08-aca4-194940a51b49": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2781132962,
+		"localId": "038cacc8-a283-4c08-aca4-194940a51b49",
+		"name": "Kitty's Super Ultra Survival Mode Compatibility Pack Mega",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"fed4e78a-c77f-4776-8ba5-8af6d0090a8d": {
+		"description": "This mod includes some tank armor made just for my tank meta. Basically the base materials, but made to look more metal-y and industrial, and also to get rid of the shiny-ness from metal, as it makes the color very weak. This is my first SM mod, albeit I think it turned out pretty well.\n",
+		"fileId": 2783440949,
+		"localId": "fed4e78a-c77f-4776-8ba5-8af6d0090a8d",
+		"name": "DANGER`s Heavy-Duty Blocks",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"d2ba79ae-5f4b-4df1-aabd-2a2b47a923cd": {
+		"description": "Vanilla pistons don't work with the smart engine (from the modpack), and the 256 block piston... well, it makes trouble to say the least.\n\nSo I (shamelessly) took the code from the 256 block piston and made a few copies that don't have as much power (which, from what I know is the troublemaker)\nAlso, long pistons (like the 256 block one) get weaker (?) when they are retracted and also freak out (I think it's just ghosts that live in the Scrap Mechanic physics engine) So when possible, use the shortest piston that you need.\n\nIncludes:\n- 8 block piston\n- 16 block piston\n- 64 block piston\n- 256 block piston\n\nCREDIT FOR THE PISTON CODE:\nThe Modpack Continuation\n\nDisclaimer:\nOnly English and Russian is supported for now, but I'll add the other languages later on (using google translate, so it may not be exact)",
+		"fileId": 2783582596,
+		"localId": "d2ba79ae-5f4b-4df1-aabd-2a2b47a923cd",
+		"name": "Controlable pistons (for The Modpack)",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"7f9ab108-79c4-4e50-b74a-193b5be421f2": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2784483575,
+		"localId": "7f9ab108-79c4-4e50-b74a-193b5be421f2",
+		"name": "Exclusive edition bus seat",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"eff60859-4809-42dd-83bf-6af7e7159edb": {
+		"description": "This mod allows makes the spud gun the most overpowered item in Scrap Mechanic.\n\nThis mod is partially inspired by the OP Tools mod, created by Questionable Mark.\n\nHow to use:\n  1) Place a \"Spud Gun Tools Activator.\" As a shortcut, you can find this part by searching \"sgt\" in  the inventory.\n  2) Shoot any spud gun while crouching to open the Spud Gun Tools GUI.\n  3) Click the text on the left to select which mode you want to use. A yellow pointer will show which mode is selected. Use the buttons on the right to configure further.\n  4) Shoot to use the selected mode.\n\nDescriptions of all modes:\n  Basic Gun - It's a gun. Select what projectile to shoot.\n  Super Gatling Gun - It shoots 40 times per second! It toggles, so shoot once to start it, and once to stop it.\n  Explosion Spawner - Click to spawn an explosion at the point you are looking at. It can spawn explosions the size of small or large explosive canisters.\n  Deleter - Click while looking at a creation. It can delete a single shape, a body, or the entire creation.\n  Teleporter - Click to teleport to the point you are looking at.\n  Unit Killer - Click on a unit to kill it.\n  Unit Spawner - Click somewhere to spawn the selected unit.\n  Pusher - Push a creation or character with a specified magnitude.\n\nHave fun!\n\n",
+		"fileId": 2784603778,
+		"localId": "eff60859-4809-42dd-83bf-6af7e7159edb",
+		"name": "Spud Gun Tools",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"7576ddb2-5bd7-4555-8e90-46dad41377fe": {
+		"description": "This mod adds a Pixel Duck to Scrap Mechanic.\n\nMore ducks are planned",
+		"fileId": 2784667727,
+		"localId": "7576ddb2-5bd7-4555-8e90-46dad41377fe",
+		"name": "Pixel Duck Mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"a534adcc-60d7-4a7f-9839-245c45a51f5f": {
+		"description": "A package with 40 custom blocks like woods, stones, bricks etc.",
+		"fileId": 2785280198,
+		"localId": "a534adcc-60d7-4a7f-9839-245c45a51f5f",
+		"name": "d-lux-Blox",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"e5e95c4f-99df-4a70-8e43-4882a22b844c": {
+		"description": "This mod replaces the Scrap Mechanic radio, with the radio from Raft.\n\nTO INSTALL:\nnavigate to Steam \\ steamapps \\ workshop \\ content \\ 387990 \\ WILL PUT REAL FOLDER SOON\n\nunzip Master Bank.rar\n\ncopy Master Bank.bank to Steam \\ steamapps \\ common \\ Scrap Mechanic \\ Data \\ Audio \\ Banks\n\nFrom there, simply replace the existing Master Bank.bank file with the new one. (Also, make sure to create a backup of your original Master Bank.bank, just in case.)\n\nTO UNINSTALL:\nEither:\nVerify integridy of the game files\nOR\nRemember that backup you definitely made of the original Master Bank.bank file? Simply replace it again with a copy of that one.\n\nDoes this work with multiplayer?\n\nYes, probably. I haven't tested it yet, but if both players install it the same way, it should work. I'll get back to this, once I try it with a friend.",
+		"fileId": 2785760253,
+		"localId": "e5e95c4f-99df-4a70-8e43-4882a22b844c",
+		"name": "Raft Radio Mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"a0930699-856c-4d5c-8b1a-c2bca44f4e2c": {
+		"description": "This mod adds the ball spawner to the creative mode",
+		"fileId": 2786395753,
+		"localId": "a0930699-856c-4d5c-8b1a-c2bca44f4e2c",
+		"name": "dlX-Ball Spawner",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"6b319c8b-5c4e-4c65-8743-f54974dddcc9": {
+		"description": "Potato face block from the show \"Amazing World of Gumball.\"",
+		"fileId": 2786555721,
+		"localId": "6b319c8b-5c4e-4c65-8743-f54974dddcc9",
+		"name": "Potato face block mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"e85898e3-9a35-422e-af89-afbe7400068c": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2786751439,
+		"localId": "e85898e3-9a35-422e-af89-afbe7400068c",
+		"name": "SM Dedicated Server Software",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"a64fdd65-efdc-4607-8ed5-fceb889bb52b": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2786794241,
+		"localId": "a64fdd65-efdc-4607-8ed5-fceb889bb52b",
+		"name": "Example mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"100ea7f0-d11e-4d9b-bef4-c1f5fc658523": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2786799342,
+		"localId": "100ea7f0-d11e-4d9b-bef4-c1f5fc658523",
+		"name": "mod for deleted_arrv",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"b86ab123-dc3b-49be-a90a-3c7505c5690f": {
+		"description": "Core Attack - Spawns Wave of Robots that try to Attack it. You must Defeat it. Made by 00Fant",
+		"fileId": 2787218743,
+		"localId": "b86ab123-dc3b-49be-a90a-3c7505c5690f",
+		"name": "Core Attack",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"07d0be87-f495-408a-ab98-1c95f20daf58": {
+		"description": "mod",
+		"fileId": 2787248781,
+		"localId": "07d0be87-f495-408a-ab98-1c95f20daf58",
+		"name": "sas",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"26e3da9d-d2cd-4174-b652-4ed730f056ab": {
+		"description": "This mod is made for apil fools 2022. Your goal is to beat the warehouse in a fresh new world while.. having some difficulties with playing  sm with broken game mechanics. ( No, this mod is not just rickroll and amogus.) This mod is using mod made by jsasaaaa: https://steamcommunity.com/sharedfiles/filedetails/?id=2542043270\n( I don't want to put a title of it to not spoil it )\nMANUAL INSTALLATION:\nfor quicker installation download Troll mod from scrap mechanic mods:\n\nhow to install from steam:\n1. click subscribe on steam and wait for it to download\n2. Open steam library\n3.Right-click on scrap mechanic\n4.Manage-browse local files\n5.This will open scrap mechanic files, now we need to navigate to Troll mod folder\n6. Go two folders upwards to Steam/steamapps\n6.Go to folder \"workshop\" -> \"content\" -> \"387990\" Troll mod folder will be the most recent folder( it won't have a name \"Troll mod\", just some random numbers\n7. Open Troll mod folder\n8. Open \"copy the files inside\"\n9. Copy all of the files inside\n10.repeat steps 2,3,4\n11. Paste folders that you have just copied there.\n12. Well done you have installed Troll mod good luck on playing it.",
+		"fileId": 2787267693,
+		"localId": "26e3da9d-d2cd-4174-b652-4ed730f056ab",
+		"name": "Troll mod",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
