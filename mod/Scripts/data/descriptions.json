@@ -12246,5 +12246,13 @@
 		"name": "DiumStream Mod 1",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"5b5e8759-4489-4523-9711-2642ed605ebb": {
+		"description": "Sushake texture pack includes:\n-Susshake jacket ( new texture for defaultdamagedjacket )\n-Susshake( new texture for sunshake) ( only works in survival, because we don't have sunshake in creative, so just use this mod to have susshake in creative: https://steamcommunity.com/sharedfiles/filedetails/?id=2656289082\n- Susshake vending machine ( new texture for sunshake vending machine)\nTHE NEW SUSSHAKE TEXTURE WORKS FOR SUSSHAKE FROM SM SERVERS MOD\n\nMANUAL INSTALLATION\n\nhow to install from steam:\n1. click subscribe on steam and wait for it to download\n2. Open steam library\n3.Right-click on scrap mechanic\n4.Manage-browse local files\n5.This will open scrap mechanic files, now we need to navigate to Troll mod folder\n6. Go two folders upwards to Steam/steamapps\n6.Go to folder \"workshop\" -> \"content\" -> \"387990\" the mod folder will be the most recent folder( it won't have a name \"susshake texture pack\", just some random numbers\n7. Open the mod folder\n8.\n9. Copy \"Survival\"\n10.repeat steps 2,3,4\n11. Paste folders that you have just copied there.\n12. Well done you have installed susshake texture pack",
+		"fileId": 2788101875,
+		"localId": "5b5e8759-4489-4523-9711-2642ed605ebb",
+		"name": "susshake texture pack",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
