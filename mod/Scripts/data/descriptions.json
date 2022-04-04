@@ -7605,7 +7605,7 @@
 		"version": 0
 	},
 	"f6a4f0e4-f520-4a34-a983-c76ee3d130b4": {
-		"description": "Add some differents loading screen to Scrap Mechanic instead of the classic one.\n\nTo choose the image:\n- go to the mod folder (Steam\\steamapps\\workshop\\content\\387990\\2441952591)\n- copy the image you want by searching in the 'Loading Screen' folder\n- paste the image in the folder 'Scrap Mechanic\\Data\\Gui\\' and replace the file\n\nYou can find the scrap mechanic files by following this steps:\n- go to the scrap mechanic steam page\n- click the 'manage' button > manage > browse local files",
+		"description": "Add some differents loading screen to Scrap Mechanic instead of the classic one.\n\nTo choose the image:\n- go to the mod folder (Steam\\steamapps\\workshop\\content\\387990\\2441952591)\n- copy the image you want by searching in the 'Loading Screen' folder\n- paste the image in the folder 'Scrap Mechanic\\Data\\Gui\\' and replace the file\n\nYou can find the scrap mechanic files by following this steps:\n- go to the scrap mechanic steam page\n- click the 'manage' button > manage > browse local files\n\nIf you have any idea of loading screen to add, sent it in the comment!",
 		"fileId": 2441952591,
 		"localId": "f6a4f0e4-f520-4a34-a983-c76ee3d130b4",
 		"name": "Custom loading screen",
