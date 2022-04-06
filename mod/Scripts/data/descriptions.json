@@ -11296,7 +11296,7 @@
 		"version": 0
 	},
 	"a7da8f0e-92b8-481a-a637-a86067ff57c3": {
-		"description": "FCMod is a mod that I am working on. It adds some parts that are useful, and some parts that--well--aren't.\n\nDescriptions of all parts:\n\nBlack Hole Block:\nBlock with one billion weight because why not. Falls through everything, be careful not to put it on your car!\n\nGalvanized Metal & Red Metal:\nAn unused texture found in the game files. Maybe you can build something cool with it.\\nThis material is not paintable.\n\nMeter Stick:\nUsed for measuring- yes it's just as useless as you think it is\n\nMod Tablet:\nThis powerful tablet provides new settings that you can modify to affect the game. Press E to change the settings. All settings will still apply if you delete it, but the world will be unloadable without fcmod if you are using custom settings. Press E and click the \"Reset\" tab to reset all of the settings if you want to load the world without fcmod.\n\nLarge Collision Switch & Button:\nIt has the hitbox of a full block to make it easier to press.\n\nTape Gun:\nShoots tape instead of potatoes.\n\nTape Roll:\nCan be used as ammo for the Tape Gun.\n\nTape Container:\nHolds rolls of tape to be shot out of the Tape Gun.\n\nExplosive Tape Gun:\nShoots explosive tape! Boom!\n\nExplosive Tape Roll:\nCan be used as ammo for the Explosive Tape Gun.\n\nExplosive Tape Container:\nHolds very explosive rolls of tape to be shot out of the Explosive Tape Gun.\n\nDwarf Teleporter:\nThis part lets you teleport around the map! Press E while standing on it to teleport to another teleporter in the world with the same paint color. If more than two teleporters have the same paint color, they will form a loop.\n\nIcon Block:\nA logic block with an icon that lights up. Press E to change the icon. As a bonus, setting an upside-down icon block to ON/OFF mode will display \"NO\" when turned on.\n\nBlinker:\nRepeatedly blinks at a specified rate. Connect an input to turn it on and off. Press E to change its blink speed.\n\nSet-Reset Latch:\nWhite painted inputs will switch it on, and black painted inputs will switch it off. Any other color input will toggle it. Unlike other logic gates, this logic gate will always remember its state, even if you save it on the lift or reload the world. Press E to toggle it manually.\n\nProper XOR Gate:\nThe default XOR gate in the game activates if an odd number of inputs are active. A proper XOR gate activates if ONE input is active. Press E to switch to an XNOR gate.",
+		"description": "FCMod is a mod that I am working on. It adds some parts that are useful.\n\nThere are also some parts that aren't that useful, but are fun!",
 		"fileId": 2666022327,
 		"localId": "a7da8f0e-92b8-481a-a637-a86067ff57c3",
 		"name": "fcmod",
@@ -12268,6 +12268,14 @@
 		"fileId": 2789483005,
 		"localId": "ac8c2385-c712-4d2e-bc65-e60f9d84ee26",
 		"name": "DJGamer's Plane Tools",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"bc9df291-debe-41e8-9512-054ca3e83315": {
+		"description": "This mod adds four \"Canvas Builder\" parts.\nEach one, when placed down and activated, builds one quarter of the entire r/place canvas.\n\nNote - This mod does NOT download the \"live\" canvas, it uses a pre-generated version of it.\nThe current canvas that the mod contains was created on April 4, 2022, 11:30AM.\n\nHow to Use:\nI HIGHLY recommend only loading one quarter at a time as the game cannot handle the whole thing at once.\n\n1. Turn your graphics settings all the way DOWN! (this is VERY important!)\n    Also, turn the physics setting all the way down.\n\n2. Create a new, empty flat world and make sure there is at least 2000 x 2000 blocks of free\n    space around you.\n\n3. Place the first \"Canvas Builder\" around 2-4 blocks off the ground (build a pole to place it on)\n\n4. Enable it to build the canvas. The building process can cause severe lag and may take long!\n\n5. To build the remaining quarters, place the second/third/fourth \"Canvas Builder\" in the EXACT SAME SPOT(!) at the first one and enable it.\n\n!!!WARNING!!!\n\nThe canvas blueprint is EXTREMELY LARGE, as you can see by the mod's file size.\n\nBuilding the canvas may take a very long time and/or cause severe lag.\n\nThe game can NOT handle the entire canvas at once! If you build the whole canvas, the game WILL CRASH when you look at it!\n\nI am NOT responsible if you corrupt your save file with this!\n\n",
+		"fileId": 2789937707,
+		"localId": "bc9df291-debe-41e8-9512-054ca3e83315",
+		"name": "r_place Canvas Mod",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
