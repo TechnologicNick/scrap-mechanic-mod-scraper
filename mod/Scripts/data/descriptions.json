@@ -12294,5 +12294,13 @@
 		"name": "Sussy Parts",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"5e3145d1-9e55-4512-8742-14e2adcad30c": {
+		"description": "Frictionless Blocks",
+		"fileId": 2791422576,
+		"localId": "5e3145d1-9e55-4512-8742-14e2adcad30c",
+		"name": "Frictionless Blocks",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
