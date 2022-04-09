@@ -12278,5 +12278,21 @@
 		"name": "r_place Canvas Mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"a6b4dc12-83f3-4b7d-adbb-3ecd86e24a0b": {
+		"description": "Minecraft block's you need",
+		"fileId": 2791193178,
+		"localId": "a6b4dc12-83f3-4b7d-adbb-3ecd86e24a0b",
+		"name": "blocks",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"aa05514a-90b6-4641-86d9-d9be84ec70c8": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2791359677,
+		"localId": "aa05514a-90b6-4641-86d9-d9be84ec70c8",
+		"name": "Sussy Parts",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
