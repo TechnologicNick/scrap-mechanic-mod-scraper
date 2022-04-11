@@ -12310,5 +12310,13 @@
 		"name": "ScrapVM",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"a48d977c-608c-4cf5-ba9a-918efd822911": {
+		"description": "just some blocks i wanted in the game :)",
+		"fileId": 2792423780,
+		"localId": "a48d977c-608c-4cf5-ba9a-918efd822911",
+		"name": ".jars custom blocks",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
