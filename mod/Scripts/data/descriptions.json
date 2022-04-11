@@ -12318,5 +12318,13 @@
 		"name": ".jars custom blocks",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"095dbc67-0dce-4107-840d-5cb0058d765f": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2792648961,
+		"localId": "095dbc67-0dce-4107-840d-5cb0058d765f",
+		"name": "Ramen Block Mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
