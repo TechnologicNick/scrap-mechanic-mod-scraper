@@ -12160,7 +12160,7 @@
 		"version": 0
 	},
 	"e85898e3-9a35-422e-af89-afbe7400068c": {
-		"description": "This mod doesn't have a description",
+		"description": "If you like OUR work and would like to see more please leave a like and favorite.\n[img]https://i.imgur.com/p7Fv1Z6.gif[/img]\nHow to use:\nIn \"...\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\" search \"2786751439\" in the search bar once there click on the folder \"SMserversoftware\" and the exe is located there feel free to move the folder to the desktop or make a shortcut to it. Right-click on Scrap Mechanic click properties go to \"Launch options\" and paste \"-open \"C:\\Users\\ (your windows name here) \\AppData\\Roaming\\Axolot Games\\Scrap Mechanic\\User\\User_ (your user number here) \\Save\\Server.db\" into it. Then make a world named \"Server\" run the exe file and the server is now set up.\nIf you have bugsplat installed in your Scrap Mechanic remove the bugsplat.exe as it will mess with this software.\n[hr][/hr]\n[*]Q1: Is this a virus and am I safe to use it?\n[*]A1: The software is 100% safe and has no malicious software.\n[hr][/hr]\n[*]Q2: Is it open source?\n[*]A2: I have plans to make the code open source for anybody.\n[hr][/hr]\n[*]Q3: Does it come with any software for preventing players from clearing my worlds?\n[*]A3: It does not and will not have any protections from clears as it is just an SM Server hosting software.\n[hr][/hr]\n[*]Q4: Is there an instructional video to help me set this up?\n[*]A4: Currently no but I have plans to make one in the future.\n[hr][/hr]\n[*]Q5: Is there a GitHub for this?\n[*]A5: Currently no but I have plans to make a server in the future.\n[hr][/hr]\nThe official Discord server is linked here if you have any questions [url=https://discord.gg/DzWrqW3jx4]DiscordServerLink",
 		"fileId": 2786751439,
 		"localId": "e85898e3-9a35-422e-af89-afbe7400068c",
 		"name": "SM Dedicated Server Software",
@@ -12324,6 +12324,14 @@
 		"fileId": 2792648961,
 		"localId": "095dbc67-0dce-4107-840d-5cb0058d765f",
 		"name": "Ramen Block Mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"720c1be4-db38-4d8f-88e9-8b756128d9da": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2793009142,
+		"localId": "720c1be4-db38-4d8f-88e9-8b756128d9da",
+		"name": "airgenerator",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
