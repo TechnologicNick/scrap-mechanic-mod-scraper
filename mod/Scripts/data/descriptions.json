@@ -12358,5 +12358,37 @@
 		"name": "lua test",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"72adad66-33ab-4431-8ae7-75d2dbf0c723": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2793506447,
+		"localId": "72adad66-33ab-4431-8ae7-75d2dbf0c723",
+		"name": "Creative Essentials",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"4baeb72b-d125-44a7-a0a2-99f8bf934785": {
+		"description": "How to install mod radio\n- Go to the folder where you have Steam installed.\n- ...\\Steam\\steamapps\\workshop\\content\\387990\n- enter 2771672175 (sort by date for convenience)\n- go to Effects\\Audio\\Banks\n- copy the Master Bank.bank file\n\nNext, we go back to the navel where you have Steam installed.\n...\\Steam\\steamapps\\common\\ScrapMechanic\\Data\\Audio\\Banks\nand paste the previously copied file\n\n\nКак установить мод-радио\n- Перейдите в папку где установлен у вас Steam.\n- ...\\Steam\\steamapps\\workshop\\content\\387990\n- введите 2771672175 (для удобства отсортируйте по дате) \n- перейдите в Effects\\Audio\\Banks \n- скопируйте файл Master Bank.bank\n\nДалее заходим  опять в пупку где установлен  у вас Steam.\n...\\Steam\\steamapps\\common\\ScrapMechanic\\Data\\Audio\\Banks\nи вставьте ранее скопированный файл",
+		"fileId": 2793709580,
+		"localId": "4baeb72b-d125-44a7-a0a2-99f8bf934785",
+		"name": "Ukraine Radio Music",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"2e4096ad-8864-48d5-b480-80ba05d8cfb3": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2793726282,
+		"localId": "2e4096ad-8864-48d5-b480-80ba05d8cfb3",
+		"name": "Oliver's sexy mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"bb9e1c9b-5315-49e9-a4f9-d110dfc252f3": {
+		"description": "this is a test",
+		"fileId": 2793960073,
+		"localId": "bb9e1c9b-5315-49e9-a4f9-d110dfc252f3",
+		"name": "tezt",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
