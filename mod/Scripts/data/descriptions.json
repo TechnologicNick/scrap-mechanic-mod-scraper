@@ -12414,5 +12414,13 @@
 		"name": "Ion2093902INJFD93950JNJ",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"b3bc1c11-bd79-4db5-91d0-de69017e8536": {
+		"description": "Changes the radio music to tracks from Metal Gear Rising: REVENGEANCE.\n\n[h1]Included tracks:[/h1]\nRules of Nature\nI'm My Own Master Now\nA Stranger I Remain\nThe Stains of Time\nThe Only Thing I Know For Real\nIt Has to Be This Way\n\nSadly I couldn't include Collective Consciousness because of limitations.\n\n\n[h1]Installation:[/h1]\n1. Right click on Scrap Mechanic in your Steam library, then click on Properties. Click on the 'Local Files' tab on the left, then click on 'Browse'.\n2. Open a new File Explorer window with the same path as the game files.\n3. Click on the 'steamapps' folder in the path\n4. Go to 'steamapps/workshop/content/387990'\n5. Sort by latest and click on the first folder\n6. Copy the 'Data' folder and paste it into the game files",
+		"fileId": 2795169183,
+		"localId": "b3bc1c11-bd79-4db5-91d0-de69017e8536",
+		"name": "Metal Gear Rising RADIO",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
