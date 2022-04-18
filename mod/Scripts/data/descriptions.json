@@ -11712,7 +11712,7 @@
 		"version": 0
 	},
 	"846cd012-badd-4b4a-97b9-d1cf85f473b3": {
-		"description": "This mod doesn't have a description",
+		"description": "Adds extra blocks to the game such as:\n\n- Green Screen Block\n\n- Low-Friction Block\n\n- Float Block\n\n- High-Friction Block",
 		"fileId": 2754524398,
 		"localId": "846cd012-badd-4b4a-97b9-d1cf85f473b3",
 		"name": "Extra Blocks",
@@ -12112,7 +12112,7 @@
 		"version": 0
 	},
 	"eff60859-4809-42dd-83bf-6af7e7159edb": {
-		"description": "This mod makes the spud gun the most overpowered item in Scrap Mechanic.\n\nThis mod is partially inspired by the OP Tools mod, created by Questionable Mark.\n\nHow to use:\n  1) Place a \"Spud Gun Tools Activator.\" As a shortcut, you can find this part by searching \"sgt\" in  the inventory.\n  2) Shoot any spud gun while crouching to open the Spud Gun Tools GUI.\n  3) Click the text on the left to select which mode you want to use. A yellow pointer will show which mode is selected. Use the buttons on the right to configure further.\n  4) Shoot to use the selected mode.\n\nDescriptions of all modes:\n  Basic Gun - It's a gun. Select what projectile to shoot.\n  Super Gatling Gun - It shoots 40 times per second! It toggles, so shoot once to start it, and once to stop it.\n  Explosion Spawner - Click to spawn an explosion at the point you are looking at. It can spawn explosions the size of small or large explosive canisters.\n  Deleter - Click while looking at a creation. It can delete a single shape, a body, or the entire creation.\n  Teleporter - Click to teleport to the point you are looking at.\n  Unit Killer - Click on a unit to kill it.\n  Unit Spawner - Click somewhere to spawn the selected unit.\n  Pusher - Push a creation or character with a specified magnitude.\n\nHave fun!\n\n",
+		"description": "This mod makes the spud gun the most overpowered item in Scrap Mechanic.\n\nThis mod is partially inspired by the OP Tools mod, created by Questionable Mark.\n\nHow to use:\n  1) Place a \"Spud Gun Tools Activator.\" As a shortcut, you can find this part by searching \"sgt\" in  the inventory.\n  2) Shoot any spud gun while crouching to open the Spud Gun Tools GUI.\n  3) Click the text on the left to select which mode you want to use. A yellow pointer will show which mode is selected. Use the buttons on the right to configure further.\n  4) Shoot to use the selected mode.\n\nDescriptions of all modes:\n  Basic Gun - It's a gun. Select what projectile to shoot.\n  Super Gatling Gun - It shoots 40 times per second! It toggles, so shoot once to start it, and once to stop it.\n  Explosion Spawner - Click to spawn an explosion at the point you are looking at. It can spawn explosions the size of small or large explosive canisters.\n  Deleter - Click while looking at a creation. It can delete a single shape, a body, or the entire creation.\n  Teleporter - Click to teleport to the point you are looking at.\n  Unit Killer - Click on a unit to kill it.\n  Unit Spawner - Click somewhere to spawn the selected unit.\n  Pusher - Push a creation or character with a specified magnitude.\n\nI have recently added a \"Mounted Spud Gun Tools\" part, which allows all the functions of Spud Gun Tools to be used by a mounted spud gun.\n\nHave fun!\n\n",
 		"fileId": 2784603778,
 		"localId": "eff60859-4809-42dd-83bf-6af7e7159edb",
 		"name": "Spud Gun Tools",
@@ -12360,7 +12360,7 @@
 		"version": 0
 	},
 	"72adad66-33ab-4431-8ae7-75d2dbf0c723": {
-		"description": "This mod doesn't have a description",
+		"description": "**IN ACTIVE DEVELOPMENT**",
 		"fileId": 2793506447,
 		"localId": "72adad66-33ab-4431-8ae7-75d2dbf0c723",
 		"name": "Creative Essentials",
@@ -12428,6 +12428,14 @@
 		"fileId": 2795414877,
 		"localId": "7d270fe2-189a-4fac-91e5-96e8b5bb9ec4",
 		"name": "survival modpack v3",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"6fa21ae1-ff11-4609-8880-81469e17a94b": {
+		"description": "hi i made a new mod!\nits B_scrap gamer mod! its my name!\n\nSoory but i was not able to upload the biger mod\nthe mod tool crahed when adding the 2GB FILE so only multiplayer wersion is added.\nif you want the biger mod the here is the MEGA Drive webside:\nhttps://mega.nz/file/RxAySQjJ#G-K3Fr_NZ2lr1c0xrtEcyj-WSLfPBwvxiLfXWZs1G1s\n\n\nthis mod gives:\n\nFant Mod  (not added)\n\nExpaded Info (not added)\n\nblue gui   (working)\n\nblue tools (working)\n\nhungary language (working)\n\nfawx gament box 0.5.1 (not added)\n\nand much not more!\n\n\n\nto install the mod copy the files from B_Scrap Gamer MOD or Multiplayer Wersion and paste to steam\\steammaps\\common\\scrap mechanic\nthe istallation will take for a long time to work\n\nmultiplayer wersion is:\nyou will able to join to friends while they dont have installed the mod\nand also remowes a lot of mods like fant mod",
+		"fileId": 2795777060,
+		"localId": "6fa21ae1-ff11-4609-8880-81469e17a94b",
+		"name": "B_Scrap Gamer Mod",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
