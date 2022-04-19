@@ -12438,5 +12438,13 @@
 		"name": "B_Scrap Gamer Mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"cf7aab19-2dd1-4dae-91d2-e734c52ba610": {
+		"description": "мод полублоков",
+		"fileId": 2796366288,
+		"localId": "cf7aab19-2dd1-4dae-91d2-e734c52ba610",
+		"name": "polyblock",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }

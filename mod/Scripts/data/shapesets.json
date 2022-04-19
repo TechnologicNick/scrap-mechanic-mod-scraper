@@ -34160,5 +34160,14 @@
 	"6fa21ae1-ff11-4609-8880-81469e17a94b": {
 		"$CONTENT_6fa21ae1-ff11-4609-8880-81469e17a94b/Objects/Database/ShapeSets/blocks.json": [],
 		"$CONTENT_6fa21ae1-ff11-4609-8880-81469e17a94b/Objects/Database/ShapeSets/parts.json": []
+	},
+	"cf7aab19-2dd1-4dae-91d2-e734c52ba610": {
+		"$CONTENT_cf7aab19-2dd1-4dae-91d2-e734c52ba610/Objects/Database/ShapeSets/blocks.json": [
+			"0d5ad108-1aaf-43cd-b951-ba42fc2f98e5"
+		],
+		"$CONTENT_cf7aab19-2dd1-4dae-91d2-e734c52ba610/Objects/Database/ShapeSets/parts.json": [
+			"b438ffce-bf2d-11ec-9d64-0242ac120002",
+			"b438fccc-bf2d-11ec-9d64-0242ac120002"
+		]
 	}
 }
