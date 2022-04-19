@@ -12446,5 +12446,13 @@
 		"name": "polyblock",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"420648c9-282b-4e31-9242-f1bb20e10874": {
+		"description": "Działa troche sus ale ok",
+		"fileId": 2796718960,
+		"localId": "420648c9-282b-4e31-9242-f1bb20e10874",
+		"name": "mój pierwszy działajcy mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
