@@ -12213,7 +12213,17 @@
 		"localId": "30f35d65-684b-45ae-9c62-4bf57325403b",
 		"name": "Scrap Mechanic Servers Mod Continuation",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 0,
+		"dependencies": [
+			{
+				"fileId": 2791874023,
+				"localId": "5a081817-b141-4439-987f-a25162d125fd"
+			},
+			{
+				"fileId": 2795720853,
+				"localId": "7ee6b5d6-49d2-4ddb-925f-8e8b1cad408b"
+			}
+		]
 	},
 	"06bae6a8-21ad-408a-ba83-c1acfe85623f": {
 		"description": "Bonjour ou Bonsoir\n\nJe suis DiumStream \n\nC'est mon promier mod que je creér ",
@@ -12443,7 +12453,7 @@
 		"description": "мод полублоков",
 		"fileId": 2796366288,
 		"localId": "cf7aab19-2dd1-4dae-91d2-e734c52ba610",
-		"name": "polyblock",
+		"name": "modpack polublocks",
 		"type": "Blocks and Parts",
 		"version": 0
 	},
@@ -12452,6 +12462,22 @@
 		"fileId": 2796718960,
 		"localId": "420648c9-282b-4e31-9242-f1bb20e10874",
 		"name": "mój pierwszy działajcy mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"f421e631-1bf9-40aa-9917-18092a567556": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2796759870,
+		"localId": "f421e631-1bf9-40aa-9917-18092a567556",
+		"name": "угygol dly antona",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"0455227d-43c8-4429-a64c-6d7ece485dee": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2796796078,
+		"localId": "0455227d-43c8-4429-a64c-6d7ece485dee",
+		"name": "Wings Mod 2",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
