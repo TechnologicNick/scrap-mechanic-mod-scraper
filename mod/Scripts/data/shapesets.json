@@ -34200,5 +34200,16 @@
 		"$CONTENT_0455227d-43c8-4429-a64c-6d7ece485dee/Objects/Database/ShapeSets/parts.json": [
 			"aa6aa810-f6bf-4dfa-ad9d-fe844a7e9f19"
 		]
+	},
+	"5b5da734-d863-4751-afa6-2d657ecc9768": {
+		"$CONTENT_5b5da734-d863-4751-afa6-2d657ecc9768/Objects/Database/ShapeSets/blocks.json": [
+			"c4a2ffa8-c245-41fb-9496-966c6ee4648b"
+		],
+		"$CONTENT_5b5da734-d863-4751-afa6-2d657ecc9768/Objects/Database/ShapeSets/parts.json": [
+			"b37f2b63-cbfc-473b-a4d9-2f455bd934ac",
+			"b5858089-b1f8-4d13-a485-fdaa204d9c6b",
+			"b4a84504-631e-486d-b063-706393215ded",
+			"8684ad89-94ad-4f46-b50e-c1aff63893f4"
+		]
 	}
 }
