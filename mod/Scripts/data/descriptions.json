@@ -12488,5 +12488,21 @@
 		"name": "Dealth Run",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"214d7fe7-2bf4-4a5a-b213-c9aae2a819db": {
+		"description": "Blocks with boosted stats (W.I.P)",
+		"fileId": 2798522570,
+		"localId": "214d7fe7-2bf4-4a5a-b213-c9aae2a819db",
+		"name": "Boosted Stats Blocks",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"4b276f51-43fa-4bac-b0eb-dda5120f6894": {
+		"description": "this is just me adding a block of grass to scrap mechanic, nothing special.\n\noriginal material: https://3dtextures.me/2021/03/19/stylized-grass-003/\nhe made original texure",
+		"fileId": 2798524004,
+		"localId": "4b276f51-43fa-4bac-b0eb-dda5120f6894",
+		"name": "fake grass block",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
