@@ -12504,5 +12504,13 @@
 		"name": "fake grass block",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"b4146c25-30c6-4a17-b941-cd2e83608761": {
+		"description": "This mod adds wedges and plastic to survival\nTo install the mod, copy \"craftbot.json\" from the most recent folder in \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\" and copy it to \"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\\Survival\\CraftingRecipes\" to replace the craftbot.json",
+		"fileId": 2798921043,
+		"localId": "b4146c25-30c6-4a17-b941-cd2e83608761",
+		"name": "Wedges in Survival",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
