@@ -12512,5 +12512,13 @@
 		"name": "Wedges in Survival",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"2586833d-873f-465e-8775-a9e5ca806888": {
+		"description": "This mod adds a bunch of random parts and blocks to play around.\nThese include:\n-Two trusters\n-Micro Spudgun and Explosive\n-Glowy Ducky button, switch, light, explosive and a  nuclear bomb.\n- Five new blocks to play around.\nAnd more to be added\n\n",
+		"fileId": 2799119856,
+		"localId": "2586833d-873f-465e-8775-a9e5ca806888",
+		"name": "Random Stuff Mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
