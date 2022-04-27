@@ -12520,5 +12520,13 @@
 		"name": "Random Stuff Mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"755dce38-dddc-4cb8-8325-15b2079fab10": {
+		"description": "This mod changes the sledgehammer's model and texture to the model of the haybot pitchfork.\nThis mod is only a re skin for the sledgehammer.\n\n[h1]INSTALLATION:-[/h1]\n\nGoto you Steam Library , Right Click on [b]Scrap Mechanic->Manage->Browse Local Files[/b] \n\nThen navigate 2 folders back to [b]\" steamapps \"[/b]\n\nclick on [b]workshop->content->387990[/b] and the most recent folder is the mod folder\n\nOpen the folder and go into the folder called [b]\"Scrap Mechanic\"[/b] and copy the [b]\"Data\"[/b] Folder \n\nThen go back to your steam library , right click on [b]Scrap Mechanic->Manage->Browse Local Files[/b] \n\nThen just paste the [b]\" Data \"[/b] Folder into the [b]\" Scrap Mechanic \"[/b] folder and make sure to replace the existing file\n\nTo listen to the music , you need a radio \n\n[h1]Mod Id[/h1] [b]2800354709[/b]",
+		"fileId": 2800354709,
+		"localId": "755dce38-dddc-4cb8-8325-15b2079fab10",
+		"name": "Haybot Pitchfork Hammer",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
