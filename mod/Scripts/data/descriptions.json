@@ -12514,7 +12514,7 @@
 		"version": 0
 	},
 	"2586833d-873f-465e-8775-a9e5ca806888": {
-		"description": "This mod adds a bunch of random parts and blocks to play around.\nThese include:\n-Two trusters\n-Micro Spudgun and Explosive\n-Glowy Ducky button, switch, light, explosive and a  nuclear bomb.\n- Five new blocks to play around.\nAnd more to be added\n\nLanguage Support:\nEnglish\nRussian\nPolish\nGerman\n\n\n",
+		"description": "This mod adds a bunch of random parts and blocks to play around.\nThese include:\n-Two trusters\n-Micro Spudgun and Explosive\n-Glowy Ducky button, switch, light, explosive and a  nuclear bomb.\n- New blocks to play around.\nAnd more to be added\n\nLanguage Support:\nEnglish\nRussian\nPolish\nGerman\n\n\n",
 		"fileId": 2799119856,
 		"localId": "2586833d-873f-465e-8775-a9e5ca806888",
 		"name": "Random Stuff Mod",
@@ -12526,6 +12526,22 @@
 		"fileId": 2800354709,
 		"localId": "755dce38-dddc-4cb8-8325-15b2079fab10",
 		"name": "Haybot Pitchfork Hammer",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"b3dc637a-90a5-46d1-8c3a-881bc2205c0e": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2800437500,
+		"localId": "b3dc637a-90a5-46d1-8c3a-881bc2205c0e",
+		"name": "New bus seats and fabrics mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"f179ffc1-1f3a-4b7e-9b6d-0d9a7367fd1b": {
+		"description": "Peckett B2 Class Locomotive, 0-6-0ST",
+		"fileId": 2800573916,
+		"localId": "f179ffc1-1f3a-4b7e-9b6d-0d9a7367fd1b",
+		"name": "Peckett B2",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
