@@ -9,6 +9,8 @@ jobs:
   update_database:
     runs-on: ubuntu-latest
     
+    timeout-minutes: 15
+    
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
