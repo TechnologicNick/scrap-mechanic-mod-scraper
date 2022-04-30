@@ -12544,5 +12544,13 @@
 		"name": "Peckett B2",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"3df6725e-462a-47e3-92ed-e5b66883588c": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2799002815,
+		"localId": "3df6725e-462a-47e3-92ed-e5b66883588c",
+		"name": "Raft Mechanic",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
