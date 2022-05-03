@@ -34457,5 +34457,9 @@
 			"1a81b648-806a-4c67-ba5c-752ed6cb3e76"
 		]
 	},
-	"3df6725e-462a-47e3-92ed-e5b66883588c": {}
+	"3df6725e-462a-47e3-92ed-e5b66883588c": {},
+	"b5387bb1-ccae-4b61-b9cb-51ff2d68b0f2": {
+		"$CONTENT_b5387bb1-ccae-4b61-b9cb-51ff2d68b0f2/Objects/Database/ShapeSets/blocks.json": [],
+		"$CONTENT_b5387bb1-ccae-4b61-b9cb-51ff2d68b0f2/Objects/Database/ShapeSets/parts.json": []
+	}
 }
