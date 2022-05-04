@@ -12450,10 +12450,10 @@
 		"version": 0
 	},
 	"cf7aab19-2dd1-4dae-91d2-e734c52ba610": {
-		"description": "мод полублоков",
+		"description": "Полигоны Юлилика",
 		"fileId": 2796366288,
 		"localId": "cf7aab19-2dd1-4dae-91d2-e734c52ba610",
-		"name": "modpack polublocks",
+		"name": "yulilok's polygons",
 		"type": "Blocks and Parts",
 		"version": 0
 	},
@@ -12558,6 +12558,14 @@
 		"fileId": 2803129003,
 		"localId": "b5387bb1-ccae-4b61-b9cb-51ff2d68b0f2",
 		"name": "Cinematic Tool Camera Tool",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"3f6352ae-9022-4f5f-a689-bcfeabbb6179": {
+		"description": "This mod update the stack size of many items.\n\nhere is the complete list of stack size changes : \n- Empty bucket : 1 => 5\n- All blocks : 256=> 512\n- All pipes : 10 => 30\n- Industrial beams : 1 => 30\n- All seeds : \n- Water / Oil / chemical liquids : 20 => 100 \n- Potatoes : 50 => 200\n- Fruits / vegetables : 10 => 50\n- Seeds : 20 => 200\n- SoilBag : 5 => 10\n\n- Ember : 10 => 50\n- Beewax : 10 => 50\n- Slimyclam : 10 => 50\n- Cotton :  20 => 100\n- Corn : 10 => 50\n- Circuitboard : 20 => 50\n- Steak : 10 => 50\n- Glowpoop: 10 => 50\n- Flower : 20 => 100\n- Glue : 10 => 50\nsome builing + decor object : 1 => 20\n- Warehouse key card : 1 => 5\n",
+		"fileId": 2797358431,
+		"localId": "3f6352ae-9022-4f5f-a689-bcfeabbb6179",
+		"name": "BetterStack",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
