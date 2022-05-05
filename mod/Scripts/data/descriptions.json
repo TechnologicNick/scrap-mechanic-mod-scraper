@@ -11296,7 +11296,7 @@
 		"version": 0
 	},
 	"a7da8f0e-92b8-481a-a637-a86067ff57c3": {
-		"description": "FCMod is a mod that I am working on. It adds some parts that are useful.\n\nThere are also some parts that aren't that useful, but are fun!",
+		"description": "FCMod is a mod that I am working on. The parts it adds include:\n- Guns that shoot tape (and explosive tape)\n- A teleporter\n- Balloons because why not\n- A block that can show any effect in the game\n- 4 logic blocks: the Blinker, the Set-Reset Latch, the Proper XOR gate, and the Icon block\n- A tablet with settings to tweak the way the world works\n- A laser that can destroy almost anything\n- A nuke with an EPIC explosion effect",
 		"fileId": 2666022327,
 		"localId": "a7da8f0e-92b8-481a-a637-a86067ff57c3",
 		"name": "fcmod",
