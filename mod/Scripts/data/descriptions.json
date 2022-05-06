@@ -12547,11 +12547,11 @@
 	},
 	"3df6725e-462a-47e3-92ed-e5b66883588c": {
 		"description": "This mod doesn't have a description",
-		"fileId": 2799002815,
 		"localId": "3df6725e-462a-47e3-92ed-e5b66883588c",
-		"name": "Raft Mechanic",
+		"name": "Raft Mod",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 0,
+		"fileModVersion": 1.11
 	},
 	"b5387bb1-ccae-4b61-b9cb-51ff2d68b0f2": {
 		"description": "This mod doesn't have a description",
