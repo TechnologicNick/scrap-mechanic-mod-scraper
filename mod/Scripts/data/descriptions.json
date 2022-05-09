@@ -12568,5 +12568,13 @@
 		"name": "BetterStack",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"4686f165-6ce4-4e63-87d4-528831d22776": {
+		"description": "This mod doesn't have a description.",
+		"fileId": 2805728382,
+		"localId": "4686f165-6ce4-4e63-87d4-528831d22776",
+		"name": "Sea Shanty Radio",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
