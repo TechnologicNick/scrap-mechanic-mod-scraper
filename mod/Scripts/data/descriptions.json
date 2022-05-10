@@ -12053,7 +12053,7 @@
 		"localId": "7ae900d9-b06d-489a-853e-7d77c5ae33d7",
 		"name": "Robot Gun",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"a0ab5ee2-7b1f-49f9-89ea-8ac38931349f": {
 		"description": "This mod doesn't have a description",
@@ -12592,5 +12592,14 @@
 		"name": "Portal-Pack",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"1d8a6995-a398-4b53-b477-0423e1d55474": {
+		"custom_icons": false,
+		"description": "Thismod contains:\nAll weapons much faster and do not require ammo!\nSpudling are now explosive!\nPotato shotgun have 12x more fries!\nPotato gun are much more accurate!\n\n\nHow to install / Как установить",
+		"fileId": 2806291030,
+		"localId": "1d8a6995-a398-4b53-b477-0423e1d55474",
+		"name": "Better Weaponry",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
