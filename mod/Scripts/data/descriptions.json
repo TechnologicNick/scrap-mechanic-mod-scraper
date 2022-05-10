@@ -12576,5 +12576,21 @@
 		"name": "Sea Shanty Radio",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"c018cc7f-6ef5-4099-b3f3-6c238bbbbec1": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2806101531,
+		"localId": "c018cc7f-6ef5-4099-b3f3-6c238bbbbec1",
+		"name": "Realistic train infrastructure and parts",
+		"type": "Blocks and Parts",
+		"version": 0.1
+	},
+	"b54defad-024a-45cb-bd11-46150e26c65d": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2806149730,
+		"localId": "b54defad-024a-45cb-bd11-46150e26c65d",
+		"name": "Portal-Pack",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
