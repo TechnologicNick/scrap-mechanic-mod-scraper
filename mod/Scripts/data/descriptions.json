@@ -4138,7 +4138,7 @@
 		"version": 0
 	},
 	"3c140a54-87cb-4954-af1f-83757f301f21": {
-		"description": "This mod is mainly used by the Scrapwars community to recreate real life robot combat in Scrap Mechanic.\n\nCurrent Content:\n- Pit Block\n- Pit Activator\n- Spinner Splodey Block\n- Hammer Splodey Block\n- Crusher Splodey Block\n\nJoin our discord if you are interested in scrap mechanic robot combat! https://discord.gg/WCZ6rXQ\n\n\nDiscontinued Pieces For Spawning old Builds https://steamcommunity.com/sharedfiles/filedetails/?id=2196238706",
+		"description": "This mod is mainly used by the Scrapwars community to recreate real life robot combat in Scrap Mechanic.\n\nCurrent Content:\n- Pit Block\n- Pit Activator\n- Spinner Splodey Block\n- Hammer Splodey Block\n- Crusher Splodey Block\n- Indestructible 1x1 Smart Thruster\n\nJoin our discord if you are interested in scrap mechanic robot combat! https://discord.gg/WCZ6rXQ\n\n\nDiscontinued Pieces For Spawning old Builds https://steamcommunity.com/sharedfiles/filedetails/?id=2196238706",
 		"fileId": 1862295799,
 		"localId": "3c140a54-87cb-4954-af1f-83757f301f21",
 		"name": "Scrapwars Mod",
@@ -12514,7 +12514,7 @@
 		"version": 0
 	},
 	"2586833d-873f-465e-8775-a9e5ca806888": {
-		"description": "This mod adds a bunch of random parts and blocks to play around.\nThese include:\n-Two trusters\n-Micro Spudgun and Explosive\n-Glowy Ducky button, switch, light, explosive and a  nuclear bomb.\n- New blocks to play around.\nAnd more to be added\n\nLanguage Support:\nEnglish\nRussian\nPolish\nGerman\n\n\n",
+		"description": "This mod adds a bunch of random parts and blocks to play around.\nThese include:\n-Two trusters\n-Micro Spudgun and Explosives\n-Glowy Ducky button, switch, light, explosive and a nuclear bomb.\n- New blocks to play around.\n- Decorations\n- Small engines\nAnd more to be added\n\nLanguage Support:\nEnglish\nRussian\nPolish\nGerman\n\n\n",
 		"fileId": 2799119856,
 		"localId": "2586833d-873f-465e-8775-a9e5ca806888",
 		"name": "Random Stuff Mod",
@@ -12599,6 +12599,31 @@
 		"fileId": 2806291030,
 		"localId": "1d8a6995-a398-4b53-b477-0423e1d55474",
 		"name": "Better Weaponry",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"c97fdbe1-46c3-49ee-b7cf-a95b7f07a223": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2806382137,
+		"localId": "c97fdbe1-46c3-49ee-b7cf-a95b7f07a223",
+		"name": "Random's Mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"b5ad74d5-525a-4002-a4a0-f86316da64be": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2806682842,
+		"localId": "b5ad74d5-525a-4002-a4a0-f86316da64be",
+		"name": "DPP Bearing 2",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"5136b3ae-5ffb-44c8-8557-5e204352f8d2": {
+		"custom_icons": false,
+		"description": "This Mod includes a variety of parts I've made. Currently we have:\n[olist]\n[*]Gearbox\n[*]Battery Generator\n[*]DPP Bearing\n[/olist]\n\nNOTE: This mod currently only works on test branch!",
+		"fileId": 2806686104,
+		"localId": "5136b3ae-5ffb-44c8-8557-5e204352f8d2",
+		"name": "Dat Pixel Pack (DPP Mod)",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
