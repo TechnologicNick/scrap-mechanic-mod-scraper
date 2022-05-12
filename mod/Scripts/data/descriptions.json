@@ -12626,5 +12626,14 @@
 		"name": "Dat Pixel Pack (DPP Mod)",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"ffe19784-76de-4403-8ce9-b23b091f06c1": {
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2806757680,
+		"localId": "ffe19784-76de-4403-8ce9-b23b091f06c1",
+		"name": "aasd",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
