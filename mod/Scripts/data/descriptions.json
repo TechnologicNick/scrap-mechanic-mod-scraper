@@ -12603,12 +12603,12 @@
 		"version": 1
 	},
 	"c97fdbe1-46c3-49ee-b7cf-a95b7f07a223": {
-		"description": "This mod doesn't have a description",
-		"fileId": 2806382137,
+		"description": "[h1][b]Random’s Mod Version: 0.4.0[/b][/h1]\n\nThis is a mod that I personally think will make Scrap Mechanic better and more fun!\n\n[i][b]**Note: This mod doesn't have much right now, but more stuff will be added in the future! More languages will be supported in the future as well. Also, I'm pretty new to modding so if updates are slow, you know why.**[/b][/i]\n\nIf you experience any issues with the mod, just let me know down in the comments.\n\nCurrent Supported Languages:\nEnglish\nSpanish (Español)\n\n[i][b]Latest Update:\n-Added Simple Plastic Block\n-Added Neon Block[/b][/i]\n\n[b][h1]Features:\n___________________________________\nBlocks:\nIndestructible Glass\nSpud-Proof Glass\nPaintable Glass\nGrass Block\nCheese Block\nSimple Plastic Block\nNeon Block\n\nParts:\n*None Yet*\n\nInteractive Parts:\n*None Yet*\n\nTools:\n*None Yet*\n___________________________________[/h1][/b]\n\nEnjoy! :)",
+		"fileId": 2806996058,
 		"localId": "c97fdbe1-46c3-49ee-b7cf-a95b7f07a223",
 		"name": "Random's Mod",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 0.3
 	},
 	"b5ad74d5-525a-4002-a4a0-f86316da64be": {
 		"description": "This mod doesn't have a description",
@@ -12635,5 +12635,13 @@
 		"name": "aasd",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"c389c77e-6818-445a-b45f-b852c5dfbe03": {
+		"description": "CPU in single block\n\ncreate your own automated machines and logic systems, minigames and more...\n\nvideos about cpu:\nhttps://www.youtube.com/playlist?list=PLxot8YjFg6Un0rTtXiAofN5agzTksmqpm\n\nwiki:\nhttps://github.com/timofey260/ScrapCPU/wiki/The-mod-basics\n\ncommands:\nhttps://github.com/timofey260/ScrapCPU/wiki/The-mod-commands\n\nscriptfile directory:\n\"...\\Steam\\SteamApps\\workshop\\content\\387990\\2807051228\"\n\nWARNING: wrong usage of TIMCPU may crash your game",
+		"fileId": 2807051228,
+		"localId": "c389c77e-6818-445a-b45f-b852c5dfbe03",
+		"name": "TimCPU: full CPU in single block",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
