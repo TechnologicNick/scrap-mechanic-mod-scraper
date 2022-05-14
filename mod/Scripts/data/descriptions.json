@@ -12579,7 +12579,7 @@
 	},
 	"c018cc7f-6ef5-4099-b3f3-6c238bbbbec1": {
 		"description": "This mod doesn't have a description",
-		"fileId": 2806101531,
+		"fileId": 2807533296,
 		"localId": "c018cc7f-6ef5-4099-b3f3-6c238bbbbec1",
 		"name": "Realistic train infrastructure and parts",
 		"type": "Blocks and Parts",
@@ -12603,7 +12603,7 @@
 		"version": 1
 	},
 	"c97fdbe1-46c3-49ee-b7cf-a95b7f07a223": {
-		"description": "[h1][b]Random’s Mod Version: 0.5.0[/b][/h1]\n\nThis is a mod that I personally think will make Scrap Mechanic better and more fun!\n\n[i][b]**Note: This mod doesn't have much right now, but more stuff will be added in the future! More languages will be supported in the future as well. Also, I'm pretty new to modding so if updates are slow, you know why.**[/b][/i]\n\nIf you experience any issues with the mod, just let me know down in the comments.\n\nCurrent Supported Languages:\nEnglish\nSpanish (Español)\n\n[i][b]Latest Update:\n-Added Radioactive Block[/b][/i]\n\n[b][h1]Features:\n___________________________________\nBlocks:\nIndestructible Glass\nSpud-Proof Glass\nPaintable Glass\nGrass Block\nCheese Block\nSimple Plastic Block\nNeon Block\nRadioactive Block\n\nParts:\n*None Yet*\n\nInteractive Parts:\n*None Yet*\n\nTools:\n*None Yet*\n___________________________________[/h1][/b]\n\nEnjoy! :)",
+		"description": "[h1][b]Random’s Mod Version: 0.6.0[/b][/h1]\n\nThis is a mod that I personally think will make Scrap Mechanic better and more fun!\n\n[i][b]**Note: This mod doesn't have much right now, but more stuff will be added in the future! More languages will be supported in the future as well. Also, I'm pretty new to modding so if updates are slow, you know why.**[/b][/i]\n\nIf you experience any issues with the mod, just let me know down in the comments.\n\nCurrent Supported Languages:\nEnglish\nSpanish (Español)\n\n[i][b]Latest Update:\n-Added Metal Block 4[/b][/i]\n\n[b][h1]Features:\n___________________________________\nBlocks:\nIndestructible Glass\nSpud-Proof Glass\nPaintable Glass\nGrass Block\nCheese Block\nSimple Plastic Block\nNeon Block\nRadioactive Block\nMetal Block 4\n\nParts:\n*None Yet*\n\nInteractive Parts:\n*None Yet*\n\nTools:\n*None Yet*\n___________________________________[/h1][/b]\n\nEnjoy! :)",
 		"fileId": 2806996058,
 		"localId": "c97fdbe1-46c3-49ee-b7cf-a95b7f07a223",
 		"name": "Random's Mod",
@@ -12651,5 +12651,14 @@
 		"name": "Random Interactables",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"a8ae3f9f-7e25-4115-84b1-cd123a6e4b80": {
+		"custom_icons": false,
+		"description": "Thats my frist mod.\n\nThis mod adds 4 test blocks:\n-test block [Test Block]\n-block with smily face (alpha channel) [Test Block2]\n-block with smily face (normal asg file) [Test Block2-1]\n-block with smily face (red channel & glass) [Test Block2_glass]",
+		"fileId": 2807678114,
+		"localId": "a8ae3f9f-7e25-4115-84b1-cd123a6e4b80",
+		"name": "My Frist Mod - take2",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
