@@ -34570,5 +34570,11 @@
 			"1febea75-d2d9-4f0f-96a2-6ea5d3c63d48",
 			"1a00a3f8-5936-425e-86a0-c292bbfe43ff"
 		]
-	}
+	},
+	"e4499803-8bf5-4b2e-83ec-358feae726e1": {
+		"$CONTENT_e4499803-8bf5-4b2e-83ec-358feae726e1/Objects/Database/ShapeSets/parts.json": [
+			"9b246972-19e1-4a7f-8b32-046b60d1c596"
+		]
+	},
+	"3bb41dae-71a1-4630-9a79-30b96c309b5e": {}
 }

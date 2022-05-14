@@ -12660,5 +12660,22 @@
 		"name": "My Frist Mod - take2",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"e4499803-8bf5-4b2e-83ec-358feae726e1": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2807789432,
+		"localId": "e4499803-8bf5-4b2e-83ec-358feae726e1",
+		"name": "Cursed",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"3bb41dae-71a1-4630-9a79-30b96c309b5e": {
+		"custom_icons": false,
+		"description": "B_Scrap Gamer MOD (Test Branch Wersion)\r\nFor Real Gamers\r\n\r\nthis mod gives:\r\n\r\nHungarian Language\r\n\r\nBLUE Gui Textures (ONLY FOR 1920x1080!)\r\n\r\nBLUE Character Tools\r\n\r\nTo install the mod copy the Data files from Test Branch and paste to steam\\steammaps\\common\\scrap mechanic\r\nthe istallation will take for a long time to work\r\n(The file code is: 2807828980 You can find the mod now!)\r\n\r\nTest Branch Wersion is:\r\nIts the same mod for Multiplayer Wersion but i updated it to work on Test Branch and i changed more GUI Textures.",
+		"fileId": 2807828980,
+		"localId": "3bb41dae-71a1-4630-9a79-30b96c309b5e",
+		"name": "B_Scrap Gamer MOD (Test Branch Wersion)",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
