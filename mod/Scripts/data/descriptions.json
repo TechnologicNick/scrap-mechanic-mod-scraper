@@ -11296,7 +11296,7 @@
 		"version": 0
 	},
 	"a7da8f0e-92b8-481a-a637-a86067ff57c3": {
-		"description": "FCMod is a mod that I am working on. The parts it adds include:\n- Guns that shoot tape (and explosive tape)\n- A teleporter\n- Balloons because why not\n- A block that can show any effect in the game\n- 4 logic blocks: the Blinker, the Set-Reset Latch, the Proper XOR gate, and the Icon block\n- A tablet with settings to tweak the way the world works\n- A laser that can destroy almost anything\n- A plasma drill from the devblogs\n- A nuke with an EPIC explosion effect",
+		"description": "[h2]FCMod is a mod that I am working on. The parts it adds include:[/h2]\r\n[list]\r\n[*]Guns that shoot tape (and explosive tape)\r\n[*]A teleporter\r\n[*]Balloons because why not\r\n[*]A block that can show any effect in the game\r\n[*]4 logic blocks: the Blinker, the Set-Reset Latch, the Proper XOR gate, and the Icon block\r\n[*]A tablet with settings to tweak the way the world works\r\n[*]A laser that can destroy almost anything\r\n[*]A plasma drill from the devblogs\r\n[*]A nuke with an EPIC explosion effect\r\n[/list]",
 		"fileId": 2666022327,
 		"localId": "a7da8f0e-92b8-481a-a637-a86067ff57c3",
 		"name": "fcmod",
@@ -12700,6 +12700,37 @@
 		"fileId": 2808560412,
 		"localId": "dc8c0c9d-8ffa-47aa-b81a-16e5a0315dce",
 		"name": "Kieubas Block",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"b573ca4b-eba0-47a2-9f38-f500cec6e5e0": {
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2809325832,
+				"localId": "b14a472a-0b26-4971-be64-640e5210d0ba"
+			}
+		],
+		"description": "This mod contains the handheld tools from Advanced Challenge Mode.\n\nI decided to release these tools as a separate mod so they can be used without having to load into ACM.\n\nIt currently does not contain all ACM tools, but I will add more over time.\n\nCurrent Tools:\n\n- Knockback Gun",
+		"fileId": 2809332957,
+		"localId": "b573ca4b-eba0-47a2-9f38-f500cec6e5e0",
+		"name": "ACM Tools",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f6cd4a61-38e0-4cf1-9492-e99fa8851186": {
+		"description": "Adds Some awesome PuffyPaws inflatable Wufs that you can ride New Items Comming Soon(and suvival usability)",
+		"fileId": 2809334316,
+		"localId": "f6cd4a61-38e0-4cf1-9492-e99fa8851186",
+		"name": "Need For Squeak",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"3c781077-0cff-4f20-8492-beb1f55c6cbf": {
+		"description": "Manual install\n",
+		"fileId": 2809409375,
+		"localId": "3c781077-0cff-4f20-8492-beb1f55c6cbf",
+		"name": "DPP Battery generator SURVIVAL MOD BASE GAME",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
