@@ -12733,5 +12733,14 @@
 		"name": "DPP Battery generator SURVIVAL MOD BASE GAME",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"6db9449a-2b49-4ee7-8711-ad91ff4119ec": {
+		"custom_icons": false,
+		"description": "This mod is a mistake\nUpd 1: Can't wait to receive death threats bc of my new thumbnail\nUpd 2: Added amogi",
+		"fileId": 2809667982,
+		"localId": "6db9449a-2b49-4ee7-8711-ad91ff4119ec",
+		"name": "E",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
