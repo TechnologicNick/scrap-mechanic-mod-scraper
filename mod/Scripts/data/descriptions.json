@@ -11296,12 +11296,13 @@
 		"version": 0
 	},
 	"a7da8f0e-92b8-481a-a637-a86067ff57c3": {
+		"custom_icons": true,
 		"description": "[h2]FCMod is a mod that I am working on. The parts it adds include:[/h2]\r\n[list]\r\n[*]Guns that shoot tape (and explosive tape)\r\n[*]A teleporter\r\n[*]Balloons because why not\r\n[*]A block that can show any effect in the game\r\n[*]4 logic blocks: the Blinker, the Set-Reset Latch, the Proper XOR gate, and the Icon block\r\n[*]A tablet with settings to tweak the way the world works\r\n[*]A laser that can destroy almost anything\r\n[*]A plasma drill from the devblogs\r\n[*]A nuke with an EPIC explosion effect\r\n[/list]",
 		"fileId": 2666022327,
 		"localId": "a7da8f0e-92b8-481a-a637-a86067ff57c3",
 		"name": "fcmod",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"4fd859a4-a05f-4fc3-85a2-0fb7464bf231": {
 		"description": "The Cogpack is a fun modpack by C.O.G. INC .",
