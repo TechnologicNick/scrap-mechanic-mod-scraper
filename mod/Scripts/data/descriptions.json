@@ -12760,5 +12760,13 @@
 		"name": "Fighters Additional Parts Mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"252384ad-85e5-467e-befd-5ceb538e3fb8": {
+		"description": "A mod that adds ice and snow.\n\nIt's 4 am so my brain isn't able to think a better name for this mod.\nPD: It's my first mod so it's just 2 blocks and by some reason SNOW IS EXTREMELY REFLECTIVE.",
+		"fileId": 2810687582,
+		"localId": "252384ad-85e5-467e-befd-5ceb538e3fb8",
+		"name": "Cold Blocks Mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
