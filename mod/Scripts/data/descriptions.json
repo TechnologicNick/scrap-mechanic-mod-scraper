@@ -12475,10 +12475,10 @@
 		"version": 0
 	},
 	"0455227d-43c8-4429-a64c-6d7ece485dee": {
-		"description": "This mod doesn't have a description",
-		"fileId": 2796796078,
+		"description": "This brings Aerodynamics to SM using flight scripts.",
+		"fileId": 2810869804,
 		"localId": "0455227d-43c8-4429-a64c-6d7ece485dee",
-		"name": "Wings Mod 2",
+		"name": "Aero Mod",
 		"type": "Blocks and Parts",
 		"version": 0
 	},
@@ -12766,6 +12766,39 @@
 		"fileId": 2810687582,
 		"localId": "252384ad-85e5-467e-befd-5ceb538e3fb8",
 		"name": "Cold Blocks Mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"3bedabfd-c96f-49b2-a0f4-842bb66deb4d": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2810786892,
+		"localId": "3bedabfd-c96f-49b2-a0f4-842bb66deb4d",
+		"name": "SpudGuiMod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d32036fe-6bfa-414e-b00a-326fbac48f94": {
+		"custom_icons": false,
+		"description": "Adds another battery container that can generate batteries!\n\nSimilar to what Dr Pixel Plays has done.",
+		"fileId": 2810848585,
+		"localId": "d32036fe-6bfa-414e-b00a-326fbac48f94",
+		"name": "Battery Generator",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"aab611ae-97ac-4953-a2b4-c4dfa80bb4e0": {
+		"description": "Yes it works on Survival\n\nInstructions:\n1. Go To This Mod File\n-> Steam/steamapps/workshop/content/387990/\n\n2. Go To The \"alwaysDay\" Folder\n-> 387990/2810958892/Scripts/alwaysDay\n\n3. Copy The \"SurvivalGame.lua\" data\n-> Right click\n-> Copy\nor\n->Left click\n-> Strg + C\n\n4. Paste It Into The Game File\n-> Steam/steamapps/common/Scrap Mechanic/Survival/Scripts/game\n\n-> Right click\n-> Paste\nor\n->Strg + V\n\n5. Create A New World And Enjoy The Neverending Day\n-> :D\n\nIf you messed something up, there is a Backup File.\n-> Steam/steamapps/workshop/content/387990/2810958892/Scripts/Backup (Original)",
+		"fileId": 2810958892,
+		"localId": "aab611ae-97ac-4953-a2b4-c4dfa80bb4e0",
+		"name": "No Night Time (With Raids)",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"231aac04-f88d-404f-a3ba-163d5e33708c": {
+		"description": "Afraid of the Light?\nNow it is over :D\n\nYes it works on Survival\n\nInstructions:\n1. Go To This Mod File\n-> Steam/steamapps/workshop/content/387990/\n\n2. Go To The \"alwaysDay\" Folder\n-> 387990/2810958892/Scripts/alwaysNight\n\n3. Copy The \"SurvivalGame.lua\" data\n-> Right click\n-> Copy\nor\n->Left click\n-> Strg + C\n\n4. Paste It Into The Game File\n-> Steam/steamapps/common/Scrap Mechanic/Survival/Scripts/game\n\n-> Right click\n-> Paste\nor\n->Strg + V\n\n5. Create A New World And Enjoy The Neverending Night\n-> :D\n\nIf you messed something up, there is a Backup File.\n-> Steam/steamapps/workshop/content/387990/2810958892/Scripts/Backup (Original)",
+		"fileId": 2810969091,
+		"localId": "231aac04-f88d-404f-a3ba-163d5e33708c",
+		"name": "Always Night",
 		"type": "Blocks and Parts",
 		"version": 0
 	}
