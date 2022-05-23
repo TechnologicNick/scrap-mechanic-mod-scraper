@@ -12801,5 +12801,13 @@
 		"name": "Always Night",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"94a67871-249f-4f94-9a49-14346a13082a": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2811539034,
+		"localId": "94a67871-249f-4f94-9a49-14346a13082a",
+		"name": "EXP Mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
