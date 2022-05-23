@@ -12121,12 +12121,13 @@
 		"version": 0
 	},
 	"7576ddb2-5bd7-4555-8e90-46dad41377fe": {
-		"description": "This mod adds a Pixel Duck to Scrap Mechanic.\n\nMore ducks are planned",
+		"custom_icons": true,
+		"description": "This mod adds a Pixel Ducks to Scrap Mechanic.\r\n\r\nRight now\r\n-2D: Pixel Duck\r\n-2D: The Duck from Stardew Valley\r\n-2D: Pixel Scrap Mechanic Duck\r\n-2D: Pixel Raft Scrap Duck\r\n\r\n-also all 2D Ducks in Block form\r\n-all Ducks are paintable\r\n\r\nDue to a mishap with the test branch i can't update my mod, ether you will have to wait for the 0.6.0 update or a newer mod will come out.",
 		"fileId": 2784667727,
 		"localId": "7576ddb2-5bd7-4555-8e90-46dad41377fe",
-		"name": "Pixel Duck Mod",
+		"name": "The Pixel Duck Mod",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"a534adcc-60d7-4a7f-9839-245c45a51f5f": {
 		"description": "A package with 40 custom blocks like woods, stones, bricks etc.",
@@ -12638,7 +12639,7 @@
 		"version": 1
 	},
 	"c389c77e-6818-445a-b45f-b852c5dfbe03": {
-		"description": "CPU in single block\n\ncreate your own automated machines and logic systems, minigames and more...\n\nvideos about cpu:\nhttps://www.youtube.com/playlist?list=PLxot8YjFg6Un0rTtXiAofN5agzTksmqpm\n\nwiki:\nhttps://github.com/timofey260/ScrapCPU/wiki/The-mod-basics\n\ncommands:\nhttps://github.com/timofey260/ScrapCPU/wiki/The-mod-commands\n\nscriptfile directory:\n\"...\\Steam\\SteamApps\\workshop\\content\\387990\\2807051228\"\n\nWARNING: wrong usage of TIMCPU may crash your game",
+		"description": "CPU in single block\n\ncreate your own automated machines and logic systems, minigames and more...\n\nvideos about cpu:\nhttps://www.youtube.com/playlist?list=PLxot8YjFg6Un0rTtXiAofN5agzTksmqpm\n\nwiki:\nhttps://github.com/timofey260/ScrapCPU/wiki/The-mod-basics\n\ncommands:\nhttps://github.com/timofey260/ScrapCPU/wiki/The-mod-commands\n\nscriptfile directory:\n\"...\\Steam\\SteamApps\\workshop\\content\\387990\\2807051228\"\n\nWARNING: wrong usage of TIMCPU may crash your game\nRemember: if you want to use piston or bearing controllers, you need to restart your game after placing and connecting it!\n\nfor bugs and errors ask me: TiMoFey#5110",
 		"fileId": 2807051228,
 		"localId": "c389c77e-6818-445a-b45f-b852c5dfbe03",
 		"name": "TimCPU: full CPU in single block",
@@ -12809,5 +12810,14 @@
 		"name": "EXP Mod",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"382eb99c-fc8a-4ee6-a6c7-19ca99c668c1": {
+		"custom_icons": false,
+		"description": "This mod adds back the Old Pre survival thruster so you dont have to scrap your old creating in order to get it, and you can still spawn it in in vanilla worlds!\n\nIts simple, just place down the \"Old Thruster\" Part and you're done!",
+		"fileId": 2811574336,
+		"localId": "382eb99c-fc8a-4ee6-a6c7-19ca99c668c1",
+		"name": "Old (Pre Survival) Thruster",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
