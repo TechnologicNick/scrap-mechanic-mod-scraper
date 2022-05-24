@@ -10162,12 +10162,13 @@
 		"version": 0
 	},
 	"f5452069-d631-422c-a1dc-2957c935cbaa": {
-		"description": "This mod adds new tools!!!",
-		"fileId": 2525165918,
+		"custom_icons": false,
+		"description": "This mod for 0.6.0 version (test version game)\r\nMod for stable version: https://steamcommunity.com/sharedfiles/filedetails/?id=2525165918",
+		"fileId": 2812066094,
 		"localId": "f5452069-d631-422c-a1dc-2957c935cbaa",
 		"name": "Rager's Tools",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"250f418e-fa2c-4fb0-917a-7678c7e534f7": {
 		"description": "This mod adds bowling pins to the game, appologies that the hitboxes are just cylinders when i attempted to more properly shape the hitbox it broke. ",
