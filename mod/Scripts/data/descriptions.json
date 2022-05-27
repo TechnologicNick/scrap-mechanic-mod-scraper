@@ -12123,7 +12123,7 @@
 	},
 	"7576ddb2-5bd7-4555-8e90-46dad41377fe": {
 		"custom_icons": true,
-		"description": "This mod adds a Pixel Ducks to Scrap Mechanic.\r\n\r\nRight now\r\n-2D: Pixel Duck\r\n-2D: The Duck from Stardew Valley\r\n-2D: Pixel Scrap Mechanic Duck\r\n-2D: Pixel Raft Scrap Duck\r\n\r\n-also all 2D Ducks in Block form\r\n-all Ducks are paintable\r\n\r\nDue to a mishap with the test branch i can't update my mod, ether you will have to wait for the 0.6.0 update or a newer mod will come out.",
+		"description": "This mod adds a Pixel Ducks to Scrap Mechanic.\r\n\r\nDucks Available \r\n-Pixel Duck\r\n-The Duck from Stardew Valley\r\n-Pixel Scrap Mechanic Duck\r\n-Pixel Raft Scrap Duck\r\n\r\n\r\n-All Ducks have 2D variants\r\n-All Ducks have block variants \r\n-All Ducks are paintable\r\n\r\nMore Ducks to come.\r\nCompatible with both versions of scrap mechanic.",
 		"fileId": 2784667727,
 		"localId": "7576ddb2-5bd7-4555-8e90-46dad41377fe",
 		"name": "The Pixel Duck Mod",
@@ -12845,5 +12845,23 @@
 		"name": "sus",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"84acfe31-a125-4057-8a41-75e5266f0b9d": {
+		"custom_icons": false,
+		"description": "It adds 1 Space Glass block",
+		"fileId": 2812986292,
+		"localId": "84acfe31-a125-4057-8a41-75e5266f0b9d",
+		"name": "First Mod Ever",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"260a0190-29c1-4f79-92d4-e7a440fd7a50": {
+		"custom_icons": false,
+		"description": "Update 1.0 \n\nFixed SpaceGlass\nIcons Are loaded",
+		"fileId": 2813077621,
+		"localId": "260a0190-29c1-4f79-92d4-e7a440fd7a50",
+		"name": "Space Ship And Space Base Parts",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
