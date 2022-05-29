@@ -11546,12 +11546,13 @@
 		"version": 0
 	},
 	"46a40ee7-fd6d-4fb1-8525-cfff878281dd": {
-		"description": "Potatoes, Fries, Mini Potatoes now can break ANYTHING\n\nUse a mounted spudgun and it will destroy anything its in path!!!!\n\nUse this mod to pvp with friends or have a chaotic war\n\nEnable the mod and enter a game. place the object to toggle unlocked destruction (requires you to restart world to apply effect)\n\nAlso here is some other mods to try with unlocked destruction to make it even more fun!!\n\nSharp Stuff Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1430130023\n\nIntelligentia Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1413205977\n\nPvp Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2345531252",
+		"custom_icons": false,
+		"description": "Potatoes, Fries, Mini Potatoes now can break ANYTHING\r\n\r\nUse a mounted spudgun and it will destroy anything its in path!!!!\r\n\r\nUse this mod to pvp with friends or have a chaotic war\r\n\r\nEnable the mod and enter a game. place the object to toggle unlocked destruction (requires you to restart world to apply effect)\r\n\r\nAlso here is some other mods to try with unlocked destruction to make it even more fun!!\r\n\r\nSharp Stuff Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1430130023\r\n\r\nIntelligentia Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1413205977\r\n\r\nPvp Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2345531252\r\n(character health)\r\n\r\nPhysics destruction V2: https://steamcommunity.com/sharedfiles/filedetails/?id=2754786413 (amazing mod highly recommended)",
 		"fileId": 2709391324,
 		"localId": "46a40ee7-fd6d-4fb1-8525-cfff878281dd",
 		"name": "Unlocked Destruction",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"b8919611-ad70-4f7e-b061-1df16ac79707": {
 		"description": "If you want to add some extra difficulty to the game it's a mod for you! Haybots will spawn EVEYWHERE randomly. If there will be to much lagg you can always change the value in the script.\nThiis a file mod !!!\nfor quicker installation link for smm page\nhttps://scrapmechanicmods.com/m=103",
