@@ -12517,7 +12517,7 @@
 		"version": 0
 	},
 	"2586833d-873f-465e-8775-a9e5ca806888": {
-		"description": "This mod adds a bunch of random parts and blocks to play around.\nThese include:\n-Two trusters\n-Micro Spudgun and Explosives\n-Glowy Ducky button, switch, light, explosive and a nuclear bomb.\n- New blocks to play around.\n- Decorations\n- Small engines\nAnd more to be added\n\nLanguage Support:\nEnglish\nRussian\nPolish\nGerman\n\n\n",
+		"description": "This mod adds a bunch of random parts and blocks to play around.\nThese include:\n-Trusters\n-Micro Spudgun and Explosives\n-Glowy Ducky button, switch, light, explosive and a nuclear bomb.\n- New blocks to play around.\n- Decorations\n- Small engines\nAnd more to be added\n\nLanguage Support:\nEnglish\nRussian\nPolish\nGerman\n\n\n",
 		"fileId": 2799119856,
 		"localId": "2586833d-873f-465e-8775-a9e5ca806888",
 		"name": "Random Stuff Mod",
@@ -12857,7 +12857,7 @@
 	},
 	"260a0190-29c1-4f79-92d4-e7a440fd7a50": {
 		"custom_icons": false,
-		"description": "Update 1.1\n\nFixed SpaceGlass\nIcons Are loaded\n\nUpdate 1.3\n\nNew block, may not work\nFixed some bugs\n\nUpdate 1.7\n\nBlocks will now show again\nFixed wood block\n\nUpdate 2.0\n\nFixed block texture size\nAdded a mod profile\nAdded mod pics and vids\n\nUpdate 2.5\n\nComing soon\n\n\n\n ",
+		"description": "Update 1.1\n\nFixed SpaceGlass\nIcons Are loaded\n\nUpdate 1.3\n\nNew block, may not work\nFixed some bugs\n\nUpdate 1.7\n\nBlocks will now show again\nFixed wood block\n\nUpdate 2.0\n\nFixed block texture size\nAdded a mod profile\nAdded mod pics and vids\n\nUpdate 2.5\n\nAdded a button\nAdded a switch\nAdded descriptions\nAdded new block\nAdded names\nFixed bugs\nFixed icons\n\n\n\n ",
 		"fileId": 2813077621,
 		"localId": "260a0190-29c1-4f79-92d4-e7a440fd7a50",
 		"name": "Space Ship And Space Base Parts",
@@ -12880,5 +12880,40 @@
 		"name": "alphaafk logo",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"b31f9806-bbcd-47c4-8748-ca4024212f2c": {
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2813799705,
+		"localId": "b31f9806-bbcd-47c4-8748-ca4024212f2c",
+		"name": "My Frist Mod - Test Blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"8ce4a44b-f0c0-4635-8988-4325d9fd431b": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2813835436,
+		"localId": "8ce4a44b-f0c0-4635-8988-4325d9fd431b",
+		"name": "Wheel Pack",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"45803a33-6654-4d48-bc55-cf0b05dde642": {
+		"custom_icons": false,
+		"description": "This mod will contain the most unusial guns.\n\nCurrently the mod has only one gun, but there will be more in the future.\n\nCurrent Guns:\n- Stick Gun\n\nWARNING: This mod only works on the test version of the game (v0.6.0)",
+		"fileId": 2813939549,
+		"localId": "45803a33-6654-4d48-bc55-cf0b05dde642",
+		"name": "Funky Guns Pack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"773e9c26-9e63-4c97-b489-383dca672fd6": {
+		"custom_icons": true,
+		"description": "[h1] Enhanced vanilla [/h1]\n\nThis mod is aimed towards improving current scrap mechanic features, adding a few ones matching the vanilla gameplay, and overall gameplay balance.\n\nPreview background made by Dalv \n\n\n[b][u]Instructions:[/b][/u]\n    Always remember, any changes you make to the game, are reverted, if it gets an update, so backup your changes.\n    There are a few things you might consider doing:\n\n    Find Scrap Mechanic directory:\n\t[olist]\n        On Steam: \n         [*] Open the games properties, by right-clicking on it in the left panel of your game library\n         [*] Go to local files\n         [*] Click on Browse\n         [*] The directory should be opened in the file explorer\n\n\tIn the file explorer:\n\t [*] Click on the 'Survival' folder\n\n    Copy the mod content into the folder:\n\t [*] Go into the steam folder: 'Steam\\steamapps\\workshop\\content\\387990' (Usually in 'YOURDRIVE:\\Program Files (x86)')\n\t [*] Find the mod (you can also sort by last modified)\n\t [*] Copy the content of the mod into your 'Survival' folder\n\t[olist]\n\n\tEt voilà !\n\n\n[b][u]Mod content:[/b][/u]\n\t\n\t[b]New blocks:\n[list]\n\t [*]Low cost thrusters: cost less to craft and upgrade than a usual thruster while consuming slightly less fuel and being way more powerful \n\t in water to allow players to create boats. (Big thanks to Dampfwatze for the template) Vanilla thruster is still available at normal cost.\n\t They can also reverse thrust when connected to a driver seat but at a lower power (Also useful for maneuvering boats).\n\t [*]Large piston: basically a larger piston based on the challenge one except it has a range of 31 blocks\n[/list]\n\t\t\n\t[b]Block changes:[/b]\n\n\n\t[b]New crafts:[/b]\n\n\t    [b]Craftbot:[/b]\n[list]\n\t     [*]x10 Plastic block: x10 Crude Oil\n\t     [*]x1 Fertilizer container: x10 Metal Block 1, x10 Beeswax, x5 Circuit Board, x2 Glue\n\t     [*]x1 Seed container: x20 Wood Block 1, x10 Beeswax, x3 Circuit Board, x2 Glue\n\t     [*]x2 Starcase Wedge: x1 Metal Block 1\n\t     [*]x2 Concave Wedge: x1 Metal Block 1\n\t     [*]x1 Wooden Crate",
+		"fileId": 2813978976,
+		"localId": "773e9c26-9e63-4c97-b489-383dca672fd6",
+		"name": "Enhanced vanilla",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
