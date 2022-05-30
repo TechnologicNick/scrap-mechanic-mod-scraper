@@ -12901,7 +12901,7 @@
 	},
 	"45803a33-6654-4d48-bc55-cf0b05dde642": {
 		"custom_icons": false,
-		"description": "This mod will contain the most unusial guns.\n\nCurrently the mod has only one gun, but there will be more in the future.\n\nCurrent Guns:\n- Stick Gun\n\nWARNING: This mod only works on the test version of the game (v0.6.0)",
+		"description": "This mod will contain the most unusial guns.\r\n\r\nCurrently the mod has only one gun, but you can share your ideas in the comments and if they are interesting we will add it in the future.\r\n\r\nCurrent Guns:\r\n- Stick Gun\r\n\r\nWARNING: This mod only works on the test version of the game (v0.6.0)",
 		"fileId": 2813939549,
 		"localId": "45803a33-6654-4d48-bc55-cf0b05dde642",
 		"name": "Funky Guns Pack",
@@ -12916,5 +12916,13 @@
 		"name": "Enhanced vanilla",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"4ea265e3-68ca-4668-bc8d-e388365f485a": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2814338081,
+		"localId": "4ea265e3-68ca-4668-bc8d-e388365f485a",
+		"name": "first mod",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
