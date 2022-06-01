@@ -1856,12 +1856,21 @@
 		"version": 0
 	},
 	"a1378543-355a-47ea-a59f-87db2d2c42af": {
-		"description": "Destructible Legend Mod",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 881252559,
+				"localId": "1dc1f452-0f24-416a-b5d9-016ccc6fee0c",
+				"name": "New Legend Mod"
+			}
+		],
+		"description": "[h1]【当前版本】[/h1]\r\nNew Legend Mod [b]3.1.7[/b]\r\n\r\n[h1]【关于Mod】[/h1]\r\n这是普通传奇Mod的可破坏版本。用来与普通传奇Mod进行切换但是不能同时使用！你可以通过 [u]切换[/u] 这两个Mod来让传奇Mod做好的东西在 [u]可破坏[/u] 与 [u]不可破坏[/u] 的状态之间切换。在这个可破坏Mod里的零件和方块都可被土豆枪击碎。现已支持英文物品描述！\r\n\r\n[h1]【特别感谢】[/h1]\r\n感谢Modpack作者Durf对Mod体积优化的建议！\r\n以及MJM Mod提供的开源座椅脚本!\r\n\r\n[h1]【支持语言】[/h1]\r\n[list]\r\n[*]简体中文 Chinese\r\n[*]英语 English\r\n[/list]\r\n\r\n[h1]【不可破坏版本传奇Mod】[/h1]\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=881252559\r\n[h1]【传奇Mod生存版】[/h1]\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2286729879\r\n\r\n[h1]【我们的视频频道】[/h1]\r\nB站: http://space.bilibili.com/25427038\r\n微博：https://weibo.com/u/5507869196\r\n抖音：https://v.douyin.com/JxXUuNn/\r\n快手：http://www.gifshow.com/s/qWgnmWqf\r\n\r\n[h1]【我们的QQ交流群】Our QQ Groups[/h1]\r\n传奇建造队交流一群 537532878\r\n传奇建造队交流二群 158484814\r\n传奇建造队交流三群 474178046\r\n传奇建造队交流四群 633703984",
 		"fileId": 1392113882,
 		"localId": "a1378543-355a-47ea-a59f-87db2d2c42af",
 		"name": "Destructible Legend Mod",
 		"type": "Blocks and Parts",
-		"version": "0.0"
+		"version": 1
 	},
 	"2be677b8-af3d-4410-914c-c359024e70a8": {
 		"description": "Currently has:\nEXPLOSIONS ARE TURNED OFF ATM AS THE DEVS TEMPORARELY REMOVED THE EXPLODE FUNCTIONS!\n=>> REPLACED BY POTATOES ON IMPACT!\n\n-continuus LAZER: fires giant powerfull lazerbeam, to be improved soon using raycasting\n\n-blaster lazer: star wars blaster guns\n\na Serial Adder, Least significant bit first, highest last, 2 serial inputs at the same time, 1 serial out, the 1 block adder remembers its carry in/out itself\n\na Fuse  that'll explode anything connected to it as a child:\nblack input: trigger fuse\n2nd blue column:\n  1st row blue: add range 1 block\n  2nd row blue: add range 2 blocks\n  3rd row blue: add range 4 blocks\n  4th row blue: add range 8 blocks\nso if you do 1st,3rd blue colors you get range 5\ndefault range: 4 blocks\noutput: anything\nthis 'anything' will explode\n\n=> DO NOT PUT THE EXPLODING 'anything' NEAR THE FUSE! WILL CRASH\n\nSTABILIZER: a bit wonky, put at bottom of creation, put a logic gate somewhere on the top of creation above the stabilizer, connect stabilizer to the logic gate, now put a switch in the stabilizer and turn it on, for more up thrust add another logic gate and connect the stabilizer to it, add a switch to the logic gate to turn on /off up thrust\n",
@@ -6834,12 +6843,14 @@
 		"version": 0
 	},
 	"e48012f6-958d-4118-a0c6-5ac5e86a51ea": {
-		"description": "Survival Legend Mod",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "",
 		"fileId": 2286729879,
 		"localId": "e48012f6-958d-4118-a0c6-5ac5e86a51ea",
 		"name": "Survival Legend Mod",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"71ce97f1-4cb9-4dfc-bbb7-94280c8352dd": {
 		"description": "This mod doesn't have a description",
@@ -8422,12 +8433,14 @@
 		"type": "Blocks and Parts"
 	},
 	"1dc1f452-0f24-416a-b5d9-016ccc6fee0c": {
-		"description": "New Legend Mod",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h1]【当前版本】[/h1]\r\nNew Legend Mod [b]3.1.7[/b]\r\n\r\n[h1]【关于Mod】[/h1]\r\n欢迎各位机械师订阅由 [b]中国[/b] 玩家团队：[b]传奇建造队[/b] 制作的传奇Mod。这是一个综合性Mod可以满足日常建造的绝大部分需要。本Mod包含：材质方块、各种几何体、各种可互动零件、各种车辆轮胎、载具零件、威力强大的武器、各种装饰、自然景物装饰、建筑零件 和独特的传奇零件。这个不可破坏版本的传奇Mod可与可破坏传奇Mod进行切换，可将本Mod制作的不可破坏作品转换成可破坏的。现已支持英文物品描述！\r\n\r\n[h1]【特别感谢】[/h1]\r\n感谢Modpack作者Durf对Mod体积优化的建议！\r\n以及MJM Mod提供的开源座椅脚本!\r\n\r\n[h1]【支持语言】[/h1]\r\n[list]\r\n[*]简体中文 Chinese\r\n[*]英语 English\r\n[/list]\r\n\r\n[h1]【可破坏版本传奇Mod】[/h1]\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1392113882\r\n[h1]【传奇Mod生存版】[/h1]\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2286729879\r\n\r\n[h1]【我们的视频频道】[/h1]\r\nB站: http://space.bilibili.com/25427038\r\n微博：https://weibo.com/u/5507869196\r\n抖音：https://v.douyin.com/JxXUuNn/\r\n快手：http://www.gifshow.com/s/qWgnmWqf\r\n\r\n[h1]【我们的QQ交流群】[/h1]\r\n传奇建造队交流一群 537532878\r\n传奇建造队交流二群 158484814\r\n传奇建造队交流三群 474178046\r\n传奇建造队交流四群 633703984",
 		"fileId": 881252559,
 		"localId": "1dc1f452-0f24-416a-b5d9-016ccc6fee0c",
 		"name": "New Legend Mod",
 		"type": "Blocks and Parts",
-		"version": "0.0"
+		"version": 1
 	},
 	"26ef623b-97d2-49ba-9a10-8898c1a94e9a": {
 		"creatorId": "76561198014346778",
@@ -11471,12 +11484,15 @@
 		"version": 0
 	},
 	"c3e40a7a-6405-4df0-a4d0-4c3c449c53df": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
 		"description": "This mod doesn't have a description",
 		"fileId": 2693754159,
 		"localId": "c3e40a7a-6405-4df0-a4d0-4c3c449c53df",
 		"name": "PR&FH Mod",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"a7a3aa9d-d6c8-4ef4-8f71-e340ad1b3398": {
 		"description": "This mod adds alot of useful parts and blocks into the game.\n\n[img]https://i.imgur.com/p7Fv1Z6.gif[/img]\n\nThanks to [url=https://steamcommunity.com/id/Red-Builds] The red builder [/url] for helping!\n\nIf you have any feedback or requests write them in the comments!\n\n",
