@@ -12662,12 +12662,15 @@
 		"version": 1
 	},
 	"c389c77e-6818-445a-b45f-b852c5dfbe03": {
-		"description": "CPU in single block\n\ncreate your own automated machines and logic systems, minigames and more...\n\nvideos about cpu:\nhttps://www.youtube.com/playlist?list=PLxot8YjFg6Un0rTtXiAofN5agzTksmqpm\n\nwiki:\nhttps://github.com/timofey260/ScrapCPU/wiki/The-mod-basics\n\ncommands:\nhttps://github.com/timofey260/ScrapCPU/wiki/The-mod-commands\n\nscriptfile directory:\n\"...\\Steam\\SteamApps\\workshop\\content\\387990\\2807051228\"\n\nWARNING: wrong usage of TIMCPU may crash your game\nRemember: if you want to use piston or bearing controllers, you need to restart your game after placing and connecting it!\n\nfor bugs and errors ask me: TiMoFey#5110",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "CPU in single block\n\ncreate your own automated machines and logic systems, minigames and more...\n\nvideos about cpu:\nhttps://www.youtube.com/playlist?list=PLxot8YjFg6Un0rTtXiAofN5agzTksmqpm\n\nwiki:\nhttps://github.com/timofey260/ScrapCPU/wiki/The-mod-basics\n\ncommands:\nhttps://github.com/timofey260/ScrapCPU/wiki/The-mod-commands\n\nscriptfile directory:\n\"...\\Steam\\SteamApps\\workshop\\content\\387990\\2807051228\"\n\nexamples:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2807053081\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2807053314\n\nWARNING: wrong usage of TIMCPU may crash your game\nRemember: if you want to use piston or bearing controllers, you need to restart your game after placing and connecting it!\n\nfor bugs and errors ask me: TiMoFey#5110",
 		"fileId": 2807051228,
 		"localId": "c389c77e-6818-445a-b45f-b852c5dfbe03",
 		"name": "TimCPU: full CPU in single block",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"b158254d-a406-4ba2-8c3f-4157c7c9e952": {
 		"description": "Just Random Interactables that I make\n\nWill probably be sporadically updated",
@@ -12945,6 +12948,16 @@
 		"fileId": 2814338081,
 		"localId": "4ea265e3-68ca-4668-bc8d-e388365f485a",
 		"name": "first mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a67ef991-74df-4bc2-8f07-5b48ef72cc18": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Bombs that explode as soon as you place them!",
+		"fileId": 2815774923,
+		"localId": "a67ef991-74df-4bc2-8f07-5b48ef72cc18",
+		"name": "Unstable bombs",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

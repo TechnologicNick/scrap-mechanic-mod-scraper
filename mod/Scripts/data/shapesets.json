@@ -34936,5 +34936,12 @@
 			"5db57000-bb5a-4e92-b806-2bc775e0db77",
 			"c5780042-da81-4b13-a645-fd743a0f2ba6"
 		]
+	},
+	"a67ef991-74df-4bc2-8f07-5b48ef72cc18": {
+		"$CONTENT_a67ef991-74df-4bc2-8f07-5b48ef72cc18/Objects/Database/ShapeSets/blocks.json": [],
+		"$CONTENT_a67ef991-74df-4bc2-8f07-5b48ef72cc18/Objects/Database/ShapeSets/parts.json": [
+			"0761ec16-345d-45c5-a049-6543cb955c63",
+			"5a479f33-e9d9-4026-83b5-f0d7324228e8"
+		]
 	}
 }
