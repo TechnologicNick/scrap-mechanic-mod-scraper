@@ -12962,5 +12962,25 @@
 		"name": "Unstable bombs",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"623d4f30-ee93-457f-93b2-1a6521f6b085": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "it adds scrap wheel from survival to creative",
+		"fileId": 2816210592,
+		"localId": "623d4f30-ee93-457f-93b2-1a6521f6b085",
+		"name": "survival scrap wheel",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"7fadde68-1b72-4f26-b392-46f8d9be5c3e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod changes the spudgun's projectiles to all the available projectiles in the game currently. Press the reload key when you are in-game to cycle through the projectiles.\n\nHave fun!",
+		"fileId": 2816254606,
+		"localId": "7fadde68-1b72-4f26-b392-46f8d9be5c3e",
+		"name": "Modded Spudgun [Blocks and Parts]",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
