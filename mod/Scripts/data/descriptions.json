@@ -4267,12 +4267,14 @@
 		"version": 0
 	},
 	"c0344d93-7492-46c8-88be-a61699e57041": {
+		"allow_add_mods": true,
+		"custom_icons": true,
 		"description": "This mods contains 19 awesome cannons with shooting animations and custom projectiles.\n\n[code][h1][b]This mod contains:[/b][/h1]\n- Tank cannon\n- Flak cannon\n- Naval cannon\n- 2nd tank cannon\n- M1 Abrams cannon\n- Schwerer Gustav cannon (mortar)\n- Aircraft cannon\n- 2nd naval cannon\n- 3rd tank cannon\n- Railgun\n- 2nd railgun (has better effects and it's more powerful)\n- M109 cannon (howitzer)\n- Rocket launcher\n- Smart cannon (works with the number logic from 'The Modpack')\n- Small smart cannon\n- Orbital cannon\n- Smart rocket launcher (you can use The Modpack to input some stuff)\n- Flare (heat decoy) launcher\n- EMP Cannon (disconnects logic)\n- Smart Rocket Detector\n- Shell Ejector\n- Laser Cannon[/code]\n\n[code][h1][b]Language support:[/b][/h1]\n- English: by default\n- Russian: by default\n- German: by default\n- Polish: Thanks to Driver for the translation![/code]\n\n[code][h1][b]Contributors:[/b][/h1]\n[b][url=https://steamcommunity.com/id/QuestionMarko/]Questionable Mark[/url][/b] - creator of all the textures, UV maps for models, scripts and a behaviour of the projectiles\n[b][url=https://steamcommunity.com/id/Gratis_katze]Gratiskatze[/url][/b] - creator of the most cannons, creator of the logo, beta-tester and German language translator.\n[b][url=https://steamcommunity.com/id/BrentBatch]Brent Batch[/url][/b] - creator of the most scripts and creator of the Global Script.\n[b][url=https://steamcommunity.com/profiles/76561198350208505/]Kein Anderer[/url][/b] - beta-tester and German language translator.\n[b][url=https://steamcommunity.com/profiles/76561198280635682]Driver[/url][/b] - creator of an EMP Cannon model and Polish language translator.\n[b][url=https://steamcommunity.com/profiles/76561198196145217/]Seemomster[/url][/b] - creator of the 2nd Tank Cannon.[/code]\n\nIf you want to support us and you like this mod you can leave your thumbs up on this mod and add it to your favorites.",
 		"fileId": 1904783067,
 		"localId": "c0344d93-7492-46c8-88be-a61699e57041",
 		"name": "Cannons pack",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"14ebd40a-d52e-4dcd-9857-c0eebe9f54af": {
 		"description": "The mod in which the blocks will be broken.",
@@ -11037,12 +11039,14 @@
 		"version": 0
 	},
 	"98214b3e-1c2e-467d-8525-4f9fd6cafcec": {
-		"description": "This mod makes the wires and bearings easier to see. It adds a dark contour on wires, bearings and connections to make them more visible. \n\n[h1] HOW TO INSTALL: [/h1]\nGoto:\n\"...\\Steam\\SteamApps\\workshop\\content\\387990\\2623326387\"\ncopy the Data folder into:\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\"\nand replace the exsiting files.\n\n\n[h1] HOW TO UNINSTALL: [/h1]\nThe easier way is to use the steam tool to \"Verify integrity of game files\"\n\nIf you want to restore the original files manually, go to:\n\"...\\Steam\\SteamApps\\workshop\\content\\387990\\2623326387\\Backup\"\ncopy the Data folder into:\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\"\n(replacing the exsisting files).\n\n\n[h1] HOW TO INSTALL SMALL BEARINGS [/h1]\n After the normal installation, go to:\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\\Data\\Mesh\"\nRename the file \"bearing_connect.mesh\" to something else like \"bearing_connect_standard.mesh\"\nRename the file \"bearing_connect_small.mesh\" to \"bearing_connect.mesh\"\n(if you don't see the \".mesh\" at the end of the name, just ignore that part).\n\n\n[h1] HOW TO MOD UNCONNECTED BEARINGS [/h1]\n This feature is experimental, the unconnected bearing uses a \"generic\" texture that could be used by other things. I could not find any broken texture with this mod applied, if you do please let me know!\nTo install, copy transparent.tga from the folder:\n\"...\\Steam\\SteamApps\\workshop\\content\\387990\\2623326387\\NotConnectedBearing\"\nand paste it in:\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\\Data\\Texture\"\n",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h1]  Not working with the 0.6.0 test version (for now) [/h1]\r\n\r\n\r\n\r\nThis mod makes the wires and bearings easier to see. It adds a dark contour on wires, bearings and connection points to make them more visible. \r\n\r\nDo you like the mod? Remember to vote!\r\n[img]https://i.imgur.com/CGVIOUV.gif[/img]\r\nYou don't like the mod? Let us know us why and how we can improve it with a comment or a new discussion! Thanks.\r\n\r\n[h1] HOW TO INSTALL: [/h1]\r\n[list]\r\n[*] Go to:\r\n\"...\\Steam\\SteamApps\\workshop\\content\\387990\\2623326387\"\r\n[*] Copy the Data folder into:\r\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\"\r\n[*] Replace the exsiting files.\r\n[/list]\r\n\r\n[h1] HOW TO UNINSTALL: [/h1]\r\nThe easier way is to use the steam tool to \"Verify integrity of game files\".\r\n\r\nIf you want to restore the original files manually:\r\n[list]\r\n[*]Go to:\r\n\"...\\Steam\\SteamApps\\workshop\\content\\387990\\2623326387\\Backup\"\r\n[*]Copy the Data folder into:\r\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\"\r\n(replacing the exsisting files).\r\n[/list]\r\n\r\n[h1] HOW TO INSTALL SMALL BEARINGS [/h1]\r\nAfter the normal installation:\r\n[list]\r\n[*]Go to:\r\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\\Data\\Mesh\"\r\n[*]Rename the file \"bearing_connect.mesh\" to something else like \"bearing_connect_standard.mesh\"\r\n[*]Rename the file \"bearing_connect_small.mesh\" to \"bearing_connect.mesh\"\r\n[/list]\r\n\r\n(if you don't see the \".mesh\" at the end of the name, just ignore that part).\r\n\r\n[h1] HOW TO MOD UNCONNECTED BEARINGS [/h1]\r\nThis feature is experimental, the unconnected bearing uses a \"generic\" texture that could be used by other things.\r\nI could not find any broken texture with this mod applied, if you do please let me know!\r\n[list]\r\n[*]To install, copy transparent.tga from the folder:\r\n\"...\\Steam\\SteamApps\\workshop\\content\\387990\\2623326387\\NotConnectedBearing\"\r\n[*]Paste it in:\r\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\\Data\\Texture\"\r\n[/list]\r\n\r\nThanks for all the feedback and support.\r\n\r\n#wire #connection #ConnectionTool #bearing #texture #QualityOfLife #logic #controller",
 		"fileId": 2623326387,
 		"localId": "98214b3e-1c2e-467d-8525-4f9fd6cafcec",
 		"name": "Better wires",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"d100848d-4eda-48de-8792-b5839487b5a5": {
 		"dependencies": [
@@ -12980,6 +12984,16 @@
 		"fileId": 2816254606,
 		"localId": "7fadde68-1b72-4f26-b392-46f8d9be5c3e",
 		"name": "Modded Spudgun [Blocks and Parts]",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b257aeed-de69-47e1-968e-d3feca71e712": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds parts\n\nWIP: Logic gate themed items don't currently display their power",
+		"fileId": 2811705897,
+		"localId": "b257aeed-de69-47e1-968e-d3feca71e712",
+		"name": "Zen's Box of Parts",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
