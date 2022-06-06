@@ -12932,8 +12932,9 @@
 		"version": 0
 	},
 	"45803a33-6654-4d48-bc55-cf0b05dde642": {
+		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod will contain the most unusial guns.\r\n\r\nCurrently the mod has only one gun, but you can share your ideas in the comments and if they are interesting we will add it in the future.\r\n\r\nCurrent Guns:\r\n- Stick Gun\r\n\r\nWARNING: This mod only works on the test version of the game (v0.6.0)",
+		"description": "This mod will contain the most unusial guns.\r\n\r\nCurrently the mod has only one gun, but you can share your ideas in the comments and if they are interesting we will add it in the future.\r\n\r\nCurrent Guns:\r\n- Stick Gun\r\n\r\nBe sure to leave a like and add the mod to your favorites to support our work!\r\n[img]https://steamusercontent-a.akamaihd.net/ugc/2422250057103161085/A682E0A36F63D71A8E643AA7ACC710E907F8937C/[/img]\r\n ",
 		"fileId": 2813939549,
 		"localId": "45803a33-6654-4d48-bc55-cf0b05dde642",
 		"name": "Funky Guns Pack",
@@ -13017,6 +13018,26 @@
 		"fileId": 2817012404,
 		"localId": "032ec9a9-0e2d-462e-9169-1c153e3e3cd8",
 		"name": "Gatling Shotgun",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"398325ee-1d3b-4dec-af8f-0feb3767fcdc": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2817270016,
+		"localId": "398325ee-1d3b-4dec-af8f-0feb3767fcdc",
+		"name": "Raft Mechanic Recycler",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"ae3cb644-38fb-43b1-b4ae-7f36adbee037": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2817449373,
+		"localId": "ae3cb644-38fb-43b1-b4ae-7f36adbee037",
+		"name": "blocks",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
