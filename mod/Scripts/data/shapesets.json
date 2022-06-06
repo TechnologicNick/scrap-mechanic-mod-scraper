@@ -29279,31 +29279,7 @@
 			"c2db949b-1b00-498b-baae-e4f82e231030"
 		]
 	},
-	"4d9d663d-3216-42b1-9a9a-286ca774ce4d": {
-		"$CONTENT_4d9d663d-3216-42b1-9a9a-286ca774ce4d/Objects/Database/ShapeSets/blocks.json": [
-			"c6f86d19-b54b-4b0e-80b2-7d11631928b6",
-			"749f69e0-56c9-488c-adf6-66c58531818c",
-			"7bc7fb6a-84fe-4791-8062-effdf8489544",
-			"36b277ba-72d7-44c6-894d-e28d7900cbcf",
-			"36b277ba-72d7-44c6-894d-e28d7900cbce",
-			"db1932f4-aae6-4af9-890f-aac4d2c142e6",
-			"fe9d25c5-7a7d-4384-9a70-3899728dbee2",
-			"f1bd3bf7-0b6c-4685-bbd4-ffae1ea50b30",
-			"0e3eca03-e1b3-433a-9945-1e5afd14b028",
-			"0de3796c-bbe8-47ba-bbf5-ec49ea4c9d73",
-			"ce808348-28a0-4f12-889f-bfbd35a469a7",
-			"b1ca2719-e37c-42eb-951e-3129ee0273da",
-			"0347134a-43d3-4e1b-9e53-ff0b3f2803ac",
-			"10eaa2ea-7a33-4012-9b64-cc8f7baf79f4",
-			"17e98b8b-0168-4c32-a465-d60f6ac88443"
-		],
-		"$CONTENT_4d9d663d-3216-42b1-9a9a-286ca774ce4d/Objects/Database/ShapeSets/lights.json": [
-			"e2801e6a-7608-4284-a03a-76148a2bf498",
-			"b016c495-db82-4f31-87ee-8b70ae614fc2",
-			"e924ef68-d10e-4e57-bbf1-cc5fff255e1a"
-		],
-		"$CONTENT_4d9d663d-3216-42b1-9a9a-286ca774ce4d/Objects/Database/ShapeSets/parts.json": []
-	},
+	"4d9d663d-3216-42b1-9a9a-286ca774ce4d": {},
 	"24e02db7-655b-4f03-bb29-522a10f4ff83": {
 		"$CONTENT_24e02db7-655b-4f03-bb29-522a10f4ff83/Objects/Database/ShapeSets/A suspension.json": [
 			"3ee32f17-b0f6-4ab2-b6df-e070f3c1eeba",
