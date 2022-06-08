@@ -7066,12 +7066,14 @@
 		"version": 0
 	},
 	"3f23d918-c838-411e-aa3a-cec19cdf4674": {
-		"description": "This mod have a description",
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "craftbot: ...\\Steam\\steamapps\\workshop\\content\\387990\\2342149140\\craftbot",
 		"fileId": 2342149140,
 		"localId": "3f23d918-c838-411e-aa3a-cec19cdf4674",
 		"name": "xernya",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"c2e61e22-2c92-4088-988b-546f906f2cb6": {
 		"description": "[h1]This mod makes PVP in Scrap Mechanic possible! Who will you fight for?[/h1]\n[h2]Features[/h2]\n[list]\n    [*][b]Weapons deal PVP damage[/b]\n    [*][b]No name tags[/b]\n    [*][b]Death messages in chat[/b]\n[/list]\nUse your creativity to kill your friends! Dr Pixel's PVP mod opens the game up to a whole new range of possibilities! Create your own PVP games and play against your friends!\n\n\n[h2] Full Feature List[/h2]\n[olist]\n    [*] [h3]Melee[/h3]\n\t[list]\n    [*]Hammer does 20 PVP damage\n\t[/list]\n    [*] [h3]Ranged[/h3]\n\t[list]\n    [*]Spudrifle & Spud Cannon deal 7 PVP damage\n    [*]Spudgatling & Spudshotgun deal 4 PVP damage (per bullet)\n\t[/list]\n    [*] [h3]GUI[/h3]\n\t[list]\n    [*]No name tags (also in Creative)\n\t[list]\n    [*]ENGLISH only! Change your game language to English to disable name tags\n    [*]Change your game language to NOT English to enable name tags\n\t[/list]\n    [*]Kill messages show attacker and victim\n    [*]Death messages\n\t[/list]\n    [*] [h3]Respawn[/h3]\n\t[list]\n    [*]100 health instead of 30\n    [*]80 food instead of 30\n    [*]100 water instead of 30\n\t[/list]\n[/olist]\n\n\n[h1]How to install[/h1]\n[h3]Watch my video on how to install mods![/h3]\nhttps://www.youtube.com/watch?v=ZbfB5nJ_BaM\n[olist]\n    [*]Subscribe to the mod and wait for it to download.\n    [*]Go to your Steam library and right-click Scrap Mechanic. Click \"Manage\" -> \"Browse Local Files\"\n    [*]This should open the folder: [i]Steam\\steamapps\\common\\[b]Scrap Mechanic[/b][/i]\n    [*]Move two folders upward to the folder: [i]Steam\\[b]steamapps[/b][/i]\n    [*]Then navigate to \"workshop\" -> \"content\" -> \"387990\" where my mod should be in the most recent folder.\n    [*]Open the \"Copy to install PVP mod\" folder and copy the \"Survival\" & \"Cache\" folders.\n    [*]Repeat step 2\n    [*]Paste the two folders in the [i]Steam\\steamapps\\common\\[b]Scrap Mechanic[/b][/i] folder. You'll need to click replace files in destination when prompted.\n    [*]You're down! Now go and spawn-kill your friends!\n[/olist]",
@@ -8440,8 +8442,8 @@
 	},
 	"1dc1f452-0f24-416a-b5d9-016ccc6fee0c": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "[h1]【当前版本】[/h1]\r\nNew Legend Mod [b]3.2.1[/b]\r\n\r\n[h1]【关于Mod】[/h1]\r\n欢迎各位机械师订阅由 [b]中国[/b] 玩家团队：[b]传奇建造队[/b] 制作的传奇Mod。这是一个综合性Mod可以满足日常建造的绝大部分需要。本Mod包含：材质方块、各种几何体、各种可互动零件、各种车辆轮胎、载具零件、威力强大的武器、各种装饰、自然景物装饰、建筑零件 和独特的传奇零件。这个不可破坏版本的传奇Mod可与可破坏传奇Mod进行切换，可将本Mod制作的不可破坏作品转换成可破坏的。现已支持英文物品描述！\r\n\r\n[h1]【特别感谢】[/h1]\r\n感谢Modpack作者Durf对Mod体积优化的建议！\r\n以及MJM Mod提供的开源座椅脚本!\r\n\r\n[h1]【支持语言】[/h1]\r\n[list]\r\n[*]简体中文 Chinese\r\n[*]英语 English\r\n[/list]\r\n\r\n[h1]【其他Mod以及自定义游戏】[/h1]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1392113882] 可破坏版传奇Mod [/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2815418786] 传奇生存自定义游戏 [/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2716762412] 传奇地形资产Mod [/url]\r\n\r\n[h1]【我们的视频频道】[/h1]\r\nB站: http://space.bilibili.com/25427038\r\n微博：https://weibo.com/u/5507869196\r\n抖音：https://v.douyin.com/JxXUuNn/\r\n快手：http://www.gifshow.com/s/qWgnmWqf\r\n\r\n[h1]【我们的QQ交流群】[/h1]\r\n传奇建造队交流一群 537532878\r\n传奇建造队交流二群 158484814\r\n传奇建造队交流三群 474178046\r\n传奇建造队交流四群 633703984",
+		"custom_icons": true,
+		"description": "[h1]【当前版本】[/h1]\r\nNew Legend Mod [b]3.2.2[/b]\r\n\r\n[h1]【关于Mod】[/h1]\r\n欢迎各位机械师订阅由 [b]中国[/b] 玩家团队：[b]传奇建造队[/b] 制作的传奇Mod。这是一个综合性Mod可以满足日常建造的绝大部分需要。本Mod包含：材质方块、各种几何体、各种可互动零件、各种车辆轮胎、载具零件、威力强大的武器、各种装饰、自然景物装饰、建筑零件 和独特的传奇零件。这个不可破坏版本的传奇Mod可与可破坏传奇Mod进行切换，可将本Mod制作的不可破坏作品转换成可破坏的。现已支持英文物品描述！\r\n\r\n[h1]【特别感谢】[/h1]\r\n感谢Modpack作者Durf对Mod体积优化的建议！\r\n以及MJM Mod提供的开源座椅脚本!\r\n\r\n[h1]【支持语言】[/h1]\r\n[list]\r\n[*]简体中文 Chinese\r\n[*]英语 English\r\n[/list]\r\n\r\n[h1]【其他Mod以及自定义游戏】[/h1]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1392113882] 可破坏版传奇Mod [/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2815418786] 传奇生存自定义游戏 [/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2716762412] 传奇地形资产Mod [/url]\r\n\r\n[h1]【我们的视频频道】[/h1]\r\nB站: http://space.bilibili.com/25427038\r\n微博：https://weibo.com/u/5507869196\r\n抖音：https://v.douyin.com/JxXUuNn/\r\n快手：http://www.gifshow.com/s/qWgnmWqf\r\n\r\n[h1]【我们的QQ交流群】[/h1]\r\n传奇建造队交流一群 537532878\r\n传奇建造队交流二群 158484814\r\n传奇建造队交流三群 474178046\r\n传奇建造队交流四群 633703984",
 		"fileId": 881252559,
 		"localId": "1dc1f452-0f24-416a-b5d9-016ccc6fee0c",
 		"name": "New Legend Mod",
@@ -11325,8 +11327,9 @@
 		"version": 0
 	},
 	"a7da8f0e-92b8-481a-a637-a86067ff57c3": {
+		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h2]FCMod is a mod that I am working on. The parts it adds include:[/h2]\r\n[list]\r\n[*]Guns that shoot tape (and explosive tape)\r\n[*]A teleporter\r\n[*]Balloons because why not\r\n[*]A block that can show any effect in the game\r\n[*]4 logic blocks: the Blinker, the Set-Reset Latch, the Proper XOR gate, and the Icon block\r\n[*]A tablet with settings to tweak the way the world works\r\n[*]A laser that can destroy almost anything\r\n[*]A plasma drill from the devblogs\r\n[*]A nuke with an EPIC explosion effect\r\n[/list]",
+		"description": "[h2]FCmod is a mod that I am working on. The parts it adds include:[/h2]\r\n[list]\r\n[*]Guns that shoot tape (and explosive tape)\r\n[*]A teleporter\r\n[*]Balloons because why not\r\n[*]A block that can show any effect in the game\r\n[*]4 logic blocks: the Blinker, the Set-Reset Latch, the Proper XOR gate, and the Icon block\r\n[*]A tablet with settings to tweak the way the world works\r\n[*]A laser that can destroy almost anything\r\n[*]A plasma drill from the devblogs\r\n[*]A nuke with an EPIC explosion effect\r\n[/list]",
 		"fileId": 2666022327,
 		"localId": "a7da8f0e-92b8-481a-a637-a86067ff57c3",
 		"name": "fcmod",
