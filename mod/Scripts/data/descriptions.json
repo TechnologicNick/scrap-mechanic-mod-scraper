@@ -12151,12 +12151,14 @@
 		"version": 0
 	},
 	"eff60859-4809-42dd-83bf-6af7e7159edb": {
-		"description": "This mod makes the spud gun the most overpowered item in Scrap Mechanic.\n\nThis mod is partially inspired by the OP Tools mod, created by Questionable Mark.\n\nHow to use:\n  1) Place a \"Spud Gun Tools Activator.\" As a shortcut, you can find this part by searching \"sgt\" in  the inventory.\n  2) Shoot any spud gun while crouching to open the Spud Gun Tools GUI.\n  3) Click the text on the left to select which mode you want to use. A yellow pointer will show which mode is selected. Use the buttons on the right to configure further.\n  4) Shoot to use the selected mode.\n\nDescriptions of all modes:\n  Basic Gun - It's a gun. Select what projectile to shoot.\n  Super Gatling Gun - It shoots 40 times per second! It toggles, so shoot once to start it, and once to stop it.\n  Explosion Spawner - Click to spawn an explosion at the point you are looking at. It can spawn explosions the size of small or large explosive canisters.\n  Deleter - Click while looking at a creation. It can delete a single shape, a body, or the entire creation.\n  Teleporter - Click to teleport to the point you are looking at.\n  Unit Killer - Click on a unit to kill it.\n  Unit Spawner - Click somewhere to spawn the selected unit.\n  Pusher - Push a creation or character with a specified magnitude.\n\nI have recently added a \"Mounted Spud Gun Tools\" part, which allows all the functions of Spud Gun Tools to be used by a mounted spud gun.\n\nHave fun!\n\n",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h2]This mod makes the spud gun the most overpowered item in Scrap Mechanic.[/h2]\r\n\r\nThis mod is partially inspired by the OP Tools mod, created by Questionable Mark.\r\n\r\n[h3]How to use:[/h3]\r\n[olist]\r\n[*]Place a \"Spud Gun Tools Activator.\" As a shortcut, you can find this part by searching \"sgt\" in the inventory.\r\n[*]Shoot any spud gun while crouching to open the Spud Gun Tools GUI.\r\n[*]Click the text on the left to select which mode you want to use. A yellow pointer will show which mode is selected. Use the buttons on the right to configure further.\r\n[*]Shoot to use the selected mode.\r\n[/olist]\r\n\r\n[h3]Descriptions of all modes:[/h3]\r\n[list]\r\n[*][b]Basic Gun[/b] - It's a gun. Select what projectile to shoot.\r\n[*][b]Super Gatling Gun[/b] - It shoots 40 times per second! It toggles, so shoot once to start it, and once to stop it.\r\n[*][b]Explosion Spawner[/b] - Click to spawn an explosion at the point you are looking at. It can spawn explosions the size of small or large explosive canisters.\r\n[*][b]Deleter[/b] - Click while looking at a creation. It can delete a single shape, a body, or the entire creation.\r\n[*][b]Teleporter[/b] - Click to teleport to the point you are looking at.\r\n[*][b]Unit Killer[/b] - Click on a unit to kill it.\r\n[*][b]Unit Spawner[/b] - Click somewhere to spawn the selected unit.\r\n[*][b]Pusher[/b] - Push a creation or character with a specified magnitude.\r\n[/list]\r\n\r\nI have recently added a [i]\"Mounted Spud Gun Tools\"[/i] part, which allows all the functions of Spud Gun Tools to be used by a mounted spud gun.\r\n\r\nHave fun!",
 		"fileId": 2784603778,
 		"localId": "eff60859-4809-42dd-83bf-6af7e7159edb",
 		"name": "Spud Gun Tools",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"7576ddb2-5bd7-4555-8e90-46dad41377fe": {
 		"custom_icons": true,
@@ -13124,7 +13126,7 @@
 				"name": "More tetragonal cones"
 			}
 		],
-		"description": "添加3种较长的直角斜面，便于大型建筑。",
+		"description": "添加5种较长的直角斜面，便于大型建筑。",
 		"fileId": 2818492538,
 		"localId": "99a25af1-ad84-468e-9328-2c54da889846",
 		"name": "More Bevel",
@@ -13138,6 +13140,33 @@
 		"fileId": 2818701598,
 		"localId": "40c2432d-fab9-44a1-a3d0-53cf0bf8a780",
 		"name": "Kai's Tools Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f6683670-d97f-493f-9ee3-56ef7fe9ebdb": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2581741736,
+				"localId": "4ca7b7db-95fa-4241-82c5-c7643a5a399d",
+				"name": "hax"
+			}
+		],
+		"description": "This mod doesn't have a description",
+		"fileId": 2818301496,
+		"localId": "f6683670-d97f-493f-9ee3-56ef7fe9ebdb",
+		"name": "custom guns",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d8baf364-f285-43d7-930d-6189ac63f47b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Bu mod oyuna Türkçe Dilini ekliyor. Talimatlar için modu indirip C:--Program Files (x86)--Steam--steamapps--workshop--content--387990 adresine gidebilirsiniz.",
+		"fileId": 2818746755,
+		"localId": "d8baf364-f285-43d7-930d-6189ac63f47b",
+		"name": "Türkçe Çeviri",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
