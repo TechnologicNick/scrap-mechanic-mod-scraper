@@ -11767,7 +11767,7 @@
 	"d9e6682a-1885-44b2-9cda-11bf5fec9dac": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h1] NORMAL VERSION [/h1]\nThis mod adds a spudgun that you can adjust in various ways.\n[b]Just interact with the gun and begin tuning it however you'd like[/b]!\n\nYou can also create templates out of the guns! [b]Just press U on the gun you want to make a template of, press E on another gun and click the template button[/b]! You can also switch templates by connecting another logic input. It will inherit the template gun's stats and everything! You can have multiple templates.\n\n\n[h1] HANDHELD VERSION [/h1]\nI also made a handheld version! [b]Press 'R' to open the tuning menu![/b] Sadly, [b]you can't make templates of it, but you can use templates created by normal adjustable guns![/b] It doesn't have an icon, but it sits next to the spudling gun.\nDont worry, you dont have to do any file modding yourself. There's a part I added called \"Handheld Spudgun Installer\", it does it all for you! [b]Just press 'E' on the part, rejoin the world, and its done! Your friends are gonna have to do the same in one of their worlds if they wanna join you, though. To uninstall it, you can either verify the game files or press 'U' on the part and rejoin the world[/b].\n\n\n[h1] ADJUSTABLE SETTINGS [/h1]\n-Projectile type\n-Projectile damage\n-Projectile velocity\n-How many times the projectile gets shot\n-Spread(unique to each projectile if more than one gets shot)\n-Reload time(ticks)\n-Whether it shoots continuously or not\n\n\n[h1] PROJECTILE TYPES [/h1]\n-Potato\n-Small Potato(gatling gun projectiles)\n-Fries\n-Tape\n-Explosive Tape\n-Water\n-Pesticide\n-Glowstick\n\n",
+		"description": "[h1] NORMAL VERSION [/h1]\r\nThis mod adds a spudgun that you can adjust in various ways.\r\n[b]Just interact with the gun and begin tuning it however you'd like[/b]!\r\n\r\nYou can also create templates out of the guns! [b]Just press U on the gun you want to make a template of, press E on another gun and click the template button[/b]! You can also switch templates by connecting another logic input. It will inherit the template gun's stats and everything! You can have multiple templates.\r\n\r\n\r\n[h1] HANDHELD VERSION [/h1]\r\nI also made a handheld version! [b]Press 'R' to open the tuning menu![/b] Sadly, [b]you can't make templates of it, but you can use templates created by normal adjustable guns![/b]\r\n\r\n\r\n[h1] ADJUSTABLE SETTINGS [/h1]\r\n-Projectile type\r\n-Projectile damage\r\n-Projectile velocity\r\n-How many times the projectile gets shot\r\n-Spread(unique to each projectile if more than one gets shot)\r\n-Reload time(ticks)\r\n-Whether it shoots continuously or not\r\n\r\n\r\n[h1] PROJECTILE TYPES [/h1]\r\n-Potato\r\n-Small Potato(gatling gun projectiles)\r\n-Fries\r\n-Tape\r\n-Explosive Tape\r\n-Water\r\n-Pesticide\r\n-Glowstick\r\n\r\n",
 		"fileId": 2754754406,
 		"localId": "d9e6682a-1885-44b2-9cda-11bf5fec9dac",
 		"name": "Adjustable Mountable Spudgun",
@@ -12911,8 +12911,9 @@
 		"version": 1
 	},
 	"79246818-be32-4845-8d63-b9289017e074": {
+		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Adds Fireaxe to the game as a tool",
+		"description": "[b]Adds Fireaxe to the game as a tool[/b]\r\nIts capable of destroying weak materials up to fabricated wood and plastic\r\n\r\nworks only in 0.6.0",
 		"fileId": 2813593777,
 		"localId": "79246818-be32-4845-8d63-b9289017e074",
 		"name": "Fireaxe",
@@ -13126,10 +13127,10 @@
 				"name": "More tetragonal cones"
 			}
 		],
-		"description": "添加5种较长的直角斜面，便于大型建筑。",
+		"description": "添加数种较长的直角斜面和数种较宽的异面垂直体，便于大型建筑。",
 		"fileId": 2818492538,
 		"localId": "99a25af1-ad84-468e-9328-2c54da889846",
-		"name": "More Bevel",
+		"name": "More Bevel and more",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -13167,6 +13168,16 @@
 		"fileId": 2818746755,
 		"localId": "d8baf364-f285-43d7-930d-6189ac63f47b",
 		"name": "Türkçe Çeviri",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"634444ec-aa7a-4a55-b1c1-b058e787f20f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "MY first mod!!\n\nAdds just one block this was just a test after all",
+		"fileId": 2818885265,
+		"localId": "634444ec-aa7a-4a55-b1c1-b058e787f20f",
+		"name": "Scales",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
