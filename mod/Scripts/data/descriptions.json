@@ -12997,7 +12997,7 @@
 	},
 	"7fadde68-1b72-4f26-b392-46f8d9be5c3e": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "This mod changes the spudgun's projectiles to all the available projectiles in the game currently. Press the reload key when you are in-game to cycle through the projectiles.\n\nHave fun!",
 		"fileId": 2816254606,
 		"localId": "7fadde68-1b72-4f26-b392-46f8d9be5c3e",
@@ -13178,6 +13178,16 @@
 		"fileId": 2818885265,
 		"localId": "634444ec-aa7a-4a55-b1c1-b058e787f20f",
 		"name": "Scales",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"cfb64f7e-c779-4c6f-bdb5-7fa72fec0618": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds extra blocks to the game",
+		"fileId": 2819105369,
+		"localId": "cfb64f7e-c779-4c6f-bdb5-7fa72fec0618",
+		"name": "Extra Blocks Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
