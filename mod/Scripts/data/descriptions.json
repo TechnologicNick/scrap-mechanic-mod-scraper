@@ -5650,12 +5650,15 @@
 		"version": 0
 	},
 	"534fdbce-37a6-4d72-886b-1fcb8f09fb11": {
-		"description": "This mod doesn't have a description",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "Stacks+ adds higher stacks for Items  \r\n\r\nThis mod will be updated overtime.\r\nCheck this MOD page overtime to see if the MOD has updated.\r\nIf that's the case you have to copy the contents of the workshop folder all over again for the Updated version to be working!   \r\n\r\nIMPORTANT:  This is a MANUAL INSTALL!!!\r\n\r\n\r\n[h1] INSTALL INSTRUCTIONS: [/h1]\r\n\r\n[b]Method 1:[/b]\r\nYou can follow the Video for install instructions.\r\n\r\n[b]Method 2:[/b]\r\nFollow these steps:\r\n\r\n1 - Go to: C:\\ ( or whatever drive you Installed Scrap mechanic on ) Program Files (x86)\\Steam\\steamapps\\workshop\\content\\Random Numbers \\ and find the folder with the number: 2111749421\r\n\r\n2- In the folder named \"2111749421\" There is a README file, Read it for Install instructions.\r\n\r\n3- After that, Enjoy!\r\n\r\n\r\n[h1]Stack changes:[/h1]\r\n\r\nExample:\r\nNameOfItem = Stack Amount\r\n=========================\r\n\r\n[list]\r\n[*] Blocks = 512\r\n[*] Seeds = 50\r\n[*] Food = 25\r\n[*] Potato ammo = 100\r\n\r\n[*]Gas: = 50\r\n[*]Battery  = 50\r\n[*]Water = 50\r\n[*]Fertilizer = 50\r\n[*]Chemical = 50\r\n[*]Component = 25\r\n[*]Glowstick = 50\r\n[*]Sunshake - 10\r\n[*]Milk = 10\r\n[*]Soilbag = 20\r\n[/list]\r\n[h1]Special Stack changes:[/h1]\r\n[list]\r\n[*]Smallchest = 5\r\n[*]Chest = 5\r\n[/list]\r\n\r\n\r\n[h1]Update 1 - 31-May-2020[/h1]\r\n\r\nBlocks added:\r\n\r\n[list]\r\n[*]Concrete 1 = 512\r\n[*]Wood 1 = 523\r\n[*]Metal 1 = 512\r\n[*]Caution block = 512\r\n[*]Tiles = 512\r\n[*]Bricks = 512\r\n[*]Glass = 512\r\n[*]GlassTiles = 512\r\n[*]Block Lights = 512\r\n[*]SpaceshipMetal = 512\r\n[*]Cardboard = 512\r\n[/list]\r\n\r\n\r\n[h1]Update 2 - 5-June-2020[/h1]\r\n\r\n\r\nChanges:\r\n\r\nChanged all blocks from 500 stacks to 512 stacks! ( as requested ) \r\n\r\n\r\n[h1]New Changes:[/h1]\r\n\r\n[list]\r\n[*]Ember = 20\r\n[*]Beewax = 20\r\n[*]Slimyclam = 20\r\n[*]Cotton = 50\r\n[*]Corn = 20\r\n[*]Circuitboard = 20\r\n[*]Steak = 20\r\n[*]Glowpoop = 20\r\n[*]Flower = 50\r\n[*]Glue = 20\r\n[*]CrudeOil = 50\r\n[/list]\r\n\r\n[h1]Container Changes:[/h1]\r\n\r\nNOTE!:\r\n If the containers are not working for you ( stacksize )\r\nEmpty the container, then pick up the container, and place it back down again.\r\nConnect everything up again, and voila now the stack change should be working. :) \r\n\r\n[list]\r\n[*]Gasoline Container = 50\r\n[*]WaterContainer = 50\r\n[*]FertilizerContainer = 50\r\n[*]BatteryContainer = 50\r\n[*]AmmoContainer = 100\r\n[*]SeedContainer = 50\r\n[*]ChemicalContainer = 50\r\n[/list]\r\n\r\n[h1]Outfitpackage Changes:[/h1]\r\n\r\n[list]\r\n[*]outfitpackage common = 5 (stack)\r\n[*]outfitpackage rare = 5 (stack)\r\n[*]outfitpackage epic = 5 (stack)\r\n[/list]\r\n\r\n[h1]Update 2.1 - 27-June-2020[/h1]\r\n\r\nFixed - cotton seed not working.\r\nFixed - Updated backup files to latest game version\r\n\r\nAdded Cotton seed:\r\n[list]\r\n[*]Cotton seed = 50 (stack)\r\n[/list]\r\n\r\n[h1]Update 2.2 - 8-23-2020[/h1]\r\nMod has been updated to latest version (including the backup files)\r\n\r\nAdded one more item to the list (yea I know just one... BUT there will be more don't worry)\r\n\r\nAdded Vacuum pipes stacks:\r\n[list]\r\n[*] Vacuum pipe(s)  Stacksize = 5\r\n[/list]\r\n\r\nLike I said previously I will be adding more items,  I am working on a bigger update.\r\nSo keep an eye out on the mod page.  \r\n\r\nIf there are any problems, please leave a report in the discussions section called: \" Update 2.2 bugs/reports\" \r\n\r\n\r\n[h1]Update 2.3 - 11/21/2020[/h1]\r\n\r\n- Mod has been updated to LATEST VERSION. ( Including Back Up files)\r\n\r\n\r\nChanges:\r\nOutfitpackage(s) Changed from 5 To 10 Stack\r\n\r\nAdded:\r\n[list]\r\n[*]Inkammo =  100\r\n[*]Pizza burger = 10\r\n[*]Carrot Burger = 10\r\n[*]Longsandwich = 10\r\n[/list]\r\n\r\nSpecial changes:\r\n[list]\r\n[*]fridge = 5\r\n[*]Locker = 5\r\n[*]filecabinet = 5\r\n[/list]\r\n\r\n\r\n[h1]Update 2.4 - 1/2/2021[/h1]\r\n\r\n\r\nFixes:\r\n[list]\r\n[*]Ammo = 100\r\n[*]Batteries = 50\r\n[*]Fuel = 50\r\n\r\nThese 3 should be working fine now. Again sorry for the delay! \r\n\r\n---------------------------------------\r\n\r\nIf there are any problems, please leave a report in the discussions section called:   \"Bug Reports Update 2.4\"\r\n\r\nGot any suggestions/requests ? - Leave a comment in: discussions > Suggestions/Requests",
 		"fileId": 2111749421,
 		"localId": "534fdbce-37a6-4d72-886b-1fcb8f09fb11",
 		"name": "Stacks+ (Survival)",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"cca1a623-1645-4614-b9e4-cc7b107d7e4b": {
 		"description": "This mod doesn't have a description",
@@ -13181,6 +13184,16 @@
 		"fileId": 2819105369,
 		"localId": "cfb64f7e-c779-4c6f-bdb5-7fa72fec0618",
 		"name": "Extra Blocks Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"95dc5fa3-8b2c-412e-a5ac-a7046afa3524": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Mod for the Murky Players",
+		"fileId": 2819814476,
+		"localId": "95dc5fa3-8b2c-412e-a5ac-a7046afa3524",
+		"name": "Murky Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
