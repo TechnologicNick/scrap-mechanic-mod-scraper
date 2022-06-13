@@ -13200,7 +13200,7 @@
 	"b179ea9b-4dda-4b10-8224-13b4b3ae4036": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod includes 5 interactable parts:\r\n- Large switch\r\n- Small switch\r\n- Lightswitch\r\n- Holdable switch\r\n- Toggleable button",
+		"description": "This mod includes 5 interactable parts:\n- Large switch\n- Small switch\n- Lightswitch\n- Holdable switch\n- Toggleable button\n- Small Button",
 		"fileId": 2819232894,
 		"localId": "b179ea9b-4dda-4b10-8224-13b4b3ae4036",
 		"name": "Modified Buttons and Switches",
