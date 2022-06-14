@@ -35602,5 +35602,19 @@
 			"daff59d6-20e4-4d7d-8f8c-0cf2f2c893ed",
 			"ad413135-7669-4f95-824b-74e86bf0bff7"
 		]
-	}
+	},
+	"1a964db1-a6cb-49b2-838d-76077b144268": {
+		"$CONTENT_1a964db1-a6cb-49b2-838d-76077b144268/Objects/Database/ShapeSets/blocks.json": [
+			"d5589cfc-6be1-4339-9e73-1519fbf69940",
+			"aa8c913f-6ac1-4fb2-b829-3bf4faed6707"
+		],
+		"$CONTENT_1a964db1-a6cb-49b2-838d-76077b144268/Objects/Database/ShapeSets/example.json": [
+			"b8b1bd9a-3796-4238-bcf7-1d08a88e00cb"
+		],
+		"$CONTENT_1a964db1-a6cb-49b2-838d-76077b144268/Objects/Database/ShapeSets/parts.json": [
+			"67fabfd8-fb53-416c-b829-a3c5442cfda8",
+			"8b750448-a81e-4745-869d-576d7a2c1a9a"
+		]
+	},
+	"b37e6baf-e163-46e5-85eb-f6e73268cb08": {}
 }

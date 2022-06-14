@@ -13208,5 +13208,25 @@
 		"name": "Modified Buttons and Switches",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"1a964db1-a6cb-49b2-838d-76077b144268": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "un mod de test",
+		"fileId": 2820911513,
+		"localId": "1a964db1-a6cb-49b2-838d-76077b144268",
+		"name": "asqoolmod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b37e6baf-e163-46e5-85eb-f6e73268cb08": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Radio mod for RP WW1\nHow to install? go to D:\\GAME\\Steam\\steamapps\\workshop\\content\\387990\\2820928586\\Audio\\Banks\nAnd find file Master bank.bank. Copy and insert to D:\\GAME\\Steam\\steamapps\\common\\Scrap Mechanic\\Data\\Audio\\Banks\nThanks a lot for Mr.Login4ik",
+		"fileId": 2820933220,
+		"localId": "b37e6baf-e163-46e5-85eb-f6e73268cb08",
+		"name": "Radio mod for RP WW1",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
