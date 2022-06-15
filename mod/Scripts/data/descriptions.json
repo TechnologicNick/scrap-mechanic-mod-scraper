@@ -13066,7 +13066,7 @@
 	"b3c203a0-a507-472d-8a74-643e42bc3dcb": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Some of the tools I have made\n",
+		"description": "Some of the tools we have made.\r\n\r\nPlease like and subscribe!\r\n[img] https://steamusercontent-a.akamaihd.net/ugc/2422250057103161085/A682E0A36F63D71A8E643AA7ACC710E907F8937C/ [/img]",
 		"fileId": 2817818947,
 		"localId": "b3c203a0-a507-472d-8a74-643e42bc3dcb",
 		"name": "Future's Tools",
@@ -13226,6 +13226,16 @@
 		"fileId": 2820933220,
 		"localId": "b37e6baf-e163-46e5-85eb-f6e73268cb08",
 		"name": "Radio mod for RP WW1",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a7d58d9d-4f3e-4f02-885f-38966b807bc3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Need to be instaled manualy\n\ngo to Steam/steamapps/workshop/content/387990/?????? and copy 'Data'\n\nnow go to the Scrap Mechanic folder (Steam\\steamapps\\common\\Scrap Mechanic) and paste (replace the file)",
+		"fileId": 2821018405,
+		"localId": "a7d58d9d-4f3e-4f02-885f-38966b807bc3",
+		"name": "Good Music",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
