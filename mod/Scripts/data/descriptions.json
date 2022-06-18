@@ -12684,7 +12684,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "CPU in single block\n\ncreate your own automated machines and logic systems, minigames and more...\n\nvideos about cpu:\nhttps://www.youtube.com/playlist?list=PLxot8YjFg6Un0rTtXiAofN5agzTksmqpm\n\nwiki:\nhttps://github.com/timofey260/ScrapCPU/wiki/The-mod-basics\n\ncommands:\nhttps://github.com/timofey260/ScrapCPU/wiki/The-mod-commands\n\nscriptfile directory:\n\"...\\Steam\\SteamApps\\workshop\\content\\387990\\2807051228\"\n\nexamples:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2807053081\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2807053314\n\nWARNING: wrong usage of TIMCPU may crash your game\nRemember: if you want to use piston or bearing controllers, you need to restart your game after placing and connecting it!\n\nfor bugs and errors ask me: TiMoFey#5110",
+		"description": "CPU in single block\r\n\r\ncreate your own automated machines and logic systems, minigames and more...\r\n\r\nvideos about cpu:\r\nhttps://www.youtube.com/playlist?list=PLxot8YjFg6Un0rTtXiAofN5agzTksmqpm\r\n\r\nwiki:\r\nhttps://github.com/timofey260/ScrapCPU/wiki/The-mod-basics\r\n\r\ncommands:\r\nhttps://github.com/timofey260/ScrapCPU/wiki/The-mod-commands\r\n\r\nexamples:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2807053081\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2807053314\r\n\r\nWARNING: wrong usage of TIMCPU may crash your game\r\nRemember: if you want to use piston or bearing controllers, you need to restart your game after placing and connecting it!\r\n\r\nfor bugs and errors ask me: TiMoFey#5110",
 		"fileId": 2807051228,
 		"localId": "c389c77e-6818-445a-b45f-b852c5dfbe03",
 		"name": "TimCPU: full CPU in single block",
@@ -12736,7 +12736,7 @@
 	"645ef32c-871d-4f67-8a70-44ff6df48db2": {
 		"custom_icons": true,
 		"description": "This is a collection of various things that I've created.\n\ncurrently includes\n - rope block\n - creation protector\n - Day-night cycle block\nand much more coming soon!\n\nPlease do not hesitate to make suggestions; they will be greatly appreciated!\n",
-		"fileId": 2808211361,
+		"fileId": 2822464676,
 		"localId": "645ef32c-871d-4f67-8a70-44ff6df48db2",
 		"name": "ai kiwi tools",
 		"type": "Blocks and Parts",
