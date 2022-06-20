@@ -13316,5 +13316,25 @@
 		"name": "Raft Mechanic Polish Lang",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"4c9103e2-7023-47ba-b4fb-033c12dce301": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "this mod adds old scrap mechanic things\nso far it only adds the old thruster",
+		"fileId": 2823532997,
+		"localId": "4c9103e2-7023-47ba-b4fb-033c12dce301",
+		"name": "old things",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"65e20ec2-ca88-49bd-9a8c-13bf4499e4f7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2823548499,
+		"localId": "65e20ec2-ca88-49bd-9a8c-13bf4499e4f7",
+		"name": "modpack crafting recipes",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
