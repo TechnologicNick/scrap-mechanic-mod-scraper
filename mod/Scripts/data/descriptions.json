@@ -13306,5 +13306,15 @@
 		"name": "Placeholder, do not subscribe",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"eea756fc-f802-43a2-a714-9169fb9d2c6a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[For people that don't understand polish]\nIt's translation for Raft Mechanic to polish language.\n\n[Dla osób mówiących po polsku]\nWłasne tłumaczenie moda Raft Mechanic na język polski. Z naprawą kilku błędów i dodaniem kilku brakujących tekstów.\n\nNiektóre z tłumaczeń były nielogiczne lub po prostu ich nie było, więc zrobiłem własne. Wiem, pomysł może średni, ale kłuło mnie w oczy poprzednie tłumaczenie.\n\nJak pobrać (film):\nWIP\n\nJak pobrać krok po kroku:\n0. Wyłącz Scrap Mechanic.\n1. Po zasubskrybowaniu modyfikacji udaj się na dysk, gdzie masz zainstalowanego steama.\n2. wejdź do \"Dysk:\\Steam\\steamapps\\workshop\\content\\387990\" i zmień sortowanie plików na \"Data modyfikacji\" (kliknij na \"Data Modyfikacji\" na górze)\n3. Wybierz najnowszy zainstalowany folder (powinno w nim sie znajdować 2 pliki i folder o nazwie \"Polish\")\n4. skopiuj cały folder \"Polish\"\n5. Przejdź do folderu \"Dysk:\\Steam\\steamapps\\workshop\\content\\387990\\2807590049\\Gui\\Language\"\n6. Podmień aktualny folder \"Polish\" wklejając poprzednio skopiowany folder o tej samej nazwie.\n\nJęzyk powinien być podmieniony.\n\nJeśli masz jakieś zastrzeżenia lub problemu z tłumaczeniem, napisz je w komentarzu.",
+		"fileId": 2823247014,
+		"localId": "eea756fc-f802-43a2-a714-9169fb9d2c6a",
+		"name": "Raft Mechanic Polish Lang",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
