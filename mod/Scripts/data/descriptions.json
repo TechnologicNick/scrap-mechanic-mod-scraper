@@ -13320,8 +13320,8 @@
 	"4c9103e2-7023-47ba-b4fb-033c12dce301": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "this mod adds old scrap mechanic things\nso far it only adds the old thruster",
-		"fileId": 2823532997,
+		"description": "this mod adds old scrap mechanic things.\nincludes:\n- old thruster\n- old bearing",
+		"fileId": 2823926029,
 		"localId": "4c9103e2-7023-47ba-b4fb-033c12dce301",
 		"name": "old things",
 		"type": "Blocks and Parts",
@@ -13344,6 +13344,16 @@
 		"fileId": 2823639453,
 		"localId": "09ea5db7-63e3-4e2d-8430-e1ef7ac91e6a",
 		"name": "mangoMan Modpack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"213cd3a7-5c57-4e15-a42a-805c5dc1a6e2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A mod that adds better building blocks",
+		"fileId": 2823865049,
+		"localId": "213cd3a7-5c57-4e15-a42a-805c5dc1a6e2",
+		"name": "Extra Building Blocks",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
