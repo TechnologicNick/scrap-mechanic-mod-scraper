@@ -13366,5 +13366,15 @@
 		"name": "The Modpack : Survival edition",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"fed51d61-bc85-420d-82af-b645f2a23145": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2824149581,
+		"localId": "fed51d61-bc85-420d-82af-b645f2a23145",
+		"name": "RM_creative",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
