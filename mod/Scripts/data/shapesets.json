@@ -35652,5 +35652,15 @@
 	},
 	"be4f1099-5250-487f-be31-d923242f2e56": {},
 	"fed51d61-bc85-420d-82af-b645f2a23145": {},
-	"24010c6a-3749-491a-b9cd-e068ea259c14": {}
+	"24010c6a-3749-491a-b9cd-e068ea259c14": {},
+	"bd07f6f1-1c01-43d1-9490-c470ff0bcc58": {
+		"$CONTENT_bd07f6f1-1c01-43d1-9490-c470ff0bcc58/Objects/Database/ShapeSets/engines.json": [
+			"92c856e6-9a9b-4832-91f0-2c741258b40b"
+		],
+		"$CONTENT_bd07f6f1-1c01-43d1-9490-c470ff0bcc58/Objects/Database/ShapeSets/wheels.json": [
+			"b9f0d277-daca-49e4-9771-c16f721c8bcc",
+			"d6b12a47-c2df-46d3-a67f-4ef7c64802c8",
+			"1b4e8d47-8360-4c9f-bd02-77576d4cac0a"
+		]
+	}
 }
