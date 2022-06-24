@@ -12734,8 +12734,9 @@
 		"version": 0
 	},
 	"645ef32c-871d-4f67-8a70-44ff6df48db2": {
+		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This is a collection of various things that I've created.\n\ncurrently includes\n - rope block\n - creation protector\n - Day-night cycle block\nand much more coming soon!\n\nPlease do not hesitate to make suggestions; they will be greatly appreciated!\n",
+		"description": "This is a collection of various things that I've created.\n\ncurrently includes\n - rope block\n - creation protector\n - Day-night cycle block\n - Day-night sensor\nand much more coming soon!\n\nPlease do not hesitate to make suggestions; they will be greatly appreciated!\n",
 		"fileId": 2822464676,
 		"localId": "645ef32c-871d-4f67-8a70-44ff6df48db2",
 		"name": "ai kiwi tools",
@@ -13370,10 +13371,20 @@
 	"fed51d61-bc85-420d-82af-b645f2a23145": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "[b]Play with everything from Raft Mechanic, but in creative!(no sharks though)[/b]\r\n[b]Thanks to [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Questionable Mark's Modded Craftbot Recipes[/url], they're also craftable in survival![/b]\r\n\r\nMore info about the mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2807590049]here[/url]!",
 		"fileId": 2824149581,
 		"localId": "fed51d61-bc85-420d-82af-b645f2a23145",
 		"name": "RM_creative",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"24010c6a-3749-491a-b9cd-e068ea259c14": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This pack isnt stupidly broken YET only because i've only added blocks to it so far.",
+		"fileId": 2824987267,
+		"localId": "24010c6a-3749-491a-b9cd-e068ea259c14",
+		"name": "Thanos's Stupidly Broken Stupidity",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
