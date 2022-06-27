@@ -13413,5 +13413,25 @@
 		"name": "Crosshair Parts",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"2acfa13b-88e1-4ec8-a0f6-a33758439d6d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "(for now only one) additional version of the logic gate with some handy features\n\nRS-latch / T-Flipflop / Override bit memory / Rising edge detection / Falling edge detection / Color Pixel block (for displays)",
+		"fileId": 2826446206,
+		"localId": "2acfa13b-88e1-4ec8-a0f6-a33758439d6d",
+		"name": "Extra Gates",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"ba314573-19ca-4e4f-8510-0694b20e0ceb": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Propeller (Clockwise)\nPropeller (CounterClockwise)\nRudder\n\nPropeller thruster is determined by the speed of rotation of the propeller. \n\nUse Electic Engine or Smart Engine (MOD Pack)\n\n(Smart Engine, set speed 400 - 1200)",
+		"fileId": 2826571135,
+		"localId": "ba314573-19ca-4e4f-8510-0694b20e0ceb",
+		"name": "Marine",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

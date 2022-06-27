@@ -35665,5 +35665,11 @@
 			"1b4e8d47-8360-4c9f-bd02-77576d4cac0a"
 		]
 	},
-	"476d867d-cd32-492e-84d3-8dc049ff65ca": {}
+	"476d867d-cd32-492e-84d3-8dc049ff65ca": {},
+	"2acfa13b-88e1-4ec8-a0f6-a33758439d6d": {
+		"$CONTENT_2acfa13b-88e1-4ec8-a0f6-a33758439d6d/Objects/Database/ShapeSets/gates.json": [
+			"8b1c574a-383c-403c-bbd3-20eee9f20c3f"
+		]
+	},
+	"ba314573-19ca-4e4f-8510-0694b20e0ceb": {}
 }
