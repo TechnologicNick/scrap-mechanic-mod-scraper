@@ -4246,7 +4246,7 @@
 	"3269e6ef-4d80-4f75-b8f6-dffb303e5243": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds new spudguns. They look like famous guns from WW1 and WW2.\r\nSome of them are animated so check them out if you like that kind of details!\r\n\r\nDiscord Server: https://discord.gg/YzuhzyKr\r\n\r\n=================================================================\r\n- New Sights for tanks and planes\r\n=================================================================\r\n\r\n{value} - delay after shoot in ticks\r\n[A] - gun is animated\r\n<value> - amount of ammo in the magazine\r\n\r\n====== NEW CONTENT ======\r\n\r\n- New Mosin 1891 model with \r\n   +shooting animation,\r\n   +reload animation,\r\n   +case ejection animation,\r\n- New M1919 model \r\n  (no animations temporary)\r\n- New soundeffects for\r\n   +Mg-42\r\n   +Mosin\r\n\r\n=== LIGHT MACHINE GUNS ===\r\n\r\n- [A] Lewis M1914  {5}\r\n- [A] Maxim M1905  {6}\r\n- M1919 .30 {5}\r\n- MG-34 {5}\r\n- [A] MG-42 {4}, <50>\r\n- DP-29 {6}\r\n- DGx03 {6}\r\n\r\n=== HEAVY MACHINE GUNS ===\r\n\r\n- [A] Browning .50 {7}\r\n- [A] Browning .50 Aircraft {7}\r\n- DSzK 12.7mm {7}\r\n\r\n====== 20mm CANNONS ======\r\n\r\n- MG 151/20 {8}\r\n- WZ.38 {10}\r\n- Hispano {10}\r\n- [A] Vulcan M61 {4}\r\n\r\n======= EXPLOSIVES ========\r\n\r\n- Bomb (proximity fuse)\r\n- Bomb 50kg\r\n- Bomb 100kg\r\n- Bomb 250kg\r\n- Anti-Tank Mine\r\n- S-Mine\r\n\r\n===== OTHER WEAPONS ======\r\n\r\n- Bazooka {120}\r\n- AK-47 {5}\r\n- [A] Mosin-Nagant 1891 {100} <5>\r\n- [A] PTRD-41 {120}\r\n- [A] Cannon {160}\r\n\r\n===========================\r\n\r\n\r\n--------------------------Credit & Copyright:----------------------------\r\nBrent Batch / DO NOT COPY without permission from \r\nBrent Batchdiscord)\r\nQuestion Mark - scripts explosive and non-explosive guns\r\n\"Alarmblock\" script is made by wingcomstriker405\r\n--------------------------------------------------------------------------\r\n",
+		"description": "This mod adds new spudguns. They look like famous guns from WW1 and WW2.\r\nSome of them are animated so check them out if you like that kind of details!\r\n\r\nDiscord Server: https://discord.gg/QJRHhuUYsM\r\n\r\n=================================================================\r\n- New Tanks visors (square)\r\n- 4 additional crossights (with highlight option)\r\n=================================================================\r\n\r\n{value} - delay after shoot in ticks\r\n[A] - gun is animated\r\n<value> - amount of ammo in the magazine\r\n\r\n====== NEW CONTENT ======\r\n\r\n- New Mosin 1891 model with \r\n   +shooting animation,\r\n   +reload animation,\r\n   +case ejection animation,\r\n- New M1919 model \r\n  (no animations temporary)\r\n- New soundeffects for\r\n   +Mg-42\r\n   +Mosin\r\n\r\n=== LIGHT MACHINE GUNS ===\r\n\r\n- [A] Lewis M1914  {5}\r\n- [A] Maxim M1905  {6}\r\n- M1919 .30 {5}\r\n- MG-34 {5}\r\n- [A] MG-42 {4}, <50>\r\n- DP-29 {6}\r\n- DGx03 {6}\r\n\r\n=== HEAVY MACHINE GUNS ===\r\n\r\n- [A] Browning .50 {7}\r\n- [A] Browning .50 Aircraft {7}\r\n- DSzK 12.7mm {7}\r\n\r\n====== 20mm CANNONS ======\r\n\r\n- MG 151/20 {8}\r\n- WZ.38 {10}\r\n- Hispano {10}\r\n- [A] Vulcan M61 {4}\r\n\r\n======= EXPLOSIVES ========\r\n\r\n- Bomb (proximity fuse)\r\n- Bomb 50kg\r\n- Bomb 100kg\r\n- Bomb 250kg\r\n- Anti-Tank Mine\r\n- S-Mine\r\n\r\n===== OTHER WEAPONS ======\r\n\r\n- Bazooka {120}\r\n- AK-47 {5}\r\n- [A] Mosin-Nagant 1891 {100} <5>\r\n- [A] PTRD-41 {120}\r\n- [A] Cannon {160}\r\n\r\n===========================\r\n\r\n\r\n--------------------------Credit & Copyright:----------------------------\r\nBrent Batch / DO NOT COPY without permission from \r\nBrent Batchdiscord)\r\nQuestion Mark - scripts explosive and non-explosive guns\r\n\"Alarmblock\" script is made by wingcomstriker405\r\n--------------------------------------------------------------------------\r\n",
 		"fileId": 1903792337,
 		"localId": "3269e6ef-4d80-4f75-b8f6-dffb303e5243",
 		"name": "Machine gun",
@@ -13470,7 +13470,7 @@
 	"1f214814-bb84-487f-aff2-a98c9affac61": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "hi\n",
+		"description": "Fun blocks that you can use very fun i can yes very fun\n",
 		"fileId": 2826943839,
 		"localId": "1f214814-bb84-487f-aff2-a98c9affac61",
 		"name": "fun blocks",
@@ -13595,6 +13595,16 @@
 		"fileId": 2827273187,
 		"localId": "f71068f5-c23a-4194-b75f-e2c7e69a0c82",
 		"name": "Super buoyancy block",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"50662453-2b8b-472c-881e-53970a15d647": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2825746181,
+		"localId": "50662453-2b8b-472c-881e-53970a15d647",
+		"name": "Eli's personal use mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
