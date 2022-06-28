@@ -12622,12 +12622,14 @@
 		"version": 0
 	},
 	"c018cc7f-6ef5-4099-b3f3-6c238bbbbec1": {
-		"description": "This mod doesn't have a description",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "in the future, there will be no current infrastructure in the nonbeta mod because it doesn't work and I am not satisfied with it (rails, jibs, wires), so I'll leave it here.\r\n\r\nI have to apologize that the mod has disappeared for a few days due to personal reasons.\r\n\r\nPlan for the near future: make more interesting parts to build trains.\r\n\r\nI remind you that the mod is only my property and it doesn't matter if it's beta or not.\r\n\r\n:)",
 		"fileId": 2807533296,
 		"localId": "c018cc7f-6ef5-4099-b3f3-6c238bbbbec1",
 		"name": "Realistic train infrastructure and parts",
 		"type": "Blocks and Parts",
-		"version": 0.1
+		"version": 1
 	},
 	"b54defad-024a-45cb-bd11-46150e26c65d": {
 		"description": "This mod doesn't have a description",
@@ -13533,6 +13535,66 @@
 		"fileId": 2827048573,
 		"localId": "3f455c8d-c9a9-4675-8495-70a0db1e4b68",
 		"name": "duck!",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"88a6699d-4523-469a-afec-7dc06da870ad": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "gives you a low friction block to use for sleds\n",
+		"fileId": 2827117314,
+		"localId": "88a6699d-4523-469a-afec-7dc06da870ad",
+		"name": "sled block",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"5b1bb87a-2bab-452a-b9bb-fe83e6002167": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "idk\n",
+		"fileId": 2827117946,
+		"localId": "5b1bb87a-2bab-452a-b9bb-fe83e6002167",
+		"name": "idk",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"37287771-144c-462d-93c5-53f25e2156f1": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This is a mod that gives blocks of all kinds.",
+		"fileId": 2827213905,
+		"localId": "37287771-144c-462d-93c5-53f25e2156f1",
+		"name": "good blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a0eb675e-ea8d-47da-93d0-34e6c625cfd2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod Includes: Raft block,Heavy block,Super Heavy block,Fortified Raft block.\nMade by ICEMAN",
+		"fileId": 2827256236,
+		"localId": "a0eb675e-ea8d-47da-93d0-34e6c625cfd2",
+		"name": "Iceman Blocks Pack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"fda73518-7b33-4ba9-8df9-a3d3a0920bea": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "ta? to świetnie",
+		"fileId": 2827272601,
+		"localId": "fda73518-7b33-4ba9-8df9-a3d3a0920bea",
+		"name": "lolzzz - kensloz",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f71068f5-c23a-4194-b75f-e2c7e69a0c82": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This is a mod that adds a super buoyant block to the game.\n\nMade by SO(superolo)",
+		"fileId": 2827273187,
+		"localId": "f71068f5-c23a-4194-b75f-e2c7e69a0c82",
+		"name": "Super buoyancy block",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
