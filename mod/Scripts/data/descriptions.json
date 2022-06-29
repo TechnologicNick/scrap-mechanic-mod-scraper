@@ -13591,7 +13591,7 @@
 	"f71068f5-c23a-4194-b75f-e2c7e69a0c82": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This is a mod that adds a super buoyant block to the game.\n\nMade by SO(superolo)",
+		"description": "This is a mod that adds a super blocks to the game.\nFor now:\nSuper bouyant block,\nSuper heavy block,\nSuper light block\n\nMade by SO(superolo)",
 		"fileId": 2827273187,
 		"localId": "f71068f5-c23a-4194-b75f-e2c7e69a0c82",
 		"name": "Super buoyancy block",
@@ -13685,6 +13685,66 @@
 		"fileId": 2827562160,
 		"localId": "f1517e99-221e-4490-b19f-631f06d75f70",
 		"name": "Stevens Blocks And Parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"dadc0892-a8a9-4429-979a-d6795797f6f4": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "2 Blocs",
+		"fileId": 2827648832,
+		"localId": "dadc0892-a8a9-4429-979a-d6795797f6f4",
+		"name": "Bloc",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"e1140019-a25c-434e-b85b-99801acaad91": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2827710900,
+		"localId": "e1140019-a25c-434e-b85b-99801acaad91",
+		"name": "Jerry story blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"9f8e26db-7c68-4744-9268-06b70f9e7dcb": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This is the Chapter 2 of the Iceman Blocks Pack\nThis mod includes: Paper block,Rock,invincible block,Paintable glass,Ice block\nMade by ICEMAN,works only with creative or custom game.",
+		"fileId": 2827716113,
+		"localId": "9f8e26db-7c68-4744-9268-06b70f9e7dcb",
+		"name": "Iceman Blocks Pack 2",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"2e89f7e9-2d3f-4366-bd27-c8f90488d4ca": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "just a berry",
+		"fileId": 2827725515,
+		"localId": "2e89f7e9-2d3f-4366-bd27-c8f90488d4ca",
+		"name": "Berry block",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a4b104e0-00f8-496f-b0f6-ab83eab97a34": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2827730375,
+		"localId": "a4b104e0-00f8-496f-b0f6-ab83eab97a34",
+		"name": "metro maps",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"140bf81c-d04c-4199-8c08-356a46d673bb": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2827775128,
+		"localId": "140bf81c-d04c-4199-8c08-356a46d673bb",
+		"name": "my mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
