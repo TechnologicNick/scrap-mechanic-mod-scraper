@@ -4246,7 +4246,7 @@
 	"3269e6ef-4d80-4f75-b8f6-dffb303e5243": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds new spudguns. They look like famous guns from WW1 and WW2.\nSome of them are animated so check them out if you like that kind of details!\n\nDiscord Server: https://discord.gg/QJRHhuUYsM\n\n=================================================================\n\n- 2 cannon breeches for decoration\n        + 7,5cm Pak40 (r=1)\n        + M6 37mm (r=0,5)\nBoth of them have 'shot' and 'reload' animation\nCompatible with Cannons Pack cannons\nIf the reload time is shorter than the animation, it wont be played. If its longer than animation, between taking the case out and loading a new shell the pause will be added.\n\n=================================================================\n\n{value} - delay after shoot in ticks\n[A] - gun is animated\n<value> - amount of ammo in the magazine\n\n====== NEW CONTENT ======\n\n- New Mosin 1891 model with \n   +shooting animation,\n   +reload animation,\n   +case ejection animation,\n- New M1919 model \n  (no animations temporary)\n- New soundeffects for\n   +Mg-42\n   +Mosin\n\n=== LIGHT MACHINE GUNS ===\n\n- [A] Lewis M1914  {5}\n- [A] Maxim M1905  {6}\n- M1919 .30 {5}\n- MG-34 {5}\n- [A] MG-42 {4}, <50>\n- DP-29 {6}\n- DGx03 {6}\n\n=== HEAVY MACHINE GUNS ===\n\n- [A] Browning .50 {7}\n- [A] Browning .50 Aircraft {7}\n- DSzK 12.7mm {7}\n\n====== 20mm CANNONS ======\n\n- MG 151/20 {8}\n- WZ.38 {10}\n- Hispano {10}\n- [A] Vulcan M61 {4}\n\n======= EXPLOSIVES ========\n\n- Bomb (proximity fuse)\n- Bomb 50kg\n- Bomb 100kg\n- Bomb 250kg\n- Anti-Tank Mine\n- S-Mine\n\n===== OTHER WEAPONS ======\n\n- Bazooka {120}\n- AK-47 {5}\n- [A] Mosin-Nagant 1891 {100} <5>\n- [A] PTRD-41 {120}\n- [A] Cannon {160}\n\n===========================\n\n\n--------------------------Credit & Copyright:----------------------------\nBrent Batch / DO NOT COPY without permission from \nBrent Batchdiscord)\nQuestion Mark - scripts explosive and non-explosive guns\n\"Alarmblock\" script is made by wingcomstriker405\n--------------------------------------------------------------------------\n",
+		"description": "This mod adds new spudguns. They look like famous guns from WW1 and WW2.\r\nSome of them are animated so check them out if you like that kind of details!\r\n\r\nDiscord Server: https://discord.gg/QJRHhuUYsM\r\n\r\n=================================================================\r\n\r\n- 1,5 block tank visor (both round and square version)\r\n- 2 cannon breeches for decoration\r\n        + 7,5cm Pak40 (r=1)\r\n        + M6 37mm (r=0,5)\r\nBoth of them have 'shot' and 'reload' animation\r\nCompatible with Cannons Pack cannons\r\nIf the reload time is shorter than the animation, it wont be played. If its longer than animation, between taking the case out and loading a new shell the pause will be added.\r\n\r\n=================================================================\r\n\r\n{value} - delay after shoot in ticks\r\n[A] - gun is animated\r\n<value> - amount of ammo in the magazine\r\n\r\n====== NEW CONTENT ======\r\n\r\n- New Mosin 1891 model with \r\n   +shooting animation,\r\n   +reload animation,\r\n   +case ejection animation,\r\n- New M1919 model \r\n  (no animations temporary)\r\n- New soundeffects for\r\n   +Mg-42\r\n   +Mosin\r\n\r\n=== LIGHT MACHINE GUNS ===\r\n\r\n- [A] Lewis M1914  {5}\r\n- [A] Maxim M1905  {6}\r\n- M1919 .30 {5}\r\n- MG-34 {5}\r\n- [A] MG-42 {4}, <50>\r\n- DP-29 {6}\r\n- DGx03 {6}\r\n\r\n=== HEAVY MACHINE GUNS ===\r\n\r\n- [A] Browning .50 {7}\r\n- [A] Browning .50 Aircraft {7}\r\n- DSzK 12.7mm {7}\r\n\r\n====== 20mm CANNONS ======\r\n\r\n- MG 151/20 {8}\r\n- WZ.38 {10}\r\n- Hispano {10}\r\n- [A] Vulcan M61 {4}\r\n\r\n======= EXPLOSIVES ========\r\n\r\n- Bomb (proximity fuse)\r\n- Bomb 50kg\r\n- Bomb 100kg\r\n- Bomb 250kg\r\n- Anti-Tank Mine\r\n- S-Mine\r\n\r\n===== OTHER WEAPONS ======\r\n\r\n- Bazooka {120}\r\n- AK-47 {5}\r\n- [A] Mosin-Nagant 1891 {100} <5>\r\n- [A] PTRD-41 {120}\r\n- [A] Cannon {160}\r\n\r\n===========================\r\n\r\n\r\n--------------------------Credit & Copyright:----------------------------\r\nBrent Batch / DO NOT COPY without permission from \r\nBrent Batchdiscord)\r\nQuestion Mark - scripts explosive and non-explosive guns\r\n\"Alarmblock\" script is made by wingcomstriker405\r\n--------------------------------------------------------------------------\r\n",
 		"fileId": 1903792337,
 		"localId": "3269e6ef-4d80-4f75-b8f6-dffb303e5243",
 		"name": "Machine gun",
@@ -13591,7 +13591,7 @@
 	"f71068f5-c23a-4194-b75f-e2c7e69a0c82": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This is a mod that adds a super blocks to the game.\nFor now:\nSuper bouyant block,\nSuper heavy block,\nSuper light block\n\nMade by SO(superolo)",
+		"description": "This is a mod that adds a super blocks to the game.\nFor now:\nSuper bouyant block,\nSuper heavy block,\nSuper light block,\nSuper bouncy block\n\nMade by SO(superolo)",
 		"fileId": 2827273187,
 		"localId": "f71068f5-c23a-4194-b75f-e2c7e69a0c82",
 		"name": "Super buoyancy block",
@@ -13846,6 +13846,43 @@
 		"fileId": 2828239141,
 		"localId": "b4712384-86d3-4f32-a1c3-729d7b1e92ab",
 		"name": "Cool Blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d9fe4eec-1449-4a84-bf99-4478a7c6dd1c": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 2820096455,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
+				"name": "Fant Mod 2 Custom Gamemode"
+			}
+		],
+		"description": "This mod doesn't have a description",
+		"fileId": 2828043121,
+		"localId": "d9fe4eec-1449-4a84-bf99-4478a7c6dd1c",
+		"name": "Test Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"29e6aeb0-0154-4213-8312-d44f4c3891f9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A mod that adds only smooth blocks (for now)",
+		"fileId": 2828320774,
+		"localId": "29e6aeb0-0154-4213-8312-d44f4c3891f9",
+		"name": "New Blocks Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1cf37e21-6488-4268-8a8f-a32c2449ce8b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "some extra wedges and curves that don't exist in the modpack polygons",
+		"fileId": 2828345433,
+		"localId": "1cf37e21-6488-4268-8a8f-a32c2449ce8b",
+		"name": "Extra Polygons mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
