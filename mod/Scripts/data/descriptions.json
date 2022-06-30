@@ -4246,7 +4246,7 @@
 	"3269e6ef-4d80-4f75-b8f6-dffb303e5243": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds new spudguns. They look like famous guns from WW1 and WW2.\r\nSome of them are animated so check them out if you like that kind of details!\r\n\r\nDiscord Server: https://discord.gg/QJRHhuUYsM\r\n\r\n=================================================================\r\n- New Tanks visors (square)\r\n- 4 additional crossights (with highlight option)\r\n=================================================================\r\n\r\n{value} - delay after shoot in ticks\r\n[A] - gun is animated\r\n<value> - amount of ammo in the magazine\r\n\r\n====== NEW CONTENT ======\r\n\r\n- New Mosin 1891 model with \r\n   +shooting animation,\r\n   +reload animation,\r\n   +case ejection animation,\r\n- New M1919 model \r\n  (no animations temporary)\r\n- New soundeffects for\r\n   +Mg-42\r\n   +Mosin\r\n\r\n=== LIGHT MACHINE GUNS ===\r\n\r\n- [A] Lewis M1914  {5}\r\n- [A] Maxim M1905  {6}\r\n- M1919 .30 {5}\r\n- MG-34 {5}\r\n- [A] MG-42 {4}, <50>\r\n- DP-29 {6}\r\n- DGx03 {6}\r\n\r\n=== HEAVY MACHINE GUNS ===\r\n\r\n- [A] Browning .50 {7}\r\n- [A] Browning .50 Aircraft {7}\r\n- DSzK 12.7mm {7}\r\n\r\n====== 20mm CANNONS ======\r\n\r\n- MG 151/20 {8}\r\n- WZ.38 {10}\r\n- Hispano {10}\r\n- [A] Vulcan M61 {4}\r\n\r\n======= EXPLOSIVES ========\r\n\r\n- Bomb (proximity fuse)\r\n- Bomb 50kg\r\n- Bomb 100kg\r\n- Bomb 250kg\r\n- Anti-Tank Mine\r\n- S-Mine\r\n\r\n===== OTHER WEAPONS ======\r\n\r\n- Bazooka {120}\r\n- AK-47 {5}\r\n- [A] Mosin-Nagant 1891 {100} <5>\r\n- [A] PTRD-41 {120}\r\n- [A] Cannon {160}\r\n\r\n===========================\r\n\r\n\r\n--------------------------Credit & Copyright:----------------------------\r\nBrent Batch / DO NOT COPY without permission from \r\nBrent Batchdiscord)\r\nQuestion Mark - scripts explosive and non-explosive guns\r\n\"Alarmblock\" script is made by wingcomstriker405\r\n--------------------------------------------------------------------------\r\n",
+		"description": "This mod adds new spudguns. They look like famous guns from WW1 and WW2.\nSome of them are animated so check them out if you like that kind of details!\n\nDiscord Server: https://discord.gg/QJRHhuUYsM\n\n=================================================================\n\n- 2 cannon breeches for decoration\n        + 7,5cm Pak40 (r=1)\n        + M6 37mm (r=0,5)\nBoth of them have 'shot' and 'reload' animation\nCompatible with Cannons Pack cannons\nIf the reload time is shorter than the animation, it wont be played. If its longer than animation, between taking the case out and loading a new shell the pause will be added.\n\n=================================================================\n\n{value} - delay after shoot in ticks\n[A] - gun is animated\n<value> - amount of ammo in the magazine\n\n====== NEW CONTENT ======\n\n- New Mosin 1891 model with \n   +shooting animation,\n   +reload animation,\n   +case ejection animation,\n- New M1919 model \n  (no animations temporary)\n- New soundeffects for\n   +Mg-42\n   +Mosin\n\n=== LIGHT MACHINE GUNS ===\n\n- [A] Lewis M1914  {5}\n- [A] Maxim M1905  {6}\n- M1919 .30 {5}\n- MG-34 {5}\n- [A] MG-42 {4}, <50>\n- DP-29 {6}\n- DGx03 {6}\n\n=== HEAVY MACHINE GUNS ===\n\n- [A] Browning .50 {7}\n- [A] Browning .50 Aircraft {7}\n- DSzK 12.7mm {7}\n\n====== 20mm CANNONS ======\n\n- MG 151/20 {8}\n- WZ.38 {10}\n- Hispano {10}\n- [A] Vulcan M61 {4}\n\n======= EXPLOSIVES ========\n\n- Bomb (proximity fuse)\n- Bomb 50kg\n- Bomb 100kg\n- Bomb 250kg\n- Anti-Tank Mine\n- S-Mine\n\n===== OTHER WEAPONS ======\n\n- Bazooka {120}\n- AK-47 {5}\n- [A] Mosin-Nagant 1891 {100} <5>\n- [A] PTRD-41 {120}\n- [A] Cannon {160}\n\n===========================\n\n\n--------------------------Credit & Copyright:----------------------------\nBrent Batch / DO NOT COPY without permission from \nBrent Batchdiscord)\nQuestion Mark - scripts explosive and non-explosive guns\n\"Alarmblock\" script is made by wingcomstriker405\n--------------------------------------------------------------------------\n",
 		"fileId": 1903792337,
 		"localId": "3269e6ef-4d80-4f75-b8f6-dffb303e5243",
 		"name": "Machine gun",
@@ -11764,7 +11764,7 @@
 	},
 	"d9e6682a-1885-44b2-9cda-11bf5fec9dac": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"description": "[h1] NORMAL VERSION [/h1]\r\nThis mod adds a spudgun that you can adjust in various ways.\r\n[b]Just interact with the gun and begin tuning it however you'd like[/b]!\r\n\r\nYou can also create templates out of the guns! [b]Just press U on the gun you want to make a template of, press E on another gun and click the template button[/b]! You can also switch templates by connecting another logic input. It will inherit the template gun's stats and everything! You can have multiple templates.\r\n\r\n\r\n[h1] HANDHELD VERSION [/h1]\r\nI also made a handheld version! [b]Press 'R' to open the tuning menu![/b] Sadly, [b]you can't make templates of it, but you can use templates created by normal adjustable guns![/b]\r\n\r\n\r\n[h1] ADJUSTABLE SETTINGS [/h1]\r\n-Projectile type\r\n-Projectile damage\r\n-Projectile velocity\r\n-How many times the projectile gets shot\r\n-Spread(unique to each projectile if more than one gets shot)\r\n-Reload time(ticks)\r\n-Whether it shoots continuously or not\r\n\r\n\r\n[h1] PROJECTILE TYPES [/h1]\r\n-Potato\r\n-Small Potato(gatling gun projectiles)\r\n-Fries\r\n-Tape\r\n-Explosive Tape\r\n-Water\r\n-Pesticide\r\n-Glowstick\r\n\r\n",
 		"fileId": 2754754406,
 		"localId": "d9e6682a-1885-44b2-9cda-11bf5fec9dac",
@@ -13701,7 +13701,7 @@
 	"e1140019-a25c-434e-b85b-99801acaad91": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "Blocks from the Jerry story the also standing 1 meter away from 0.1 micro grams of RCD for 10 seconds will give you 15,000 greys of radiation. might add parts to this mod but i most likely won't. Also if you use worlds that were created before you got the mod the textures won't work.",
 		"fileId": 2827710900,
 		"localId": "e1140019-a25c-434e-b85b-99801acaad91",
 		"name": "Jerry story blocks",
@@ -13745,6 +13745,77 @@
 		"fileId": 2827775128,
 		"localId": "140bf81c-d04c-4199-8c08-356a46d673bb",
 		"name": "my mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"c431c778-69d7-4857-a565-42ec66c81cb5": {
+		"allow_add_mods": true,
+		"creatorId": "76561198969564603",
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2827846961,
+		"localId": "c431c778-69d7-4857-a565-42ec66c81cb5",
+		"name": "Drift Wheels By shgutik31",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"587bd580-f0f5-49be-a131-02d4fda9efbb": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Add's paintable logic gates and timers to the game.",
+		"fileId": 2827855362,
+		"localId": "587bd580-f0f5-49be-a131-02d4fda9efbb",
+		"name": "Paintable Logic and Timer",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b44c52dd-05a5-46f1-b652-6f458887dffe": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2827892970,
+		"localId": "b44c52dd-05a5-46f1-b652-6f458887dffe",
+		"name": "scopes",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"e020c9d1-6ccf-47c6-a182-f7d81d34d0cc": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A mod that 4 new cool blocks!",
+		"fileId": 2827942836,
+		"localId": "e020c9d1-6ccf-47c6-a182-f7d81d34d0cc",
+		"name": "Extreme blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"c9fd20ed-6fcc-433a-8397-46ce1f42a656": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds a jelly block that is REALLY bouncy!",
+		"fileId": 2827946540,
+		"localId": "c9fd20ed-6fcc-433a-8397-46ce1f42a656",
+		"name": "Jelly Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"050846d6-c6aa-4d83-bce0-70194f16b246": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2828009029,
+		"localId": "050846d6-c6aa-4d83-bce0-70194f16b246",
+		"name": "Bouncy blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"bf8c7cf1-4713-47d5-9c3d-5b2997a80762": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2828043121,
+		"localId": "bf8c7cf1-4713-47d5-9c3d-5b2997a80762",
+		"name": "Test Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
