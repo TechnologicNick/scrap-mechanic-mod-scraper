@@ -36327,5 +36327,12 @@
 	"e020c9d1-6ccf-47c6-a182-f7d81d34d0cc": {},
 	"c9fd20ed-6fcc-433a-8397-46ce1f42a656": {},
 	"050846d6-c6aa-4d83-bce0-70194f16b246": {},
-	"bf8c7cf1-4713-47d5-9c3d-5b2997a80762": {}
+	"bf8c7cf1-4713-47d5-9c3d-5b2997a80762": {},
+	"074aa5ee-aa7e-4b4e-bac2-b68cf9560d18": {
+		"$CONTENT_074aa5ee-aa7e-4b4e-bac2-b68cf9560d18/Objects/Database/ShapeSets/parts.json": [
+			"0001aaaa-5494-11e6-beb8-9e71128cae76"
+		]
+	},
+	"c9327dce-e830-4b33-82e1-4fe539bc0dc0": {},
+	"b4712384-86d3-4f32-a1c3-729d7b1e92ab": {}
 }
