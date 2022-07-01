@@ -1,0 +1,16 @@
+services:
+  mod-scraper:
+    build: .
+    environment:
+      - STEAM_USERNAME
+      - STEAM_PASSWORD
+      - STEAM_API_KEY
+      - SKIP_UPDATE
+      - SKIP_DOWNLOAD
+    volumes:
+      - node_modules:/home/steam/app/node_modules
+      - content:/home/steam/Steam/steamapps/workshop/content/387990
+
+volumes:
+  node_modules:
+  content:

@@ -186,7 +186,17 @@ async function updateMod(appid, publishedfileid, contentfolder, changenote) {
     });
 }
 
+function getSettings() {
+    return {
+        SKIP_UPDATE: process.env.SKIP_UPDATE === "true",
+        SKIP_DOWNLOAD: process.env.SKIP_DOWNLOAD === "true",
+    }
+}
+
 (async () => {
+    const settings = getSettings();
+    console.log({ settings });
+
     const unixNow = Math.floor(new Date().getTime() / 1000);
     const request = await getPublishedFileDetails(await queryAllFiles());
 
@@ -196,7 +206,13 @@ async function updateMod(appid, publishedfileid, contentfolder, changenote) {
     let scraper = new Scraper("./mod/Scripts/data", "/home/steam/Steam/steamapps/workshop/content/387990");
     
     if (details.length >= 0) {
-        let exitCode = await downloadWorkshopItems(details.map(item => item.publishedfileid), true);
+        const ids = details.map(item => item.publishedfileid);
+
+        if (settings.SKIP_DOWNLOAD) {
+            console.warn("Found SKIP_DOWNLOAD=true environment variable, skipping downloading", ids);
+        } else {
+            const exitCode = await downloadWorkshopItems(ids, true);
+        }
         
         await scraper.scrapeDescriptions();
         await scraper.scrapeShapesets();
@@ -217,10 +233,10 @@ async function updateMod(appid, publishedfileid, contentfolder, changenote) {
             null, "\t"
         ));
 
-        if (process.env.DISABLE_UPDATE !== "true") {
-            await updateMod(387990, 2504530003, "/home/steam/app/mod", changelog.messageBB);
+        if (settings.SKIP_UPDATE) {
+            console.warn("Found SKIP_UPDATE=true environment variable, ignoring update request");
         } else {
-            console.warn("Found DISABLE_UPDATE=true environment variable, ignoring update request");
+            await updateMod(387990, 2504530003, "/home/steam/app/mod", changelog.messageBB);
         }
     } else {
         console.log("No changes found, leaving workshop mod as it is");

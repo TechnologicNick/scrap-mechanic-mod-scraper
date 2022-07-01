@@ -1,0 +1,12 @@
+services:
+  mod-scraper:
+    build: .
+    env_file: ./.env
+    volumes:
+      - node_modules:/home/steam/app/node_modules
+      - ./workshop_content/content:/home/steam/Steam/steamapps/workshop/content/
+      - ./src:/home/steam/app/src
+
+volumes:
+  node_modules:
+  content:

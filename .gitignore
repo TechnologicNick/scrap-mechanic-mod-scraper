@@ -1,4 +1,4 @@
 *.env
 changelog.json
-
+workshop_content
 node_modules
