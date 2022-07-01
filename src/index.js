@@ -16,13 +16,13 @@ const Scraper = require("./scraper");
 const GET_PUBLISHED_FILE_DETAILS_URL = "https://api.steampowered.com/ISteamRemoteStorage/GetPublishedFileDetails/v1/"
 const QUERY_FILES_URL = "https://api.steampowered.com/IPublishedFileService/QueryFiles/v1/"
 
-async function queryFiles(cursor = "*", numberPerPage = 100) {
+async function queryFiles(tag, cursor = "*", numberPerPage = 100) {
     let query = `?key=${ process.env.STEAM_API_KEY }`;
     query += `&query_type=${ SteamUser.EPublishedFileQueryType.RankedByPublicationDate }`;
     query += `&cursor=${ encodeURIComponent(cursor) }`;
     query += `&numperpage=${ numberPerPage }`;
     query += `&appid=${ 387990 }`;
-    query += `&requiredtags[0]=${ "Blocks+and+Parts" }`;
+    query += `&requiredtags[0]=${ tag }`;
     // query += `&ids_only[]=${ true }`;
 
     const response = await superagent.get(QUERY_FILES_URL + query);
@@ -36,14 +36,16 @@ async function queryFiles(cursor = "*", numberPerPage = 100) {
 async function queryAllFiles() {
     let details = [];
 
-    let data = await queryFiles();
-    details.push(...data.publishedfiledetails);
-
-    while(data.publishedfiledetails) {
-        data = await queryFiles(data.next_cursor);
-
-        if (data.publishedfiledetails) {
-            details.push(...data.publishedfiledetails);
+    for (let tag of ["Blocks+and+Parts", "Custom+Game"]) {
+        let data = await queryFiles(tag);
+        details.push(...data.publishedfiledetails);
+    
+        while(data.publishedfiledetails) {
+            data = await queryFiles(tag, data.next_cursor);
+    
+            if (data.publishedfiledetails) {
+                details.push(...data.publishedfiledetails);
+            }
         }
     }
 
