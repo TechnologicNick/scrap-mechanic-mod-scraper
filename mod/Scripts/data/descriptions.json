@@ -4246,7 +4246,7 @@
 	"3269e6ef-4d80-4f75-b8f6-dffb303e5243": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds new spudguns. They look like famous guns from WW1 and WW2.\r\nSome of them are animated so check them out if you like that kind of details!\r\n\r\nDiscord Server: https://discord.gg/QJRHhuUYsM\r\n\r\n=================================================================\r\n\r\n- 1,5 block tank visor (both round and square version)\r\n- 2 cannon breeches for decoration\r\n        + 7,5cm Pak40 (r=1)\r\n        + M6 37mm (r=0,5)\r\nBoth of them have 'shot' and 'reload' animation\r\nCompatible with Cannons Pack cannons\r\nIf the reload time is shorter than the animation, it wont be played. If its longer than animation, between taking the case out and loading a new shell the pause will be added.\r\n\r\n=================================================================\r\n\r\n{value} - delay after shoot in ticks\r\n[A] - gun is animated\r\n<value> - amount of ammo in the magazine\r\n\r\n====== NEW CONTENT ======\r\n\r\n- New Mosin 1891 model with \r\n   +shooting animation,\r\n   +reload animation,\r\n   +case ejection animation,\r\n- New M1919 model \r\n  (no animations temporary)\r\n- New soundeffects for\r\n   +Mg-42\r\n   +Mosin\r\n\r\n=== LIGHT MACHINE GUNS ===\r\n\r\n- [A] Lewis M1914  {5}\r\n- [A] Maxim M1905  {6}\r\n- M1919 .30 {5}\r\n- MG-34 {5}\r\n- [A] MG-42 {4}, <50>\r\n- DP-29 {6}\r\n- DGx03 {6}\r\n\r\n=== HEAVY MACHINE GUNS ===\r\n\r\n- [A] Browning .50 {7}\r\n- [A] Browning .50 Aircraft {7}\r\n- DSzK 12.7mm {7}\r\n\r\n====== 20mm CANNONS ======\r\n\r\n- MG 151/20 {8}\r\n- WZ.38 {10}\r\n- Hispano {10}\r\n- [A] Vulcan M61 {4}\r\n\r\n======= EXPLOSIVES ========\r\n\r\n- Bomb (proximity fuse)\r\n- Bomb 50kg\r\n- Bomb 100kg\r\n- Bomb 250kg\r\n- Anti-Tank Mine\r\n- S-Mine\r\n\r\n===== OTHER WEAPONS ======\r\n\r\n- Bazooka {120}\r\n- AK-47 {5}\r\n- [A] Mosin-Nagant 1891 {100} <5>\r\n- [A] PTRD-41 {120}\r\n- [A] Cannon {160}\r\n\r\n===========================\r\n\r\n\r\n--------------------------Credit & Copyright:----------------------------\r\nBrent Batch / DO NOT COPY without permission from \r\nBrent Batchdiscord)\r\nQuestion Mark - scripts explosive and non-explosive guns\r\n\"Alarmblock\" script is made by wingcomstriker405\r\n--------------------------------------------------------------------------\r\n",
+		"description": "=================================================================\n\nThis mod adds new spudguns. They look like famous guns from WW1 and WW2.\nSome of them are animated so check them out if you like that kind of details!\n\nDiscord Server: https://discord.gg/QJRHhuUYsM\n\n=================================================================\n\n{value} - delay after shoot in ticks\n[A] - gun is animated\n<value> - amount of ammo in the magazine\n\n====== NEW CONTENT ======\n\n- Physical shell ejecting from the breech\n- New Breech: Short Pak40\n- New visors \n- Glass added to all the visors \n\n=== LIGHT MACHINE GUNS ===\n\n- [A] Lewis M1914  {5}\n- [A] Maxim M1905  {6}\n- M1919 .30 {5}\n- MG-34 {5}\n- [A] MG-42 {4}, <50>\n- DP-29 {6}\n- DGx03 {6}\n\n=== HEAVY MACHINE GUNS ===\n\n- [A] Browning .50 {7}\n- [A] Browning .50 Aircraft {7}\n- DSzK 12.7mm {7}\n\n====== 20mm CANNONS ======\n\n- MG 151/20 {8}\n- WZ.38 {10}\n- Hispano {10}\n- [A] Vulcan M61 {4}\n\n======= EXPLOSIVES ========\n\n- Bomb (proximity fuse)\n- Bomb 50kg\n- Bomb 100kg\n- Bomb 250kg\n- Anti-Tank Mine\n- S-Mine\n\n===== OTHER WEAPONS ======\n\n- Bazooka {120}\n- AK-47 {5}\n- [A] Mosin-Nagant 1891 {100} <5>\n- [A] PTRD-41 {120}\n- [A] Cannon {160}\n\n===========================\n\n\n--------------------------Credit & Copyright:----------------------------\nBrent Batch / DO NOT COPY without permission from \nBrent Batchdiscord)\nQuestion Mark - scripts explosive and non-explosive guns\n\"Alarmblock\" script is made by wingcomstriker405\n--------------------------------------------------------------------------\n",
 		"fileId": 1903792337,
 		"localId": "3269e6ef-4d80-4f75-b8f6-dffb303e5243",
 		"name": "Machine gun",
@@ -12249,7 +12249,7 @@
 	},
 	"30f35d65-684b-45ae-9c62-4bf57325403b": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"dependencies": [
 			{
 				"fileId": 2795720853,
@@ -13883,6 +13883,26 @@
 		"fileId": 2828345433,
 		"localId": "1cf37e21-6488-4268-8a8f-a32c2449ce8b",
 		"name": "Extra Polygons mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"96aa1709-c571-4715-897f-9de9189ff859": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds Armor Blocks to Creative",
+		"fileId": 2828392076,
+		"localId": "96aa1709-c571-4715-897f-9de9189ff859",
+		"name": "Armor blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"984aca67-809c-4bb6-9487-55167fde7c87": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "adds new breakable metal block!",
+		"fileId": 2828483877,
+		"localId": "984aca67-809c-4bb6-9487-55167fde7c87",
+		"name": "destructible metal mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
