@@ -78,6 +78,9 @@ async function queryNewFiles(until, numberPerPage = 5) {
 }
 
 async function getPublishedFileDetails(ids) {
+    if (ids.length === 0) {
+        return { publishedfiledetails: [] };
+    }
 
     let formData = {
         key: process.env.STEAM_API_KEY,
@@ -190,6 +193,7 @@ function getSettings() {
     return {
         SKIP_UPDATE: process.env.SKIP_UPDATE === "true",
         SKIP_DOWNLOAD: process.env.SKIP_DOWNLOAD === "true",
+        SKIP_QUERY: process.env.SKIP_QUERY === "true",
     }
 }
 
@@ -198,25 +202,31 @@ function getSettings() {
     console.log({ settings });
 
     const unixNow = Math.floor(new Date().getTime() / 1000);
-    const request = await getPublishedFileDetails(await queryAllFiles());
-
-    let lastUpdated = JSON.parse(await fs.promises.readFile("./mod/Scripts/data/last_update.json")).unix_timestamp;
-    let details = request.publishedfiledetails.filter(item => item.time_created > lastUpdated || item.time_updated > lastUpdated)
+    const lastUpdated = JSON.parse(await fs.promises.readFile("./mod/Scripts/data/last_update.json")).unix_timestamp;
     
-    let scraper = new Scraper("./mod/Scripts/data", "/home/steam/Steam/steamapps/workshop/content/387990");
+    const scraper = new Scraper("./mod/Scripts/data", "/home/steam/Steam/steamapps/workshop/content/387990");
     
-    if (details.length >= 0) {
-        const ids = details.map(item => item.publishedfileid);
+    let queriedFiles = [];
+    if (settings.SKIP_QUERY) {
+        console.warn("Found SKIP_QUERY=true environment variable, skipping querying all files");
+    } else {
+        queriedFiles = await queryAllFiles();
+    }
 
+    const request = await getPublishedFileDetails(queriedFiles);
+    const details = request.publishedfiledetails.filter(item => item.time_created > lastUpdated || item.time_updated > lastUpdated)
+    const ids = details.map(item => item.publishedfileid);
+    
+    if (details.length > 0) {
         if (settings.SKIP_DOWNLOAD) {
             console.warn("Found SKIP_DOWNLOAD=true environment variable, skipping downloading", ids);
         } else {
             const exitCode = await downloadWorkshopItems(ids, true);
         }
-        
-        await scraper.scrapeDescriptions();
-        await scraper.scrapeShapesets();
     }
+    
+    await scraper.scrapeDescriptions();
+    await scraper.scrapeShapesets();
 
     let changelog = scraper.createChangelog(details);
 

@@ -191,7 +191,7 @@ module.exports = class Scraper {
                     ?? Object.values(this.dbDescriptions.data).find(desc => desc.fileId === id)?.name // from description in database
                     ?? details.find(det => det.publishedfileid === id)?.title // from getPublishedFileDetails
                     ?? "Error: Failed getting name";
-                let time_updated = details.find(det => det.publishedfileid === id).time_updated;
+                let time_updated = details.find(det => det.publishedfileid === id)?.time_updated;
                 let url = `https://steamcommunity.com/sharedfiles/filedetails/changelog/${ id }#${ time_updated || "" }`;
 
                 obj.messageMD += `* ${ name } ([changelog](${ url }))\n`;
