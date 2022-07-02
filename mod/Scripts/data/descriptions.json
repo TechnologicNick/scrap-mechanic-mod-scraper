@@ -13879,7 +13879,7 @@
 	"1cf37e21-6488-4268-8a8f-a32c2449ce8b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "some extra wedges and curves that don't exist in the modpack polygons",
+		"description": "some extra wedges and curves that don't exist in the modpack polygons\r\n\r\nstill WIP, still doesn't contain many parts",
 		"fileId": 2828345433,
 		"localId": "1cf37e21-6488-4268-8a8f-a32c2449ce8b",
 		"name": "Extra Polygons mod",
@@ -13941,6 +13941,16 @@
 		"fileId": 2828641862,
 		"localId": "c7dbd76d-eac5-4cd8-970c-1fc31a46b4c6",
 		"name": "cooper mod  2",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"85f7a979-1654-4c85-8f83-5275f4890825": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "The mod you would need for quick flight control, remotely.\nGuaranteed Flight Mode for Players when this item is used.\n\n[h1]Item Features[/h1]\n[b]Flight Controller (Recap from Thumbnail):[/b]\nLeft Click: Hovering - Players in Flying Mode\nRight Click: Grounded - Players in Land Mode\n\nNote: What's not recapped from Thumbnail is the Booster feature. Just left click again and hold to speed up and nocclips you forward.\n\n[b]Alternative Booster:[/b]\nLeft Click:\n> While Flying noclips you forward.\n> While Grounded increases speed Multiplier.\nRight Click:\n> While Flying noclips you backward.\n> While Grounded decreases speed Multiplier.\n\n[b]Recenter:[/b]\nA click always returns you to x = 0, y = 0, z = 0.\n\nNote: In case if you get thrown into the void for a weird reason.\n\n[b]Custom Teleporter:[/b]\nRight Click to set your position first.\nLeft click after to teleport back to that said position.\n\nNote: Yeah... Creators can get super creative. It'll be a gift for them.\n\nThose clicks depends on what you want.",
+		"fileId": 2828929740,
+		"localId": "85f7a979-1654-4c85-8f83-5275f4890825",
+		"name": "Flight Tool",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
