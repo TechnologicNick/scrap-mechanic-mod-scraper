@@ -24,12 +24,54 @@ module.exports = class Scraper {
         this.dbShapesets = new Database(path.join(this.outDir, "shapesets.json"));
     }
 
+    async getIdsToScrape() {
+        return await fs.promises.readdir(this.sourceDir);
+    }
+
+    getLocalId(publishedfileid, fatal = false) {
+        const localId = this.idToUuid[publishedfileid] // from description that just got scraped
+            ?? Object.values(this.dbDescriptions.data).find(desc => desc.fileId === publishedfileid)?.localId; // from description in database
+
+        if (!localId) {
+            if (fatal) {
+                throw new Error(`No localId found for mod with publishedfileid=${publishedfileid}`);
+            } else {
+                console.log(`[Error] No localId found for mod with publishedfileid=${publishedfileid}`);
+            }
+        }
+
+        return localId;
+    }
+
+    async handlePossibleChange(database, publishedfileid, localId, newData, name) {
+        // Changelog
+        // Check if mod already has an entry
+        if (database.data[localId]) {
+
+            // Check if the shapesets changed
+            if (JSONbig.stringify(database.data[localId]) !== JSONbig.stringify(newData)) {
+                console.log(`[${publishedfileid}] Updated ${name}`);
+
+                this.changes.updated.add(publishedfileid);
+            } else {
+                console.log(`[${publishedfileid}] Did not update ${name}`);
+            }
+
+        } else {
+            console.log(`[${publishedfileid}] Added ${name}`);
+
+            this.changes.added.add(publishedfileid); 
+        }
+
+        database.data[localId] = newData;
+    }
+
     async scrapeDescriptions() {
         await this.dbDescriptions.load();
 
-        for (let id of await fs.promises.readdir(this.sourceDir)) {
+        for (let publishedfileid of await this.getIdsToScrape()) {
             try {
-                let full = path.join(this.sourceDir, id);
+                let full = path.join(this.sourceDir, publishedfileid);
 
                 let desc = JSONbig.parse(
                     stripJsonComments(
@@ -38,32 +80,14 @@ module.exports = class Scraper {
                         )).toString()
                     )
                 );
+                const localId = desc.localId;
 
-                this.idToUuid[id] = desc.localId;
+                this.idToUuid[publishedfileid] = localId;
 
-                // Changelog
-                // Check if mod already has an entry
-                if (this.dbDescriptions.data[desc.localId]) {
-
-                    // Check if the description changed
-                    if (JSONbig.stringify(this.dbDescriptions.data[desc.localId]) !== JSONbig.stringify(desc)) {
-                        console.log(`[${id}] Updated description`);
-
-                        this.changes.updated.add(id);
-                    } else {
-                        console.log(`[${id}] Did not update description`);
-                    }
-
-                } else {
-                    console.log(`[${id}] Added description`);
-
-                    this.changes.added.add(id); 
-                }
-
-                this.dbDescriptions.data[desc.localId] = desc;
+                this.handlePossibleChange(this.dbDescriptions, publishedfileid, localId, desc, "description");
 
             } catch (ex) {
-                console.error(`Error reading description.json of ${id}:\n`, ex);
+                console.error(`Error reading description.json of ${publishedfileid}:\n`, ex);
             }
         }
 
@@ -73,16 +97,11 @@ module.exports = class Scraper {
     async scrapeShapesets() {
         await this.dbShapesets.load();
 
-        for (let id of await fs.promises.readdir(this.sourceDir)) {
+        for (let publishedfileid of await this.getIdsToScrape()) {
             try {
-                let localId = this.idToUuid[id] // from description that just got scraped
-                    ?? Object.values(this.dbDescriptions.data).find(desc => desc.fileId === id)?.localId; // from description in database
-                
-                if (!localId) {
-                    console.error(`No localId found for mod with id=${id}`);
-                }
+                let localId = this.getLocalId(publishedfileid, false);
 
-                let shapesets = path.join(this.sourceDir, id, "Objects", "Database", "ShapeSets");
+                let shapesets = path.join(this.sourceDir, publishedfileid, "Objects", "Database", "ShapeSets");
 
                 let shapesetFiles = {}
 
@@ -107,37 +126,18 @@ module.exports = class Scraper {
     
     
                         } catch (ex) {
-                            console.error(`Error reading shapeset file "${shapesetJson}" of ${id}:\n`, ex);
+                            console.error(`Error reading shapeset file "${shapesetJson}" of ${publishedfileid}:\n`, ex);
                         }
                     }
                 } else {
-                    console.warn(`ShapeSets directory not found for ${id}`);
+                    console.warn(`ShapeSets directory not found for ${publishedfileid}`);
                 }
 
 
-                // Changelog
-                // Check if mod already has an entry
-                if (this.dbShapesets.data[localId]) {
-
-                    // Check if the shapesets changed
-                    if (JSONbig.stringify(this.dbShapesets.data[localId]) !== JSONbig.stringify(shapesetFiles)) {
-                        console.log(`[${id}] Updated shapesets`);
-
-                        this.changes.updated.add(id);
-                    } else {
-                        console.log(`[${id}] Did not update shapesets`);
-                    }
-
-                } else {
-                    console.log(`[${id}] Added shapesets`);
-
-                    this.changes.added.add(id); 
-                }
-
-                this.dbShapesets.data[localId] = shapesetFiles;
+                this.handlePossibleChange(this.dbShapesets, publishedfileid, localId, shapesetFiles, "shapesets");
 
             } catch (ex) {
-                console.error(`Error reading shapesets of ${id}\n`, ex);
+                console.error(`Error reading shapesets of ${publishedfileid}\n`, ex);
             }
         }
 
