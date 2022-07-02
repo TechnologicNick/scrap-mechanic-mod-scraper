@@ -75,7 +75,7 @@ async function getPublishedFileDetails(ids) {
     });
 
     let response = await request;
-    
+
     return response.body.response;
 }
 
@@ -108,19 +108,41 @@ function downloadWorkshopItems(ids, makeScript = false) {
 
 
 
-        let ls = cp.spawn("/home/steam/steamcmd/steamcmd.sh", params);
+        const idsLeft = [...ids];
+        const ls = cp.spawn("/home/steam/steamcmd/steamcmd.sh", params, { timeout: 5 * 60000 });
     
         ls.stdout.on("data", function (data) {
-            console.log("stdout: " + data.toString());
+            console.log(`[pid=${ls.pid}] stdout: ${data.toString()}`);
+
+            const downloadedId = (/Success. Downloaded item (?<id>\d+) to/g).exec(data.toString())?.groups?.id;
+            if (downloadedId) {
+                const foundIndex = idsLeft.findIndex(failedId => failedId == downloadedId);
+                idsLeft.splice(foundIndex, 1);
+                console.log(`[pid=${ls.pid}] Detected successful download of ${downloadedId}. Amount left: ${idsLeft.length}`);
+            }
+
+            if (data.toString().match(/ERROR! Not logged on./g)) {
+                console.log(`[pid=${ls.pid}] Detected not logged on. Killing process to prevent script restart. Amount left: ${idsLeft.length}`);
+                ls.kill();
+
+                resolve({
+                    exitcode: 1,
+                    failedIds: idsLeft,
+                });
+            }
         });
     
         ls.stderr.on("data", function (data) {
-            console.log("stderr: " + data.toString());
+            console.log(`[pid=${ls.pid}] stderr: ${data.toString()}`);
         });
     
         ls.on("exit", function (code) {
-            console.log("child process exited with code " + code.toString());
-            resolve(code);
+            console.log(`[pid=${ls.pid}] child process exited with code ${code?.toString()}`);
+            console.log(`[pid=${ls.pid}] Resolving with`, idsLeft.length);
+            resolve({
+                exitcode: code,
+                failedIds: idsLeft,
+            });
         });
     });
 }
@@ -169,6 +191,7 @@ function getSettings() {
         SKIP_UPDATE: process.env.SKIP_UPDATE === "true",
         SKIP_DOWNLOAD: process.env.SKIP_DOWNLOAD === "true",
         SKIP_QUERY: process.env.SKIP_QUERY === "true",
+        SKIP_PRESENT: process.env.SKIP_PRESENT === "true",
     }
 }
 
@@ -177,7 +200,7 @@ function getSettings() {
     console.log({ settings });
 
     const unixNow = Math.floor(new Date().getTime() / 1000);
-    const lastUpdated = JSON.parse(await fs.promises.readFile("./mod/Scripts/data/last_update.json")).unix_timestamp;
+    const lastUpdated = JSON.parse(await fs.promises.readFile("./mod/Scripts/data/last_update.json"));
     
     const scraper = new Scraper("./mod/Scripts/data", "/home/steam/Steam/steamapps/workshop/content/387990");
     
@@ -189,14 +212,34 @@ function getSettings() {
     }
 
     const request = await getPublishedFileDetails(queriedFiles);
-    const details = request.publishedfiledetails.filter(item => item.time_created > lastUpdated || item.time_updated > lastUpdated)
-    const ids = details.map(item => item.publishedfileid);
+    console.log({ request });
+    const details = request.publishedfiledetails.filter(item => (
+        !lastUpdated.items?.[item.publishedfileid] || item.time_updated > lastUpdated.items[item.publishedfileid]
+    ));
+    let ids = details.map(item => item.publishedfileid);
+
+    if (settings.SKIP_PRESENT) {
+        const presentIds = await fs.promises.readdir("/home/steam/Steam/steamapps/workshop/content/387990");
+        console.warn("Found SKIP_PRESENT=true environment variable, skipping downloading present", presentIds);
+
+        ids = ids.filter(id => !presentIds.includes(id));
+    }
     
     if (details.length > 0) {
         if (settings.SKIP_DOWNLOAD) {
             console.warn("Found SKIP_DOWNLOAD=true environment variable, skipping downloading", ids);
         } else {
-            const exitCode = await downloadWorkshopItems(ids, true);
+            let idsLeft = ids;
+
+            while (idsLeft.length > 0) {
+                const { exitcode, failedIds } = await downloadWorkshopItems(idsLeft, true);
+
+                if (failedIds.length > 0) {
+                    console.log("Failed to download some items, retrying to download", failedIds);
+                }
+                
+                idsLeft = failedIds;
+            }
         }
     }
     
@@ -213,7 +256,11 @@ function getSettings() {
 
         await fs.promises.writeFile("./mod/Scripts/data/last_update.json", JSON.stringify(
             {
-                unix_timestamp: unixNow
+                unix_timestamp: unixNow,
+                items: {
+                    ...lastUpdated.items,
+                    ...Object.fromEntries(details.map(item => ([ item.publishedfileid, item.time_updated ]))),
+                },
             },
             null, "\t"
         ));
