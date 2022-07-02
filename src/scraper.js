@@ -94,50 +94,100 @@ module.exports = class Scraper {
         await this.dbDescriptions.save();
     }
 
+    resolveContentPath(contentPath, publishedfileid, localId) {
+        const modDir = path.join(this.sourceDir, publishedfileid);
+
+        const resolved = contentPath
+            .replace("$MOD_DATA", modDir)
+            .replace("$CONTENT_DATA", modDir)
+            .replace(`$CONTENT_${localId}`, modDir)
+
+        if (resolved.startsWith("$")) {
+            return null;
+        }
+
+        return resolved;
+    }
+
     async scrapeShapesets() {
         await this.dbShapesets.load();
 
-        for (let publishedfileid of await this.getIdsToScrape()) {
+        for (const publishedfileid of await this.getIdsToScrape()) {
             try {
-                let localId = this.getLocalId(publishedfileid, false);
+                const localId = this.getLocalId(publishedfileid, true);
+                const description = this.dbDescriptions.data[localId];
 
-                let shapesets = path.join(this.sourceDir, publishedfileid, "Objects", "Database", "ShapeSets");
+                const shapesetFiles = {}
+                const parseShapeset = async (filename) => {
+                    try {
+                        const shapeset = JSON.parse(
+                            stripJsonComments(
+                                await (await fs.promises.readFile(filename)).toString()
+                            )
+                        );
 
-                let shapesetFiles = {}
+                        const shapeUuids = [];
 
-                if (fs.existsSync(shapesets)){
-                    for (let shapesetJson of (await fs.promises.readdir(shapesets)).filter(f => f.endsWith(".json"))) {
-                        try {
-                            let shapeset = JSON.parse(
-                                stripJsonComments(
-                                    await (await fs.promises.readFile(
-                                        path.join(shapesets, shapesetJson)
-                                    )).toString()
-                                )
-                            );
-    
-                            let shapeUuids = [];
-    
-                            for (let shape of [].concat(shapeset.partList ?? [], shapeset.blockList ?? [])) {
-                                shapeUuids.push(shape.uuid);
-                            }
-    
-                            shapesetFiles[`$CONTENT_${localId}/Objects/Database/ShapeSets/${shapesetJson}`] = shapeUuids;
-    
-    
-                        } catch (ex) {
-                            console.error(`Error reading shapeset file "${shapesetJson}" of ${publishedfileid}:\n`, ex);
+                        for (const shape of [].concat(shapeset.partList ?? [], shapeset.blockList ?? [])) {
+                            shapeUuids.push(shape.uuid);
                         }
+
+                        const modDir = path.join(this.sourceDir, publishedfileid);
+                        const absolute = path.resolve(modDir, filename);
+                        if (!path.isAbsolute(absolute)) {
+                            throw new Error(`Unable to resolve path "${absolute}" to an absolute path`);
+                        }
+
+                        shapesetFiles[absolute.replace(modDir, `$CONTENT_${localId}`)] = shapeUuids;
+
+                    } catch (ex) {
+                        console.log(`[Error] Failed reading shapeset file "${filename}" of ${publishedfileid}:\n`, ex);
                     }
-                } else {
-                    console.warn(`ShapeSets directory not found for ${publishedfileid}`);
+                }
+
+                if (
+                    !description
+                    || !description.type
+                    || description.type === "Blocks and Parts"
+                ) {
+                    const shapesets = path.join(this.sourceDir, publishedfileid, "Objects", "Database", "ShapeSets");
+                    if (fs.existsSync(shapesets)){
+                        for (const shapesetJson of (await fs.promises.readdir(shapesets)).filter(f => f.endsWith(".json")).sort()) {
+                            await parseShapeset(path.join(shapesets, shapesetJson))
+                        }
+                    } else {
+                        console.log(`[Warning] ShapeSets directory not found for ${publishedfileid}`);
+                    }
+
+                } else if (description.type === "Custom Game") {
+
+                    const shapedb = path.join(this.sourceDir, publishedfileid, "Objects", "Database", "shapesets.shapedb");
+                    if (fs.existsSync(shapedb)){
+                        const { shapeSetList } = JSON.parse(
+                            stripJsonComments(
+                                await (await fs.promises.readFile(shapedb)).toString()
+                            )
+                        );
+
+                        if (shapeSetList) {
+                            shapeSetList
+                                .sort()
+                                .map(shapeset => this.resolveContentPath(shapeset, publishedfileid, localId))
+                                .filter(shapeset => shapeset)
+                                .forEach(async (shapeset) => await parseShapeset(shapeset));
+                        } else {
+                            console.log(`[Warning] shapesets.shapedb file has no "shapeSetList" key for ${publishedfileid}`);
+                        }
+                    } else {
+                        console.log(`[Warning] shapesets.shapedb file not found for ${publishedfileid}`);
+                    }
                 }
 
 
                 this.handlePossibleChange(this.dbShapesets, publishedfileid, localId, shapesetFiles, "shapesets");
 
             } catch (ex) {
-                console.error(`Error reading shapesets of ${publishedfileid}\n`, ex);
+                console.log(`[Error] Failed scraping shapesets of ${publishedfileid}\n`, ex);
             }
         }
 
