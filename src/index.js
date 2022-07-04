@@ -193,6 +193,7 @@ function getSettings() {
         SKIP_QUERY: process.env.SKIP_QUERY === "true",
         SKIP_PRESENT: process.env.SKIP_PRESENT === "true",
         MANUAL_DOWNLOAD: process.env.MANUAL_DOWNLOAD?.split(/[^\d+]/g)?.filter(id => id.length > 0).map(id => parseInt(id)) ?? [],
+        DOWNLOAD_SINCE: process.env.DOWNLOAD_SINCE ? parseInt(process.env.DOWNLOAD_SINCE) : null,
     }
 }
 
@@ -214,6 +215,7 @@ function getSettings() {
     console.log({ request });
     let ids = request.publishedfiledetails.filter(item => (
         settings.MANUAL_DOWNLOAD.includes(parseInt(item.publishedfileid))
+        || (settings.DOWNLOAD_SINCE && item.time_updated >= settings.DOWNLOAD_SINCE)
         || !lastUpdated.items?.[item.publishedfileid]
         || item.time_updated > lastUpdated.items[item.publishedfileid]
     )).map(item => item.publishedfileid);
