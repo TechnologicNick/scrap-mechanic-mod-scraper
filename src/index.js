@@ -215,9 +215,14 @@ function getSettings() {
     console.log({ request });
     let ids = request.publishedfiledetails.filter(item => (
         settings.MANUAL_DOWNLOAD.includes(parseInt(item.publishedfileid))
-        || (settings.DOWNLOAD_SINCE && item.time_updated >= settings.DOWNLOAD_SINCE)
-        || !lastUpdated.items?.[item.publishedfileid]
-        || item.time_updated > lastUpdated.items[item.publishedfileid]
+        || (
+            settings.DOWNLOAD_SINCE // If DOWNLOAD_SINCE is set, only download since DOWNLOAD_SINCE
+                ? item.time_updated >= settings.DOWNLOAD_SINCE
+                : ( // Otherwise, download items that have never been downloaded before or have been updated since the last download
+                    !lastUpdated.items?.[item.publishedfileid]
+                    || item.time_updated > lastUpdated.items[item.publishedfileid]
+                )
+        )
     )).map(item => item.publishedfileid);
 
     const presentIds = await fs.promises.readdir("/home/steam/Steam/steamapps/workshop/content/387990");
