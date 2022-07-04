@@ -176,8 +176,10 @@ module.exports = class Scraper {
                 if (
                     !description
                     || !description.type
-                    || (description.type === "Blocks and Parts" && description.version !== 1)
+                    || description.type !== "Custom Game" // Using *.json is not allowed in Custom Games
                 ) {
+                    // Parse shapesets found in `$CONTENT_DATA/Objects/Database/ShapeSets/*.json`
+
                     const shapesets = path.join(this.sourceDir, publishedfileid, "Objects", "Database", "ShapeSets");
                     if (fs.existsSync(shapesets)){
                         for (const shapesetJson of (await fs.promises.readdir(shapesets)).filter(f => f.endsWith(".json"))) {
@@ -187,7 +189,10 @@ module.exports = class Scraper {
                         console.log(`[Warning] ShapeSets directory not found for ${publishedfileid}`);
                     }
 
-                } else if (description.type === "Custom Game" || (description.type === "Blocks and Parts" && description.version === 1)) {
+                }
+
+                {
+                    // Parse shapesets found in `$CONTENT_DATA/Objects/Database/shapesets.shapedb`
 
                     const shapedb = path.join(this.sourceDir, publishedfileid, "Objects", "Database", "shapesets.shapedb");
                     if (fs.existsSync(shapedb)){
