@@ -214,7 +214,9 @@ module.exports = class Scraper {
                             console.log(`[Warning] shapesets.shapedb file has no "shapeSetList" key for ${publishedfileid}`);
                         }
                     } else {
-                        console.log(`[Warning] shapesets.shapedb file not found for ${publishedfileid}`);
+                        if (description?.type === "Custom Game") {
+                            console.log(`[Warning] shapesets.shapedb file not found for ${publishedfileid}`);
+                        }
                     }
                 }
 
