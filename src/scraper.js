@@ -176,7 +176,7 @@ module.exports = class Scraper {
                 if (
                     !description
                     || !description.type
-                    || description.type === "Blocks and Parts"
+                    || (description.type === "Blocks and Parts" && description.version !== 1)
                 ) {
                     const shapesets = path.join(this.sourceDir, publishedfileid, "Objects", "Database", "ShapeSets");
                     if (fs.existsSync(shapesets)){
@@ -187,7 +187,7 @@ module.exports = class Scraper {
                         console.log(`[Warning] ShapeSets directory not found for ${publishedfileid}`);
                     }
 
-                } else if (description.type === "Custom Game") {
+                } else if (description.type === "Custom Game" || (description.type === "Blocks and Parts" && description.version === 1)) {
 
                     const shapedb = path.join(this.sourceDir, publishedfileid, "Objects", "Database", "shapesets.shapedb");
                     if (fs.existsSync(shapedb)){
