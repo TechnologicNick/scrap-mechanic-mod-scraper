@@ -121,6 +121,16 @@ function downloadWorkshopItems(ids, makeScript = false) {
                 console.log(`[pid=${ls.pid}] Detected successful download of ${downloadedId}. Amount left: ${idsLeft.length}`);
             }
 
+            if (data.toString().match(/ERROR! Download item (?<id>\d+) failed \(I\/O Operation Failed\)/g)) {
+                console.log(`[pid=${ls.pid}] Detected I/O Operation Failed. Stopping downloading to prevent infinite loop. Amount left: ${idsLeft.length}`);
+                ls.kill();
+
+                reject({
+                    exitcode: 1,
+                    failedIds: idsLeft,
+                });
+            }
+
             if (data.toString().match(/ERROR! Not logged on./g)) {
                 console.log(`[pid=${ls.pid}] Detected not logged on. Killing process to prevent script restart. Amount left: ${idsLeft.length}`);
                 ls.kill();
