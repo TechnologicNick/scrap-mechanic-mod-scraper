@@ -10,7 +10,7 @@ services:
       - DOWNLOAD_SINCE
     volumes:
       - node_modules:/home/steam/app/node_modules
-      - content:/home/steam/Steam/steamapps/workshop/content/387990
+      - content:/home/steam/Steam/steamapps/workshop/content/
 
 volumes:
   node_modules:
