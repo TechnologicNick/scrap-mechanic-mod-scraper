@@ -5178,8 +5178,8 @@
 		"version": 0
 	},
 	"54b3fd71-dfc0-4a01-a5fb-0d85886676a6": {
-		"description": "DOWNLOAD NEWER VERSION IF MOD DISAPPEARED\n\nyou can help me if you think you are the right person to do it\n\nusing references is recommended.\nthere is a list of things that i will NOT add, but i thought i could.\n\nyes i'm no longer working on this, i need something more ಠ╭╮ಠ\n\n\n\nit is almost a year from the start and makin mods is harder not easier\nalso, corona exists\ncorona exists",
-		"fileId": 2291340419,
+		"description": "you can help me if you are a good modder\n\nusing references is recommended.\nfun fact this mod adds things never added even in modpack\nlist.txt - list of things that i will add.\n\ni can't make: lego music player",
+		"fileId": 2164584609,
 		"localId": "54b3fd71-dfc0-4a01-a5fb-0d85886676a6",
 		"name": "Lego Parts",
 		"type": "Blocks and Parts",
@@ -5909,11 +5909,13 @@
 		"version": 0
 	},
 	"50ee5ce2-9583-4a6e-b3da-b5c187cd798c": {
-		"description": "MODPACK UPDATED!\n\nYour Survival Game more FUN And DANGEROUS!\n\n[img]https://steamusercontent-a.akamaihd.net/ugc/933807031682165938/34CBC07D7ED73B6282B3F7AF2E3D47BB462BF9B1/[/img]\n\nSubscribe, rate and favorite! :)\n\n[TO INSTALL]\nCopy and paste all files and folders to your Scrap Mechanic folder. \nUsually found in C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\n\n[TO UPDATE]\nCopy and paste all files and folders to your Scrap Mechanic folder. \nUsually found in C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\n\nBugs? Suggestions?\nhttps://steamcommunity.com/sharedfiles/filedetails/discussions/2126594034\n\nThank you for using Modscrap!",
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Essentials items and modifications for your survival game.\n\n[img]https://steamusercontent-a.akamaihd.net/ugc/933807031682165938/34CBC07D7ED73B6282B3F7AF2E3D47BB462BF9B1/[/img]\n\nSubscribe, rate and favorite! :)\n\nBugs? Suggestions?\nhttps://steamcommunity.com/sharedfiles/filedetails/discussions/2126594034\n\nThanks for using Modscrap!",
 		"fileId": 2126594034,
 		"localId": "50ee5ce2-9583-4a6e-b3da-b5c187cd798c",
-		"name": "Modscrap [Survival Modpack]",
-		"type": "Blocks and Parts",
+		"name": "Modscrap [Custom Game]",
+		"type": "Custom Game",
 		"version": 0
 	},
 	"bc3e3a47-4a2c-4cb5-912c-c4d9e396c68f": {
@@ -6375,8 +6377,8 @@
 		"version": 0
 	},
 	"9fd8403c-8e92-48ea-a9c1-151c70b44a05": {
-		"description": "#FFFFFFthis is my first uploaded mod so sorry if there are problems there is a text document in the folder were it downloads to ",
-		"fileId": 2167409074,
+		"description": "#FFFFFFthis is my first uploaded mod so sorry if there are problems there is a text document in the folder were it downloads to GLOW BUDDY NOT included that is a mod made by fawx ",
+		"fileId": 2167158561,
 		"localId": "9fd8403c-8e92-48ea-a9c1-151c70b44a05",
 		"name": "katana mod (hammer reskin)",
 		"type": "Blocks and Parts",
@@ -6539,7 +6541,8 @@
 		"localId": "45342470-e1b4-428b-b4ea-f50997410d9a",
 		"name": "lol",
 		"type": "Blueprint",
-		"version": 0
+		"version": 0,
+		"fileId": 2199973284
 	},
 	"a0832dd3-a906-4810-8d33-a45befb22e64": {
 		"description": "[h1]     There is the Dev mode + Godmode  [/h1]\n[b]This mod allows you to have developer mode and be in godmode ![/b]\n\n[h1] To install it : [/h1]\n1- Go to\n[code]C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2201945254\\THE MOD IS IN THIS FOLDER[/code]\n2- Copy the Survival folder\n3- Paste it in the Scrap Mechanic folder\n\n[h1] To uninstall it : [/h1]\n1- Go to\n[code]C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2201945254\\THE MOD IS IN THIS FOLDER\\MAIN[/code]\n2- Copy the Survival folder\n3- Paste it in the Scrap Mechanic folder\n\n[h1] Commands you can do : [/h1]\n[list][*]/ammo : Give ammo (default 50)\n[*]/spudgun : Give the spudgun\n[*]/gatling : Give the potato gatling gun\n[*]/shotgun : Give the fries shotgun\n[*]/sunshake : Give 1 sunshake\n[*]/baguette : Give 1 revival baguette\n[*]/keycard : Give 1 keycard\n[*]/powercore : Give 1 powercore\n[*]/components : Give <quantity> components (default 10)\n[*]/glowsticks : Give <quantity> glowsticks (default 10)\n[*]/tumble : Set tumble state\n[*]/god : Mechanic characters will take no damage\n[*]/respawn : Respawn at last bed (or at the crash site)\n[*]/encrypt : Restrict interactions in all warehouses\n[*]/decrypt : Unrestrict interactions in all warehouses\n[*]/limited : Use the limited inventory\n[*]/unlimited : Use the unlimited inventory\n[*]/ambush : Starts a 'random' encounter\n[*]/recreate : Recreate world\n[*]/timeofday : Sets the time of the day as a fraction (0.5=mid day)\n[*]/timeprogress : Enables or disables time progress\n[*]/day : Disable time progression and set time to daytime\n[*]/spawn : Spawn a unit: 'woc', 'tapebot', 'totebot', 'haybot'\n[*]/harvestable : Create a harvestable: 'tree', 'stone'\n[*]/cleardebug : Clear debug draw objects\n[*]/export : Exports blueprint $SURVIVAL_DATA/LocalBlueprints/<name>.blueprint\n[*]/import : Imports blueprint $SURVIVAL_DATA/LocalBlueprints/<name>.blueprint\n[*]/starterkit : Spawn a starter kit\n[*]/mechanicstartkit : Spawn a starter kit for starting at mechanic station\n[*]/pipekit : Spawn a pipe kit\n[*]/food",
@@ -9183,7 +9186,7 @@
 	"f2c8745f-439e-4af4-baf4-58f8481de35d": {
 		"creatorId": "76561198043754265",
 		"description": "this mod includes the normal sized pipes and the large pipes in all the vanilla shapes with a flat texture! it also includes 2 special textured blocks i created!\n\n\nthank you heyjude1971 for all the help you gave me which was alot on this mod!",
-		"fileId": 0,
+		"fileId": 912110028,
 		"localId": "f2c8745f-439e-4af4-baf4-58f8481de35d",
 		"name": "The Stuff Pack",
 		"type": "Blocks and Parts"
@@ -10119,7 +10122,7 @@
 	},
 	"80c03d36-3b44-49e1-b890-52b3fc3c6284": {
 		"description": "This mod doesn't have a description",
-		"fileId": 2784481999,
+		"fileId": 2511115769,
 		"localId": "80c03d36-3b44-49e1-b890-52b3fc3c6284",
 		"name": "Bus seats and fabrics mod",
 		"type": "Blocks and Parts",
@@ -12318,7 +12321,7 @@
 		"version": 0
 	},
 	"ac8c2385-c712-4d2e-bc65-e60f9d84ee26": {
-		"description": "This is a simple mod that has varius accesories for Planebuilding and flying\n",
+		"description": "This is a simple mod that has varius accesories for Planebuilding and flying\n\nStill in development (Unfinished)",
 		"fileId": 2789483005,
 		"localId": "ac8c2385-c712-4d2e-bc65-e60f9d84ee26",
 		"name": "DJGamer's Plane Tools",
@@ -12519,7 +12522,7 @@
 	},
 	"0455227d-43c8-4429-a64c-6d7ece485dee": {
 		"description": "This brings Aerodynamics to SM using flight scripts.",
-		"fileId": 2810869804,
+		"fileId": 2796796078,
 		"localId": "0455227d-43c8-4429-a64c-6d7ece485dee",
 		"name": "Aero Mod",
 		"type": "Blocks and Parts",
@@ -12595,7 +12598,8 @@
 		"name": "Raft Mod",
 		"type": "Blocks and Parts",
 		"version": 0,
-		"fileModVersion": 1.11
+		"fileModVersion": 1.11,
+		"fileId": 2799002815
 	},
 	"b5387bb1-ccae-4b61-b9cb-51ff2d68b0f2": {
 		"description": "This mod doesn't have a description",
@@ -13267,7 +13271,8 @@
 		"localId": "e753fe03-bf3d-40e6-8976-9a819d93df47",
 		"name": "sigma",
 		"type": "Blueprint",
-		"version": 0
+		"version": 0,
+		"fileId": 2821755229
 	},
 	"b4fd3581-4f15-4624-8bc8-f2fef59000ea": {
 		"allow_add_mods": true,
@@ -13611,7 +13616,7 @@
 	"c4a68b3d-ba8f-4ccc-9d10-5557c6eac9a1": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This Mod adds wheels that will stick to stuff. To activate the wheels, you need a logic signal. You can control the strength and radius of the wheels when you interact with them.\r\n\r\nThis mod has [b]crafting recipes[/b], so you can add them to any custom game mod that uses [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Modded Craftbot Recipes[/url] such as Raft Mechanic.\r\n\r\nIf the recipes don't show up, resubscribe to the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2504530003]Mod Database[/url]",
+		"description": "This Mod adds wheels that will stick to stuff. To activate the wheels, you need a logic signal. You can control the strength and radius of the wheels when you interact with them.\r\n\r\nFor best results make sure that no blocks of your car are above or under your wheel.\r\n\r\nThis mod has [b]crafting recipes[/b], so you can add them to any custom game mod that uses [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Modded Craftbot Recipes[/url] such as Raft Mechanic.\r\n\r\nChange log:\r\n1.1: Improved mesh and textures",
 		"fileId": 2826205992,
 		"localId": "c4a68b3d-ba8f-4ccc-9d10-5557c6eac9a1",
 		"name": "Sticky Wheels",
@@ -13852,19 +13857,12 @@
 	"d9fe4eec-1449-4a84-bf99-4478a7c6dd1c": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"dependencies": [
-			{
-				"fileId": 2820096455,
-				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
-				"name": "Fant Mod 2 Custom Gamemode"
-			}
-		],
-		"description": "This mod doesn't have a description",
-		"fileId": 2828043121,
+		"description": "[h1] FANT MOD 2 CUSTOM GAMEMODE  [/h1]\r\nNo File edit needed.\r\n[hr][/hr]\r\nKnow Issue: With Unnormal Screen Ratios the Modded Hud can be \"Offcenter\", in that case just \"/fant 0\" to turn the Modded Hud Off\r\n[hr][/hr]\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n[hr][/hr]\r\nFile Mod Version Here:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2251509391\r\n[hr][/hr]\r\n[h1]I give Noone the Permission To use anything Out of this Mod in other Mods! Even from older versions. No Permission[/h1]\r\n[h1] Mod Features: [/h1]\r\n[list]\r\n [*]Vacuumpump Extra Functions. Harvest, Drop, Filter, in and out of Chests. ALL Items.. REALY ALL!\r\n [*]Smart Chest\r\n [*]6 Way-Itempipe\r\n [*]Chemical Lift Engine\r\n [*]Chemical Cannon\r\n [*]Tank Cannon + Explosive Ammo container\r\n [*]Mountable Shotgun\r\n [*]Item Frame\r\n [*]Logo Frame\r\n [*]WASD Converter\r\n [*]Robot Detector\r\n [*]Player VS Player Damage\r\n [*]More Wheels\r\n [*]Suckomatic Grab Stuff\r\n [*]Chest Fill Detector\r\n [*]Daylight Sensor\r\n [*]Item Detector\r\n [*]Universal Grinder Types\r\n [*]Watercannons Useful as Thruster under Water\r\n [*]Watertank To Airtank - Underwater Air Supply for Seats\r\n [*]New Shape Blocks Clean Colors\r\n [*]Angle Sensor\r\n [*]Smoker\r\n [*]Campfire\r\n [*]Rosted Woc Meat ( refine buff )\r\n [*]Red Woc Energy Drink ( speed buff )\r\n [*]Gyroscope\r\n [*]Miner\r\n [*]Totebots Bar ( damage buff )\r\n [*]McFlys Pommes Fries ( jumpboost )\r\n [*]Tesla Coil\r\n [*]Autocrafter / AutoRecycler\r\n [*]Steam Engine\r\n [*]Wings\r\n [*]Large Storage Container\r\n [*]Propeller\r\n [*]Engine, Bearing and Controller - Simple Controller\r\n [*]Hud Clock\r\n [*]Clock ( Thanks to @MJM for help with it )\r\n [*]Offroad Wheel\r\n [*]Popcorn Food (Land Mine)\r\n [*]Wireless Gate\r\n [*]Plastic resource\r\n [*]Wire resource\r\n [*]Automatic Beehive\r\n [*]Glueclam Tank\r\n [*]Fluid Connection Point\r\n [*]Teleport Item Pipes\r\n [*]Pigment Flower Grow Box\r\n [*]Melee Weapons and Tools\r\n [*]Bazooka\r\n [*]Altimeter\r\n [*]Offcenter Pipe Connection Blocks\r\n [*]Laserpointer\r\n [*]Met Beer ( All in One Buff )\r\n [*]New Enemy Robot Straw Dog\r\n [*]Growing Sensor \r\n [*]Flamethrower\r\n [*]Flags\r\n [*]Smart Toilet\r\n [*]Unit Facer\r\n [*]Adjustabel Rotor\r\n [*]Camera Block\r\n [*]Eggplant\r\n [*]Watergun\r\n [*]Handheld Flamethrower\r\n [*]Unitfacer Hub\r\n [*]Custom Engine V8\r\n [*]Player Teleporter\r\n [*]Mountable Gatling Gun\r\n [*]Mountable Homing Carrots\r\n [*]Smart Fridge \r\n [*]Paintable: Woc´s, Glowbugs, Corn, Veggies, Fruits, Cotton\r\n [*]Display\r\n [*]Symbole Plate\r\n [*]Totebot Mace Melee Weapon\r\n [*]Paint Bucket ( Paint the whole creation with one click ) \r\n [*]Glowgun\r\n [*]Vacuumpump with 3 Connection Points\r\n [*]Multi Connection Tool\r\n [*]Gravitygun \"Woc Brusher 9000\"\r\n [*]Refinary and Resource Collector Upgrade Modules ( find them in Warehouses )\r\n [*]Breedable Wocs / Baby Wocs ( breeding: Feed 5 Eggplants to a Woc that is Close to a other Woc )\r\n [*]Waterwheels\r\n [*]Fluid Sensor\r\n [*]Air Generator for creating Under Water Bases\r\n [*]Ballast Tanks\r\n [*]Creative Health and Respawn\r\n [*]Creative PvPvE Scoreboard\r\n [*]Water Thruster\r\n [*]Team Respawn Point\r\n [*]Team Selector\r\n [*]Team Respawner\r\n [*]Team Alive Sensor\r\n [*]Breathing in Creative\r\n [*]Scrapgun\r\n [*]Snail\r\n [*]Inline Refinery\r\n [*]5x5x8 Resource Collector\r\n [*]Mountable Glowgun and Ammo box\r\n [*]Fant Mod Handbook ( wip )\r\n [*]Fant Block Editor Tool\r\n [*]Fant Waypoint Marker Tool\r\n [*]Pumpjack and Outlet ( out of renderdistance fluid supply )\r\n [*]Trash can\r\n [*]Measurement Tool\r\n [*]Beebot ( enemy )\r\n [*]1x1x2 thruster. Challange Winner Arageus, and that was his wish\r\n [*]Thruster Hammer\r\n [*]Unitfacer Target Block\r\n [*]Anchor block for Creations ( freeze / unfreeze )\r\n [*]Remotegun to control Wirelessgates\r\n [*]Custom Rotary Engine\r\n [*]Exo Suit Parts\r\n [*]Clouds\r\n [*]Level and Skill System\r\n [*]Creation Projector\r\n [*]Popcorn Launcher gun\r\n [*]Heavy Haybots\r\n [*]Heavy Underwater Totebots\r\n [*]Laser Generator\r\n [*]Laser Reciver\r\n [*]Laser Prisma\r\n [*]Laser Pixel\r\n [*]Automatic Full Recycler\r\n [*]Guitar Weapon\r\n [*]Grapplinghook\r\n [*]Rope\r\n [*]Rope Hook\r\n [*]Sails\r\n [*]Floating islands\r\n [*]Pumpipe\r\n [*]Info Box\r\n [*]Plunger Shoes\r\n [*]Ladders\r\n\r\n [*]Chat Commands:\r\n/cheat\t\t- toggles the Cheats On / Off\r\n/shownametag\t- toggles the Default NameTag if you use a different language then English. Because the Nametag remove works only on English.\r\n/block playername  - blocks a connected player and forces him to leave the game!. \r\n/unblock playername  - unblocks a connected player.\r\n/fant           -toogle the Fant Mod Hud Info\r\n/chunk       \t- creates a Player Clone that Keeps the Tile/Chunk loaded. ( NO CHEAT )\r\n/chunksave\t- save all spawned Chunk Loaders. ( NO CHEAT )\r\n/chunkload\t- load after map load all Chunkloades back in ( NO CHEAT )\r\n/chunkclear\t- deletes all saved Chunk loader ( NO CHEAT )\r\n/fly\t\t- fly...  ( CHEAT, in creative only if PvP is off )\r\n/field x y\t- creates a Soil Field, works in creative too ( CHEAT )\r\n/cam\t\t- Detach the Camera from the Player ( NO CHEAT )\r\n/soilinfo\t- shows infos about Planted Soils ( NO CHEAT )\r\n/delete\t\t- deletes the object in Aim ( CHEAT )\r\n/undo           - undo the delete ( CHEAT )\r\n/cleanup Number - removes all objects in range ( CHEAT )\r\n/clearinv\t- removes all items from the player Inventory ( CHEAT )\r\n/fill\t\t- aim at a Container to fill it with materials like.  ( gas, batteries and so on... ) /fill batterie will fill the container with batteries. ( CHEAT )\r\n/all\t\t- activates god, unlimited and perma Day\r\n/hammer\t\t- removes the default hammer / gives it back ( NO CHEAT )\r\n/fastgrow   \t- let plants grow nearly instant ( CHEAT )\r\n/showtile         -displayes the tile boarder  ( NO CHEAT )\r\n/skill               - shows the skill menu  ( NO CHEAT )\r\n/setLevel      - set the Level and Skill points ( CHEAT )\r\n/clouds           -toggle clouds   ( NO CHEAT )\r\n\r\nHOST ONLY:\r\n/pvp\t\t-toggles God Mode\r\n\r\nAll:\r\n/setrespawn \t-set the Respawn position\r\n/respawn \t-respawns you if you are dead\r\n/scorereset\t-resets your score\r\n/team name\t-join a Team with name...\r\n/leaveteam\t-leaves the team\r\n[/list]\r\n\r\n[u][b] Special Thanks to: [/b] [/u]\r\n [*]Questionable Mark ( Custom Gamemode Template )\r\n [*]RostigerSpieler (item description, json, textures)\r\n [*]Corvos (modeling exo suits)\r\n [*]RostigerSpieler (item description, json, textures, handbook pages)\r\n [*]MJM (code, gui, texture)\r\n [*]XM943 ( testing and improving )\r\n [*]Apollyon (code)\r\n [*]Fawx (modeling tips)\r\n\r\nFant Mod made by\r\n[h1]00Fant [/h1]\r\n\r\n[h1]I give Noone the Permission To use anything Out of this Mod in other Mods! Even from older versions. No Permission[/h1]\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.",
+		"fileId": 2820096455,
 		"localId": "d9fe4eec-1449-4a84-bf99-4478a7c6dd1c",
-		"name": "Test Mod",
-		"type": "Blocks and Parts",
-		"version": 1
+		"name": "Fant Mod 2 Custom Gamemode",
+		"type": "Custom Game",
+		"version": 0
 	},
 	"29e6aeb0-0154-4213-8312-d44f4c3891f9": {
 		"allow_add_mods": true,
@@ -14021,6 +14019,1257 @@
 		"fileId": 2830258909,
 		"localId": "d73a856b-c085-4147-b06e-485d4810acd4",
 		"name": "Classic Mechanic Texturepack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"ada0284d-8fd4-41fb-a2b0-9e5b5c208f82": {
+		"description": "Base Parts!",
+		"fileId": 1916602523,
+		"localId": "ada0284d-8fd4-41fb-a2b0-9e5b5c208f82",
+		"name": "BaseParts",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"5acdda91-e089-432f-a4bc-70489b3d678e": {
+		"description": "8x8x1 Scifi Floor Tile Created By: Killa Kustom Designs",
+		"fileId": 1921610764,
+		"localId": "5acdda91-e089-432f-a4bc-70489b3d678e",
+		"name": "KKD_Scifi_Floor_Tile8x8x1",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"52285bae-797c-42c9-99bc-b0101cdf9648": {
+		"description": "Futuristic wheel mod Created By: Killa Kustom Designs",
+		"fileId": 1921611358,
+		"localId": "52285bae-797c-42c9-99bc-b0101cdf9648",
+		"name": "KKD_SCIFI_Wheel",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"3316d048-2665-413d-83f8-28ad615913e3": {
+		"description": "This mod doesn't have a description",
+		"fileId": 1925626189,
+		"localId": "3316d048-2665-413d-83f8-28ad615913e3",
+		"name": "11",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"f43c0360-8433-4cbf-81ee-0b744c59b361": {
+		"description": "Easier Farm is a mod to farm easier in survival mod\nThe furnitures are :\n- get 100 blocks by harvesting\n- get fuel with a vacum pump\n- fuel and respawn every 5 seconds\n- glue claim respawn every 5 seconds\n- new crafts (component kit, circuitboard, sunshakes)\n- reduce the healing food's crafing time",
+		"fileId": 2226589183,
+		"localId": "f43c0360-8433-4cbf-81ee-0b744c59b361",
+		"name": "Easier Farm",
+		"type": "Terrain Assets",
+		"version": 0
+	},
+	"61d856d7-a2ae-4a56-81c6-611734e14573": {
+		"description": "making blocks for the first time\n\nthis mod has rgb blocks\nso you don't need to paint (NOT DONE!)",
+		"fileId": 2234420324,
+		"localId": "61d856d7-a2ae-4a56-81c6-611734e14573",
+		"name": "Test",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"f22863e3-5958-4805-a85a-71cb6d178bed": {
+		"description": "You always wanted to explore the vastness of the undiscovered continent? Then this terrific mod is just right for them! It brings a lot of new blocks that look incredibly crazy. \n\nTo make the final discovery of the undiscovered continent more palatable for you, we have developed a spaceship especially for you. This ship will accompany you on your adventures! So do not wait long, and go to the unknown.\n\nThis modification was developed by TryzzeGaming and Jonedo. Have fun! And we are looking forward to your feedback.",
+		"fileId": 2331529789,
+		"localId": "f22863e3-5958-4805-a85a-71cb6d178bed",
+		"name": "[NEW] Void Ship Mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"b71c9c45-b236-4251-bdf6-6da7ceb64b8e": {
+		"description": "",
+		"fileId": 2361862171,
+		"localId": "b71c9c45-b236-4251-bdf6-6da7ceb64b8e",
+		"name": "Wyatt's Mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"a4f335db-2342-4b72-af90-0a22389a9ce4": {
+		"description": "This mod has pirate themed parts to use for the Bunic creation \"The Captain's Curse\".\nThis mod includes a few original pirate themed objects made by Cchello, many tile rocks as placeable parts, different sizes and types of \"water\", and scripted parts used for custom sounds.\n\nFeel free to use any parts in this mod, just remember any custom sound parts will not work without the custom Bunic Captain's Curse sound bank.",
+		"fileId": 2389624852,
+		"localId": "a4f335db-2342-4b72-af90-0a22389a9ce4",
+		"name": "Bunic Pirate Pack",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"97dedd69-1e47-4837-b4ab-5f700ddd01b0": {
+		"description": ":P",
+		"fileId": 2581422939,
+		"localId": "97dedd69-1e47-4837-b4ab-5f700ddd01b0",
+		"name": "Flyer things B)",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"b46d314b-e796-42d0-bc80-560315a9f351": {
+		"description": "Sad that you cant have your country's flag say no more download this mod for infinite flags and meybye even some custome if you request\n\ndont laugh at the mod pic",
+		"fileId": 2582313978,
+		"localId": "b46d314b-e796-42d0-bc80-560315a9f351",
+		"name": "flag mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"6fa94e82-bb42-4f13-a761-e612d9479568": {
+		"description": "[b]This is a mod for general scripted mod parts used in Bunic builds, feel free to use any parts in your builds, but please let us know of any bugs![/b]\n\n[u]This mod currently contains:[/u]\n-Particle Maker; this part creates a selected particle a selected offset in the direction of the arrow\n-Screen Shaker; this part shakes the screen at a selected intensity\n-Player Join Indicator; this part gives out a short pulse when a player joins the world (this is useful if something needs to be reset every time a new player joins)\n\n[h2]Parts were not designed with user friendliness in mind since they were created for one purpose only, sorry if some parts are hard to use.[/h2]",
+		"fileId": 2584428107,
+		"localId": "6fa94e82-bb42-4f13-a761-e612d9479568",
+		"name": "Scripted Bunic Parts",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"fb0b6e7e-8641-4731-9d5f-ffba96f93a23": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2586648370,
+		"localId": "fb0b6e7e-8641-4731-9d5f-ffba96f93a23",
+		"name": "beacon radio",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"62ee1dc1-3555-498c-9599-1e1a4d71289d": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2609125678,
+		"localId": "62ee1dc1-3555-498c-9599-1e1a4d71289d",
+		"name": "fly mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"88ee4259-b47b-4cd0-b8ac-1a1a3e7cc757": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2612010989,
+		"localId": "88ee4259-b47b-4cd0-b8ac-1a1a3e7cc757",
+		"name": "Glob mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"70ae30b0-5e0a-4e91-9f18-040b1afda39b": {
+		"description": "This Is A Mod To Make Survival Items Stack Higer",
+		"fileId": 2621853752,
+		"localId": "70ae30b0-5e0a-4e91-9f18-040b1afda39b",
+		"name": "Bigger Stacks",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"d57c046b-e226-443c-9a34-d5b0e3c299c7": {
+		"description": "EN:\nOverhauled crafting recipes that I made for myself, but I hope you'll like them too. The ingredients (as well as the crafting time) are chosen to better match the appearance of the part, its weight and strength.\nThis version adds almost no crafting of new blocks, except for plastic, which is now used in many recipes instead of glue or metal.\n\nThis mod must be installed manually, but don't worry, it's very simple:\n1. Click \"Subscribe\". The mod will be uploaded to this folder: \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2641709150\" ( if you haven't changed the Steam or game directory).\n2. Following this path, you will see the folder \"Survival\", and in it \"CraftingRecipes\". This is the folder with new recipes.\n3. Copy it and go here: \"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\\Survival\".\nThere is also a \"CraftingRecipes\" folder here. Rename it, for example, to \"CraftingRecipes-\" and paste the copied one. Done.\n(Uninstall) Just delete the new CraftingRecipes folder and rename the old one back.\n\nMore detailed information in the file \"readme.txt\", which you will find here: \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2641709150\" when you subscribe to the mod.\n\nOther versions of this mod:\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2641711251] Realistic Recipes - Extended[/url];\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2641711625] Realistic Recipes - Full[/url]. Not finished yet.\n\n\n\nRU:\nПеределанные рецепты крафта, которые я сделал для себя, но надеюсь, они понравятся вам тоже. Ингредиенты (а также время крафта) подобраны так, чтобы больше соответствовать внешнему виду детали, её весу и прочности.\nЭта версия почти не добавляет крафта новых блоков, кроме пластика, который теперь используется во многих рецептах вместо клея или металла.\n\nБолее подробная информация в файле \"readme.txt\", который Вы найдёте здесь: \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2641709150\", подписавшись на мод.",
+		"fileId": 2641709150,
+		"localId": "d57c046b-e226-443c-9a34-d5b0e3c299c7",
+		"name": "Realistic Recipes - Basic",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"82ab72c4-714d-4651-9658-804d174de0b5": {
+		"description": "EN:\nOverhauled crafting recipes that I made for myself, but I hope you'll like them too. The ingredients (as well as the crafting time) are chosen to better match the appearance of the part, its weight and strength. Plastic is used in many recipes instead of glue or metal.\nThis version adds crafting of most blocks and interactive parts, as well as a few of the most necessary or just cool elements. Their list may change over time.\n\nThis mod must be installed manually, but don't worry, it's very simple:\n1. Click \"Subscribe\". The mod will be uploaded to this folder: \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2641711251\" ( if you haven't changed the Steam or game directory).\n2. Following this path, you will see the folder \"Survival\", and in it \"CraftingRecipes\". This is the folder with new recipes.\n3. Copy it and go here: \"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\\Survival\".\nThere is also a \"CraftingRecipes\" folder here. Rename it, for example, to \"CraftingRecipes-\" and paste the copied one. Done.\n(Uninstall) Just delete the new CraftingRecipes folder and rename the old one back.\n\nMore detailed information in the file \"readme.txt\", which you will find here: \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2641711251\" when you subscribe to the mod.\n\nOther versions of this mod:\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2641709150] Realistic Recipes - Basic[/url];\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2641711625] Realistic Recipes - Full[/url]. Not finished yet.\n\n\n\nRU:\nЭта версия добавляет крафт большинства блоков и интерактивных частей, а также несколько самых нужных или красивых элементов. Их список может со временем меняться.\n\nБолее подробная информация в файле \"readme.txt\", который Вы найдёте здесь: \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2641711251\", подписавшись на мод.",
+		"fileId": 2641711251,
+		"localId": "82ab72c4-714d-4651-9658-804d174de0b5",
+		"name": "Realistic Recipes - Extended",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"9a7db85c-7e07-4186-9c25-f3d40265ae49": {
+		"description": "EN:\nOverhauled crafting recipes that I made for myself, but I hope you'll like them too. The ingredients (as well as the crafting time) are chosen to better match the appearance of the part, its weight and strength. Plastic is used in many recipes instead of glue or metal.\nThis version adds crafting of most blocks, interactive parts and elements (in the future - all) that you can find in the Creative Mode menu.\n\nThis mod must be installed manually, but don't worry, it's very simple:\n1. Click \"Subscribe\". The mod will be uploaded to this folder: \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2641711625\" ( if you haven't changed the Steam or game directory).\n2. Following this path, you will see the folder \"Survival\", and in it \"CraftingRecipes\". This is the folder with new recipes.\n3. Copy it and go here: \"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\\Survival\".\nThere is also a \"CraftingRecipes\" folder here. Rename it, for example, to \"CraftingRecipes-\" and paste the copied one. Done.\n(Uninstall) Just delete the new CraftingRecipes folder and rename the old one back.\n\nMore detailed information in the file \"readme.txt\", which you will find here: \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2641711625\" when you subscribe to the mod.\n\nOther versions of this mod:\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2641709150] Realistic Recipes - Basic[/url];\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2641711251] Realistic Recipes - Extended[/url].\n\n\n\nRU:\nЭта версия добавляет крафт большинства блоков, интерактивных частей и элементов (в перспективе - всех), которые вы можете найти в меню Творческого режима.\n\nБолее подробная информация в файле \"readme.txt\", который Вы найдёте здесь: \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2641711625\", подписавшись на мод.",
+		"fileId": 2641711625,
+		"localId": "9a7db85c-7e07-4186-9c25-f3d40265ae49",
+		"name": "Realistic Recipes - (not currently) Full",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"a052ff75-bffa-48ba-8209-f53129eb7f6d": {
+		"description": "Hello, Thank you for Subscribing!\n\nIn this mod there are parts for Survival as seen on thumbnail that are craftable on the craftbot for Survival.\n\nIf there is anything else you would like me to add... let me know in the comments.\n\nMAKE A BACKUP!\nCopy (Craftbotrecipes to Desktop) \n\n\n\nHow to install...\n\nGo to file explorer/This PC/Local Disk(?)/Program Files(x86)/Steam/ Steamapps/workshop/content\n/387990/2642637815   (Read below)\n\n\nDubble click on (copy inside of this file)\nCopy contents\nGo to file explorer/This PC/Local Disk(?)/Program Files(x86)/Steam/ Steamapps/common/Scrap Mechanic/Survival   (Read below)\n\n\n(Paste in this folder)\nClick on (Replace the files in the destination) \n\nFinished!\n\n\nDon't like the mod? \n\nCopy the (Craftbot Recipes) file and paste in Survival and click (Replace the files in the destination).\n\nor\n\nVerify Game files\n\n\n \n\n\n\n\n",
+		"fileId": 2642723428,
+		"localId": "a052ff75-bffa-48ba-8209-f53129eb7f6d",
+		"name": "Craftable Garment Box",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"a6ffb6aa-7130-4f10-a9af-3b3730ec5668": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2646769919,
+		"localId": "a6ffb6aa-7130-4f10-a9af-3b3730ec5668",
+		"name": "Best Block Mod Eva!",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"ec746524-06d7-4e60-ad9d-bdc5933ee58f": {
+		"description": "yeeet your mom",
+		"fileId": 2655504884,
+		"localId": "ec746524-06d7-4e60-ad9d-bdc5933ee58f",
+		"name": "extra spice blocks and stuff",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"a7c539d7-2a31-45e1-acb4-03fa38d7b673": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2729488523,
+		"localId": "a7c539d7-2a31-45e1-acb4-03fa38d7b673",
+		"name": "1",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"eb5eb54d-34ad-4522-8cda-1b35da25cedd": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2744212101,
+		"localId": "eb5eb54d-34ad-4522-8cda-1b35da25cedd",
+		"name": "parts pack 12",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"0034bc6f-ea7a-4705-a9ec-c27cee6eb771": {
+		"description": "Adds parts that are extreme.",
+		"fileId": 2756546346,
+		"localId": "0034bc6f-ea7a-4705-a9ec-c27cee6eb771",
+		"name": "Extreme Blocks",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"6118c3fc-56ec-4217-b550-34150aa76ec1": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2760638149,
+		"localId": "6118c3fc-56ec-4217-b550-34150aa76ec1",
+		"name": "car",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"8335d752-7cad-4ffc-832e-68eafe095f67": {
+		"description": "я вас категорически приветствую, клин саныч добрый день\nэтот мод добавляет блоки с лицами некоторых известных(или не очень) людей\nкаждое лицо расположено сразу на нескольких блоках (4х4)",
+		"fileId": 2760718862,
+		"localId": "8335d752-7cad-4ffc-832e-68eafe095f67",
+		"name": "ьmyxa_mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"273abc1f-f500-4bac-8ba2-87ae6d36b85c": {
+		"description": "я вас категорически приветствую, клин саныч добрый день\nэтот мод добавляет блоки с лицами некоторых известных(или не очень) людей",
+		"fileId": 2761857020,
+		"localId": "273abc1f-f500-4bac-8ba2-87ae6d36b85c",
+		"name": "blocks faces famous people",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"0e8fbca0-f3fc-4300-9db5-8c3c841cd7ed": {
+		"description": "How to install mod radio (for \"Dead by Dailight\" challenge)\ngo to the folder where you have Steam installed.\n- ...\\Steam\\steamapps\\workshop\\content\\387990\n- enter 2771672175 (sort by date for convenience)\n- go to Effects\\Audio\\Banks\n- copy the Master Bank.bank file\n\nNext, we go back to the navel where you have Steam installed.\n...\\Steam\\steamapps\\common\\ScrapMechanic\\Data\\Audio\\Banks\nand paste the previously copied file\n  Done, if you did everything right, then you will have background music in the Horror challenge.\n\n\nКак установить мод-радио (для челенджа \"Dead by Dailight\")\nперейдите в папку где установлен у вас Steam.\n- ...\\Steam\\steamapps\\workshop\\content\\387990\n- введите 2771672175 (для удобства отсортируйте по дате) \n- перейдите в Effects\\Audio\\Banks \n- скопируйте файл Master Bank.bank\n\nДалее заходим  опять в пупку где установлен  у вас Steam.\n...\\Steam\\steamapps\\common\\ScrapMechanic\\Data\\Audio\\Banks\nи вставьте ранее скопированный файл\n Готово, если сделали всё правильно, то у вас будет, воспроизведится фоновая музыка в челендже \"Horror\".",
+		"fileId": 2778973755,
+		"localId": "0e8fbca0-f3fc-4300-9db5-8c3c841cd7ed",
+		"name": "Music challenge Dead By DayLight",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"715c3127-36a0-4f86-8a08-f3ef79d2a704": {
+		"dependencies": [
+			{
+				"fileId": 2566184854,
+				"localId": "79def7bb-c997-4bf7-b40f-322ef6f3762a"
+			}
+		],
+		"localId": "715c3127-36a0-4f86-8a08-f3ef79d2a704",
+		"name": "top secret pog",
+		"type": "World",
+		"version": 0,
+		"fileId": 2803011323
+	},
+	"6adc7c70-de63-4f47-afbf-018220f548d4": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
+				"name": "ModDatabase"
+			}
+		],
+		"description": "Advanced Challenge Mode (ACM) v2, Mod version is V2_0.5.0.\n\nNOTE - Due to a bug in the game, the HUD currently only works at specific resolutions.\nIt works best at 1920 x 1200 and \"okay\" at 1920 x 1080 (1080p). This will be fixed once Axolot fixes the HUD scaling.\n\nThis game mode offers lots of features for people who want to create Advanced Challenge Maps.\nSome examples:\n- There are settings for almost everything right in the game, for example:\n  - Enable/Disable the custom health system\n  - Adjust the health system itself, e.g. set the max HP, max Air (for diving), etc.\n  - Set the damage and knockout time for every single way of taking damage in the game\n  - Set the gravity for creations and players separately\n  - Select the terrain you want to build on (currently available: Terrain/Flat/Old Creative Terrain)\n  - Set map restrictions, enable/disable bot aggro, set the time of day, etc.\n\nAlso, all of the vanilla survival mode, challenge mode and creative mode parts are available.\n\nThe mod also has some custom parts and tools, like:\n- Spawn Point\n- Respawn Point\n- Number/Code Lock\n- Cutscene Maker\n- Hidden duck statues that a player can find, that can display a special message when all of them are found\n- Key Lock, a lock that is activated by inserting a Key tool into it\n- A flashlight\n- Knockback gun\n- A Key tool (used to activate the \"Key Lock\" part)\n- And much more!\n\nJoin the [b]Scrap Mechanic Maps[/b] Challenge Mode Discord server to get update changelogs, share your maps, download other maps and more.\n\nhttps://discord.gg/2eACct5FDm",
+		"fileId": 2803050088,
+		"localId": "6adc7c70-de63-4f47-afbf-018220f548d4",
+		"name": "Advanced Challenge Mode v2",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"94b85f97-b1fe-4856-be4f-5e38361f0d5e": {
+		"description": "Snacking one of the early places for the new categories 😏",
+		"localId": "94b85f97-b1fe-4856-be4f-5e38361f0d5e",
+		"name": "Definitely a real mod 🐱",
+		"type": "Blocks and Parts",
+		"version": 0,
+		"fileId": 2803499478
+	},
+	"23f8afc4-b915-44fc-a590-6907611bc29a": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2804414907,
+		"localId": "23f8afc4-b915-44fc-a590-6907611bc29a",
+		"name": "Cursed scrapmechanic M0d",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"f25adf0c-f364-496e-9e39-03b84a9000a4": {
+		"custom_icons": false,
+		"description": "Idk what im doing",
+		"fileId": 2806051766,
+		"localId": "f25adf0c-f364-496e-9e39-03b84a9000a4",
+		"name": "Idk what im doing",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"66382e44-ba5c-4068-be35-49cb80726599": {
+		"custom_icons": false,
+		"description": "IDK i want to be one of the first ",
+		"fileId": 2806059208,
+		"localId": "66382e44-ba5c-4068-be35-49cb80726599",
+		"name": "someting I gues",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"84e425d7-f21f-4de9-ad20-8933cec006c8": {
+		"custom_icons": false,
+		"description": "e ef",
+		"fileId": 2806070120,
+		"localId": "84e425d7-f21f-4de9-ad20-8933cec006c8",
+		"name": "patus totki smrotki 2137 test",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"a7346d8a-f874-41fc-bbca-0caff36ec6b7": {
+		"custom_icons": true,
+		"description": "developer mode with commands in Survival !\r\nCommand list:\r\nhttps://scrapmechanic.fandom.com/wiki/Commands\r\n",
+		"fileId": 2806106101,
+		"localId": "a7346d8a-f874-41fc-bbca-0caff36ec6b7",
+		"name": "1 click Dev-Mode (Finally!)",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"23aee415-5c93-4c2e-91a9-f4753eab3f9f": {
+		"custom_icons": false,
+		"description": "Survival Mode, but your sledgehammer has 33x reach, and 2.5x damage\r\n\r\nMade to test the Custom Gamemode functionality",
+		"fileId": 2806133825,
+		"localId": "23aee415-5c93-4c2e-91a9-f4753eab3f9f",
+		"name": "Temp",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"8661aaa9-741b-4422-ad5e-4764cf2e1b18": {
+		"custom_icons": false,
+		"description": "[h1]Description[/h1]\r\nHere Is Scrap Experimental 2.0! It's Back and better than ever!\r\n\r\nThis survival mod adds a bunch of, [i]interesting[/i] parts.\r\nRanging from thrusters that work on potato's,\r\nPropellors to enter the skies,\r\nand chests that have more storage than you can ever dream of.\r\n\r\n\r\n[h1]Info[/h1]\r\nThe mod is currently getting ported to the new 0.6.0 modding api update.\r\n\r\nAll of the new items are available via the craftbot.\r\n(not all of the original items are added yet but will be over time.)\r\n\r\n\r\n[h1]Updates[/h1]\r\n- V2.0 - Update 2 -\r\n[list]\r\n[*]Added an alternative Gas recipe\r\n[*]Changed the battery recipe to no longer require glow\r\n\r\n[*]Added Mechanical Bouy, A part which lets you change your vehicles bouyancy with the flick of a switch\r\n[*]Added Mines, A part which lets you to remotely detonate it!\r\n[*]Added Recoil Booster, A New utility item to get yourself to places faster!\r\n[olist]\r\n[*]Shoot to propel yourself!\r\n[*]AIm to hover\r\n[/olist]\r\n[/list]\r\n\r\n- V2.0 - Update 1 -\r\n\r\nPorted the following:\r\n[list]\r\n[*]Spud Thruster.\r\n[*]Megastorage Chest.\r\n[*]Propellor.\r\n[*]B.O.B. MK1.\r\n[*]Spud Accelerator.\r\n\r\n[*]Updated the Spud Accelerator with better controls\r\nWhilst shooting there are 2 modes to use.\r\n[olist]\r\n[*]Without aiming: Spud Rifle.\r\n[*]Whilst aiming: Subsonic Minigun.\r\n[/olist]\r\n[/list]",
+		"fileId": 2806203583,
+		"localId": "8661aaa9-741b-4422-ad5e-4764cf2e1b18",
+		"name": "Scrap Experimental 2.0",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"270f5165-544a-4006-bb78-88dc2a193b11": {
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2806282426,
+		"localId": "270f5165-544a-4006-bb78-88dc2a193b11",
+		"name": "aaaaaaaaaaaaaaaaaa",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"74d1efdd-5044-4040-b7fc-92eb7406308b": {
+		"custom_icons": false,
+		"description": "This is a test\n\nI just wanna be one of the first 11 people to make a custom gamemode.\n\nCurrent features:\nMakes the hammer 3x more powerful",
+		"fileId": 2806335251,
+		"localId": "74d1efdd-5044-4040-b7fc-92eb7406308b",
+		"name": "Zen Gamemode",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"f8f5b0d8-7105-4721-bbe5-11e3f5c35f13": {
+		"custom_icons": false,
+		"description": "How does this work (It'll be updated when I can figure out how to screw with hammer distance)",
+		"fileId": 2806376920,
+		"localId": "f8f5b0d8-7105-4721-bbe5-11e3f5c35f13",
+		"name": "I like to test",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"60e8b318-18fa-45f2-9b09-cd0688682d5c": {
+		"custom_icons": false,
+		"description": "Industrial Mechanics was a project of mine that I am planning to redo in custom game form, this is merely a placeholder for now, progress updates will be posted below.",
+		"fileId": 2806397803,
+		"localId": "60e8b318-18fa-45f2-9b09-cd0688682d5c",
+		"name": "Industrial Mechanics v2",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"1958c833-0aa7-4b34-9396-f9d6ff58eb67": {
+		"custom_icons": false,
+		"description": "This is a harvesting boost mod a a custom game!\n\nI DID NOT MAKE THIS! This is made by \nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2104092841",
+		"fileId": 2806447156,
+		"localId": "1958c833-0aa7-4b34-9396-f9d6ff58eb67",
+		"name": "BoostedMod",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"3399f2d3-d807-47d5-b00c-d3d22839ba63": {
+		"custom_icons": false,
+		"description": "Explore a (mostly) desert world!",
+		"fileId": 2806719861,
+		"localId": "3399f2d3-d807-47d5-b00c-d3d22839ba63",
+		"name": "Desert World",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"0de358f7-44a8-4963-ba95-3f096ac91a4f": {
+		"custom_icons": false,
+		"description": "Normal Survival, but PVP is enabled! Also enabled commands so you don't need to grind the spudguns.",
+		"fileId": 2806735104,
+		"localId": "0de358f7-44a8-4963-ba95-3f096ac91a4f",
+		"name": "PVP Mode!",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"a2d9c77f-80ad-47b9-a937-c73f709cf767": {
+		"custom_icons": false,
+		"description": "When you touch the floor you will take damage! The further away you are from spawn or the mechanic station the more damage you will take.\n\nIf you have water buckets in your inventory, you can avoid damage once. Enjoy the pain!",
+		"fileId": 2806753843,
+		"localId": "a2d9c77f-80ad-47b9-a937-c73f709cf767",
+		"name": "Floor Is Lava! [Game Mode]",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"1e52fd97-6825-4060-895f-d07d42f5c2b4": {
+		"custom_icons": false,
+		"description": "[h1]Scrap Mechanic Survival, but ALL LOOT is RANDOMIZED![/h1]\r\n\r\n[b]This mod changes how loot works in Scrap Mechanic Survival.[/b] Instead of stuff dropping what it's supposed to drop, it drops a completely random item. It can be any item in the entire game. Anything from a bearing to a cookbot. You could break a corn plant expocting corn, but instead get a curved pipe. You could break a beehive expecting beeswax, but instead get a [i]warehouse elevator door.[/i] The possibilities are endless.",
+		"fileId": 2807002746,
+		"localId": "1e52fd97-6825-4060-895f-d07d42f5c2b4",
+		"name": "Random Loot",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"79b4dd13-5d17-4ceb-9f57-f30f61b36e06": {
+		"custom_icons": false,
+		"description": "This mod changes the spudgun's projectiles to all the available projectiles in the game currently. Press R when you are in-game to cycle through the projectiles.\n\nThis custom game also has dev mode included.\n\nHave fun!",
+		"fileId": 2807057603,
+		"localId": "79b4dd13-5d17-4ceb-9f57-f30f61b36e06",
+		"name": "Modded Spudgun",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"29811a03-4adf-42a4-9eeb-163c824c8c6e": {
+		"custom_icons": false,
+		"description": "Bunch of different feature's that make you're scrap mechanic survival more elite.\n\nUPDATE 0.0.3.1:\n- bug fix for starting items\n\nUPDATE 0.0.3:\n- more efficient engines (less fuel/battery consumption)\n\nUPDATE 0.0.2:\n- Randomized loot amount\n\nCURRENT FEATURES (more will be added):\n- Better starter items\n- Faster refine time (COMING SOON)\n- Randomized loot amount\n- Efficient engines",
+		"fileId": 2807267145,
+		"localId": "29811a03-4adf-42a4-9eeb-163c824c8c6e",
+		"name": "Assetical Survival",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"99811346-0da0-41d2-af9e-643138ce6153": {
+		"custom_icons": false,
+		"description": "just nothing...",
+		"fileId": 2807399245,
+		"localId": "99811346-0da0-41d2-af9e-643138ce6153",
+		"name": "nothing",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"67f7bae1-ce0c-40c5-bc15-a3c6b0f2e24b": {
+		"custom_icons": false,
+		"description": "[h1]Welcome to peaceful survival, where enemies are no danger to you.[/h1]\r\n\r\n[i][h1]Features:\r\n-Bots will not attack you\r\n-Raids will not spawn[/h1][/i]\r\n\r\nKnown issues:\r\n-Bots that are attacking wocs and glow worms will attack you if you are in their path\r\n\r\n[i][b]Note: I may update this game-mode soon here and there, but I don't want to do anything big until chapter 2 releases, because some features coming in that update would make some of the ideas I have for this game-mode better if I just wait.[/b][/i]",
+		"fileId": 2807775579,
+		"localId": "67f7bae1-ce0c-40c5-bc15-a3c6b0f2e24b",
+		"name": "Peaceful Survival",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"9525bed6-ffea-4721-b51b-10d89ffed45b": {
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2807831464,
+		"localId": "9525bed6-ffea-4721-b51b-10d89ffed45b",
+		"name": "SURVIVAL",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"78181716-1cbe-4059-9719-89beb04f444a": {
+		"custom_icons": false,
+		"description": "Survival with Cheats",
+		"fileId": 2807848366,
+		"localId": "78181716-1cbe-4059-9719-89beb04f444a",
+		"name": "Survival+",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"9ad7562f-29d3-4a23-b569-224e712bec50": {
+		"custom_icons": false,
+		"description": "pl cheats",
+		"fileId": 2807904488,
+		"localId": "9ad7562f-29d3-4a23-b569-224e712bec50",
+		"name": "PL",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"7843e372-bc33-4e5a-8fe3-b2e25e5982f6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [],
+		"description": "THIS MOD IS IN WIP!!!\n\nVER 2.0\n\nfeatures:\n\ndr pixel plays portal gun \n{link: https://www.youtube.com/c/DrPixelPlays }\n\ncustom LVG gui block {WIP}\n(settings and freecam)\n\nin the making: work on the LVG gui",
+		"fileId": 2808011208,
+		"localId": "7843e372-bc33-4e5a-8fe3-b2e25e5982f6",
+		"name": "LVG",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"d45ddb04-7a99-48f3-9e88-e765cfa44c05": {
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2808070611,
+		"localId": "d45ddb04-7a99-48f3-9e88-e765cfa44c05",
+		"name": "brot",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"69377392-c53c-4a17-883d-214d43f9be18": {
+		"custom_icons": false,
+		"description": "This mod enables dev commands and lets you save and load blueprints from your lift.",
+		"fileId": 2808071177,
+		"localId": "69377392-c53c-4a17-883d-214d43f9be18",
+		"name": "Easy Mode",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"c54a3206-e255-4334-82e6-0da00f7bd255": {
+		"custom_icons": false,
+		"description": "poważne rzeczy",
+		"fileId": 2808136642,
+		"localId": "c54a3206-e255-4334-82e6-0da00f7bd255",
+		"name": "rzeczy",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"23f0ba4c-7ec0-4266-835a-892bef5b9614": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "Basicly it gives you full water world with a (currently)few more parts and availability to build underwater bases. \n\nAlso I propably convert it into creative mod later. \n\nHave fun",
+		"fileId": 2808140550,
+		"localId": "23f0ba4c-7ec0-4266-835a-892bef5b9614",
+		"name": "Scrapnautica",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"fc3fe5cc-5395-4d0f-bee1-bafe5c9bbfec": {
+		"custom_icons": false,
+		"description": "The CreativeMode Version of\nScrap Experimental 2.0\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2806203583&searchtext=",
+		"fileId": 2808789053,
+		"localId": "fc3fe5cc-5395-4d0f-bee1-bafe5c9bbfec",
+		"name": "Scrap Experimental 2.0 CREATIVE VERSION",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"c5d08b47-c3c0-4ffa-9c42-be5b19d5de55": {
+		"allow_add_mods": false,
+		"custom_icons": false,
+		"description": "A simple mod aiming to add a gamemode less grind-heavy than survival and a few other changes (only to weapons at the current moment)\r\nchanges include: \r\n-2x more resources from refining\r\n-totebots may drop batteries\r\n-chance for additional scrap metal from haybots\r\n-loot crates may drop up to 5 drops\r\n-more loot from bots\r\n-all spudguns are more accurate\r\n-basic spudgun deals more damage with a slower rate of fire\r\n-commands enabled but without developer mode\r\n-higer stack counts (16384 for blocks & 100 for almost evrything else)",
+		"fileId": 2809244071,
+		"localId": "c5d08b47-c3c0-4ffa-9c42-be5b19d5de55",
+		"name": "test v2",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"85a3dbe1-3e10-4bc3-8a50-94b7e81d0a26": {
+		"custom_icons": true,
+		"description": "Now you're thinking with portals!",
+		"fileId": 2809564171,
+		"localId": "85a3dbe1-3e10-4bc3-8a50-94b7e81d0a26",
+		"name": "Portal Gun [Game Mode]",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"7ff48f0d-b48f-49d0-87ec-fd085feba0c4": {
+		"custom_icons": false,
+		"description": "Scrap Mechanic Survival remake with improved parts and ease of gameplay for less grinding\n\n - Craftbot waiting times reduced \n - Component Kits can be crafted now (Not overpowered)\n - If you're lazy use the secret code\n- New very slow engine that doesn't require fuel (can't be fully stopped)\n- New faster engine that also doesn't require fuel (can't be fully stopped)\n- Faster Drill improves mining, but at the expense of weight\n- Sticky Wheels improve Driving Experience (by DPP)\n\n+(Secret) Sussy Boi is waiting for you somewhere\n\nIf you have any ideas write about them in the comments.\nI try to implement every idea.\n\nCustom Games require the test branch to be active",
+		"fileId": 2810380810,
+		"localId": "7ff48f0d-b48f-49d0-87ec-fd085feba0c4",
+		"name": "Scrap Mechanic Pro",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"a3c483d5-8484-49e7-885d-113a554d334d": {
+		"custom_icons": true,
+		"description": "bored of changing files to have cheats well say no more.",
+		"fileId": 2810434862,
+		"localId": "a3c483d5-8484-49e7-885d-113a554d334d",
+		"name": "first mod",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"2db58d52-58de-4d71-871e-446eaacb32fd": {
+		"description": "SAY /UNLIMITED TO GET unlimitwed invetory\n",
+		"fileId": 2810799660,
+		"localId": "2db58d52-58de-4d71-871e-446eaacb32fd",
+		"name": "dev survival and god mode",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"2c00f078-978c-4ef5-9b06-5cd5fda8f26c": {
+		"custom_icons": false,
+		"description": "Welcome to HardCore Mode\n\n[h1]Recommended:[/h1]\nAdvanced Players \n\n[h1]Rules:[/h1]\n* All players start with 3/10 Hunger and 3/10 Water.\n* Being downed means permant death. You have to share the same fate as Wocs in that world.\n* This Mode is for Perfect Runs only.",
+		"fileId": 2811011273,
+		"localId": "2c00f078-978c-4ef5-9b06-5cd5fda8f26c",
+		"name": "HardCore Mode",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"53209a75-1910-4b65-ab8f-6136c866ad96": {
+		"custom_icons": false,
+		"description": "Maybe someday I'll make oxygen and other jokes...",
+		"fileId": 2811317527,
+		"localId": "53209a75-1910-4b65-ab8f-6136c866ad96",
+		"name": "Scrap Mars",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"a241404f-c969-43d9-9029-792acac18ad0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds several new recipes to make resources renewable and add blocks the devs were to lazy to add themselfs. It removes some of the grind of scrap mechanic by making refining faster and adding recipes.\n\nHideout:\n-Ember\n-Scrap Wood\n-Wood\n-Scrap Metal\n-Metal\n-Stone\n-Sunshake\n-Circuit Board\n-Component Kit\n-Glue\n\nCraftbot:\n-Scrap Metal and comp. Kits crafted from Totebot heads\n-Square Net (the orange low friction net)\n-Shack Light\n-Beam Frame Light\n-Warehouse Wall Light\n-Fluorescent Light\n-Construction Light\n-Giant Pipe Bracer (can be used as an even larger wheel)\n-Wedge\n-1x2x1 Wedge\n-Screw\n-Nut\n-Shack Roof\n\n-Faster player refinery times\n\nFuture Plans are to add a 2nd Craftbot that allows for decorative blocks to be crafted",
+		"fileId": 2811442484,
+		"localId": "a241404f-c969-43d9-9029-792acac18ad0",
+		"name": "Tweaks & Renewables [Custom Game]",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"c21b3ba1-382c-462c-b17d-04ba99c3e911": {
+		"custom_icons": false,
+		"description": "Welcome to DareDevil Mode.\nThis will be the hardest difficulty for a perfect run. Always use senses.\n\n[h1]Recommendation:[/h1]\nAdvanced Players - For Normal Run\nMastery Players - For Perfect Run\n\n[h1]Game Rules:[/h1]\n* Once you're hit or damaged somehow, you're downed.\n* New Players will have Full health bar, but it's still instant downed on damaged. It's only for perfect run try. They will have to start with 3/10 Food and 3/10 Water\n* Respawning Players will have literal 1 hp to show that their perfect run is lost. There's no regen on Health at any time.",
+		"fileId": 2811545499,
+		"localId": "c21b3ba1-382c-462c-b17d-04ba99c3e911",
+		"name": "DareDevil Mode",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"c2ed6bcc-2043-4afd-ba7d-f724acf822d3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "!! WORK IN PROGRESS !!\r\n\r\nA sus version of Among us.\r\n\r\n\r\nI originaly start to made this gamemode to understand the new API of scrap, i decided to continue this project because it can be funny in scrap mechanic.  \r\nWarning, the mod is, for now, not completed, nothing are really implemented, but the devlopment is active!\r\n\r\nIf you want to contribute to this project, contact us, we need you !\r\n\r\nUpdate:\r\nThe mod will probably be playable in aproximatly one/two week !\r\nI will try to make a daily update.\r\n\r\n\r\nAmong Scrap (WORK IN PROGRESS)\r\n\r\n",
+		"fileId": 2811583960,
+		"localId": "c2ed6bcc-2043-4afd-ba7d-f724acf822d3",
+		"name": "Among Scrap",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"e1e6e22f-e79f-4edb-a9dc-62df46cae238": {
+		"custom_icons": false,
+		"description": "This mod  has a description!",
+		"fileId": 2811908177,
+		"localId": "e1e6e22f-e79f-4edb-a9dc-62df46cae238",
+		"name": "Pog",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"29660039-d5c5-44ad-a0af-d969af3c0879": {
+		"description": "nikt o tym nie wie po za tobą ",
+		"fileId": 2812075123,
+		"localId": "29660039-d5c5-44ad-a0af-d969af3c0879",
+		"name": "pruba",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"aa0d1105-7dc6-41f3-97af-8065d6d1d0df": {
+		"custom_icons": false,
+		"description": "This mod does have a description.\n\nThis mod has enabled cheats so you can do /help for almost all commands.\n\nI will randomly add stuff to this mod so don't complain if i break it.",
+		"fileId": 2812091308,
+		"localId": "aa0d1105-7dc6-41f3-97af-8065d6d1d0df",
+		"name": "Survival Dev TEST",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"7ac05a15-f6ef-4ce6-9968-044c42a4db33": {
+		"custom_icons": false,
+		"description": "I are you afraid of the dark? you may want some glowsticks.",
+		"fileId": 2812330833,
+		"localId": "7ac05a15-f6ef-4ce6-9968-044c42a4db33",
+		"name": "Dark Mechanic",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"94c0daa1-3663-4114-9601-adc48df6715a": {
+		"custom_icons": false,
+		"description": "Afraid of the Light?\nThere is no need anymore!\nNow also on the Test Version\n\n(Custom Game Mode)\n[Raids: Enable]\n[Time Progession: Enable]\n[Fun: 100%]",
+		"fileId": 2812587123,
+		"localId": "94c0daa1-3663-4114-9601-adc48df6715a",
+		"name": "Always Night [test version]",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"35e245c2-fede-4500-8211-b605ed329cfb": {
+		"custom_icons": false,
+		"description": "Afraid of the Dark?\nThere is no need anymore!\nNow also on the Test Version\n\n(Custom Game Mode)\n[Raids: Enable]\n[Time Progession: Enable]\n[Fun: 100%]",
+		"fileId": 2812588027,
+		"localId": "35e245c2-fede-4500-8211-b605ed329cfb",
+		"name": "Always Day [test version]",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"3b7f7d40-5228-478c-a889-b6008e75effd": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2813161515,
+		"localId": "3b7f7d40-5228-478c-a889-b6008e75effd",
+		"name": "yes",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"ecf6ca62-2989-455c-a9c6-be32f3ab0976": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Scrap Mechanic Survival is still grindy, but in this Scrap Mechanic Survival, you don't have to worry about at least inventory management.\n\n[h1]Inventory Management:[/h1]\n[b]Stack size:[/b] 64,000, for Blocks and needed resources only.\n[b]Blocks:[/b] They would require x250 more to complete a stack.\n[b]Needed Resources:[/b] They would require x1,080 to x10,800 more to complete a stack.\n\nThis is an OP survival mod, and the maximum stack size value will never change.\n\nOnly Blocks, Consumables, and Resources for crafting are overstacked. \n\nPlease note: You need to go to the test branch (or 0.6.0 or above) then find Custom games on the top right of the screen\n\n[h1]Additions to Overstack[/h1]\n*5/29: All Fittings now have overstacking feature.\n*5/30: All Decor.json, Manmade, Vehicle parts, Plants, and just Interactive Scrap now have overstacking feature.\n*6/1: Most Interactives now have overstacking feature\n*6/25: All available items from Vanilla Chapter 1 items are now overstacked except for the buckets.",
+		"fileId": 2814032256,
+		"localId": "ecf6ca62-2989-455c-a9c6-be32f3ab0976",
+		"name": "Item Overstack",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"a86ddb9a-afb4-4fd8-a6a5-67e23c0f8a65": {
+		"custom_icons": false,
+		"description": "Ever wondered why the raid timers spawn as soon as you put down your 10th plant, then you end up always getting level 1 raids? Wish that you could pick up all your crops and have no raid appear after? Now you can!\r\n\r\nDynamic Raids allows the raids to occasionally update, meaning that any modifications to the crops will be reflected in the raid that spawns.\r\n[i]With the right strategy, it may even be possible to completely avoid raids...[/i]\r\n\r\n[strike]There is a side effect of the wave system being partially broken for now since the wave value resets immediately if the cell has no raid, meaning while you harvest your crops it may reset.[/strike]\r\nWaves will now only reset between 4:00 and 4:30, instead of as soon as the raid disappears.",
+		"fileId": 2814139717,
+		"localId": "a86ddb9a-afb4-4fd8-a6a5-67e23c0f8a65",
+		"name": "Dynamic Raids",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"42b97fa0-de8f-40ac-aaee-f4feeb580997": {
+		"custom_icons": false,
+		"description": "Only for my friends. You are NOT my friend!\nhttps://www.youtube.com/watch?v=dQw4w9WgXcQ",
+		"fileId": 2814186912,
+		"localId": "42b97fa0-de8f-40ac-aaee-f4feeb580997",
+		"name": "Only for my friends. You are NOT my friend!",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"c666b400-d03d-4eec-ae60-b196401d77ed": {
+		"custom_icons": false,
+		"description": "The ABC80 computer used the ABC basic driver and had a Zilog Z80 processor, it was made in Motala, Sweden by a tv manufacturer called Luxor. ABC80 stands for Advanced BASIC Computer 80",
+		"fileId": 2814188144,
+		"localId": "c666b400-d03d-4eec-ae60-b196401d77ed",
+		"name": "ABC80",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"455309c1-36aa-46f7-83f9-869b80bab2fe": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2709391324,
+				"localId": "46a40ee7-fd6d-4fb1-8525-cfff878281dd"
+			},
+			{
+				"fileId": 2484720676,
+				"localId": "5d3f25a0-56f4-4096-8aa1-cc0a38dda020"
+			},
+			{
+				"fileId": 2754786413,
+				"localId": "67145ee8-9f40-4f28-a6b7-6c398869f830"
+			},
+			{
+				"fileId": 1430130023,
+				"localId": "3e52a219-772f-4072-b903-e6927f29832f"
+			},
+			{
+				"fileId": 1413205977,
+				"localId": "0557555d-5856-45b0-9883-f219756760af"
+			}
+		],
+		"description": "Destruction Gamemode\r\n\r\nProjectiles will break any quality blocks\r\nNumber of epic mods that are help you have epic destruction\r\n\r\n/Spawn command added so you can spawn bots\r\n/Claim command shows your creations blocks like a hp bar\r\n\r\n/createteam creates a team (Work in progress plan on switching to a gui)\r\n/delteam deletes a team\r\n/teams lists all teams\r\n/team joins a team\r\n\r\nTeams are a work in progress concept there will be settings to disable friendly fire eventually\r\n\r\nin future i want to make a command to disable spawning of creations\r\nand also a way to claim creations and possible use them as a team system so if you destroy one teams base you win\r\n\r\n(Just released an update hopefully i can get persistent on claiming vehicles)",
+		"fileId": 2814275687,
+		"localId": "455309c1-36aa-46f7-83f9-869b80bab2fe",
+		"name": "UnlockedDestruction",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"917e85fd-c601-41fc-822f-920b5b3c1061": {
+		"allow_add_mods": false,
+		"custom_icons": false,
+		"description": "bananas ROTAT E",
+		"fileId": 2814511087,
+		"localId": "917e85fd-c601-41fc-822f-920b5b3c1061",
+		"name": "bananas ROTAT E",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"4fdd2dfd-813f-4fa6-9b56-d3c8f1dab06c": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod does a lot of change - We'll fill out the Description later, it was uploaded for Co-Op testing purposes.\r\n\r\nBut go ahead and try it out and report possible bugs.\r\n\r\nWe have done a lot of work on this, including,but not limited to:\r\n\r\n- Loot-drop changes from chests and bots.\r\n\r\n-New Craftbots for our modded blocks and parts\r\n\r\n-Stat changes to bots and the player\r\n\r\n-Refining Yields [Amount received from refining]\r\n\r\n-Manual mining of stone and large trees [its still faster to use a creation but you CAN]\r\n\r\nand more info later, since the mod is in BETA we are actively testing and bug fixing some features are likely to change.\r\n\r\nSurvival Custom Game.",
+		"fileId": 2814683612,
+		"localId": "4fdd2dfd-813f-4fa6-9b56-d3c8f1dab06c",
+		"name": "Snazzy Beta",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"f9c82217-1ac8-4098-a52d-1aa04da57e94": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "Welcome to Scrap Mechanic Golf!\r\n\r\nHOW TO PLAY:\r\n1. Place a ball on a starting zone with a star symbol\r\n2. Press E on the ball to enter golf mode\r\n3. Adjust direction with A and D keys\r\n4. Adjust strength with W and S keys\r\n5. When ready, press E to shoot\r\n\r\nThis is an example mod made by Axolot Games to show what is possible with the new Mod Tools in Scrap Mechanic. If you are a Mod creator, please feel free to use the scripts and 3D props from this mod in your mods.",
+		"fileId": 2815141986,
+		"localId": "f9c82217-1ac8-4098-a52d-1aa04da57e94",
+		"name": "Scrap Mechanic Golf",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"24486012-9b58-4e2b-aeba-0e2e5fd3d802": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Kyza",
+		"fileId": 2815310117,
+		"localId": "24486012-9b58-4e2b-aeba-0e2e5fd3d802",
+		"name": "Кузя",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"d8aff97d-afb2-4ea6-93d1-b957ace7ff15": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Makes all tools ONE SHOT A FARMBOT!!!!",
+		"fileId": 2815381611,
+		"localId": "d8aff97d-afb2-4ea6-93d1-b957ace7ff15",
+		"name": "High Damage Stuff",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"a08cf5ea-0044-4892-b66f-c3f6bee7ce3a": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h1]【当前版本】[/h1]\r\nLegend Survival Custom Game [b]3.2.2[/b]\r\n\r\n[h1]【适配游戏版本】[/h1]\r\nScrap Mechanic [b]0.6.2[/b]\r\n\r\n[h1]【关于Mod】[/h1]\r\n欢迎各位机械师订阅由 [b]中国[/b] 玩家团队：[b]传奇建造队[/b] 制作的传奇生存自定义游戏。这是一个将传奇Mod创造的物品加入生存模式的自定义游戏，可以满足生存建造的绝大部分需要。本Mod包含：材质方块、各种几何体、各种可互动零件、各种车辆轮胎、载具零件、威力强大的武器、各种装饰、自然景物装饰、建筑零件 和独特的传奇零件。你可以通过收集各种不同的材料并用锻造机器人合成或与商人交易来获得这些物品！\r\n\r\n[h1]【使用视频教程】[/h1]\r\nhttps://www.bilibili.com/video/BV1Ka4y1x7Vr\r\n\r\n[h1]【特别感谢】[/h1]\r\n感谢Modpack作者Durf对Mod体积优化的建议！\r\n以及MJM Mod提供的开源座椅脚本!\r\n\r\n[h1]【支持语言】[/h1]\r\n[list]\r\n[*]简体中文 Chinese\r\n[*]英语 English\r\n[/list]\r\n\r\n[h1]【其他Mod】[/h1]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=881252559] 传奇Mod（创造模式） [/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2716762412] 传奇地形资产Mod [/url]\r\n\r\n[h1]【我们的视频频道】[/h1]\r\nB站: http://space.bilibili.com/25427038\r\n微博：https://weibo.com/u/5507869196\r\n抖音：https://v.douyin.com/JxXUuNn/\r\n快手：http://www.gifshow.com/s/qWgnmWqf\r\n\r\n[h1]【我们的QQ交流群】[/h1]\r\n传奇建造队交流一群 537532878\r\n传奇建造队交流二群 158484814\r\n传奇建造队交流三群 474178046\r\n传奇建造队交流四群 633703984",
+		"fileId": 2815418786,
+		"localId": "a08cf5ea-0044-4892-b66f-c3f6bee7ce3a",
+		"name": "Legend Survival Custom Game",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"329940be-25a6-4caf-9c35-b310b86ad317": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod decreases the grind to make your game easier.\nFeatures:\nCraft component kits\nTrade component kits\nMore component kits from chests\nA LOT more circuit boards from bots\nA LOT more glue clams\nMore Paint Flowers\nMore Cotton\nMore Beewax\nCheaper Vacuum pumps and Water cannons\nDevmode can be toggled using /lgdevmode and rejoining the world\nScrap Metal can be crafted from Metal 1\nMetal 1 can be crafted from Metal 2\nMetal 2 can be crafted from Metal 3\nFaster refine times\n\nMore stuff comming soon!",
+		"fileId": 2815456037,
+		"localId": "329940be-25a6-4caf-9c35-b310b86ad317",
+		"name": "Less Grind",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"b37b4666-2ffb-4f75-a7d8-c10db931cd76": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2815636791,
+		"localId": "b37b4666-2ffb-4f75-a7d8-c10db931cd76",
+		"name": "69 haha",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"684f6f60-fbb4-4496-9913-c4e001bcb9d1": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod is just survival but because custom games can have mods you can add mods to this game ",
+		"fileId": 2815699946,
+		"localId": "684f6f60-fbb4-4496-9913-c4e001bcb9d1",
+		"name": "Survival Mods Allowed",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"52f76e98-6a99-4afc-9c1b-1035305b2e0a": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Mod that changes the loot tables and some crafting recipes in order to make scrap more enjoyable and less grindy.\r\nWorks on version 0.6.2\r\nCustom Game \r\n\r\nCONTENT: \r\n- Tweaked drops from harvestables\r\n- More refined material\r\n- Better loot crates and bot drops\r\n\r\nIf any you found a bug that this mod causes report to JustMaxior#5757 on Discord.\r\n\r\nSource code at: https://github.com/MaxiorPL/ScrapBLT",
+		"fileId": 2815971822,
+		"localId": "52f76e98-6a99-4afc-9c1b-1035305b2e0a",
+		"name": "Better Loot Table Mod",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"53e26cc5-2332-40b4-aec2-65c452e6ccf0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Scrap Mechanic Rework reworks the grindy aspect of the game\n\nAdded\nComponent Kit Crafting Recipe\nCiruit Board Crafting Recipe\nSquare Mesh Crafting Recipe\nLiscence Plate Crafting Recipe\nDead Woc Crafting Recipe\nAlternative Gas Crafting Recipe\nNew Glue Crafting Recipe\n\nSpud Thruster (EXP2.0)\nPropellor (EXP2.0)\nMega Chest (EXP2.0)\nSpudling Gun Variant (EXP2.0)",
+		"fileId": 2816001334,
+		"localId": "53e26cc5-2332-40b4-aec2-65c452e6ccf0",
+		"name": "Scrap Mechanic Reworks",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"83e1990e-411e-46f6-ace6-cc5cbdd68a89": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Vanilla survival however the manual refine time is reduced.",
+		"fileId": 2816271024,
+		"localId": "83e1990e-411e-46f6-ace6-cc5cbdd68a89",
+		"name": "Shorter refine time",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"e3d52333-57a7-4289-b737-ade78347cd12": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "A mod with resource boosted & cost reduced\n( in progress ) i'm patching ...............\nThanks for 1000 subs OMGGG :D\n\n\nMob loot boosted, classic loot are boosted, green/gold lootbox is not changed yet... ( no idea, whrite your wish in comment )\nCratfing recipe, refine speed, grow speed are complete.\n\nnow working for PATCH D;\n\nfast refine patched, lootboost patched, fast grow patched\n\nyea b ) chill",
+		"fileId": 2816326647,
+		"localId": "e3d52333-57a7-4289-b737-ade78347cd12",
+		"name": "Survival Less Cost",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"88cad533-ae50-4ead-b07f-48158071b146": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "spin mod",
+		"fileId": 2816329634,
+		"localId": "88cad533-ae50-4ead-b07f-48158071b146",
+		"name": "spin mod",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"e996eb7c-d45b-43fe-bcbb-a0943746bc2c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This is a modification to the normal Survival  mode. It features many new different tiles and changes some tiles to explore and loot.\n\n[h1][b]This mod is still in development and will receive future updates.\nFeel free to leave suggestions, bug reports and that stuff in the comments.[/b][/h1]\n\n[h1]Following Tiles are added:[/h1]\n\n[b]Water:[/b]\n-Sunken Ruin\n-Water Tanks\n-Raft\n-Ruined Farm\n\n[b]Meadows:[/b]\n-Explosives\n-Sealed Cave\n-Storage Hall\n-Wrapped Mountain\n-Cliff Camp\n-Fruit Container Pile\n-Great Mine\n\n[b]Forest:[/b]\n-Flat Rock Formation\n-Fruit Container Pile\n\n[b]Desert:[/b]\n-Desert Spike\n-Desert Mini Ravine\n\n[b]Autumn Forest:[/b]\n-Solar Panel\n-Rock Arch\n-Launch Pad\n\n[b]Roads:[/b]\n-Gas Station\n\n[b]Fields:[/b]\n-Water Silo\n\n[h1]Following tiles have been changed:[/h1]\n-Crashed Ship Start Area\n-Ruin City\n-Hay Maze\n-Second Crashed Ship\n\n[h1]This Mod also adds new types of Loot Boxes:[/h1]\n-Electrical Storage Box\n-Passcode Component Box (You only have 1 try to enter the code!)\n\n[b]Dev Mode is activated, if you want just want to explore.\nBe aware that it wont show you a \"Dev Message\" tho.\n\n[h1]Thanks a lot for the great support![/h1][/b]",
+		"fileId": 2816336335,
+		"localId": "e996eb7c-d45b-43fe-bcbb-a0943746bc2c",
+		"name": "Survival Additions",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"00865f18-6bd7-41e5-9def-45e999a152cf": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This is so people can have mods in survival.",
+		"fileId": 2816564462,
+		"localId": "00865f18-6bd7-41e5-9def-45e999a152cf",
+		"name": "Survival with mods",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"838b62eb-ea80-42ce-948c-031c230a4b54": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
+				"name": "ModDatabase"
+			}
+		],
+		"description": "This mod allows you to play Survival mode with mods, while also being able to craft the modded parts in the craftbot!\r\n\r\n[h1]How to make your mod compatible with this custom game[/h1]\r\n[b]Step 1[/b]: Add a folder named \"CraftingRecipes\" into your root mod folder\r\n[b]Step 2[/b]: Add a file named \"craftbot.json\", \"hideout.json\" or \"workbench.json\" into the \"CraftingRecipes\" folder\r\n[b]Step 3[/b]: Add your own crafting recipes into \"craftbot.json\" file\r\n[b]Step 4[/b]: Enjoy!\r\n\r\nYou can find a more detailed guide on the [b][url=https://github.com/QuestionableM/Modded-Craftbot-Recipes/blob/main/README.md]github[/url][/b] page of this custom game.\r\n\r\n[h1]Important[/h1]\r\nIf you're a modder and want to actually test the crafting recipes in your mod, it has to exist in the mod database. The mod database updates every 12 hours. Feel free to ask [b]TechnologicNick#4045[/b] to run the update task manually.\r\n\r\nYou can also ask more questions in our [b][url=https://discord.gg/SVEFyus]Discord[/url][/b] server.\r\n\r\n[h1]Other info[/h1]\r\n[code]\r\n[h1][b]Compatible mods[/b][/h1]\r\n[list]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2813939549]Funky Guns Pack [FGP][/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2448492759]The Modpack Continuation[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=905650948]MJM Mod[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1390938191]Wings Mod[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2608079677]Lucky Block Mod[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2481146118]Leaked Blocks and Parts[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824149581]Raft Mechanic: Tools & Parts For Creative[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2813593777]Fireaxe[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2826205992]Sticky Wheels[/url][/b]\r\n[/list]\r\n\r\nMore coming in the future!\r\n[/code]\r\n\r\nPreview was made by [url=https://steamcommunity.com/profiles/76561198318189561]Dart Frog[/url]",
+		"fileId": 2816900681,
+		"localId": "838b62eb-ea80-42ce-948c-031c230a4b54",
+		"name": "Modded Craftbot Recipes",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"a32319a0-1f2a-4398-bd7e-fcf14e0159cc": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
+			}
+		],
+		"description": "I made this custom world to fit my play style\r\n",
+		"fileId": 2817023467,
+		"localId": "a32319a0-1f2a-4398-bd7e-fcf14e0159cc",
+		"name": "All Most Vanilla",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"80b8414b-4acf-468b-a378-c8a218039c1c": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 2817209207,
+		"localId": "80b8414b-4acf-468b-a378-c8a218039c1c",
+		"name": "1",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"2e1a7cee-b93a-480f-bf15-297af776a387": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Simple custom game that only reduces the manual refining time to 1.5 seconds\n\n\n\n\n",
+		"fileId": 2817325375,
+		"localId": "2e1a7cee-b93a-480f-bf15-297af776a387",
+		"name": "Faster Refine Speed",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"45e4fe99-ff08-4e06-9923-64a4ff7dc597": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Removes the grind from survival. Refining now produces 256 blocks instead of 10. Bee Hives and Clams now drop 3 stacks of 10. Component Kits, Circuit Boards and Embers are now craftable. Cotton plants produce 10 cotton. Seeds are craftable. Start with some tools as well.",
+		"fileId": 2817362181,
+		"localId": "45e4fe99-ff08-4e06-9923-64a4ff7dc597",
+		"name": "No Grind Survival",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"94438739-8a66-4cd8-9fcd-fd2d70a0a01d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod aims to add some quality of life features to the game:\n\n- Stack size for items increased up to 1000.\n- Locker, File Cabinet, and regular Chest storages increased.\n- Nights are shorter, completely ending at 4 AM and only starting to get dark at 8 PM.\n- Craft times are reduced across the board.\n- Refine times are shortened and drain on water reduced.\n- Harvestable loot drops have been increased.\n- Refining both by hand and machine now produces 20 of the material instead of 10.\n- Certain enemy drops have been adjusted:\n-- Totebots drop more Circuit Boards\n-- Haybots guaranteed drop Component Kits plus a chance at Circuit Boards\n-- Tapebots guaranteed drop Batteries plus a chance at Circuit Boards and Component Kits\n-- Farmbots drop all 3\n- Component Kits, Circuit Boards, and Batteries now also drop in greater amounts from all sources.\n- Added crafting recipes to convert between Component Kits and Circuit Boards.\n- Added crafting recipes to turn seeds into their foods and vice versa.\n- Also modified soil bag and fertilizer recipes.\n- Tapebots have been nerfed. They shoot less often, deal less damage, and are less accurate.\n\n\nInstall Instructions:\nStep 1) Subscribe to the mod. No file overwriting is necessary anymore in 0.6+\nStep 2) When choosing to play a game, click in the top right where it says Custom Game\nStep 3) Select Quality of Life and name your world\n\nThat's it.\n\n\nLooking into seeing if making a placeable chunk loader is possible, or turning beacons into chunk loaders. Also looking into reworking buckets so they stack.\n\n\nIf you have any other suggestions, feel free to leave them in the comments and I'll look into them. Also the changes I make won't be to everyone's taste and that is fine. This was only ever meant to be for myself and my friend. I only made it public so other people could enjoy it if that is what they wanted.",
+		"fileId": 2817571500,
+		"localId": "94438739-8a66-4cd8-9fcd-fd2d70a0a01d",
+		"name": "Quality of Life",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"47e83a09-b06b-4f58-a808-3e8cd96ac4eb": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Original mod made by Dr. Pixel Plays, I ripped his files and enabled Godmode. Go crazy!",
+		"fileId": 2817575511,
+		"localId": "47e83a09-b06b-4f58-a808-3e8cd96ac4eb",
+		"name": "DPP Desert but with UNLIMITED",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"66bc0eab-63c7-4efa-9d07-4391505b7408": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This custom game open a creative world with additional command:\r\n/import & /export\r\n\r\nThoose commands works the same as in survival\r\n\r\nTransfer creation from creative to survival:\r\n1. Launch this custom game\r\n2. Spawn your creations\r\n3. Look at one creation and type /export name (replace name with whatever you want)\r\n4. Repeat step 3 or all creations\r\n5. Go to the Blueprint folder of this mod (Steam/steamapps/workshop/content/387990/2819317540)\r\n6. Copy the files you want (with the name you put earlyer)\r\n7. Paste in Steam/steamapps/workshop/common/Scrap Mechanic/Survival/LocalBlueprints\r\n8. Load your survival world with dev mode enabled\r\n9. Type /import name (where name is the name you put to export all the creations)\r\n10. Its done!\r\n\r\nTransfer from survival to creative: same but inverted\r\n1. Use /export command\r\n2. copy blueprints in LocalBlueprints folder (warning: there are a lots of files in there)\r\n3. paste in Blueprint mod folder\r\n4. import with the command",
+		"fileId": 2819317540,
+		"localId": "66bc0eab-63c7-4efa-9d07-4391505b7408",
+		"name": "Creative Import&Export GameMode",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"5d1aac85-b56d-46e7-b224-c6b99f5e2ce2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Map Mod 2.0 - Now with more colors to help you find the rare biomes, like the desert and autumn forest.\r\n\r\nLegend\r\n----------\r\nLight Brown - Desert\r\nDark Brown - Burnt Forest\r\nOrange - Autumn Forest\r\nPurple - Chemical lake\r\nGreen - grassy biomes\r\nBlue - water\r\nWhite - player location\r\nBlack - undiscovered area\r\n\r\n\r\nPlease note: Using a custom game means you'll be starting a new world. If you need the map in your current world, you'll need to use the file mod version instead, found here: [url]https://steamcommunity.com/sharedfiles/filedetails/?id=2104768903[/url]\r\n\r\n\r\nInstall and usage instructions:\r\n\r\n1 - Click SUBSCRIBE above.\r\n2 - Start Scrap Mechanic. Once in the main menu, click PLAY.\r\n3 - Select CUSTOM GAME. It's a smaller button kind of hidden in the top right-hand corner.\r\n4 - Select Xeridox's Map Mod. Start getting excited, you're almost there...\r\n5 - Type in a name for your world, then click PLAY.\r\n6 - From inside the game, open the chat window (default key is ENTER) then type /map and press enter. The map should open.\r\n7 - Repeat Step 6 as needed.\r\n\r\n\r\n",
+		"fileId": 2819491460,
+		"localId": "5d1aac85-b56d-46e7-b224-c6b99f5e2ce2",
+		"name": "Xeridox's Map Mod",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"f6faf7cd-f761-40cb-b2ec-bc879307bfb1": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "this allows you to \r\n  » have a creative menu in survival mode\r\n  » have Infinite fuel\r\n  » add creative mods to survival mode\r\n  » Modify a warehouse\r\n  » Modify your ship\r\n  » Place blueprints on the lift\r\n  » Use developer commands\r\n\r\nPerfect for testing and taking advantage of the bigger world \r\nplease tell me if you have any problems i would appreciate the feedback\r\n",
+		"fileId": 2819752373,
+		"localId": "f6faf7cd-f761-40cb-b2ec-bc879307bfb1",
+		"name": "Creative Survival",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"24669f86-6fda-4deb-8d96-2b741249d3eb": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Creative in survival world // WILL RECIEVE FURTHER UPDATES",
+		"fileId": 2820091907,
+		"localId": "24669f86-6fda-4deb-8d96-2b741249d3eb",
+		"name": "creative+",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"9e56d32a-4fec-4c18-ac2b-7dffa394fefa": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "type /unlimited to get unlimited inventory",
+		"fileId": 2820664570,
+		"localId": "9e56d32a-4fec-4c18-ac2b-7dffa394fefa",
+		"name": "god & dev",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"7d8815da-0fad-4f65-b5bc-71a579c36ac6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Base survival but with focus on speed!\nRun & swim faster.\nCraftbot and cookbot craft anything in 3 seconds.\nMuch faster refining (hand + refinebot).\nMuch faster Mining/logging with drills and saws.\nLogs of wood and stone break with one hit.\nComponent kits can be crafted.\n\nNOTE: Not tested at all in multiplayer.",
+		"fileId": 2821213621,
+		"localId": "7d8815da-0fad-4f65-b5bc-71a579c36ac6",
+		"name": "Speed Mechanic",
+		"type": "Custom Game",
+		"version": 0.5
+	},
+	"5ff9ffb0-418b-40e4-be13-453579f26a25": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2821329911,
+		"localId": "5ff9ffb0-418b-40e4-be13-453579f26a25",
+		"name": "SSSNM",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"db7992e2-a462-4e59-a1b3-c495bd3fd229": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2821345780,
+		"localId": "db7992e2-a462-4e59-a1b3-c495bd3fd229",
+		"name": "346",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"9c716ff0-84c4-46e0-9a34-7d436071082c": {
+		"allow_add_mods": false,
+		"custom_icons": false,
+		"description": "This is not a custom game mode you can straight up play. In order to use this mod, follow these steps:\n\n\nStep 1) Subscribe to Fant Mod and this Mod\nStep 2) Go to your Steam Workshop folder for Scrap Mechanic @  Steam\\steamapps\\workshop\\content\\387990\nStep 3) I'll update this step after it gets published but copy the files from this mods folder.\nStep 4) Paste them into Fant Mod's folder which should be number 2820096455. Make sure to replace all files when asked.\nStep 5) Enjoy the game. Hopefully it should work. These are all the files I had to change to get Quality of Fant working for me.\n\n\nIf Fant updates their mod, then be cautious about reapplying this mod right away as some things may break. I'll try to keep this as up to date as possible.",
+		"fileId": 2821405791,
+		"localId": "9c716ff0-84c4-46e0-9a34-7d436071082c",
+		"name": "Quality of Life - Overwrite for Fant",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"bfed32ee-e4c0-460b-84c3-a170a3d7d2c3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "I made this custom world to fit my play style\r\n\r\nPre-Release where i'm testing things",
+		"fileId": 2821613663,
+		"localId": "bfed32ee-e4c0-460b-84c3-a170a3d7d2c3",
+		"name": "All Most Vanilla [Pre-Release]",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"8662c856-c05a-46a9-8f0d-1b1a71f9ac90": {
+		"allow_add_mods": false,
+		"custom_icons": false,
+		"description": "its terriable",
+		"fileId": 2823102213,
+		"localId": "8662c856-c05a-46a9-8f0d-1b1a71f9ac90",
+		"name": "Survival but slightly worse",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"db9e2b76-3270-43a1-9f2b-ac3ef285435f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "At request, I remade SurvivalImport for newer versions of SM, so, here you are.\n\nAdds 4 commands:\n/save <name> - Saves the creation you're looking at as an SI blueprint with the name you provide\n/build <name> - Builds the SI blueprint that you named, pulls items from your inventory\n/buildwith <name> - Builds the SI blueprint that you named, pulls items from a container you are looking at\n/destroy - Destroys the creation you're looking at and saves it as a SI blueprint named \"destroy\"\n\nSI Blueprints are located at WhereverYourSteamFolderIs/steamapps/workshop/content/387990/2823429358/Blueprints",
+		"fileId": 2823429358,
+		"localId": "db9e2b76-3270-43a1-9f2b-ac3ef285435f",
+		"name": "SurvivalImport 2",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"9b2bfa2b-11dd-4e3a-821d-a99b01409cac": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "lemonSurvival is a custom gamemode I made to change some of the design choices I personally didn't like in the original Survival Mode. This mod tries to revamp some of these issues all while trying to still feel like the vanilla game mode.\r\n\r\n[h1]Changelog:[/h1]\r\n-Made the start of the game slightly faster (no more putting fire out)\r\n-Removed Mechanic Station and Dispenser Bot (Replaced with smaller POI)\r\n-New item: Mobile Craftbot\r\n-Crude Oil can now be mined from rocks and gotten from traders\r\n-Most Items stack to 64 (with the exception of Gas and Batteries)\r\n-Blocks stack to 512\r\n-Refine Bot now outputs 3x blocks\r\n-Manual refining times reduced to 1.5 seconds\r\n-Scrap wheels have been replaced with normal wheels\r\n-Soil can now be removed quicker\r\n-All Craftbot times have now been reduced to 5 seconds\r\n-Alternative Glue Recipes (4 corn or 3 glowpoop)\r\n-Cheaper Scrap items recipes\r\n-Adjusted couple more crafting recipes\r\n-Added wedges recipe\r\n-Added warehouse lights recipe\r\n-Water recipe now gives out x5 water\r\n-Cheaper Beacons\r\n-Loot drops adjusted\r\n-Consistent Haybot drops\r\n\r\nIf you try out the gamemode please let me know what you think of it and if you had any issues with it.\r\n[b]NOTE: I didn't test this gamemode in multiplayer[/b]\r\n\r\n\r\n[h1]LATEST PATCHNOTES:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/changelog/2823686440[/h1]\r\n\r\n\r\n\r\n\r\nHere are the reasons for changes listed below (warning: contains personal opinions about survival mode):\r\n\r\n[h2]Removal of Mechanic Station[/h2]\r\nFrom what I've seen and experienced, the Mechanic Station discourages the making of bases, especially in the early game. Due to it being a large cosy interior space and the space providing the Dispenser bot needed to progress the game every player always sets up and builds a base there.\r\n\r\nThe Dispenser bot located there also means you cannot progress the game without reaching it first. This makes players sprint to it as soon as they create a new game which makes starting new playthroughs boring and repetitive. \r\n\r\nThe POI was replaced with a much smaller gas station that still has a workbench and beds to sleep on to act as a checkpoint incase you die.\r\n\r\n[h2]Mobile Craftbot[/h2]\r\nAn early game item that allows you to craft items on the go. It is upgradable to include more recipes such as the recipe to craft a normal Craftbot.\r\n\r\nThis lets you explore much more easily in the early game as it lets you leave the crashed ship behind.\r\n\r\n[h2]Reducing reliance on underwater stuff[/h2]\r\nI don't feel like the water in this game is quite ready yet. Axolot is planning on a water update in the far future after Chapter 2 so until then I have made some changes to make you swim less. \r\n\r\nGlue -\r\n2 new alternative recipes\r\n-1 glue = 4 corn\r\n-1 glue = 3 glowpoop\r\n\r\nCrude Oil -\r\n-Crude Oil can now be gotten from mining rocks\r\n-Crude Oil can now be found in ruins\r\n-Crude Oil can be bought at the farmers hideout\r\n\r\n[h2]Craftbot times[/h2]\r\nCrafting times have been reduced to 5 seconds for all items.\r\nThis was changed because I think long crafting times add no challenge or anything interesting to the game other than to waste your time. This is also why manual refining time has been reduced.\r\n\r\n[h2]Refinery Bot[/h2]\r\nThe Refinery bot was upgraded to give out 3 times amount of blocks it gets given, this was added to try reduce the grind of the game a bit more as well as to balance it around the reduced manual refining time I have added.\r\n\r\n[h2]Scrap wheels removed[/h2]\r\nScrap wheels were replaced for normal wheels because those wheels just suck, it makes the car slower than sprinting. Normal wheels should allow you to make a functional vehicle to move around in early on.\r\n\r\n\r\n\r\n[h3]Planned Features:[/h3]\r\n(things I have not added yet but I wanna add)\r\n\r\n-Bed you can sleep on (99% done, just testing it for any bugs)\r\n-Water bombs\r\n\r\nFeel free to suggest your own ideas\r\n\r\n\r\n\r\n[h1]Credits:[/h1]\r\nTL_Potatoe: Made the 6th image for the faster refining times",
+		"fileId": 2823686440,
+		"localId": "9b2bfa2b-11dd-4e3a-821d-a99b01409cac",
+		"name": "lemonSurvival",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"9ca519fb-3f12-44b3-a03f-f2b9a0e0edd8": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "MJM stopped modding apparently and I just wanted the tracks from his mod, this is literally just that, the tracks and engine.\nDifferences:The engine has a speed cap, you can no longer go to infinity and beyond.\nmay work on this more, may not, im not a modder, sorry :(",
+		"fileId": 2823820463,
+		"localId": "9ca519fb-3f12-44b3-a03f-f2b9a0e0edd8",
+		"name": "Tracked",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a1380e74-6b66-47d8-b5fb-6b7751da3da6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Commands:\r\n/fly - enables flight\r\n/return - returns to the build world\r\n/score - shows everyones score\r\n/settings - note not exactly useful during a round\r\n\r\nNote the publish block saves the settings you put into it\r\n\r\nCredits to Brent Batch for the gui",
+		"fileId": 2824381804,
+		"localId": "a1380e74-6b66-47d8-b5fb-6b7751da3da6",
+		"name": "Hide & Seek",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"670a81d2-ba11-4998-abaf-23c5867470d2": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "IT WORKS, IT FINALLY WORKS. This mod is all about making the game more op using ANIMAL FEATURES. Enjoy! thanks too some friends for helping and giving seggestions!",
+		"fileId": 2825957723,
+		"localId": "670a81d2-ba11-4998-abaf-23c5867470d2",
+		"name": "WocMod",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"92c09009-628d-4298-892c-afcd5fefd884": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Is your inventory too short? This is the opposite version! In this mod, your inventory is too long.\n\nI may know what you're thinking: Why 1,010 Slots? Trust me, The extra 10 is for the hotbar.",
+		"fileId": 2826133335,
+		"localId": "92c09009-628d-4298-892c-afcd5fefd884",
+		"name": "Expanded Inventories (1,010 Slots)",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"07925c1d-0c72-4848-bbd5-ab8bb55693a9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "its survival",
+		"fileId": 2826883554,
+		"localId": "07925c1d-0c72-4848-bbd5-ab8bb55693a9",
+		"name": "just a survival",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"0a0da70d-591b-402d-a20f-38ec9e443c1f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A basic mod test... for NOW!",
+		"fileId": 2827086827,
+		"localId": "0a0da70d-591b-402d-a20f-38ec9e443c1f",
+		"name": "Scrap Jack",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"2ac0bfac-b805-49a7-90d8-1188486e0c62": {
+		"allow_add_mods": false,
+		"custom_icons": false,
+		"description": "Cryo Survivo is in Beta Test",
+		"fileId": 2828288326,
+		"localId": "2ac0bfac-b805-49a7-90d8-1188486e0c62",
+		"name": "Cryo Survivo",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"54145c30-4434-4f2b-9177-4248355cccbd": {
+		"allow_add_mods": false,
+		"custom_icons": false,
+		"description": "Cryo Scrap Is In Beta Test, so not every thing will work properly.\n\nUpdate 0.0.1 \nRelease of Cryo Scrap\n\nUpdate 0.1.0\nAdded new Armored Scrap Wood\nChanged Craft Bot Crafting Recipe\n\nUpdate 0.1.1\nAdded new Comp crafting recipe\n\nUpdate 0.1.2\nFixed custom game mode",
+		"fileId": 2828726462,
+		"localId": "54145c30-4434-4f2b-9177-4248355cccbd",
+		"name": "Cryo Scrap",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"0373adae-d74a-4690-bbaf-facd4206498f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Creative Mode in Survival World",
+		"fileId": 2829242624,
+		"localId": "0373adae-d74a-4690-bbaf-facd4206498f",
+		"name": "Survival world in Creative mode",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"9b2bfa2b-11dd-4e3a-821d-a91201409cac": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "reltSurvival is a fork of lemonSurvival. Ditching the regular craftbot in favor of 7 smaller specialized craftbots\r\n\r\nCraftbots include:\r\n\r\n\r\n[h1] Mobile craftbot [/h1]\r\nUsed to start your journey, has all the essentials which will you rely on till the end of the game. Can make the Advanced craftbot\r\n\r\n\r\n[h1] Advanced craftbot [/h1]\r\nNow we're getting to the real deal here. Being able to make complex parts and higher level materials is this bots specialty. Can upgrade blocks, make explosives, sensors, big wheels, and other craftbots which are:\r\n\r\n\r\n[h1] Processing craftbot [/h1]\r\nNeed some concrete? In craving for some plastic? Maybe even some spaceship blocks? This bot is here for you, processing basic materials into complex building blocks.\r\n\r\n\r\n[h1] Resource craftbot [/h1]\r\nAfter a getting an inventory full of corn and honey combs, this bot will take these not-so-useful resources and refine them into super useful glue! Not only that, it can also make gasoline, batteries, glowsticks, paint ammo, soil, fertilizer and chemicals.\r\n\r\n\r\n[h1] Decoration craftbot [/h1]\r\nWhoa whoa thats a lot of parts. This bot can make a whopping 238 different bits and bobs just for you, so you can fix that one shelf that just doesnt look right...\r\n\r\n\r\n[h1] Container craftbot [/h1]\r\nUh-oh you ran out of inventory space during a long scavenging run? Fear not, this bot can make storage devices to dump all that weight into.\r\n\r\n\r\n[h1] And finally,  the one and only [/h1]\r\n\r\n[h1] Recycle craftbot! [/h1]\r\nThose pesky totebot heads cluttering up space and lagging out your game? Well not anymore! Recycle them with this craftbot into some useful scrap metal and circuit boards. But dont be so eager, this bot requires plastic which a starting mechanic wouldnt be able to get that quickly.\r\n\r\n\r\n[h1] Additional features [/h1]\r\nExploding trees to get ember trees\r\nFarming clams by hitting them with blocks\r\n\r\n\r\n[spoiler]Hmm, is it just me, or do these craftbots remind me of something? Nah its probably a lack of 3d modeling and texturing skills.[/spoiler]\r\n\r\n[b] Credit: [/b]\r\nlemonSurvival: https://steamcommunity.com/workshop/filedetails/?id=2823686440\r\nCraftbot+: https://steamcommunity.com/sharedfiles/filedetails/?id=2118868098",
+		"fileId": 2829305628,
+		"localId": "9b2bfa2b-11dd-4e3a-821d-a91201409cac",
+		"name": "reltSurvival",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"0041c7ab-4744-405a-a7e8-a6dc5eefd738": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "mechanic is fishe",
+		"fileId": 2830118714,
+		"localId": "0041c7ab-4744-405a-a7e8-a6dc5eefd738",
+		"name": "fishe",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"c0348fbe-704a-4248-ada7-18c4923c5dd0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2830143002,
+		"localId": "c0348fbe-704a-4248-ada7-18c4923c5dd0",
+		"name": "Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
