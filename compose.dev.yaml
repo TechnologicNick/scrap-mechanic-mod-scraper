@@ -6,7 +6,7 @@ services:
       - node_modules:/home/steam/app/node_modules
       - ./workshop_content/content:/home/steam/Steam/steamapps/workshop/content/
       - ./src:/home/steam/app/src
+      - ./mod/Scripts/data:/home/steam/app/mod/Scripts/data
 
 volumes:
   node_modules:
-  content:
