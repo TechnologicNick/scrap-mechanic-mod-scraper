@@ -223,17 +223,25 @@ function getSettings() {
 
     const request = await getPublishedFileDetails(Array.from(new Set([...queriedFiles, ...settings.MANUAL_DOWNLOAD])));
     console.log({ request });
-    let ids = request.publishedfiledetails.filter(item => (
-        settings.MANUAL_DOWNLOAD.includes(parseInt(item.publishedfileid))
-        || (
-            settings.DOWNLOAD_SINCE // If DOWNLOAD_SINCE is set, only download since DOWNLOAD_SINCE
-                ? item.time_updated >= settings.DOWNLOAD_SINCE
-                : ( // Otherwise, download items that have never been downloaded before or have been updated since the last download
-                    !lastUpdated.items?.[item.publishedfileid]
-                    || item.time_updated > lastUpdated.items[item.publishedfileid]
-                )
-        )
-    )).map(item => item.publishedfileid);
+    let ids = request.publishedfiledetails.filter(item => {
+        if (settings.MANUAL_DOWNLOAD.includes(parseInt(item.publishedfileid))) {
+            return true;
+        }
+
+        // Don't download self
+        if (item.publishedfileid == 2504530003) {
+            return false;
+        }
+
+        if (settings.DOWNLOAD_SINCE) {
+            return item.time_updated >= settings.DOWNLOAD_SINCE;
+        }
+
+        return (
+            !lastUpdated.items?.[item.publishedfileid]
+            || item.time_updated > lastUpdated.items[item.publishedfileid]
+        );
+    }).map(item => item.publishedfileid);
 
     const presentIds = await fs.promises.readdir("/home/steam/Steam/steamapps/workshop/content/387990");
     if (settings.SKIP_PRESENT) {
