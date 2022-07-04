@@ -43,8 +43,8 @@ jobs:
       - id: extract
         name: Extract the updated databases and changelog
         run: |
-          docker cp smms:/home/steam/app/mod/Scripts/data/ ./mod/Scripts/
-          docker cp smms:/home/steam/app/changelog.json ./changelog.json
+          docker compose cp mod-scraper:/home/steam/app/mod/Scripts/data/ ./mod/Scripts/
+          docker compose cp mod-scraper:/home/steam/app/changelog.json ./changelog.json
           
           changelog=`cat ./changelog.json`
           echo "::set-output name=changelog::$changelog"
