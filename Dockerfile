@@ -17,6 +17,9 @@ RUN /bin/bash -c "source $NVM_DIR/nvm.sh && nvm install $NODE_VERSION && nvm use
 ENV PATH="$NVM_DIR/versions/node/$NODE_VERSION/bin:$PATH"
 
 
+RUN mkdir -p /home/steam/Steam/steamapps/workshop/content \
+    && chown -R steam /home/steam/Steam/steamapps/workshop/content
+
 # Copy project files
 RUN mkdir /home/steam/app
 WORKDIR /home/steam/app
