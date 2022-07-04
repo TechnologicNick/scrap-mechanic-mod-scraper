@@ -11496,7 +11496,7 @@
 	},
 	"c3e40a7a-6405-4df0-a4d0-4c3c449c53df": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"dependencies": null,
 		"description": "This mod doesn't have a description",
 		"fileId": 2693754159,
@@ -13961,6 +13961,36 @@
 		"fileId": 2829191240,
 		"localId": "58fe462b-1427-4668-ae1f-7e03d15aa83c",
 		"name": "couple of blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b5b81fac-16fb-435e-a6dd-03190bc5fae2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Dangarang",
+		"fileId": 2829483788,
+		"localId": "b5b81fac-16fb-435e-a6dd-03190bc5fae2",
+		"name": "Hlelo",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b57bf239-9698-4959-92e3-a16e3d586c39": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Hehe azureian's mod",
+		"fileId": 2829613267,
+		"localId": "b57bf239-9698-4959-92e3-a16e3d586c39",
+		"name": "Azure's Blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"9eedf551-79f9-48ec-946d-58a425b1df15": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Urainium",
+		"fileId": 2829891833,
+		"localId": "9eedf551-79f9-48ec-946d-58a425b1df15",
+		"name": "Deez blox",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
