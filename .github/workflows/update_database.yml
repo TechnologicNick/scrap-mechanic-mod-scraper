@@ -4,6 +4,19 @@ on:
   schedule:
   - cron: "0 */12 * * *"
   workflow_dispatch:
+    inputs:
+      skipUpdate:
+        description: Skip update
+        required: false
+        type: boolean
+      skipDownload:
+        description: Skip download
+        required: false
+        type: boolean
+      skipQuery:
+        description: Skip query
+        required: false
+        type: boolean
 
 jobs:
   update_database:
@@ -23,6 +36,9 @@ jobs:
           STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
           STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          SKIP_UPDATE: ${{ inputs.skipUpdate }}
+          SKIP_DOWNLOAD: ${{ inputs.skipDownload }}
+          SKIP_QUERY: ${{ inputs.skipQuery }}
           
       - id: extract
         name: Extract the updated databases and changelog
