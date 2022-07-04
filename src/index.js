@@ -243,10 +243,12 @@ function getSettings() {
         );
     }).map(item => item.publishedfileid);
 
-    const presentIds = await fs.promises.readdir("/home/steam/Steam/steamapps/workshop/content/387990");
     if (settings.SKIP_PRESENT) {
         console.warn("Found SKIP_PRESENT=true environment variable, skipping downloading present", presentIds);
-
+        
+        const presentIds = fs.existsSync("/home/steam/Steam/steamapps/workshop/content/387990")
+            ? await fs.promises.readdir("/home/steam/Steam/steamapps/workshop/content/387990")
+            : [];
         ids = ids.filter(id => !presentIds.includes(id));
     }
     
@@ -281,6 +283,7 @@ function getSettings() {
     if (changelog.changeCount > 0) {
         console.log("Changes found, updating workshop mod...");
 
+        const presentIds = await fs.promises.readdir("/home/steam/Steam/steamapps/workshop/content/387990");
         for (const presentId of presentIds) {
             lastUpdated.items ??= {};
             lastUpdated.items[presentId] = request.publishedfiledetails.find(d => d.publishedfileid == presentId)?.time_updated ?? null;
