@@ -6,8 +6,8 @@ services:
       - STEAM_PASSWORD
       - STEAM_API_KEY
       - SKIP_UPDATE
-      - SKIP_DOWNLOAD
-      - SKIP_QUERY
+      - MANUAL_DOWNLOAD
+      - DOWNLOAD_SINCE
     volumes:
       - node_modules:/home/steam/app/node_modules
       - content:/home/steam/Steam/steamapps/workshop/content/387990
