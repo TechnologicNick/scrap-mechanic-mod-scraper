@@ -9,6 +9,10 @@ on:
         description: Skip update
         required: false
         type: boolean
+      manualDownload:
+        description: Manually enter publishedfileids to download (separated by [^\d]+)
+        required: false
+        type: string
 
 jobs:
   update_database:
@@ -29,6 +33,7 @@ jobs:
           STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
           SKIP_UPDATE: ${{ inputs.skipUpdate }}
+          MANUAL_DOWNLOAD: ${{ inputs.manualDownload }}
           
       - id: extract
         name: Extract the updated databases and changelog
