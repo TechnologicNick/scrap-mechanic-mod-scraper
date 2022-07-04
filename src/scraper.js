@@ -6,10 +6,12 @@ const JSONbig = require("json-bigint")({ storeAsString: true });
 
 module.exports = class Scraper {
     idToUuid = {};
+    uuidToId = {};
     changes = {
         added: new Set(),
         updated: new Set()
     }
+    blacklistedFileIds = [ 2504530003 /* Mod Database */ ];
     
     constructor(outDir, sourceDir) {
         this.outDir = outDir;
@@ -25,7 +27,8 @@ module.exports = class Scraper {
     }
 
     async getIdsToScrape() {
-        return await fs.promises.readdir(this.sourceDir);
+        const downloaded = await fs.promises.readdir(this.sourceDir);
+        return downloaded.filter(id => !this.blacklistedFileIds.includes(id));
     }
 
     getLocalId(publishedfileid, fatal = false) {
@@ -50,15 +53,15 @@ module.exports = class Scraper {
 
             // Check if the shapesets changed
             if (JSONbig.stringify(database.data[localId]) !== JSONbig.stringify(newData)) {
-                console.log(`[${publishedfileid}] Updated ${name}`);
+                console.log(`[${publishedfileid}, ${localId}] Updated ${name}`, JSONbig.stringify(database.data[localId]), JSONbig.stringify(newData));
 
                 this.changes.updated.add(publishedfileid);
             } else {
-                console.log(`[${publishedfileid}] Did not update ${name}`);
+                console.log(`[${publishedfileid}, ${localId}] Did not update ${name}`);
             }
 
         } else {
-            console.log(`[${publishedfileid}] Added ${name}`);
+            console.log(`[${publishedfileid}, ${localId}] Added ${name}`);
 
             this.changes.added.add(publishedfileid); 
         }
@@ -66,7 +69,7 @@ module.exports = class Scraper {
         database.data[localId] = newData;
     }
 
-    async scrapeDescriptions() {
+    async scrapeDescriptions(details) {
         await this.dbDescriptions.load();
 
         for (let publishedfileid of await this.getIdsToScrape()) {
@@ -81,13 +84,38 @@ module.exports = class Scraper {
                     )
                 );
                 const localId = desc.localId;
+                const fileId = parseInt(publishedfileid);
+
+                if (fileId !== desc.fileId) {
+                    console.log("[Warning] Detected fileId mismatch, overwriting with publishedfileid", { publishedfileid: fileId, description: desc.fileId });
+                    desc.fileId = fileId;
+                }
+
+                if (this.dbDescriptions.data[localId] && this.dbDescriptions.data[localId]?.fileId !== fileId) {
+                    const existingFileId = this.dbDescriptions.data[localId].fileId;
+                    const currentFileId = fileId;
+                    console.log(`[Error] Duplicate localId ${localId}:`, { existingFileId, currentFileId });
+
+                    const existingFileLifetimeSubscriptions = details.find(value => value.publishedfileid == existingFileId)?.lifetime_subscriptions ?? -1;
+                    const currentFileLifetimeSubscriptions = details.find(value => value.publishedfileid == currentFileId)?.lifetime_subscriptions ?? -1;
+                    const subscriptions = { existing: existingFileLifetimeSubscriptions, current: currentFileLifetimeSubscriptions };
+                    if (existingFileLifetimeSubscriptions > currentFileLifetimeSubscriptions) {
+                        console.log(`[Error] Existing file has more lifetime subscriptions, not using current file.`, subscriptions);
+                        this.blacklistedFileIds.push(currentFileId);
+                        continue;
+                    } else {
+                        console.log(`[Error] Current file has more lifetime subscriptions, replacing existing file with current file.`, subscriptions);
+                        this.blacklistedFileIds.push(existingFileId);
+                    }
+                }
 
                 this.idToUuid[publishedfileid] = localId;
+                this.uuidToId[localId] = fileId
 
                 this.handlePossibleChange(this.dbDescriptions, publishedfileid, localId, desc, "description");
 
             } catch (ex) {
-                console.error(`Error reading description.json of ${publishedfileid}:\n`, ex);
+                console.log(`[Error] Failed reading description.json of ${publishedfileid}:\n`, ex);
             }
         }
 

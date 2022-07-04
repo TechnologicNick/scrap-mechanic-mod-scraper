@@ -192,6 +192,7 @@ function getSettings() {
         SKIP_DOWNLOAD: process.env.SKIP_DOWNLOAD === "true",
         SKIP_QUERY: process.env.SKIP_QUERY === "true",
         SKIP_PRESENT: process.env.SKIP_PRESENT === "true",
+        MANUAL_DOWNLOAD: process.env.MANUAL_DOWNLOAD?.split(/[^\d+]/g)?.filter(id => id.length > 0).map(id => parseInt(id)) ?? [],
     }
 }
 
@@ -202,8 +203,6 @@ function getSettings() {
     const unixNow = Math.floor(new Date().getTime() / 1000);
     const lastUpdated = JSON.parse(await fs.promises.readFile("./mod/Scripts/data/last_update.json"));
     
-    const scraper = new Scraper("./mod/Scripts/data", "/home/steam/Steam/steamapps/workshop/content/387990");
-    
     let queriedFiles = [];
     if (settings.SKIP_QUERY) {
         console.warn("Found SKIP_QUERY=true environment variable, skipping querying all files");
@@ -211,21 +210,22 @@ function getSettings() {
         queriedFiles = await queryAllFiles();
     }
 
-    const request = await getPublishedFileDetails(queriedFiles);
+    const request = await getPublishedFileDetails(Array.from(new Set([...queriedFiles, ...settings.MANUAL_DOWNLOAD])));
     console.log({ request });
-    const details = request.publishedfiledetails.filter(item => (
-        !lastUpdated.items?.[item.publishedfileid] || item.time_updated > lastUpdated.items[item.publishedfileid]
-    ));
-    let ids = details.map(item => item.publishedfileid);
+    let ids = request.publishedfiledetails.filter(item => (
+        settings.MANUAL_DOWNLOAD.includes(parseInt(item.publishedfileid))
+        || !lastUpdated.items?.[item.publishedfileid]
+        || item.time_updated > lastUpdated.items[item.publishedfileid]
+    )).map(item => item.publishedfileid);
 
+    const presentIds = await fs.promises.readdir("/home/steam/Steam/steamapps/workshop/content/387990");
     if (settings.SKIP_PRESENT) {
-        const presentIds = await fs.promises.readdir("/home/steam/Steam/steamapps/workshop/content/387990");
         console.warn("Found SKIP_PRESENT=true environment variable, skipping downloading present", presentIds);
 
         ids = ids.filter(id => !presentIds.includes(id));
     }
     
-    if (details.length > 0) {
+    if (ids.length > 0) {
         if (settings.SKIP_DOWNLOAD) {
             console.warn("Found SKIP_DOWNLOAD=true environment variable, skipping downloading", ids);
         } else {
@@ -243,10 +243,12 @@ function getSettings() {
         }
     }
     
-    await scraper.scrapeDescriptions();
+    const scraper = new Scraper("./mod/Scripts/data", "/home/steam/Steam/steamapps/workshop/content/387990");
+
+    await scraper.scrapeDescriptions(request.publishedfiledetails);
     await scraper.scrapeShapesets();
 
-    let changelog = scraper.createChangelog(details);
+    let changelog = scraper.createChangelog(request.publishedfiledetails);
 
     console.log(changelog);
     await fs.promises.writeFile("/home/steam/app/changelog.json", JSON.stringify(changelog));
@@ -254,13 +256,15 @@ function getSettings() {
     if (changelog.changeCount > 0) {
         console.log("Changes found, updating workshop mod...");
 
+        for (const presentId of presentIds) {
+            lastUpdated.items ??= {};
+            lastUpdated.items[presentId] = request.publishedfiledetails.find(d => d.publishedfileid == presentId)?.time_updated ?? null;
+        }
+
         await fs.promises.writeFile("./mod/Scripts/data/last_update.json", JSON.stringify(
             {
                 unix_timestamp: unixNow,
-                items: {
-                    ...lastUpdated.items,
-                    ...Object.fromEntries(details.map(item => ([ item.publishedfileid, item.time_updated ]))),
-                },
+                items: lastUpdated.items,
             },
             null, "\t"
         ));
