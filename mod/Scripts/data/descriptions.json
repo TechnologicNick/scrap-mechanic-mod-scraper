@@ -13591,7 +13591,7 @@
 	"f71068f5-c23a-4194-b75f-e2c7e69a0c82": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This is a mod that adds a super blocks to the game.\r\nFor now:\r\nSuper bouyant block,\r\nSuper heavy block,\r\nSuper light block,\r\nSuper bouncy block\r\n\r\nMade by SO(superolo)",
+		"description": "This is a mod that adds a super blocks to the game.\r\nFor now:\r\nSuper buoyant block,\r\nSuper heavy block,\r\nSuper light block,\r\nSuper bouncy block,\r\nSuper friction block\r\n\r\nMade by SO(superolo)",
 		"fileId": 2827273187,
 		"localId": "f71068f5-c23a-4194-b75f-e2c7e69a0c82",
 		"name": "Super buoyancy block",
@@ -13991,6 +13991,36 @@
 		"fileId": 2829891833,
 		"localId": "9eedf551-79f9-48ec-946d-58a425b1df15",
 		"name": "Deez blox",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"2d8f67aa-febf-4f57-ae9b-432518b37ab9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Blocks to assist in vehicle recreation.",
+		"fileId": 2830228721,
+		"localId": "2d8f67aa-febf-4f57-ae9b-432518b37ab9",
+		"name": "aa",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"aa768887-5c51-4cd5-8f66-1cf55a994899": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "A mod made to measure containers\n\nContains:\n-Sticky measurer\n-Remote Measurer",
+		"fileId": 2830241134,
+		"localId": "aa768887-5c51-4cd5-8f66-1cf55a994899",
+		"name": "Container Logic",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d73a856b-c085-4147-b06e-485d4810acd4": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod is a texture pack that replaces the male and female faces with the classic Mechanic faces from before the survival update.\n\nThis is a model swap of Male face Number 1\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nHOW TO INSTALL\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n1. Go to : ...\\Steam\\SteamApps\\workshop\\content\\387990\\2830258909\n\n\n2. Open up the folder \"TEXTURE PACK\"\n\n\n3. Copy the \"Survival\" folder \n\n\n4. Find where your Scrap Mechanic is installed in, Typically its installed in \"...\\Steam\\SteamApps\\common\\Scrap Mechanic\"\n\n\n5. Paste the \"Survival\" folder you copied earlier into the \"Scrap mechanic\" folder, replace files when asked, and then the texture pack should be installed.\n\n\n\nENJOY CLASSIC MECHANIC\n\n\n*Ignore the Effects, Gui, Objects, and Particles folders\n",
+		"fileId": 2830258909,
+		"localId": "d73a856b-c085-4147-b06e-485d4810acd4",
+		"name": "Classic Mechanic Texturepack",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
