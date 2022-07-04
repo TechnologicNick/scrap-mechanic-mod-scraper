@@ -152,7 +152,7 @@ module.exports = class Scraper {
                 ) {
                     const shapesets = path.join(this.sourceDir, publishedfileid, "Objects", "Database", "ShapeSets");
                     if (fs.existsSync(shapesets)){
-                        for (const shapesetJson of (await fs.promises.readdir(shapesets)).filter(f => f.endsWith(".json")).sort()) {
+                        for (const shapesetJson of (await fs.promises.readdir(shapesets)).filter(f => f.endsWith(".json"))) {
                             await parseShapeset(path.join(shapesets, shapesetJson))
                         }
                     } else {
@@ -170,11 +170,13 @@ module.exports = class Scraper {
                         );
 
                         if (shapeSetList) {
-                            shapeSetList
-                                .sort()
+                            const shapesetJson = shapeSetList
                                 .map(shapeset => this.resolveContentPath(shapeset, publishedfileid, localId))
-                                .filter(shapeset => shapeset)
-                                .forEach(async (shapeset) => await parseShapeset(shapeset));
+                                .filter(shapeset => shapeset);
+
+                            for (const shapeset of shapesetJson) {
+                                await parseShapeset(shapeset)
+                            }
                         } else {
                             console.log(`[Warning] shapesets.shapedb file has no "shapeSetList" key for ${publishedfileid}`);
                         }
