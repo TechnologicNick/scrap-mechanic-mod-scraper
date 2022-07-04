@@ -12162,8 +12162,10 @@
 		"version": 1
 	},
 	"7576ddb2-5bd7-4555-8e90-46dad41377fe": {
+		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds a Pixel Ducks to Scrap Mechanic.\r\n\r\nDucks Available \r\n-Pixel Duck\r\n-The Duck from Stardew Valley\r\n-Pixel Scrap Mechanic Duck\r\n-Pixel Raft Scrap Duck\r\n\r\n\r\n-All Ducks have 2D variants\r\n-All Ducks have block variants \r\n-All Ducks are paintable\r\n\r\nMore Ducks to come.\r\nCompatible with both versions of scrap mechanic.",
+		"dependencies": null,
+		"description": "This mod adds a Pixel Ducks to Scrap Mechanic.\n\nDucks Available \n-Pixel Duck\n-The Duck from Stardew Valley\n-Pixel Scrap Mechanic Duck\n-Pixel Raft Scrap Duck\n-Pixel Duck 5\n\n-All Ducks have 2D variants\n-All Ducks have block variants \n-All Ducks are paintable\nMore Ducks to come.",
 		"fileId": 2784667727,
 		"localId": "7576ddb2-5bd7-4555-8e90-46dad41377fe",
 		"name": "The Pixel Duck Mod",
