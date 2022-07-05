@@ -46468,5 +46468,10 @@
 		"$CONTENT_c0348fbe-704a-4248-ada7-18c4923c5dd0/Objects/Database/ShapeSets/Blocks.shapeset": [
 			"d83764d6-51c6-46b2-aca8-9a96ec90cb59"
 		]
+	},
+	"24d1b1f5-41b1-411f-8496-784bcd2054de": {
+		"$CONTENT_24d1b1f5-41b1-411f-8496-784bcd2054de/Objects/Database/ShapeSets/example.shapeset": [
+			"8a778463-e921-4f19-97e8-e97527777afa"
+		]
 	}
 }

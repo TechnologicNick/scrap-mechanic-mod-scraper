@@ -15274,5 +15274,15 @@
 		"name": "Mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"24d1b1f5-41b1-411f-8496-784bcd2054de": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Have you ever thought to yourself \"Man, I wish I had a cardboard block that was three tims as durable as the standard cardboard block.\"? If yes then congratulations because this mod adds a cardboard block that is three times as durable as the standard cardboard block. Have fun!",
+		"fileId": 2830597252,
+		"localId": "24d1b1f5-41b1-411f-8496-784bcd2054de",
+		"name": "Corrugated Cardboard",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
