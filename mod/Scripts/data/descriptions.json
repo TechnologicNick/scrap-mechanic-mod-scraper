@@ -15284,5 +15284,15 @@
 		"name": "Corrugated Cardboard",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"82e3cc6a-ccb0-4520-8d0e-f455813b81c5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2830799983,
+		"localId": "82e3cc6a-ccb0-4520-8d0e-f455813b81c5",
+		"name": "GLUK",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
