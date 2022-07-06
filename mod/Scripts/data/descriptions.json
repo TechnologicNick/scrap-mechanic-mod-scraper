@@ -12165,7 +12165,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "This mod adds a Pixel Ducks to Scrap Mechanic.\n\nDucks Available \n-Pixel Duck\n-The Duck from Stardew Valley\n-Pixel Scrap Mechanic Duck\n-Pixel Raft Scrap Duck\n-Pixel Duck 5\n\n-All Ducks have 2D variants\n-All Ducks have block variants \n-All Ducks are paintable\nMore Ducks to come.",
+		"description": "This mod adds a Pixel Ducks to Scrap Mechanic.\n\nDucks Available \n-Pixel Duck\n-The Duck from Stardew Valley\n-Pixel Scrap Mechanic Duck\n-Pixel Raft Scrap Duck\n-Pixel Duck 5\n\n-All Ducks have 2D and block variancs \n-All Ducks are paintable\n-Fully compatible with gamemodes that support custum crafting recipes \nMore Ducks to come.",
 		"fileId": 2784667727,
 		"localId": "7576ddb2-5bd7-4555-8e90-46dad41377fe",
 		"name": "The Pixel Duck Mod",
@@ -13508,7 +13508,7 @@
 	"8e32225f-4880-4088-b9d8-81872d8ffe66": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Very durable and relatively lightweight block, best for builds exposed to some serious damage. Also it's explosion-proof.",
+		"description": "Adds more blocks. [Titanite] - Very durable and relatively lightweight block, best for builds exposed to some serious damage. Also it's explosion-proof. [Dupaluminium] - Lightweight, more durable than metal but expensive material.",
 		"fileId": 2826983977,
 		"localId": "8e32225f-4880-4088-b9d8-81872d8ffe66",
 		"name": "Additional Blocks and Parts",
@@ -15288,10 +15288,20 @@
 	"82e3cc6a-ccb0-4520-8d0e-f455813b81c5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "ABOBA!!!!",
 		"fileId": 2830799983,
 		"localId": "82e3cc6a-ccb0-4520-8d0e-f455813b81c5",
-		"name": "GLUK",
+		"name": "ABOBA",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"821bb9fc-2780-411a-88fc-51b5d32bd96d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds a new sound.",
+		"fileId": 2830970773,
+		"localId": "821bb9fc-2780-411a-88fc-51b5d32bd96d",
+		"name": "Totebot Wild",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
