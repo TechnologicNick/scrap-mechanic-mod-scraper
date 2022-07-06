@@ -36832,6 +36832,7 @@
 	},
 	"a95b988e-5db5-43ce-9f3a-cde87154b50c": {
 		"$CONTENT_a95b988e-5db5-43ce-9f3a-cde87154b50c/Objects/Database/ShapeSets/example.shapeset": [
+			"2298367d-9651-4999-adaf-8c0db33375b7",
 			"5252558d-42d4-436d-8bf7-d3cd0e3260ac"
 		]
 	},
@@ -46471,6 +46472,31 @@
 	"821bb9fc-2780-411a-88fc-51b5d32bd96d": {
 		"$CONTENT_821bb9fc-2780-411a-88fc-51b5d32bd96d/Objects/Database/ShapeSets/example.shapeset": [
 			"c3bc9d19-2de8-42b0-81d6-53c7ae8ddaf6"
+		]
+	},
+	"f834b10d-b84b-4e79-938a-0de2be0d6cc0": {
+		"$CONTENT_f834b10d-b84b-4e79-938a-0de2be0d6cc0/Objects/Database/ShapeSets/challengebanners.shapeset": [
+			"0826b3a6-77da-4d0a-9d60-7d1e407aa5f8",
+			"08884fbe-d235-4583-8e74-8f0444686d7e"
+		]
+	},
+	"bb927d51-cc3c-4074-945e-311cdf1d2a19": {
+		"$CONTENT_bb927d51-cc3c-4074-945e-311cdf1d2a19/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"8b7b866c-3fbd-47f9-8a57-2ddedc3ecd2b": {
+		"$CONTENT_8b7b866c-3fbd-47f9-8a57-2ddedc3ecd2b/Objects/Database/ShapeSets/example.shapeset": [
+			"1a91e429-9f3b-43f4-9b9b-ffabeb9cfd21",
+			"20085c63-5261-49a0-a737-4fdd3a17b5f5"
+		]
+	},
+	"211358d0-3e18-4bc3-8b94-8ddb4ff47d5f": {
+		"$CONTENT_211358d0-3e18-4bc3-8b94-8ddb4ff47d5f/Objects/Database/ShapeSets/example.shapeset": [
+			"355887eb-7d91-4183-a8b7-7677eb2c5eb0"
+		]
+	},
+	"eaaa5e49-46aa-46a7-947a-2b91bbd2efab": {
+		"$CONTENT_eaaa5e49-46aa-46a7-947a-2b91bbd2efab/Objects/Database/ShapeSets/example.shapeset": [
+			"1c721afa-75ea-41fc-b8dd-0874734b0c19"
 		]
 	}
 }

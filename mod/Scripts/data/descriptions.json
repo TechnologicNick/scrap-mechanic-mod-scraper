@@ -15304,5 +15304,55 @@
 		"name": "Totebot Wild",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"f834b10d-b84b-4e79-938a-0de2be0d6cc0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Two stylish banners for your stylish creations!\n\nHeads up! This mod is compaitable with custom games that use Modded Crafting Recipes system.",
+		"fileId": 2831128168,
+		"localId": "f834b10d-b84b-4e79-938a-0de2be0d6cc0",
+		"name": "Stylish Banners",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"bb927d51-cc3c-4074-945e-311cdf1d2a19": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This would be the powerful tool, so anyone can fly remotely in survival. The Fly blocks would become obsolete.\n\nHowever, this would be a sample mod for my Flight Tool Mod for Blocks and Parts Mod.\n\nNo Cosmetics: If you play this mod, the dressbot would become part disabled as Dev mode is enabled.",
+		"fileId": 2831173573,
+		"localId": "bb927d51-cc3c-4074-945e-311cdf1d2a19",
+		"name": "Flying in Survival",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"8b7b866c-3fbd-47f9-8a57-2ddedc3ecd2b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "i will add more in 27 years\n\n\n\n\n\n\n\n\n\n\nyour mom",
+		"fileId": 2831175573,
+		"localId": "8b7b866c-3fbd-47f9-8a57-2ddedc3ecd2b",
+		"name": "funny blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"211358d0-3e18-4bc3-8b94-8ddb4ff47d5f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Tordie what are you doing?",
+		"fileId": 2831202986,
+		"localId": "211358d0-3e18-4bc3-8b94-8ddb4ff47d5f",
+		"name": "Tordie Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"eaaa5e49-46aa-46a7-947a-2b91bbd2efab": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "ABOBA!!!!",
+		"fileId": 2831223147,
+		"localId": "eaaa5e49-46aa-46a7-947a-2b91bbd2efab",
+		"name": "ABOBA",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
