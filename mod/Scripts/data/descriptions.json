@@ -12165,7 +12165,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "This mod adds a Pixel Ducks to Scrap Mechanic.\n\nDucks Available \n-Pixel Duck\n-The Duck from Stardew Valley\n-Pixel Scrap Mechanic Duck\n-Pixel Raft Scrap Duck\n-Pixel Duck 5\n\n-All Ducks have 2D and block variancs \n-All Ducks are paintable\n-Fully compatible with gamemodes that support custum crafting recipes \nMore Ducks to come.",
+		"description": "This mod adds a Pixel Ducks to Scrap Mechanic.\n\nDucks Available \n-Pixel Duck\n-The Duck from Stardew Valley\n-Pixel Scrap Mechanic Duck\n-Pixel Raft Scrap Duck\n-Pixel Duck 5\n\n-All Ducks have 2D and block variance\n-All Ducks are paintable\n-Compatible with game modes that support custom crafting recipes\n-A plastic crafting recipe for balanceing in compatable game modes\nMore Ducks to come.",
 		"fileId": 2784667727,
 		"localId": "7576ddb2-5bd7-4555-8e90-46dad41377fe",
 		"name": "The Pixel Duck Mod",
@@ -15364,5 +15364,56 @@
 		"name": "TOTALLY A MOD",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"bd89c597-75a1-4a41-b282-bc0421a9f271": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2831908031,
+		"localId": "bd89c597-75a1-4a41-b282-bc0421a9f271",
+		"name": "fun stuipied stuff",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"9cd768bf-86bf-4845-8407-fb3881ab7431": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A mod i made with the help of Dr pixel plays",
+		"fileId": 2831942920,
+		"localId": "9cd768bf-86bf-4845-8407-fb3881ab7431",
+		"name": "my test mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"e87b7cdc-4092-4842-9ad0-4f855e209ae1": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "now you can use the power of W.O.K",
+		"fileId": 2831968043,
+		"localId": "e87b7cdc-4092-4842-9ad0-4f855e209ae1",
+		"name": "wok mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b47c9706-f299-4748-b8dc-ce3dbb96effe": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 2831997330,
+		"localId": "b47c9706-f299-4748-b8dc-ce3dbb96effe",
+		"name": "HAPPY BLOCK",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"53638331-7824-4a21-973f-f230242d725d": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Hello! The new Challenge update was here and i hade to mod the mod a little bit and now its done!\n\nThis mod adds: (For New Challenge Update)\n\nHungarian Language (Magyar)\n\nGui Textures\n\nTool Textures (Broken)\n\nReshade (+preset)\n\nto install these stuff it will need an manual install. (the file name will be done soon)\n\nBONUS: adds some new blocks to the game.\n\nPlease Share this mod and install +like this mod\nbecause this took me almost 2 years to make.",
+		"fileId": 2832003317,
+		"localId": "53638331-7824-4a21-973f-f230242d725d",
+		"name": "B_Scrap Gamer Mod 2",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
