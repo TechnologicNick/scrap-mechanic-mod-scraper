@@ -12165,7 +12165,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "This mod adds a Pixel Ducks to Scrap Mechanic.\n\nDucks Available \n-Pixel Duck\n-The Duck from Stardew Valley\n-Pixel Scrap Mechanic Duck\n-Pixel Raft Scrap Duck\n-Pixel Duck 5\n\n-All Ducks have 2D and block variance\n-All Ducks are paintable\n-Compatible with game modes that support custom crafting recipes\n-A plastic crafting recipe for balanceing in compatable game modes\nMore Ducks to come.",
+		"description": "This mod adds a Pixel Ducks to Scrap Mechanic.\r\n\r\nDucks Available \r\n-Pixel Duck\r\n-The Duck from Stardew Valley\r\n-Pixel Scrap Mechanic Duck\r\n-Pixel Raft Scrap Duck\r\n-Pixel Duck 5\r\n\r\n-All Ducks have 2D and block variance\r\n-All Ducks are paintable\r\n-Compatible with game modes that support custom crafting recipes\r\n-A plastic crafting recipe for balancing in compatible game modes\r\nMore Ducks to come.",
 		"fileId": 2784667727,
 		"localId": "7576ddb2-5bd7-4555-8e90-46dad41377fe",
 		"name": "The Pixel Duck Mod",
@@ -15475,7 +15475,7 @@
 	"310de3ca-2edc-4637-85c2-92fe68b5b18a": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Alpha:0.1",
+		"description": "Alpha-0.2\n-Added Rubbered Metal.\n-Fixed some bugs with compability.",
 		"fileId": 2832220832,
 		"localId": "310de3ca-2edc-4637-85c2-92fe68b5b18a",
 		"name": "Engines +",
@@ -15539,6 +15539,33 @@
 		"fileId": 2832471932,
 		"localId": "3efc7583-923a-4df1-bd25-f0f28d9b1dae",
 		"name": "sunshake engine",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"ceae5682-a110-464c-875d-ad871ac97b3b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "adding new no script blocks comment any ideas.\n\nif you find any errors ever DM me at cargaming#8379",
+		"fileId": 2832629538,
+		"localId": "ceae5682-a110-464c-875d-ad871ac97b3b",
+		"name": "new blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"eb093792-ab1f-4c7f-8391-f00bea832cb2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2827272601,
+				"localId": "fda73518-7b33-4ba9-8df9-a3d3a0920bea",
+				"name": "lolzzz - kensloz"
+			}
+		],
+		"description": "This mod have a description",
+		"fileId": 2832635784,
+		"localId": "eb093792-ab1f-4c7f-8391-f00bea832cb2",
+		"name": "parts scrapa",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
