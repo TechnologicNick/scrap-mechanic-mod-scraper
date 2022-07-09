@@ -12866,8 +12866,9 @@
 		"version": 0
 	},
 	"382eb99c-fc8a-4ee6-a6c7-19ca99c668c1": {
-		"custom_icons": false,
-		"description": "This mod adds back the Old Pre survival thruster so you dont have to scrap your old creating in order to get it, and you can still spawn it in in vanilla worlds!\n\nIts simple, just place down the \"Old Thruster\" Part and you're done!",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod adds back the Old Pre survival thruster so you don't have to scrap your old \nWARNING: this mod is outdated, please use https://steamcommunity.com/sharedfiles/filedetails/?id=2832429595 \n\ncreations in order to get it, and you can still spawn it in in vanilla worlds!\n\nIts simple, just place down the \"Old Thruster\" Part and you're done!\n\ncredit:\nMod by: Laz\nCode by: unknown81311",
 		"fileId": 2811574336,
 		"localId": "382eb99c-fc8a-4ee6-a6c7-19ca99c668c1",
 		"name": "Old (Pre Survival) Thruster",
@@ -13927,7 +13928,9 @@
 		"version": 1
 	},
 	"16d1d2ae-483a-4070-a20f-a4f9ce3ac325": {
-		"description": "Thats my frist mod.\n\nThis mod adds 4 test blocks:\n-test block [Test Block]\n-block with smily face (alpha channel) [Test Block2]\n-block with smily face (normal asg file) [Test Block2-1]\n-block with smily face (red channel & glass) [Test Block2_glass]",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h1][b]Thats my frist mod.[/b][/h1]\r\n\r\n[h3][b]This mod adds 4 blocks:[/b][/h3]\r\n-test block [Test Block]\r\n-block with smily face (alpha channel) [Test Block2]\r\n-block with smily face (normal asg file) [Test Block2-1]\r\n-block with smily face (red channel & glass) [Test Block2_glass]\r\n\r\n[h2][b]\\/ NEW! \\/[/b][/h2]\r\n[h3][b]1 part:[/b][/h3]\r\n-Red tapebot head\r\n\r\n[h3][b]and 3 interactive parts![/b][/h3]\r\n-Gas Engine 5 with Gas engine 1 sounds\r\n-Gas Engine 5 with Gas engine 3 sounds\r\n-Driveable woc (Driver's seat)\r\n-Druveable woc (seat)\r\n\r\n\r\n\r\n[b]Changelog:[/b]\r\n(July 08, 2022) V1.1:\r\n-Red tapebot head\r\n-Gas Engine 5 with Gas engine 1 sounds\r\n-Gas Engine 5 with Gas engine 3 sounds\r\n-Driveable woc (Driver's seat)\r\n-Druveable woc (seat)\r\n\r\n(July 01, 2022) V1.0:\r\n-test block [Test Block]\r\n-block with smily face (alpha channel) [Test Block2]\r\n-block with smily face (normal asg file) [Test Block2-1]\r\n-block with smily face (red channel & glass) [Test Block2_glass]\r\n",
 		"fileId": 2828634944,
 		"localId": "16d1d2ae-483a-4070-a20f-a4f9ce3ac325",
 		"name": "My Frist Mod",
@@ -15411,7 +15414,7 @@
 	"53638331-7824-4a21-973f-f230242d725d": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Hello! The new Challenge update was here and i hade to mod the mod a little bit and now its done!\n\nThis mod adds: (For New Challenge Update)\n\nHungarian Language (Magyar)\n\nGui Textures\n\nTool Textures (Broken)\n\nReshade (+preset)\n\nto install these stuff it will need an manual install. (the file name will be done soon)\n\nBONUS: adds some new blocks to the game.\n\nPlease Share this mod and install +like this mod\nbecause this took me almost 2 years to make.",
+		"description": "Hello! The new Challenge update was here and i hade to mod the mod a little bit and now its done!\n\nThis mod adds: (For New Challenge Update)\n\nHungarian Language (Magyar)\n\nGui Textures\n\nTool Textures (Broken)\n\nReshade (+preset) (removed)\n\nto install these stuff it will need an manual install. (the file code is: 2832003317, go find that file.)\n\nBONUS: adds some new blocks to the game. (broken)\n\nPlease Share this mod and install +like this mod\nbecause this took me almost 2 years to make.",
 		"fileId": 2832003317,
 		"localId": "53638331-7824-4a21-973f-f230242d725d",
 		"name": "B_Scrap Gamer Mod 2",
@@ -15476,6 +15479,66 @@
 		"fileId": 2832220832,
 		"localId": "310de3ca-2edc-4637-85c2-92fe68b5b18a",
 		"name": "Engines +",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"aceebbb9-73b0-4ce9-b481-c49defbd2156": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A mod for all you trying to get more parts and interactables.",
+		"fileId": 2832231604,
+		"localId": "aceebbb9-73b0-4ce9-b481-c49defbd2156",
+		"name": "Robot parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"21ab93ba-f41f-4443-ab12-b700e0a38bfd": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "My first mod, mostly just a test and ill add random blocks and parts to it as and when I need them",
+		"fileId": 2832280176,
+		"localId": "21ab93ba-f41f-4443-ab12-b700e0a38bfd",
+		"name": "Cakeheads Custom Block Pack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d02f578c-0e88-4d22-a188-9c911c6b8fe9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "AAAAAAAAA",
+		"fileId": 2832398130,
+		"localId": "d02f578c-0e88-4d22-a188-9c911c6b8fe9",
+		"name": "coolmode",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"cb3f25e9-42c9-46f1-8b87-7291e5c31a17": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Parts are... good :)",
+		"fileId": 2832415995,
+		"localId": "cb3f25e9-42c9-46f1-8b87-7291e5c31a17",
+		"name": "Parts are good",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"625a0b6f-635b-4a45-ba2c-5a0dd7bc090e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds back all the old interactibles, so you dont have to decunstruct all your old creations to get them.\n\nCredits\nLaz",
+		"fileId": 2832429595,
+		"localId": "625a0b6f-635b-4a45-ba2c-5a0dd7bc090e",
+		"name": "Old blocks and parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"3efc7583-923a-4df1-bd25-f0f28d9b1dae": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2832471932,
+		"localId": "3efc7583-923a-4df1-bd25-f0f28d9b1dae",
+		"name": "sunshake engine",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
