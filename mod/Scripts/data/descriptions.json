@@ -12579,12 +12579,12 @@
 		"version": 0
 	},
 	"b3dc637a-90a5-46d1-8c3a-881bc2205c0e": {
-		"description": "This mod doesn't have a description",
+		"description": "UPDATE! Version 1.0\r\n\r\nChangelog \\/ \\/ \\/\r\nFixed the one bug from the earlier version (that being a duplicate texture)\r\nFinished the rest of the matching fabric blocks\r\nAdded panel trims.\r\n\r\n\r\n\r\nWelcome to the NEW bus seats and fabrics mod!\r\n\r\nEver since the bus seats and fabrics mod glitched out and duplicated itself (along with other glitches) I've had the idea of a new bus seats and fabrics mod on my mind...\r\n\r\nand now i'm proud to announce the release of the NEW bus seats and fabrics mod!\r\nHope you enjoy :)\r\n\r\n\r\n\r\n\r\n",
 		"fileId": 2800437500,
 		"localId": "b3dc637a-90a5-46d1-8c3a-881bc2205c0e",
 		"name": "New bus seats and fabrics mod",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"f179ffc1-1f3a-4b7e-9b6d-0d9a7367fd1b": {
 		"description": "Peckett - B2 Class Locomotive, 0-6-0ST\nPeckett - W4 Class Locomotive, 0-4-0ST",
@@ -13371,12 +13371,7 @@
 	"be4f1099-5250-487f-be31-d923242f2e56": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2504530003,
-				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
-			}
-		],
+		"dependencies": null,
 		"description": "Work in progress, still in developpement stay tuned.",
 		"fileId": 2821299827,
 		"localId": "be4f1099-5250-487f-be31-d923242f2e56",
@@ -13437,7 +13432,7 @@
 	"ba314573-19ca-4e4f-8510-0694b20e0ceb": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Propeller (Clockwise)\nPropeller (CounterClockwise)\nRudder\n\nPropeller thruster is determined by the speed of rotation of the propeller. \n\nUse Electic Engine or Smart Engine (MOD Pack)\n\n(Smart Engine, set speed 400 - 1200)",
+		"description": "Propeller (Clockwise)\r\nPropeller (CounterClockwise)\r\nRudder\r\n\r\nPropeller thrust is determined by the speed of rotation. \r\n\r\nConnect using Bearing and either Electic Engine or Smart Engine (MOD Pack, set speed 400 - 1200)",
 		"fileId": 2826571135,
 		"localId": "ba314573-19ca-4e4f-8510-0694b20e0ceb",
 		"name": "Marine",
@@ -15566,6 +15561,26 @@
 		"fileId": 2832635784,
 		"localId": "eb093792-ab1f-4c7f-8391-f00bea832cb2",
 		"name": "parts scrapa",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f4cc65c9-ac91-4067-9562-4bc23f694175": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "See [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2831560152]guide[/url]\r\nSee this [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2832825023]collection[/url] to get help with code\r\nP.S. for some time nonsquare displays not allowed",
+		"fileId": 2821133117,
+		"localId": "f4cc65c9-ac91-4067-9562-4bc23f694175",
+		"name": "ScriptableComputer",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"c196ece9-3171-4f25-9011-a6c7f13536a5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "adds a simple block that locks any build it is placed on",
+		"fileId": 2832847962,
+		"localId": "c196ece9-3171-4f25-9011-a6c7f13536a5",
+		"name": "Lock Block",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
