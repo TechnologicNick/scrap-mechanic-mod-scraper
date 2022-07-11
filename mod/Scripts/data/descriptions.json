@@ -15570,7 +15570,7 @@
 	"f4cc65c9-ac91-4067-9562-4bc23f694175": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "See [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2831560152]guide[/url]\r\nSee this [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2832825023]collection[/url] to get help with code\r\nP.S. for some time nonsquare displays not allowed",
+		"description": "See [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2831560152]guide[/url]\r\nSee this [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2832825023]collection[/url] to get help with code\r\nP.S. Non-square displays will not be available for a while",
 		"fileId": 2821133117,
 		"localId": "f4cc65c9-ac91-4067-9562-4bc23f694175",
 		"name": "ScriptableComputer",
