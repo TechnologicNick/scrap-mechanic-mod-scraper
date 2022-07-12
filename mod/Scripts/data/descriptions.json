@@ -4264,7 +4264,7 @@
 	"c0344d93-7492-46c8-88be-a61699e57041": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mods contains 19 awesome cannons with shooting animations and custom projectiles.\r\n\r\n[code][h1][b]This mod contains:[/b][/h1]\r\n- Tank cannon\r\n- Flak cannon\r\n- Naval cannon\r\n- 2nd tank cannon\r\n- M1 Abrams cannon\r\n- Schwerer Gustav cannon (mortar)\r\n- Aircraft cannon\r\n- 2nd naval cannon\r\n- 3rd tank cannon\r\n- Railgun\r\n- 2nd railgun (has better effects and it's more powerful)\r\n- M109 cannon (howitzer)\r\n- Rocket launcher\r\n- Smart cannon (works with the number logic from 'The Modpack')\r\n- Small smart cannon\r\n- Orbital cannon\r\n- Smart rocket launcher (you can use The Modpack to input some stuff)\r\n- Flare (heat decoy) launcher\r\n- EMP Cannon (disconnects logic)\r\n- Smart Rocket Detector\r\n- Shell Ejector\r\n- Laser Cannon[/code]\r\n\r\n[code][h1][b]Language support:[/b][/h1]\r\n- English: by default\r\n- Russian: by default\r\n- German: by default\r\n- Polish: Thanks to Driver for the translation![/code]\r\n\r\n[code][h1][b]Contributors:[/b][/h1]\r\n[b][url=https://steamcommunity.com/profiles/76561198361178618]Questionable Mark[/url][/b] - creator of all the textures, UV maps for models, scripts and a behaviour of the projectiles\r\n[b][url=https://steamcommunity.com/profiles/76561198134257237]Gratiskatze[/url][/b] - creator of the most cannons, creator of the logo, beta-tester and German language translator.\r\n[b][url=https://steamcommunity.com/profiles/76561198296305997]Brent Batch[/url][/b] - creator of the most scripts and creator of the Global Script.\r\n[b][url=https://steamcommunity.com/profiles/76561198350208505]Kein Anderer[/url][/b] - beta-tester and German language translator.\r\n[b][url=https://steamcommunity.com/profiles/76561198280635682]Driver[/url][/b] - creator of an EMP Cannon model and Polish language translator.\r\n[b][url=https://steamcommunity.com/profiles/76561198196145217]Seemomster[/url][/b] - creator of the 2nd Tank Cannon.[/code]\r\n\r\nIf you want to support us and you like this mod you can leave your thumbs up on this mod and add it to your favorites.",
+		"description": "This mods contains 21 awesome cannons with shooting animations and custom projectiles.\r\n\r\n[code][h1][b]This mod contains:[/b][/h1]\r\n- Tank cannon\r\n- Flak cannon\r\n- Naval cannon\r\n- 2nd tank cannon\r\n- M1 Abrams cannon\r\n- Schwerer Gustav cannon (mortar)\r\n- Aircraft cannon\r\n- 2nd naval cannon\r\n- 3rd tank cannon\r\n- Railgun\r\n- 2nd railgun (has better effects and it's more powerful)\r\n- M109 cannon (howitzer)\r\n- Rocket launcher\r\n- Smart cannon (works with the number logic from 'The Modpack')\r\n- Small smart cannon\r\n- Orbital cannon\r\n- Smart rocket launcher (you can use The Modpack to input some stuff)\r\n- Flare (heat decoy) launcher\r\n- EMP Cannon (disconnects logic)\r\n- Smart Rocket Detector\r\n- Shell Ejector\r\n- Laser Cannon\r\n- Small Rocket Pod\r\n- Large Rocket Pod[/code]\r\n\r\n[code][h1][b]Language support:[/b][/h1]\r\n- English: by default\r\n- Russian: by default\r\n- German: by default\r\n- Polish: Thanks to Driver for the translation![/code]\r\n\r\n[code][h1][b]Contributors:[/b][/h1]\r\n[b][url=https://steamcommunity.com/profiles/76561198361178618]Questionable Mark[/url][/b] - creator of all the textures, UV maps for models, scripts and a behaviour of the projectiles\r\n[b][url=https://steamcommunity.com/profiles/76561198134257237]Gratiskatze[/url][/b] - creator of the most cannons, creator of the logo, beta-tester and German language translator.\r\n[b][url=https://steamcommunity.com/profiles/76561198296305997]Brent Batch[/url][/b] - creator of the most scripts and creator of the Global Script.\r\n[b][url=https://steamcommunity.com/profiles/76561198350208505]Kein Anderer[/url][/b] - beta-tester and German language translator.\r\n[b][url=https://steamcommunity.com/profiles/76561198280635682]Driver[/url][/b] - creator of an EMP Cannon model and Polish language translator.\r\n[b][url=https://steamcommunity.com/profiles/76561198196145217]Seemomster[/url][/b] - creator of the 2nd Tank Cannon.[/code]\r\n\r\nIf you want to support us and you like this mod you can leave your thumbs up on this mod and add it to your favorites.",
 		"fileId": 1904783067,
 		"localId": "c0344d93-7492-46c8-88be-a61699e57041",
 		"name": "Cannons Pack",
@@ -15604,6 +15604,36 @@
 		"fileId": 2833227814,
 		"localId": "66a07129-de14-4049-b2d6-0d9d3e2bd627",
 		"name": "Botparts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"658c769f-6689-4287-919b-ea0e891e40c9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "I have fixed the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2157793059]Sniper Spudgun mod[/url]!\n\nCredits:\nTheGuy920 - scripting\nrivet - scripting\nFawx - models\n\nVajdani - updating the UI and making it work with the new mod support\nMrCrackx - fixing the broken models\n\nI hope you will have fun with it.",
+		"fileId": 2833494419,
+		"localId": "658c769f-6689-4287-919b-ea0e891e40c9",
+		"name": "Fixed Sniper Spudgun",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b542e410-d4c9-436b-aa3a-1cfb8c77dda3": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Changes the Radio music to I put a spell on you.\n\nManual install required for this to work but don't worry its super easy :D\n\n\"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2419997528\"\n\n387990 is the folder containing Scrap Mechanic Workshop Items\n2419997528 is the ID of this mod\n\nAfter you've reached that location you should see files such as, \"Cache\", \"Data\", \"Effects\", \"Gui\", Objects\", etc.\n\nCopy the folder labeled \"Audio\" in effect folder and paste it into the Scrap Mechanic game directory at\n\n\"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic/data\"\n\nA popup should appear asking that an existing file already exists. When this happens confirm that you want to replace the existing file.",
+		"fileId": 2833526111,
+		"localId": "b542e410-d4c9-436b-aa3a-1cfb8c77dda3",
+		"name": "Hocus Pocus Radio",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"43de6f79-98af-4ab7-8c00-7f036305ff94": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "My first mod ever",
+		"fileId": 2833873635,
+		"localId": "43de6f79-98af-4ab7-8c00-7f036305ff94",
+		"name": "My first mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
