@@ -15662,10 +15662,30 @@
 				"name": "Xeridox's Map Mod"
 			}
 		],
-		"description": "UnknownUnit's Mod Collection\nInclude:\n-Dev Mode in survival (By TheUnknownUnit)[No Release]\n-No Starter Backpack (By TheUnknownUnit)[No Release] (Don't work currently)\n-Craftable Circuit Boards and Component Kits (By TheUnknownUnit)[No Release]\n\nDependencies:\n-Xeridox's Map Mod (By Xeridox)[https://steamcommunity.com/sharedfiles/filedetails/?id=2104768903]\n-ModDatabase (By TechnologicNick and The Guild)[https://steamcommunity.com/sharedfiles/filedetails/?id=2504530003]\n\nBig up to\n-Xeridox for creating Xeridox's Map Mod\n-ModDatabase TechnologicNick and The Guild for creating ModDatabase\n-QuestionableM for creating Modded Craftbot Recipes [https://github.com/QuestionableM/Modded-Craftbot-Recipes]",
+		"description": "UnknownUnit's Mod Collection\nInclude:\n-Craftable Circuit Boards and Component Kits (By TheUnknownUnit)[No Release]\n\nDependencies:\n-Xeridox's Map Mod (By Xeridox)[https://steamcommunity.com/sharedfiles/filedetails/?id=2104768903]\n-ModDatabase (By TechnologicNick and The Guild)[https://steamcommunity.com/sharedfiles/filedetails/?id=2504530003]\n\nBig up to:\n-Xeridox for creating Xeridox's Map Mod\n-ModDatabase TechnologicNick and The Guild for creating ModDatabase\n-QuestionableM for creating Modded Craftbot Recipes [https://github.com/QuestionableM/Modded-Craftbot-Recipes]",
 		"fileId": 2833045151,
 		"localId": "4419aa3f-d8ce-4fce-b450-92da767a9628",
 		"name": "UnknownUnitsSurvival",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"1b6b5386-da21-4a52-b9fa-799d2e8c15a8": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "these are the parts that were cut form the game. dont mind the windscreen, it never had a texture for it and as much as I tried, i coudn't make one for it. ",
+		"fileId": 2834267726,
+		"localId": "1b6b5386-da21-4a52-b9fa-799d2e8c15a8",
+		"name": "cut vehicle parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6e402ba0-0f4b-4750-b1d2-08026289aef4": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Made this so i could add mods with ease to survival",
+		"fileId": 2834288119,
+		"localId": "6e402ba0-0f4b-4750-b1d2-08026289aef4",
+		"name": "Survival custom game for adding mods with ease",
 		"type": "Custom Game",
 		"version": 0
 	}
