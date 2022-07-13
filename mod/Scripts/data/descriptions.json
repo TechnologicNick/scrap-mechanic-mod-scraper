@@ -15655,11 +15655,6 @@
 				"fileId": 2504530003,
 				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
 				"name": "ModDatabase"
-			},
-			{
-				"fileId": 2819491460,
-				"localId": "5d1aac85-b56d-46e7-b224-c6b99f5e2ce2",
-				"name": "Xeridox's Map Mod"
 			}
 		],
 		"description": "UnknownUnit's Mod Collection\nInclude:\n-Craftable Circuit Boards and Component Kits (By TheUnknownUnit)[No Release]\n\nDependencies:\n-Xeridox's Map Mod (By Xeridox)[https://steamcommunity.com/sharedfiles/filedetails/?id=2104768903]\n-ModDatabase (By TechnologicNick and The Guild)[https://steamcommunity.com/sharedfiles/filedetails/?id=2504530003]\n\nBig up to:\n-Xeridox for creating Xeridox's Map Mod\n-ModDatabase TechnologicNick and The Guild for creating ModDatabase\n-QuestionableM for creating Modded Craftbot Recipes [https://github.com/QuestionableM/Modded-Craftbot-Recipes]",
@@ -15688,5 +15683,22 @@
 		"name": "Survival custom game for adding mods with ease",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"5a0eefbc-0aac-4176-abb7-ce0a87b8d754": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2813593777,
+				"localId": "79246818-be32-4845-8d63-b9289017e074",
+				"name": "Fireaxe"
+			}
+		],
+		"description": "Code your own part into the game",
+		"fileId": 2834623090,
+		"localId": "5a0eefbc-0aac-4176-abb7-ce0a87b8d754",
+		"name": "Lua! Scriptable Parts",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
