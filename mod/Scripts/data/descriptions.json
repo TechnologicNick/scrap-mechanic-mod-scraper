@@ -15657,7 +15657,7 @@
 				"name": "ModDatabase"
 			}
 		],
-		"description": "UnknownUnit's Mod Collection\nInclude:\n-Craftable Circuit Boards and Component Kits (By TheUnknownUnit)[No Release]\n\nDependencies:\n-Xeridox's Map Mod (By Xeridox)[https://steamcommunity.com/sharedfiles/filedetails/?id=2104768903]\n-ModDatabase (By TechnologicNick and The Guild)[https://steamcommunity.com/sharedfiles/filedetails/?id=2504530003]\n\nBig up to:\n-Xeridox for creating Xeridox's Map Mod\n-ModDatabase TechnologicNick and The Guild for creating ModDatabase\n-QuestionableM for creating Modded Craftbot Recipes [https://github.com/QuestionableM/Modded-Craftbot-Recipes]",
+		"description": "UnknownUnit's Mod Collection\nInclude:\n-Craftable Circuit Boards and Component Kits (By TheUnknownUnit)[No Release]\n-Xeridox's Map Mod (By Xeridox)[https://steamcommunity.com/sharedfiles/filedetails/?id=2104768903]\n\nDependencies:\n-ModDatabase (By TechnologicNick and The Guild)[https://steamcommunity.com/sharedfiles/filedetails/?id=2504530003]\n\nBig up to:\n-Xeridox for creating Xeridox's Map Mod\n-ModDatabase TechnologicNick and The Guild for creating ModDatabase\n-QuestionableM for creating Modded Craftbot Recipes [https://github.com/QuestionableM/Modded-Craftbot-Recipes]",
 		"fileId": 2833045151,
 		"localId": "4419aa3f-d8ce-4fce-b450-92da767a9628",
 		"name": "UnknownUnitsSurvival",
@@ -15687,17 +15687,37 @@
 	"5a0eefbc-0aac-4176-abb7-ce0a87b8d754": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"description": "Code your own part into the game",
 		"dependencies": [
 			{
-				"fileId": 2813593777,
-				"localId": "79246818-be32-4845-8d63-b9289017e074",
-				"name": "Fireaxe"
+				"fileId": 2791874023,
+				"localId": "5a081817-b141-4439-987f-a25162d125fd",
+				"name": "ScrapVM"
 			}
 		],
-		"description": "Code your own part into the game",
 		"fileId": 2834623090,
 		"localId": "5a0eefbc-0aac-4176-abb7-ce0a87b8d754",
 		"name": "Lua! Scriptable Parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"5390ef13-2ea7-4ed0-98a7-2bef98698bed": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2834675571,
+		"localId": "5390ef13-2ea7-4ed0-98a7-2bef98698bed",
+		"name": "Robot Parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"fd1aac25-9782-49d4-8b37-b96dbc92e84b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2834746290,
+		"localId": "fd1aac25-9782-49d4-8b37-b96dbc92e84b",
+		"name": "Advanced Combat Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
