@@ -12083,12 +12083,12 @@
 		"version": 0
 	},
 	"0d0df9b1-92d3-4cc3-944b-f9a6322982a7": {
-		"description": "a mod that adds a sticky wheel, that isn't actually sticky.",
+		"description": "a mod that adds a sticky wheel, that isn't actually sticky.\r\nthis is my first time making a mod.",
 		"fileId": 2782249657,
 		"localId": "0d0df9b1-92d3-4cc3-944b-f9a6322982a7",
 		"name": "Sticky wheels",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"7ae900d9-b06d-489a-853e-7d77c5ae33d7": {
 		"description": "This mod has just one part, the Robot Gun!\nA gun that shoots robots!\n\nYou can change the type of robot, switch between normal and automatic (gatling) fire mode, set the amount of bots per shot, how fast it should shoot, the shooting force and it even has RGB!",
@@ -15687,7 +15687,6 @@
 	"5a0eefbc-0aac-4176-abb7-ce0a87b8d754": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Code your own part into the game",
 		"dependencies": [
 			{
 				"fileId": 2791874023,
@@ -15695,6 +15694,7 @@
 				"name": "ScrapVM"
 			}
 		],
+		"description": "https://discord.gg/p59xMWnUAh\r\nJoin my discord server to :\r\n\r\n - Ask me how to use this thing (if theres no tutorial yet)\r\n - Leave suggestions\r\n - Send bug reports\r\n - Be a cool guy B)\r\n\r\nCode your own part into the game inside of the game!",
 		"fileId": 2834623090,
 		"localId": "5a0eefbc-0aac-4176-abb7-ce0a87b8d754",
 		"name": "Lua! Scriptable Parts",
