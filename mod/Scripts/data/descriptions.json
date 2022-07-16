@@ -5914,7 +5914,7 @@
 	"50ee5ce2-9583-4a6e-b3da-b5c187cd798c": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Essentials items and modifications for your survival game.\n\n[img]https://steamusercontent-a.akamaihd.net/ugc/933807031682165938/34CBC07D7ED73B6282B3F7AF2E3D47BB462BF9B1/[/img]\n\nSubscribe, rate and favorite! :)\n\nBugs? Suggestions?\nhttps://steamcommunity.com/sharedfiles/filedetails/discussions/2126594034\n\nThanks for using Modscrap!",
+		"description": "MODPACK ATUALIZADO!\r\n\r\nModificações e itens essenciais para fazer seu jogo survival realmente survival.\r\n\r\n[img]https://steamusercontent-a.akamaihd.net/ugc/933807031682165938/34CBC07D7ED73B6282B3F7AF2E3D47BB462BF9B1/[/img]\r\n\r\nInscreva-se, avalie e favorite! :)\r\n\r\nBugs? Sugestões?\r\nhttps://steamcommunity.com/sharedfiles/filedetails/discussions/2126594034\r\n\r\nObrigado por usar Modscrap!",
 		"fileId": 2126594034,
 		"localId": "50ee5ce2-9583-4a6e-b3da-b5c187cd798c",
 		"name": "Modscrap [Custom Game]",
@@ -12582,7 +12582,9 @@
 		"version": 0
 	},
 	"b3dc637a-90a5-46d1-8c3a-881bc2205c0e": {
-		"description": "UPDATE! Version 1.0\r\n\r\nChangelog \\/ \\/ \\/\r\nFixed the one bug from the earlier version (that being a duplicate texture)\r\nFinished the rest of the matching fabric blocks\r\nAdded panel trims.\r\n\r\n\r\n\r\nWelcome to the NEW bus seats and fabrics mod!\r\n\r\nEver since the bus seats and fabrics mod glitched out and duplicated itself (along with other glitches) I've had the idea of a new bus seats and fabrics mod on my mind...\r\n\r\nand now i'm proud to announce the release of the NEW bus seats and fabrics mod!\r\nHope you enjoy :)\r\n\r\n\r\n\r\n\r\n",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "UPDATE! Version 1.1\r\n\r\nChangelog \\/ \\/ \\/\r\n0.6.0 FINALLY! Now upgraded to 0.6.0 standards\r\n\r\n\r\n\r\nWelcome to the NEW bus seats and fabrics mod!\r\n\r\nEver since the bus seats and fabrics mod glitched out and duplicated itself (along with other glitches) I've had the idea of a new bus seats and fabrics mod on my mind...\r\n\r\nand now i'm proud to announce the release of the NEW bus seats and fabrics mod!\r\nHope you enjoy :)\r\n\r\n\r\n\r\n\r\n",
 		"fileId": 2800437500,
 		"localId": "b3dc637a-90a5-46d1-8c3a-881bc2205c0e",
 		"name": "New bus seats and fabrics mod",
@@ -15610,7 +15612,7 @@
 	"658c769f-6689-4287-919b-ea0e891e40c9": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "I have fixed the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2157793059]Sniper Spudgun mod[/url]!\n\nCredits:\nTheGuy920 - scripting\nrivet - scripting\nFawx - models\n\nVajdani - updating the UI and making it work with the new mod support\nMrCrackx - fixing the broken models\n\nI hope you will have fun with it.",
+		"description": "[h1]We have fixed the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2157793059]Sniper Spudgun mod[/url]![/h1]\r\n[b]Thanks to [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Questionable Mark's Modded Craftbot Recipes[/url], the gun is obtainable at the Trader in survival![/b]\r\n\r\n[h1]Features:[/h1]\r\n[list]\r\n    [*][b]Faster Potato projectile[/b]\r\n    [*][b]More damage[/b]\r\n    [*][b]Slower reload time[/b]\r\n    [*][b]Zoomig in/out while scoped in with Q/R[/b]\r\n[/list]\r\n\r\n[h1]Credits:[/h1]\r\n[list]\r\n    [*][b]TheGuy920[/b] - scripting\r\n    [*][b]diana[/b] - scripting\r\n    [*][b]Fawx [/b] - models\r\n    [*][b]Vajdani [/b] - updating UI, porting\r\n    [*][b]MrCrackx02[/b] - fixing broken models\r\n[/list]\r\n\r\n\r\n\r\nHave fun sniping bots with [i]SSStyle[/i]!",
 		"fileId": 2833494419,
 		"localId": "658c769f-6689-4287-919b-ea0e891e40c9",
 		"name": "Fixed Sniper Spudgun",
@@ -15758,6 +15760,16 @@
 		"fileId": 2835773426,
 		"localId": "8ce0f857-b60b-4fc4-a92b-09fefaef43c0",
 		"name": "Character Spawner",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"ace791c5-172e-4005-a26d-f2bf5ef6f3c2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "x",
+		"fileId": 2835870699,
+		"localId": "ace791c5-172e-4005-a26d-f2bf5ef6f3c2",
+		"name": "[ACM] Warehouse + Spaceship Parts",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
