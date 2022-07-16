@@ -15720,5 +15720,45 @@
 		"name": "Advanced Combat Mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"3ea9bd78-265e-4954-85b0-5e19b8cf9592": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod has Alien parts to use for the Bunic creation \"beep boop alien ride idk name yet\".\nThis mod includes reweighted parts and scripted parts used for custom sounds.\n\nFeel free to use any parts in this mod, just remember any custom sound parts will not work without the custom Bunic ---Alien Ride--- sound bank.",
+		"fileId": 2821643917,
+		"localId": "3ea9bd78-265e-4954-85b0-5e19b8cf9592",
+		"name": "Bunic Alien Pack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"000b97dd-830b-4c8b-a7f5-1da6d3e988e5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "raft mechanic raft bases as blocks",
+		"fileId": 2835550043,
+		"localId": "000b97dd-830b-4c8b-a7f5-1da6d3e988e5",
+		"name": "raft base blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"bdc20f03-92fe-4c65-ad2e-35d1ba5aedc8": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2835699500,
+		"localId": "bdc20f03-92fe-4c65-ad2e-35d1ba5aedc8",
+		"name": "first mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"8ce0f857-b60b-4fc4-a92b-09fefaef43c0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds Character Spawner from Challenge Mode.",
+		"fileId": 2835773426,
+		"localId": "8ce0f857-b60b-4fc4-a92b-09fefaef43c0",
+		"name": "Character Spawner",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
