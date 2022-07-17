@@ -46845,7 +46845,7 @@
 		]
 	},
 	"625a0b6f-635b-4a45-ba2c-5a0dd7bc090e": {
-		"$CONTENT_625a0b6f-635b-4a45-ba2c-5a0dd7bc090e/Objects/Database/ShapeSets/example.shapeset": [
+		"$CONTENT_625a0b6f-635b-4a45-ba2c-5a0dd7bc090e/Objects/Database/ShapeSets/Old Interactibles.shapeset": [
 			"aa8d89eb-919b-42f4-8b58-af6f0d5856bc",
 			"a481138b-fae9-47c9-9bc2-91b6d2e2bf52",
 			"cf3fdcfc-a7e5-4497-b000-ffda67dd8db7",
@@ -47811,5 +47811,8 @@
 			"fc4f1fd8-2544-45f0-8e3b-4684bc45e5f9",
 			"1f5d8b77-183c-4f8b-83d7-a3940d090926"
 		]
+	},
+	"80ac3cb3-db53-4aaa-992a-ee6c042728de": {
+		"$CONTENT_80ac3cb3-db53-4aaa-992a-ee6c042728de/Objects/Database/ShapeSets/control_parts.shapeset": []
 	}
 }

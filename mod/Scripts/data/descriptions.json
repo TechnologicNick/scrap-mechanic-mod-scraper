@@ -13437,10 +13437,10 @@
 	"ba314573-19ca-4e4f-8510-0694b20e0ceb": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Propeller (Clockwise)\r\nPropeller (CounterClockwise)\r\nRudder\r\n\r\nPropeller thrust is determined by the speed of rotation. \r\n\r\nConnect using Bearing and either Electic Engine or Smart Engine (MOD Pack, set speed 400 - 1200)",
+		"description": "Marine Engine (Motor, Gearbox, Drive, Propeller (CW & CCW) )\n\nN.B. Motor component functions as an engine.\nWorking on updates to the scripting for Gearbox component\n\nPropeller (Clockwise)\nPropeller (CounterClockwise)\nRudder\n\nPropeller thrust is determined by the speed of rotation. \n\nConnect using Bearing and either Electic Engine or Smart Engine (MOD Pack, set speed 400 - 1200)\n\n",
 		"fileId": 2826571135,
 		"localId": "ba314573-19ca-4e4f-8510-0694b20e0ceb",
-		"name": "Marine",
+		"name": "Marine Parts",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -15525,7 +15525,7 @@
 	"625a0b6f-635b-4a45-ba2c-5a0dd7bc090e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod adds back all the old interactibles, so you dont have to decunstruct all your old creations to get them.\n\nCredits\nLaz",
+		"description": "This mod adds back all the old interactibles, so you dont have to decunstruct all your old creations to get them.\n\nYou can also spawn creations that use the parts in a vanilla world!\n\nCredits\nLaz",
 		"fileId": 2832429595,
 		"localId": "625a0b6f-635b-4a45-ba2c-5a0dd7bc090e",
 		"name": "Old blocks and parts",
@@ -15770,6 +15770,16 @@
 		"fileId": 2835870699,
 		"localId": "ace791c5-172e-4005-a26d-f2bf5ef6f3c2",
 		"name": "[ACM] Warehouse + Spaceship Parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"80ac3cb3-db53-4aaa-992a-ee6c042728de": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 2836137312,
+		"localId": "80ac3cb3-db53-4aaa-992a-ee6c042728de",
+		"name": "CONTROL MOD",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
