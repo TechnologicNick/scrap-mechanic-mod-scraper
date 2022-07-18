@@ -13150,7 +13150,7 @@
 	"40c2432d-fab9-44a1-a3d0-53cf0bf8a780": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "V1 ",
+		"description": "This mod adds custom Tools/Parts I made to the game.\n\nTools\n-Velocity Gun\n-Rapid Fire Gatling Gun\n-Crit Shotgun\n\nParts\n-Beacon Screw\n-Beacon Screw (Breakable)\n-No Screw\n\nmore Tools and Parts to come.",
 		"fileId": 2818701598,
 		"localId": "40c2432d-fab9-44a1-a3d0-53cf0bf8a780",
 		"name": "Kai's Tools Mod",
@@ -13437,7 +13437,7 @@
 	"ba314573-19ca-4e4f-8510-0694b20e0ceb": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Marine Engine (Motor, Gearbox, Drive, Propeller (CW & CCW) )\n\nN.B. Motor component functions as an engine.\nWorking on updates to the scripting for Gearbox component\n\nPropeller (Clockwise)\nPropeller (CounterClockwise)\nRudder\n\nPropeller thrust is determined by the speed of rotation. \n\nConnect using Bearing and either Electic Engine or Smart Engine (MOD Pack, set speed 400 - 1200)\n\n",
+		"description": "Marine Engine (Motor, Gearbox, Drive, Propeller (CW & CCW) )\r\n\r\nN.B. Motor component functions as an engine.\r\nWorking on updates to the scripting for Gearbox component\r\n\r\n\r\n\r\nPropeller (Clockwise)\r\nPropeller (CounterClockwise)\r\nRudder\r\n\r\nPropeller thrust is determined by the speed of rotation. \r\n\r\nConnect using Bearing and either Electic Engine or Smart Engine (MOD Pack, set speed 400 - 1200)\r\n\r\n",
 		"fileId": 2826571135,
 		"localId": "ba314573-19ca-4e4f-8510-0694b20e0ceb",
 		"name": "Marine Parts",
@@ -15153,7 +15153,7 @@
 	"9b2bfa2b-11dd-4e3a-821d-a99b01409cac": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "lemonSurvival is a custom gamemode I made to change some of the design choices I personally didn't like in the original Survival Mode. This mod tries to revamp some of these issues all while trying to still feel like the vanilla game mode.\r\n\r\n[h1]Changelog:[/h1]\r\n-Made the start of the game slightly faster (no more putting fire out)\r\n-Removed Mechanic Station and Dispenser Bot (Replaced with smaller POI)\r\n-New item: Mobile Craftbot\r\n-Crude Oil can now be mined from rocks and gotten from traders\r\n-Most Items stack to 64 (with the exception of Gas and Batteries)\r\n-Blocks stack to 512\r\n-Refine Bot now outputs 3x blocks\r\n-Manual refining times reduced to 1.5 seconds\r\n-Scrap wheels have been replaced with normal wheels\r\n-Soil can now be removed quicker\r\n-All Craftbot times have now been reduced to 5 seconds\r\n-Alternative Glue Recipes (4 corn or 3 glowpoop)\r\n-Cheaper Scrap items recipes\r\n-Adjusted couple more crafting recipes\r\n-Added wedges recipe\r\n-Added warehouse lights recipe\r\n-Water recipe now gives out x5 water\r\n-Cheaper Beacons\r\n-Loot drops adjusted\r\n-Consistent Haybot drops\r\n\r\nIf you try out the gamemode please let me know what you think of it and if you had any issues with it.\r\n[b]NOTE: I didn't test this gamemode in multiplayer[/b]\r\n\r\n\r\n[h1]LATEST PATCHNOTES:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/changelog/2823686440[/h1]\r\n\r\n\r\n\r\n\r\nHere are the reasons for changes listed below (warning: contains personal opinions about survival mode):\r\n\r\n[h2]Removal of Mechanic Station[/h2]\r\nFrom what I've seen and experienced, the Mechanic Station discourages the making of bases, especially in the early game. Due to it being a large cosy interior space and the space providing the Dispenser bot needed to progress the game every player always sets up and builds a base there.\r\n\r\nThe Dispenser bot located there also means you cannot progress the game without reaching it first. This makes players sprint to it as soon as they create a new game which makes starting new playthroughs boring and repetitive. \r\n\r\nThe POI was replaced with a much smaller gas station that still has a workbench and beds to sleep on to act as a checkpoint incase you die.\r\n\r\n[h2]Mobile Craftbot[/h2]\r\nAn early game item that allows you to craft items on the go. It is upgradable to include more recipes such as the recipe to craft a normal Craftbot.\r\n\r\nThis lets you explore much more easily in the early game as it lets you leave the crashed ship behind.\r\n\r\n[h2]Reducing reliance on underwater stuff[/h2]\r\nI don't feel like the water in this game is quite ready yet. Axolot is planning on a water update in the far future after Chapter 2 so until then I have made some changes to make you swim less. \r\n\r\nGlue -\r\n2 new alternative recipes\r\n-1 glue = 4 corn\r\n-1 glue = 3 glowpoop\r\n\r\nCrude Oil -\r\n-Crude Oil can now be gotten from mining rocks\r\n-Crude Oil can now be found in ruins\r\n-Crude Oil can be bought at the farmers hideout\r\n\r\n[h2]Craftbot times[/h2]\r\nCrafting times have been reduced to 5 seconds for all items.\r\nThis was changed because I think long crafting times add no challenge or anything interesting to the game other than to waste your time. This is also why manual refining time has been reduced.\r\n\r\n[h2]Refinery Bot[/h2]\r\nThe Refinery bot was upgraded to give out 3 times amount of blocks it gets given, this was added to try reduce the grind of the game a bit more as well as to balance it around the reduced manual refining time I have added.\r\n\r\n[h2]Scrap wheels removed[/h2]\r\nScrap wheels were replaced for normal wheels because those wheels just suck, it makes the car slower than sprinting. Normal wheels should allow you to make a functional vehicle to move around in early on.\r\n\r\n\r\n\r\n[h3]Planned Features:[/h3]\r\n(things I have not added yet but I wanna add)\r\n\r\n-Bed you can sleep on (99% done, just testing it for any bugs)\r\n-Water bombs\r\n\r\nFeel free to suggest your own ideas\r\n\r\n\r\n\r\n[h1]Credits:[/h1]\r\nTL_Potatoe: Made the 6th image for the faster refining times",
+		"description": "lemonSurvival is a custom gamemode I made to change some of the design choices I personally didn't like in the original Survival Mode. This mod tries to revamp some of these issues all while trying to still feel like the vanilla game mode.\r\n\r\n[h1]Changelog:[/h1]\r\n-Made the start of the game slightly faster (no more putting fire out)\r\n-Removed Mechanic Station and Dispenser Bot (Replaced with smaller POI)\r\n-New item: Mobile Craftbot\r\n-Crude Oil can now be mined from rocks and gotten from traders\r\n-Most Items stack to 64 (with the exception of Gas and Batteries)\r\n-Blocks stack to 512\r\n-Refine Bot now outputs 3x blocks\r\n-Manual refining times reduced to 1.5 seconds\r\n-Scrap wheels have been replaced with normal wheels\r\n-Soil can now be removed quicker\r\n-All Craftbot times have now been reduced to 5 seconds\r\n-Alternative Glue Recipes (3 corn or 3 glowpoop)\r\n-Cheaper Scrap items recipes\r\n-Adjusted couple more crafting recipes\r\n-Added wedges recipe\r\n-Added warehouse lights recipe\r\n-Water recipe now gives out x5 water\r\n-Cheaper Beacons\r\n-Loot drops adjusted\r\n-Consistent Haybot drops\r\n-Chest space increases\r\n-Totebot head recycle recipe\r\n-Wood/Metal1 recycle recipes\r\n\r\nIf you try out the gamemode please let me know what you think of it and if you had any issues with it.\r\n\r\n\r\n[h1]LATEST PATCHNOTES:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/changelog/2823686440[/h1]\r\n\r\n\r\n\r\n\r\nHere are the reasons for changes listed below (warning: contains personal opinions about survival mode):\r\n\r\n[h2]Removal of Mechanic Station[/h2]\r\nFrom what I've seen and experienced, the Mechanic Station discourages the making of bases, especially in the early game. Due to it being a large cosy interior space and the space providing the Dispenser bot needed to progress the game every player always sets up and builds a base there.\r\n\r\nThe Dispenser bot located there also means you cannot progress the game without reaching it first. This makes players sprint to it as soon as they create a new game which makes starting new playthroughs boring and repetitive. \r\n\r\nThe POI was replaced with a much smaller gas station that still has a workbench and beds to sleep on to act as a checkpoint incase you die.\r\n\r\n[h2]Mobile Craftbot[/h2]\r\nAn early game item that allows you to craft items on the go. It is upgradable to include more recipes such as the recipe to craft a normal Craftbot.\r\n\r\nThis lets you explore much more easily in the early game as it lets you leave the crashed ship behind.\r\n\r\n[h2]Reducing reliance on underwater stuff[/h2]\r\nI don't feel like the water in this game is quite ready yet. Axolot is planning on a water update in the far future after Chapter 2 so until then I have made some changes to make you swim less. \r\n\r\nGlue -\r\n2 new alternative recipes\r\n-1 glue = 3 corn\r\n-1 glue = 3 glowpoop\r\n\r\nCrude Oil -\r\n-Crude Oil can now be gotten from mining rocks\r\n-Crude Oil can now be found in ruins\r\n-Crude Oil can be bought at the farmers hideout\r\n\r\n[h2]Craftbot times[/h2]\r\nCrafting times have been reduced to 5 seconds for all items.\r\nThis was changed because I think long crafting times add no challenge or anything interesting to the game other than to waste your time. This is also why manual refining time has been reduced.\r\n\r\n[h2]Refinery Bot[/h2]\r\nThe Refinery bot was upgraded to give out 3 times amount of blocks it gets given, this was added to try reduce the grind of the game a bit more as well as to balance it around the reduced manual refining time I have added.\r\n\r\n[h2]Scrap wheels removed[/h2]\r\nScrap wheels were replaced for normal wheels because those wheels just suck, it makes the car slower than sprinting. Normal wheels should allow you to make a functional vehicle to move around in early on.\r\n\r\n[h2]Chest space increased[/h2]\r\nAmount of slots in chests were increased.\r\n\r\nSmall Chest\r\n20 slots -> 30 slots\r\n\r\nBig Chest\r\n30 slots -> 60 slots\r\n\r\nThis is to make the big chest be bigger than the inventory and to make the smaller chest more useful early on.\r\n\r\n\r\n\r\n[h3]Planned Features:[/h3]\r\n(things I have not added yet but I wanna add)\r\n\r\n-Bed you can sleep on to skip the night (100% done, steam wont let me upload new update :/ )\r\n-Smaller beacons\r\n-Water bombs\r\n\r\nFeel free to suggest your own ideas\r\n\r\n\r\n\r\n[h1]Credits:[/h1]\r\nTL_Potatoe: Made the 6th image for the faster refining times",
 		"fileId": 2823686440,
 		"localId": "9b2bfa2b-11dd-4e3a-821d-a99b01409cac",
 		"name": "lemonSurvival",
@@ -15736,7 +15736,7 @@
 	"000b97dd-830b-4c8b-a7f5-1da6d3e988e5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "raft mechanic raft bases as blocks",
+		"description": "raft mechanic raft bases as blocks\r\n\r\ncrafting recipes soon (with modded craftbot mod)",
 		"fileId": 2835550043,
 		"localId": "000b97dd-830b-4c8b-a7f5-1da6d3e988e5",
 		"name": "raft base blocks",
@@ -15792,5 +15792,35 @@
 		"name": "ExtraWilk's Blocks Mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"8caf7208-9a45-47ab-bdf4-4bf62f510052": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2835902574,
+		"localId": "8caf7208-9a45-47ab-bdf4-4bf62f510052",
+		"name": "D2",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"52ed68a0-6a8d-485f-9a7b-8dd0241698d9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2835933582,
+		"localId": "52ed68a0-6a8d-485f-9a7b-8dd0241698d9",
+		"name": "nmn",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6a8efaaa-45cf-4592-a7e0-a7dbeae2e42c": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h3]Scrap Mechanic Survival, but a black hole slowly destroys everything in the world.[/h3]\r\nA black hole 4 blacks in diameter will be created near the spawnpoint when the world is created. It will slowly get larger, closer to the player, and more deadly. The black hole will pull in players, units, creations, trees, and rocks, from an increasing distance.",
+		"fileId": 2836725469,
+		"localId": "6a8efaaa-45cf-4592-a7e0-a7dbeae2e42c",
+		"name": "Black Hole Challenge Mod",
+		"type": "Custom Game",
+		"version": 0
 	}
 }

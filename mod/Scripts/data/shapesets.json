@@ -35993,7 +35993,13 @@
 			"3b168bb8-5a5f-4a63-8208-93bfe17a0511"
 		]
 	},
-	"40c2432d-fab9-44a1-a3d0-53cf0bf8a780": {},
+	"40c2432d-fab9-44a1-a3d0-53cf0bf8a780": {
+		"$CONTENT_40c2432d-fab9-44a1-a3d0-53cf0bf8a780/Objects/Database/ShapeSets/example.shapeset": [
+			"9e1425d8-fe7c-496b-95dd-2f1747f06686",
+			"7ccf2e48-e1c1-4ee2-844d-d3de62df888e",
+			"7c798e9d-cd95-4680-b1dd-7a47fcfc0bad"
+		]
+	},
 	"f6683670-d97f-493f-9ee3-56ef7fe9ebdb": {
 		"$CONTENT_f6683670-d97f-493f-9ee3-56ef7fe9ebdb/Objects/Database/ShapeSets/parts.json": [
 			"e1872a75-227f-43e7-b2f9-eb416fa12413",
@@ -46326,6 +46332,9 @@
 		],
 		"$CONTENT_9b2bfa2b-11dd-4e3a-821d-a99b01409cac/Objects/Database/ShapeSets/survivalobject.shapeset": [
 			"614c3193-13da-40f4-9b03-37f26e760fd6"
+		],
+		"$CONTENT_9b2bfa2b-11dd-4e3a-821d-a99b01409cac/Objects/Database/ShapeSets/spaceshipbed.shapeset": [
+			"c563df47-9a8a-4338-9fec-06da1218c573"
 		]
 	},
 	"9ca519fb-3f12-44b3-a03f-f2b9a0e0edd8": {
@@ -47824,6 +47833,21 @@
 			"480859a3-51e6-4214-a126-a1b7a968e01b",
 			"65a75b50-5a29-44dc-8feb-e489f33410da",
 			"cd95ce5c-3ef6-487d-aef5-d851fccc9b27"
+		]
+	},
+	"8caf7208-9a45-47ab-bdf4-4bf62f510052": {
+		"$CONTENT_8caf7208-9a45-47ab-bdf4-4bf62f510052/Objects/Database/ShapeSets/example.shapeset": [
+			"00000000-0000-0000-0000-000000000000"
+		]
+	},
+	"52ed68a0-6a8d-485f-9a7b-8dd0241698d9": {
+		"$CONTENT_52ed68a0-6a8d-485f-9a7b-8dd0241698d9/Objects/Database/ShapeSets/example.shapeset": [
+			"799ad6f9-7615-49d1-a51e-d579d6c5c092"
+		]
+	},
+	"6a8efaaa-45cf-4592-a7e0-a7dbeae2e42c": {
+		"$CONTENT_6a8efaaa-45cf-4592-a7e0-a7dbeae2e42c/Objects/Database/ShapeSets/black_hole.shapeset": [
+			"06d85150-8dfb-465f-aa38-af08e09eae0c"
 		]
 	}
 }
