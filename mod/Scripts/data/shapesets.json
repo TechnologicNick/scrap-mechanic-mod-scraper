@@ -47849,5 +47849,14 @@
 		"$CONTENT_6a8efaaa-45cf-4592-a7e0-a7dbeae2e42c/Objects/Database/ShapeSets/black_hole.shapeset": [
 			"06d85150-8dfb-465f-aa38-af08e09eae0c"
 		]
+	},
+	"e6f59d2b-d7e1-4a4f-ae1c-dbb45c87feda": {
+		"$CONTENT_e6f59d2b-d7e1-4a4f-ae1c-dbb45c87feda/Objects/Database/ShapeSets/example.shapeset": [
+			"a9566ee5-e9bd-4c6f-b011-ef61285d8838",
+			"64806897-a520-4984-87d2-a0cc6b76d832",
+			"45a8fe8e-4984-47d2-971a-0075bbe0a8ee",
+			"5eb4012e-850f-4d4b-90b2-dc107f4bcc89",
+			"3a5a8617-2c12-4633-b504-2be973676bc5"
+		]
 	}
 }
