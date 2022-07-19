@@ -7676,12 +7676,14 @@
 		"version": 0
 	},
 	"8946e378-f660-44dc-8384-fca11145c98d": {
+		"allow_add_mods": true,
+		"custom_icons": true,
 		"description": "----------------------------------------------------------------\nEmblems of the armies involved in the World Wars.\n----------------------------------------------------------------\nSizes:\n1x1, 2x2, 3x3, 4x4, 6x6\nThickness:\n1 and 0.5 (wings)",
 		"fileId": 2443945742,
 		"localId": "8946e378-f660-44dc-8384-fca11145c98d",
 		"name": "WW2 Symbols",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"f5b92c21-62d8-4911-8756-7778e4b835d3": {
 		"description": "This is remake of old mod with minecraft blocks!\nnow in this new mod will be added also interactible parts and another cool stuff!\n\nHave fun! :)",
@@ -11203,12 +11205,14 @@
 		"version": 0
 	},
 	"6b303c8b-41d4-44fd-8d9b-ed6889a01779": {
-		"description": "Includes:\n- Soviet and german ww2 tank sights\n- Invisible extra armor\n- 5 soviet and 2 german propaganda posters\n- 3 soviet tank signs\n- 2 german symbols\n- tank view slit",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Этот мод добавляет один советский и один немецкий танковые прицелы времён Второй Мировой войны, а также 5 советских и 2 немецких плаката пропаганды. Также добавлены 3 советских надписи на танки и невидимая броня.\r\n\r\nУвидеть прицелы в действии вы можете на моём YouTube канале: https://www.youtube.com/channel/UC8B1GVoR-ij0p39hhZq6vWw",
 		"fileId": 2654600401,
 		"localId": "6b303c8b-41d4-44fd-8d9b-ed6889a01779",
 		"name": "WW2 AgaliX's mod",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"5af3172d-463c-4634-b235-cda0a893b141": {
 		"description": "This mod is made by Natte.Pappelo.",
@@ -11504,7 +11508,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "This mod doesn't have a description",
+		"description": "有小伙伴反应有些模组配件不会使用，现上传实体样式以及组装方式，相关蓝图链接https://steamcommunity.com/sharedfiles/filedetails/?id=2831767200\r\n\r\n\r\nSomebody said that some module wouldn't use. Now upload the style of entities and assembly method, and the blueprint links\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2831767200",
 		"fileId": 2693754159,
 		"localId": "c3e40a7a-6405-4df0-a4d0-4c3c449c53df",
 		"name": "PR&FH Mod",
@@ -14282,9 +14286,14 @@
 				"fileId": 2504530003,
 				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
 				"name": "ModDatabase"
+			},
+			{
+				"fileId": 2835870699,
+				"localId": "ace791c5-172e-4005-a26d-f2bf5ef6f3c2",
+				"name": "[ACM] Warehouse + Spaceship Parts"
 			}
 		],
-		"description": "Advanced Challenge Mode (ACM) v2, Mod version is V2_0.5.0.\n\nNOTE - Due to a bug in the game, the HUD currently only works at specific resolutions.\nIt works best at 1920 x 1200 and \"okay\" at 1920 x 1080 (1080p). This will be fixed once Axolot fixes the HUD scaling.\n\nThis game mode offers lots of features for people who want to create Advanced Challenge Maps.\nSome examples:\n- There are settings for almost everything right in the game, for example:\n  - Enable/Disable the custom health system\n  - Adjust the health system itself, e.g. set the max HP, max Air (for diving), etc.\n  - Set the damage and knockout time for every single way of taking damage in the game\n  - Set the gravity for creations and players separately\n  - Select the terrain you want to build on (currently available: Terrain/Flat/Old Creative Terrain)\n  - Set map restrictions, enable/disable bot aggro, set the time of day, etc.\n\nAlso, all of the vanilla survival mode, challenge mode and creative mode parts are available.\n\nThe mod also has some custom parts and tools, like:\n- Spawn Point\n- Respawn Point\n- Number/Code Lock\n- Cutscene Maker\n- Hidden duck statues that a player can find, that can display a special message when all of them are found\n- Key Lock, a lock that is activated by inserting a Key tool into it\n- A flashlight\n- Knockback gun\n- A Key tool (used to activate the \"Key Lock\" part)\n- And much more!\n\nJoin the [b]Scrap Mechanic Maps[/b] Challenge Mode Discord server to get update changelogs, share your maps, download other maps and more.\n\nhttps://discord.gg/2eACct5FDm",
+		"description": "Advanced Challenge Mode (ACM) v2, Mod version is V2_0.6.0.\r\n\r\nThis game mode offers lots of features for people who want to create Advanced Challenge Maps.\r\nSome examples:\r\n- There are settings for almost everything right in the game, for example:\r\n  - Enable/Disable the custom health system\r\n  - Adjust the health system itself, e.g. set the max HP, max Air (for diving), etc.\r\n  - Set the damage and knockout time for every single way of taking damage in the game\r\n  - Set the gravity for creations and players separately\r\n  - Select the terrain you want to build on (currently available: Terrain/Flat/Old Creative Terrain)\r\n  - Set map restrictions, enable/disable bot aggro, set the time of day, etc.\r\n\r\nAlso, all of the vanilla survival mode, challenge mode and creative mode parts are available.\r\n\r\nThe mod also has some custom parts and tools, like:\r\n- Spawn Point\r\n- Respawn Point\r\n- Number/Code Lock\r\n- Cutscene Maker\r\n- Hidden duck statues that a player can find, that can display a special message when all of them are found\r\n- Key Lock, a lock that is activated by inserting a Key tool into it\r\n- A flashlight\r\n- Knockback gun\r\n- A Key tool (used to activate the \"Key Lock\" part)\r\n- And much more!\r\n\r\nJoin the [b]Scrap Mechanic Maps[/b] Challenge Mode Discord server to get update changelogs, share your maps, download other maps and more.\r\n\r\nhttps://discord.gg/2eACct5FDm\r\n\r\n\r\n[spoiler] challenge mode, advanced challenge mode, acm, ACM, #ACM, #acm, creative, challenge, scrapmechanicmaps, advanced creative mode, maps, challenge pack [/spoiler] ",
 		"fileId": 2803050088,
 		"localId": "6adc7c70-de63-4f47-afbf-018220f548d4",
 		"name": "Advanced Challenge Mode v2",
@@ -15474,8 +15483,8 @@
 	},
 	"310de3ca-2edc-4637-85c2-92fe68b5b18a": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "Alpha-0.2\n-Added Rubbered Metal.\n-Fixed some bugs with compability.",
+		"custom_icons": true,
+		"description": "Alpha-0.3\n-Added Weak Engine\n-Added discriptons.",
 		"fileId": 2832220832,
 		"localId": "310de3ca-2edc-4637-85c2-92fe68b5b18a",
 		"name": "Engines +",
@@ -15830,6 +15839,16 @@
 		"fileId": 2836859828,
 		"localId": "e6f59d2b-d7e1-4a4f-ae1c-dbb45c87feda",
 		"name": "Sashamod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"86f07a0f-e8c4-4610-82d1-da76b7e59899": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A really slippy block that can be used to make thruster engines.",
+		"fileId": 2837037343,
+		"localId": "86f07a0f-e8c4-4610-82d1-da76b7e59899",
+		"name": "Slippy blocks",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
