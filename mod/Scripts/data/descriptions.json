@@ -13934,7 +13934,7 @@
 	"16d1d2ae-483a-4070-a20f-a4f9ce3ac325": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h1][b]Thats my frist mod.[/b][/h1]\r\n\r\n[h3][b]This mod adds 4 blocks:[/b][/h3]\r\n-test block [Test Block]\r\n-block with smily face (alpha channel) [Test Block2]\r\n-block with smily face (normal asg file) [Test Block2-1]\r\n-block with smily face (red channel & glass) [Test Block2_glass]\r\n\r\n[h2][b]\\/ NEW! \\/[/b][/h2]\r\n[h3][b]1 part:[/b][/h3]\r\n-Red tapebot head\r\n\r\n[h3][b]and 3 interactive parts![/b][/h3]\r\n-Gas Engine 5 with Gas engine 1 sounds\r\n-Gas Engine 5 with Gas engine 3 sounds\r\n-Driveable woc (Driver's seat)\r\n-Druveable woc (seat)\r\n\r\n\r\n\r\n[b]Changelog:[/b]\r\n(July 08, 2022) V1.1:\r\n-Red tapebot head\r\n-Gas Engine 5 with Gas engine 1 sounds\r\n-Gas Engine 5 with Gas engine 3 sounds\r\n-Driveable woc (Driver's seat)\r\n-Druveable woc (seat)\r\n\r\n(July 01, 2022) V1.0:\r\n-test block [Test Block]\r\n-block with smily face (alpha channel) [Test Block2]\r\n-block with smily face (normal asg file) [Test Block2-1]\r\n-block with smily face (red channel & glass) [Test Block2_glass]\r\n",
+		"description": "[h1][b]Thats my frist mod.[/b][/h1]\r\n\r\n[h3][b]This mod adds 4 blocks:[/b][/h3]\r\n-test block [Test Block]\r\n-block with smily face (alpha channel) [Test Block2]\r\n-block with smily face (normal asg file) [Test Block2-1]\r\n-block with smily face (red channel & glass) [Test Block2_glass]\r\n\r\n[h2][b]\\/ NEW! \\/[/b][/h2]\r\n[h3][b]1 part:[/b][/h3]\r\n-Red tapebot head\r\n\r\n[h3][b]and 5 interactive parts![/b][/h3]\r\n-Gas Engine 5 with Gas engine 3 sounds\r\n-Gas Engine 5 with Gas engine 1 sounds\r\n\r\n-Driveable woc (Driver's seat)\r\n-Drveeable woc (seat)\r\n\r\n-Driveable Glowbug (Driver's seat)\r\n-Drveeable Glowbug (seat)\r\n\r\n\r\n\r\n\r\n[b]Changelog:[/b]\r\n(July 10, 2022) V1.2:\r\n-Driveable Glowbug (Driver's seat)\r\n-Drveeable Glowbug (seat)\r\n\r\n(July 08, 2022) V1.1:\r\n-Red tapebot head\r\n-Gas Engine 5 with Gas engine 4 sounds\r\n-Gas Engine 5 with Gas engine 1 sounds\r\n-Driveable woc (Driver's seat)\r\n-Drveeable woc (seat)\r\n\r\n(July 01, 2022) V1.0:\r\n-test block [Test Block]\r\n-block with smily face (alpha channel) [Test Block2]\r\n-block with smily face (normal asg file) [Test Block2-1]\r\n-block with smily face (red channel & glass) [Test Block2_glass]\r\n",
 		"fileId": 2828634944,
 		"localId": "16d1d2ae-483a-4070-a20f-a4f9ce3ac325",
 		"name": "My Frist Mod",
@@ -15849,6 +15849,26 @@
 		"fileId": 2837037343,
 		"localId": "86f07a0f-e8c4-4610-82d1-da76b7e59899",
 		"name": "Slippy blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"8edbe2a5-d90a-46a3-8211-a2c0ff819290": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Makes everything destroyable with spudguns. Works with already made creations.\n(some blocks don't work, might update later)\n\n- Arriaon",
+		"fileId": 2836900343,
+		"localId": "8edbe2a5-d90a-46a3-8211-a2c0ff819290",
+		"name": "Destructable Parts Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d79138dc-7fbd-45bd-9118-b98a33093621": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds a 1x1 explosive. Has the same explosiveness as a small bomb.\n\n- Arriaon",
+		"fileId": 2836902421,
+		"localId": "d79138dc-7fbd-45bd-9118-b98a33093621",
+		"name": "1x1 Bombs",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
