@@ -13954,7 +13954,7 @@
 	"85f7a979-1654-4c85-8f83-5275f4890825": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "The mod you would need for quick flight control, remotely.\nGuaranteed Flight Mode for Players when this item is used.\n\n[h1]Item Features[/h1]\n[b]Flight Controller (Recap from Thumbnail):[/b]\nLeft Click: Hovering - Players in Flying Mode\nRight Click: Grounded - Players in Land Mode\n\nNote: What's not recapped from Thumbnail is the Booster feature. Just left click again and hold to speed up and nocclips you forward.\n\n[b]Alternative Booster:[/b]\nLeft Click:\n> While Flying noclips you forward.\n> While Grounded increases speed Multiplier.\nRight Click:\n> While Flying noclips you backward.\n> While Grounded decreases speed Multiplier.\n\n[b]Recenter:[/b]\nA click always returns you to x = 0, y = 0, z = 0.\n\nNote: In case if you get thrown into the void for a weird reason.\n\n[b]Custom Teleporter:[/b]\nRight Click to set your position first.\nLeft click after to teleport back to that said position.\n\nNote: Yeah... Creators can get super creative. It'll be a gift for them.\n\nThose clicks depends on what you want.",
+		"description": "The mod you would need for quick flight control, remotely.\r\nGuaranteed Flight Mode for Players when this item is used.\r\n\r\n[h1]Item Features[/h1]\r\n[b]Flight Controller (Recap from Thumbnail):[/b]\r\nLeft Click: Hovering - Players in Flying Mode\r\nRight Click: Grounded - Players in Land Mode\r\n\r\nNote: What's not recapped from Thumbnail is the Booster feature. Just left click again and hold to speed up and nocclips you forward.\r\n\r\n[b]Alternative Booster:[/b]\r\nLeft Click:\r\n> While Flying noclips you forward.\r\n> While Grounded increases speed Multiplier.\r\nRight Click:\r\n> While Flying noclips you backward.\r\n> While Grounded decreases speed Multiplier.\r\n\r\n[b]Recenter:[/b]\r\nA click always returns you to x = 0, y = 0, z = 0.\r\n\r\nNote: In case if you get thrown into the void for a weird reason.\r\n\r\n[b]Custom Teleporter:[/b]\r\nRight Click to set your position first.\r\nLeft click after to teleport back to that said position.\r\n\r\nNote: Yeah... Creators can get super creative. It'll be a gift for them.",
 		"fileId": 2828929740,
 		"localId": "85f7a979-1654-4c85-8f83-5275f4890825",
 		"name": "Flight Tool",
@@ -15871,5 +15871,15 @@
 		"name": "1x1 Bombs",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"91dd1df1-5b4b-4d64-a8d3-f4efd2bb219e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h3]This is [b]Scrap Mechanic[/b] but you go [b]20 times faster.[/b][/h3]\nThis mod also removes collision damage, for obvious reasons. The bug where you fall through the ground is also fixed, because it usually happens every few seconds when travelling at high speeds.",
+		"fileId": 2837619737,
+		"localId": "91dd1df1-5b4b-4d64-a8d3-f4efd2bb219e",
+		"name": "Z O O O O M",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
