@@ -15444,7 +15444,7 @@
 	"ffb96159-2195-4b8c-885a-f8c89df4b5c4": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod adds an Audio Player that allows you to play every single in-game sound!\r\n\r\nSimply select a sound from the list and apply a logic signal to play it!\r\n\r\nMore features (like setting parameters, e.g. pitch/speed/etc.) might come in a future update.\r\n\r\n\r\n\r\n\r\n\r\n\r\nAudio event names extracted from the game by me.\r\nFull audio event list can be found on: https://scrapmechanicmaps.com/modding_help/Audio_Events",
+		"description": "This mod adds an Audio Player that lets you play every single in-game sound!\r\n\r\nSimply select a sound from the list and apply a logic signal to play it!\r\n\r\nMore features (like setting parameters, e.g. pitch/speed/etc.) might come in a future update.\r\n\r\n\r\nNOTE - This mod does NOT play custom sound files - it only plays all the existing in-game sounds.\r\n\r\n\r\n\r\n\r\nAudio event names extracted from the game by me.\r\nFull audio event list can be found on: https://scrapmechanicmaps.com/modding_help/Audio_Events",
 		"fileId": 2832061929,
 		"localId": "ffb96159-2195-4b8c-885a-f8c89df4b5c4",
 		"name": "Audio Player",
@@ -15900,6 +15900,16 @@
 		"fileId": 2836529647,
 		"localId": "574bf3b5-8cd9-4de4-9ee1-e166e2f61fc1",
 		"name": "Everything is Awsome Lego Movie Radio Song",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1e205e09-d2f8-487a-b412-74dfd694a942": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "obama",
+		"fileId": 2838206060,
+		"localId": "1e205e09-d2f8-487a-b412-74dfd694a942",
+		"name": "obama",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

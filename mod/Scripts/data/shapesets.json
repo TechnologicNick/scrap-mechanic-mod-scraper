@@ -48167,5 +48167,11 @@
 	"7ad0076e-8fcb-49e5-beb0-78e58e593c7a": {},
 	"574bf3b5-8cd9-4de4-9ee1-e166e2f61fc1": {
 		"$CONTENT_574bf3b5-8cd9-4de4-9ee1-e166e2f61fc1/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"1e205e09-d2f8-487a-b412-74dfd694a942": {
+		"$CONTENT_1e205e09-d2f8-487a-b412-74dfd694a942/Objects/Database/ShapeSets/blocks.shapeset": [
+			"1b460f26-58d3-4722-add4-840ef4af2cca",
+			"c3d42438-34e9-4fa1-8c2b-60ff5d33d45d"
+		]
 	}
 }
