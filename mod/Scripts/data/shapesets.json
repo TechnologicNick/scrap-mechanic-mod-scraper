@@ -48173,7 +48173,21 @@
 	"1e205e09-d2f8-487a-b412-74dfd694a942": {
 		"$CONTENT_1e205e09-d2f8-487a-b412-74dfd694a942/Objects/Database/ShapeSets/blocks.shapeset": [
 			"1b460f26-58d3-4722-add4-840ef4af2cca",
+			"d24ba116-44f8-402c-b162-3c382f4eb499",
+			"fde8d557-de7b-4f95-a400-ecc0d23f249c",
+			"09745e0b-1da3-4249-bd35-8b8ec7a2ca5a",
+			"1a88b319-c2e3-4a72-b689-e9a084b88160",
 			"c3d42438-34e9-4fa1-8c2b-60ff5d33d45d"
+		]
+	},
+	"8bf2c7c5-f62d-4fae-ac41-2df5e3c65e5f": {
+		"$CONTENT_8bf2c7c5-f62d-4fae-ac41-2df5e3c65e5f/Objects/Database/ShapeSets/example.shapeset": [
+			"6c7336ab-fc7f-4840-833d-f041c8bb0719",
+			"df52847d-cf86-4009-8593-8b2971a17c9c",
+			"3a2dae44-38f7-4cde-a3fe-0de8f207ba84",
+			"a0c2487b-826a-4ea0-be81-26b3ac87de79",
+			"49b2a8b5-27b2-4c94-8262-ec50080f92e8",
+			"85af5da3-1307-4101-8fd2-389a23fe6603"
 		]
 	}
 }
