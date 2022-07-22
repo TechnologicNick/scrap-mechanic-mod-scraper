@@ -13438,13 +13438,15 @@
 	"3269e6ef-4d80-4f75-b8f6-dffb303e5243": {
 		"$CONTENT_3269e6ef-4d80-4f75-b8f6-dffb303e5243/Objects/Database/ShapeSets/empty_shells.json": [
 			"0d4d66a0-532a-49e4-83c5-8ec8bb95ea8e",
-			"8f7a8365-d6b4-4f22-88c9-6951ac8ff8d5"
+			"8f7a8365-d6b4-4f22-88c9-6951ac8ff8d5",
+			"f656fa19-4b04-4bb0-8724-0e9baf07245d"
 		],
 		"$CONTENT_3269e6ef-4d80-4f75-b8f6-dffb303e5243/Objects/Database/ShapeSets/parts exp.json": [
 			"05f70a50-3bb4-4a00-b7fb-f1c931d585ca",
 			"4825e551-b9c4-484e-8216-efec182957f5",
 			"ba6c5d49-3792-4a2c-b3a4-acef3ab8a787",
 			"3d410289-0079-4989-ba21-b211562147d5",
+			"85de2428-d5ff-4a20-b2a0-408070b01b05",
 			"54b7c549-4b12-4be1-b73d-4d62db371394",
 			"379449f7-27ca-4aea-b723-f841406bbacc",
 			"28fbfaf6-3b42-4d72-94b1-5bf7b113b5dd",
