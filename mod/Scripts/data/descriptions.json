@@ -4246,7 +4246,7 @@
 	"3269e6ef-4d80-4f75-b8f6-dffb303e5243": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "=================================================================\r\n\r\nThis mod adds new spudguns. They look like famous guns from WW1 and WW2.\r\nSome of them are animated so check them out if you like that kind of details!\r\n\r\nDiscord Server: https://discord.gg/QJRHhuUYsM\r\n\r\n=================================================================\r\n\r\n{value} - delay after shoot in ticks\r\n[A] - gun is animated\r\n<value> - amount of ammo in the magazine\r\n\r\n====== NEW CONTENT ======\r\n\r\n- Physical shell ejecting from the breech\r\n- New Breech: Short Pak40\r\n- New visors \r\n- Glass added to all the visors \r\n- Ammo Rack for 37mm\r\n\r\n=== LIGHT MACHINE GUNS ===\r\n\r\n- [A] Lewis M1914  {5}\r\n- [A] Maxim M1905  {6}\r\n- M1919 .30 {5}\r\n- MG-34 {5}\r\n- [A] MG-42 {4}, <50>\r\n- DP-29 {6}\r\n- DGx03 {6}\r\n\r\n=== HEAVY MACHINE GUNS ===\r\n\r\n- [A] Browning .50 {7}\r\n- [A] Browning .50 Aircraft {7}\r\n- DSzK 12.7mm {7}\r\n\r\n====== 20mm CANNONS ======\r\n\r\n- MG 151/20 {8}\r\n- WZ.38 {10}\r\n- Hispano {10}\r\n- [A] Vulcan M61 {4}\r\n\r\n======= EXPLOSIVES ========\r\n\r\n- Bomb (proximity fuse)\r\n- Bomb 50kg\r\n- Bomb 100kg\r\n- Bomb 250kg\r\n- Anti-Tank Mine\r\n- S-Mine\r\n\r\n===== OTHER WEAPONS ======\r\n\r\n- Bazooka {120}\r\n- AK-47 {5}\r\n- [A] Mosin-Nagant 1891 {100} <5>\r\n- [A] PTRD-41 {120}\r\n- [A] Cannon {160}\r\n\r\n===========================\r\n\r\n\r\n--------------------------Credit & Copyright:----------------------------\r\nBrent Batch / DO NOT COPY without permission from \r\nBrent Batchdiscord)\r\nQuestion Mark - scripts explosive and non-explosive guns\r\n\"Alarmblock\" script is made by wingcomstriker405\r\n--------------------------------------------------------------------------\r\n",
+		"description": "=================================================================\r\n\r\nThis mod adds new spudguns. They look like famous guns from WW1 and WW2.\r\nSome of them are animated so check them out if you like that kind of details!\r\n\r\nDiscord Server: https://discord.gg/QJRHhuUYsM\r\n\r\n=================================================================\r\n\r\n{value} - delay after shoot in ticks\r\n[A] - gun is animated\r\n<value> - amount of ammo in the magazine\r\n\r\n====== NEW CONTENT ======\r\n\r\nNEW HANDHELD WEAPON!\r\n-Thompson Submachine Gun\r\n\r\n=== LIGHT MACHINE GUNS ===\r\n\r\n- [A] Lewis M1914  {5}\r\n- [A] Maxim M1905  {6}\r\n- M1919 .30 {5}\r\n- MG-34 {5}\r\n- [A] MG-42 {4}, <50>\r\n- DP-29 {6}\r\n- DGx03 {6}\r\n\r\n=== HEAVY MACHINE GUNS ===\r\n\r\n- [A] Browning .50 {7}\r\n- [A] Browning .50 Aircraft {7}\r\n- DSzK 12.7mm {7}\r\n\r\n====== 20mm CANNONS ======\r\n\r\n- MG 151/20 {8}\r\n- WZ.38 {10}\r\n- Hispano {10}\r\n- [A] Vulcan M61 {4}\r\n\r\n======= EXPLOSIVES ========\r\n\r\n- Bomb (proximity fuse)\r\n- Bomb 50kg\r\n- Bomb 100kg\r\n- Bomb 250kg\r\n- Anti-Tank Mine\r\n- S-Mine\r\n\r\n===== OTHER WEAPONS ======\r\n\r\n- Bazooka {120}\r\n- AK-47 {5}\r\n- [A] Mosin-Nagant 1891 {100} <5>\r\n- [A] PTRD-41 {120}\r\n- [A] Cannon {160}\r\n\r\n===========================\r\n\r\n\r\n--------------------------Credit & Copyright:----------------------------\r\nBrent Batch / DO NOT COPY without permission from \r\nBrent Batchdiscord)\r\nQuestion Mark - scripts explosive and non-explosive guns\r\n\"Alarmblock\" script is made by wingcomstriker405\r\n--------------------------------------------------------------------------\r\n",
 		"fileId": 1903792337,
 		"localId": "3269e6ef-4d80-4f75-b8f6-dffb303e5243",
 		"name": "Machine gun",
@@ -13835,7 +13835,7 @@
 	"074aa5ee-aa7e-4b4e-bac2-b68cf9560d18": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "【警告】请勿将本Mod用于建造！",
 		"fileId": 2828157514,
 		"localId": "074aa5ee-aa7e-4b4e-bac2-b68cf9560d18",
 		"name": "Destroy Counter",
@@ -14919,7 +14919,7 @@
 	"e3d52333-57a7-4289-b737-ade78347cd12": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "A mod with resource boosted & cost reduced\n( in progress ) i'm patching ...............\nThanks for 1000 subs OMGGG :D\n\n\nMob loot boosted, classic loot are boosted, green/gold lootbox is not changed yet... ( no idea, whrite your wish in comment )\nCratfing recipe, refine speed, grow speed are complete.\n\nnow working for PATCH D;\n\nfast refine patched, lootboost patched, fast grow patched\n\nyea b ) chill",
+		"description": "A mod with resource boosted & cost reduced\n( in progress ) i'm patching ...............\nThanks for 1500 subs OMGGG :D\n\n\nMob loot boosted, classic loot are boosted, green/gold lootbox is not changed yet... ( no idea, whrite your wish in comment )\nCratfing recipe, refine speed, grow speed are complete.\n\nnow working for PATCH D;\n\nfast refine patched, lootboost patched, fast grow patched\n\nyea b ) chill",
 		"fileId": 2816326647,
 		"localId": "e3d52333-57a7-4289-b737-ade78347cd12",
 		"name": "Survival Less Cost",
@@ -15921,6 +15921,37 @@
 		"fileId": 2838647248,
 		"localId": "8bf2c7c5-f62d-4fae-ac41-2df5e3c65e5f",
 		"name": "Random blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"23291e46-c0eb-471c-ab76-683024a5b3ef": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds all tools and characters as parts that you can place and use to decorate your builds!\n\n[img]https://i.imgur.com/p7Fv1Z6.gif[/img]\n\nIf you have any feedback or requests write them in the comments!",
+		"fileId": 2838794640,
+		"localId": "23291e46-c0eb-471c-ab76-683024a5b3ef",
+		"name": "All Tools And Characters As Parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b67fba19-640b-4a17-b554-944bb47bd97a": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "My first Mod",
+		"fileId": 2838828722,
+		"localId": "b67fba19-640b-4a17-b554-944bb47bd97a",
+		"name": "First mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"e29bb64c-fd0d-4ed8-b428-a1b9f6520265": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "ScrapLLama is my best best mod yet\nThere will be updates evry once in a while",
+		"fileId": 2838974732,
+		"localId": "e29bb64c-fd0d-4ed8-b428-a1b9f6520265",
+		"name": "ScrapLLama",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
