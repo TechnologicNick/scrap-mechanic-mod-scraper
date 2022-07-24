@@ -15964,5 +15964,15 @@
 		"name": "Shotguns and Gatlers",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"44fb5cef-f750-467d-85d7-eb3d97d082ec": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "",
+		"fileId": 2839624283,
+		"localId": "44fb5cef-f750-467d-85d7-eb3d97d082ec",
+		"name": "super floating block",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
