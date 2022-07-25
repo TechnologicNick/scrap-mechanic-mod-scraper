@@ -16014,5 +16014,35 @@
 		"name": "1 HP Survival",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"150de55d-d55e-4aa9-975e-8a945b817365": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod moves the player's camera lower making the mechanic look short.\n\nPlease like and favourite it if you like it!\n\nLeave any feedback in the comments.",
+		"fileId": 2840143303,
+		"localId": "150de55d-d55e-4aa9-975e-8a945b817365",
+		"name": "Short Mechanic",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"52b0dbf6-c234-40e2-999d-a8174ababf5e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "What true first person looks like in Scrap Mechanic. Shows the player as if it was in third person but with a first person-like camera!\n\nIf you enjoyed this mod please consider liking and favouriting it!\n\nLeave all feedback in the comments.",
+		"fileId": 2840144060,
+		"localId": "52b0dbf6-c234-40e2-999d-a8174ababf5e",
+		"name": "True First Person",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"b776b29a-9ace-4222-b534-d9690c9400b2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "ah block",
+		"fileId": 2840180025,
+		"localId": "b776b29a-9ace-4222-b534-d9690c9400b2",
+		"name": "ah",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

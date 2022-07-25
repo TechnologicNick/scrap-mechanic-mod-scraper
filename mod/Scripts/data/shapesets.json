@@ -48369,5 +48369,17 @@
 	},
 	"e799fa97-3461-4a7d-9636-ebf4c693e827": {
 		"$CONTENT_e799fa97-3461-4a7d-9636-ebf4c693e827/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"150de55d-d55e-4aa9-975e-8a945b817365": {
+		"$CONTENT_150de55d-d55e-4aa9-975e-8a945b817365/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"52b0dbf6-c234-40e2-999d-a8174ababf5e": {
+		"$CONTENT_52b0dbf6-c234-40e2-999d-a8174ababf5e/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"b776b29a-9ace-4222-b534-d9690c9400b2": {
+		"$CONTENT_b776b29a-9ace-4222-b534-d9690c9400b2/Objects/Database/ShapeSets/example.shapeset": [
+			"e0e49a7c-9eb7-4205-bef1-f95ccac07405",
+			"bf3c151d-ed1d-4f18-ab92-41f4864848e2"
+		]
 	}
 }
