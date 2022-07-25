@@ -15988,7 +15988,7 @@
 	"9b65a5f6-f5bf-4a76-aa6a-b96f3656862b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "A fully functional copy of Creative Game, but with better terrain generation and bigger world to explore.\r\n\r\nHave Fun :)\r\n\r\nPreview image was created by [url=https://steamcommunity.com/profiles/76561198318189561]Dart Frog[/url]",
 		"fileId": 2839940307,
 		"localId": "9b65a5f6-f5bf-4a76-aa6a-b96f3656862b",
 		"name": "Creative Terrain Overhaul",
@@ -16042,6 +16042,16 @@
 		"fileId": 2840180025,
 		"localId": "b776b29a-9ace-4222-b534-d9690c9400b2",
 		"name": "ah",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"14824c64-7065-4f7c-bfe5-d341be2a1633": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "most chest slots ",
+		"fileId": 2840395258,
+		"localId": "14824c64-7065-4f7c-bfe5-d341be2a1633",
+		"name": "chest size",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

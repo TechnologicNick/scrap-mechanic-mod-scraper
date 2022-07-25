@@ -48381,5 +48381,10 @@
 			"e0e49a7c-9eb7-4205-bef1-f95ccac07405",
 			"bf3c151d-ed1d-4f18-ab92-41f4864848e2"
 		]
+	},
+	"14824c64-7065-4f7c-bfe5-d341be2a1633": {
+		"$CONTENT_14824c64-7065-4f7c-bfe5-d341be2a1633/Objects/Database/ShapeSets/example.shapeset": [
+			"2c1b890b-13d2-47b5-8d27-df7ba4cc43df"
+		]
 	}
 }
