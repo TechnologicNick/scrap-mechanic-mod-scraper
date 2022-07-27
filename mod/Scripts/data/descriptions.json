@@ -15333,7 +15333,7 @@
 	"bb927d51-cc3c-4074-945e-311cdf1d2a19": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This would be the powerful tool, so anyone can fly remotely in survival. The Fly blocks would become obsolete.\n\nHowever, this would be a sample mod for my Flight Tool Mod for Blocks and Parts Mod.\n\nNo Cosmetics: If you play this mod, the dressbot would become part disabled as Dev mode is enabled.",
+		"description": "This would be the powerful tool, so anyone can fly remotely in survival. The Fly blocks would become obsolete.\n\nHowever, this would be a sample mod for my [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2828929740][u]Flight Tool Mod for Blocks and Parts.[/u][/url] Subscribe to it to get more features.\n\nNo Cosmetics: If you play this mod, the dressbot would become part disabled as Dev mode is enabled.",
 		"fileId": 2831173573,
 		"localId": "bb927d51-cc3c-4074-945e-311cdf1d2a19",
 		"name": "Flying in Survival",
@@ -16052,6 +16052,26 @@
 		"fileId": 2840395258,
 		"localId": "14824c64-7065-4f7c-bfe5-d341be2a1633",
 		"name": "chest size",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"05108c9c-568e-4522-bdbd-f8d736dc5ce1": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This is a verstion of Survival that you can easly mod!",
+		"fileId": 2840767426,
+		"localId": "05108c9c-568e-4522-bdbd-f8d736dc5ce1",
+		"name": "Moded Survival",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"0d1f462f-8313-4e23-9194-710dea0c718a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "can some one help me with the textures",
+		"fileId": 2840832378,
+		"localId": "0d1f462f-8313-4e23-9194-710dea0c718a",
+		"name": "xenoblade chronicles",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
