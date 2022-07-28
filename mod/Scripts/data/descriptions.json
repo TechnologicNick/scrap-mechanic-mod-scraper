@@ -16086,5 +16086,15 @@
 		"name": "Magnets",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"3d918311-07b0-4ab9-9490-4ef6d63b30af": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A basic mod, so far only adding one basic block.\nGalaxy Block\n\nMore to come soon!",
+		"fileId": 2841462431,
+		"localId": "3d918311-07b0-4ab9-9490-4ef6d63b30af",
+		"name": "Wires' Blocks and Parts",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
