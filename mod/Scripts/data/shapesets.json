@@ -2700,9 +2700,13 @@
 			"7354e062-aa2b-4044-a395-f91d19601c98",
 			"157420bb-6943-409b-95df-42a7088ecd4f",
 			"0cb7452c-78ab-4cea-a300-e6075e5908d5",
+			"922557b6-8abb-402c-a513-c8ff958e4cc7",
 			"0cb7452c-78ab-4cea-a301-e6075e5908d5",
 			"0cb7452c-78ab-4cea-a302-e6075e5908d5",
 			"0cb7452c-78ab-4cea-a303-e6075e5908d5",
+			"2026f79d-0d49-4b94-af0b-cf364054ed19",
+			"883a57f6-53d8-421a-a063-882120f78f0b",
+			"56c9fbb8-65fa-453a-a0b8-2a32dc09ac09",
 			"0cb7452c-78ab-4cea-a304-e6075e5908d5",
 			"0cb7452c-78ab-4cea-a305-e6075e5908d5",
 			"0cb7452c-78ab-4cea-a306-e6075e5908d5",
@@ -2727,9 +2731,11 @@
 			"b95f64ea-da8a-4aab-ae00-36068c15481a",
 			"b95f64ea-da8a-4aab-ae01-36068c15481a",
 			"b95f64ea-da8a-4aab-ae02-36068c15481a",
+			"ac64d460-dd53-4c7f-bf79-6c5b1aa8972e",
 			"b95f64ea-da8a-4aab-ae03-36068c15481a",
 			"b95f64ea-da8a-4aab-ae04-36068c15481a",
 			"b95f64ea-da8a-4aab-ae05-36068c15481a",
+			"6cf6ceec-7d11-4177-88e8-fe48599c512b",
 			"b95f64ea-da8a-4aab-ae06-36068c15481a",
 			"b95f64ea-da8a-4aab-ae07-36068c15481a",
 			"b95f64ea-da8a-4aab-ae08-36068c15481a",
@@ -2745,7 +2751,8 @@
 			"b95f64ea-da8a-4aab-ae18-36068c15481a",
 			"b95f64ea-da8a-4aab-ae19-36068c15481a",
 			"b95f64ea-da8a-4aab-ae20-36068c15481a",
-			"b95f64ea-da8a-4aab-ae21-36068c15481a"
+			"b95f64ea-da8a-4aab-ae21-36068c15481a",
+			"43bda4c6-05dc-4de4-86f5-c96408a8450f"
 		],
 		"$CONTENT_19c5031c-e9d9-4131-b910-1972000e467d/Objects/Database/ShapeSets/parts.json": [
 			"67bfc339-d3c3-4386-a360-36a28706a73c",
@@ -2762,6 +2769,8 @@
 			"90c121ae-6f33-4547-8812-aaa671cb23da",
 			"018f4fea-a7b0-4e2f-895e-fff3941fa45f",
 			"c7e9878d-b20c-40a2-b94f-93c40aa52ea1",
+			"01b796b4-99ee-41a1-a313-c134b5c9d28b",
+			"30be8d76-b126-46e6-8055-b1db3a818a01",
 			"2f4af968-b7cf-4f9a-b750-c41402093aa3",
 			"054db295-221f-4f1d-ad8c-22e6d8852e69",
 			"7c370f91-83c4-4d8d-8b4f-f5584a62a755",
@@ -2783,8 +2792,12 @@
 			"e9f39dd9-06ab-4509-afbc-454c1e6397c9",
 			"499ccae6-7925-4df2-99aa-f05c4d5f2b08",
 			"c987e493-8dac-4a0e-936e-d63b53777f61",
+			"98eb4987-b9d3-47ca-99a6-51db8aaf18cf",
 			"5bc351fb-5c82-4796-8ed1-ba3a704ffb3a",
 			"358630df-30ca-4130-8726-79426ec7aa83",
+			"357a7063-e017-4958-a191-766dff92e530",
+			"14859ec6-99c1-4d15-a393-e37a471fefc0",
+			"93027242-1339-4f64-aa91-d975524c791b",
 			"d9967a80-7930-41e4-b5ac-8b1cff3d127f",
 			"7b4f6045-f73b-4864-8c93-59f60db4fa68",
 			"d01a43ef-307d-47d4-9a47-b143014c1b19",
@@ -2814,6 +2827,7 @@
 			"1361365d-9983-49a2-a139-1f4f7d2cedac",
 			"b6f66b50-8e90-4c98-83ab-e4ecf16d741e",
 			"c774c1da-21e3-4dca-b515-2f230e11c408",
+			"355ec8c7-878f-468d-bea8-bbc08c861161",
 			"e14ae9c5-f43c-4156-aed9-0f69e260d8ca",
 			"bf7a3296-521d-4e0f-ab45-94bc4451cb38",
 			"efb51435-0c54-4edb-8d00-9eab59cf4ca4",
@@ -48395,6 +48409,14 @@
 		"$CONTENT_0d1f462f-8313-4e23-9194-710dea0c718a/Objects/Database/ShapeSets/example.shapeset": [
 			"2d38599f-605a-4603-9482-d519dbd18c6c",
 			"5435da61-ddae-49aa-b9d6-32fa0e464cd1"
+		]
+	},
+	"30305992-3079-4d78-869a-678d8b2d0cd2": {
+		"$CONTENT_30305992-3079-4d78-869a-678d8b2d0cd2/Objects/Database/ShapeSets/magnets.json": [
+			"a77b6cb8-bdeb-4c30-9281-6c6115892a3e",
+			"79638539-fa64-4abf-be2d-7629033f3ce4",
+			"a4740329-1dfd-44f5-b246-5fd39e7e2a08",
+			"27801272-0fcd-416b-ac2d-7abf6069c33b"
 		]
 	}
 }
