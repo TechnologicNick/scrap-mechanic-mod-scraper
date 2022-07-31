@@ -46504,6 +46504,13 @@
 		],
 		"$CONTENT_9b2bfa2b-11dd-4e3a-821d-a99b01409cac/Objects/Database/ShapeSets/spaceshipbed.shapeset": [
 			"c563df47-9a8a-4338-9fec-06da1218c573"
+		],
+		"$CONTENT_9b2bfa2b-11dd-4e3a-821d-a99b01409cac/Objects/Database/ShapeSets/craftbot.shapeset": [
+			"b63c6440-dfc2-4da7-acdb-3c385080b2e4",
+			"b7571f6f-9d53-44ba-99d2-3b4f05e6fd0f",
+			"1c83675f-7c77-4cbb-875b-79d4bd46100d",
+			"c69a7855-d915-4784-af81-d0a8849e458f",
+			"4fcb4cb8-7623-11ea-bc55-0242ac130003"
 		]
 	},
 	"9ca519fb-3f12-44b3-a03f-f2b9a0e0edd8": {

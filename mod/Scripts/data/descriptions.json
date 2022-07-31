@@ -16031,7 +16031,7 @@
 	"52b0dbf6-c234-40e2-999d-a8174ababf5e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "What true first person looks like in Scrap Mechanic. Shows the player as if it was in third person but with a first person-like camera!\n\nIf you enjoyed this mod please consider liking and favouriting it!\n\nLeave all feedback in the comments.",
+		"description": "This mod lets you see from the mechanic's eyes.\r\n\r\nIf your camera starts clipping into your head, you might want to adjust the zoom with /zoom\r\n\r\nCommands:\r\n/zoom <number> - Adjusts the zoom of the camera(default: 5)\r\n/camtoggle - Switches between the normal camera and the True First Person camera\r\n\r\n\r\n[img]https://i.imgur.com/p7Fv1Z6.gif[/img]\r\n\r\nLeave all feedback in the comments.",
 		"fileId": 2840144060,
 		"localId": "52b0dbf6-c234-40e2-999d-a8174ababf5e",
 		"name": "True First Person",
