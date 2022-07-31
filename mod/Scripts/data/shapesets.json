@@ -48465,5 +48465,12 @@
 	"828af720-c806-46af-8b18-8193218d7e84": {
 		"$CONTENT_828af720-c806-46af-8b18-8193218d7e84/Objects/Database/ShapeSets/blocks.json": [],
 		"$CONTENT_828af720-c806-46af-8b18-8193218d7e84/Objects/Database/ShapeSets/parts.json": []
+	},
+	"addc7749-8126-46f8-8064-92a79cad4139": {
+		"$CONTENT_addc7749-8126-46f8-8064-92a79cad4139/Objects/Database/ShapeSets/example.shapeset": [
+			"43e10388-5780-42cc-8d1f-bc96931e5165",
+			"aa3c8e7f-538f-432d-9fc0-b5d195fc836c",
+			"effda6dc-885f-4a34-9e4c-a08d189ebfb4"
+		]
 	}
 }

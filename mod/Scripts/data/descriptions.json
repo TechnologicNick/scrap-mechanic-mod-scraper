@@ -15932,10 +15932,10 @@
 	"23291e46-c0eb-471c-ab76-683024a5b3ef": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod adds all tools and characters as parts that you can place and use to decorate your builds!\n\n[img]https://i.imgur.com/p7Fv1Z6.gif[/img]\n\nIf you have any feedback or requests write them in the comments!",
+		"description": "This mod adds all tools and characters as parts that you can place and use to decorate your builds!\r\n\r\n[img]https://i.imgur.com/p7Fv1Z6.gif[/img]\r\n\r\nIf you have any feedback or requests write them in the comments!",
 		"fileId": 2838794640,
 		"localId": "23291e46-c0eb-471c-ab76-683024a5b3ef",
-		"name": "All Tools And Characters As Parts",
+		"name": "Tools And Characters As Parts",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -16117,6 +16117,16 @@
 		"fileId": 2842846747,
 		"localId": "828af720-c806-46af-8b18-8193218d7e84",
 		"name": "mr_norgates blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"addc7749-8126-46f8-8064-92a79cad4139": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "IDK E\n",
+		"fileId": 2842935210,
+		"localId": "addc7749-8126-46f8-8064-92a79cad4139",
+		"name": "IDK WHAT IM DOING AHHHHH",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
