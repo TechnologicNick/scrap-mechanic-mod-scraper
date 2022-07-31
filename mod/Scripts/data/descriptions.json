@@ -12049,12 +12049,14 @@
 		"version": 0
 	},
 	"1c626c90-466c-47ec-8927-baf0fa1e7599": {
+		"allow_add_mods": true,
+		"custom_icons": false,
 		"description": "< ! >Max's test mod\n------------------------------------------------------------------------\n预计7月左右会开通投稿通道（邮箱号会公布在简介中，会发视频介绍里）\n在这之前投稿方式有（不一定会及时回）：\n1. 哔哩哔哩bilibili：MaxZ666私信\n------------------------------------------------------------------------\n投稿格式：\n徽标 x 1（请勿发有版权或政治纷争的）\n*（背景默认是可上色的，若要不可上色的特定背景色，请说明）\n尺寸（横竖厚，画个大致图）（例：2*1*1 ）\n*（厚度用在斜面贴花；斜面的话请画个大致图，免得我做错模型）\n------------------------------------------------------------------------\n图标目前仅包含：\n（名称 x 数量---提供者 {尺寸} ）\n1. Max的LOGO x 1 --- Max { 1*1 }\n2. 秃鹰队徽 x 3 --- trex { 1*1  2*2  3*3 }\n3. 嘉然贴花 x 1 --- trex { 2*2 }\n4. Asoul贴花 x 10 --- trex { 6*6  7*7}\n5. 铁华团团徽 x 1 --- 青光影 { 2*2*4 }\n6. ANVIL AEROSPACE 徽标 x 1 --- 青光影 { 4*3 }\n7. 初音未来 x 1 --- 幻影 { 2*8 }\n8. 虹咲学院同好会 x 1 --- 幻影 { 3*9 }\n9. 校园偶像计划 x 1 --- 幻影 { 2*8 }\n\n----------------------------------------------------------------------\n测试部件包含：\n1. 单面砖&斜面\n2. 奇怪的衣服包\n3. 迷你架子 ",
 		"fileId": 2780758501,
 		"localId": "1c626c90-466c-47ec-8927-baf0fa1e7599",
 		"name": "徽标实验室 Max's Logo Lab",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"669efa52-be61-4c5a-8d0f-693f89a59179": {
 		"description": "truster, what activates on water",
@@ -15910,7 +15912,7 @@
 	"1e205e09-d2f8-487a-b412-74dfd694a942": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "obama",
+		"description": "Features:\n- obama block\n-  obanium in 5 sizes (from 1x1 to 5x5)\n- large and small obama wheels",
 		"fileId": 2838206060,
 		"localId": "1e205e09-d2f8-487a-b412-74dfd694a942",
 		"name": "obama",
@@ -16107,5 +16109,15 @@
 		"name": "Hotbar Survival",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"828af720-c806-46af-8b18-8193218d7e84": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "idk what the hell im doing",
+		"fileId": 2842846747,
+		"localId": "828af720-c806-46af-8b18-8193218d7e84",
+		"name": "mr_norgates blocks",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
