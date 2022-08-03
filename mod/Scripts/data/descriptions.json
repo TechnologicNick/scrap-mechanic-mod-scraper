@@ -12591,8 +12591,8 @@
 	},
 	"b3dc637a-90a5-46d1-8c3a-881bc2205c0e": {
 		"allow_add_mods": true,
-		"custom_icons": true,
-		"description": "UPDATE! Version 1.1\r\n\r\nChangelog \\/ \\/ \\/\r\nRotation set fixed.\r\nPhysicsmaterial added to parts.\r\n\r\n\r\n\r\nWelcome to the NEW bus seats and fabrics mod!\r\n\r\nEver since the bus seats and fabrics mod glitched out and duplicated itself (along with other glitches) I've had the idea of a new bus seats and fabrics mod on my mind...\r\n\r\nand now i'm proud to announce the release of the NEW bus seats and fabrics mod!\r\nHope you enjoy :)\r\n\r\n\r\n\r\n\r\n",
+		"custom_icons": false,
+		"description": "UPDATE! Version 1.12\r\n\r\nThis time i bring you (for the first time in bus seats and fabrics history)\r\nCoach seats-ish... They're just the intericity seats with a non interactible table.... (you will of course still be able to sit in the seats) \r\n\r\nBuuuut... the new coach seats are in 3 new fabrics! Which also are available as city seats if you're that crazy!\r\n\r\nBut still there's a catch... Due to problems with blocks scrambling eachother when one mod has alot of blocks, The matching new fabrics are parts, In form of a 2x2x1 variant and a 3x3x1 variant :/  Well... guess it's another year of waiting for a fix!\r\n\r\n\r\n\r\nChangelog \\/ \\/ \\/\r\nAdded 3 new coach seats,\r\nAdded 3 new city seats,\r\nAdded 6 different matching fabric parts,\r\n\r\n\r\n\r\nWelcome to the NEW bus seats and fabrics mod!\r\n\r\nEver since the bus seats and fabrics mod glitched out and duplicated itself (along with other glitches) I've had the idea of a new bus seats and fabrics mod on my mind...\r\n\r\nand now i'm proud to announce the release of the NEW bus seats and fabrics mod!\r\nHope you enjoy :)\r\n\r\n\r\n\r\n\r\n",
 		"fileId": 2800437500,
 		"localId": "b3dc637a-90a5-46d1-8c3a-881bc2205c0e",
 		"name": "New bus seats and fabrics mod",
@@ -16157,6 +16157,16 @@
 		"fileId": 2843905833,
 		"localId": "a898c2c4-de95-4899-9442-697ced66b832",
 		"name": "Laser Cutter",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"3e40285b-5967-4a2b-b6ea-50c1583ccc19": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "boat block",
+		"fileId": 2844052809,
+		"localId": "3e40285b-5967-4a2b-b6ea-50c1583ccc19",
+		"name": "meme",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
