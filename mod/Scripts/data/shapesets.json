@@ -48522,5 +48522,15 @@
 		"$CONTENT_59e32bb5-0e1e-478c-bef5-305edec6608e/Objects/Database/ShapeSets/example.shapeset": [
 			"88a73e45-6740-4a60-b3cc-fbe4e010eb9f"
 		]
+	},
+	"6e7ceafa-6bd7-4d82-b484-abe275aed54b": {
+		"$CONTENT_6e7ceafa-6bd7-4d82-b484-abe275aed54b/Objects/Database/ShapeSets/example.shapeset": [
+			"dd118dbe-d5ee-4023-9d12-c7c55b84d218"
+		]
+	},
+	"a0be7f47-cc3b-4784-8b34-fabb865e4c12": {
+		"$CONTENT_a0be7f47-cc3b-4784-8b34-fabb865e4c12/Objects/Database/ShapeSets/example.shapeset": [
+			"eb20e136-3838-44e8-ac94-58f474544910"
+		]
 	}
 }
