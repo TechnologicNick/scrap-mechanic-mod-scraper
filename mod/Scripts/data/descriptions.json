@@ -12974,7 +12974,7 @@
 	"45803a33-6654-4d48-bc55-cf0b05dde642": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod will contain the most unusual guns.\r\n\r\nCurrently the mod has only two guns, but you can share your ideas in the comments and if they are interesting and original (please do not suggest real weapons or weapons from other games) we will add it in the future.\r\n\r\n[code]\r\n[h1][b]Current Guns[/b][/h1]\r\n- [b]Stick Gun[/b]\r\n- [b]Trashzooka[/b]\r\n[/code]\r\n\r\nThis mod is compatible with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Modded Crafting Recipes[/url] mod.\r\n\r\nBe sure to leave a like and add the mod to your favorites to support our work!\r\n[img]https://steamusercontent-a.akamaihd.net/ugc/2422250057103161085/A682E0A36F63D71A8E643AA7ACC710E907F8937C/[/img]\r\n ",
+		"description": "This mod will contain the most unusual guns.\r\n\r\nCurrently the mod has only three guns, but you can share your ideas in the comments and if they are interesting and original (please do not suggest real weapons or weapons from other games) we will add it in the future.\r\n\r\nPlease do not write the same thing twice, we read all comments. if we did not answer you, it does not mean that we have not seen your idea, maybe we are already implementing it, maybe not.\r\n\r\n[code]\r\n[h1][b]Current Guns[/b][/h1]\r\n- [b]Stick Gun[/b]\r\n- [b]Trashzooka[/b]\r\n- [b]Dubstep Gun[/b]\r\n[/code]\r\n\r\nThis mod is compatible with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Modded Crafting Recipes[/url] custom game.\r\n\r\nBe sure to leave a like and add the mod to your favorites to support our work!\r\n[img]https://steamusercontent-a.akamaihd.net/ugc/2422250057103161085/A682E0A36F63D71A8E643AA7ACC710E907F8937C/[/img]\r\n ",
 		"fileId": 2813939549,
 		"localId": "45803a33-6654-4d48-bc55-cf0b05dde642",
 		"name": "Funky Guns Pack",
@@ -16279,6 +16279,66 @@
 		"fileId": 2845241358,
 		"localId": "226cb8be-6db2-44b1-9bc0-bbeb8d906b45",
 		"name": "Duck Expansion",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"df1f923e-c835-4f70-b625-86e3fcc833d9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "",
+		"fileId": 2841975746,
+		"localId": "df1f923e-c835-4f70-b625-86e3fcc833d9",
+		"name": "Horny block!",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"2d219396-688d-40a9-be11-ed6a0f36e915": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Welcome to the world of logic gates. Build as much as you imagine and desire. There's 11 logic gates for you to explore and experience. That could allow some maximum building power and possibilities, in a way would reduce the number of plain Logic gates into something entirely new. \n\nThere are 11 logic gates, as said above, to explore.\n[list]\n[*][b]Logic Auto:[/b] The red ones, it's a unique gate. It checks for conditions to be active or if wanted, to be automaticly active, all the time. Saves up 1 logic gate.\n\n[*][b]Logic Case:[/b] The purple ones, are powerful ones. The inputs effects it's choice, and the square icons are nodes.\n\n[*][b]Logic Connection:[/b] The orange ones, are substitute for the plain Logic gates\n\n[*][b]Logic Switch:[/b] The magenta ones, are also powerful. It also saves spud ammo and is silent to use\n\n[*][b]Logic Timer:[/b] The green ones, It does serve as an alternative version of the vanilla timer. It also serves perfect and complex uses as a different type of timer.\n\n[*][b]Logic WiFi:[/b] The yellow ones, it is extremely powerful, however, its channels are inputted based on item IDs\n\n[*][b]Piston Controller:[/b] The sky blue ones, Serves to control Pistons and can be automatic too. It can serve those pistons as suspensions (for example). as 1/10\n\n[*][b]Pixel Screen:[/b] It acts as a Logic gate, but it has no icons but the screen is now colorable.\n\n[*][b]Power Converter:[/b] It converts power into logic, logic into power or steering into power. It acts as if it's a WASD converter\n\n[*][b]Seat Controller:[/b] The lime color ones, using Master Driver Seats or Saddles, would give it the best functionality, for Mouse Controls and Jump, otherwise it'll just be a WASD converter.\n\n[*][b]Seat Converter:[/b] Another lime color, except, it's far simpler than the Seat Controller. It includes Seated conditions and a simple WASD converter.\n[/list]\n\nAlthough there is a known issue I noticed every time when this world is reloaded, Every connected items has been mismatched, meaning all items connects in asc",
+		"fileId": 2845355711,
+		"localId": "2d219396-688d-40a9-be11-ed6a0f36e915",
+		"name": "More Logic Gates Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"390443dc-8a92-4cf1-bddc-fb3e7aa93f74": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Worship the cone it is your destiny",
+		"fileId": 2845526783,
+		"localId": "390443dc-8a92-4cf1-bddc-fb3e7aa93f74",
+		"name": "CodeAndStuff",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a9f390ca-0f4d-4e81-a975-49eb02d495cb": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2845567087,
+		"localId": "a9f390ca-0f4d-4e81-a975-49eb02d495cb",
+		"name": "J",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"95d134d0-8554-4095-a92a-c47dd95f608f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2845574712,
+		"localId": "95d134d0-8554-4095-a92a-c47dd95f608f",
+		"name": "yes",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"56751c71-9f62-4e67-9b8b-bec29924b7ad": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2845611348,
+		"localId": "56751c71-9f62-4e67-9b8b-bec29924b7ad",
+		"name": "smol pp",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
