@@ -13162,8 +13162,8 @@
 	},
 	"40c2432d-fab9-44a1-a3d0-53cf0bf8a780": {
 		"allow_add_mods": true,
-		"custom_icons": true,
-		"description": "This mod adds custom Tools/Parts I made to the game.\n\nTools\n-Velocity Gun\n-Rapid Fire Gatling Gun\n-Crit Shotgun\n\nParts\n-Beacon Screw\n-Beacon Screw (Breakable)\n-No Screw\nNew-GlowBOOM\n\nmore Tools and Parts to come.",
+		"custom_icons": false,
+		"description": "This mod adds custom Tools/Parts I made to the game.\n\nTools\n-Velocity Gun\n-Rapid Fire Gatling Gun\n-Crit Shotgun\nNEW-Tape Gun\n\nParts\n-Beacon Screw\n-Beacon Screw (Breakable)\n-No Screw\n-GlowBOOM\nNEW-Gravity Scew\nNEW-Camera Screw\n\nmore Tools and Parts to come.",
 		"fileId": 2818701598,
 		"localId": "40c2432d-fab9-44a1-a3d0-53cf0bf8a780",
 		"name": "Kai's Tools Mod",
@@ -13893,7 +13893,7 @@
 	"1cf37e21-6488-4268-8a8f-a32c2449ce8b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "some extra wedges and curves that don't exist in the modpack polygons\r\n\r\nstill WIP, still doesn't contain many parts",
+		"description": "funny mod with all kinds of stupid parts",
 		"fileId": 2828345433,
 		"localId": "1cf37e21-6488-4268-8a8f-a32c2449ce8b",
 		"name": "Extra Polygons mod",
@@ -16341,5 +16341,66 @@
 		"name": "smol pp",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"77a03e1d-ae83-46ef-a2a3-5526a0e2c254": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "версия 0.1",
+		"fileId": 2835223971,
+		"localId": "77a03e1d-ae83-46ef-a2a3-5526a0e2c254",
+		"name": "World of Den room",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"530a8673-3481-4f56-af09-b488ed9ea724": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Made using DPP's(Dr.Pixel Plays)modding tutorial",
+		"fileId": 2843940340,
+		"localId": "530a8673-3481-4f56-af09-b488ed9ea724",
+		"name": "F",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"2b02fc5b-8601-47b6-8392-084391ae6b25": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "          Модиффикация добавляет заставку вначале некоторых челленджей (на некоторых уровней).\r\n\r\n[hr][/hr]\r\n          Список челленджей с поддержкой данного мода перечислен ниже.\r\n[hr][/hr]\r\n[h1]Инструкция по установке[/h1] \r\n          1) Перейдите в папку где у вас установлен Steam.\r\nнапример:  [u] SteamLibrary\\steamapps\\workshop\\content\\387990\\2845325938;[/u] \r\n2845325938 -это номер –индификатор данного мода;[hr][/hr]\r\n          2) Откройте эту папку, в ней есть 2 интересующие нас папки:  [i] MOD_ON[/i]  для установки мода, и  [i] MOD_OFF[/i]  для его отключения.\r\n          3) Войдите в папку MOD_ON и скопируйте в ней папку Effects ( комбинацией клавиш: ctrl+C ).[hr][/hr]\r\n          4) Перейдите в папку где у вас установлена игра, а точнее режим челленджа к ней.\r\nнапример: [u] SteamLibrary\\steamapps\\common\\Scrap Mechanic\\ChallengeData; [/u] \r\n[hr][/hr]\r\n          5) Откройте папку  [i] ChallengeData[/i]  и вставьте туда ранее скопированный файл (нажмите комбинацию клавиш: ctrl+V), одобрите замену файлов.\r\n[hr][/hr]\r\n          Теперь на некоторых уровнях(в созданных мной челленджах) появятся красивые заставки.\r\n[hr][/hr]\r\n[h1] Отключение модификации[/h1] \r\n          Если вы хотите пройти с кем-то  испытания, у кого не установлен данный мод, либо предложите ему установить его, либо отключите его у себя. Для этого вам нужно произвести те же действия, но с папкой MOD_OFF вместо MOD_ON.\r\n[hr][/hr]\r\n[spoiler]Хорошей вам игры.[/spoiler] \r\n[hr][/hr]\r\n[h1]  Данную модиффикацию поддерживают челленджи (ссылки на них):[/h1] \r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2833676492] Space adventures Part one [tr] [/tr][IMG]https://steamuserimages-a.akamaihd.net/ugc/1899975198392807735/28369D4AD03ED85A4325B270880D4070C57B778C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img] [/url]\r\n[hr][/hr]⠀\r\n⠀[IMG]https://imgur.com/p7Fv1Z6.gif[/img]\r\n\r\n\r\n",
+		"fileId": 2845325938,
+		"localId": "2b02fc5b-8601-47b6-8392-084391ae6b25",
+		"name": "ChallengeCamera",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a1ffb374-c7e4-4ad2-817a-28d717547d96": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This is a game bro",
+		"fileId": 2845987832,
+		"localId": "a1ffb374-c7e4-4ad2-817a-28d717547d96",
+		"name": "Better Scrap Mechanic",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"121c8941-e6f7-4340-b40c-889b22118474": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "An industry mod for survival\n(!Manual installation!)\nContents:\n-Metals\n-Materials\n-Wheat\n-usable crates\n\ntrello list for later stuff:https://trello.com/b/Ta3qh62k/fcmod\n\nDC:https://discord.gg/F2gUbr63MY\n\nHow to install:\n-------------------------------------------\nGetting the file:\ngoogledrive:https://drive.google.com/drive/folders/1kAqR5Gzua7fWSYD4uvgxiGkSvTSsQrqL?usp=sharing\n\nor:\ngo to get it from workshop content(watch tutorial on youtube)\n--------------------------------------------\nCopy the the data and survival folders\ninto C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\n\nand press replace the files in destination\n----------------------------------------------\n",
+		"fileId": 2846077725,
+		"localId": "121c8941-e6f7-4340-b40c-889b22118474",
+		"name": "FCMod Industryscrap",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"10ab7fc2-cb37-477d-89fe-0bbf916a8643": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This is just a mod i made for no reason",
+		"fileId": 2846104800,
+		"localId": "10ab7fc2-cb37-477d-89fe-0bbf916a8643",
+		"name": "Loot And Recipe tweaks",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
