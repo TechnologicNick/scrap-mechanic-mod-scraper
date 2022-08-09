@@ -49638,5 +49638,11 @@
 			"7dc15f77-d856-4e26-8cca-7d73f93152fe",
 			"8ad2b0d4-50df-47ee-96d2-8137067b50ef"
 		]
+	},
+	"59a6543b-4964-42f0-bc72-048890b252dd": {
+		"$CONTENT_59a6543b-4964-42f0-bc72-048890b252dd/Objects/Database/ShapeSets/blocks.json": [
+			"b3e51048-06be-4367-89d0-304c5fb82a29",
+			"a463c4e8-2ede-4c29-b071-17a6d1cadc91"
+		]
 	}
 }
