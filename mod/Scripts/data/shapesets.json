@@ -49428,7 +49428,8 @@
 	},
 	"2d219396-688d-40a9-be11-ed6a0f36e915": {
 		"$CONTENT_2d219396-688d-40a9-be11-ed6a0f36e915/Objects/Database/ShapeSets/blocks.json": [
-			"5926b0cf-9db2-4540-b095-b70b871de169"
+			"5926b0cf-9db2-4540-b095-b70b871de169",
+			"7189250d-d159-4804-b75a-d6750c290a79"
 		],
 		"$CONTENT_2d219396-688d-40a9-be11-ed6a0f36e915/Objects/Database/ShapeSets/logicgates.json": [
 			"d8d824e1-2133-4c35-af33-be09a096ed02",
@@ -49460,6 +49461,16 @@
 			"039ce089-2bed-4431-9293-aa1ca37cb5e3",
 			"beefd7a2-cd3c-482f-9612-c4239f1c2b47",
 			"b3912d74-a46b-4379-9e58-8ee4c8e94ca2"
+		],
+		"$CONTENT_2d219396-688d-40a9-be11-ed6a0f36e915/Objects/Database/ShapeSets/mathgates.json": [
+			"f7a543a9-d055-4dbe-9973-f6bc227cbf37",
+			"ef07f8f7-d129-4ff1-a04e-8c6823c963b8",
+			"6fe2c906-c527-4ae7-a5c6-6013a5236520",
+			"1bf8f6e9-41ff-4015-a53d-90fcf559f609",
+			"c6f7dfd6-ae65-42e5-8644-7505e67e63a6",
+			"fdb5f236-d8e8-4c9b-90af-424627f28090",
+			"599314bb-e746-4597-b492-c8dd7347ca78",
+			"bf8f50fb-5cc2-4786-92c7-f54013ffa3fd"
 		]
 	},
 	"390443dc-8a92-4cf1-bddc-fb3e7aa93f74": {
@@ -49904,6 +49915,25 @@
 			"b1c5e493-2e76-4059-8770-7619445bfe34",
 			"a8bc2792-c814-4151-ba9c-0c11f75253e5",
 			"93a1a089-0d73-4718-a47f-0189fd9ad95a"
+		]
+	},
+	"f7ef8f16-85cb-4e69-9cb1-74ae46cf7d78": {
+		"$CONTENT_f7ef8f16-85cb-4e69-9cb1-74ae46cf7d78/Objects/Database/ShapeSets/example.shapeset": [
+			"b35f5da0-4d6a-491e-90e2-0825603e795d",
+			"f71aa60b-6f99-405c-9018-ef1040193155"
+		]
+	},
+	"1d4e6885-022d-42d5-9f22-12417599eff7": {
+		"$CONTENT_1d4e6885-022d-42d5-9f22-12417599eff7/Objects/Database/ShapeSets/example.shapeset": [
+			"ea751bb6-438a-41dd-8ef2-0047c7f62c63",
+			"411da73a-0328-4438-b83a-68b2b9735d7e",
+			"20ac7b7c-d1dc-41f5-be2c-6a10991892ea",
+			"5b720dfa-5370-4450-b346-ad738036158b"
+		]
+	},
+	"83a1cd45-01b5-419a-8019-628aec00cf79": {
+		"$CONTENT_83a1cd45-01b5-419a-8019-628aec00cf79/Objects/Database/ShapeSets/example.shapeset": [
+			"c4531000-0000-0000-0000-000000000000"
 		]
 	}
 }
