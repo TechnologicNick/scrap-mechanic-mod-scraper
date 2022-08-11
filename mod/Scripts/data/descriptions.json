@@ -14927,7 +14927,7 @@
 	"e3d52333-57a7-4289-b737-ade78347cd12": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "A mod with resource boosted & cost reduced\n( in progress ) i'm patching ...............\nThanks for 1500 subs OMGGG :D\n\n\nMob loot boosted, classic loot are boosted, green/gold lootbox is not changed yet... ( no idea, whrite your wish in comment )\nCratfing recipe, refine speed, grow speed are complete.\n\nnow working for PATCH D;\n\nfast refine patched, lootboost patched, fast grow patched\n\ncotton has display problems but works",
+		"description": "A mod with resource boosted & cost reduced\n( in progress ) i'm patching ...............\nThanks for 1700 subs OMGGG :D\n\n\nMob loot boosted, classic loot are boosted, green/gold lootbox is not changed yet... ( no idea, whrite your wish in comment )\n\ntell me what you want me to add in the comment\n\ncotton has display problems but works",
 		"fileId": 2816326647,
 		"localId": "e3d52333-57a7-4289-b737-ade78347cd12",
 		"name": "Survival Less Cost",
@@ -15997,7 +15997,7 @@
 	"9b65a5f6-f5bf-4a76-aa6a-b96f3656862b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "A fully functional copy of Creative Game, but with better terrain generation and bigger world to explore.\r\n\r\n[code]\r\n[h1]Available Commands[/h1]\r\n[b]/clear[/b] - Removes all the loaded bodies in the world.\r\n[b]/spawn[/b] - Teleports your character to spawn position.\r\n[b]/tp [player_id][/b] - Teleports your character to selected player.\r\n[b]/playerlist[/b] - Displays the list of all players in the world.\r\n[b]/timeset [time from 0.0 to 1.0][/b] - Sets the current time.\r\n[b]/timeprogress [bool (optional)][/b] - Stops the time when set to false.\r\n[b]/fly[/b] - Toggles fly mode for your character.\r\n[b]/seed[/b] - Shows the seed and version of the current terrain generation.\r\n[b]/noaggro [bool (optional)][/b] - Toggles the player as a target.\r\n[b]/noaggrocreations [bool (optional)][/b] - Toggles whether the Tapebots will shoot at creations.\r\n[b]/popcapsules [filter (optional)][/b] - Opens all capsules. An optional filter controls which type of capsules to open: 'bot', 'animal'.\r\n[b]/aggroall[/b] - All hostile units will be made aware of the player's position.\r\n[b]/killall[/b] - Kills all spawned units.\r\n[b]/dropscrap [bool (optional)][/b] - Toggles the scrap loot from Haybots.\r\n[b]/place [harvestable][/b] - Places a harvestable at the aimed position. Must be placed on the ground. The harvestable parameter controls which harvestable to place: 'stone', 'tree', 'birch', 'leafy', 'spruce', 'pine'.\r\n[/code]\r\n\r\n[code]\r\n[h1]Host only commands[/h1]\r\n[b]/regenerate [version (auto = 0)] [seed (optional)][/b] - Regenerates the world with the specified parameters.\r\n[b]/import [creation_name][/b] - Imports a creation from survival files and custom game files.\r\n[b]/export [creation_name][/b] - Exports the creation you're currently looking at.\r\n[/code]\r\n\r\nHave Fun :)\r\n\r\nPreview image was created by [url=https://steamcommunity.com/profiles/76561198318189561]Dart Frog[/url]",
+		"description": "A fully functional copy of Creative Game, but with better terrain generation and bigger world to explore.\r\n\r\n[code]\r\n[h1]Available Commands[/h1]\r\n[b]/clear[/b] - Removes all the loaded bodies in the world.\r\n[b]/spawn[/b] - Teleports your character to spawn position.\r\n[b]/tp [player_id][/b] - Teleports your character to selected player.\r\n[b]/playerlist[/b] - Displays the list of all players in the world.\r\n[b]/timeset [time from 0.0 to 1.0][/b] - Sets the current time.\r\n[b]/timeprogress [bool (optional)][/b] - Stops the time when set to false.\r\n[b]/fly[/b] - Toggles fly mode for your character.\r\n[b]/seed[/b] - Shows the seed and version of the current terrain generation.\r\n[b]/noaggro [bool (optional)][/b] - Toggles the player as a target.\r\n[b]/noaggrocreations [bool (optional)][/b] - Toggles whether the Tapebots will shoot at creations.\r\n[b]/popcapsules [filter (optional)][/b] - Opens all capsules. An optional filter controls which type of capsules to open: 'bot', 'animal'.\r\n[b]/aggroall[/b] - All hostile units will be made aware of the player's position.\r\n[b]/killall[/b] - Kills all spawned units.\r\n[b]/dropscrap [bool (optional)][/b] - Toggles the scrap loot from Haybots.\r\n[b]/place [harvestable][/b] - Places a harvestable at the aimed position. Must be placed on the ground. The harvestable parameter controls which harvestable to place: 'stone', 'tree', 'birch', 'leafy', 'spruce', 'pine'.\r\n[b]/enablehealth[/b] - Makes your character receive damage.\r\n[b]/die[/b] - Kills your character if your health is enabled.\r\n[b]/spawnpoint[/b] - Sets a location at which the character is respawned after death.\r\n[/code]\r\n\r\n[code]\r\n[h1]Host only commands[/h1]\r\n[b]/regenerate [version (auto = 0)] [seed (optional)][/b] - Regenerates the world with the specified parameters.\r\n[b]/import [creation_name][/b] - Imports a creation from survival files and custom game files.\r\n[b]/export [creation_name][/b] - Exports the creation you're currently looking at.\r\n[/code]\r\n\r\nHave Fun :)\r\n\r\nPreview image was created by [url=https://steamcommunity.com/profiles/76561198318189561]Dart Frog[/url]",
 		"fileId": 2839940307,
 		"localId": "9b65a5f6-f5bf-4a76-aa6a-b96f3656862b",
 		"name": "Creative Terrain Overhaul",
@@ -16406,7 +16406,7 @@
 	"ce31c68d-15ab-4cf2-945e-088b370a812d": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mods lets you experiment and have fun with mostly physics related parts!\nAlmost all of them are adjustable.\n[h1][/h1]\n[b]Added parts:[/b]\n- Jump Pad\n- Pusher\n- Puller\n- Tumbler\n- Forcefield\n- Conveyor Belt\n- Sticker\n[h1][/h1]\n[b]Credits:[/b]\nScripting: Fagiano\nIdeas: The Red Builder\n\n[img]https://i.imgur.com/p7Fv1Z6.gif[/img]\n\nIf you have ideas for new parts leave them in the comments!",
+		"description": "This mod lets you experiment and have fun with mostly physics related parts!\r\nAlmost all of them are adjustable, with filters and impulse strength!\r\n\r\nHuge thanks to ScrapMan for featuring this mod in a video!\r\n[hr][/hr]\r\n[b]Added parts:[/b]\r\n• Jump Pad - [i]Makes characters and creations jump[/i]\r\n• Pusher - [i]Pushes characters and creations away from it[/i]\r\n• Puller - [i]Pulls characters and creations to it[/i]\r\n• Tumbler - [i]Tumbles characters[/i]\r\n• Forcefield - [i]Pushes back characters and creations that try to enter its area[/i]\r\n• Conveyor Belt - [i]Moves characters and creations in its direction[/i]\r\n• Sticker - [i]Makes the player stick to walls and ceilings, you can also move![/i]\r\n\r\n[hr][/hr]\r\n[b]Credits:[/b]\r\nScripting: Fagiano\r\nIdeas: The Red Builder\r\n\r\n[img]https://i.imgur.com/p7Fv1Z6.gif[/img]\r\n\r\nIf you have ideas for new parts leave them in the comments!",
 		"fileId": 2846411124,
 		"localId": "ce31c68d-15ab-4cf2-945e-088b370a812d",
 		"name": "Physics Toys Pack",
@@ -16483,5 +16483,44 @@
 		"name": "Unlocked SoilBag",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"b60c2c52-cc0d-45a1-9df3-3a45dfc88115": {
+		"description": "This mod contains everithing I found in the gamefiles and was able to use the same UUID.\nThat means if any of these will be in creative in a future update the mod will conflickt.\nBut it's also means if you save a blueprint with a part that will come in creative the blueprint will automacliy work if I remove the part from the mod.\nDisclaimer!!! Not all the parts have the same functionality as in Challenge or Survival mode. Also, all the restrictions have been removed, if there is a part that still has some kind of restriction write \"/restrictions\" in the ingame chat to turn them of. (And if you send a message about the problem, maybe I could fix it.)",
+		"fileId": 2798172696,
+		"localId": "b60c2c52-cc0d-45a1-9df3-3a45dfc88115",
+		"name": "Survival & Challenge parts",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"f0b98e42-de8a-4431-b691-e82fda41c2ce": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "Hi!",
+		"fileId": 2807990111,
+		"localId": "f0b98e42-de8a-4431-b691-e82fda41c2ce",
+		"name": "Water Block",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"080b4866-2a71-4ff3-9ce1-ac4a4044eacf": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Nah, the title lies.",
+		"fileId": 2847227335,
+		"localId": "080b4866-2a71-4ff3-9ce1-ac4a4044eacf",
+		"name": "SOME what usefull things",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"313b4f5c-0a5e-4f64-ba95-25ac13678447": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "a few new things",
+		"fileId": 2847289402,
+		"localId": "313b4f5c-0a5e-4f64-ba95-25ac13678447",
+		"name": "the random mod",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
