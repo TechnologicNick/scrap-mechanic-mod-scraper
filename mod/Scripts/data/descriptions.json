@@ -16295,7 +16295,7 @@
 	"2d219396-688d-40a9-be11-ed6a0f36e915": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Welcome to the world of logic gates. Build as much as you imagine and desire. There's 11 logic gates for you to explore and experience. That could allow some maximum building power and possibilities, in a way would reduce the number of plain Logic gates into something entirely new.\r\n\r\nThere are 15 logic gates, as said above, to explore.\r\n[list]\r\n[*][b]Logic Auto:[/b] The red ones, it's a unique gate. It checks for conditions to be active or if wanted, to be automaticly active, all the time. Saves up 1 logic gate.\r\n\r\n[*][b]Logic Case:[/b] The purple ones, are powerful ones. The inputs effects it's choice, and the square icons are nodes.\r\n\r\n[*][b]Logic Connection:[/b] The orange ones, are substitute for the plain Logic gates\r\n\r\n[*][b]Logic Switch:[/b] The magenta ones, are also powerful. It also saves spud ammo and is silent to use\r\n\r\n[*][b]Logic Timer:[/b] The green ones, It does serve as an alternative version of the vanilla timer. It also serves perfect and complex uses as a different type of timer.\r\n\r\n[*][b]Logic WiFi:[/b] The yellow ones, it is extremely powerful, however, its channels are inputted based on item IDs\r\n\r\n[*][b]Math Converter:[/b] This counts active items or power items or can be a counter (adds per tick) or a specifier (which categorizes logic or Power or lock in the math value from an active math item)\r\n\r\n[*][b]Math Compare:[/b] This is simple for a math value. Compare with the second math item or a static value as Greater than, Less than, Is Equal to, or Not Equal to.\r\n\r\n[*][b]Math Operation:[/b] This item contains the most common operations; Addition, Subtraction, Multiplication, Division, Modulo, or Squared. Operate that with the second math item or a static value for an output. Any nans or infinite values goes to 0 for this item. A blocker as an operation is a useful item. it blocks unwanted variables to pass through.\r\n\r\n[*][b]Math Variance[/b] This item hosts a static value or a random value or it can tick send a math value.\r\n\r\n[*][b]Piston Controller:[/b] The sky blue ones, Serves to control Pistons and can be automatic too. It can serve those pistons as suspensions (for example), placed as 1/10 of a block.\r\n\r\n[*][b]Pixel Screen:[/b] It acts as the vanilla Logic Gate, but it has no icons but the screen is now colorable.\r\n\r\n[*][b]Power Converter:[/b] It converts power into logic, logic into power or steering into power. It acts as if it's a WASD converter\r\n\r\n[*][b]Seat Controller:[/b] The lime color ones, using Master Driver Seats or Saddles, would give it the best functionality, for Mouse Controls and Jump, otherwise it'll just be a WASD converter.\r\n\r\n[*][b]Seat Converter:[/b] Another lime color, except, it's far simpler than the Seat Controller. It includes Seated conditions and a simple WASD converter.\r\n[/list]\r\n\r\nThere are Master Seats and Master Driver Seats in this mod. It allows for more controls for the Seat Controller. There's that reason: They have more that their Vanilla counterpart doesn't. Jumping to exit the seat has been disabled for Controller reasons.",
+		"description": "Welcome to the world of logic gates. Build as much as you imagine and desire. There's 11 logic gates for you to explore and experience. That could allow some maximum building power and possibilities, in a way would reduce the number of plain Logic gates into something entirely new.\r\n\r\nThere are 15 logic gates, as said above, to explore.\r\n[list]\r\n[*][b]Logic Auto:[/b] The red ones, it's a unique gate. It checks for conditions to be active or if wanted, to be automaticly active, all the time. Saves up 1 logic gate.\r\n\r\n[*][b]Logic Case:[/b] The purple ones, are powerful ones. The inputs effects it's choice, and the square icons are nodes.\r\n\r\n[*][b]Logic Connection:[/b] The orange ones, are substitute for the plain Logic gates\r\n\r\n[*][b]Logic Switch:[/b] The magenta ones, are also powerful. It also saves spud ammo and is silent to use\r\n\r\n[*][b]Logic Timer:[/b] The green ones, It does serve as an alternative version of the vanilla timer. It also serves perfect and complex uses as a different type of timer.\r\n\r\n[*][b]Logic WiFi:[/b] The yellow ones, it is extremely powerful, however, its channels are inputted based on item IDs\r\n\r\n[*][b]Math Converter:[/b] This counts active items or power items or can be a counter (adds per tick) or a specifier (which categorizes logic or Power or lock in the math value from an active math item)\r\n\r\n[*][b]Math Compare:[/b] This is simple for a math value. Compare with the second math item or a static value as Greater than, Less than, Is Equal to, or Not Equal to.\r\n\r\n[*][b]Math Operation:[/b] This item contains the most common operations; Addition, Subtraction, Multiplication, Division, Modulo, or Squared. Operate that with the second math item or a static value for an output. Any nans or infinite values goes to 0 for this item. A blocker as an operation is a useful item. it blocks unwanted variables to pass through.\r\n\r\n[*][b]Math Variance[/b] This item hosts a static value or a random value.\r\n\r\n[*][b]Piston Controller:[/b] The sky blue ones, Serves to control Pistons and can be automatic too. It can serve those pistons as suspensions (for example), placed as 1/10 of a block.\r\n\r\n[*][b]Pixel Screen:[/b] It acts as the vanilla Logic Gate, but it has no icons but the screen is now colorable.\r\n\r\n[*][b]Power Converter:[/b] It converts power into logic, logic into power or steering into power. It acts as if it's a WASD converter\r\n\r\n[*][b]Seat Controller:[/b] The lime color ones, using Master Driver Seats or Saddles, would give it the best functionality, for Mouse Controls and Jump, otherwise it'll just be a WASD converter.\r\n\r\n[*][b]Seat Converter:[/b] Another lime color, except, it's far simpler than the Seat Controller. It includes Seated conditions and a simple WASD converter.\r\n[/list]\r\n\r\nThere are Master Seats and Master Driver Seats in this mod. It allows for more controls for the Seat Controller. There's that reason: They have more that their Vanilla counterpart doesn't. Jumping to exit the seat has been disabled for Controller reasons.",
 		"fileId": 2845355711,
 		"localId": "2d219396-688d-40a9-be11-ed6a0f36e915",
 		"name": "More Logic Gates Mod",
@@ -16386,7 +16386,7 @@
 	"121c8941-e6f7-4340-b40c-889b22118474": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "An industry mod for survival\n(!Manual installation!)\nContents:\n-Metals\n-Materials\n-Wheat\n-usable crates\n\ntrello list for later stuff:https://trello.com/b/Ta3qh62k/fcmod\n\nDC:https://discord.gg/F2gUbr63MY\n\nHow to install:\n-------------------------------------------\nGetting the file:\ngoogledrive:https://drive.google.com/drive/folders/1kAqR5Gzua7fWSYD4uvgxiGkSvTSsQrqL?usp=sharing\n\nor:\ngo to get it from workshop content(watch tutorial on youtube)\n--------------------------------------------\nCopy the the data and survival folders\ninto C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\n\nand press replace the files in destination\n----------------------------------------------\n",
+		"description": "[h1] FCMod(Manual install)\r\n\r\n[b] An industry mod for survival\r\n(!Manual installation!)\r\n[u]Contents:\r\n-Metals\r\n-Materials\r\n-Wheat\r\n-usable crates\r\n\r\n[b]trello list for later stuff:https://trello.com/b/Ta3qh62k/fcmod\r\n\r\nDC:https://discord.gg/F2gUbr63MY\r\n\r\nHow to install:\r\n-------------------------------------------\r\nGetting the file:\r\n[i]googledrive:https://drive.google.com/drive/folders/1kAqR5Gzua7fWSYD4uvgxiGkSvTSsQrqL?usp=sharing\r\nversion 0.5.6 (fixed wheat texture not loading & wheat grow speed)\r\nor:\r\ngo to get it from workshop content(watch tutorial on youtube)(could be outdated last update 0.5.5)\r\n--------------------------------------------\r\n[b]Copy the the data and survival folders\r\ninto C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\r\n\r\nand press replace the files in destination\r\n----------------------------------------------\r\n",
 		"fileId": 2846077725,
 		"localId": "121c8941-e6f7-4340-b40c-889b22118474",
 		"name": "FCMod Industryscrap",
@@ -16406,7 +16406,7 @@
 	"ce31c68d-15ab-4cf2-945e-088b370a812d": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod lets you experiment and have fun with mostly physics related parts!\r\nAlmost all of them are adjustable, with filters and impulse strength!\r\n\r\nHuge thanks to ScrapMan for featuring this mod in a video!\r\n[hr][/hr]\r\n[b]Added parts:[/b]\r\n• Jump Pad - [i]Makes characters and creations jump[/i]\r\n• Pusher - [i]Pushes characters and creations away from it[/i]\r\n• Puller - [i]Pulls characters and creations to it[/i]\r\n• Tumbler - [i]Tumbles characters[/i]\r\n• Forcefield - [i]Pushes back characters and creations that try to enter its area[/i]\r\n• Conveyor Belt - [i]Moves characters and creations in its direction[/i]\r\n• Sticker - [i]Makes the player stick to walls and ceilings, you can also move![/i]\r\n\r\n[hr][/hr]\r\n[b]Credits:[/b]\r\nScripting: Fagiano\r\nIdeas: The Red Builder\r\n\r\n[img]https://i.imgur.com/p7Fv1Z6.gif[/img]\r\n\r\nIf you have ideas for new parts leave them in the comments!",
+		"description": "This mod lets you experiment and have fun with mostly physics related parts!\r\nAlmost all of them are adjustable, with filters and impulse strength!\r\n\r\nHuge thanks to ScrapMan for featuring this mod in a video!\r\n\r\n[hr][/hr]\r\n[b]Added parts:[/b]\r\n• Jump Pad - [i]Makes characters and creations jump[/i]\r\n• Pusher - [i]Pushes characters and creations away from it[/i]\r\n• Puller - [i]Pulls characters and creations to it[/i]\r\n• Tumbler - [i]Tumbles characters[/i]\r\n• Forcefield - [i]Pushes back characters and creations that try to enter its area[/i]\r\n• Conveyor Belt - [i]Moves characters and creations in its direction[/i]\r\n• Sticker - [i]Makes the player stick to walls and ceilings, you can also move![/i]\r\n\r\n[hr][/hr]\r\n[b]Credits:[/b]\r\nScripting: Fagiano\r\nIdeas: The Red Builder\r\n\r\n[img]https://i.imgur.com/p7Fv1Z6.gif[/img]\r\n\r\nIf you have ideas for new parts leave them in the comments!",
 		"fileId": 2846411124,
 		"localId": "ce31c68d-15ab-4cf2-945e-088b370a812d",
 		"name": "Physics Toys Pack",
@@ -16550,6 +16550,46 @@
 		"fileId": 2847519845,
 		"localId": "83a1cd45-01b5-419a-8019-628aec00cf79",
 		"name": "Crystal mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f36d14fc-cef2-4822-91f0-139b7439150a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Simple mod with the most useless block.",
+		"fileId": 2847575849,
+		"localId": "f36d14fc-cef2-4822-91f0-139b7439150a",
+		"name": "MyMod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"13e1d660-dec7-44c5-a7e9-c408aa117055": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "I made Ukrainian language full translate for scrap mechanic",
+		"fileId": 2847719819,
+		"localId": "13e1d660-dec7-44c5-a7e9-c408aa117055",
+		"name": "UkrainianLanguage",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d3332400-bbd3-4a25-b7da-8d67f0c55adf": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2847721552,
+		"localId": "d3332400-bbd3-4a25-b7da-8d67f0c55adf",
+		"name": "More Ducks!",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"27fa6a9a-41e7-4a63-a2d6-299ecacf435c": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 2847766863,
+		"localId": "27fa6a9a-41e7-4a63-a2d6-299ecacf435c",
+		"name": "Stat Blocks",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
