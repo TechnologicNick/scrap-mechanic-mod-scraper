@@ -16566,7 +16566,7 @@
 	"13e1d660-dec7-44c5-a7e9-c408aa117055": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Я зробив україномовний повний переклад для scrap mechanic.\r\n\r\nУстановка:\r\n\r\nПросто перейдіть у .../Steam/steamapps/workshop/content/387990/2847719819, виберіть дві папки \"Gui\" та \"Data\" та помістіть папку \"Data\" до файлів гри в .../Steam/steamapps/common/ Scrap Mechanic, потім візьміть папку з назвою \"Gui\" і помістіть її в папку \"Survival\" у .../Steam/steamapps/common/Scrap Mechanic/Survival\r\n\r\nІ насолоджуйтесь :D\r\n\r\n\r\n\r\nСЛАВА УКРАЇНІ!\r\n\r\n\r\n\r\nI made Ukrainian language full translate for scrap mechanic.\r\n\r\nInstallation:\r\n\r\nJust go .../Steam/steamapps/workshop/content/387990/2847719819 and select two folder \"Gui\" and \"Data\" from and put \"Data\" folder to your game files in .../Steam/steamapps/common/Scrap Mechanic, then take folder with name \"Gui\" and put it into \"Survival\" folder in .../Steam/steamapps/common/Scrap Mechanic/Survival\r\n\r\nAnd enjoy :D\r\n\r\n\r\n\r\nSLAVA UKRAINI!",
+		"description": "Я зробив Український повний переклад для scrap mechanic.\r\n\r\nУстановка:\r\n\r\nПросто перейдіть у .../Steam/steamapps/workshop/content/387990/2847719819, виберіть три папки \"Survival\", \"Data\" та \"ChallengeData\", помістіть ці папки до файлів гри в .../Steam/steamapps/common/Scrap Mechanic\r\n\r\nІ насолоджуйтесь :D\r\n\r\n\r\n\r\nСЛАВА УКРАЇНІ!\r\n\r\n\r\n\r\n\r\nI made a full Ukrainian translation for scrap mechanic.\r\n\r\nInstallation:\r\n\r\nJust go to .../Steam/steamapps/workshop/content/387990/2847719819, select the three folders \"Survival\", \"Data\" and \"ChallengeData\", put these folders to the game files in .../Steam/steamapps/common/Scrap Mechanic\r\n\r\nAnd enjoy :D\r\n\r\n\r\n\r\nGLORY TO UKRAINE!",
 		"fileId": 2847719819,
 		"localId": "13e1d660-dec7-44c5-a7e9-c408aa117055",
 		"name": "UkrainianLanguage",
@@ -16610,6 +16610,36 @@
 		"fileId": 2847931094,
 		"localId": "4ce5e849-5dfa-4e43-9441-4b1eea787346",
 		"name": "idk mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"06f5f36f-294c-4bd4-b70f-df93630121dd": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This Mod adds to the Basic Creative the Modular Tank Track parts from the Fant Mod as Standalone",
+		"fileId": 2848023872,
+		"localId": "06f5f36f-294c-4bd4-b70f-df93630121dd",
+		"name": "Fants Modular Tank Track",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"2213ea94-8bbb-486c-bfd5-383be4e54d8f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "It Dig",
+		"fileId": 2848066011,
+		"localId": "2213ea94-8bbb-486c-bfd5-383be4e54d8f",
+		"name": "Raft Shovel",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"10794459-b2fe-433a-8261-de339f9e37e7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "press e, scroll up and down to select the body, left click to select it, and right click to spawn it in.",
+		"fileId": 2848154371,
+		"localId": "10794459-b2fe-433a-8261-de339f9e37e7",
+		"name": "creation finder",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
