@@ -50018,5 +50018,18 @@
 		"$CONTENT_9ea93951-cba7-45a5-8bd5-b2b7ddfc9575/Objects/Database/ShapeSets/example.shapeset": [
 			"8fa440ae-39ff-4140-8652-2ec25acb2f05"
 		]
+	},
+	"07978d63-1c64-4052-ae38-9c31ce06ec15": {
+		"$CONTENT_07978d63-1c64-4052-ae38-9c31ce06ec15/Objects/Database/ShapeSets/example.shapeset": [
+			"d54ae347-e692-4c2b-9cbe-65c5f267db74",
+			"61e7470c-190c-4d37-89db-06b34c1069f9",
+			"e0f81ae7-c597-46cc-af50-0e0e483a1ec9",
+			"a24c1f02-ebf3-41b5-88c0-935c35015c81"
+		]
+	},
+	"38e42b10-03b9-4eb6-9efa-b6e0499cd279": {
+		"$CONTENT_38e42b10-03b9-4eb6-9efa-b6e0499cd279/Objects/Database/ShapeSets/example.shapeset": [
+			"de853bc8-4859-40c6-8acd-99238478676d"
+		]
 	}
 }
