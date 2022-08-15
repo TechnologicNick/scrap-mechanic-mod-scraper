@@ -16677,7 +16677,8 @@
 	"38e42b10-03b9-4eb6-9efa-b6e0499cd279": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "it's extra blocks!",
+		"dependencies": null,
+		"description": "it's extra blocks (and parts)!",
 		"fileId": 2848659096,
 		"localId": "38e42b10-03b9-4eb6-9efa-b6e0499cd279",
 		"name": "XtraBlox",
@@ -16742,6 +16743,26 @@
 		"fileId": 2848861101,
 		"localId": "fa707d9f-3f9d-4ace-a163-08cef5ac07ed",
 		"name": "El arbuz industries special materials",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"2725a08e-b3df-400a-89b5-5a1bd768b284": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2848969655,
+		"localId": "2725a08e-b3df-400a-89b5-5a1bd768b284",
+		"name": "zafy's first funny blocks n stuff mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6c3dec4a-add1-42f0-9747-e106ffdddd70": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "the madest mod of all time its soo mad you cant even see it :)",
+		"fileId": 2849047148,
+		"localId": "6c3dec4a-add1-42f0-9747-e106ffdddd70",
+		"name": "my first mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
