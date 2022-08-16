@@ -50156,5 +50156,13 @@
 			"a1dcc7d4-570d-45ad-a819-d7f2a7ed67d8",
 			"f62554d2-657c-4415-8281-4112a566da2d"
 		]
+	},
+	"097bec1e-8d81-49e3-8e1a-7df6ce920290": {
+		"$CONTENT_097bec1e-8d81-49e3-8e1a-7df6ce920290/Objects/Database/ShapeSets/example.shapeset": [
+			"1a226871-0925-4b6f-8d08-a05b1077e7e2",
+			"181930c5-0609-4bcc-a6f3-9dc38c8edbfe",
+			"181930c5-0609-4bcc-a6f3-9dc38c8edbfe",
+			"181930c5-0609-4bcc-a6f3-9dc38c8edbfe"
+		]
 	}
 }
