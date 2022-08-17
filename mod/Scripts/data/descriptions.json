@@ -16235,7 +16235,7 @@
 	"61dfaa2e-041d-4e6b-82a1-54185a7d0cfe": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Infinite Lift reach and allows you to place anywhere.\n\n(note: Infinite lift level is not possible.)",
+		"description": "Infinite Lift reach and allows you to place anywhere.\r\n\r\nforce build button to go down and reload button to go up more (note: cant use a creation)",
 		"fileId": 2844836154,
 		"localId": "61dfaa2e-041d-4e6b-82a1-54185a7d0cfe",
 		"name": "Better Lift",
