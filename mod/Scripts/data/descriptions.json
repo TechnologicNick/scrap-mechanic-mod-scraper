@@ -16739,6 +16739,7 @@
 	"fa707d9f-3f9d-4ace-a163-08cef5ac07ed": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": null,
 		"description": "A mod with all the materials from El Arbuz Industries",
 		"fileId": 2848861101,
 		"localId": "fa707d9f-3f9d-4ace-a163-08cef5ac07ed",
