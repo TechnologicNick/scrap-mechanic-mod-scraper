@@ -16566,7 +16566,7 @@
 	"13e1d660-dec7-44c5-a7e9-c408aa117055": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Я зробив Український повний переклад для scrap mechanic.\r\n\r\nУстановка:\r\n\r\nПросто перейдіть у .../Steam/steamapps/workshop/content/387990/2847719819, виберіть три папки \"Survival\", \"Data\" та \"ChallengeData\", помістіть ці папки до файлів гри в .../Steam/steamapps/common/Scrap Mechanic\r\n\r\nІ насолоджуйтесь :D\r\n\r\n\r\n\r\nСЛАВА УКРАЇНІ!\r\n\r\n\r\n\r\n\r\nI made a full Ukrainian translation for scrap mechanic.\r\n\r\nInstallation:\r\n\r\nJust go to .../Steam/steamapps/workshop/content/387990/2847719819, select the three folders \"Survival\", \"Data\" and \"ChallengeData\", put these folders to the game files in .../Steam/steamapps/common/Scrap Mechanic\r\n\r\nAnd enjoy :D\r\n\r\n\r\n\r\nGLORY TO UKRAINE!",
+		"description": "Я зробив повний Український переклад для scrap mechanic.\r\n\r\nУстановка:\r\n\r\nПросто перейдіть у .../Steam/steamapps/workshop/content/387990/2847719819, виберіть три папки \"Survival\", \"Data\" та \"ChallengeData\", помістіть ці папки до файлів гри в .../Steam/steamapps/common/Scrap Mechanic\r\n\r\nІ насолоджуйтесь :D\r\n\r\n\r\n\r\nСЛАВА УКРАЇНІ!\r\n\r\n\r\n\r\n\r\nI made a full Ukrainian translation for scrap mechanic.\r\n\r\nInstallation:\r\n\r\nJust go to .../Steam/steamapps/workshop/content/387990/2847719819, select the three folders \"Survival\", \"Data\" and \"ChallengeData\", put these folders to the game files in .../Steam/steamapps/common/Scrap Mechanic\r\n\r\nAnd enjoy :D\r\n\r\n\r\n\r\nGLORY TO UKRAINE!",
 		"fileId": 2847719819,
 		"localId": "13e1d660-dec7-44c5-a7e9-c408aa117055",
 		"name": "UkrainianLanguage",
@@ -16871,6 +16871,16 @@
 		"fileId": 2849889389,
 		"localId": "928daaa1-1221-415b-b30f-7be9f208ba10",
 		"name": "Extreme blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a67b3ec9-bfae-4039-ba78-40e8a11a25e0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Will add other types of stuff soon(prolly) but for now this thing i found inside of the game files!",
+		"fileId": 2849867208,
+		"localId": "a67b3ec9-bfae-4039-ba78-40e8a11a25e0",
+		"name": "Random_Cargos",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

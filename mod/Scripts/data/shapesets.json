@@ -50049,7 +50049,8 @@
 			"a4210fc3-e191-4f01-a02b-69c4ffd6f043",
 			"cd05faaf-29a6-477e-95d9-a768d14a94cb",
 			"198dbb11-f8af-4209-8065-8ea7a8a73356",
-			"6e6c2ed4-5350-4f94-8ead-4a24fa43765f",
+			"528ab88e-06cb-41ce-a21d-ab7ecfd0fcf1",
+			"1bf05898-c051-4351-89c8-642b70819ecc",
 			"de853bc8-4859-40c6-8acd-99238478676d",
 			"6495adae-9b7f-4c58-829a-5b8da1d36619",
 			"5ca36f96-534f-4761-a3e2-bdbf9a75a484",
@@ -50179,6 +50180,11 @@
 			"5c791057-c89a-4304-b89e-e6a93f3e11d6",
 			"dddc131f-b7a3-4515-b044-5d5846c77058",
 			"3644f751-12f2-44fb-b0c0-70496c794bf9"
+		]
+	},
+	"a67b3ec9-bfae-4039-ba78-40e8a11a25e0": {
+		"$CONTENT_a67b3ec9-bfae-4039-ba78-40e8a11a25e0/Objects/Database/ShapeSets/example.shapeset": [
+			"9de7895e-6970-4a4b-a3dd-7aa59fbdb936"
 		]
 	}
 }
