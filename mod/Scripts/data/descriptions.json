@@ -15678,7 +15678,7 @@
 				"name": "ModDatabase"
 			}
 		],
-		"description": "UnknownUnit's Mod Collection\nInclude:\n-Build blueprints via lift (By TheUnknownUnit)[No Release]\n-Craftable Circuit Boards and Component Kits (By TheUnknownUnit)[No Release]\n-Xeridox's Map Mod (By Xeridox)[https://steamcommunity.com/sharedfiles/filedetails/?id=2104768903]\n-Modded Craftbot Recipes (By QuestionableM)[https://github.com/QuestionableM/Modded-Craftbot-Recipes]\n-Dev commands enabled (By TheUnknownUnit)[No Release]\n-Chem Spud Gun and Ammo (By TheUnknownUnit)[No Release]\n\nDependencies:\n-ModDatabase (By TechnologicNick and The Guild)[https://steamcommunity.com/sharedfiles/filedetails/?id=2504530003]\n\nBig up to:\n-Xeridox for creating Xeridox's Map Mod\n-TechnologicNick and The Guild for creating ModDatabase\n-QuestionableM for creating Modded Craftbot Recipes [https://github.com/QuestionableM/Modded-Craftbot-Recipes]",
+		"description": "UnknownUnit's Mod Collection\nInclude:\n-Build blueprints via lift (By TheUnknownUnit)[No Release]\n-Craftable Circuit Boards and Component Kits (By TheUnknownUnit)[No Release]\n-Xeridox's Map Mod (By Xeridox)[https://steamcommunity.com/sharedfiles/filedetails/?id=2104768903]\n-Modded Craftbot Recipes (By QuestionableM)[https://github.com/QuestionableM/Modded-Craftbot-Recipes]\n-Dev commands enabled (By TheUnknownUnit)[No Release]\n-Chem Spud Gun and Ammo (By TheUnknownUnit)[No Release]\n-More Trading Deals (By TheUnknownUnit)[No Release]\n\nDependencies:\n-ModDatabase (By TechnologicNick and The Guild)[https://steamcommunity.com/sharedfiles/filedetails/?id=2504530003]\n\nBig up to:\n-Xeridox for creating Xeridox's Map Mod\n-TechnologicNick and The Guild for creating ModDatabase\n-QuestionableM for creating Modded Craftbot Recipes [https://github.com/QuestionableM/Modded-Craftbot-Recipes]",
 		"fileId": 2833045151,
 		"localId": "4419aa3f-d8ce-4fce-b450-92da767a9628",
 		"name": "UnknownUnitsSurvival",
@@ -16678,7 +16678,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "it's extra blocks (and parts)!",
+		"description": "it's extra blocks (and parts)!\r\n\r\nThis mod adds new blocks, parts, and I'll take requests for additions and changes. Enjoy the mod!",
 		"fileId": 2848659096,
 		"localId": "38e42b10-03b9-4eb6-9efa-b6e0499cd279",
 		"name": "XtraBlox",
@@ -16881,6 +16881,36 @@
 		"fileId": 2849867208,
 		"localId": "a67b3ec9-bfae-4039-ba78-40e8a11a25e0",
 		"name": "Random_Cargos",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b27aa5f9-f154-4fcb-9a0b-e86076afbf1c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "个人自用整合\r\n1.创意工坊id 2819317540和2823429358和2819752373 的加入自定义命令，load，save（加载保存蓝图）build buildwith 消耗材料建造蓝图 del 删除创造物\r\n2.创意工坊id 2817571500 的自定义世界所有改动\r\n3.创意工坊id 2847131892 的泥土任意放置\r\n4.创意工坊id 2814032256 的超高物品堆叠\r\n5.创意工坊id 2819491460 的地图\r\n6.创意工坊id 2806735104 的pvp（未测试）\r\n7.创意工坊id 2828929740 的飞行功能\r\n其他\r\n1.物品栏位增加至120\r\n2.加入dev命令，该命令等价god和unlimited",
+		"fileId": 2849473458,
+		"localId": "b27aa5f9-f154-4fcb-9a0b-e86076afbf1c",
+		"name": "test",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"bfea3e44-524f-479d-ae4e-27c63d888c53": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2850722360,
+		"localId": "bfea3e44-524f-479d-ae4e-27c63d888c53",
+		"name": "Parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"207bf4a6-6862-4660-b9e0-e29dd111d758": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2850759264,
+		"localId": "207bf4a6-6862-4660-b9e0-e29dd111d758",
+		"name": "test",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
