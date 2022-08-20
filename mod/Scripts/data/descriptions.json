@@ -12594,7 +12594,7 @@
 	"b3dc637a-90a5-46d1-8c3a-881bc2205c0e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "UPDATE! Version 1.12\r\n\r\nThis time i bring you (for the first time in bus seats and fabrics history)\r\nCoach seats-ish... They're just the intericity seats with a non interactible table.... (you will of course still be able to sit in the seats) \r\n\r\nBuuuut... the new coach seats are in 3 new fabrics! Which also are available as city seats if you're that crazy!\r\n\r\nBut still there's a catch... Due to problems with blocks scrambling eachother when one mod has alot of blocks, The matching new fabrics are parts, In form of a 2x2x1 variant and a 3x3x1 variant :/  Well... guess it's another year of waiting for a fix!\r\n\r\n\r\n\r\nChangelog \\/ \\/ \\/\r\nAdded 3 new coach seats,\r\nAdded 3 new city seats,\r\nAdded 6 different matching fabric parts,\r\n\r\n\r\n\r\nWelcome to the NEW bus seats and fabrics mod!\r\n\r\nEver since the bus seats and fabrics mod glitched out and duplicated itself (along with other glitches) I've had the idea of a new bus seats and fabrics mod on my mind...\r\n\r\nand now i'm proud to announce the release of the NEW bus seats and fabrics mod!\r\nHope you enjoy :)\r\n\r\n\r\n\r\n\r\n",
+		"description": "Version 1.14\r\n\r\n\r\nChangelog \\/ \\/ \\/\r\nFixed icons.\r\n\r\n\r\n\r\nWelcome to the NEW bus seats and fabrics mod!\r\n\r\nEver since the bus seats and fabrics mod glitched out and duplicated itself (along with other glitches) I've had the idea of a new bus seats and fabrics mod on my mind...\r\n\r\nand now i'm proud to announce the release of the NEW bus seats and fabrics mod!\r\nHope you enjoy :)\r\n\r\n\r\n\r\n\r\n",
 		"fileId": 2800437500,
 		"localId": "b3dc637a-90a5-46d1-8c3a-881bc2205c0e",
 		"name": "New bus seats and fabrics mod",
@@ -13450,7 +13450,7 @@
 	"ba314573-19ca-4e4f-8510-0694b20e0ceb": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Marine Engine (Motor, Gearbox, Drive, Propeller (CW & CCW) )\r\nN.B. Motor component functions as an engine.\r\n\r\nPropeller (Clockwise)\r\nPropeller (CounterClockwise)\r\nRudder\r\n\r\nPropeller thrust is determined by the speed of rotation. \r\nConnect using Bearing and either Electic Engine or Smart Engine (MOD Pack, set speed 400 - 1200)\r\n\r\n**NEW** Paddle Wheel (currently unscripted - working on script to add propulsion)\r\n\r\n\r\n",
+		"description": "Marine Engine (Motor, Gearbox, Drive, Propeller (CW & CCW) )\r\nN.B. Motor component functions as an engine.\r\n\r\nPropeller (Clockwise)\r\nPropeller (CounterClockwise)\r\nRudder\r\n\r\nPropeller thrust is determined by the speed of rotation. \r\nConnect using Bearing and either Electic Engine or Smart Engine (MOD Pack, set speed 400 - 1200).\r\n\r\n\r\n**NEW** Paddle Wheel\r\n\r\nPower the paddle wheel using an Electric Engine. \r\nConnect the paddle wheel to a bearing to enable thrust (see example image).\r\n\r\n\r\n",
 		"fileId": 2826571135,
 		"localId": "ba314573-19ca-4e4f-8510-0694b20e0ceb",
 		"name": "Marine Parts",
@@ -16921,6 +16921,16 @@
 		"fileId": 2851026417,
 		"localId": "35bd8b52-4dcf-40b5-9b22-dad88a750e23",
 		"name": "raw block editor [BETA]",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f8691728-c858-4fc5-a5ba-37acccf84a78": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Le effigi della Padania Indipendente",
+		"fileId": 2851164428,
+		"localId": "f8691728-c858-4fc5-a5ba-37acccf84a78",
+		"name": "Padania",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

@@ -20600,7 +20600,8 @@
 			"488efd96-90c3-4713-a43e-ffa9059f35ec",
 			"d3520cca-8728-4b11-8633-8df2a19a1f7b",
 			"fdd0da82-8860-42a4-9a18-71914c23ee77",
-			"58ea59cf-f7d0-4eda-bacb-aa0474741030"
+			"58ea59cf-f7d0-4eda-bacb-aa0474741030",
+			"9ca6fda2-67b3-449e-855a-8b46eba30577"
 		],
 		"$CONTENT_3f23d918-c838-411e-aa3a-cec19cdf4674/Objects/Database/ShapeSets/kitchen.json": [],
 		"$CONTENT_3f23d918-c838-411e-aa3a-cec19cdf4674/Objects/Database/ShapeSets/kol.json": [
@@ -34881,6 +34882,10 @@
 			"35535f3e-6ed4-461f-9f6c-59e756c44a6a",
 			"a4179698-8d06-4d8c-a8a3-6b2c4d59ac6b",
 			"f4006f1b-375e-4c78-b825-95091ace4d4a",
+			"1e794c8a-3e1c-4ce2-bffd-9866b8f500ca",
+			"97e284f1-ae48-4c61-a2a1-cd95c0c19667",
+			"826ac37a-db71-4e82-b8c6-32d4cb43e5fc",
+			"5e89e3da-85c4-46bd-99ff-d4141b6ccaa2",
 			"76b7612b-7fe9-4c46-bc64-7412dc857b9f",
 			"da724f44-8517-4f45-aaae-10e96b122efd",
 			"15c9312f-0b48-4d6e-8eb0-02f6a4904398",
@@ -36382,7 +36387,9 @@
 			"70d7d1a7-a3a5-464b-a374-e460dbea0006",
 			"70d7d1a7-a3a5-464b-a374-e460dbea0007",
 			"70d7d1a7-a3a5-464b-a374-e460dbea0008",
-			"70d7d1a7-a3a5-464b-a374-e460dbea0009"
+			"70d7d1a7-a3a5-464b-a374-e460dbea0009",
+			"70d7d1a7-a3a5-464b-a374-e460dbea0010",
+			"70d7d1a7-a3a5-464b-a374-e460dbea0011"
 		]
 	},
 	"69edc29a-bc48-42c4-947d-3a1cd41982a0": {
@@ -47139,7 +47146,8 @@
 			"92877a40-097d-45be-be06-faa30d7846df",
 			"5123feac-7a92-45bd-8935-d1342d27cb04",
 			"a33417df-19f3-4fef-8595-0efc6ae15e5b",
-			"45151dd5-109a-4f0c-83fb-0fd35afd9020"
+			"45151dd5-109a-4f0c-83fb-0fd35afd9020",
+			"e99397c7-f055-45a7-92f2-b6850dc6d073"
 		],
 		"$CONTENT_f4cc65c9-ac91-4067-9562-4bc23f694175/Objects/Database/ShapeSets/networking.shapeset": [
 			"cdf96cb3-3582-43e0-9452-86e774e3c75c",
@@ -50798,5 +50806,11 @@
 	},
 	"35bd8b52-4dcf-40b5-9b22-dad88a750e23": {
 		"$CONTENT_35bd8b52-4dcf-40b5-9b22-dad88a750e23/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"f8691728-c858-4fc5-a5ba-37acccf84a78": {
+		"$CONTENT_f8691728-c858-4fc5-a5ba-37acccf84a78/Objects/Database/ShapeSets/example.shapeset": [
+			"1ec24042-8788-4602-b441-67ee832e6a02",
+			"c1b54f03-e6e6-468e-8fe2-b9bf45c75d94"
+		]
 	}
 }
