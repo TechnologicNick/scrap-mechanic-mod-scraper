@@ -16963,5 +16963,25 @@
 		"name": "Coin_s_y's Custom Mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"6aa4b8c2-b8f9-4a25-9e0e-cd1d45f2ca22": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2852154772,
+		"localId": "6aa4b8c2-b8f9-4a25-9e0e-cd1d45f2ca22",
+		"name": "Drink Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"4ee4064f-393f-4b3e-b9d5-109f14ef3b0f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This file mod adds the 3 4*TOWN songs from the Pixar movie Turning Red into the radio part\n\nINSTALL INSTRUCTIONS\n\n1. Go to the Scrap Mechanic steam workshop subscriptions folder (by default located in C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990)\n\n2. Sort by most recent, the first folder contains the files of this mod\n\n3. Go inside the \"Copy Me\" folder and copy everything inside this folder\n\n4. Go to the Scrap Mechanic game files folder (by default located in C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic)\n\n5. Paste the copied files (use the replace all option)\n\nHow to uninstall this mod:\n\nUse the \"Validate game files...\" button in Game Properties > Local Files to restore the original game files",
+		"fileId": 2852345592,
+		"localId": "4ee4064f-393f-4b3e-b9d5-109f14ef3b0f",
+		"name": "4TOWN Radio Mod",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
