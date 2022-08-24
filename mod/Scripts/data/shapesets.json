@@ -50832,7 +50832,7 @@
 		]
 	},
 	"35bd8b52-4dcf-40b5-9b22-dad88a750e23": {
-		"$CONTENT_35bd8b52-4dcf-40b5-9b22-dad88a750e23/Objects/Database/ShapeSets/example.shapeset": []
+		"$CONTENT_35bd8b52-4dcf-40b5-9b22-dad88a750e23/Objects/Database/ShapeSets/shapeSet.shapeset": []
 	},
 	"f8691728-c858-4fc5-a5ba-37acccf84a78": {
 		"$CONTENT_f8691728-c858-4fc5-a5ba-37acccf84a78/Objects/Database/ShapeSets/example.shapeset": [
@@ -50913,5 +50913,10 @@
 			"5ffcbfab-a160-4f8f-8733-e9e7a9fdec1e"
 		]
 	},
-	"29d00e54-d5b5-44b5-ab31-bd9a7cc6826e": {}
+	"29d00e54-d5b5-44b5-ab31-bd9a7cc6826e": {},
+	"597604f6-1cd8-43b2-9b6a-d75c55d87b57": {
+		"$CONTENT_597604f6-1cd8-43b2-9b6a-d75c55d87b57/Objects/Database/ShapeSets/example.shapeset": [
+			"1febb912-3efa-4970-80ab-56cfcfe6f194"
+		]
+	}
 }

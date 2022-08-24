@@ -13390,7 +13390,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "Work in progress, still in developpement stay tuned.",
+		"description": "This mod is an extension of the Modpack for Survival. \nYou can play with it in creative mod or in Custom game (mods which enable Custom recipes) like the \"Custom Crafting Recipes\" or the \"Raft Mechanic\" mod\n\nDon't forget this is my first mod and for any request, please contact me on Discord \"ClashofCraft972\" ID : \"6931\"",
 		"fileId": 2821299827,
 		"localId": "be4f1099-5250-487f-be31-d923242f2e56",
 		"name": "The Modpack : Survival edition (WIP)",
@@ -17071,6 +17071,16 @@
 		"fileId": 2853192763,
 		"localId": "29d00e54-d5b5-44b5-ab31-bd9a7cc6826e",
 		"name": "Dynamic Debris & Unit Removal",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"597604f6-1cd8-43b2-9b6a-d75c55d87b57": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2853390559,
+		"localId": "597604f6-1cd8-43b2-9b6a-d75c55d87b57",
+		"name": "Mod Training 1",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
