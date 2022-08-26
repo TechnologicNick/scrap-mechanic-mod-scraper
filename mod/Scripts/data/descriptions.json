@@ -4248,7 +4248,7 @@
 	"3269e6ef-4d80-4f75-b8f6-dffb303e5243": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "=================================================================\r\n\r\nThis mod adds new spudguns. They look like famous guns from WW1 and WW2.\r\nSome of them are animated so check them out if you like that kind of details!\r\n\r\nDiscord Server: https://discord.gg/QJRHhuUYsM\r\n\r\n=================================================================\r\n\r\n{value} - delay after shoot in ticks\r\n[A] - gun is animated\r\n<value> - amount of ammo in the magazine\r\n\r\n====== NEW CONTENT ======\r\n\r\nNEW HANDHELD WEAPON!\r\n-Thompson Submachine Gun\r\n\r\n=== LIGHT MACHINE GUNS ===\r\n\r\n- [A] Lewis M1914  {5}\r\n- [A] Maxim M1905  {6}\r\n- M1919 .30 {5}\r\n- MG-34 {5}\r\n- [A] MG-42 {4}, <50>\r\n- DP-29 {6}\r\n- DGx03 {6}\r\n\r\n=== HEAVY MACHINE GUNS ===\r\n\r\n- [A] Browning .50 {7}\r\n- [A] Browning .50 Aircraft {7}\r\n- DSzK 12.7mm {7}\r\n\r\n====== 20mm CANNONS ======\r\n\r\n- MG 151/20 {8}\r\n- WZ.38 {10}\r\n- Hispano {10}\r\n- [A] Vulcan M61 {4}\r\n\r\n======= EXPLOSIVES ========\r\n\r\n- Bomb (proximity fuse)\r\n- Bomb 50kg\r\n- Bomb 100kg\r\n- Bomb 250kg\r\n- Anti-Tank Mine\r\n- S-Mine\r\n\r\n===== OTHER WEAPONS ======\r\n\r\n- Bazooka {120}\r\n- AK-47 {5}\r\n- [A] Mosin-Nagant 1891 {100} <5>\r\n- [A] PTRD-41 {120}\r\n- [A] Cannon {160}\r\n\r\n===========================\r\n\r\n\r\n--------------------------Credit & Copyright:----------------------------\r\nBrent Batch / DO NOT COPY without permission from \r\nBrent Batchdiscord)\r\nQuestion Mark - scripts explosive and non-explosive guns\r\n\"Alarmblock\" script is made by wingcomstriker405\r\n--------------------------------------------------------------------------\r\n",
+		"description": "=================================================================\r\n\r\nThis mod adds new spudguns. They look like famous guns from WW1 and WW2.\r\nSome of them are animated so check them out if you like that kind of details!\r\n\r\nDiscord Server: https://discord.gg/QJRHhuUYsM\r\n\r\n=================================================================\r\n\r\n{value} - delay after shoot in ticks\r\n[A] - gun is animated\r\n<value> - amount of ammo in the magazine\r\n\r\n====== NEW CONTENT ======\r\n\r\nNEW HANDHELD WEAPON!\r\n-Magnum .44 Revolver \r\n\r\n=== LIGHT MACHINE GUNS ===\r\n\r\n- [A] Lewis M1914  {5}\r\n- [A] Maxim M1905  {6}\r\n- M1919 .30 {5}\r\n- MG-34 {5}\r\n- [A] MG-42 {4}, <50>\r\n- DP-29 {6}\r\n- DGx03 {6}\r\n\r\n=== HEAVY MACHINE GUNS ===\r\n\r\n- [A] Browning .50 {7}\r\n- [A] Browning .50 Aircraft {7}\r\n- DSzK 12.7mm {7}\r\n\r\n====== 20mm CANNONS ======\r\n\r\n- MG 151/20 {8}\r\n- WZ.38 {10}\r\n- Hispano {10}\r\n- [A] Vulcan M61 {4}\r\n\r\n======= EXPLOSIVES ========\r\n\r\n- Bomb (proximity fuse)\r\n- Bomb 50kg\r\n- Bomb 100kg\r\n- Bomb 250kg\r\n- Anti-Tank Mine\r\n- S-Mine\r\n\r\n===== OTHER WEAPONS ======\r\n\r\n- Bazooka {120}\r\n- AK-47 {5}\r\n- [A] Mosin-Nagant 1891 {100} <5>\r\n- [A] PTRD-41 {120}\r\n- [A] Cannon {160}\r\n\r\n===========================\r\n\r\n\r\n--------------------------Credit & Copyright:----------------------------\r\nBrent Batch / DO NOT COPY without permission from \r\nBrent Batchdiscord)\r\nQuestion Mark - scripts explosive and non-explosive guns\r\n\"Alarmblock\" script is made by wingcomstriker405\r\n--------------------------------------------------------------------------\r\n",
 		"fileId": 1903792337,
 		"localId": "3269e6ef-4d80-4f75-b8f6-dffb303e5243",
 		"name": "Machine gun",
@@ -16157,7 +16157,7 @@
 	"a898c2c4-de95-4899-9442-697ced66b832": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Adds a Laser Cutter tool that can destroy any part or block, and damages bots.\nThe beam has a 15 meter range.\n\n[h1]Credits[/h1]\n[list]\n    [*][b]Vajdani[/b] - Scripting\n    [*][b]Dart Frog[/b] - Tool model and thumbnail\n[/list]",
+		"description": "Adds a Laser Cutter tool that can destroy any part or block, and damages bots.\r\nThe beam has a 15 meter range.\r\n\r\nThe mountable version has adjustable range and damage.\r\n\r\n[h1]Credits[/h1]\r\n[list]\r\n    [*][b]Vajdani[/b] - Scripting\r\n    [*][b]Dart Frog[/b] - Tool model and thumbnail\r\n[/list]",
 		"fileId": 2843905833,
 		"localId": "a898c2c4-de95-4899-9442-697ced66b832",
 		"name": "Laser Cutter",
@@ -25347,6 +25347,46 @@
 		"fileId": 2853778508,
 		"localId": "fbca8e49-5a30-447a-aa92-40b14ce593b7",
 		"name": "More Wedges",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"7c2bb5e7-0946-48e0-bc42-7c5ff2e56793": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds 5 new Jiggli! each one has slightly different abbilities",
+		"fileId": 2853818424,
+		"localId": "7c2bb5e7-0946-48e0-bc42-7c5ff2e56793",
+		"name": "Attack of the Jiggli",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"3df82fc3-c9e7-4633-8318-4f964741c117": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2853908059,
+		"localId": "3df82fc3-c9e7-4633-8318-4f964741c117",
+		"name": "costum mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f17bdd92-b0e1-4de3-8a35-077c17899fa5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A clear block so you can paint without marks!",
+		"fileId": 2854035451,
+		"localId": "f17bdd92-b0e1-4de3-8a35-077c17899fa5",
+		"name": "Blank block",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"30f4400a-1964-4f6e-89d5-e289c42501d5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This is a Concept Mod for Challenge Mode. There are 3 things in this mod; Economic Button, Economic Chest, and TraderBot.\n\nAfter hearing from Scrap Mechanic Challenge Pack from Workshop \"Robot's arena v0.6.0+\" from ScrapMan's YouTube video, Due to limitations in Challenge mode, I thought that economic thing the creator has built is really cool, so I decided to make this Economic Pack for Challenge mode as a concept mod.\n\nThe Economic Button is a buying part in this mod. 10 slots of items are requirements to pay.\n\nThe Economic Chest is a selling part in this mod. 10 slots of items are earned in return when something connected to it is active.\n\nThe TraderBot is the powerful part in this mod. It has custom trades and can have up to 204 trades. every 5 slots counts as 1 trade. The Traderbot shouldn't be used as storaged.\n\nThere are 9 different colors of coins and they are overstacked to 64,000. They don't have any other uses except for a stuff for the interactable part only in this mod.\n\nBest if this mod be played in Dev Mode from Custom games for full features. ",
+		"fileId": 2854041371,
+		"localId": "30f4400a-1964-4f6e-89d5-e289c42501d5",
+		"name": "Economic Pack",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
