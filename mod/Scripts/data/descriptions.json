@@ -14927,7 +14927,7 @@
 	"e3d52333-57a7-4289-b737-ade78347cd12": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "A mod with resource boosted & cost reduced\n( in progress ) i'm patching ...............\nThanks for 1700 subs OMGGG :D\n\n\nMob loot boosted, classic loot are boosted, green/gold lootbox is not changed yet... ( no idea, whrite your wish in comment )\n\ntell me what you want me to add in the comment\n\ncotton has display problems but works",
+		"description": "A mod with resource boosted & cost reduced\n( in progress )\nThanks for 1900 subs OMGGG :D\n____________________________________________\n      mod info:\n-260 inventory slots\n-mob loot boosted\n-grow speed boosted\n-stack boosted ( not everywhere at this time sorry)\n-refine speed boosted\n-chest slots boosted ( chek image )\n-wood-stone-metal container slot boosted to 100 slots\n-max hp 200\n-lower consumption of water and food\n-lot more oxygen\n-lower consumption of gas in gas engine\n\nfor the future:\n-every item stack boost to 256 or 2560\n-boost loot-box loot\n-(your idea can be here)\n____________________________________________\n\ntell me what you want me to add in the comment\n\ncotton finally patch yay :p",
 		"fileId": 2816326647,
 		"localId": "e3d52333-57a7-4289-b737-ade78347cd12",
 		"name": "Survival Less Cost",
@@ -14947,7 +14947,7 @@
 	"e996eb7c-d45b-43fe-bcbb-a0943746bc2c": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This is a modification to the normal Survival  mode. It features many new different tiles and changes some tiles to explore and loot.\n\n[h1][b]This mod is still in development and will receive future updates.\nFeel free to leave suggestions, bug reports and that stuff in the comments.[/b][/h1]\n\n[h1]Following Tiles are added:[/h1]\n\n[b]Water:[/b]\n-Sunken Ruin\n-Water Tanks\n-Raft\n-Ruined Farm\n\n[b]Meadows:[/b]\n-Explosives\n-Sealed Cave\n-Storage Hall\n-Wrapped Mountain\n-Cliff Camp\n-Fruit Container Pile\n-Great Mine\n\n[b]Forest:[/b]\n-Flat Rock Formation\n-Fruit Container Pile\n\n[b]Desert:[/b]\n-Desert Spike\n-Desert Mini Ravine\n\n[b]Autumn Forest:[/b]\n-Solar Panel\n-Rock Arch\n-Launch Pad\n\n[b]Roads:[/b]\n-Gas Station\n\n[b]Fields:[/b]\n-Water Silo\n\n[h1]Following tiles have been changed:[/h1]\n-Crashed Ship Start Area\n-Ruin City\n-Hay Maze\n-Second Crashed Ship\n\n[h1]This Mod also adds new types of Loot Boxes:[/h1]\n-Electrical Storage Box\n-Passcode Component Box (You only have 1 try to enter the code!)\n\n[b]Dev Mode is activated, if you want just want to explore.\nBe aware that it wont show you a \"Dev Message\" tho.\n\n[h1]Thanks a lot for the great support![/h1][/b]",
+		"description": "This is a modification in form of a custom game mode to the normal Survival mode. It features many new different tiles and changes some tiles to explore and loot.\r\n\r\n[h1][b]This mod is finished and not in development anymore.[/b][/h1]\r\n\r\n[h1]Following Tiles are added:[/h1]\r\n\r\n[b]Water:[/b]\r\n-Sunken Ruin\r\n-Water Tanks\r\n-Raft\r\n-Ruined Farm\r\n\r\n[b]Meadows:[/b]\r\n-Explosives\r\n-Sealed Cave\r\n-Storage Hall\r\n-Wrapped Mountain\r\n-Cliff Camp\r\n-Fruit Container Pile\r\n-Great Mine\r\n\r\n[b]Forest:[/b]\r\n-Flat Rock Formation\r\n-Fruit Container Pile\r\n\r\n[b]Desert:[/b]\r\n-Desert Spike\r\n-Desert Mini Ravine\r\n\r\n[b]Autumn Forest:[/b]\r\n-Solar Panel\r\n-Rock Arch\r\n-Launch Pad\r\n\r\n[b]Roads:[/b]\r\n-Gas Station\r\n\r\n[b]Fields:[/b]\r\n-Water Silo\r\n\r\n[h1]Following tiles have been changed:[/h1]\r\n-Crashed Ship Start Area\r\n-Ruin City\r\n-Hay Maze\r\n-Second Crashed Ship\r\n\r\n[h1]This Mod also adds new types of Loot Boxes:[/h1]\r\n-Electrical Storage Box\r\n-Passcode Component Box (You only have 1 try to enter the code!)\r\n\r\n[b]Dev Mode is activated, if you want just want to explore.\r\nBe aware that it wont show you a \"Dev Message\" tho.\r\n\r\n[h1]Thanks a lot for the great support![/h1][/b]",
 		"fileId": 2816336335,
 		"localId": "e996eb7c-d45b-43fe-bcbb-a0943746bc2c",
 		"name": "Survival Additions",
@@ -16678,7 +16678,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "it's extra blocks (and parts)!\r\n\r\nThis mod adds new blocks, parts, and I'll take requests for additions and changes. Enjoy the mod!",
+		"description": "[REDACTED]",
 		"fileId": 2848659096,
 		"localId": "38e42b10-03b9-4eb6-9efa-b6e0499cd279",
 		"name": "XtraBlox",
@@ -16887,7 +16887,7 @@
 	"b27aa5f9-f154-4fcb-9a0b-e86076afbf1c": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "个人自用整合,部分原作者很可能不会允许我copy他们的代码，如果我被搞了，我会下架或者隐藏\r\n因为他们的mod都是自定义或者不是正常安装，所以\r\n1.创意工坊id 2819317540和2823429358和2819752373 的加入自定义命令，load，save（加载保存蓝图）build buildwith 消耗材料建造蓝图 del 删除创造物\r\n2.创意工坊id 2817571500 的自定义世界所有改动\r\n3.创意工坊id 2847131892 的泥土任意放置\r\n4.创意工坊id 2814032256 的超高物品堆叠\r\n5.创意工坊id 2819491460 的地图\r\n6.创意工坊id 2806735104 的pvp（未测试）\r\n7.创意工坊id 2828929740 的飞行功能\r\n8.创意工坊id 2133019925 的指南针，计速表\r\n其他\r\n1.物品栏位增加至120\r\n2.加入dev命令，该命令等价god和unlimited\r\n3.加入无限子弹燃料指令 /iammo /ifuel \r\n4.清除造物指令 clear 重建世界指令recreate",
+		"description": "个人自用整合,部分原作者很可能不会允许我copy他们的代码，如果我被搞了，我会下架或者隐藏\r\n因为他们的mod都是自定义或者不是正常安装，所以\r\n1.创意工坊id 2819317540和2823429358和2819752373 的加入自定义命令，load，save（加载保存蓝图）build buildwith 消耗材料建造蓝图 del 删除创造物\r\n2.创意工坊id 2817571500 的自定义世界所有改动\r\n3.创意工坊id 2847131892 的泥土任意放置\r\n4.创意工坊id 2814032256 的超高物品堆叠\r\n5.创意工坊id 2819491460 的地图\r\n6.创意工坊id 2806735104 的pvp（未测试）\r\n7.创意工坊id 2828929740 的飞行功能\r\n8.创意工坊id 2133019925 的指南针，计速表\r\n其他\r\n1.物品栏位增加至120\r\n2.加入dev命令，该命令等价god和unlimited\r\n3.加入无限子弹燃料指令 /iammo /ifuel \r\n4.清除造物指令 clear 重建世界指令recreate\r\n5.加入fps显示",
 		"fileId": 2849473458,
 		"localId": "b27aa5f9-f154-4fcb-9a0b-e86076afbf1c",
 		"name": "test",
@@ -25387,6 +25387,37 @@
 		"fileId": 2854041371,
 		"localId": "30f4400a-1964-4f6e-89d5-e289c42501d5",
 		"name": "Economic Pack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"5d2a0e18-80ba-473c-85f6-528106f50df3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Varius blocks",
+		"fileId": 2853502361,
+		"localId": "5d2a0e18-80ba-473c-85f6-528106f50df3",
+		"name": "Custom blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"50340fb4-275b-45d0-9802-2df5cd95f64c": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "This mod adds Tier 4 and Tier 5 level blocks for Wood, Metal and Concrete.\r\nEach level of block is +1 durability compared to the last.\r\n- Wood becomes lighter\r\n- Concrete becomes heavier\r\n- Metal becomes even stronger\r\n\r\nThe intention is to make use of them in survival as endgame content with custom crafting recipies.",
+		"fileId": 2854073288,
+		"localId": "50340fb4-275b-45d0-9802-2df5cd95f64c",
+		"name": "Tier 4 and 5 Blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"4a11cc95-712f-4b1c-95ef-dda6a9cc95f9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod turns terrain editor plants into placeable parts, allowing you to build creations with them!\n\nNote: This mod is in development. Please tell me if something breaks/crashes.",
+		"fileId": 2854101312,
+		"localId": "4a11cc95-712f-4b1c-95ef-dda6a9cc95f9",
+		"name": "Placeable Plants",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
