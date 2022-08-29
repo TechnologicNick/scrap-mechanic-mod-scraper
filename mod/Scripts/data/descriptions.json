@@ -17006,8 +17006,9 @@
 	},
 	"d0450f97-0ec0-4b28-bf1e-67b748cc36ad": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "I will work more on this mod because I know how junky it can be but I already started modding journey.. So any suggestions on how to improve this mod will be very appreciated\n\n\n\nalso sorry if I wrote something incorrectly in english..",
 		"fileId": 2852487370,
 		"localId": "d0450f97-0ec0-4b28-bf1e-67b748cc36ad",
 		"name": "Grappling hook",
@@ -25489,6 +25490,76 @@
 		"fileId": 2855086809,
 		"localId": "525bbee0-5b7a-4391-b674-a0eadbe4b9fa",
 		"name": "Frictionless Blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"3c51baf9-7b23-4103-8919-da6e6cc66f2e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "this mod is just intended for me and my friends",
+		"fileId": 2836567457,
+		"localId": "3c51baf9-7b23-4103-8919-da6e6cc66f2e",
+		"name": "creater blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"27220d95-49e8-453c-92d7-7b91fce3549d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2851550809,
+		"localId": "27220d95-49e8-453c-92d7-7b91fce3549d",
+		"name": "this mod is sus",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"cc4fe847-1c5a-49a4-91e2-8be047cfe761": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "it was suposed to be a gun mod :(",
+		"fileId": 2855287263,
+		"localId": "cc4fe847-1c5a-49a4-91e2-8be047cfe761",
+		"name": "guns",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f46231a2-75b1-42fb-a96b-d83673a82dd4": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2855462163,
+		"localId": "f46231a2-75b1-42fb-a96b-d83673a82dd4",
+		"name": "mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"c377f958-6cc3-4f4b-8cba-fb9490f3dcde": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "",
+		"fileId": 2855470161,
+		"localId": "c377f958-6cc3-4f4b-8cba-fb9490f3dcde",
+		"name": "Super Cursed Parts Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"9d2d7e4a-86be-4829-bcb8-482e93084fa0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "If you are weird this is the mod for you!\n\nIt adds some useless things and weird things.\n\nIf you really are weird then some stuff might just be best parts you have ever seen!\n\nHave fun!",
+		"fileId": 2855509862,
+		"localId": "9d2d7e4a-86be-4829-bcb8-482e93084fa0",
+		"name": "Dani's Weird Blocks And Parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f088179c-1f63-4b48-915c-d3206af2b89c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Duck Mod",
+		"fileId": 2855524540,
+		"localId": "f088179c-1f63-4b48-915c-d3206af2b89c",
+		"name": "Duck mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

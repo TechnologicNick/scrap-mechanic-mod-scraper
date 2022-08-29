@@ -51306,5 +51306,60 @@
 			"fba3decc-73bc-4599-a7b8-533d521f5a6f",
 			"0d86de31-3cdd-44a2-bbcb-3cc397274ca5"
 		]
+	},
+	"3c51baf9-7b23-4103-8919-da6e6cc66f2e": {
+		"$CONTENT_3c51baf9-7b23-4103-8919-da6e6cc66f2e/Objects/Database/ShapeSets/example.shapeset": [
+			"f6416a0e-b7af-4dc2-9d32-cf0b31e17815",
+			"3deb275c-f5fb-4058-aa5d-56ba19cabf78",
+			"146feaef-7797-4244-b840-bef60de85b29",
+			"ddf9c64b-e349-4442-8ba9-e4af4193c2a9",
+			"afbc7fe9-f8c7-44a2-ac34-126313e767a9"
+		]
+	},
+	"27220d95-49e8-453c-92d7-7b91fce3549d": {
+		"$CONTENT_27220d95-49e8-453c-92d7-7b91fce3549d/Objects/Database/ShapeSets/example.shapeset": [
+			"34ea7012-cbe6-4ed3-b8be-97d1930ba20c",
+			"0b1bace1-6c93-4697-9576-0553d48053fb"
+		]
+	},
+	"cc4fe847-1c5a-49a4-91e2-8be047cfe761": {
+		"$CONTENT_cc4fe847-1c5a-49a4-91e2-8be047cfe761/Objects/Database/ShapeSets/example.shapeset": [
+			"873d71e2-42e8-4259-8b16-99a64b6c7a48"
+		]
+	},
+	"f46231a2-75b1-42fb-a96b-d83673a82dd4": {
+		"$CONTENT_f46231a2-75b1-42fb-a96b-d83673a82dd4/Objects/Database/ShapeSets/example.shapeset": [
+			"5d938ad2-9275-43a6-ae43-a0f558f2c5f0"
+		]
+	},
+	"c377f958-6cc3-4f4b-8cba-fb9490f3dcde": {
+		"$CONTENT_c377f958-6cc3-4f4b-8cba-fb9490f3dcde/Objects/Database/ShapeSets/example.shapeset": [
+			"7155743f-8dd3-4fde-a1b5-58a669f70782"
+		]
+	},
+	"9d2d7e4a-86be-4829-bcb8-482e93084fa0": {
+		"$CONTENT_9d2d7e4a-86be-4829-bcb8-482e93084fa0/Objects/Database/ShapeSets/example.shapeset": [
+			"b4eec17f-0109-43d8-994b-ef5be06d41d6",
+			"93c2d34f-766d-49c8-9355-a3b6c9f414a3",
+			"80d3c1e2-743d-4c09-a4ea-6267d4994f36",
+			"6cfedd25-e9b3-45b8-a4bf-a357c32e6dc0",
+			"bc878767-f567-4df0-aae0-b59eb9760364",
+			"64a8d757-2d77-46ce-b243-395fa3b89c03",
+			"b758120f-ffa2-4e3d-8c63-b6113bed83bc",
+			"11460364-3584-4f5c-bfe0-885d3619a55c",
+			"2e9a5302-88d9-4611-8437-b21040eef708",
+			"9db33412-1e5a-4d5f-98d1-56015d5d7062",
+			"5a27440a-7e02-416d-9c59-999737b33992",
+			"d26a95ea-9f5a-435b-b1ac-4264c66eb2ab"
+		]
+	},
+	"f088179c-1f63-4b48-915c-d3206af2b89c": {
+		"$CONTENT_f088179c-1f63-4b48-915c-d3206af2b89c/Objects/Database/ShapeSets/example.shapeset": [
+			"994a6129-e71d-4375-970c-4961700abe7e",
+			"b72d06bb-b396-4de5-bb7e-0adc4424480b",
+			"21c6b096-a020-4210-9679-7bde966b4a2a",
+			"1e5fb979-38a4-4df0-8479-b74c86635d43",
+			"a56e1298-f7f5-4cd8-8bad-418f88dad965"
+		]
 	}
 }
