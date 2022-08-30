@@ -20729,11 +20729,21 @@
 			"dc5bf28d-a83d-401f-821e-603d3c3639f3",
 			"42d5174a-a7f1-4e61-abdc-0142aa28569c",
 			"9f21d5e9-d4f2-4d71-98b8-881561c38af5",
+			"9660be77-da0a-4aaa-9279-31e6bbf972f3",
+			"a75bcb3e-af6c-4b74-9515-77f7df62af46",
+			"8129d14a-db0e-4d3d-bb14-987d9fafb0a8",
+			"54d542bc-9c20-4a8f-8203-6a14831391a3",
+			"c030362c-6e6b-4305-bf29-ea95d7552b12",
 			"9addf5ac-ded1-4ed8-8ff2-795cfbd99a60",
 			"3581d84f-bbf5-482d-ab1a-eda9fd80842b",
 			"76b6f0d1-2c18-44fb-9e83-769cb4d5d7bf",
 			"ff867ce7-d13f-4c00-814b-66f8e17957d5",
-			"7eb5227f-491d-4c88-96bf-6ad7971cfc22"
+			"7eb5227f-491d-4c88-96bf-6ad7971cfc22",
+			"e2e8fd54-609c-4d6b-874e-dffad393805e",
+			"020e1305-6586-4ad7-9787-179c2374b16f",
+			"2748fd49-b7fa-4f96-ab70-33f38f62830b",
+			"ac6f9311-fdd6-4c8d-b902-673753f8d56d",
+			"63256362-be0c-43c0-a901-60ba6cd7dd6d"
 		]
 	},
 	"c2e61e22-2c92-4088-988b-546f906f2cb6": {},
@@ -49723,7 +49733,8 @@
 			"88a1bc8c-89f6-4979-b7af-69174bbcdf73",
 			"fc4e7a0f-8c1c-4775-b7b6-a75546f49965",
 			"cf475563-ad8d-4970-94f7-3fbe8809084f",
-			"bfb9fa6a-3c51-490e-932e-b86bfc51f542"
+			"bfb9fa6a-3c51-490e-932e-b86bfc51f542",
+			"e18e6ed4-b03e-4f7d-b4a9-dd8b7e858cd3"
 		],
 		"$CONTENT_a1ffb374-c7e4-4ad2-817a-28d717547d96/Objects/Database/ShapeSets/consumable.shapeset": [
 			"ac0b5b0a-14e1-4b31-8944-0a351fbfcc67",
@@ -51488,5 +51499,20 @@
 	},
 	"3b7d8a50-5655-4fd4-9d09-58e063b8da09": {
 		"$CONTENT_3b7d8a50-5655-4fd4-9d09-58e063b8da09/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"2e0b01c7-a7a4-413b-8dab-6c08dd598b39": {
+		"$CONTENT_2e0b01c7-a7a4-413b-8dab-6c08dd598b39/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"d6e11dad-1bb9-42fe-a6d7-64402807c9b6": {
+		"$CONTENT_d6e11dad-1bb9-42fe-a6d7-64402807c9b6/Objects/Database/ShapeSets/blocks.json": [],
+		"$CONTENT_d6e11dad-1bb9-42fe-a6d7-64402807c9b6/Objects/Database/ShapeSets/parts.json": [
+			"20f80a5a-784d-4793-8c23-4dab85d10242"
+		]
+	},
+	"68d5755c-41de-46a8-b306-5aea8d950748": {
+		"$CONTENT_68d5755c-41de-46a8-b306-5aea8d950748/Objects/Database/ShapeSets/example.shapeset": [
+			"629f9be0-ba0c-43aa-a5f9-50d10aefb596",
+			"2ad3dfd5-e036-41cf-ae15-2bcbb62057c7"
+		]
 	}
 }
