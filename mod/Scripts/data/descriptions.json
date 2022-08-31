@@ -14927,7 +14927,7 @@
 	"e3d52333-57a7-4289-b737-ade78347cd12": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "A mod with resource boosted & cost reduced\n( in progress )\nThanks for 1900 subs OMGGG :D\n____________________________________________\n      mod info:\n-260 inventory slots\n-mob loot boosted\n-grow speed boosted\n-stack boosted ( not everywhere at this time sorry)\n-refine speed boosted\n-chest slots boosted ( chek image )\n-wood-stone-metal container slot boosted to 100 slots\n-max hp 200\n-lower consumption of water and food\n-lot more oxygen\n-lower consumption of gas in gas engine\n\nfor the future:\n-every item stack boost to 256 or 2560\n-boost loot-box loot\n-(your idea can be here)\n____________________________________________\n\ntell me what you want me to add in the comment\n\ncotton finally patch yay :p",
+		"description": "A mod with resource boosted & cost reduced\r\n( in progress )\r\nThanks for 2000 subs gg :D\r\n____________________________________________\r\n      mod info:\r\n-260 inventory slots\r\n-mob loot boosted\r\n-grow speed boosted\r\n-stack boosted ( not everywhere at this time sorry)\r\n-refine speed boosted\r\n-chest slots boosted ( chek image )\r\n-wood-stone-metal container slot boosted to 100 slots\r\n-max hp 200\r\n-lower consumption of water and food\r\n-lot more oxygen\r\n-lower consumption of gas in gas engine\r\n\r\nfor the future:\r\n-every item stack boost to 256 or 2560\r\n-boost loot-box loot\r\n-(your idea can be here)\r\n____________________________________________\r\n\r\ntell me what you want me to add in the comment\r\n\r\ncotton finally patch yay :p",
 		"fileId": 2816326647,
 		"localId": "e3d52333-57a7-4289-b737-ade78347cd12",
 		"name": "Survival Less Cost",
@@ -25354,7 +25354,7 @@
 	"7c2bb5e7-0946-48e0-bc42-7c5ff2e56793": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod adds 5 new Jiggli! each one has slightly different abbilities",
+		"description": "This mod adds 5 new Jiggli! each one has slightly different abbilities.\r\nthis is inspired by the Jiggli from cartoon Penguins of the madagascar.\r\nRemember, when they are punched or shot, they multiply!",
 		"fileId": 2853818424,
 		"localId": "7c2bb5e7-0946-48e0-bc42-7c5ff2e56793",
 		"name": "Attack of the Jiggli",
@@ -25627,10 +25627,65 @@
 	"68d5755c-41de-46a8-b306-5aea8d950748": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "adds 2 new glass types paintable glass\nand jello glass which is super bouncy",
+		"description": "adds 2 new glass types paintable glass\nand jello glass which is super bouncy glass eye see the world from the sky\nand glass blaster 90000 cool? more coming soon",
 		"fileId": 2856271378,
 		"localId": "68d5755c-41de-46a8-b306-5aea8d950748",
 		"name": "paintable glass",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f52bcb76-8ddc-4cfa-86cf-2a2c90a1584f": {
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2811350908,
+				"localId": "cd8fd052-5030-4b94-a2af-612f2ed8c729"
+			}
+		],
+		"description": "Tools & bombs to shoot you out of existence",
+		"fileId": 2811357582,
+		"localId": "f52bcb76-8ddc-4cfa-86cf-2a2c90a1584f",
+		"name": "To infinite & beyond - A mod that goes somewhere",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"c4ed7fbf-c19e-437a-9c5d-f4a61fa1f4e6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2844568533,
+		"localId": "c4ed7fbf-c19e-437a-9c5d-f4a61fa1f4e6",
+		"name": "blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1c8afd4d-fc0a-4403-955a-5a33cdba890e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Hoverpads !\nYeahh !!",
+		"fileId": 2854188260,
+		"localId": "1c8afd4d-fc0a-4403-955a-5a33cdba890e",
+		"name": "Hoverpad",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"22b14b6e-6826-4621-a3d9-7be3c5a752eb": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2854659205,
+		"localId": "22b14b6e-6826-4621-a3d9-7be3c5a752eb",
+		"name": "Color Factory",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"397f9bc4-e03a-4987-861a-580062f777a7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds:\n\n1. Indestructible Glass\n2. Indestructible Block\n3. Indestructible Bubble Block\n4. Rubber\n5. Anti-Gravity Duck\n6. Gravity Reset Duck\n7. Nuke (Won't Destroy Creations)\n8. Paint Duck\n9. Strong Gravity Duck\n10. Inverted Gravity Duck\n11. Camera Duck\n\nIf you have an idea, please comment the block/duck\nname and what you want it to do.\n\nHave fun!",
+		"fileId": 2856472065,
+		"localId": "397f9bc4-e03a-4987-861a-580062f777a7",
+		"name": "Dani's Useful Blocks And Parts",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
