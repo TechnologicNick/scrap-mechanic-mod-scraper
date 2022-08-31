@@ -25506,7 +25506,7 @@
 	"27220d95-49e8-453c-92d7-7b91fce3549d": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "this mod adds:\nminigun (normal gatling gun that can destroy every block, also has super speed)\nsnipe gun (currently does not work, deleted)\nknockback gun \nshake corn (makes your camera shake)\nscrew it all (when you place it down it yeets you 100 meters away)",
 		"fileId": 2851550809,
 		"localId": "27220d95-49e8-453c-92d7-7b91fce3549d",
 		"name": "this mod is sus",
