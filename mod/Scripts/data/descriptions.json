@@ -12707,7 +12707,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "CPU in single block\r\n\r\ncreate your own automated machines and logic systems, minigames and more...\r\n\r\nvideos about cpu:\r\nhttps://www.youtube.com/playlist?list=PLxot8YjFg6Un0rTtXiAofN5agzTksmqpm\r\n\r\nwiki:\r\nhttps://github.com/timofey260/ScrapCPU/wiki/The-mod-basics\r\n\r\ncommands:\r\nhttps://github.com/timofey260/ScrapCPU/wiki/The-mod-commands\r\n\r\nexamples:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2807053081\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2807053314\r\n\r\nWARNING: wrong usage of TIMCPU may crash your game\r\nRemember: if you want to use piston or bearing controllers, you need to restart your game after placing and connecting it!\r\n\r\nTimCPU version: 2.3\r\n\r\nfor bugs and errors ask me: TiMoFey#5110",
+		"description": "CPU in single block\r\n\r\ncreate your own automated machines and logic systems, minigames and more...\r\n\r\nvideos about cpu:\r\nhttps://www.youtube.com/playlist?list=PLxot8YjFg6Un0rTtXiAofN5agzTksmqpm\r\n\r\nwiki:\r\nhttps://github.com/timofey260/ScrapCPU/wiki/The-mod-basics\r\n\r\ncommands:\r\nhttps://github.com/timofey260/ScrapCPU/wiki/The-mod-commands\r\n\r\nexamples:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2807053081\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2807053314\r\n\r\nWARNING: wrong usage of TIMCPU may crash your game\r\nRemember: if you want to use piston or bearing controllers, you need to restart your game after placing and connecting it!\r\n\r\nTimCPU version: 2.4\r\n\r\nfor bugs and errors ask me: TiMoFey#5110",
 		"fileId": 2807051228,
 		"localId": "c389c77e-6818-445a-b45f-b852c5dfbe03",
 		"name": "TimCPU: full CPU in single block",
@@ -13522,12 +13522,12 @@
 	"8e32225f-4880-4088-b9d8-81872d8ffe66": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Adds more blocks. [Titanite] - Very durable and relatively lightweight block, best for builds exposed to some serious damage. Also it's explosion-proof. [Dupaluminium] - Lightweight, more durable than metal but expensive material.",
+		"description": "Adds few more blocks, parts and a tool... .",
 		"fileId": 2826983977,
 		"localId": "8e32225f-4880-4088-b9d8-81872d8ffe66",
-		"name": "Additional Blocks and Parts",
+		"name": "IDSPE-mod",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"393812b1-5b32-4d80-9434-612eb3438288": {
 		"allow_add_mods": true,
@@ -16416,7 +16416,7 @@
 	"fe491cdb-64e4-4098-9508-f16d7962a0da": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "a funny mod i made becaues yes\r\nadds explosive mugs",
+		"description": "a funny mod i made becaues yes\nadds explosive mugs and a seat",
 		"fileId": 2846457297,
 		"localId": "fe491cdb-64e4-4098-9508-f16d7962a0da",
 		"name": "ooga",
@@ -25737,6 +25737,16 @@
 		"fileId": 2858016129,
 		"localId": "cb1c3c33-5400-49da-9bd0-e4bb052b0dc5",
 		"name": "test trial",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a42e93e5-af72-4645-b9a1-0d2b54f4a5fe": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Wacky Stuff!!!",
+		"fileId": 2858340363,
+		"localId": "a42e93e5-af72-4645-b9a1-0d2b54f4a5fe",
+		"name": "Blocks 4 Eva!",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
