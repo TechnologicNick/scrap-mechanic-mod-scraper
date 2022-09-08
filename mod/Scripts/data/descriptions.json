@@ -13390,7 +13390,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "This mod is an extension of the Modpack for Survival. \n\nYou can play with it in creative mod or in Custom game (mods which enable Custom recipes) like the \"Custom Crafting Recipes\" or the \"Raft Mechanic\" mod.\n\nIt adds : \n - A Time Block\n - An Item Detector\n - A lot of pipes junctions\n - An Incinerator that create batteries\n - And a lot more incomming\n\nDon't forget this mod is still in active devlopment and this is my first mod. \n\nFor any request, ideas, bug issues or advices, please contact me on Discord \"ClashofCraft972 \nAnd don't forget to like and put this mod in favourite ;)",
+		"description": "This mod is an extension of the Modpack for Survival. \r\n\r\nYou can play with it in creative mod or in Custom game (mods which enable Custom recipes) like the \"Custom Crafting Recipes\" or the \"Raft Mechanic\" mod.\r\n\r\nIt adds : \r\n - A Time Block\r\n - An Item Detector\r\n - A lot of pipes junctions\r\n - An Incinerator that create batteries\r\n - And a lot more incoming\r\n\r\nDon't forget this mod is still in active devlopment and this is my first mod. \r\n\r\nFor any request, ideas, bug issues or advices, please contact me on Discord \"ClashofCraft972 #6931\"\r\nAnd don't forget to like and put this mod in favourite ;)",
 		"fileId": 2821299827,
 		"localId": "be4f1099-5250-487f-be31-d923242f2e56",
 		"name": "The Modpack : Survival edition (WIP)",
@@ -25865,6 +25865,16 @@
 		"fileId": 2860091160,
 		"localId": "be93f0d7-8708-49be-a6cb-84aa65ebb912",
 		"name": "Ladders",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f5f0322a-4119-4a13-a8e9-521670677904": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Ever wanted an engine with 129057258235 speed? Now you can have it!\r\n\r\nCurrent Tweakable Blocks:\r\n- Tweakable Engine\r\n\r\nPlanned Tweakable Blocks:\r\n- Tweakable Thruster\r\n- Tweakable Bomb\r\n- Tweakable Spud Gun",
+		"fileId": 2859681511,
+		"localId": "f5f0322a-4119-4a13-a8e9-521670677904",
+		"name": "Tweakable Parts Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

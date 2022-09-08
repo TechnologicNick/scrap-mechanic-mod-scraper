@@ -51931,5 +51931,10 @@
 		"$CONTENT_be93f0d7-8708-49be-a6cb-84aa65ebb912/Objects/Database/ShapeSets/ladders.shapeset": [
 			"f653d19f-8fa6-4070-939f-d4318d14e760"
 		]
+	},
+	"f5f0322a-4119-4a13-a8e9-521670677904": {
+		"$CONTENT_f5f0322a-4119-4a13-a8e9-521670677904/Objects/Database/ShapeSets/global.shapeset": [
+			"e8c32319-d2bc-43c1-a012-9f68a591b99f"
+		]
 	}
 }
