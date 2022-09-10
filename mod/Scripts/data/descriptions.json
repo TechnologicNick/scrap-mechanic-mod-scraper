@@ -17015,7 +17015,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "I will work more on this mod because I know how junky it can be but I already started modding journey.. So any suggestions on how to improve this mod will be very appreciated\r\n\r\n\r\n\r\nalso sorry if I wrote something incorrectly in english..",
+		"description": "I will work more on this mod because I know how janky it can be but I already started modding journey.. So any suggestions on how to improve this mod will be very appreciated\r\n\r\n\r\nabout how Grappling gun works [or more exaclly how to use it]\r\n\r\nGrappling gun have 3 work modes:\r\n\r\n - first (default) is grappling toward PRECISE mode\r\n      allows you to grapple towards place you shoot in matter of few seconds\r\n      [may not work if player is falling :/ ]\r\n\r\n- second is swing mode which you may guess allows you to swing, it works fine but it can be better \r\n       so I will work more around this one in the future\r\n\r\n- third and last one is grappling towards NOT PRECISE mode which is sounds oddly similar to first mode,\r\n       but actually works more junky.. It's something in between two previous modes and allows you to grapple \r\n       like spiderman so I thought it would be cool to leave it to you and test\r\n\r\nyou can switch between modes by pressing \"R\" by default, or just any \"reload\" keybind in settings\r\n\r\nMULTIPLAYER NOT SUPPORTED YET! I mean it's not working well on multi, but I'm working on it ;)\r\n - plus there is no recipes added so you can't craft it in survival, but you can test it on survival with\r\n   unlimited inventory turned on ;D\r\n\r\nalso sorry if I wrote something incorrectly in english..",
 		"fileId": 2852487370,
 		"localId": "d0450f97-0ec0-4b28-bf1e-67b748cc36ad",
 		"name": "Grappling gun",
@@ -25911,6 +25911,23 @@
 	"77247810-774f-4dc6-bb35-3d941ee56f6d": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2853908059,
+				"localId": "3df82fc3-c9e7-4633-8318-4f964741c117",
+				"name": "costum mod"
+			},
+			{
+				"fileId": 2859841808,
+				"localId": "c8cecae5-60e2-4ac7-b84f-63a4a3a83bed",
+				"name": "dan vod"
+			},
+			{
+				"fileId": 2857100329,
+				"localId": "472e212a-2e35-49ee-8552-eaa56ee90625",
+				"name": "den mod"
+			}
+		],
 		"description": "все материалы я нашел в файлых игры :D",
 		"fileId": 2860773370,
 		"localId": "77247810-774f-4dc6-bb35-3d941ee56f6d",
@@ -25921,7 +25938,8 @@
 	"a85c6ef6-5d73-45cc-8284-8a8352858efb": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This is a mod that adds superlight blocks to the game!\n\nMore to come soon!",
+		"dependencies": null,
+		"description": "This is a mod that adds super light and super heavy blocks to the game!\n\nMore to come soon!",
 		"fileId": 2860853624,
 		"localId": "a85c6ef6-5d73-45cc-8284-8a8352858efb",
 		"name": "Superlight Blocks",
