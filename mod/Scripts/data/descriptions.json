@@ -13522,7 +13522,7 @@
 	"8e32225f-4880-4088-b9d8-81872d8ffe66": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Adds few more block, parts, tools... .",
+		"description": "Adds few more block, parts, tools... .\r\n\r\nFuture updates:\r\n\r\n- [Fixed previews of tools]\r\n\r\n- [New craftbot with custom recipes]:\r\n   - water gun\r\n   - spud gun 2\r\n   - bonk hammer\r\n   - new blocks\r\n   - plutonite explosive\r\n   - optimalised fertiliser\r\n   - optimalised propane tanks\r\n   - wedge blocks\r\n\r\n- [New custom game mode] (Hopefully working)",
 		"fileId": 2826983977,
 		"localId": "8e32225f-4880-4088-b9d8-81872d8ffe66",
 		"name": "IDSPE-mod",
@@ -25861,7 +25861,7 @@
 	"be93f0d7-8708-49be-a6cb-84aa65ebb912": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Work in progress…\r\n\r\nStill working on this mod, would appreciate feedback in comments rather than a thumbs down. Mod creators put a lot of time into creating their mods and our only payment is a generous thumbs up. \r\n\r\nLadder component - use 'E' to climb\r\n\r\n",
+		"description": "Work in progress…\r\n\r\nLadder component - use 'E' to climb\r\n\r\n",
 		"fileId": 2860091160,
 		"localId": "be93f0d7-8708-49be-a6cb-84aa65ebb912",
 		"name": "Ladders",
@@ -25895,6 +25895,36 @@
 		"fileId": 2860576721,
 		"localId": "f751f497-a553-4ba0-8039-0797435a17eb",
 		"name": "smp rust base protector",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"585e5391-5c88-4266-95c5-0f2b681ec698": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2859438153,
+		"localId": "585e5391-5c88-4266-95c5-0f2b681ec698",
+		"name": "new mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"77247810-774f-4dc6-bb35-3d941ee56f6d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "все материалы я нашел в файлых игры :D",
+		"fileId": 2860773370,
+		"localId": "77247810-774f-4dc6-bb35-3d941ee56f6d",
+		"name": "234342",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a85c6ef6-5d73-45cc-8284-8a8352858efb": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This is a mod that adds superlight blocks to the game!\n\nMore to come soon!",
+		"fileId": 2860853624,
+		"localId": "a85c6ef6-5d73-45cc-8284-8a8352858efb",
+		"name": "Superlight Blocks",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
