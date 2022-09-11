@@ -52019,5 +52019,12 @@
 		"$CONTENT_842ea3e4-7768-4481-a732-0db128cc5f95/Objects/Database/ShapeSets/example.shapeset": [
 			"de21c609-fe01-4db9-b102-47a782e862a9"
 		]
+	},
+	"8420a7ba-2462-41ac-966e-da6cc84fb899": {
+		"$CONTENT_8420a7ba-2462-41ac-966e-da6cc84fb899/Objects/Database/ShapeSets/example.shapeset": [
+			"714f7e5c-296a-11ed-a261-0242ac120002",
+			"7e40d2be-296a-11ed-a261-0242ac120002",
+			"87acf774-296a-11ed-a261-0242ac120002"
+		]
 	}
 }
