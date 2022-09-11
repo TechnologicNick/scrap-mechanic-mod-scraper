@@ -14934,7 +14934,7 @@
 	"e3d52333-57a7-4289-b737-ade78347cd12": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "A mod with resource boosted & cost reduced\n( in progress )\nThanks for 2000 subs gg :D\n\nI only can work in weekend so write all your ideas.\n____________________________________________\nmod info:\n-260 inventory slots\n-mob loot boosted\n-grow speed boosted\n-stack boosted ( not everywhere at this time sorry)\n-refine speed boosted\n-chest slots boosted ( chek image )\n-wood-stone-metal container slot boosted to 100 slots\n-max hp 200\n-lower consumption of water and food\n-lot more oxygen\n-lower consumption of gas in gas engine\n-vacum super fast ( it's really fast, like 40Item/s )\n-CRAFTABLE COMPONENTS YAY\n\nfor the future:\n-Trader need less for more\n-every item stack boost to 256 or 2560\n-boost loot-box loot\n-(your idea can be here)\n____________________________________________\n\ntell me what you want me to add in the comment\n\ncotton finally patch yay :p",
+		"description": "A mod with resource boosted & cost reduced\n( in progress )\nThanks for 2400 subs gg :D\n\nI only can work in weekend so write all your ideas.\n____________________________________________\nmod info:\n-260 inventory slots\n-mob loot boosted\n-grow speed boosted\n-stack boosted ( not everywhere at this time sorry)\n-refine speed boosted\n-chest slots boosted ( chek image )\n-wood-stone-metal container slot boosted to 100 slots\n-max hp 200\n-lower consumption of water and food\n-lot more oxygen\n-lower consumption of gas in gas engine\n-vacum super fast ( it's really fast, like 40Item/s )\n-CRAFTABLE COMPONENTS YAY ( can be found in part section )\n-added the staircase wedge and the concave wedge in craft bot ( can be found in part section )\n-low gas consumption\n-totebot head can be used to craft conpoments kits\n\nfor the future:\n-Trader need less for more\n-every item stack boost to 256 or 2560\n-boost loot-box loot\n-(your idea can be here)\n____________________________________________\n\ntell me what you want me to add in the comment",
 		"fileId": 2816326647,
 		"localId": "e3d52333-57a7-4289-b737-ade78347cd12",
 		"name": "Survival Less Cost",
@@ -25939,10 +25939,20 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "This is a mod that adds super light and super heavy blocks to the game!\n\nMore to come soon!",
+		"description": "This is a mod that adds super light tile block, and super heavy blocks to the game!\n\nThat's all enjoy but i'm making another which will be better!",
 		"fileId": 2860853624,
 		"localId": "a85c6ef6-5d73-45cc-8284-8a8352858efb",
 		"name": "Superlight Blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"842ea3e4-7768-4481-a732-0db128cc5f95": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Glass for Tanks.",
+		"fileId": 2861117685,
+		"localId": "842ea3e4-7768-4481-a732-0db128cc5f95",
+		"name": "Tank Glass",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

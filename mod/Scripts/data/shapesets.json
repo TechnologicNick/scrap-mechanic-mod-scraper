@@ -52011,7 +52011,13 @@
 	"a85c6ef6-5d73-45cc-8284-8a8352858efb": {
 		"$CONTENT_a85c6ef6-5d73-45cc-8284-8a8352858efb/Objects/Database/ShapeSets/example.shapeset": [
 			"ca755aa7-9003-41a4-b209-da61770bf474",
-			"58355da3-8f7b-4289-b350-57e22bc30664"
+			"58355da3-8f7b-4289-b350-57e22bc30664",
+			"5cbd71ec-e9d6-49fa-884b-b1bea706eb21"
+		]
+	},
+	"842ea3e4-7768-4481-a732-0db128cc5f95": {
+		"$CONTENT_842ea3e4-7768-4481-a732-0db128cc5f95/Objects/Database/ShapeSets/example.shapeset": [
+			"de21c609-fe01-4db9-b102-47a782e862a9"
 		]
 	}
 }
