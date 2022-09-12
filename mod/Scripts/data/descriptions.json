@@ -14934,7 +14934,7 @@
 	"e3d52333-57a7-4289-b737-ade78347cd12": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "A mod with resource boosted & cost reduced\n( in progress )\nThanks for 2400 subs gg :D\n\nI only can work in weekend so write all your ideas.\n____________________________________________\nmod info:\n-260 inventory slots\n-mob loot boosted\n-grow speed boosted\n-stack boosted ( not everywhere at this time sorry)\n-refine speed boosted\n-chest slots boosted ( chek image )\n-wood-stone-metal container slot boosted to 100 slots\n-max hp 200\n-lower consumption of water and food\n-lot more oxygen\n-lower consumption of gas in gas engine\n-vacum super fast ( it's really fast, like 40Item/s )\n-CRAFTABLE COMPONENTS YAY ( can be found in part section )\n-added the staircase wedge and the concave wedge in craft bot ( can be found in part section )\n-low gas consumption\n-totebot head can be used to craft conpoments kits\n\nfor the future:\n-Trader need less for more\n-every item stack boost to 256 or 2560\n-boost loot-box loot\n-(your idea can be here)\n____________________________________________\n\ntell me what you want me to add in the comment",
+		"description": "A mod with resource boosted & cost reduced\n( in progress )\nThanks for 2400 subs gg :D\n\nI only can work in weekend so write all your ideas.\n____________________________________________\nmod info:\n-260 inventory slots\n-mob loot boosted\n-grow speed boosted\n-stack boosted ( not everywhere at this time sorry)\n-refine speed boosted\n-chest slots boosted ( chek image )\n-wood-stone-metal container slot boosted to 100 slots\n-max hp 200\n-lower consumption of water and food\n-lot more oxygen\n-lower consumption of gas in gas engine\n-vacum super fast ( it's really fast, like 40Item/s )\n-CRAFTABLE COMPONENTS YAY ( can be found in part section )\n-added the staircase wedge and the concave wedge in craft bot ( can be found in part section )\n-low gas consumption\n-totebot head can be used to craft conpoments kits\n-Traider need less for more and op traids\n\nfor the future:\n-every item stack boost to 256 or 2560\n-boost loot-box loot\n-(your idea can be here)\n____________________________________________\n\ntell me what you want me to add in the comment",
 		"fileId": 2816326647,
 		"localId": "e3d52333-57a7-4289-b737-ade78347cd12",
 		"name": "Survival Less Cost",
@@ -25959,10 +25959,28 @@
 	"8420a7ba-2462-41ac-966e-da6cc84fb899": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "",
+		"description": "[h1] Hello! [/h1]\r\n\r\nThis mod is currently in beta, I will be adding to it in the future, right now i'm thinking of more ideas to add without adding existing tools in other logic mods.\r\n\r\n[h1] Current tools: [/h1]\r\n\r\nLogic Gate State Shower - Shows the state of a logic gate\r\n1 Tick Hammer Block - Makes your hammer able to 1 tick logic gates\r\nCircuit Timer Block - measures the time in ticks in a circuit\r\nSelf Wirer - Self wires logic gates\r\n\r\n\r\nplease report any bugs to me in the comments and feel free to give me some suggestions.\r\n\r\nHope you enjoy.",
 		"fileId": 2856940100,
 		"localId": "8420a7ba-2462-41ac-966e-da6cc84fb899",
 		"name": "Vanilla Logic Debug Tools",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"80c1fa35-a774-4518-ae0f-dfd40932fc4a": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2608898394,
+		"localId": "80c1fa35-a774-4518-ae0f-dfd40932fc4a",
+		"name": "Vincling's Beta Tools",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"7166cbdc-b341-4f45-b138-8cd2d85a6b58": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2861680970,
+		"localId": "7166cbdc-b341-4f45-b138-8cd2d85a6b58",
+		"name": "gametec random stuff",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
