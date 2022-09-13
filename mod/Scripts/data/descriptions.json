@@ -13542,7 +13542,7 @@
 	"f0a85720-6cf2-44d1-99d6-d8ddfa7a10cf": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This is a Parts and Block mod ONLY focused for Custom Games, useless for Creative Mode anyways.\n\nNOTE: This mod only supports ALL vanilla base survival game objects. It's just a bunch of overridden code, which few percent of the code were a tad bit modified because those defaulted code \"weren't valid\" for upload. The rest of modification: I only intend to modify the stack size value to 64,000.",
+		"description": "This is a Parts and Block mod that's intended for Custom Game purposes only. It'd be useless for Creative Mode anyways.\r\n\r\nNOTE: This mod only supports ALL vanilla base survival game objects. It's just a bunch of overridden code, which few percent of the code were a tad bit modified because those defaulted code \"weren't valid\" for upload. The rest of modification: I only intend to modify the stack size value to 64,000.\r\n\r\nHere's the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2814032256]Custom Games[/url] variant",
 		"fileId": 2827030091,
 		"localId": "f0a85720-6cf2-44d1-99d6-d8ddfa7a10cf",
 		"name": "Item Overstack - Blocks and Parts",
@@ -25861,7 +25861,7 @@
 	"be93f0d7-8708-49be-a6cb-84aa65ebb912": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Work in progress…\r\n\r\nLadder component - use 'E' to climb\r\n\r\n",
+		"description": "Work in progress…\r\n\r\nLadder components\r\n\r\nWalk at the ladder, look up to climb. When on the ladder, look down to climb down.\r\n\r\n",
 		"fileId": 2860091160,
 		"localId": "be93f0d7-8708-49be-a6cb-84aa65ebb912",
 		"name": "Ladders",
@@ -25994,6 +25994,26 @@
 		"fileId": 2858553544,
 		"localId": "f52ddb2f-5b3b-4ba0-bc9b-4ac6e58b5e69",
 		"name": "Universal PVP",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"3397735d-c174-4abc-b438-b06985147638": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Engines on one block.\r\n(created by MaxTechnik)",
+		"fileId": 2857184879,
+		"localId": "3397735d-c174-4abc-b438-b06985147638",
+		"name": "1 block engines",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1fc2b668-f335-4cd1-88fa-fd65efc8899c": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Pretty straight forward\n",
+		"fileId": 2862238572,
+		"localId": "1fc2b668-f335-4cd1-88fa-fd65efc8899c",
+		"name": "Undestructable Spaceship Metal",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
