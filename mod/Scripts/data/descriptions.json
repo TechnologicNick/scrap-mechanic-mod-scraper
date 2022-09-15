@@ -14309,7 +14309,7 @@
 				"name": "[ACM] Warehouse + Spaceship Parts"
 			}
 		],
-		"description": "Advanced Challenge/Creative Mode (ACM) v2, Mod version is V2_0.7.3.\n\nThis game mode offers lots of features for building Advanced Challenge Maps.\n[b]However, that's not the only point of the mod!\nIt also serves as a better Creative Mode![/b]\n\n[b]Some examples of the features in this mod:[/b]\n\n[h2]Custom Mod API[/h2]\nThis mod provides custom mod API that allows blocks&parts mods to interface with the\ngame, control the map state, fire laser beams and more!\n[b]The documentation for this API is available at: https://scrapmechanictools.com/modapis/ACM/info[/b]\nMore features will be added over time.\n\n[h2]Lots of Settings[/h2]\nThe mod also provides a completely custom settings menu, which allows you to adjust\nlots of parameters about the game - physics, multiplayer, health, etc.!\nYou don't want a health bar? Disable it in the health settings.\nYou want to play on different terrain? Change it in the terrain selector!\nYou want to jump higher? Decrease the player gravity in the physics settings.\nYou want tapebots to do less damage? Just reduce it in the projectile settings.\nOr maybe you want to disable nametags and limit the amount of players in the world? There's settings for that as well.\n\n[h2]All Vanilla Parts[/h2]\nIn this game mode, you can build with all parts from all the vanilla game modes!\nChallenge Mode parts, Survival parts (including spaceship and warehouse parts) and Creative parts.\n\n[h2]Custom Parts & Tools[/h2]\nThere are also lots of completely custom parts and tools (some very unique),\nsome of which introduce completely new game mechanics!\nDo you like shotguns? There's a gatling shotgun, because why not!\nMaking lots of logic connections? Use the Advanced Connect Tool to quickly connect lots of logic.\nWant to teleport? Use the Magic Wand!\n\nYou want to add a bonus feature to your map? Place some hidden ducks and let the player find them.\nYou want to create a (simple) cutscene? Use the Cutscene Maker!\nMaking sure that the player stays within an area? Use the Kill Box!\nSensing units/characters/creations in an are",
+		"description": "Advanced Challenge/Creative Mode (ACM) v2, Mod version is V2_0.8.0.\n\nThis game mode offers lots of features for building Advanced Challenge Maps.\n[b]However, that's not the only point of the mod!\nIt also serves as a better Creative Mode![/b]\n\n[b]Some examples of the features in this mod:[/b]\n\n[h2]Custom Mod API[/h2]\nThis mod provides custom mod API that allows blocks&parts mods to interface with the\ngame, control the map state, fire laser beams and more!\n[b]The documentation for this API is available at: https://scrapmechanictools.com/modapis/ACM/info[/b]\nMore features will be added over time.\n\n[h2]Lots of Settings[/h2]\nThe mod also provides a completely custom settings menu, which allows you to adjust\nlots of parameters about the game - physics, multiplayer, health, etc.!\nYou don't want a health bar? Disable it in the health settings.\nYou want to play on different terrain? Change it in the terrain selector!\nYou want to jump higher? Decrease the player gravity in the physics settings.\nYou want tapebots to do less damage? Just reduce it in the projectile settings.\nOr maybe you want to disable nametags and limit the amount of players in the world? There's settings for that as well.\n\n[h2]All Vanilla Parts[/h2]\nIn this game mode, you can build with all parts from all the vanilla game modes!\nChallenge Mode parts, Survival parts (including spaceship and warehouse parts) and Creative parts.\n\n[h2]Custom Parts & Tools[/h2]\nThere are also lots of completely custom parts and tools (some very unique),\nsome of which introduce completely new game mechanics!\nDo you like shotguns? There's a gatling shotgun, because why not!\nMaking lots of logic connections? Use the Advanced Connect Tool to quickly connect lots of logic.\nWant to teleport? Use the Magic Wand!\n\nYou want to add a bonus feature to your map? Place some hidden ducks and let the player find them.\nYou want to create a (simple) cutscene? Use the Cutscene Maker!\nMaking sure that the player stays within an area? Use the Kill Box!\nSensing units/characters/creations in an are",
 		"fileId": 2803050088,
 		"localId": "6adc7c70-de63-4f47-afbf-018220f548d4",
 		"name": "Advanced Challenge/Creative Mode",
@@ -25594,7 +25594,7 @@
 	"eceb83bc-ac77-459b-9925-e542170e6254": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod provides example code showing how to use various parts of the custom [b]Advanced Challenge/Creative Mode Mod API.[/b]\r\n\r\nThe API Documentation can be found at: https://scrapmechanictools.com/modapis/ACM/info\r\n\r\nNOTE - The parts in this mod are NOT meant to be used in a normal game or map!\r\nThey only exist to provide some example code that shows how to use the API.\r\n\r\nThe parts in the preview images are what's currently in the mod.\r\n\r\nFrom left to right:\r\n\r\n- Simple Laser\r\n- Custom Laser\r\n- Custom Laser Receiver\r\n- Debug Mode Enabler\r\n- Database Writer\r\n- Database Reader\r\n- Challenge Interface\r\n- Logic Save Point\r\n\r\n",
+		"description": "This mod provides example code showing how to use various parts of the custom [b]Advanced Challenge/Creative Mode Mod API.[/b]\n\nThe API Documentation can be found at: https://scrapmechanictools.com/modapis/ACM/info\n\nNOTE - The parts in this mod are NOT meant to be used in a normal game or map!\nThey only exist to provide some example code that shows how to use the API.\n\nThe parts in the preview images are what's currently in the mod.\n\nFrom left to right, top to bottom:\n\n- Simple Laser\n- Custom Laser\n- Custom Laser Receiver\n- Debug Mode Enabler\n- Database Writer\n- Database Reader\n- Challenge Interface\n- Logic Save Point\n- Event Listener\n- Flat World Loader\n- Chat Command Registerer\n- Settings Checker\n- Player Gravity Changer\n\nHandheld Tools (not in the image):\n\n- \"Portal Gun\" Example Tool",
 		"fileId": 2855617052,
 		"localId": "eceb83bc-ac77-459b-9925-e542170e6254",
 		"name": "ACM Mod API Examples",
@@ -25861,7 +25861,7 @@
 	"be93f0d7-8708-49be-a6cb-84aa65ebb912": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Work in progress…\r\n\r\nLadder components\r\n\r\nWalk at the ladder, look up to climb. When on the ladder, look down to climb down.\r\n\r\n",
+		"description": "Work in progress…\r\n\r\nLadder components\r\n",
 		"fileId": 2860091160,
 		"localId": "be93f0d7-8708-49be-a6cb-84aa65ebb912",
 		"name": "Ladders",
@@ -26020,7 +26020,7 @@
 	"6a2e9817-686e-4373-8c32-4d4b9add6549": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "this mod adds a lot of interesting blocks to the game, such as a musical doorbell",
+		"description": "this mod adds a lot of interesting blocks to the game, such as a musical doorbell and musical and smart blocks",
 		"fileId": 2862627470,
 		"localId": "6a2e9817-686e-4373-8c32-4d4b9add6549",
 		"name": "The Mod",
@@ -26043,5 +26043,42 @@
 		"name": "Raft Mechanic [CUSTOM GAME]",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"e0b7835f-b1f4-4d9c-92f4-085b288568da": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds Laser Guns to the game.\nUse them to destroy creations or play some fun games with friends!\n\n=========================================\n\nAdds:\n- HPID\n- HAPLY\n- HEPC\n- M-HPID\n- M-CLD\n- M-HPCID\n\n=========================================\n\nHave fun with the mod :)\n\nCredits:\n- Coding: Laz\n- Models coming soon, but they will be made by: DenseSav\n\n=========================================\n\nBeta Testers:\n- Laz\n- DenseSav\n- Killer_Guy1722\n- WinterOwl\n- MrMonocle",
+		"fileId": 2837530483,
+		"localId": "e0b7835f-b1f4-4d9c-92f4-085b288568da",
+		"name": "Laser Gun",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"176c0b27-4c3f-4b06-a7e6-3eb765dd806a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Mod for servers",
+		"fileId": 2862817629,
+		"localId": "176c0b27-4c3f-4b06-a7e6-3eb765dd806a",
+		"name": "Amogus",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"810a917d-6867-4fa0-9820-31d108288484": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 881254777,
+				"localId": "26ef623b-97d2-49ba-9a10-8898c1a94e9a",
+				"name": "The Modpack"
+			}
+		],
+		"description": "my ferst mod",
+		"fileId": 2862952907,
+		"localId": "810a917d-6867-4fa0-9820-31d108288484",
+		"name": "deesnats",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
