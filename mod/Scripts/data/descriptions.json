@@ -10323,12 +10323,14 @@
 		"version": 0
 	},
 	"4b0678ee-3197-4658-b190-a4df534ba528": {
-		"description": "This mod doesn't have a description",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Modyfikacja dodaje różne elementy polskiej infrastruktury kolejowej.\r\nZawiera między innymi:\r\n- szyny kolejowe\r\n- czujniki torowe\r\n- szafy aparatowe\r\n- tablice peronowe\r\n- elementy automatyki kolejowej\r\n- płyty peronowe\r\n- zegary peronowe\r\n- płyty przejazdowe\r\n- loga producentów automatyki kolejowej\r\n- nasypy\r\n- słupy sieci trakcyjnej (sieć zostanie dodana w przyszłych aktualizacjach)\r\n\r\nAby ułatwić budowę infrastruktury kolejowej umieszczam tutaj link do kolekcji gotowych odcinków torów:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2547163673\r\n\r\n\r\nModyfikacja jest wciąż rozwijana i nowe części zostaną dodane!\r\n\r\nZachęcam do przeczytania poniższego FAQ w przypadku pytań. Czytaj opisy obiektów w ekwipunku, jest tam napisane jak je obsługiwać!\r\n\r\n\r\n\r\n\r\n\r\nFAQ:\r\n\r\nQ: Jak otworzyć/zamknąć szafę aparatową?\r\nA: Szafy otwiera się przyciskiem \"E\" klikając na nią od tyłu.\r\n\r\nQ: Jak używać czujników torowych?\r\nA: Czujniki torowe dzielą się na pojedyńcze i podwójne. Pojedyńcze wydają wyjście logiczne w przypadku kiedy koło pociągu najedzie nad czujnik. Podwójne podłącza się do panelu CTI w celu wykrycia kierunku jazdy pociągu. Czujniki ustawia się od zewnętrznej strony szyny\r\n\r\nQ: Jak zbudować tablicę peronową?\r\nA: Najpierw stawia się odpowiednio wysoki słup, na niego od boku ramę tablicy, na którą zawiesza się tablice z literami.\r\n\r\nQ: Jak obsługiwać zegar peronowy?\r\nA: Zegar nie wymaga dodatkowej obsługi do działania. Wskazuje czas w grze (na creative czas domyślnie nie płynie więc zegar wskazuje stałą godzinę). Podanie sygnału logicznego do zegara spowoduje jego podświetlenie.\r\n\r\nQ: Jak używać czujnika EON-6/Panelu CTI?\r\nA: Obydwa te urządzenia służą do wykrywania kierunku jazdy taboru. Dokładny opis działania i podłączenia znajduje się w opisie w ekwipunku. Do pełnego wykrywania potrzebny jest mod USRK, w którym znajduje się \"detektor wyciągnięcia przycisku\" służący do wyprowadzenia wyjścia drugiego kierunku (pierwszy jest sygnałem logicznym z urządzenia).",
 		"fileId": 2224924941,
 		"localId": "4b0678ee-3197-4658-b190-a4df534ba528",
 		"name": "Niko - Infrastruktura PKP",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"3f79b0cb-0b91-49f3-abe0-af12e52e16ab": {
 		"creatorId": "76561198939444783",
@@ -25960,7 +25962,7 @@
 	"8420a7ba-2462-41ac-966e-da6cc84fb899": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1] Hello! [/h1]\r\n\r\nThis mod is currently in beta, I will be adding to it in the future, right now i'm thinking of more ideas to add without adding existing tools in other logic mods.\r\n\r\n[h1] Current tools: [/h1]\r\n\r\nLogic Gate State Shower - Shows the state of a logic gate\r\n1 Tick Hammer Block - Makes your hammer able to 1 tick logic gates\r\nCircuit Timer Block - measures the time in ticks in a circuit\r\nSelf Wirer - Self wires logic gates\r\nLogic Gate Mode Changer - allows you to change the logic gate's mode by colour\r\n\r\n\r\nplease report any bugs to me in the comments and feel free to give me some suggestions.\r\n\r\nHope you enjoy.",
+		"description": "[h1] Hello! [/h1]\r\n\r\nThis is a mod that gives you some useful tools to aid with your vanilla logic builds!\r\n\r\nThis mod is currently in beta, I will be adding to it in the future, right now i'm thinking of more ideas to add without adding existing tools in other logic mods.\r\n\r\n[h1] Current tools: [/h1]\r\n\r\n[b]Logic Gate State Shower[/b] - Shows the state of a logic gate\r\n\r\n[b]1 Tick Hammer Block[/b] - Makes your hammer able to 1 tick logic gates\r\n\r\n[b]Circuit Timer Block[/b] - measures the time in ticks in a circuit\r\n\r\n[b]Self Wirer[/b] - Self wires logic gates\r\n\r\n[b]Logic Gate Mode Changer[/b] - allows you to change the logic gate's mode by colour\r\n\r\n[b]Logic Gate Connection Shower[/b] - Shows connections with name tags on your screen, helps in high connection count logic creations\r\n\r\n[b]The Ultimate Connection Hider[/b] - 1st use, when it is placed down, it hides connections while wiring, 2nd use, when interacting with the tool it will hide every other connection except connections coming from a gate that is the same colour as the tool.\r\n\r\n\r\nplease report any bugs to me in the comments and feel free to give me some suggestions.\r\n\r\nHope you enjoy.",
 		"fileId": 2856940100,
 		"localId": "8420a7ba-2462-41ac-966e-da6cc84fb899",
 		"name": "Vanilla Logic Debug Tools",
