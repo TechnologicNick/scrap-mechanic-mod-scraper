@@ -14311,7 +14311,7 @@
 				"name": "[ACM] Warehouse + Spaceship Parts"
 			}
 		],
-		"description": "Advanced Challenge/Creative Mode (ACM) v2, Mod version is V2_0.8.0.\n\nThis game mode offers lots of features for building Advanced Challenge Maps.\n[b]However, that's not the only point of the mod!\nIt also serves as a better Creative Mode![/b]\n\n[b]Some examples of the features in this mod:[/b]\n\n[h2]Custom Mod API[/h2]\nThis mod provides custom mod API that allows blocks&parts mods to interface with the\ngame, control the map state, fire laser beams and more!\n[b]The documentation for this API is available at: https://scrapmechanictools.com/modapis/ACM/info[/b]\nMore features will be added over time.\n\n[h2]Lots of Settings[/h2]\nThe mod also provides a completely custom settings menu, which allows you to adjust\nlots of parameters about the game - physics, multiplayer, health, etc.!\nYou don't want a health bar? Disable it in the health settings.\nYou want to play on different terrain? Change it in the terrain selector!\nYou want to jump higher? Decrease the player gravity in the physics settings.\nYou want tapebots to do less damage? Just reduce it in the projectile settings.\nOr maybe you want to disable nametags and limit the amount of players in the world? There's settings for that as well.\n\n[h2]All Vanilla Parts[/h2]\nIn this game mode, you can build with all parts from all the vanilla game modes!\nChallenge Mode parts, Survival parts (including spaceship and warehouse parts) and Creative parts.\n\n[h2]Custom Parts & Tools[/h2]\nThere are also lots of completely custom parts and tools (some very unique),\nsome of which introduce completely new game mechanics!\nDo you like shotguns? There's a gatling shotgun, because why not!\nMaking lots of logic connections? Use the Advanced Connect Tool to quickly connect lots of logic.\nWant to teleport? Use the Magic Wand!\n\nYou want to add a bonus feature to your map? Place some hidden ducks and let the player find them.\nYou want to create a (simple) cutscene? Use the Cutscene Maker!\nMaking sure that the player stays within an area? Use the Kill Box!\nSensing units/characters/creations in an are",
+		"description": "Advanced Challenge/Creative Mode (ACM) v2, Mod version is V2_0.8.1.\n\nThis game mode offers lots of features for building Advanced Challenge Maps.\n[b]However, that's not the only point of the mod!\nIt also serves as a better Creative Mode![/b]\n\n[b]Some examples of the features in this mod:[/b]\n\n[h2]Custom Mod API[/h2]\nThis mod provides custom mod API that allows blocks&parts mods to interface with the\ngame, control the map state, fire laser beams and more!\n[b]The documentation for this API is available at: https://scrapmechanictools.com/modapis/ACM/info[/b]\nMore features will be added over time.\n\n[h2]Lots of Settings[/h2]\nThe mod also provides a completely custom settings menu, which allows you to adjust\nlots of parameters about the game - physics, multiplayer, health, etc.!\nYou don't want a health bar? Disable it in the health settings.\nYou want to play on different terrain? Change it in the terrain selector!\nYou want to jump higher? Decrease the player gravity in the physics settings.\nYou want tapebots to do less damage? Just reduce it in the projectile settings.\nOr maybe you want to disable nametags and limit the amount of players in the world? There's settings for that as well.\n\n[h2]All Vanilla Parts[/h2]\nIn this game mode, you can build with all parts from all the vanilla game modes!\nChallenge Mode parts, Survival parts (including spaceship and warehouse parts) and Creative parts.\n\n[h2]Custom Parts & Tools[/h2]\nThere are also lots of completely custom parts and tools (some very unique),\nsome of which introduce completely new game mechanics!\nDo you like shotguns? There's a gatling shotgun, because why not!\nMaking lots of logic connections? Use the Advanced Connect Tool to quickly connect lots of logic.\nWant to teleport? Use the Magic Wand!\n\nYou want to add a bonus feature to your map? Place some hidden ducks and let the player find them.\nYou want to create a (simple) cutscene? Use the Cutscene Maker!\nMaking sure that the player stays within an area? Use the Kill Box!\nSensing units/characters/creations in an are",
 		"fileId": 2803050088,
 		"localId": "6adc7c70-de63-4f47-afbf-018220f548d4",
 		"name": "Advanced Challenge/Creative Mode",
@@ -26112,5 +26112,25 @@
 		"name": "Low Friction Wheels",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"79f9c81c-fd31-4b34-9532-68adb71f7929": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2864880621,
+		"localId": "79f9c81c-fd31-4b34-9532-68adb71f7929",
+		"name": "Hide and Seek",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"426e16fe-4523-4002-a80c-207fa007258c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod makes the game a little less grindy.\n\nChanges:\n - Block stack size increased to 750\n - Blueprints usable in survival (press E when near a lift)\n - Haybots always drop component kits with a chance of a circuit board\n - Refining wood, stone, metal etc. will yield 30 items instead of 10\n - Refine time cut in half\n - Added Fertilizer recipes:\n * 10 blueberry, 10 orange, 10 banana seeds\n * 10 pineapple, 10 broccoli seeds\n * 30 potato seeds\n * 30 cotton seeds",
+		"fileId": 2865011962,
+		"localId": "426e16fe-4523-4002-a80c-207fa007258c",
+		"name": "Less Grind",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
