@@ -26126,11 +26126,41 @@
 	"426e16fe-4523-4002-a80c-207fa007258c": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod makes the game a little less grindy.\n\nChanges:\n - Block stack size increased to 750\n - Blueprints usable in survival (press E when near a lift)\n - Haybots always drop component kits with a chance of a circuit board\n - Refining wood, stone, metal etc. will yield 30 items instead of 10\n - Refine time cut in half\n - Added Fertilizer recipes:\n * 10 blueberry, 10 orange, 10 banana seeds\n * 10 pineapple, 10 broccoli seeds\n * 30 potato seeds\n * 30 cotton seeds",
+		"description": "This mod makes the game a little less grindy.\n\nChanges:\n - Block stack size increased to 750\n - Haybots now have a higher chance to drop component kits\n - Refining wood, stone, metal etc. will yield 30 items instead of 10\n - Refine time cut in half\n - Added Fertilizer recipes:\n * 10 blueberry, 10 orange, 10 banana seeds\n * 10 pineapple, 10 broccoli seeds\n * 30 potato seeds\n * 30 cotton seeds\n - You can now carry Refinebot and resource collector in your inventory (to be able to use them in a blueprint)\n- Increased stack size to 10 for the following:\n * Suspensions\n * Driver Seats/Saddles\n * Engines\n * Thrusters\n * Controllers\n * Sensors\n * Pistons\n * Sawblades\n * Drills\n * Wheels\n * Refinebots\n * Resource collectors\n\nNote, this is the case apparantly for all custom games:\n - Blueprints usable in survival (press E when near a lift), you still need all the items required to build it.",
 		"fileId": 2865011962,
 		"localId": "426e16fe-4523-4002-a80c-207fa007258c",
 		"name": "Less Grind",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"7b65d4f2-b642-4e24-87f1-c6163504dd58": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Parts from warehuose elevator.\n(by MaxTechnik)",
+		"fileId": 2865081936,
+		"localId": "7b65d4f2-b642-4e24-87f1-c6163504dd58",
+		"name": "Elevator_parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"7069dc36-dbbf-4c8c-ac4b-dece9adadbbf": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Matal+Tank-\n(by MaxTechnik)",
+		"fileId": 2865086290,
+		"localId": "7069dc36-dbbf-4c8c-ac4b-dece9adadbbf",
+		"name": "Metal+tank-",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"735b1e5e-9ac3-4aca-93c6-4cc4b537c076": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Hide & Seek in Scrap Mechanic!\r\n\r\n[h1]Features[/h1]\r\n\r\n[b]Hide & Seek:[/b] Lets you play Hide & Seek on any map that has been prepared for it.\r\n\r\n[b]Chat Commands:[/b] A set of chat commands allow the host to control the state of the game.\r\n\r\n[b]Game Settings:[/b] A settings menu, allowing you to adjust the hiding time, game time, select seekers and more.\r\n\r\n[b]Game Timers:[/b] Timers count the duration of the game and record how long it took for each player to be found.\r\n\r\n[b]Custom Spawn Points:[/b] These let map builders control exactly where hiders and seekers will spawn when the game is started.\r\n\r\n[b]Game Results:[/b] When a game ends, the results of the game are printed to the chat. These results contain the hiding time, game time, total time, each player that was found, the time it took for them to be found and the player who found them.\r\n\r\n[h1]How to Use[/h1]\r\n\r\nTo [b]play[/b] a map, simply spawn a properly prepared blueprint (\"properly prepared\" = it has all the spawn points) and use [b]/hns_start[/b].\r\nIf something is wrong with the map (like a missing spawn point), a warning will be displayed in the chat.\r\n\r\nTo [b]stop playing[/b] a map, either wait for the Game Time to run out or use [b]/hns_stop[/b] to stop it manually.\r\n\r\nWhen [b]building[/b] a map, [b]make sure it has at least one of each of the spawn points in it![/b]\r\nThe map will not be playable if one or more of the spawn points are missing.\r\n\r\nThe [b]Default Spawnpoint[/b] is where all players spawn when the game ends.\r\nThe [b]Seeker Spawnpoint[/b] is where all [b]seekers[/b] will spawn [b]after[/b] the \"Hiding Time\" has run out.\r\nThe [b]Player Spawnpoint[/b] is where all [b]hiders[/b] will spawn immediately after starting the game.\r\n\r\n[h1]Settings[/h1]\r\n\r\nThe [b]settings menu[/b] can be accessed by the host player using [b]/hns[/b].\r\nIn it, various things can be adjusted:\r\n\r\n[b]Hide Time:[/b] The time in seconds that players have for hiding themselves before the seekers are released.\r\n\r\n[b]Game Time:[/b] The time in seconds after which the game will automatically end. Set to 0 for no timeout.\r\n\r\n[b]Max Seekers:[/b] Sets the maximum number of seekers.\r\n\r\n[b]Found Players become Seekers:[/b] Does what it says - if this is enabled, found players become seekers.\r\n\r\n[b]Seeker Selection:[/b] Sets how seekers are selected. Modes are: [b]Manual[/b] (manually select seekers using the spudgun or hammer), [b]Random[/b] (automatically chooses random seekers) and [b]Host Player[/b] (sets the host player as seeker).\r\n\r\n[b]Map Restrictions:[/b] Sets whether the map should be restricted during the game or not. (restricted = not buildable, not destructable, etc.)\r\n\r\n[b]Inventory:[/b] Choose between limited and unlimited inventory\r\n\r\n[b]Sledgehammer[/b] and [b]Spudgun:[/b] Enables or disables the hammer and/or spudgun.\r\n\r\n[h2][b]This mod needs to be loaded in [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2803050088]ACM[/url] in order to work.[/b][/h2]",
+		"fileId": 2865229379,
+		"localId": "735b1e5e-9ac3-4aca-93c6-4cc4b537c076",
+		"name": "Hide & Seek",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
