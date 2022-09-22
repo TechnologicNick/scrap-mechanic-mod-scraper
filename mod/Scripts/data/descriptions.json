@@ -26022,7 +26022,7 @@
 	"6a2e9817-686e-4373-8c32-4d4b9add6549": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "this mod adds a lot of interesting blocks to the game, such as a musical doorbell and musical and smart blocks",
+		"description": "Этот мод дабовляет вагон и маленькую тилежку крутого стафа, музыкальные блоки, черные дыры, новые бомбы(логическая, кинетическая, регдол)",
 		"fileId": 2862627470,
 		"localId": "6a2e9817-686e-4373-8c32-4d4b9add6549",
 		"name": "The Mod",
@@ -26190,6 +26190,15 @@
 		"fileId": 2865757939,
 		"localId": "47172996-eb42-480d-8abe-0447a8cddd01",
 		"name": "XXX CONTENT",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"094cb149-b4bd-4fb3-b5c6-6664d411751a": {
+		"custom_icons": true,
+		"description": "A set of polygon parts and a block used for making decorative wind turbines.\r\n\r\nHow to use:\r\n\r\n1. Download the finished wind turbine blueprint.\r\n\r\n2. Open your world and place the wind turbine on the desired spot with ALL wind turbines facing the same direction. (Use the stairs as guidance) (Using the gravity modulator from the modpack is HIGHLY recommended)\r\n\r\n3. Done! To turn off the wind turbine make the secondary logic block on the basa an OR gate (Insted of nor)\r\n",
+		"fileId": 2780367471,
+		"localId": "094cb149-b4bd-4fb3-b5c6-6664d411751a",
+		"name": "Wind turbine parts public release",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
