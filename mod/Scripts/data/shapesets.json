@@ -52752,5 +52752,11 @@
 	},
 	"048c6411-03dc-4984-818d-69387fcd2c76": {
 		"$CONTENT_048c6411-03dc-4984-818d-69387fcd2c76/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"f982dce7-be33-47d7-be49-c86481b87907": {
+		"$CONTENT_f982dce7-be33-47d7-be49-c86481b87907/Objects/Database/ShapeSets/example.shapeset": [
+			"9272ac43-3241-40ae-b114-f3ecf598bf13",
+			"e192bd88-f46b-4a97-b39b-5a36c07e1cc8"
+		]
 	}
 }
