@@ -4238,12 +4238,14 @@
 		"version": 0
 	},
 	"1c642872-807b-41ee-805e-25f112ac86d3": {
-		"description": "‖--- Hamster MOD ---‖\n\n‖Description‖\n\nThis is my first Mod that brings more then 50 new Textures in the Game!\n\nAs is is my first Mod, it goes very well and i keep making Updates as often as i can!\n\n‖Creator‖\n\nHamsterliebe\n\n‖Discord Server‖\n\nhttps://discord.gg/MdjQ6Kssxg\n\n‖Version‖\n\n3.1",
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "‖--- Hamster MOD ---‖\r\n\r\n‖Description‖\r\n\r\nIn dieser Mod werden mehr als 50 neue Blöcke hinzugefügt!\r\n\r\nObwohl es meine erste Mod ist, wird sie recht oft genutzt und daher versuche ich auch so oft wie möglich Updates zu machen!\r\n\r\nWenn du die Mod im Überlebens Modus nutzen möchtest musst du auf dem Discord die Datei(en) downloaden!\r\n\r\n‖Creator‖\r\n\r\nHamsterliebe\r\n\r\n‖Discord Server‖\r\n\r\nhttps://discord.gg/MdjQ6Kssxg\r\n\r\n‖Version‖\r\n\r\n3.3",
 		"fileId": 1899430624,
 		"localId": "1c642872-807b-41ee-805e-25f112ac86d3",
 		"name": "Hamster Mod",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"3269e6ef-4d80-4f75-b8f6-dffb303e5243": {
 		"allow_add_mods": true,
@@ -16168,7 +16170,7 @@
 	"a898c2c4-de95-4899-9442-697ced66b832": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1][b]Handheld Laser Cutter[/b][/h1]\nCan destroy any part, block, or harvestable. It also damages mobs.\n[b]Range[/b]: 15 meters\n[b]Damage dealts to mobs[/b]: 180/s\n\n[h1][b]Mountable Laser Cutter[/b][/h1]\nSame as the Handheld Laser Cutter, but has adjustable range and damage.\n\n[h1][b]Laser Pistol[/b][/h1]\nLeft click fires piercing projectiles that destroy any part, block, or harvestable. They also damages mobs. Fires 4 times a second.\nRight click fires a strong hitscan explosive attack, it has a 2 second cooldown.\n[b]Max life time[/b]: 15 seconds\n[b]Damage dealts to mobs[/b]: 100 per hit, larger mobs may take damage multiple times\n\n[h1]Credits[/h1]\n[list]\n    [*][b]Vajdani[/b] - Scripting, animation\n    [*][b]Dart Frog[/b] - Handheld Laser Cutter model and thumbnail\n    [*][b]DriVer[/b] - Laser Pistol model\n[/list]",
+		"description": "[h1][b]Handheld Laser Cutter[/b][/h1]\nIt can destroy blocks, parts, harvestables, and damage mobs.\n[b]Range[/b]: 15 meters\n[b]Damage dealt to mobs[/b]: 180/s\n\n[h1][b]Mountable Laser Cutter[/b][/h1]\nSame as the Handheld Laser Cutter, but has adjustable range and damage.\n\n[h1][b]Laser Pistol[/b][/h1]\nPrimary fire: piercing laser projectiles that destroy blocks, parts, harvestables, and damage mobs.\n[b]Max projectile life time[/b]: 15 seconds\n[b]Damage dealt to mobs[/b]: 100 per hit, larger mobs may take damage multiple times\n[b]Fire rate[/b]: 4/s\n\nSecondary fire: explosive hitscan shot\n[b]Fire rate[/b]: 0.5/s\n\n\n[h1]Credits[/h1]\n[list]\n    [*][b]Vajdani[/b] - Scripting, animation\n    [*][b]Dart Frog[/b] - Handheld Laser Cutter model and thumbnail\n    [*][b]DriVer[/b] - Laser Pistol model\n[/list]",
 		"fileId": 2843905833,
 		"localId": "a898c2c4-de95-4899-9442-697ced66b832",
 		"name": "Laser Cutter",
@@ -26243,6 +26245,16 @@
 		"fileId": 2866970987,
 		"localId": "f982dce7-be33-47d7-be49-c86481b87907",
 		"name": "Super-Sensitive Explosive",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"c1a0babb-9f55-4028-b2a6-edeb63d81a12": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Just the locker. :-)\n(by MaxTechnik)",
+		"fileId": 2867468428,
+		"localId": "c1a0babb-9f55-4028-b2a6-edeb63d81a12",
+		"name": "Locker",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
