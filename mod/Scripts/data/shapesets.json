@@ -52773,5 +52773,13 @@
 		"$CONTENT_c1a0babb-9f55-4028-b2a6-edeb63d81a12/Objects/Database/ShapeSets/example.shapeset": [
 			"1e2ac45a-f196-4d0c-9fea-f643c8eea34a"
 		]
-	}
+	},
+	"7372c6aa-2cc8-4108-b9d1-d705af315b4b": {
+		"$CONTENT_7372c6aa-2cc8-4108-b9d1-d705af315b4b/Objects/Database/ShapeSets/example.shapeset": [
+			"34e694c9-d463-4ca4-938d-e0d256d6828d",
+			"c00aaab7-803b-491b-9950-50a967dde526",
+			"72f685d2-bcb4-4c04-b37c-3e61c5ec65f1"
+		]
+	},
+	"bc433542-b40b-4231-90b2-253bf29b1842": {}
 }

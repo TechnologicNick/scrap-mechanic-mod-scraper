@@ -26257,5 +26257,25 @@
 		"name": "Locker",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"7372c6aa-2cc8-4108-b9d1-d705af315b4b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "will add more...",
+		"fileId": 2867047201,
+		"localId": "7372c6aa-2cc8-4108-b9d1-d705af315b4b",
+		"name": "og sm parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"bc433542-b40b-4231-90b2-253bf29b1842": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "файловый мод который позваляет использовать полный lua api в scrap mechanic\nвнимания данный мод дает каждому скрипту полный доступ в вашу ос! в том число и возможности\nвыполнять ЛЮБОЙ код в консоли\nудилить ЛЮБОЙ системный файл\nустоновить вредоносное ПО и ОБСОЛЮТНО ЧТО УГОДНО!!!\nиграть с этим модом разрешаеться только в паре с своими модами, так что это ОЧЕНЬ опасно\n\nобрашения к оригинальным _ENV идет через букву a, например строка a.os.execute(\"echo\" .. string.char(7)) заставит комп пикнуть",
+		"fileId": 2867622983,
+		"localId": "bc433542-b40b-4231-90b2-253bf29b1842",
+		"name": "full lua env [file mod]",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
