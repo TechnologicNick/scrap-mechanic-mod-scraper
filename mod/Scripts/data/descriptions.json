@@ -16170,10 +16170,10 @@
 	"a898c2c4-de95-4899-9442-697ced66b832": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1][b]Handheld Laser Cutter[/b][/h1]\nIt can destroy blocks, parts, harvestables, and damage mobs.\n[b]Range[/b]: 15 meters\n[b]Damage dealt to mobs[/b]: 180/s\n\n[h1][b]Mountable Laser Cutter[/b][/h1]\nSame as the Handheld Laser Cutter, but has adjustable range and damage.\n\n[h1][b]Laser Pistol[/b][/h1]\nPrimary fire: piercing laser projectiles that destroy blocks, parts, harvestables, and damage mobs.\n[b]Max projectile life time[/b]: 15 seconds\n[b]Damage dealt to mobs[/b]: 100 per hit, larger mobs may take damage multiple times\n[b]Fire rate[/b]: 4/s\n\nSecondary fire: explosive hitscan shot\n[b]Fire rate[/b]: 0.5/s\n\n\n[h1]Credits[/h1]\n[list]\n    [*][b]Vajdani[/b] - Scripting, animation\n    [*][b]Dart Frog[/b] - Handheld Laser Cutter model and thumbnail\n    [*][b]DriVer[/b] - Laser Pistol model\n[/list]",
+		"description": "[h1][b]Handheld Laser Cutter[/b][/h1]\nIt can destroy blocks, parts, harvestables, and damage mobs.\n[b]Range[/b]: 15 meters\n[b]Damage dealt to mobs[/b]: 180/s\n\n[h1][b]Mountable Laser Cutter[/b][/h1]\nSame as the Handheld Laser Cutter, but has adjustable range and damage.\n\n[h1][b]Laser Pistol[/b][/h1]\nPrimary fire: piercing laser projectiles that destroy blocks, parts, harvestables, and damage mobs.\n[b]Max projectile life time[/b]: 15 seconds\n[b]Damage dealt to mobs[/b]: 100 per hit, larger mobs may take damage multiple times\n[b]Fire rate[/b]: 4/s\n\nSecondary fire: explosive hitscan shot\n[b]Fire rate[/b]: 0.5/s\n\nOverdrive: Can be activated with the reload key(default: R). While overdrive is active, the primary fire's projectiles won't pierce objects, but they will explode on impact.\n[b]Duration[/b]: 5s\n[b]Cooldown[/b]: 10s\n\n\n[h1]Credits[/h1]\n[list]\n    [*][b]Vajdani[/b] - Scripting, animation\n    [*][b]Dart Frog[/b] - Handheld Laser Cutter model and thumbnail\n    [*][b]DriVer[/b] - Laser Pistol model\n[/list]",
 		"fileId": 2843905833,
 		"localId": "a898c2c4-de95-4899-9442-697ced66b832",
-		"name": "Laser Cutter",
+		"name": "Laser Tools",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
