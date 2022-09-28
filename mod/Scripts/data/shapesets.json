@@ -39071,7 +39071,13 @@
 			"79d07922-97e4-4a9a-a91d-3a2ac07bb23d",
 			"4353b46a-093e-438b-b6ed-cbd66b4614fc"
 		],
-		"$CONTENT_6adc7c70-de63-4f47-afbf-018220f548d4/Objects/Database/ShapeSets/tool-parts.json": [],
+		"$CONTENT_6adc7c70-de63-4f47-afbf-018220f548d4/Objects/Database/ShapeSets/tool-parts.json": [
+			"52d5b91c-0d1e-4269-a890-69d5c4ff1b0e",
+			"5332acce-1719-4127-8678-5e5fedac11b2",
+			"7fb846e3-dee2-489b-960e-57473db3519f",
+			"6266fc2e-021d-4a94-856d-64c3b3ad7799",
+			"7eb03c0a-a25e-482f-87e4-b79215410f23"
+		],
 		"$CONTENT_6adc7c70-de63-4f47-afbf-018220f548d4/Objects/Database/ShapeSets/effect-proxy.json": [
 			"d66c8b15-90f4-4297-a2dd-315fb497e034"
 		]
@@ -52781,5 +52787,8 @@
 			"72f685d2-bcb4-4c04-b37c-3e61c5ec65f1"
 		]
 	},
-	"bc433542-b40b-4231-90b2-253bf29b1842": {}
+	"bc433542-b40b-4231-90b2-253bf29b1842": {},
+	"4b77f148-ee91-467f-a11b-2570759c3aad": {
+		"$CONTENT_4b77f148-ee91-467f-a11b-2570759c3aad/Objects/Database/ShapeSets/example.shapeset": []
+	}
 }
