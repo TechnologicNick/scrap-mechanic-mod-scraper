@@ -26026,7 +26026,7 @@
 	"6a2e9817-686e-4373-8c32-4d4b9add6549": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Этот мод дабовляет вагон и маленькую тилежку крутого стафа, музыкальные блоки, черные дыры, новые бомбы(логическая, кинетическая, регдол)",
+		"description": "[RUS]\r\n\r\nЭтот мод добавляет вагон и маленькую тележку крутого стафа, здесь вы найдёте: Четыре новых вида блоков, музыкальные блоки, черную дыру, бур, мощный электродвигатель, новые бомбы (логическая, регдолы).\r\n\r\n[ENG]\r\n\r\nThis mod adds a wagon and a small cart of a cool staff, here you will find: Four new types of blocks, musical blocks, a black hole, a drill, a powerful electric motor, new bombs (logical, ragdolls).",
 		"fileId": 2862627470,
 		"localId": "6a2e9817-686e-4373-8c32-4d4b9add6549",
 		"name": "The Mod",
@@ -26285,6 +26285,24 @@
 		"fileId": 2868344205,
 		"localId": "4b77f148-ee91-467f-a11b-2570759c3aad",
 		"name": "Scrap Chat",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"8c0cc8bc-69c3-4900-9c5c-05f8f26dc5c7": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2711295853,
+		"localId": "8c0cc8bc-69c3-4900-9c5c-05f8f26dc5c7",
+		"name": "░░ Black-Works Mod ░░",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"78c41e95-616d-4444-b72e-76fdc92e9e12": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "SpaceShip from the Survival.\n(by MaxTechnik)",
+		"fileId": 2868714382,
+		"localId": "78c41e95-616d-4444-b72e-76fdc92e9e12",
+		"name": "Survival SpaceShip",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
