@@ -26315,5 +26315,25 @@
 		"name": "Scrapocalypse(Natural Disasters)",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"5519ca33-3719-4cb2-993c-c6c92e3196ec": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1] IndustrialScrap(CustomGame)\r\n\r\n[b] An industry mod for survival\r\n[u]Contents:\r\n[list]\r\n[*]Metals\r\n[*]Materials\r\n[*]Wheat\r\n[*]usable crates\r\n[*]Nuclear\r\n[*]Electricity\r\n[*]Natural disasters\r\n[/list]\r\n[/u]\r\n[b]trello list for later stuff:  https://trello.com/b/Ta3qh62k/fcmod\r\n\r\nDC:Link [url]https://discord.gg/F2gUbr63MY[/b][/url]\r\n\r\n__________________________________________\r\n\r\ncontent: \r\n\r\n\r\n",
+		"fileId": 2867446377,
+		"localId": "5519ca33-3719-4cb2-993c-c6c92e3196ec",
+		"name": "IndustrialScrap [CustomGame]",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"044770fc-e8e3-4fc4-a39d-e8d4cd55cd80": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2869820687,
+		"localId": "044770fc-e8e3-4fc4-a39d-e8d4cd55cd80",
+		"name": "Example Name",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
