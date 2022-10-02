@@ -26335,5 +26335,15 @@
 		"name": "Example Name",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"d41ed534-6c17-4367-a8e6-d02bc80cccd6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Cool!",
+		"fileId": 2870146928,
+		"localId": "d41ed534-6c17-4367-a8e6-d02bc80cccd6",
+		"name": "cool mod",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
