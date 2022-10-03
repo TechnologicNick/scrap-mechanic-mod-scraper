@@ -26345,5 +26345,15 @@
 		"name": "cool mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"ffef435e-fc94-45c1-806f-2f38b8a9ff44": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "этот custom game с генерацией 0.3.5 и инвентарем 0.3.5, но с НЕВЕРОЯТНО разширеной картой\n\nкстате, подпишитесь на мой мод the mod, так очень много всего, а скоро с помошью него можно будет делать микросхеммы!!!",
+		"fileId": 2870792077,
+		"localId": "ffef435e-fc94-45c1-806f-2f38b8a9ff44",
+		"name": "old game 0.3.5, a pre-survival game",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
