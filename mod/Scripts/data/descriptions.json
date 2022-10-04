@@ -17063,7 +17063,7 @@
 	},
 	"1d38a47f-d86a-402e-ae32-8a86b6699cd1": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "The mod that has the tools you didn't know you needed",
 		"fileId": 2852964146,
 		"localId": "1d38a47f-d86a-402e-ae32-8a86b6699cd1",
