@@ -12633,12 +12633,15 @@
 		"version": 0
 	},
 	"3f6352ae-9022-4f5f-a689-bcfeabbb6179": {
-		"description": "This mod update the stack size of many items.\n\nhere is the complete list of stack size changes : \n- Empty bucket : 1 => 5\n- All blocks : 256=> 512\n- All pipes : 10 => 30\n- Industrial beams : 1 => 30\n- All seeds : \n- Water / Oil / chemical liquids : 20 => 100 \n- Potatoes : 50 => 200\n- Fruits / vegetables : 10 => 50\n- Seeds : 20 => 200\n- SoilBag : 5 => 10\n\n- Ember : 10 => 50\n- Beewax : 10 => 50\n- Slimyclam : 10 => 50\n- Cotton :  20 => 100\n- Corn : 10 => 50\n- Circuitboard : 20 => 50\n- Steak : 10 => 50\n- Glowpoop: 10 => 50\n- Flower : 20 => 100\n- Glue : 10 => 50\nsome builing + decor object : 1 => 20\n- Warehouse key card : 1 => 5\n",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "[h1] This mod update the stack size of many items. [/h1]\r\n\r\n[i] I'm a newby at making mods, remarks and comments are welcome for any mod improvements or updates  [/i]\r\n\r\n[h2] Summary: [/h2]\r\n1 - How to install this mod\r\n2 - How to uninstall this mod\r\n3 - List of changes\r\n\r\n------------------------------------------\r\n\r\n[h2] 1 - HOW TO INSTALL THIS MOD [/h2]\r\n  The only way for now to use a mod in scrap-mechanic, is to override manually the files of the game.\r\n  (Keep in mind that you will be able to easily restore the original game files if you want with steam)\r\n\r\n [url=https://www.youtube.com/watch?v=ZbfB5nJ_BaM] VIDEO (not mine) [/url]\r\n\r\n  MANUAL STEPS :\r\n\r\n    - Subscribe to this mod page (this will download the content)\r\n    - Go to your game library\r\n    - right click on scrap mechanic => \"property\" => \"local files\" => \"browse ...\"\r\n    (keep this page open and do next steps)\r\n\r\n    - open the explorer and navigate to : \r\n    \"this pc\" => OS (C:) => \"Programmes (x86)\" => \"Steam\" => \"steamapps\" => \"workshop\" => \"content\" => \"387990\" => folder with numbers => \"OVERWRITE\"\r\n    \r\n     - Copy \"Data\" and \"Survival\" folders (select and CTRL+C  or select => right click => \"copy\")\r\n     - Paste both folders inside the other file explorer and click \"replace files in destination\"\r\n\r\n------------------------------------------\r\n\r\n[h2] 2 - HOW TO UNINSTALL THIS MOD [/h2]\r\n    \r\n  From your steam library: \r\n    - right click on scrap mechanic\r\n    - click \"property\" => \"local files\" => \"verify integrity of game files\"\r\n\r\n  2nd solution:\r\n    you can follow the exact same steps that installation but instead clicking \"OVERWRITE\" folder, click \"main\" folder\r\n\r\n------------------------------------------\r\n\r\n[h2] 3 - LIST OF CHANGES [/h2]\r\nhere is the [b]nearly[/b] complete list of stack size changes\r\n\r\n- Empty bucket : 1 => 5\r\n- All blocks : 256=> 512\r\n- All pipes : 10 => 30\r\n- Industrial beams : 1 => 30\r\n \r\n- Water / Oil / chemical liquids : 20 => 100 \r\n- Potatoes : 50 => 200\r\n- Fruits / vegetables : 10 => 50\r\n- Seeds : 20 => 200\r\n- SoilBag : 5 => 10\r\n- potted plants: 1 => 5\r\n\r\n- Ember : 10 => 50\r\n- Beewax : 10 => 50\r\n- Slimyclam : 10 => 50\r\n- Cotton :  20 => 100\r\n- Corn : 10 => 50\r\n- Circuitboard : 20 => 50\r\n- Steak : 10 => 50\r\n- Glowpoop: 10 => 50\r\n- Flower : 20 => 100\r\n- Glue : 10 => 50\r\n\r\n- some builing + decor object : 1 => 20\r\n- Warehouse key card : 1 => 5\r\n\r\n- Warehouse beams and ramps : 1 => 10\r\n- generated shops scrap-walls : 1 => 5\r\n- generated shops scrap-roofs : 1 => 5\r\n- generated shops sign, light and posters : 1 => 5\r\n\r\n",
 		"fileId": 2797358431,
 		"localId": "3f6352ae-9022-4f5f-a689-bcfeabbb6179",
 		"name": "BetterStack",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"4686f165-6ce4-4e63-87d4-528831d22776": {
 		"description": "This mod doesn't have a description.",
@@ -17061,7 +17064,7 @@
 	"1d38a47f-d86a-402e-ae32-8a86b6699cd1": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "The mod that has the tools you didn't know you needed",
 		"fileId": 2852964146,
 		"localId": "1d38a47f-d86a-402e-ae32-8a86b6699cd1",
 		"name": "Development kit for Something flying",
