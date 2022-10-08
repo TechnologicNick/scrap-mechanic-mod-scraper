@@ -26390,5 +26390,15 @@
 		"name": "Larson's Grind-B-Gone",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"7e0ae93f-c1e9-436b-a1c2-610179062784": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A collection of 3 different tiles.\n\nicon is bad because i got lazy",
+		"fileId": 2872524657,
+		"localId": "7e0ae93f-c1e9-436b-a1c2-610179062784",
+		"name": "interior blocks",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

@@ -53381,5 +53381,12 @@
 			"bb443a05-b5b9-4fad-90fc-5e04aa90fd8f"
 		]
 	},
-	"47be694f-eca6-420f-a4f2-79617a664156": {}
+	"47be694f-eca6-420f-a4f2-79617a664156": {},
+	"7e0ae93f-c1e9-436b-a1c2-610179062784": {
+		"$CONTENT_7e0ae93f-c1e9-436b-a1c2-610179062784/Objects/Database/ShapeSets/example.shapeset": [
+			"a111bb34-c944-4f70-8c7e-6b05cacad6dd",
+			"40eccb12-2b0f-40d4-bc46-95be26425c29",
+			"663384f2-ba20-48b0-bee3-e589ce3d258b"
+		]
+	}
 }
