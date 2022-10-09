@@ -10060,12 +10060,14 @@
 		"version": 0
 	},
 	"0d286e92-3c66-4dd4-b3a6-66b9db156498": {
-		"description": "This Mod adds Vanilla Buttons with Numbers 0-9, Letters A-Z and some special characters on them.",
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This Mod adds Vanilla Buttons with Numbers 0-9, Letters A-Z and some special characters on them.\r\n\r\nNOTE - As I am currently working on my ACM/Advanced Challenge Mode project, I will only update the mod if it becomes broken somehow.\r\nFor more information about ACM, feel free to join the Discord server: https://discord.gg/2eACct5FDm",
 		"fileId": 2498098616,
 		"localId": "0d286e92-3c66-4dd4-b3a6-66b9db156498",
 		"name": "More Buttons",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"3dc739a7-0e2b-484f-92d3-9be969fdb510": {
 		"description": "DK Modpack!!!",
