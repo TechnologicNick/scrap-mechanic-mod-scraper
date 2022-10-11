@@ -26346,7 +26346,7 @@
 	"5519ca33-3719-4cb2-993c-c6c92e3196ec": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1] IndustrialScrap(CustomGame)\r\n\r\n[b] An industry mod for survival\r\n[u]Contents:\r\n[list]\r\n[*]Metals\r\n[*]Materials\r\n[*]Wheat\r\n[*]usable crates\r\n[*]Nuclear\r\n[*]Electricity\r\n[*]Natural disasters\r\n[*]Milkin Wocs!\r\n[/list]\r\n[/u]\r\n[b]trello list for later stuff:  https://trello.com/b/Ta3qh62k/fcmod\r\n\r\nDC:Link [url]https://discord.gg/F2gUbr63MY[/b][/url]\r\n\r\n__________________________________________\r\n\r\n",
+		"description": "[h1] IndustrialScrap(CustomGame)\n\n[b] An industry mod for survival\n[u]Contents:\n[list]\n[*]Metals\n[*]Materials\n[*]Wheat\n[*]usable crates\n[*]Nuclear\n[*]Electricity\n[*]Natural disasters\n[*]Milkin Wocs!\n[*]Money\n[*]Skills\n[/list]\n[/u]\n[b]trello list for later stuff:  https://trello.com/b/Ta3qh62k/fcmod\n\nDC:Link [url]https://discord.gg/F2gUbr63MY[/b][/url]\n\n__________________________________________\n\n",
 		"fileId": 2867446377,
 		"localId": "5519ca33-3719-4cb2-993c-c6c92e3196ec",
 		"name": "IndustrialScrap [CustomGame]",
@@ -26400,6 +26400,27 @@
 		"fileId": 2872524657,
 		"localId": "7e0ae93f-c1e9-436b-a1c2-610179062784",
 		"name": "interior blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"0403b03a-3183-4c19-8c07-1d9fda9e37f4": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This is a remake of the original friction blocks mod in which I can update, because of updates and changing computers I can no longer update the original",
+		"fileId": 2872518306,
+		"localId": "0403b03a-3183-4c19-8c07-1d9fda9e37f4",
+		"name": "Friction Blocks Updated",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"42702d25-f6c6-4146-b0fb-4a36b2ddc537": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "Helm's totally epic block pack",
+		"fileId": 2873718222,
+		"localId": "42702d25-f6c6-4146-b0fb-4a36b2ddc537",
+		"name": "helm's custom blocks",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
