@@ -53435,5 +53435,19 @@
 		"$CONTENT_8cb6177c-c867-4273-9ba8-5cbc5fc0795a/Objects/Database/ShapeSets/balls.shapeset": [
 			"c1024f75-fab0-444b-b1cf-034a59258d40"
 		]
+	},
+	"f255f376-65c0-481b-ab35-ce3827fde287": {
+		"$CONTENT_f255f376-65c0-481b-ab35-ce3827fde287/Objects/Database/ShapeSets/example.shapeset": [
+			"983166eb-9439-4d38-9d13-a5f2c25d15eb",
+			"9c4fadc7-52b5-4c63-abdc-31f0cd03a411",
+			"56e72452-1407-4b5f-b3a1-d182b72b0559"
+		]
+	},
+	"7923f928-6c3c-4af7-a6c5-90ce27a753e7": {
+		"$CONTENT_7923f928-6c3c-4af7-a6c5-90ce27a753e7/Objects/Database/ShapeSets/example.shapeset": [
+			"621bc4d4-df90-4ce9-af70-5c61b9413ceb",
+			"4a622219-a1bf-46b0-8984-e4cb86fd2b5e",
+			"4cc01242-3b97-404c-b920-3f7eea3ed762"
+		]
 	}
 }
