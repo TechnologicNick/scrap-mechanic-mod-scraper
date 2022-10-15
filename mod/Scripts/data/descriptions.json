@@ -13401,7 +13401,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "This mod is an extension of the Modpack for Survival. \r\n\r\nYou can play with it in creative mod or in Custom game (mods which enable Custom recipes) like the \"Custom Crafting Recipes\" or the \"Raft Mechanic\" mod.\r\n\r\nIt adds : \r\n - A Time Block\r\n - An Item Detector\r\n - A lot of pipes junctions\r\n - An Incinerator that create batteries\r\n - And a lot more incoming\r\n\r\nDon't forget this mod is still in active devlopment and this is my first mod. \r\n\r\nFor any request, ideas, bug issues or advices, please contact me on Discord \"ClashofCraft972 #6931\"\r\nAnd don't forget to like and put this mod in favourite ;)",
+		"description": "\r\n\r\nThis mod is an extension of the Modpack for Survival. \r\n\r\nYou can play with it in creative mod or in Custom game (mods which enable Custom recipes) like the \"Custom Crafting Recipes\" or the \"Raft Mechanic\" mod.\r\n\r\nIt adds : \r\n - A Time Block\r\n - An Item Detector\r\n - A lot of pipes junctions\r\n - An Incinerator that create batteries\r\n - And a lot more incoming\r\n\r\nDon't forget this mod is still in active devlopment and this is my first mod. \r\n\r\nFor any request, ideas, bug issues or advices, please contact me on Discord \"ClashofCraft972 #6931\"\r\nAnd don't forget to like and put this mod in favourite ;)",
 		"fileId": 2821299827,
 		"localId": "be4f1099-5250-487f-be31-d923242f2e56",
 		"name": "The Modpack : Survival edition (WIP)",
@@ -26463,5 +26463,35 @@
 		"name": "P.D.P.Z.P",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"ea87ca8a-608b-4d48-87ad-c70942983f98": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "My Blocks :D",
+		"fileId": 2830179695,
+		"localId": "ea87ca8a-608b-4d48-87ad-c70942983f98",
+		"name": "Elliot,s Blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"97fea750-1f4e-4130-94fb-05b1d9bce4ff": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "UnknownUnit's Arsenal\r\nInclude:\r\n-Craftable Circuit Boards and Component Kits\r\n-Chem Spud Gun and Ammo\r\n-More Trading Deals\r\n\r\nDependencies:\r\n-ModDatabase (By TechnologicNick and The Guild)[https://steamcommunity.com/sharedfiles/filedetails/?id=2504530003]\r\n\r\nBig up to:\r\n-TechnologicNick and The Guild for creating ModDatabase\r\n-QuestionableM for creating Modded Craftbot Recipes [https://github.com/QuestionableM/Modded-Craftbot-Recipes]",
+		"fileId": 2875099653,
+		"localId": "97fea750-1f4e-4130-94fb-05b1d9bce4ff",
+		"name": "UnknownUnitsArsenal",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"fa44ebc5-7131-4a58-aa24-6f2fb86f2084": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Test mod to mess with my friend",
+		"fileId": 2875277072,
+		"localId": "fa44ebc5-7131-4a58-aa24-6f2fb86f2084",
+		"name": "sweetroll trollinator 9000",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
