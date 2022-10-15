@@ -48223,19 +48223,6 @@
 		"$CONTENT_698886ad-d8d7-4e64-8dad-3b523a953e08/Objects/Database/ShapeSets/example.shapeset": []
 	},
 	"4419aa3f-d8ce-4fce-b450-92da767a9628": {
-		"$CONTENT_4419aa3f-d8ce-4fce-b450-92da767a9628/Objects/Database/ShapeSets/hideout_trader.shapeset": [
-			"614c3193-13da-40f4-9b03-37f26e760fd6"
-		],
-		"$CONTENT_4419aa3f-d8ce-4fce-b450-92da767a9628/Objects/Database/ShapeSets/craftbot.shapeset": [
-			"b63c6440-dfc2-4da7-acdb-3c385080b2e4",
-			"b7571f6f-9d53-44ba-99d2-3b4f05e6fd0f",
-			"1c83675f-7c77-4cbb-875b-79d4bd46100d",
-			"c69a7855-d915-4784-af81-d0a8849e458f",
-			"4fcb4cb8-7623-11ea-bc55-0242ac130003"
-		],
-		"$CONTENT_4419aa3f-d8ce-4fce-b450-92da767a9628/Objects/Database/ShapeSets/workbench.shapeset": [
-			"2ff2b13f-5a50-443c-bbda-1f40f6aa917f"
-		],
 		"$CONTENT_4419aa3f-d8ce-4fce-b450-92da767a9628/Objects/Database/ShapeSets/chemammo.shapeset": [
 			"f60de4ca-4e98-4df4-805e-89d24ee9653f"
 		]
@@ -53505,6 +53492,21 @@
 	"fa44ebc5-7131-4a58-aa24-6f2fb86f2084": {
 		"$CONTENT_fa44ebc5-7131-4a58-aa24-6f2fb86f2084/Objects/Database/ShapeSets/example.shapeset": [
 			"43fd378d-9700-4636-a4b0-cc6ab8e02be1"
+		]
+	},
+	"5c17c1c8-2c1d-4559-b05b-db6a345896f8": {
+		"$CONTENT_5c17c1c8-2c1d-4559-b05b-db6a345896f8/Objects/Database/ShapeSets/example.shapeset": [
+			"019b39fb-bf59-4a45-977f-9df6ff34268b",
+			"e36d3355-4567-4e0c-9bcd-46e14d2953cd",
+			"e4e603a6-8573-444e-bf08-75185ae26ae1",
+			"4f92ee3d-d1d5-4295-93a7-564ba14be41b",
+			"027678d8-08e0-4456-9cd0-58109a812926",
+			"49de45b8-bd2f-4d4f-8cf2-169815c0cbf5",
+			"8169d0c7-1b07-49f9-8b4a-521fd9715b7d",
+			"71b19734-39e3-47bb-b548-0de53af24909",
+			"e805b9fe-31f7-4282-b4e3-f9cf03b48070",
+			"db2446dc-cec7-4732-ac08-c5597db30e02",
+			"4c1c730b-9084-4715-acce-fceed0597837"
 		]
 	}
 }
