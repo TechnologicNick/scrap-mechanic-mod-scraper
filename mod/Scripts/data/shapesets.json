@@ -53508,5 +53508,13 @@
 			"db2446dc-cec7-4732-ac08-c5597db30e02",
 			"4c1c730b-9084-4715-acce-fceed0597837"
 		]
+	},
+	"ddefd882-5078-4f14-bcc2-030075103778": {
+		"$CONTENT_ddefd882-5078-4f14-bcc2-030075103778/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"e997c233-6957-4bda-af80-0065a0b09912": {
+		"$CONTENT_e997c233-6957-4bda-af80-0065a0b09912/Objects/Database/ShapeSets/example.shapeset": [
+			"4148a9a7-34f7-4778-87e1-e22752c43035"
+		]
 	}
 }
