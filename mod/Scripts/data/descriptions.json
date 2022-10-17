@@ -26567,5 +26567,15 @@
 		"name": "Class A4 Steam Locomotive",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"361605e2-184e-466d-9642-49e8c30b0bc6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "you spawn in with 100000 inventory spaces",
+		"fileId": 2876376680,
+		"localId": "361605e2-184e-466d-9642-49e8c30b0bc6",
+		"name": "inf stoage space survival",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
