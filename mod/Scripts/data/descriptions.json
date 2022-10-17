@@ -12001,12 +12001,14 @@
 		"version": 0
 	},
 	"f276b18d-28ba-4391-b87a-33d04c0a91e4": {
-		"description": "Adds different durable polygons",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[b]Adds different armoured polygons to the game so you can make your tanks look decent while remaining durable[/b]\r\n\r\n[b][url=https://discord.gg/p59xMWnUAh]Join my discord server![/url][/b]\r\n\r\n[img]https://imgur.com/AemqzlV.png[/img]\r\n\r\n[strike]Yes I know thered draggable wedges coming soon its not the same[/strike]\r\n\r\nIf you need [i]that[/i] exact polygon that is not present in the mod and you need it in your build you might suggest it in the discussions and if there be... lets say 5 other people who need it too Ill add it.\r\n\r\n[img]https://imgur.com/apCuK32.png[/img]\r\n[img]https://imgur.com/YWTvuB6.png[/img]\r\n",
 		"fileId": 2777667288,
 		"localId": "f276b18d-28ba-4391-b87a-33d04c0a91e4",
 		"name": "HM's Armoured Polygons",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"1a19f80b-a0e9-4be5-8859-16242217ed05": {
 		"description": "Adds More Blocks To The Base Game",
@@ -26509,7 +26511,7 @@
 	"5c17c1c8-2c1d-4559-b05b-db6a345896f8": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "VTTM 1.0 kot train wheels 81-717/714\n\nVTTM 1.1 81-718/719\n\nVTTM 1.1.1 fix front",
 		"fileId": 2869548799,
 		"localId": "5c17c1c8-2c1d-4559-b05b-db6a345896f8",
 		"name": "Voxel tram trains mod",
@@ -26533,6 +26535,36 @@
 		"fileId": 2875704640,
 		"localId": "e997c233-6957-4bda-af80-0065a0b09912",
 		"name": "yeetsauce",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"5ec77cab-f8a9-4ee8-90ae-40bba50fe567": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Gamemode na potrzeby projektu SKW",
+		"fileId": 2875135203,
+		"localId": "5ec77cab-f8a9-4ee8-90ae-40bba50fe567",
+		"name": "SKW Gamemode",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"f4eb47ba-a6c1-4dfe-b6b3-e8b215d75300": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "idk   ",
+		"fileId": 2876232154,
+		"localId": "f4eb47ba-a6c1-4dfe-b6b3-e8b215d75300",
+		"name": "Parts I Guess",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"ed22ec5f-0b43-4065-8c0e-4e13929d39df": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "LNER Gresley A4, 4-6-2 Steam Locomotive\r\n\r\nThis MOD is currenlty a work in progress, some parts are likely to change as I continue to improve the model.",
+		"fileId": 2876247014,
+		"localId": "ed22ec5f-0b43-4065-8c0e-4e13929d39df",
+		"name": "Class A4 Steam Locomotive",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
