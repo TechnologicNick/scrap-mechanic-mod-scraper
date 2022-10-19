@@ -26579,5 +26579,25 @@
 		"name": "inf stoage space survival",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"b95d6824-dbd6-4fc6-a53a-fac9bff29b76": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2877008338,
+		"localId": "b95d6824-dbd6-4fc6-a53a-fac9bff29b76",
+		"name": "Office parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"3883e7e9-9073-4258-a916-60d9c783f6e5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Vanilla Survival but has Creative Lift",
+		"fileId": 2877095279,
+		"localId": "3883e7e9-9073-4258-a916-60d9c783f6e5",
+		"name": "Creative Lift Only",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
