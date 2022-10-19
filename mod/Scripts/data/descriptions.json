@@ -4660,12 +4660,14 @@
 		"type": "Blocks and Parts"
 	},
 	"6b8007ad-e076-4acb-8b55-c0bf8d45e6b1": {
-		"description": "[h1][b]The Modpack WEAPONS[/b][/h1]\nThis is the Modpack WEAPONS and contains EXPLOSIVE and EXPERIMENTAL weapons. Flamethrower! Grenadelauncher! And more!\nExplode stuff and play warfare with the latest in weapon technology!\n\nParts from this mod currently include weapons you might find in The Modpack and The Modpack Beta, but more is planned soon!\n\n- Weekly updates!\n- Improved algorithms! Fire and other libraries!\n- Super Experimental weapons! Force field! Carpet Bomber! PaintBomb! And More!(Don't be afraid to suggest ANYTHING!)\n\n[b]Update 21/02/2020:[/b] better fire physics and a water gun!\n[b]Update 28/02/2020:[/b] napalm bomb and a napalm bomb launcher!\n[b]Update 01/03/2020:[/b] big water cannon and smoke detector!\n[b]Update 09/03/2020:[/b] balloon launcher, fire & water bug fixes and even better performance, smoke detector custom number range!\n\nCreated by:\n[b][url=https://www.youtube.com/c/brentbatch]Brent Batch[/url], Durf, Lord Pain, MJM, TechnologicNick, TonyGamer[/b], Grego, Shinevision\n\nLike the mods?\n[img]https://i.imgur.com/p7Fv1Z6.gif[/img]\nDon't forget to leave a thumbs up!\n",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h1][b]The Modpack WEAPONS[/b][/h1]\nThis is the Modpack WEAPONS and contains EXPLOSIVE and EXPERIMENTAL weapons. Flamethrower! Grenadelauncher! And more!\nExplode stuff and play warfare with the latest in weapon technology!\n\nParts from this mod currently include weapons you might find in The Modpack and The Modpack Beta, but more is planned soon!\n\n- Weekly updates!\n- Improved algorithms! Fire and other libraries!\n- Super Experimental weapons! Force field! Carpet Bomber! PaintBomb! And More!(Don't be afraid to suggest ANYTHING!)\n\n[b]Update 21/02/2020:[/b] better fire physics and a water gun!\n[b]Update 28/02/2020:[/b] napalm bomb and a napalm bomb launcher!\n[b]Update 01/03/2020:[/b] big water cannon and smoke detector!\n[b]Update 09/03/2020:[/b] balloon launcher, fire & water bug fixes and even better performance, smoke detector custom number range!\n[b]Update 06/05/2021:[/b] fixed everything!\n[b]Update 18/10/2022:[/b] code crash fixes, lavaball, skull fix particle issues (by: [url=https://steamcommunity.com/id/Vajdani/]Vajdani[url] ([url=https://github.com/Vajdani]github[url]) and [url=https://steamcommunity.com/id/QuestionMarko/]QuestionMark[url] ([url=https://github.com/QuestionableM]github[url]))\n\nWant to contribute, got a fix or want to add a missing feature yourself?\n[url=https://github.com/SMTheGuild/The-Modpack-Weapons]Create a fork from the official github repository and make your pull request![url]\n\nOriginally created by:\n[b][url=https://www.youtube.com/c/brentbatch]Brent Batch[/url], Durf, Lord Pain, MJM, TechnologicNick, TonyGamer[/b], Grego, Shinevision\n\nLike the mods?\n[img]https://i.imgur.com/p7Fv1Z6.gif[/img]\nDon't forget to leave a thumbs up!\n",
 		"fileId": 1995094956,
 		"localId": "6b8007ad-e076-4acb-8b55-c0bf8d45e6b1",
 		"name": "The Modpack Weapons",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"1b021526-3083-432f-b7d0-89daf406d3e6": {
 		"description": "This mod doesn't have a description",
