@@ -52320,7 +52320,8 @@
 			"1be9b4bc-d992-4f92-b47a-be31d2d0c7d8",
 			"d04fa673-1c52-4a6c-a57a-df09a68de6d2",
 			"5133decc-7881-4d2e-a8fa-afd061bea61b",
-			"b0d6aff7-e72d-43ad-a655-1026237ef52a"
+			"b0d6aff7-e72d-43ad-a655-1026237ef52a",
+			"7649f680-0af9-4316-8726-a9b017f45456"
 		],
 		"$CONTENT_6a2e9817-686e-4373-8c32-4d4b9add6549/Objects/Database/ShapeSets/bombs.json": [
 			"789fb7f6-a8d7-4375-9ce7-5b9d417f0840",
@@ -52404,7 +52405,8 @@
 			"9cb14dc0-3686-40c4-823d-60677f7a8849",
 			"78db30da-8698-42ec-890f-2684b245db42",
 			"dbf44c54-08a1-4033-ba46-4930252834cd",
-			"b705d0f2-b9d7-4e57-b59a-263af613fe33"
+			"b705d0f2-b9d7-4e57-b59a-263af613fe33",
+			"334fbd4d-2189-4e47-b1a8-62259d0c2c16"
 		],
 		"$CONTENT_6a2e9817-686e-4373-8c32-4d4b9add6549/Objects/Database/ShapeSets/radiationBlocks.json": [
 			"1dd2b2b8-bbab-40d5-9fa3-21b65bba5611",
@@ -53644,5 +53646,10 @@
 			"a5e482fa-c050-4ed6-af3b-b8c57db171a8"
 		]
 	},
-	"3883e7e9-9073-4258-a916-60d9c783f6e5": {}
+	"3883e7e9-9073-4258-a916-60d9c783f6e5": {},
+	"a28c9184-009d-4dfe-a40b-f9944f91f98f": {
+		"$CONTENT_a28c9184-009d-4dfe-a40b-f9944f91f98f/Objects/Database/ShapeSets/example.shapeset": [
+			"8ec1c98f-1def-4861-9ddb-4f6a6a941b26"
+		]
+	}
 }
