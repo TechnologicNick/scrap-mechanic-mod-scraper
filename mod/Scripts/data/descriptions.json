@@ -26355,7 +26355,7 @@
 	"5519ca33-3719-4cb2-993c-c6c92e3196ec": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1] IndustrialScrap(CustomGame)\n\n[b] An industry mod for survival\n[u]Contents:\n[list]\n[*]Metals\n[*]Materials\n[*]Wheat\n[*]usable crates\n[*]Nuclear\n[*]Electricity\n[*]Natural disasters\n[*]Milkin Wocs!\n[*]Money\n[*]Skills\n[/list]\n[/u]\n[b]trello list for later stuff:  https://trello.com/b/Ta3qh62k/fcmod\n\nDC:Link [url]https://discord.gg/F2gUbr63MY[/b][/url]\n\n__________________________________________\n\n",
+		"description": "[h1] IndustrialScrap(CustomGame)\n\n[b] An industry mod for survival\n[u]Contents:\n[list]\n[*]Metals\n[*]Materials\n[*]Wheat\n[*]usable crates\n[*]Nuclear\n[*]Electricity\n[*]Natural disasters\n[*]Milkin Wocs!\n[*]Money\n[*]Skills\n[*]Bigger Map\n[/list]\n[/u]\n[b]trello list for later stuff:  https://trello.com/b/Ta3qh62k/fcmod\n\nDC:Link [url]https://discord.gg/F2gUbr63MY[/b][/url]\n\n__________________________________________\n\n",
 		"fileId": 2867446377,
 		"localId": "5519ca33-3719-4cb2-993c-c6c92e3196ec",
 		"name": "IndustrialScrap [CustomGame]",
@@ -26513,7 +26513,7 @@
 	"5c17c1c8-2c1d-4559-b05b-db6a345896f8": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "VTTM 1.0 kot train wheels 81-717/714\n\nVTTM 1.1 81-718/719\n\nVTTM 1.1.1 fix front",
+		"description": "VTTM 1.0 kot train wheels 81-717/714\n\nVTTM 1.1 81-718/719\n\nVTTM 1.1.1 fix front\n\nVTTM 1.2 model update ",
 		"fileId": 2869548799,
 		"localId": "5c17c1c8-2c1d-4559-b05b-db6a345896f8",
 		"name": "Voxel tram trains mod",
@@ -26613,7 +26613,7 @@
 	"0473c5c6-b676-4155-a68f-3386011e762c": {
 		"allow_add_mods": false,
 		"custom_icons": true,
-		"description": "[h1] Bomber Mechanic  v1.0 [/h1]\nThis Mod is Based on Bombermen. \n\nIts a Round Based Deathmatch.\nEach Round is 90 seconds until only 1 is Alive.\nA New Round Starts after 7 seconds Automaticly.\n\nWeapons: \n-Bomb\n\nPowerUp: \n-Bomb Amount to place\n-Bomb Explosion Size\n\n[h1]The Mod is still Work in Progress.\nMore Powerups and Maps will be made and added over time. [/h1]\n\nSo Check Allways for Updates ;)\n\nHave Fun and Enjoy!\n\nMod made by 00Fant\n\n( no permission to you anything out of this mod in other mods )",
+		"description": "[h1] Bomber Mechanic  v1.3 [/h1]\r\nThis Mod is Based on Bombermen. \r\n\r\nIts a Round Based Deathmatch.\r\nEach Round is 90 seconds until only 1 is Alive.\r\nA New Round Starts after 7 seconds Automaticly.\r\n\r\nWeapons: \r\n-Bomb\r\n\r\nPowerUp: \r\n-Bomb Amount to place\r\n-Bomb Explosion Size\r\n\r\nMap:\r\n-Walls\r\n-Floors\r\n-Breakable Walls\r\n\r\n[h1]The Mod is still Work in Progress.\r\nMore Powerups and Maps will be made and added over time. [/h1]\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nSo Check Allways for Updates ;)\r\n\r\nHave Fun and Enjoy!\r\n\r\nMod made by 00Fant\r\n\r\n( no permission to you anything out of this mod in other mods )",
 		"fileId": 2877514137,
 		"localId": "0473c5c6-b676-4155-a68f-3386011e762c",
 		"name": "Bomber Mechanic",

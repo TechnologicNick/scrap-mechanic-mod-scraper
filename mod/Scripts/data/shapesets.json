@@ -53568,7 +53568,8 @@
 			"4c1c730b-9084-4715-acce-fceed0597837",
 			"3f95b92b-bb8d-4728-a17e-68924c46be5b",
 			"620b50c6-d5b9-4b99-97e6-dc6ea385c35d",
-			"b522afb7-17eb-4c39-94ec-36cc3a7e22cf"
+			"b522afb7-17eb-4c39-94ec-36cc3a7e22cf",
+			"6715c33c-106f-4452-9ffb-d049048d644d"
 		]
 	},
 	"ddefd882-5078-4f14-bcc2-030075103778": {
@@ -53701,7 +53702,10 @@
 		"$CONTENT_0473c5c6-b676-4155-a68f-3386011e762c/Objects/Database/ShapeSets/bombermechanic.shapeset": [
 			"a4af1e28-9280-44f5-9769-aad5ef8c4e5f",
 			"543bec80-970a-4549-9163-f93e3ab055e5",
-			"7a0f485f-a5b0-4849-a375-f899e99a37e8"
+			"7a0f485f-a5b0-4849-a375-f899e99a37e8",
+			"7bfac127-ebc6-4b41-a342-729c1db12694",
+			"54274956-bcf8-45e9-9125-5b6c035f1067",
+			"19f86972-5741-4727-8f92-0e66c0d9f23e"
 		]
 	}
 }
