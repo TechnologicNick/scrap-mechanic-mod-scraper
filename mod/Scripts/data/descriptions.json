@@ -16423,7 +16423,7 @@
 		"version": 1
 	},
 	"a1ffb374-c7e4-4ad2-817a-28d717547d96": {
-		"allow_add_mods": true,
+		"allow_add_mods": false,
 		"custom_icons": false,
 		"description": "This is a game bro",
 		"fileId": 2845987832,
@@ -26513,7 +26513,7 @@
 	"5c17c1c8-2c1d-4559-b05b-db6a345896f8": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "VTTM 1.0 kot train wheels 81-717/714\n\nVTTM 1.1 81-718/719\n\nVTTM 1.1.1 fix front\n\nVTTM 1.2 model update \n\nVTTM 1.2.1 doors update",
+		"description": "VTTM 1.0 kot train wheels 81-717/714\n\nVTTM 1.1 81-718/719\n\nVTTM 1.1.1 fix front\n\nVTTM 1.2 model update \n\nVTTM 1.2.1 doors update\n\nVTTM 1.2.2 doors fix",
 		"fileId": 2869548799,
 		"localId": "5c17c1c8-2c1d-4559-b05b-db6a345896f8",
 		"name": "Voxel tram trains mod",
