@@ -26513,7 +26513,7 @@
 	"5c17c1c8-2c1d-4559-b05b-db6a345896f8": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "VTTM 1.0 kot train wheels 81-717/714\n\nVTTM 1.1 81-718/719\n\nVTTM 1.1.1 fix front\n\nVTTM 1.2 model update ",
+		"description": "VTTM 1.0 kot train wheels 81-717/714\n\nVTTM 1.1 81-718/719\n\nVTTM 1.1.1 fix front\n\nVTTM 1.2 model update \n\nVTTM 1.2.1 doors update",
 		"fileId": 2869548799,
 		"localId": "5c17c1c8-2c1d-4559-b05b-db6a345896f8",
 		"name": "Voxel tram trains mod",
@@ -26613,7 +26613,7 @@
 	"0473c5c6-b676-4155-a68f-3386011e762c": {
 		"allow_add_mods": false,
 		"custom_icons": true,
-		"description": "[h1] Bomber Mechanic  v1.3 [/h1]\r\nThis Mod is Based on Bombermen. \r\n\r\nIts a Round Based Deathmatch.\r\nEach Round is 90 seconds until only 1 is Alive.\r\nA New Round Starts after 7 seconds Automaticly.\r\n\r\nWeapons: \r\n-Bomb\r\n\r\nPowerUp: \r\n-Bomb Amount to place\r\n-Bomb Explosion Size\r\n\r\nMap:\r\n-Walls\r\n-Floors\r\n-Breakable Walls\r\n\r\n[h1]The Mod is still Work in Progress.\r\nMore Powerups and Maps will be made and added over time. [/h1]\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nSo Check Allways for Updates ;)\r\n\r\nHave Fun and Enjoy!\r\n\r\nMod made by 00Fant\r\n\r\n( no permission to you anything out of this mod in other mods )",
+		"description": "[h1] Bomber Mechanic [/h1]\r\nThis Mod is Based on Bombermen. \r\n\r\nIts a Round Based Deathmatch.\r\nEach Round is 90 seconds until only 1 is Alive.\r\nA New Round Starts after 7 seconds Automaticly.\r\n\r\nWeapons: \r\n-Bomb\r\n\r\nPowerUp: \r\n-Bomb Amount to place\r\n-Bomb Explosion Size\r\n\r\nMap:\r\n-Walls\r\n-Floors\r\n-Breakable Walls\r\n\r\n[h1]The Mod is still Work in Progress.\r\nMore Powerups and Maps will be made and added over time. [/h1]\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nSo Check Allways for Updates ;)\r\n\r\nHave Fun and Enjoy!\r\n\r\nMod made by 00Fant\r\n\r\n( no permission to you anything out of this mod in other mods )",
 		"fileId": 2877514137,
 		"localId": "0473c5c6-b676-4155-a68f-3386011e762c",
 		"name": "Bomber Mechanic",
