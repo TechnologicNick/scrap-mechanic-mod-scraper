@@ -26619,5 +26619,15 @@
 		"name": "Bomber Mechanic",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"b3b0ae5c-17d4-4290-9a53-67c45d9750bf": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "CravatClan Block Pack 1",
+		"fileId": 2878601790,
+		"localId": "b3b0ae5c-17d4-4290-9a53-67c45d9750bf",
+		"name": "CravatClan Block Pack 1",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
