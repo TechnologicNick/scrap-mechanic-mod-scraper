@@ -53753,5 +53753,11 @@
 		"$CONTENT_dad53f41-dbf5-4d12-a8fd-a7d05ec46946/Objects/Database/ShapeSets/example.shapeset": [
 			"64ed225d-e4ff-4877-a8b4-2e39c2a72291"
 		]
+	},
+	"4038fac5-a55f-4748-bf4f-2dcd81f6b3f6": {
+		"$CONTENT_4038fac5-a55f-4748-bf4f-2dcd81f6b3f6/Objects/Database/ShapeSets/example.shapeset": [
+			"e08882cc-ae97-4923-bd0f-db16b8c0ec7b",
+			"4dca6956-f6c5-49b5-aea8-814260d346fc"
+		]
 	}
 }
