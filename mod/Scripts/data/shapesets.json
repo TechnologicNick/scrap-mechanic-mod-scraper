@@ -52250,7 +52250,7 @@
 		]
 	},
 	"8420a7ba-2462-41ac-966e-da6cc84fb899": {
-		"$CONTENT_8420a7ba-2462-41ac-966e-da6cc84fb899/Objects/Database/ShapeSets/example.shapeset": [
+		"$CONTENT_8420a7ba-2462-41ac-966e-da6cc84fb899/Objects/Database/ShapeSets/example.json": [
 			"714f7e5c-296a-11ed-a261-0242ac120002",
 			"7e40d2be-296a-11ed-a261-0242ac120002",
 			"87acf774-296a-11ed-a261-0242ac120002",
@@ -53747,6 +53747,11 @@
 			"087a55b9-d672-4070-9e47-451cb2ca01ea",
 			"a288bc9d-3886-48a0-a8b9-2983f103873d",
 			"e7a8202b-56a8-4b8b-a011-b2b2256c09e8"
+		]
+	},
+	"dad53f41-dbf5-4d12-a8fd-a7d05ec46946": {
+		"$CONTENT_dad53f41-dbf5-4d12-a8fd-a7d05ec46946/Objects/Database/ShapeSets/example.shapeset": [
+			"64ed225d-e4ff-4877-a8b4-2e39c2a72291"
 		]
 	}
 }
