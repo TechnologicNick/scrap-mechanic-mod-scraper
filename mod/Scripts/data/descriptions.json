@@ -26690,5 +26690,14 @@
 		"name": "new tiles",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"b6aae82e-ce35-49ef-b01f-ce916c29f0b6": {
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2880649537,
+		"localId": "b6aae82e-ce35-49ef-b01f-ce916c29f0b6",
+		"name": "Cursed Scrap Mechanic",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
