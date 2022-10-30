@@ -42405,7 +42405,9 @@
 			"9b8f2abd-265c-4750-b8b9-fe6cb564633c",
 			"bf7b6484-8b8b-4846-8110-c5d9f0b9ada7",
 			"7479ff7f-37fc-4304-93e9-aad7891c29f2",
-			"5939f460-ab6c-48f2-9d07-a66845ce8cf2"
+			"5939f460-ab6c-48f2-9d07-a66845ce8cf2",
+			"87d7c020-8593-4b34-98fe-fa779b30b964",
+			"97e273a2-3bf6-11eb-adc1-0242ac120002"
 		]
 	},
 	"88cad533-ae50-4ead-b07f-48158071b146": {
@@ -53797,5 +53799,10 @@
 	},
 	"9b6c9fcb-10e7-4daf-a144-9ff2dd886de7": {
 		"$CONTENT_9b6c9fcb-10e7-4daf-a144-9ff2dd886de7/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"e413991a-235a-47ee-940e-09b2fee44037": {
+		"$CONTENT_e413991a-235a-47ee-940e-09b2fee44037/Objects/Database/ShapeSets/audioplayer.json": [
+			"6c254452-23cc-43cf-8262-f05d750ddc2d"
+		]
 	}
 }
