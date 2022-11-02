@@ -53863,7 +53863,15 @@
 	},
 	"42b246a4-6bbd-4eac-ab1b-385bab234c58": {
 		"$CONTENT_42b246a4-6bbd-4eac-ab1b-385bab234c58/Objects/Database/ShapeSets/example.shapeset": [
+			"401fb2ce-dea1-4ee8-9ceb-468e1148e2f8",
 			"c583c4cf-2e51-479f-b043-3e24e7682673"
+		]
+	},
+	"2ceefd59-dd0e-41f2-8903-1ccb972c380b": {
+		"$CONTENT_2ceefd59-dd0e-41f2-8903-1ccb972c380b/Objects/Database/ShapeSets/example.shapeset": [
+			"560d2b31-2261-48cf-a7f9-7a25aa900f89",
+			"5aa161ee-ec66-4fd4-b8c3-5c9d442cb2d4",
+			"e63fc280-1922-462c-bba6-35fa4e14f5a4"
 		]
 	}
 }
