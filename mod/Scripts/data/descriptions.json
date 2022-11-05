@@ -26769,5 +26769,25 @@
 		"name": "wad,",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"a5b19abe-564a-4eb4-aa5f-0715d1e5d42c": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "tis ICE",
+		"fileId": 2884497046,
+		"localId": "a5b19abe-564a-4eb4-aa5f-0715d1e5d42c",
+		"name": "ice mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"8b76a3bd-f07a-4e57-a80e-0a8b4019245a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "BOING BOING\nblocks can bounce on the slime\nand slime can bounce on its own!!!!!",
+		"fileId": 2884521417,
+		"localId": "8b76a3bd-f07a-4e57-a80e-0a8b4019245a",
+		"name": "slime block",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

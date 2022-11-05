@@ -53877,5 +53877,15 @@
 	"53146b7c-d6c5-4d2c-805d-ba3746a3a779": {
 		"$CONTENT_53146b7c-d6c5-4d2c-805d-ba3746a3a779/Objects/Database/ShapeSets/blocks.json": [],
 		"$CONTENT_53146b7c-d6c5-4d2c-805d-ba3746a3a779/Objects/Database/ShapeSets/parts.json": []
+	},
+	"a5b19abe-564a-4eb4-aa5f-0715d1e5d42c": {
+		"$CONTENT_a5b19abe-564a-4eb4-aa5f-0715d1e5d42c/Objects/Database/ShapeSets/example.shapeset": [
+			"76098518-ee55-4141-8b00-023a29fd5711"
+		]
+	},
+	"8b76a3bd-f07a-4e57-a80e-0a8b4019245a": {
+		"$CONTENT_8b76a3bd-f07a-4e57-a80e-0a8b4019245a/Objects/Database/ShapeSets/example.shapeset": [
+			"7073060c-9026-4988-9d8a-6f51656dafd0"
+		]
 	}
 }
