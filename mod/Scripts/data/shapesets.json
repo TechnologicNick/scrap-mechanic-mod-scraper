@@ -53873,5 +53873,9 @@
 			"5aa161ee-ec66-4fd4-b8c3-5c9d442cb2d4",
 			"e63fc280-1922-462c-bba6-35fa4e14f5a4"
 		]
+	},
+	"53146b7c-d6c5-4d2c-805d-ba3746a3a779": {
+		"$CONTENT_53146b7c-d6c5-4d2c-805d-ba3746a3a779/Objects/Database/ShapeSets/blocks.json": [],
+		"$CONTENT_53146b7c-d6c5-4d2c-805d-ba3746a3a779/Objects/Database/ShapeSets/parts.json": []
 	}
 }
