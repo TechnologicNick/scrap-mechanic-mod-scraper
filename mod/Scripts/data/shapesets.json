@@ -11871,14 +11871,27 @@
 		]
 	},
 	"c23469a8-4caa-4fdf-96e6-8ca9feee6c61": {
-		"$CONTENT_c23469a8-4caa-4fdf-96e6-8ca9feee6c61/Objects/Database/ShapeSets/parts.json": [
+		"$CONTENT_c23469a8-4caa-4fdf-96e6-8ca9feee6c61/Objects/Database/ShapeSets/wheels_bigmodel.shapeset": [
+			"0a2782d6-b464-4be4-a7e9-c7a138ce05c0",
+			"a2fef735-c2fd-4dff-8270-f62d05457899",
 			"d880ba1e-cc68-4cd7-8b10-9b7ab66a32dc",
+			"2d7d8cc1-2052-467a-b5d4-475d1fb95646",
 			"e863dcc8-802d-4a74-82cc-de2066e5b6ce",
 			"7f20b70b-d021-45b1-a39a-94b00daddf74",
 			"21d7bc60-16af-4f73-b9fc-7de086dbf739",
 			"c1ce9b7a-c94b-4cad-99d4-1cbda98459e3",
-			"81afa1e5-eec9-4410-b55f-cf75768690b8",
-			"0a2782d6-b464-4be4-a7e9-c7a138ce05c0"
+			"81afa1e5-eec9-4410-b55f-cf75768690b8"
+		],
+		"$CONTENT_c23469a8-4caa-4fdf-96e6-8ca9feee6c61/Objects/Database/ShapeSets/wheels_smallmodel.shapeset": [
+			"3daa04bb-78d1-4f7a-ac6a-fc74391e1368",
+			"d0e383a8-f203-451f-a4fe-ef9615293694",
+			"f4b59e23-da2c-4fd2-a1df-772e4f5230be",
+			"dfd073d0-ef9d-4526-8688-3a4ab89a08d6",
+			"e45df03d-06f3-423d-b07f-39c9552e1681",
+			"f4ca7702-0fba-4b27-ba85-943be0c85153",
+			"6895c04e-efb9-4589-aa26-712121876a1e",
+			"3a2d9732-e17b-4b62-82f1-cdf6985959d6",
+			"b9d480d0-b20b-40e1-8230-36654358ab3d"
 		]
 	},
 	"a48439cf-e221-44da-a067-1c5727ffb766": {

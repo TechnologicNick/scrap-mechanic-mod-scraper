@@ -3646,12 +3646,14 @@
 		"version": 0
 	},
 	"c23469a8-4caa-4fdf-96e6-8ca9feee6c61": {
-		"description": "Wheels too big to be useful.\n\nSizes:\n31x12\n49x16\n75x28\n99x32\n127x50\n1x1 (replaces 1023x400)",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Wheels too big to be useful.\n\nSizes (Come in variants of both small and big wheel models):\n15x15\n23x9\n29x2\n31x1\n31x12\n49x16\n75x28\n99x32\n127x50",
 		"fileId": 1760190054,
 		"localId": "c23469a8-4caa-4fdf-96e6-8ca9feee6c61",
 		"name": "Unnecessarily Large Wheels",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"a48439cf-e221-44da-a067-1c5727ffb766": {
 		"description": "This mod doesn't have a descripti",
