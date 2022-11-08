@@ -26250,6 +26250,7 @@
 	"f7c241d1-8f48-4352-90e1-f734bc07fc31": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": null,
 		"description": "mod is now working :)",
 		"fileId": 2866394937,
 		"localId": "f7c241d1-8f48-4352-90e1-f734bc07fc31",
