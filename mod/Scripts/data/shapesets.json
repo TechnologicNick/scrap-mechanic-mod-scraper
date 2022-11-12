@@ -52390,7 +52390,8 @@
 		"$CONTENT_6a2e9817-686e-4373-8c32-4d4b9add6549/Objects/Database/ShapeSets/classicBombs.json": [
 			"5e5cda54-ff23-4a02-a8bd-f878596d0ec1",
 			"d890fab2-0390-4429-a3de-968f63299345",
-			"86cb4423-8a05-4d94-bf7a-be8aa5b51d56"
+			"86cb4423-8a05-4d94-bf7a-be8aa5b51d56",
+			"baa34871-e4bd-4a28-a79b-d7d917d5faa4"
 		],
 		"$CONTENT_6a2e9817-686e-4373-8c32-4d4b9add6549/Objects/Database/ShapeSets/energyparts.json": [
 			"09dd65c7-8e96-4cae-9767-55112d95b26d",
@@ -52458,7 +52459,10 @@
 			"78db30da-8698-42ec-890f-2684b245db42",
 			"dbf44c54-08a1-4033-ba46-4930252834cd",
 			"b705d0f2-b9d7-4e57-b59a-263af613fe33",
-			"334fbd4d-2189-4e47-b1a8-62259d0c2c16"
+			"334fbd4d-2189-4e47-b1a8-62259d0c2c16",
+			"a8a01387-500a-464f-81af-977644f3c172",
+			"a8a01387-500a-464f-81af-977644f3c000",
+			"0a8c25a1-6254-451b-8ed8-aa2961218426"
 		],
 		"$CONTENT_6a2e9817-686e-4373-8c32-4d4b9add6549/Objects/Database/ShapeSets/radiationBlocks.json": [
 			"1dd2b2b8-bbab-40d5-9fa3-21b65bba5611",
