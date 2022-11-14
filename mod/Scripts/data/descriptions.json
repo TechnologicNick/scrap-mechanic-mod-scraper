@@ -12041,12 +12041,12 @@
 		"version": 0
 	},
 	"710a0aa1-7479-402b-8a59-b8cda9ec2281": {
-		"description": "This mod doesn't have a description",
+		"description": "[h1] LED Matrix Display - by sehr_witziq & Questionable Mark[/h1]\r\n\r\n[b] Info:[/b]\r\nThis Mod adds functional LED Matrix Displays to your game. These are mainly made for Passenger Information Displays (PIS) on trains, busses and trams. But you can use them for anything you want. You can controll them with [u]Modpack Logic[/u] or by hand. \r\n\r\n[b] Content:[/b]\r\n● Fullblock Display\r\n● Halfblock Display\r\n● Plate Display (super thin)\r\n\r\n[b] Symbols:[/b]\r\n● General 0-9\r\n● General A-Z\r\n● Lowercase a-z\r\n● (Box A-Z\r\n● (Box 0-9\r\n● [Box] A-Z\r\n● [Box] 0-9\r\n● Box) A-Z\r\n● Box) 0-9\r\n● S1-S9\r\n● U1-U9\r\n● M1-M9\r\n● Thin 0-9\r\n● Abbreviations\r\n● Punctuations\r\n● Other Symbols\r\n\r\n[b] Known Bugs:[/b]\r\nnone\r\n\r\n[i] Tags:[/i]\r\nLED Matrix Display Dot Flipdot Light Modpack Math Logic Zug Eisenbahn Anzeige Mod",
 		"fileId": 2770849113,
 		"localId": "710a0aa1-7479-402b-8a59-b8cda9ec2281",
 		"name": "LED Matrix Display",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"a7f5e719-1555-4ddf-a0d5-b25085118521": {
 		"description": "This mod adds bult-in logic gates and bitwise operations with the modpack numbers\n\nalso adds:\nlogic gate, what change state on numberblock signal\n\neng + rus\n\nmy first mod",
@@ -26251,7 +26251,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "mod is now working :)",
+		"description": "mod is now working :)\nyou can make floating ilands using the floating block \n1.make a pillar of block\n2.weld enything to it\n3remove ohmost all of float block but leave one float block on it",
 		"fileId": 2866394937,
 		"localId": "f7c241d1-8f48-4352-90e1-f734bc07fc31",
 		"name": "b l o c k s",
@@ -26867,10 +26867,20 @@
 	"66aa5a60-f849-47f8-9525-a6e0880988d3": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Only One block for now later i will add other block for now its for a friend and me ",
+		"description": "Only 2 block for now later i will add other block for now its for a friend and me",
 		"fileId": 2887745860,
 		"localId": "66aa5a60-f849-47f8-9525-a6e0880988d3",
 		"name": "More Block & Part",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"636c9adf-a475-433a-91f5-a7f3fecd7da5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds a Paint Brush and a Canvas!\n[b]Use 6 different shapes, 40 colours, hundreds of sizes and rotations to express yourself![/b]\n\n[b]Saving the canvas on the lift will save the painting on it![/b] Spawning a painting back in might cause a bit of lag, so beware of that.\n\n[h1]Controls:[/h1]\n[list]\n[*][b]Left Click[/b]: Paint on the canvas\n[*][b]Right Click[/b]: Erase painting on canvas\n[*][b]Rotate Blocks(default: Q)[/b]: Open settings menu\n[*][b]Force Build(default: F)[/b]: Select point to draw a line from\n[*][b]Reload(default: R)[/b]: Change the canvas' colour to your selected colour\n[/list]\n\n[h1]Credits:[/h1]\n[list]\n[*][b]Vajdani[/b]: programming\n[*][b]Illumina[/b]: Paint Brush model and textures\n[/list]",
+		"fileId": 2888146001,
+		"localId": "636c9adf-a475-433a-91f5-a7f3fecd7da5",
+		"name": "Paint Brush and Canvas",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
