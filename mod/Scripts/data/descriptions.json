@@ -26883,5 +26883,26 @@
 		"name": "Paint Brush and Canvas",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"5d136007-3305-4ccf-8f6d-59d1ed32bfbf": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2886400257,
+		"localId": "5d136007-3305-4ccf-8f6d-59d1ed32bfbf",
+		"name": "Drunk Mechanic",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a4e912ba-395a-4a99-89ad-f1d3f7e6470f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "Parts i added because i couldn't find a mod including them.",
+		"fileId": 2888730307,
+		"localId": "a4e912ba-395a-4a99-89ad-f1d3f7e6470f",
+		"name": "Extra Polygons Pack",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
