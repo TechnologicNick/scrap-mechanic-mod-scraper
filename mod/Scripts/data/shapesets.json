@@ -37690,7 +37690,8 @@
 			"965f491c-0486-4b0c-9c7c-af26b9dea98c",
 			"3e0e7cc2-6c24-4610-9082-08572e385c18",
 			"03c7d26a-051d-41ad-a71b-c0fe17177fad",
-			"69e9c5d0-b99d-4074-87e7-4fc5f786965c"
+			"69e9c5d0-b99d-4074-87e7-4fc5f786965c",
+			"d27c839d-fd61-409a-81ba-7a600a4a9051"
 		],
 		"$CONTENT_d9fe4eec-1449-4a84-bf99-4478a7c6dd1c/Objects/Database/ShapeSets/interactive_shared.json": [
 			"ad35f7e6-af8f-40fa-aef4-77d827ac8a8a",
@@ -37776,7 +37777,9 @@
 			"cad0ff84-34e2-498a-8d3b-cc4a882464b5",
 			"421d4d27-4b70-49c1-b981-20c0bbb83789",
 			"c7c04571-7c3f-484e-a9f2-020e21347236",
-			"46ea02a0-a1e8-4d60-8087-ad5961849655"
+			"46ea02a0-a1e8-4d60-8087-ad5961849655",
+			"5b811ce4-7a07-43f8-849d-aafba02566cc",
+			"71ef43cd-aac3-4a98-8813-48dc8b1d0deb"
 		],
 		"$CONTENT_d9fe4eec-1449-4a84-bf99-4478a7c6dd1c/Objects/Database/ShapeSets/lights.json": [
 			"e91b0bf2-dafa-439e-a503-286e91461bb0",
