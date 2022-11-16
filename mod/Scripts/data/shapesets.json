@@ -37691,7 +37691,8 @@
 			"3e0e7cc2-6c24-4610-9082-08572e385c18",
 			"03c7d26a-051d-41ad-a71b-c0fe17177fad",
 			"69e9c5d0-b99d-4074-87e7-4fc5f786965c",
-			"d27c839d-fd61-409a-81ba-7a600a4a9051"
+			"d27c839d-fd61-409a-81ba-7a600a4a9051",
+			"7ee3fa61-bd09-4fee-93f1-edae1b3a18b2"
 		],
 		"$CONTENT_d9fe4eec-1449-4a84-bf99-4478a7c6dd1c/Objects/Database/ShapeSets/interactive_shared.json": [
 			"ad35f7e6-af8f-40fa-aef4-77d827ac8a8a",
@@ -54030,6 +54031,13 @@
 			"dc1d3778-847d-4f2e-a727-a268d43b8c6d",
 			"13578b18-bbcc-448e-81e4-6f95b1d5e1f4",
 			"8ea65968-9674-4bca-b593-926f86b7353e"
+		]
+	},
+	"1bb77134-bc45-4fdf-9883-3f840c6a22ba": {
+		"$CONTENT_1bb77134-bc45-4fdf-9883-3f840c6a22ba/Objects/Database/ShapeSets/fant_hoverpads.shapeset": [
+			"f07d26ec-1c52-4502-96fd-817f99808bd1",
+			"89a6fdf9-0a0e-4422-a637-e431d0c50c18",
+			"d7d7c053-3135-4282-8ec2-6c8e1636ad36"
 		]
 	}
 }
