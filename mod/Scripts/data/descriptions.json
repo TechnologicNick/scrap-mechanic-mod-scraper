@@ -26836,7 +26836,7 @@
 	"1ff58691-5dc0-4b41-b3fe-4490b6b544da": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod add 3 blocks:\nScrap metal 1.\nScrap metal 2..\nScrap metal 3...",
+		"description": "This mod add 3 blocks:\nScrap metal 1.\nScrap metal 2..\nScrap metal 3...\nbig shoota drum\nrotor part",
 		"fileId": 2885475590,
 		"localId": "1ff58691-5dc0-4b41-b3fe-4490b6b544da",
 		"name": "scrap blocks mod",
@@ -26914,5 +26914,13 @@
 		"name": "Fants Hoverpads",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"4649a444-621f-4595-90ba-908ae8301445": {
+		"description": "This mod contains only 1 part: x-o meter from The Modpack, all credit goes to Brent Batch and the rest of The Modpack team",
+		"fileId": 2121803790,
+		"localId": "4649a444-621f-4595-90ba-908ae8301445",
+		"name": "Advanced X-O-Meter",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }

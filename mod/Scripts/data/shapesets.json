@@ -53987,6 +53987,10 @@
 			"9239fb74-5e21-11ed-9b6a-0242ac120002",
 			"9239fe6c-5e21-11ed-9b6a-0242ac120002",
 			"923a0146-5e21-11ed-9b6a-0242ac120002"
+		],
+		"$CONTENT_1ff58691-5dc0-4b41-b3fe-4490b6b544da/Objects/Database/ShapeSets/parts.shapeset": [
+			"12dc5ac4-6606-11ed-9022-0242ac120002",
+			"43ed6e22-6611-11ed-9022-0242ac120002"
 		]
 	},
 	"2c5d55e8-eab7-4596-95a3-c327f9e2b5d2": {},
@@ -54038,6 +54042,11 @@
 			"f07d26ec-1c52-4502-96fd-817f99808bd1",
 			"89a6fdf9-0a0e-4422-a637-e431d0c50c18",
 			"d7d7c053-3135-4282-8ec2-6c8e1636ad36"
+		]
+	},
+	"4649a444-621f-4595-90ba-908ae8301445": {
+		"$CONTENT_4649a444-621f-4595-90ba-908ae8301445/Objects/Database/ShapeSets/speedometer.json": [
+			"fbb35464-3474-45b3-b760-52af33e66c79"
 		]
 	}
 }
