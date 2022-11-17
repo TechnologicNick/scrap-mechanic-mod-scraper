@@ -26916,11 +26916,13 @@
 		"version": 1
 	},
 	"4649a444-621f-4595-90ba-908ae8301445": {
+		"allow_add_mods": true,
+		"custom_icons": true,
 		"description": "This mod contains only 1 part: x-o meter from The Modpack, all credit goes to Brent Batch and the rest of The Modpack team",
 		"fileId": 2121803790,
 		"localId": "4649a444-621f-4595-90ba-908ae8301445",
 		"name": "Advanced X-O-Meter",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	}
 }
