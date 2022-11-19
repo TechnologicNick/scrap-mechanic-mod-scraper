@@ -54052,5 +54052,10 @@
 	},
 	"bc7932e1-bc7f-4595-865c-2d2f4d94a20e": {
 		"$CONTENT_bc7932e1-bc7f-4595-865c-2d2f4d94a20e/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"8aa84440-6135-4aaf-a71d-06044786ad98": {
+		"$CONTENT_8aa84440-6135-4aaf-a71d-06044786ad98/Objects/Database/ShapeSets/example.shapeset": [
+			"92652bcc-8ea8-4c41-80c5-c71af683575f"
+		]
 	}
 }
