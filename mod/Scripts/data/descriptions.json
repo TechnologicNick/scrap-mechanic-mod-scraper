@@ -26974,5 +26974,25 @@
 		"name": "expanded paint tool [BETA]",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"c61543e5-8b1b-4005-9e2c-8e15b2f02f16": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Wheels where you can place blocks inside the hub",
+		"fileId": 2891267210,
+		"localId": "c61543e5-8b1b-4005-9e2c-8e15b2f02f16",
+		"name": "Wheel with inner space",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"dbac6a77-8732-40ff-bebc-d2774f5f5110": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds wheels with friction 10",
+		"fileId": 2891282799,
+		"localId": "dbac6a77-8732-40ff-bebc-d2774f5f5110",
+		"name": "grippy wheels",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
