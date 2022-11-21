@@ -54098,5 +54098,11 @@
 			"289aadec-f587-417b-b293-16bfbcbd94e1",
 			"d2672c3c-ef16-4dc4-8458-9804c9870583"
 		]
+	},
+	"96dbf281-b3ae-4dc5-b74b-24dbdb84fc55": {
+		"$CONTENT_96dbf281-b3ae-4dc5-b74b-24dbdb84fc55/Objects/Database/ShapeSets/gol.shapeset": [
+			"e4b0e72c-f8f9-41b1-aecf-feef0afa46c2",
+			"41057916-0ab5-47c6-9cfe-9bdda23beb31"
+		]
 	}
 }

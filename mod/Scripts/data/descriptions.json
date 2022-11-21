@@ -26994,5 +26994,15 @@
 		"name": "grippy wheels",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"96dbf281-b3ae-4dc5-b74b-24dbdb84fc55": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Fants Conway's Game of Life",
+		"fileId": 2891455898,
+		"localId": "96dbf281-b3ae-4dc5-b74b-24dbdb84fc55",
+		"name": "Fants Conway's Game of Life",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
