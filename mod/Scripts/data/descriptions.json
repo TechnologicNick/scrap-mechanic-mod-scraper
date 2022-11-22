@@ -26519,7 +26519,7 @@
 	"5c17c1c8-2c1d-4559-b05b-db6a345896f8": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "VTTM 1.0 kot train wheels 81-717/714\n\nVTTM 1.1 81-718/719\n\nVTTM 1.1.1 fix front\n\nVTTM 1.2 model update \n\nVTTM 1.2.1 doors update\n\nVTTM 1.2.2 doors fix\n\nVTTM 1.3 final 1.0, new 3d model for subway, 81-710",
+		"description": "VTTM 1.0 kot train wheels 81-717/714\n\nVTTM 1.1 81-718/719\n\nVTTM 1.1.1 fix front\n\nVTTM 1.2 model update \n\nVTTM 1.2.1 doors update\n\nVTTM 1.2.2 doors fix\n\nVTTM 1.3 final 1.0, new 3d model for subway, 81-710\n\nVTTM 1.4 ER2, 1 block thruster ",
 		"fileId": 2869548799,
 		"localId": "5c17c1c8-2c1d-4559-b05b-db6a345896f8",
 		"name": "Voxel tram trains mod",
@@ -26998,10 +26998,20 @@
 	"96dbf281-b3ae-4dc5-b74b-24dbdb84fc55": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Fants Conway's Game of Life",
+		"description": "Its a Display that you spawn and on that you can set Pixels to be Alive.\r\n\"E\" = Set Pixel\r\n\"E\" + Crouch = Randomize all pixel\r\n\"U\" = Start Simulation\r\n\"U\" + Crouch = Clear Display\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.",
 		"fileId": 2891455898,
 		"localId": "96dbf281-b3ae-4dc5-b74b-24dbdb84fc55",
 		"name": "Fants Conway's Game of Life",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"7f17663b-3e95-4316-9617-a18f39995aac": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This is a Simple Pixel Display.\r\nJust to draw stuff on it. ;)\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.",
+		"fileId": 2891513321,
+		"localId": "7f17663b-3e95-4316-9617-a18f39995aac",
+		"name": "Pixel Display",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
