@@ -15239,7 +15239,7 @@
 				"localId": "0f31eead-897d-4df9-b3ba-4222673a886d"
 			}
 		],
-		"description": "[h1] How to play [/h1]\nonce you get into the gamemode you can either load a creation or make one. once your ready to play place a publish block save your creation and then open the menu and click play!\n\n[h1] There is an issue! [/h1]\nplease report it in the comments below with information on how to repeat it and also what you think is wrong\n\n[h1] Commands [/h1]\n[list]\n[*] /fly - enables flight\n[*] /return - returns everybody to the building world\n[*] /score - displays everyone's scores on your screen\n[*] /settings - allows you to change some settings (buggy during rounds\n[*] /start - starts the round while in the play world.\n[*] /stop - stops the round while in the play world.\n[*] /maps - lists maps you can load in\n[*] /map - loads in the selected map\n[/list]\n\n[h1] Notes [/h1]\n[list]\n[*] the publish block remembers what settings you put into it when you save,\n[*] if you are trying the gamemode, /maps & /map commands may interest you.\n[/list]\n\n[h1] TestMaps [/h1]\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2871172552 cs_office but poorly made idk\n\n[h1] Credits [/h1]\nCredits to Brent Batch for the gui and motivation\nCredits to MrCrackx02 for helping with me testing mutiplayer",
+		"description": "[h1] How to play [/h1]\r\nonce you get into the gamemode you can either load a creation or make one. once your ready to play place a publish block save your creation and then open the menu and click play!\r\n\r\n[h1] There is an issue! [/h1]\r\nplease report it in the comments below with information on how to repeat it and also what you think is wrong\r\n\r\n[h1] Commands [/h1]\r\n[list]\r\n[*] /fly - enables flight\r\n[*] /return - returns everybody to the building world\r\n[*] /score - displays everyone's scores on your screen\r\n[*] /settings - allows you to change some settings (buggy during rounds\r\n[*] /start - starts the round while in the play world.\r\n[*] /stop - stops the round while in the play world.\r\n[*] /maps - lists maps you can load in\r\n[*] /map - loads in the selected map\r\n[/list]\r\n\r\n[h1] Notes [/h1]\r\n[list]\r\n[*] the publish block remembers what settings you put into it when you save,\r\n[*] if you are trying the gamemode, /maps & /map commands may interest you.\r\n[/list]\r\n\r\n[h1] TestMaps [/h1]\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2871172552 cs_office but poorly made idk\r\n\r\n[h1] Credits [/h1]\r\nCredits to Brent Batch for the gui and motivation\r\nCredits to MrCrackx02 for helping with me testing mutiplayer\r\nCredits to all the map makers (check required items).",
 		"fileId": 2824381804,
 		"localId": "a1380e74-6b66-47d8-b5fb-6b7751da3da6",
 		"name": "Hide & Seek",
@@ -27012,6 +27012,16 @@
 		"fileId": 2891513321,
 		"localId": "7f17663b-3e95-4316-9617-a18f39995aac",
 		"name": "Pixel Display",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"fbe96826-cad2-4ebf-b87a-2b0ac54090d3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2891850490,
+		"localId": "fbe96826-cad2-4ebf-b87a-2b0ac54090d3",
+		"name": "SCI",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
