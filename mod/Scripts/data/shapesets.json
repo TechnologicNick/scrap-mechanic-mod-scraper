@@ -54183,5 +54183,16 @@
 			"29d5e74c-ea69-418d-a9b4-cba476046941",
 			"0f452630-90bb-4aa3-994a-a08457692450"
 		]
+	},
+	"94e1123e-2f4e-49c0-a2d1-80a6575e9405": {
+		"$CONTENT_94e1123e-2f4e-49c0-a2d1-80a6575e9405/Objects/Database/ShapeSets/example.shapeset": [
+			"6739a78e-24f8-4c49-9fc6-37c0d9f73967"
+		]
+	},
+	"fa5f345f-f8c4-4cb7-8dc6-4797507604c8": {
+		"$CONTENT_fa5f345f-f8c4-4cb7-8dc6-4797507604c8/Objects/Database/ShapeSets/blocks.json": [
+			"0d5ad108-1aaf-43cd-b951-ba42fc2f98e5"
+		],
+		"$CONTENT_fa5f345f-f8c4-4cb7-8dc6-4797507604c8/Objects/Database/ShapeSets/example.shapeset": []
 	}
 }
