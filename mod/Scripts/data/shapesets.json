@@ -54175,5 +54175,13 @@
 		"$CONTENT_dcf3d3f6-c179-4e4b-bd79-ccb00fa03dac/Objects/Database/ShapeSets/example.shapeset": [
 			"d5b3e2b7-c9ec-4968-ac0c-e6ae4df65539"
 		]
+	},
+	"14734f84-4ac4-4260-9b5f-4228709f03bc": {
+		"$CONTENT_14734f84-4ac4-4260-9b5f-4228709f03bc/Objects/Database/ShapeSets/example.shapeset": [
+			"51fef3cf-41aa-4860-94cb-6a6f29bb3185",
+			"3d22bc8e-475e-4087-8772-1a89e21953fd",
+			"29d5e74c-ea69-418d-a9b4-cba476046941",
+			"0f452630-90bb-4aa3-994a-a08457692450"
+		]
 	}
 }
