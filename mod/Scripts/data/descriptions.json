@@ -12592,12 +12592,14 @@
 		"version": 0
 	},
 	"2586833d-873f-465e-8775-a9e5ca806888": {
+		"allow_add_mods": true,
+		"custom_icons": false,
 		"description": "This mod adds a bunch of random parts and blocks to play around.\nThese include:\n-Trusters\n-Micro Spudgun and Explosives\n-Glowy Ducky button, switch, light, explosive and a nuclear bomb.\n- New blocks to play around.\n- Decorations\n- Small engines\nAnd more to be added\n\nLanguage Support:\nEnglish\nRussian\nPolish\nGerman\n\n\n",
 		"fileId": 2799119856,
 		"localId": "2586833d-873f-465e-8775-a9e5ca806888",
 		"name": "Random Stuff Mod",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"755dce38-dddc-4cb8-8325-15b2079fab10": {
 		"description": "This mod changes the sledgehammer's model and texture to the model of the haybot pitchfork.\nThis mod is only a re skin for the sledgehammer.\n\n[h1]INSTALLATION:-[/h1]\n\nGoto you Steam Library , Right Click on [b]Scrap Mechanic->Manage->Browse Local Files[/b] \n\nThen navigate 2 folders back to [b]\" steamapps \"[/b]\n\nclick on [b]workshop->content->387990[/b] and the most recent folder is the mod folder\n\nOpen the folder and go into the folder called [b]\"Scrap Mechanic\"[/b] and copy the [b]\"Data\"[/b] Folder \n\nThen go back to your steam library , right click on [b]Scrap Mechanic->Manage->Browse Local Files[/b] \n\nThen just paste the [b]\" Data \"[/b] Folder into the [b]\" Scrap Mechanic \"[/b] folder and make sure to replace the existing file\n\nTo listen to the music , you need a radio \n\n[h1]Mod Id[/h1] [b]2800354709[/b]",
@@ -26738,7 +26740,7 @@
 	"2b914803-8c10-4808-803b-9dc264f2e813": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Adds in custom teleporters!\nThese teleporters are able to transport players, and are linked by color! \n\nThey also output a configurable logic signal when used.\n\nNote: these teleporters are untested in multiplayer. They should work, but they may not! This is my first published SM mod, so I am still new to SM networking.\n\n\n",
+		"description": "Adds in custom teleporters!\r\nThese teleporters are able to transport players, and are linked by color! \r\n\r\nThey also output a configurable logic signal when used.\r\n\r\nPlease leave any bugs in the comments.\r\n\r\nNote: these teleporters are untested in multiplayer. They should work, but they may not! This is my first published SM mod, so I am still new to SM networking.\r\n\r\nOn the note of being new to SM modding...\r\nThanks to the help provided by the Guild of Scrap Mechanic Modders on Discord! Without the helpful people on that Discord server, this mod may not exist!\r\n\r\n",
 		"fileId": 2882385885,
 		"localId": "2b914803-8c10-4808-803b-9dc264f2e813",
 		"name": "Teleporters",
@@ -27083,6 +27085,16 @@
 		"fileId": 2893018944,
 		"localId": "fa5f345f-f8c4-4cb7-8dc6-4797507604c8",
 		"name": "Geode Block Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"18f30055-ed32-4fdc-9d8a-e763a26a657d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "LNER Gresley Class A4 Steam Locomotive (4-6-2)\n\nWork in progress...",
+		"fileId": 2893222688,
+		"localId": "18f30055-ed32-4fdc-9d8a-e763a26a657d",
+		"name": "Class A4 Locomotive",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
