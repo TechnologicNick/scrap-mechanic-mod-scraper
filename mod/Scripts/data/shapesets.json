@@ -52334,7 +52334,8 @@
 			"ab2d91b3-f437-4daf-8bcf-7f04519cb250",
 			"aa26c947-bf15-4bc2-98ae-e8bb49af9c70",
 			"cd30fbe7-5bf8-4e82-91dc-ea951b91fad7",
-			"2d44cc19-7339-42d2-8bf0-c284ce23b332"
+			"2d44cc19-7339-42d2-8bf0-c284ce23b332",
+			"b58e57e3-442c-45ee-a6a5-7d5263f9bb75"
 		]
 	},
 	"7166cbdc-b341-4f45-b138-8cd2d85a6b58": {
@@ -54246,7 +54247,7 @@
 			"f216fd62-aca8-4cb2-9214-e0f85464d036",
 			"f216fd62-aca8-4cb2-9214-e0f85464d037"
 		],
-		"$CONTENT_18f30055-ed32-4fdc-9d8a-e763a26a657d/Objects/Database/ShapeSets/boiler.shapeset": [
+		"$CONTENT_18f30055-ed32-4fdc-9d8a-e763a26a657d/Objects/Database/ShapeSets/furnace.shapeset": [
 			"f216fd62-aca8-4cb2-9214-e0f85464d081",
 			"f216fd62-aca8-4cb2-9214-e0f85464d082",
 			"f216fd62-aca8-4cb2-9214-e0f85464d083",
@@ -54254,7 +54255,10 @@
 			"f216fd62-aca8-4cb2-9214-e0f85464d085",
 			"f216fd62-aca8-4cb2-9214-e0f85464d086",
 			"f216fd62-aca8-4cb2-9214-e0f85464d087",
-			"f216fd62-aca8-4cb2-9214-e0f85464d088"
+			"f216fd62-aca8-4cb2-9214-e0f85464d088",
+			"f216fd62-aca8-4cb2-9214-e0f85464d089",
+			"f216fd62-aca8-4cb2-9214-e0f85464d090",
+			"f216fd62-aca8-4cb2-9214-e0f85464d091"
 		],
 		"$CONTENT_18f30055-ed32-4fdc-9d8a-e763a26a657d/Objects/Database/ShapeSets/parts.shapeset": [
 			"f216fd62-aca8-4cb2-9214-e0f85464d038",
@@ -54339,6 +54343,11 @@
 			"aa7b90eb-5793-4fac-825d-f8ed5c6ea029",
 			"aa7b90eb-5793-4fac-825d-f8ed5c6ea030",
 			"aa7b90eb-5793-4fac-825d-f8ed5c6ea000"
+		]
+	},
+	"a1f07a58-8e45-4c16-b5b8-57a1e4e50a21": {
+		"$CONTENT_a1f07a58-8e45-4c16-b5b8-57a1e4e50a21/Objects/Database/ShapeSets/example.shapeset": [
+			"8d601982-4608-4d5e-bb9e-e4041486f7c7"
 		]
 	}
 }

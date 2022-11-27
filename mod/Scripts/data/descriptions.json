@@ -26008,7 +26008,7 @@
 	"8420a7ba-2462-41ac-966e-da6cc84fb899": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1] Hello! [/h1]\r\n\r\nThis is a mod that gives you some useful tools to aid with your vanilla logic builds!\r\n\r\nThis mod is currently in beta, I will be adding to it in the future, right now i'm thinking of more ideas to add without adding existing tools in other logic mods.\r\n\r\n[h1] Current tools: [/h1]\r\n\r\n[b]Logic Gate State Shower[/b] - Shows the state of a logic gate\r\n\r\n[b]1 Tick Hammer Block[/b] - Makes your hammer able to 1 tick logic gates\r\n\r\n[b]Circuit Timer Block[/b] - measures the time in ticks in a circuit\r\n\r\n[b]Self Wirer[/b] - Self wires logic gates\r\n\r\n[b]Logic Gate Mode Changer[/b] - allows you to change the logic gate's mode by colour\r\n\r\n[b]Logic Gate Connection Shower[/b] - Shows connections with name tags on your screen, helps in high connection count logic creations\r\n\r\n[b]The Ultimate Connection Hider[/b] - 1st use, when it is placed down, it hides connections while wiring, 2nd use, when interacting with the tool it will hide every other connection except connections coming from a gate that is the same colour as the tool.\r\n\r\n\r\nplease report any bugs to me in the comments and feel free to give me some suggestions.\r\n\r\nHope you enjoy.",
+		"description": "[h1] Hello! [/h1]\r\n\r\nThis is a mod that gives you some useful tools to aid with your vanilla logic builds!\r\n\r\nThis mod is currently in beta, I will be adding to it in the future, right now i'm thinking of more ideas to add without adding existing tools in other logic mods.\r\n\r\n[h1] Current tools: [/h1]\r\n\r\n[b]Logic Gate State Shower[/b] - Shows the state of a logic gate\r\n\r\n[b]1 Tick Hammer Block[/b] - Makes your hammer able to 1 tick logic gates\r\n\r\n[b]Circuit Timer Block[/b] - measures the time in ticks in a circuit\r\n\r\n[b]Self Wirer[/b] - Self wires logic gates\r\n\r\n[b]Logic Gate Mode Changer[/b] - allows you to change the logic gate's mode by colour\r\n\r\n[b]Timer Tick Modifier[/b] - allows you to modify timers ticks by colour\r\n\r\n[b]Logic Gate Connection Shower[/b] - Shows connections with name tags on your screen, helps in high connection count logic creations\r\n\r\n[b]The Ultimate Connection Hider[/b] - 1st use, when it is placed down, it hides connections while wiring, 2nd use, when interacting with the tool it will hide every other connection except connections coming from a gate that is the same colour as the tool.\r\n\r\n\r\nplease report any bugs to me in the comments and feel free to give me some suggestions.\r\n\r\nHope you enjoy.",
 		"fileId": 2856940100,
 		"localId": "8420a7ba-2462-41ac-966e-da6cc84fb899",
 		"name": "Vanilla Logic Debug Tools",
@@ -26019,7 +26019,7 @@
 	"80c1fa35-a774-4518-ae0f-dfd40932fc4a": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Features the following tools & parts:\r\n-Parallel Logic Merger\r\n-Color Memory (Cut/Paste) [unstable]\r\n-Connection Memory (Cut/Paste)\r\n-Parallel Copy/Paste\r\n-Mountable Painter\r\n-Mountable Interact [not working]\r\n-Blueprint Spawner\r\n-Connection Remover (by Color)\r\n-Connection Maker (Relative Position & by Color)\r\n-Wiring Visibility Changer",
+		"description": "Features the following tools & parts:\r\n-Parallel Logic Merger\r\n-Color Memory (Cut/Paste) [unstable]\r\n-Connection Memory (Cut/Paste)\r\n-Parallel Copy/Paste\r\n-Mountable Painter\r\n-Mountable Mode Changer (Quick Logic Gates)\r\n-Blueprint Spawner\r\n-Connection Remover (by Color)\r\n-Connection Maker (Relative Position & by Color)\r\n-Wiring Visibility Changer",
 		"fileId": 2608898394,
 		"localId": "80c1fa35-a774-4518-ae0f-dfd40932fc4a",
 		"name": "Vincling's Beta Tools",
@@ -27095,6 +27095,16 @@
 		"fileId": 2893222688,
 		"localId": "18f30055-ed32-4fdc-9d8a-e763a26a657d",
 		"name": "Class A4 Locomotive",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a1f07a58-8e45-4c16-b5b8-57a1e4e50a21": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2893737059,
+		"localId": "a1f07a58-8e45-4c16-b5b8-57a1e4e50a21",
+		"name": "caged farmer",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
