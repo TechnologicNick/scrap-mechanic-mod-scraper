@@ -27091,7 +27091,7 @@
 	"18f30055-ed32-4fdc-9d8a-e763a26a657d": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "LNER Gresley Class A4 Steam Locomotive (4-6-2)\n\nWork in progress...",
+		"description": "LNER Gresley - Class A4 Locomotive 4-6-2ST\r\n\r\nWork in progress...",
 		"fileId": 2893222688,
 		"localId": "18f30055-ed32-4fdc-9d8a-e763a26a657d",
 		"name": "Class A4 Locomotive",
@@ -27105,6 +27105,27 @@
 		"fileId": 2893737059,
 		"localId": "a1f07a58-8e45-4c16-b5b8-57a1e4e50a21",
 		"name": "caged farmer",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"77ae2d35-e5a5-42e4-a392-ad881a48c4ca": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "",
+		"fileId": 2893968434,
+		"localId": "77ae2d35-e5a5-42e4-a392-ad881a48c4ca",
+		"name": "HandLever",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"0c1caf84-c1a8-43ed-bab7-4d7f283d05d2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2894095890,
+		"localId": "0c1caf84-c1a8-43ed-bab7-4d7f283d05d2",
+		"name": "cpfsom",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
