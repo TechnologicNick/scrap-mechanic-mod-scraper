@@ -27193,5 +27193,15 @@
 		"name": "challenge bots",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"22688d4b-39c2-46b4-ada7-e3a014583776": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "a mod with all teh survival parts you could posibly want!",
+		"fileId": 2895036444,
+		"localId": "22688d4b-39c2-46b4-ada7-e3a014583776",
+		"name": "M's survival parts mod (all parts)",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
