@@ -4270,7 +4270,7 @@
 	"c0344d93-7492-46c8-88be-a61699e57041": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mods contains 21 awesome cannons with shooting animations and custom projectiles.\r\n\r\n[code][h1][b]This mod contains:[/b][/h1]\r\n- Tank cannon\r\n- Flak cannon\r\n- Naval cannon\r\n- 2nd tank cannon\r\n- M1 Abrams cannon\r\n- Schwerer Gustav cannon (mortar)\r\n- Aircraft cannon\r\n- 2nd naval cannon\r\n- 3rd tank cannon\r\n- Railgun\r\n- 2nd railgun (has better effects and it's more powerful)\r\n- M109 cannon (howitzer)\r\n- Rocket launcher\r\n- Smart cannon (works with the number logic from 'The Modpack')\r\n- Small smart cannon\r\n- Orbital cannon\r\n- Smart rocket launcher (you can use The Modpack to input some stuff)\r\n- Flare (heat decoy) launcher\r\n- EMP Cannon (disconnects logic)\r\n- Smart Rocket Detector\r\n- Shell Ejector\r\n- Laser Cannon\r\n- Small Rocket Pod\r\n- Large Rocket Pod[/code]\r\n\r\n[code][h1][b]Language support:[/b][/h1]\r\n- English: by default\r\n- Russian: by default\r\n- German: by default\r\n- Polish: Thanks to Driver for the translation![/code]\r\n\r\n[code][h1][b]Contributors:[/b][/h1]\r\n[b][url=https://steamcommunity.com/profiles/76561198361178618]Questionable Mark[/url][/b] - creator of all the textures, UV maps for models, scripts and a behaviour of the projectiles\r\n[b][url=https://steamcommunity.com/profiles/76561198134257237]Gratiskatze[/url][/b] - creator of the most cannons, creator of the logo, beta-tester and German language translator.\r\n[b][url=https://steamcommunity.com/profiles/76561198296305997]Brent Batch[/url][/b] - creator of the most scripts and creator of the Global Script.\r\n[b][url=https://steamcommunity.com/profiles/76561198350208505]Kein Anderer[/url][/b] - beta-tester and German language translator.\r\n[b][url=https://steamcommunity.com/profiles/76561198280635682]Driver[/url][/b] - creator of an EMP Cannon model and Polish language translator.\r\n[b][url=https://steamcommunity.com/profiles/76561198196145217]Seemomster[/url][/b] - creator of the 2nd Tank Cannon.[/code]\r\n\r\nIf you want to support us and you like this mod you can leave your thumbs up on this mod and add it to your favorites.",
+		"description": "This mods contains 21 awesome cannons with shooting animations and custom projectiles.\r\n\r\n[code][h1][b]This mod contains:[/b][/h1]\r\n- Tank cannon\r\n- Flak cannon\r\n- Naval cannon\r\n- 2nd tank cannon\r\n- M1 Abrams cannon\r\n- Schwerer Gustav cannon (mortar)\r\n- Aircraft cannon\r\n- 2nd naval cannon\r\n- 3rd tank cannon\r\n- Railgun\r\n- 2nd railgun (has better effects and it's more powerful)\r\n- M109 cannon (howitzer)\r\n- Rocket launcher\r\n- Smart cannon (works with the number logic from 'The Modpack')\r\n- Small smart cannon\r\n- Orbital cannon\r\n- Smart rocket launcher (you can use The Modpack to input some stuff)\r\n- Flare (heat decoy) launcher\r\n- EMP Cannon (disconnects logic)\r\n- Smart Rocket Detector\r\n- Shell Ejector\r\n- Laser Cannon\r\n- Small Rocket Pod\r\n- Large Rocket Pod[/code]\r\n\r\n[code][h1][b]Language support:[/b][/h1]\r\n- English: by default\r\n- Russian: by default\r\n- German: by default\r\n- Polish: Thanks to Driver for the translation![/code]\r\n\r\n[code][h1][b]Contributors:[/b][/h1]\r\n[b][url=https://steamcommunity.com/profiles/76561198361178618]Questionable Mark[/url][/b] - creator of all the textures, UV maps for models, scripts and a behaviour of the projectiles\r\n[b][url=https://steamcommunity.com/profiles/76561198134257237]Gratiskatze[/url][/b] - creator of the most cannons, creator of the logo, beta-tester and German language translator.\r\n[b][url=https://steamcommunity.com/profiles/76561198296305997]Brent Batch[/url][/b] - creator of the old scripts and Global Script.\r\n[b][url=https://steamcommunity.com/profiles/76561198350208505]Kein Anderer[/url][/b] - beta-tester and German language translator.\r\n[b][url=https://steamcommunity.com/profiles/76561198280635682]Driver[/url][/b] - creator of an EMP Cannon model and Polish language translator.\r\n[b][url=https://steamcommunity.com/profiles/76561198196145217]Seemomster[/url][/b] - creator of the 2nd Tank Cannon.[/code]\r\n\r\nIf you want to support us and you like this mod you can leave your thumbs up on this mod and add it to your favorites.",
 		"fileId": 1904783067,
 		"localId": "c0344d93-7492-46c8-88be-a61699e57041",
 		"name": "Cannons Pack",
@@ -26069,7 +26069,7 @@
 	"6a2e9817-686e-4373-8c32-4d4b9add6549": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "механика энергии:\n    у каждой батарейки есть свои параметры, емкость, заряд, максимальное количество выходной энергии за тик, и входной, а так же на сколько емкость падает за полный цикл заряда\n\n    падения емкости считаеться за полный цикл, аднако растянуто на весь цикл, таким образом если вы зарядите аккамулятор на половину, то и емкость упадет в 2 раза меньше чем упала бы, если бы вы зарядили его полностью\n\n    вы можете подключить аккамулятор к другим аккамуляторам, и он будет выдавать энергию на них, аккамулятор будет пытаться пустить на каждый аккамулятор столько энергии, сколько может выдать за тик, деленное на количество подключеных аккамуляторов\n\n    аккамуляторы не бояться перезаряда(если об этом не сказано в его описании, в будушем могуть быть типы аккамуляторов, которые перезаряда бояться), аккамулятор просто не возбмет больше энергии, чем сможет вместить, аднако будьте внимательны, если привысить зарядный ток в тик, и аккамулятор примит этот ток(тоесть в нем должно быть место куда принять, иначе он просто не возьмет ток) то он взрырветься\n\n    аккамуляторы не бояться переразряда(если об этом не сказано в его описании, в будушем могуть быть типы аккамуляторов, которые переразряда бояться), аккамулятор просто не выдаст больше чем у него есть, аднако если вы попытаетесь запросить у него больше энергии чем можно запрашивать за тик, и у него это количество энергии окажеться в наличии, то вы получите 0 а аккамулятор взарветься\n\n    запрашить энергию из аккамулятора может только потребитесь или специальный прибор(которого пока что нет в моде), если же вы хотите просто получить энергию из аккамулятора, то вам необходимо подключить к нему другой аккамулятор или power switch, чтоб аккамулятор сам передал энергию\n\n    power switch, он выключен, но может быть включен логикой, когда выключен не пропускает ток, когда включен пропускает, так же вы можете настроить ему емкость нажатием E, и узнать его емкость нажатием U, эта емкость будет означать, сколько энергии через себя он может пропустить за тик, может быть п",
+		"description": "guide: https://pastebin.com/rgZmMbT3",
 		"fileId": 2862627470,
 		"localId": "6a2e9817-686e-4373-8c32-4d4b9add6549",
 		"name": "The Mod",
@@ -26546,7 +26546,7 @@
 	"5c17c1c8-2c1d-4559-b05b-db6a345896f8": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "VTTM 1.0 kot train wheels 81-717/714\n\nVTTM 1.1 81-718/719\n\nVTTM 1.1.1 fix front\n\nVTTM 1.2 model update \n\nVTTM 1.2.1 doors update\n\nVTTM 1.2.2 doors fix\n\nVTTM 1.3 final 1.0, new 3d model for subway, 81-710\n\nVTTM 1.4 ER2, 1 block thruster ",
+		"description": "VTTM 1.0 kot train wheels 81-717/714\n\nVTTM 1.1 81-718/719\n\nVTTM 1.1.1 fix front\n\nVTTM 1.2 model update \n\nVTTM 1.2.1 doors update\n\nVTTM 1.2.2 doors fix\n\nVTTM 1.3 final 1.0, new 3d model for subway, 81-710\n\nVTTM 1.4 ER2, 1 block thruster \n\nVTTM 1.4.1 puk",
 		"fileId": 2869548799,
 		"localId": "5c17c1c8-2c1d-4559-b05b-db6a345896f8",
 		"name": "Voxel tram trains mod",
@@ -27163,5 +27163,35 @@
 		"name": "server",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"62b418c7-ab20-479b-8bdb-945d706ef327": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "fesdsdfsdf",
+		"fileId": 2894684271,
+		"localId": "62b418c7-ab20-479b-8bdb-945d706ef327",
+		"name": "okay here we go again",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"3203fba3-91f1-49f6-9b76-e0b7d47ee579": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "asdssadsd",
+		"fileId": 2894684715,
+		"localId": "3203fba3-91f1-49f6-9b76-e0b7d47ee579",
+		"name": "okay my second block",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b683b0af-3891-4158-95ce-af4c06af0a89": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Bots from challenge mode, with a celebration bot leg and popup audience",
+		"fileId": 2894685331,
+		"localId": "b683b0af-3891-4158-95ce-af4c06af0a89",
+		"name": "challenge bots",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
