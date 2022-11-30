@@ -27203,5 +27203,15 @@
 		"name": "M's survival parts mod (all parts)",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"9b86ec3c-d227-4ae9-b7f1-2269d488726e": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod adds a Label Pistol to Label Stuff. Made by 00Fant",
+		"fileId": 2895491408,
+		"localId": "9b86ec3c-d227-4ae9-b7f1-2269d488726e",
+		"name": "Label Pistol",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
