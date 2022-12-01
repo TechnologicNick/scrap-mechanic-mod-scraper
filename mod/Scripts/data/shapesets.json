@@ -47441,10 +47441,9 @@
 		],
 		"$CONTENT_4f38d61a-86fe-43f4-a699-5d62eee82e48/Objects/Database/ShapeSets/8_guns.json": [
 			"26686b99-d890-4c17-a22d-bc3f54e0e58a",
-			"2fdc8f0f-72d8-486c-9680-eb6c192ea826",
-			"295ed36b-7d46-4de0-b18a-f15c9283f8e1",
-			"a2d11563-6ffb-49e7-a6d9-e044af08ca99",
 			"ac7951c5-415d-4783-8149-6d7eea822b41",
+			"2fdc8f0f-72d8-486c-9680-eb6c192ea826",
+			"a2d11563-6ffb-49e7-a6d9-e044af08ca99",
 			"ed7e7e6e-4d50-40af-888c-d0b6802f9256"
 		],
 		"$CONTENT_4f38d61a-86fe-43f4-a699-5d62eee82e48/Objects/Database/ShapeSets/blocks.json": [
@@ -52587,7 +52586,12 @@
 			"5ca68a65-1600-40fd-a12a-fc802aafc2bd",
 			"81525449-d6d4-4f6b-8a82-421002d0fa11",
 			"dedd9657-3296-4757-9f3f-79ce0c47629d",
-			"1b571bd7-3307-4ae9-805b-24759149f6e0"
+			"1b571bd7-3307-4ae9-805b-24759149f6e0",
+			"bcf22f06-96bc-42dd-95c7-d034b35942cb",
+			"9675c600-6004-4fff-84d4-05d887a8832f",
+			"053828c2-4f84-4e35-8df2-650687bb092d",
+			"295df63b-b5c6-45c0-965a-6c0094c2f3dc",
+			"30045518-df26-4ee6-91bf-acd8966a46ea"
 		],
 		"$CONTENT_6a2e9817-686e-4373-8c32-4d4b9add6549/Objects/Database/ShapeSets/pilules.json": [
 			"15e7f8c6-4be8-4458-9ecc-f9ff8bea1629",
@@ -54516,5 +54520,8 @@
 			"80fd0792-9800-4957-b6dc-216c65e1aaeb"
 		]
 	},
-	"9b86ec3c-d227-4ae9-b7f1-2269d488726e": {}
+	"9b86ec3c-d227-4ae9-b7f1-2269d488726e": {},
+	"571c4bee-feb8-493c-8a88-3fd5e501ad0f": {
+		"$CONTENT_571c4bee-feb8-493c-8a88-3fd5e501ad0f/Objects/Database/ShapeSets/example.shapeset": []
+	}
 }

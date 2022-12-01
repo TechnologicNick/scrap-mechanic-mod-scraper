@@ -15492,7 +15492,7 @@
 	"4f38d61a-86fe-43f4-a699-5d62eee82e48": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description yet",
+		"description": "WIP - Collection of many already existing mods, slightly altered to better match eachother.",
 		"fileId": 2803497899,
 		"localId": "4f38d61a-86fe-43f4-a699-5d62eee82e48",
 		"name": "Gnerf's War Mod",
@@ -26069,7 +26069,7 @@
 	"6a2e9817-686e-4373-8c32-4d4b9add6549": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "guide: https://pastebin.com/rgZmMbT3",
+		"description": "guide: https://drive.google.com/file/d/1tDTQSIogsordZOm6whCtGErKj6d97NOf/view?usp=sharing",
 		"fileId": 2862627470,
 		"localId": "6a2e9817-686e-4373-8c32-4d4b9add6549",
 		"name": "The Mod",
@@ -27213,5 +27213,15 @@
 		"name": "Label Pistol",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"571c4bee-feb8-493c-8a88-3fd5e501ad0f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "creative mode of the survival map game, it is recommended to play The Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2862627470&searchtext=The +Mod",
+		"fileId": 2895634486,
+		"localId": "571c4bee-feb8-493c-8a88-3fd5e501ad0f",
+		"name": "creative on the survival map",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
