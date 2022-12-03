@@ -12041,6 +12041,8 @@
 		"version": 0
 	},
 	"710a0aa1-7479-402b-8a59-b8cda9ec2281": {
+		"allow_add_mods": true,
+		"custom_icons": false,
 		"description": "[h1] LED Matrix Display - by sehr_witziq & Questionable Mark[/h1]\r\n\r\n[b] Info:[/b]\r\nThis Mod adds functional LED Matrix Displays to your game. These are mainly made for Passenger Information Displays (PIS) on trains, busses and trams. But you can use them for anything you want. You can controll them with [u]Modpack Logic[/u] or by hand. \r\n\r\n[b] Content:[/b]\r\n● Fullblock Display\r\n● Halfblock Display\r\n● Plate Display (super thin)\r\n\r\n[b] Symbols:[/b]\r\n● General 0-9\r\n● General A-Z\r\n● Lowercase a-z\r\n● (Box A-Z\r\n● (Box 0-9\r\n● [Box] A-Z\r\n● [Box] 0-9\r\n● Box) A-Z\r\n● Box) 0-9\r\n● S1-S9\r\n● U1-U9\r\n● M1-M9\r\n● Thin 0-9\r\n● Abbreviations\r\n● Punctuations\r\n● Other Symbols\r\n\r\n[b] Known Bugs:[/b]\r\nnone\r\n\r\n[i] Tags:[/i]\r\nLED Matrix Display Dot Flipdot Light Modpack Math Logic Zug Eisenbahn Anzeige Mod",
 		"fileId": 2770849113,
 		"localId": "710a0aa1-7479-402b-8a59-b8cda9ec2281",
@@ -27137,10 +27139,10 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "",
-		"fileId": 2893968434,
+		"description": "订阅之后  打开mod位置   Gui->Dllmod->install.exe  是官方dllmod 安装完成后  打开 Gui->HID服务.exe 用来接收手柄与mod通信用的  打开HID服务后    选设备   边选边按手柄按钮  知道  上边有反应 出现  类似   02|80|80|80|80|00|00|00| 这个东西  证明 你设置完成   我的工坊有蓝图  QQ:928212606",
+		"fileId": 2896373083,
 		"localId": "77ae2d35-e5a5-42e4-a392-ad881a48c4ca",
-		"name": "HandLever",
+		"name": "HidMod",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -27231,6 +27233,23 @@
 		"fileId": 2895881598,
 		"localId": "cd752167-5853-4e0f-a6fa-598f62263863",
 		"name": "Automatic Farmbox",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"38a1c978-a9d6-4c5b-9bf4-f83e8d1a7889": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 2862817629,
+				"localId": "176c0b27-4c3f-4b06-a7e6-3eb765dd806a",
+				"name": "Amogus"
+			}
+		],
+		"description": "Addon for \"Amogus\" servers mod",
+		"fileId": 2862252425,
+		"localId": "38a1c978-a9d6-4c5b-9bf4-f83e8d1a7889",
+		"name": "Server - doors",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
