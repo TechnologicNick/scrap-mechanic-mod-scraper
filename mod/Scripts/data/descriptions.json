@@ -27262,5 +27262,35 @@
 		"name": "Airwelder",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"b34d8a4a-6b26-45f4-857b-5dcd322e2e52": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod adds a Handheld Vacuum Gun. \r\n\r\nLeft Click = Shoot.\r\n\r\nIt will collect all Blocks and Parts and things infront of you.\r\n\r\n( Survival Item Restriction is wip )\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.",
+		"fileId": 2897133124,
+		"localId": "b34d8a4a-6b26-45f4-857b-5dcd322e2e52",
+		"name": "Vacuum Gun",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"91c4e621-c1f6-4966-b658-7009277442a2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "These wheels have a friction stat of 1000, making them never slip! This will allow you to make big trucks without them constantly sliding, or make large trains without wheelslip.",
+		"fileId": 2897252714,
+		"localId": "91c4e621-c1f6-4966-b658-7009277442a2",
+		"name": "Wheels That Don't Slip",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6762d9c8-984c-4dd4-af3a-37e63cd33f4e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Now you can make youre creations splash like water with the press of a little funny key on youre keyboard",
+		"fileId": 2897324999,
+		"localId": "6762d9c8-984c-4dd4-af3a-37e63cd33f4e",
+		"name": "Debrializer",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
