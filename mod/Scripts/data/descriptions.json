@@ -27292,5 +27292,15 @@
 		"name": "Debrializer",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"bdd04da9-f3dd-446e-8d48-c1976cb1d240": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Wordle in Scrap Mechanic!\nThe rules are the same as in the real Wordle.",
+		"fileId": 2897833603,
+		"localId": "bdd04da9-f3dd-446e-8d48-c1976cb1d240",
+		"name": "Wordle",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
