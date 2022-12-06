@@ -27266,7 +27266,7 @@
 	"b34d8a4a-6b26-45f4-857b-5dcd322e2e52": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds a Handheld Vacuum Gun. \r\n\r\nLeft Click = Collect.\r\nIt will collect all Blocks, Parts, Plants, Harvestables and and and and things infront of you.\r\nWorks in Warehouses too!\r\n\r\nRight Click = Plant Seeds.\r\nIt will search for the closest Empty Soil and it will use Seeds from your Inventory ( order, top left to bottom right )\r\n\r\n\r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.",
+		"description": "This mod adds a Handheld Vacuum Gun. \r\n\r\nLeft Click = Collect.\r\nIt will collect all Blocks, Parts, Plants, Harvestables, Water, Chemicals and Oil and and and and things infront of you.\r\nWorks in Warehouses too!\r\n\r\nRight Click = Plant Seeds.\r\nIt will search for the closest Empty Soil and it will use Seeds from your Inventory ( order, top left to bottom right )\r\n\r\n\r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.",
 		"fileId": 2897133124,
 		"localId": "b34d8a4a-6b26-45f4-857b-5dcd322e2e52",
 		"name": "Vacuum Gun",
@@ -27300,6 +27300,26 @@
 		"fileId": 2897833603,
 		"localId": "bdd04da9-f3dd-446e-8d48-c1976cb1d240",
 		"name": "Wordle",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1e03af5b-3c16-44a5-b0c0-4c4bcc727249": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "You want to delete small stuff but dont want to use youre lift because its to laggy?\n\nUse this Module!\nIt works exactly like a normal explosive but DELETES any block inside of a 2 block radius\n\nBUT DO NOT USE THE CRASHER",
+		"fileId": 2897897800,
+		"localId": "1e03af5b-3c16-44a5-b0c0-4c4bcc727249",
+		"name": "Pulse Bomb",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f1f85805-961e-4ab6-b682-46ff6c40e2c9": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Now All my 3 scripted mods in ONE MOD!",
+		"fileId": 2897911870,
+		"localId": "f1f85805-961e-4ab6-b682-46ff6c40e2c9",
+		"name": "JN MODPACK",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
