@@ -54675,5 +54675,22 @@
 			"39d85c54-e9c8-43dd-b6e1-bc55a08511e3",
 			"e5788fdd-f221-4b38-b4d6-86bd323d8a70"
 		]
+	},
+	"9cec3fdf-134e-48f6-ab2c-d6eeea9b610c": {
+		"$CONTENT_9cec3fdf-134e-48f6-ab2c-d6eeea9b610c/Objects/Database/ShapeSets/Arcade.shapeset": [
+			"f4fcf7a1-2fe6-4ade-89b1-3de43b7969ec",
+			"402641ae-23b6-4075-8209-6f8569a41a3e",
+			"1c98abc5-7f55-451e-90a8-58dbfd608d1a",
+			"15bf1d03-4a34-4632-af06-649f4a5a0ab2",
+			"8cc3332c-a8f5-426c-be1e-31b62232254f",
+			"46f6c55e-455f-44eb-b60f-79ae23c30971",
+			"f14a036a-457d-4fe6-ba6b-805dfe28eda3",
+			"da890af9-600f-4e7c-8d4d-290772254bda",
+			"76850fa6-b99e-4309-bb7a-fe8f73abd156",
+			"d677373f-1c45-4336-98af-1ed142ed73dc",
+			"7c16fdae-8c2a-48c2-8183-95f791f310a3",
+			"9d5a05d6-eb83-4ec7-abcc-ff8e451784eb",
+			"ef1b2f5e-27be-40a4-a820-6786b128f3c6"
+		]
 	}
 }
