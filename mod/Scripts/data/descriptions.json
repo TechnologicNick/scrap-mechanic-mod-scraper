@@ -26145,7 +26145,7 @@
 	"25cb7a96-a30f-4aa1-8279-27de78bf09e1": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Very specific-use parts.\r\n\r\nParts List:\r\n- Ka-50/52 HUD\r\n- MiG Flight Stick\r\n- Rubber Gaiter\r\n\r\nMore to come, suggestions are welcome.\r\n",
+		"description": "Very specific-use parts.\n\nParts List:\n- Ka-50/52 Heads-Up Display\n- MiG Flight Stick\n- Rubber Gaiter\n- Helicopter Collective Grip\n\nMore to come, suggestions are welcome.\n",
 		"fileId": 2863055062,
 		"localId": "25cb7a96-a30f-4aa1-8279-27de78bf09e1",
 		"name": "Ender1389's Parts Pack",
@@ -27360,5 +27360,25 @@
 		"name": "Arcade Machine",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"8e5b5613-aa91-4a63-9e6a-3b5d0b332220": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This Repeater outputs a logic output every odd tick of its existence!",
+		"fileId": 2899561656,
+		"localId": "8e5b5613-aa91-4a63-9e6a-3b5d0b332220",
+		"name": "Perfect repeater",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"9ad1ce67-6a0f-4def-a4da-461620390741": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "MonRaido nun mod birleştirmesi dir https://steamcommunity.com/sharedfiles/filedetails/?id=2823686440 ve https://steamcommunity.com/sharedfiles/filedetails/?id=2826133335 modların birleştirilmiş halidir.",
+		"fileId": 2899567860,
+		"localId": "9ad1ce67-6a0f-4def-a4da-461620390741",
+		"name": "MonRaido",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
