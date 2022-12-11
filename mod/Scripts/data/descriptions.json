@@ -4168,12 +4168,15 @@
 		"version": 0
 	},
 	"3481a5dc-f3d3-4068-a9c7-3ca9a4d049f7": {
-		"description": "Diverse Eisenbahn Objekte von der Deutschen Eisenbahn.\n![Noch in Entwicklung/WIP]!",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "Diverse Eisenbahn Objekte von der Deutschen Eisenbahn.\r\n![Noch in Entwicklung/WIP]!",
 		"fileId": 1867980693,
 		"localId": "3481a5dc-f3d3-4068-a9c7-3ca9a4d049f7",
 		"name": "EibMod",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"a74b2d12-e967-4346-b072-c53a17d9304f": {
 		"description": "Some Things. :D",
@@ -27306,7 +27309,7 @@
 	"1e03af5b-3c16-44a5-b0c0-4c4bcc727249": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "You want to delete small stuff but dont want to use youre lift because its to laggy?\n\nUse this Module!\nIt works exactly like a normal explosive but DELETES any block inside of a 2 block radius\n\nBUT DO NOT USE THE CRASHER",
+		"description": "You want to delete small stuff but dont want to use youre lift because its to laggy?\n\nUse this Module!\nIt works exactly like a normal explosive but DELETES any block inside of a 2 block radius",
 		"fileId": 2897897800,
 		"localId": "1e03af5b-3c16-44a5-b0c0-4c4bcc727249",
 		"name": "Pulse Bomb",
@@ -27388,5 +27391,15 @@
 		"type": "Blueprint",
 		"version": 0,
 		"fileId": 2899384908
+	},
+	"d69c811d-76bc-4b7d-af00-2e674c7c52fe": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2885937214,
+		"localId": "d69c811d-76bc-4b7d-af00-2e674c7c52fe",
+		"name": "zwb viwer",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
