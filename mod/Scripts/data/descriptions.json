@@ -27473,5 +27473,35 @@
 		"name": "security cameras (with password)",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"badaeb94-73b8-499f-a0a8-124c26c287e0": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "CODE FOR FIRE TAKEN FROM FIREBALL IN  MODPACK WEAPONS BY BRENT BATCH\r\n(slightly changed to work while static), (I did not create the any of the scripts found in this mod)\r\n\r\nModpack Weapons: https://steamcommunity.com/sharedfiles/filedetails/?id=1995094956&searchtext=modpack+weapons",
+		"fileId": 2901161590,
+		"localId": "badaeb94-73b8-499f-a0a8-124c26c287e0",
+		"name": "Fire Physics Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"96b3b7a9-d383-4369-b678-b75910361df8": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "THIS IS THE PLASMA DRILL FROM FCMOD",
+		"fileId": 2901206705,
+		"localId": "96b3b7a9-d383-4369-b678-b75910361df8",
+		"name": "Plasma Drill",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"30ee464a-f040-4ad8-a436-62f1569639cf": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "THIS THE SIGN FROM SCRAP MECHANIC SERVERS MOD CONTINUATION\n(I did not create anything in this mod)\n\nSMSMC: https://steamcommunity.com/workshop/filedetails/?id=2787712006",
+		"fileId": 2901209181,
+		"localId": "30ee464a-f040-4ad8-a436-62f1569639cf",
+		"name": "Signs",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
