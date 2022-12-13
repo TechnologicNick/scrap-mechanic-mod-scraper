@@ -4171,7 +4171,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "Diverse Eisenbahn Objekte von der Deutschen Eisenbahn.\r\n![Noch in Entwicklung/WIP]!",
+		"description": "Diverse Signale der Deutschen Eisenbahn\n![Noch in Entwicklung/WIP]!",
 		"fileId": 1867980693,
 		"localId": "3481a5dc-f3d3-4068-a9c7-3ca9a4d049f7",
 		"name": "EibMod",
@@ -7055,12 +7055,14 @@
 		"version": 0
 	},
 	"d06e9fd6-e896-4a5e-922a-d2e5cf9c06dc": {
-		"description": "This mod a have just a cristmas tree.",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod a have just a christmas tree...\nAnd christmas hat!!!",
 		"fileId": 2338611857,
 		"localId": "d06e9fd6-e896-4a5e-922a-d2e5cf9c06dc",
 		"name": "Christmas Tree",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"f42e47a7-ca79-491f-938c-0a4fb0586fbc": {
 		"description": "Block of snow",
@@ -27419,6 +27421,56 @@
 		"fileId": 2900260931,
 		"localId": "511737b8-92b8-4fe1-afd9-e3cd919ce611",
 		"name": "ScrapRoomsBlock",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"26bc36e3-3609-441b-a53d-a89b325cf07e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "full \"The Mod\": https://steamcommunity.com/sharedfiles/filedetails/?id=2862627470\n\n[Rus]\nэтот мод это отделенная часть от большого мода(The Nod) который содержит этот контент + много другого контента\n\n[Eng]\nthis mod is a separate part from a large mod(The Mod) that contains this content + a lot of other content",
+		"fileId": 2900951105,
+		"localId": "26bc36e3-3609-441b-a53d-a89b325cf07e",
+		"name": "Nickhider",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"c2b616f1-c703-4ae1-8f98-c4957db647f3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "full \"The Mod\": https://steamcommunity.com/sharedfiles/filedetails/?id=2862627470\n\n[Rus]\nэтот мод это отделенная часть от большого мода(The Nod) который содержит этот контент + много другого контента\n\n[Eng]\nthis mod is a separate part from a large mod(The Mod) that contains this content + a lot of other content",
+		"fileId": 2900951361,
+		"localId": "c2b616f1-c703-4ae1-8f98-c4957db647f3",
+		"name": "black hole mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"57d52e05-99c0-4cad-9895-25b6fae7bdea": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "full \"The Mod\": https://steamcommunity.com/sharedfiles/filedetails/?id=2862627470\n\n[Rus]\nэтот мод это отделенная часть от большого мода(The Nod) который содержит этот контент + много другого контента\n\n[Eng]\nthis mod is a separate part from a large mod(The Mod) that contains this content + a lot of other content",
+		"fileId": 2900951593,
+		"localId": "57d52e05-99c0-4cad-9895-25b6fae7bdea",
+		"name": "fire mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"dddccc5a-ab2e-4bd5-b465-b44b3cbe305e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "full \"The Mod\": https://steamcommunity.com/sharedfiles/filedetails/?id=2862627470\n\n[Rus]\nэтот мод это отделенная часть от большого мода(The Nod) который содержит этот контент + много другого контента\n\n[Eng]\nthis mod is a separate part from a large mod(The Mod) that contains this content + a lot of other content",
+		"fileId": 2900951920,
+		"localId": "dddccc5a-ab2e-4bd5-b465-b44b3cbe305e",
+		"name": "radiation mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"aa0886bb-fba9-4a82-b0d7-1e8a9acf88e3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "full \"The Mod\": https://steamcommunity.com/sharedfiles/filedetails/?id=2862627470\n\n[Rus]\nэтот мод это отделенная часть от большого мода(The Nod) который содержит этот контент + много другого контента\n\n[Eng]\nthis mod is a separate part from a large mod(The Mod) that contains this content + a lot of other content",
+		"fileId": 2900952282,
+		"localId": "aa0886bb-fba9-4a82-b0d7-1e8a9acf88e3",
+		"name": "security cameras (with password)",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
