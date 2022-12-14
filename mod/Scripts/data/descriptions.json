@@ -27503,5 +27503,15 @@
 		"name": "Signs",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"505b6427-f350-42eb-b468-3bf7827d067f": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h1]Introduction[/h1]\r\nImpact adds homing missiles and fireworks to your game.\r\n\r\nThis mod is in a very early and experimental stage. \r\nTherefore it is not as big as other mods, but it will improve in the future.\r\n\r\n[h1]Content[/h1]\r\n[h2]Homing Missiles[/h2]\r\nThe Rocket Launcher launches homing missiles that hunt your friends down!\r\nYou can change the target player in the GUI of the launcher.\r\nCompete with your friends, to see who has the best creation.\r\n\r\n[h2]Firework[/h2]\r\nYes, you heard it right. Impact adds fireworks to your game.\r\nNot only does firework make a whole of fun, it also keeps those nasty rockets from your friends away.\r\n\r\n[h1]Thank you![/h1]\r\nThank you for relying on the Impact mod. Please give feedback and improvement wishes in the comment section.\r\nFeel free to share and like.\r\n\r\nBeta tested by [url=https://steamcommunity.com/profiles/76561198380567070]Chris[/url].\r\n\r\nHave fun, AK006",
+		"fileId": 2899902965,
+		"localId": "505b6427-f350-42eb-b468-3bf7827d067f",
+		"name": "Impact",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
