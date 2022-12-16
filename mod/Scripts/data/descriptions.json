@@ -27513,5 +27513,15 @@
 		"name": "Impact",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"0781e74f-2357-400f-ba8d-eade91fb909e": {
+		"allow_add_mods": false,
+		"custom_icons": false,
+		"description": "This mod adds in a recyclebot, several wheels and many other parts from creative",
+		"fileId": 2902105844,
+		"localId": "0781e74f-2357-400f-ba8d-eade91fb909e",
+		"name": "Survival Recipe with Balance Custom Game",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
