@@ -52559,7 +52559,12 @@
 			"757d6faf-2fcc-431d-9980-956d3537258b",
 			"8f9e1e5d-fab6-4d70-94eb-2182fc161dab",
 			"9551d22e-94a4-4ca4-992c-30423e340e4c",
+			"199e6c37-99ef-437d-b052-2cb7403eec1b",
+			"a1bc5e6b-ec2d-4fef-8ff4-09e2d61cd8f4",
+			"15e8d2b2-1aa6-49bb-96c9-f2aa1d058674",
 			"8b3e3bf2-ae95-44e6-b537-bcf506c210d0",
+			"73615708-d182-4b69-8109-2b9654c53d6b",
+			"179879c1-098e-48b0-a726-e5d1afc9ea95",
 			"a4413069-f911-42bf-929a-102783f5432e",
 			"8b74393f-df16-4342-83a9-ac32be4e942c",
 			"2cef0884-0d5d-4355-84a5-63499c6c5359",
@@ -52574,6 +52579,8 @@
 			"84f836ad-a679-48ef-b5ac-b65a8828f4be",
 			"3c64ca2b-9141-498e-96f7-1888415def81",
 			"a8dfbeff-f0f7-4266-bc91-8eaf211279ce",
+			"0ab76880-c62f-45b5-8155-55abce05ede5",
+			"024593db-c4f7-46e3-9c3f-be4c219a6d50",
 			"c1d48b4b-7a0b-4abc-85a1-ba3f584ffab8"
 		],
 		"$CONTENT_6a2e9817-686e-4373-8c32-4d4b9add6549/Objects/Database/ShapeSets/logic.json": [
@@ -52584,7 +52591,8 @@
 			"337c939c-01f6-4f75-b024-1fa43ce70a44",
 			"84147ced-b7e5-4b7a-a04a-30d5261275ce",
 			"98977572-bb04-4dcc-8e8c-d094b379b134",
-			"a97a151b-72af-4152-bcaa-493cfa159e58"
+			"a97a151b-72af-4152-bcaa-493cfa159e58",
+			"5f40398e-4847-4945-9f8e-8b7a4e718df9"
 		],
 		"$CONTENT_6a2e9817-686e-4373-8c32-4d4b9add6549/Objects/Database/ShapeSets/orders.json": [
 			"0a8c25a1-6254-451b-8ed8-aa2961218426",
@@ -54250,6 +54258,9 @@
 			"468535e4-1a74-4b03-9e11-634f7db1fb9e",
 			"cdbbf5e0-aa86-475d-a56e-bb284a16e405",
 			"dd2e0423-cac2-4915-86b7-83415c00408f"
+		],
+		"$CONTENT_6edf5318-9029-40b7-ac9a-13f9e572e867/Objects/Database/ShapeSets/NewShapeSet2.shapeset": [
+			"63b3dfc0-f8f0-436c-821d-e09d914515ec"
 		]
 	},
 	"66aa5a60-f849-47f8-9525-a6e0880988d3": {
@@ -54894,6 +54905,11 @@
 			"29652d63-0cad-4c83-8fb3-aa097db6e165",
 			"c4bf348e-4c96-4fb0-a6c2-ec3bb16b8eab",
 			"696c3f32-7f61-4673-bee8-142b4219bc7f"
+		]
+	},
+	"0adc41f2-766b-442e-a111-858d6e3084a6": {
+		"$CONTENT_0adc41f2-766b-442e-a111-858d6e3084a6/Objects/Database/ShapeSets/example.shapeset": [
+			"bbc8bf96-6f52-4998-be2a-d5589dd07716"
 		]
 	}
 }

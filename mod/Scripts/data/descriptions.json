@@ -25568,7 +25568,7 @@
 	"27220d95-49e8-453c-92d7-7b91fce3549d": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "this mod adds:\nminigun (normal gatling gun that can destroy every block, also has super speed)\nsnipe gun (currently does not work, deleted)\nknockback gun \nshake corn (makes your camera shake)\nscrew it all (when you place it down it yeets you 100 meters away)\nland mine\n\nwhen pixel will make a .rend tutorial I will add crewmate as a part",
+		"description": "this mod adds:\r\nminigun (normal gatling gun that can destroy every block, also has super speed)\r\nsnipe gun (currently does not work, deleted)\r\nknockback gun \r\nshake corn (makes your camera shake)\r\nscrew it all (when you place it down it yeets you 100 meters away)\r\nland mine\r\ncrewmate (unfortunately would not be added, my 3d editing software can't texture the obj files aka I'm too lazy to learn blender)",
 		"fileId": 2851550809,
 		"localId": "27220d95-49e8-453c-92d7-7b91fce3549d",
 		"name": "this mod is sus",
@@ -27523,5 +27523,15 @@
 		"name": "Survival Recipe with Balance Custom Game",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"0adc41f2-766b-442e-a111-858d6e3084a6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "dingus, aka maxwell",
+		"fileId": 2902675593,
+		"localId": "0adc41f2-766b-442e-a111-858d6e3084a6",
+		"name": "dingus the cat",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
