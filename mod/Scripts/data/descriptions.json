@@ -12619,7 +12619,7 @@
 	"b3dc637a-90a5-46d1-8c3a-881bc2205c0e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Version 1.18\r\n\r\n\r\nChangelog \\/ \\/ \\/\r\nNEW FABRIC!\r\n\r\nAvailable in all seat variants of course. Enjoy!\r\n\r\n\r\n\r\n\r\n\r\nWelcome to the NEW bus seats and fabrics mod!\r\n\r\nEver since the bus seats and fabrics mod glitched out and duplicated itself (along with other glitches) I've had the idea of a new bus seats and fabrics mod on my mind...\r\n\r\nand now i'm proud to announce the release of the NEW bus seats and fabrics mod!\r\nHope you enjoy :)\r\n\r\n\r\n\r\n",
+		"description": "Version 1.18\r\n\r\n\r\nChangelog \\/ \\/ \\/\r\n\r\nChristmas came early today! The \"Skanetrafiken smorgasbord update\" is here!\r\n\r\nWith all seats and block variants (Block variants being 2x2x1 and 3x3x1) available In Gray, Prioritized seat orange, Old alternative regional yellow, Old regional red And Old city green!\r\n\r\nCombine all of those seats and you have a hefty update!\r\n\r\n\r\n\r\n\r\nWelcome to the NEW bus seats and fabrics mod!\r\n\r\nEver since the bus seats and fabrics mod glitched out and duplicated itself (along with other glitches) I've had the idea of a new bus seats and fabrics mod on my mind...\r\n\r\nand now i'm proud to announce the release of the NEW bus seats and fabrics mod!\r\nHope you enjoy :)\r\n\r\n\r\n\r\n",
 		"fileId": 2800437500,
 		"localId": "b3dc637a-90a5-46d1-8c3a-881bc2205c0e",
 		"name": "New bus seats and fabrics mod",
@@ -27557,6 +27557,16 @@
 		"fileId": 2872007551,
 		"localId": "3a84e3e0-c817-40db-97e3-cb90077dd485",
 		"name": "blocks & parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d84fbb30-a0c3-40ff-8cf8-8e39d4a246ff": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "THIS WAS MODELLED BY ME AND THIS MOD IS THE CLOCK FROM THE CAR IN CREATIVE LOADING SCREEN",
+		"fileId": 2903912410,
+		"localId": "d84fbb30-a0c3-40ff-8cf8-8e39d4a246ff",
+		"name": "Clock Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
