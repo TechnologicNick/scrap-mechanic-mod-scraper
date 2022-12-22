@@ -52596,7 +52596,8 @@
 		],
 		"$CONTENT_6a2e9817-686e-4373-8c32-4d4b9add6549/Objects/Database/ShapeSets/logic.json": [
 			"91254625-54c2-4e48-95ac-5643877f90b9",
-			"91254625-54c2-4e48-95ac-5643877f90b9",
+			"4691a8e1-6cec-421e-b31f-f999d5e5c0b6",
+			"36497d2f-5e6d-47a2-b348-909e139db4c9",
 			"0d2bc8a5-cde5-48c8-90f7-21d4473d5fa3",
 			"6e981a03-1747-441b-bc81-8d70d21970f3",
 			"337c939c-01f6-4f75-b024-1fa43ce70a44",
@@ -52649,6 +52650,7 @@
 			"a4eb33ed-7b8e-426e-8424-6c755ba6af6e",
 			"a0a50e7e-6ce7-407d-9f1f-b3cff0716d31",
 			"0de2c19c-3e09-41a2-b0f0-c602de15de38",
+			"0f16fb1e-2b09-46bf-8ca0-a05688ce25e1",
 			"9cb14dc0-3686-40c4-823d-60677f7a8849",
 			"78db30da-8698-42ec-890f-2684b245db42",
 			"dbf44c54-08a1-4033-ba46-4930252834cd",
@@ -52703,12 +52705,14 @@
 			"25b9a6eb-afad-4d80-a01c-c3ec9466f662",
 			"974f5bd3-9c7b-43f5-8242-99b8f07abc45",
 			"08773a86-7c43-4b95-8f72-d7de833d9190",
+			"ec92a407-b9e5-4668-80d7-5af0c9558915",
 			"ebc78adf-58bb-4562-a437-ada3e9ea40e2",
 			"2e270a16-bf89-4516-84b0-ef75199ee7a1",
 			"0943a740-566b-4505-875f-231859775b75",
 			"42a83168-d067-4410-a03e-cac52a6473e6",
 			"feaae3fb-08ed-4254-a6ec-e8399ec67e90",
-			"410cbdee-81af-43ed-8ade-b350cf2b17cb"
+			"410cbdee-81af-43ed-8ade-b350cf2b17cb",
+			"bd6d18c4-622d-4606-99f8-7091f526f298"
 		],
 		"$CONTENT_6a2e9817-686e-4373-8c32-4d4b9add6549/Objects/Database/ShapeSets/pilules.json": [
 			"15e7f8c6-4be8-4458-9ecc-f9ff8bea1629",
@@ -52737,6 +52741,12 @@
 			"a99906c9-22f8-4bc6-8a9c-cc85015df231",
 			"1e1df80e-06de-4032-8e18-e60dc5b139ed",
 			"771e71a0-16a5-4013-aa4e-ea72b3c78fbd"
+		],
+		"$CONTENT_6a2e9817-686e-4373-8c32-4d4b9add6549/Objects/Database/ShapeSets/scrapinteractables.json": [
+			"bd597ac9-6640-43ba-9bd8-ed584a794f13",
+			"847daf20-02bf-4170-8699-9ab106acd29a",
+			"59f6951a-a450-42bf-ad03-54567cb70245",
+			"c96ab903-f238-4bae-a614-28a758716d00"
 		],
 		"$CONTENT_6a2e9817-686e-4373-8c32-4d4b9add6549/Objects/Database/ShapeSets/vipParts.json": [
 			"1cceb60c-58b1-4947-a654-52f5dbfd0359"
