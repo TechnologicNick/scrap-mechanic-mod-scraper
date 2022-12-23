@@ -50351,6 +50351,13 @@
 		]
 	},
 	"2d219396-688d-40a9-be11-ed6a0f36e915": {
+		"$CONTENT_2d219396-688d-40a9-be11-ed6a0f36e915/Objects/Database/ShapeSets/camera.json": [
+			"6ce36643-0eca-413e-9bff-ae1a31c72b74"
+		],
+		"$CONTENT_2d219396-688d-40a9-be11-ed6a0f36e915/Objects/Database/ShapeSets/keyboard.json": [
+			"2c69cb84-c8c7-443e-852f-9c9c3e57f04b",
+			"5dba5fc4-94a6-47a7-b7a6-32ed762c8d82"
+		],
 		"$CONTENT_2d219396-688d-40a9-be11-ed6a0f36e915/Objects/Database/ShapeSets/logicgates.json": [
 			"d8d824e1-2133-4c35-af33-be09a096ed02",
 			"dfdc843f-73ea-4d2e-b915-8425484f5ee0",
@@ -50376,6 +50383,7 @@
 			"f7a543a9-d055-4dbe-9973-f6bc227cbf37",
 			"ef07f8f7-d129-4ff1-a04e-8c6823c963b8",
 			"98212ccb-ebe4-406d-8a60-e5cc1eb56f5b",
+			"826f884f-accf-443f-b19e-2ca084c57869",
 			"6fe2c906-c527-4ae7-a5c6-6013a5236520",
 			"c75b4249-37fa-44ae-9280-3aa1a4f950ac",
 			"1bf8f6e9-41ff-4015-a53d-90fcf559f609"
@@ -50383,9 +50391,23 @@
 		"$CONTENT_2d219396-688d-40a9-be11-ed6a0f36e915/Objects/Database/ShapeSets/remote.json": [
 			"d9a37949-39c4-498d-8cbc-626fe591c66f",
 			"51b40708-2e87-4037-bc4d-a87817f82dfa",
+			"86696b7f-c265-4cff-bded-2d7c0f1c2b0a",
 			"f24bc012-911f-431e-9612-7159cf882026",
 			"ca1efc78-4213-4ee4-b87b-0287c0233820",
 			"3b798c05-7f3a-4103-9ef3-7528d5502d2e"
+		],
+		"$CONTENT_2d219396-688d-40a9-be11-ed6a0f36e915/Objects/Database/ShapeSets/switch.json": [
+			"22070d20-0105-49b8-9b5b-742bdf7e232c",
+			"f6496f4e-fcf2-4304-9be3-275389449bcb",
+			"2b606464-ab65-49e4-9c72-e34313109200",
+			"1c845abd-5dbd-4006-81f2-9bc712bd8a7c",
+			"f26a95db-1e95-4293-88c9-6635e57a16e4",
+			"d37d8ad6-d865-4bba-8580-013e4ad15673"
+		],
+		"$CONTENT_2d219396-688d-40a9-be11-ed6a0f36e915/Objects/Database/ShapeSets/vec3.json": [
+			"c8d5eaa4-9116-446a-a669-c521acdddba0",
+			"e4297753-4b92-42e1-8097-f6bc94a90010",
+			"d42ae20b-1ac6-4622-83e4-2d8b5d9aafde"
 		],
 		"$CONTENT_2d219396-688d-40a9-be11-ed6a0f36e915/Objects/Database/ShapeSets/indestructible/blocks.json": [
 			"5926b0cf-9db2-4540-b095-b70b871de169",
@@ -50406,18 +50428,29 @@
 			"dd568697-7b59-4916-86d0-f3a4ca62d5fc",
 			"050dbe0e-78bb-4dec-9a5c-370c50811eb3"
 		],
+		"$CONTENT_2d219396-688d-40a9-be11-ed6a0f36e915/Objects/Database/ShapeSets/indestructible/keyboard.json": [
+			"091364cc-cdef-4dcc-aaf4-21e5e8033c6f",
+			"f237e587-d8d6-4888-a19b-96de6bcd89fb"
+		],
 		"$CONTENT_2d219396-688d-40a9-be11-ed6a0f36e915/Objects/Database/ShapeSets/indestructible/mathgates.json": [
 			"cc39757e-5b41-4a47-974d-93dcc15c6c10",
 			"c6f7dfd6-ae65-42e5-8644-7505e67e63a6",
 			"fdb5f236-d8e8-4c9b-90af-424627f28090",
 			"8841eb4c-e50d-4f89-a4ca-3c4bd9584679",
+			"9161348a-8b46-4b38-b6ca-ecbe601c198e",
 			"599314bb-e746-4597-b492-c8dd7347ca78",
 			"9e512061-0a45-4151-b2db-bc2f302aeeb3",
 			"bf8f50fb-5cc2-4786-92c7-f54013ffa3fd"
 		],
+		"$CONTENT_2d219396-688d-40a9-be11-ed6a0f36e915/Objects/Database/ShapeSets/indestructible/vec3.json": [
+			"92fa9390-58d3-4a53-aead-a4e98dcd9366",
+			"624ffc9b-007c-48bd-b6fe-0b81965d5b54",
+			"d7a2a924-4637-439a-bc94-c2ea36721512"
+		],
 		"$CONTENT_2d219396-688d-40a9-be11-ed6a0f36e915/Objects/Database/ShapeSets/indestructible/remote.json": [
 			"76f4fb22-81d8-4e6a-bae6-2e7f14dc18ac",
 			"7db12a3a-b785-4d83-bc00-31736070e81a",
+			"49de2fbf-93f8-4a1c-8c08-2351f14913f9",
 			"809d35f8-7f7e-4fc6-982f-97dce1f05a93",
 			"b90f9b91-eca1-42bb-8e12-5d91ef6dab2d",
 			"1de67bda-d774-446c-8fa0-26b16bc52b22"
