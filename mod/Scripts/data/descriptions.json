@@ -27341,7 +27341,7 @@
 	"602b749e-f566-4dd7-b7c5-d599187ffa5f": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds a Lightsaber.",
+		"description": "This mod adds a Lightsaber.\r\n\r\nLeft Click = Hit\r\nRight Click = Blade on/off\r\nQ/R = Color Change\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.",
 		"fileId": 2898623598,
 		"localId": "602b749e-f566-4dd7-b7c5-d599187ffa5f",
 		"name": "Lightsaber",
@@ -27589,6 +27589,36 @@
 		"fileId": 2904142809,
 		"localId": "fbab7b45-9465-476b-b6ce-2ae46b1e92db",
 		"name": "Shotgun Mod For BackupFridge",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1d980de1-6326-43be-b847-dad138b4ac0d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A tool that allows you to make dynamic cutscenes and export them as json.\nHOW TO USE:\nHold left click to reset placed nodes\nRight click to switch to playback mode\nPress 'Q' to place a node\nPress 'R' to save deployed nodes to $CONTENT_DATA/SavedCinematics/camera.json (If you have deployed nodes in the world)\nPress 'R' to load saved nodes from $CONTENT_DATA/SavedCinematics/camera.json (If you don't have deployed nodes in the world)",
+		"fileId": 2872916477,
+		"localId": "1d980de1-6326-43be-b847-dad138b4ac0d",
+		"name": "Spline Camera",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f3ac0254-36e1-47c6-b0a1-93847488135e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "These are some \"garments\" I have made for sm.",
+		"fileId": 2906641413,
+		"localId": "f3ac0254-36e1-47c6-b0a1-93847488135e",
+		"name": "Noiro1's Garments",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"df19bf31-dabc-40b7-af9c-7d5be47e4466": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "THIS MOD IS FOR BULGARIA CREATED BY NOIRO1",
+		"fileId": 2906764072,
+		"localId": "df19bf31-dabc-40b7-af9c-7d5be47e4466",
+		"name": "Republic Of Bulgaria mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
