@@ -27634,8 +27634,8 @@
 	},
 	"27a0fd5f-9691-4659-b5b0-56f25c186100": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "From Garry's mod",
+		"custom_icons": true,
+		"description": "Оригинальный мод из Garry's mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2878054450\r\n\r\nК сожалению я не был первым кто сделал такой мод :(\r\nя очень сильно хотел чтобы у кота были анимации держания в руках и изза этого не выкладывал мод.\r\nи всё ещё у кота нет анимаций\r\nя очень надеюсь, что кто то поможет и сделает анимации для кота\r\nесли кто то это сделает, я отмечу их как второго автора :)\r\n\r\nПервый мод: https://steamcommunity.com/sharedfiles/filedetails/?id=2902675593",
 		"fileId": 2906991655,
 		"localId": "27a0fd5f-9691-4659-b5b0-56f25c186100",
 		"name": "Maxwell cat",
