@@ -56210,5 +56210,10 @@
 		"$CONTENT_2b3a3db3-b72d-47ad-96f7-0c44809dc973/Objects/Database/ShapeSets/example.shapeset": [
 			"17ecf787-01f7-416e-90ed-bd4cfa4572e0"
 		]
+	},
+	"241f63a8-4e93-4cd4-8342-f72a8631299d": {
+		"$CONTENT_241f63a8-4e93-4cd4-8342-f72a8631299d/Objects/Database/ShapeSets/example.shapeset": [
+			"d1d55cdc-a3c2-4050-a7ea-41c01eb7b3af"
+		]
 	}
 }
