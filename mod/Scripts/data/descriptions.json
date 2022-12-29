@@ -6797,7 +6797,7 @@
 		"localId": "bc1efa13-5cb9-41c5-be8b-b9271ee104a2",
 		"name": "Public Transport Parts",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"f1cb5378-18ee-4e04-bae3-4df199f71af0": {
 		"description": "[h1]SCRAP MECHANIC EFFECTS MOD[/h1]\n\nThis mod adds almost all effects from SM game into 11 blocks.\n\n[h1]Update: 12.11.2020[/h1]\n[list]\n[*] Fixed rotation on some effects\n[*] Added K.O effect\n[*] Added Player Jetpack thruster effect\n[/list]\n\n[h1]Update: 27.10.2020[/h1]\n[list]\n[*] Added Audio effects block\n[*] Improved visual look of blocks\n[*] Added challenge mode effects\n[*] Added various other effects to almost all blocks\n[*] Removed ember tree effects\n[/list]\n\n[h1]Features[/h1]\n[list]\n[*] Simply place a block and press E on it to change effect\n[*] Attach to switch to turn effect on/off\n[*] When you attach block to a switch it becomes invisible\n[*] Remove connection for block to become visible again\n[/list]\n\n[h1]Custom Effects[/h1]\n[list]\n[*] Steam Train smoke effect\n[/list]",
@@ -27639,6 +27639,16 @@
 		"fileId": 2906991655,
 		"localId": "27a0fd5f-9691-4659-b5b0-56f25c186100",
 		"name": "Maxwell cat",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"2b3a3db3-b72d-47ad-96f7-0c44809dc973": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "cockpit of tie fighter or something like that",
+		"fileId": 2908316081,
+		"localId": "2b3a3db3-b72d-47ad-96f7-0c44809dc973",
+		"name": "COCKpit",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
