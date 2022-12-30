@@ -27681,5 +27681,32 @@
 		"name": "kristina mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"fa8bfd29-e1f2-4598-b1db-03caf274d32e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Isaac Desnutz",
+		"fileId": 2909182565,
+		"localId": "fa8bfd29-e1f2-4598-b1db-03caf274d32e",
+		"name": "Isaac Desnutz",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"053a87dd-9cb8-4400-9ff4-71fa5f8d8357": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2906892441,
+				"localId": "d37c6378-cb41-47f1-af7c-b0106d482794",
+				"name": "all SM parts"
+			}
+		],
+		"description": "This Custom Game makes the world flat and infinite.\n\nWarning: does not include parts.\n\nDEPENDENCIES:\n\nNoiro1 - all SM parts",
+		"fileId": 2909343910,
+		"localId": "053a87dd-9cb8-4400-9ff4-71fa5f8d8357",
+		"name": "Infinite Flat World",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
