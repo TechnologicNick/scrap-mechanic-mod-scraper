@@ -27054,7 +27054,7 @@
 	"fbe96826-cad2-4ebf-b87a-2b0ac54090d3": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "NOTE: ScriptableComputers Cannot be converted to SCI Without modifing the computer code.\r\nNOTE2: Please note such as Suggestions in Steam are less checked on by the creator. (IF you want to make your suggestion, bugs or content be fast respond of the owner. Join NokoDev's Discord Server. https://discord.gg/yPVBs2usuu )\r\n\r\nSCI is a improved Version of Scriptable Computers.\r\n\r\nScriptable Computers (Original): https://steamcommunity.com/sharedfiles/filedetails/?id=2821133117&searchtext=scriptable+computers\r\n\r\nSCI adds new features what the community wanted? Is the Antenna to big? Then SCI has the Compact Antenna. Bigger Resolution's (For Displays)? The 256x256 resolution display is here. No Syntax Libary? Wel SCI has it\r\n\r\n-------------------------------------------------------------------------------------------------\r\n\r\nProblems with SCI:\r\n1: The DisplayBase is NOT modified (Meaning there is no optimization done because theres a ton of math being used there)\r\n2: Syntax libary unfortantly dosen't return the correct one like sci.getdisplay.\r\n\r\nPlans:\r\n1: Adding Custom Enviroment Var's for developers without modifing the mod.\r\n2: More Optimization\r\n3: Endless Support.\r\n4: An Actual good Guide\r\n5: 3x3 Displays.\r\n\r\n-------------------------------------------------------------------------------------------------\r\n\r\nSetup for Visual Studio Code.\r\n1: Go to C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2891850490\\VSCode. (If the path is incorrect for you. you need to search where steamapps is.)\r\n\r\n2: Add the sci.lua to your libary (If you have the lua extention installed).\r\n\r\n3: Make a copy of template.lua, rename it. (Its fine to put it where it is)\r\n\r\nAnd begin making Computers!\r\n\r\n-------------------------------------------------------------------------------------------------\r\n\r\nCredits:\r\nDonyti_Qramixy and TheFattestCat: These are the original owners of the original mod Scriptable Computers and the creations from the thumbnail. This mod would not exist without them making the original. Link: https://steamcommunity.com/sharedfiles/filedetails/?id=2821133117&searchtext=scriptable+computers\r\n\r\nThe Guild Of Scrap Mechanic Modders `(The Red Builder)`: They helped me of trying to add json support for the Network Port even tho i did not tell them i was doing that.\r\n\r\nGalaxyVOID (Discord): Helping me making the RAM Block (RAM block is only for logic creations! People who have issues with making RAM can use this block!)",
 		"fileId": 2891850490,
 		"localId": "fbe96826-cad2-4ebf-b87a-2b0ac54090d3",
 		"name": "SCI",
@@ -27665,7 +27665,7 @@
 	"c42fe0d2-e46d-48df-ad86-68ae4175e274": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod doesn't have a description",
+		"description": "This Mod Adds a Simple way to Toggle the Gravity on or off.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.",
 		"fileId": 2908895063,
 		"localId": "c42fe0d2-e46d-48df-ad86-68ae4175e274",
 		"name": "Antigrav",
@@ -27708,5 +27708,23 @@
 		"name": "Infinite Flat World",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"9e3b80f9-12ea-4f5e-8490-b7f041a85242": {
+		"description": "",
+		"fileId": 2254560972,
+		"localId": "9e3b80f9-12ea-4f5e-8490-b7f041a85242",
+		"name": "Krasnozhopsk Content",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"dfd8f20e-51ae-454a-bd4f-be5b571469e9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This Mod Adds 2 Blocks for my FanMade Precursor Structure and Transport from Subnautica in Scrap Mechanic.",
+		"fileId": 2909575005,
+		"localId": "dfd8f20e-51ae-454a-bd4f-be5b571469e9",
+		"name": "Subnautica Precursor Blocks",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
