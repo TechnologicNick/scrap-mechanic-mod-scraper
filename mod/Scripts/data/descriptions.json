@@ -27720,10 +27720,21 @@
 	"dfd8f20e-51ae-454a-bd4f-be5b571469e9": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This Mod Adds 2 Blocks for my FanMade Precursor Structure and Transport from Subnautica in Scrap Mechanic.",
+		"dependencies": null,
+		"description": "This Mod Adds 3 Blocks for my FanMade Precursor Structure and Transport from Subnautica in Scrap Mechanic.",
 		"fileId": 2909575005,
 		"localId": "dfd8f20e-51ae-454a-bd4f-be5b571469e9",
 		"name": "Subnautica Precursor Blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"15909372-8876-47e3-ae13-a03788f5a1dd": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod removes the lift.\n\nJust build it yourself.",
+		"fileId": 2909970470,
+		"localId": "15909372-8876-47e3-ae13-a03788f5a1dd",
+		"name": "No Lift",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
