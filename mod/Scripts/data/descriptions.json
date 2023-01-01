@@ -27741,7 +27741,7 @@
 	"2d0aadcf-ef36-400c-82dd-c925c53522c9": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Bricks:\n1x1, 1x2, 1x3, 1x4, 1x6, 1x8\n2x2, 2x3, 2x4\n\n[Work in progress...]",
+		"description": "Bricks:\n1x1, 1x2, 1x3, 1x4, 1x6, 1x8\n2x2, 2x3, 2x4\nSloped 45 1x2\nSloped 33 1x3\n\nTransparent Bricks:\n1x1, 1x2, 1x3, 1x4, 1x6, 1x8\n2x2, 2x3, 2x4\n\n[Work in progress...]",
 		"fileId": 2910205806,
 		"localId": "2d0aadcf-ef36-400c-82dd-c925c53522c9",
 		"name": "Bricks",
