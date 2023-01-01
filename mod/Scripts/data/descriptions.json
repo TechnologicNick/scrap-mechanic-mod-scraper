@@ -17072,7 +17072,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "I will work more on this mod because I know how janky it can be but I already started modding journey.. So any suggestions on how to improve this mod will be very appreciated\r\n\r\n\r\nabout how Grappling gun works [or more exaclly how to use it]\r\n\r\nGrappling gun have 3 work modes:\r\n\r\n - first (default) is grappling toward PRECISE mode\r\n      allows you to grapple towards place you shoot in matter of few seconds\r\n      [may not work if player is falling :/ ]\r\n\r\n- second is swing mode which you may guess allows you to swing, it works fine but it can be better \r\n       so I will work more around this one in the future\r\n\r\n- third and last one is grappling towards NOT PRECISE mode which is sounds oddly similar to first mode,\r\n       but actually works more junky.. It's something in between two previous modes and allows you to grapple \r\n       like spiderman so I thought it would be cool to leave it to you and test\r\n\r\nyou can switch between modes by pressing \"R\" by default, or just any \"reload\" keybind in settings\r\n\r\nMULTIPLAYER NOT SUPPORTED YET! I mean it's not working well on multi, but I'm working on it ;)\r\n - plus there is no recipes added so you can't craft it in survival, but you can test it on survival with\r\n   unlimited inventory turned on ;D\r\n\r\nalso sorry if I wrote something incorrectly in english..",
+		"description": "I will work more on this mod because I know how janky it can be but I already started modding journey.. So any suggestions on how to improve this mod will be very appreciated\r\n\r\n\r\nabout how Grappling gun works [or more exaclly how to use it]\r\n\r\nGrappling gun have 3 work modes:\r\n\r\n - first (default) is grappling toward PRECISE mode\r\n      allows you to grapple towards place you shoot in matter of few seconds\r\n      [may not work if player is falling :/ ]\r\n\r\n- second is swing mode which you may guess allows you to swing, it works fine but it can be better \r\n       so I will work more around this one in the future\r\n\r\n- third and last one is grappling towards NOT PRECISE mode which is sounds oddly similar to first mode,\r\n       but actually works more junky.. It's something in between two previous modes and allows you to grapple \r\n       like spiderman so I thought it would be cool to leave it to you and test\r\n\r\nyou can switch between modes by pressing \"R\" by default, or just any \"reload\" keybind in settings\r\n\r\nMULTIPLAYER NOT SUPPORTED YET! I mean it's not working well on multi, but I'm working on it ;)\r\n - Now supports survival (I mean you can play with this mod in custom recipies custom game mode or any other that supports custom recipies) still work in progress because player tumbles very often and If you shoot somewhere very far and grapple toward that point you can also gain damage. Of course I will fix that If I already get some free time...\r\n\r\nalso sorry if I wrote something incorrectly in english..",
 		"fileId": 2852487370,
 		"localId": "d0450f97-0ec0-4b28-bf1e-67b748cc36ad",
 		"name": "Grappling gun",
@@ -27735,6 +27735,26 @@
 		"fileId": 2909970470,
 		"localId": "15909372-8876-47e3-ae13-a03788f5a1dd",
 		"name": "No Lift",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"2d0aadcf-ef36-400c-82dd-c925c53522c9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Bricks:\n1x1, 1x2, 1x3, 1x4, 1x6, 1x8\n2x2, 2x3, 2x4\n\n[Work in progress...]",
+		"fileId": 2910205806,
+		"localId": "2d0aadcf-ef36-400c-82dd-c925c53522c9",
+		"name": "Bricks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b78ade9d-1315-43c8-a538-432ec478e118": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Note- this is a continuation ",
+		"fileId": 2910357009,
+		"localId": "b78ade9d-1315-43c8-a538-432ec478e118",
+		"name": "Scrap Factory Ideas",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

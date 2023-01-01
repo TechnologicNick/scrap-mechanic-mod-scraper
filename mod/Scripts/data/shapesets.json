@@ -56267,5 +56267,34 @@
 	},
 	"15909372-8876-47e3-ae13-a03788f5a1dd": {
 		"$CONTENT_15909372-8876-47e3-ae13-a03788f5a1dd/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"2d0aadcf-ef36-400c-82dd-c925c53522c9": {
+		"$CONTENT_2d0aadcf-ef36-400c-82dd-c925c53522c9/Objects/Database/ShapeSets/bricks.shapeset": [
+			"2d0aadcf-ef36-400c-82dd-c925c5350001",
+			"2d0aadcf-ef36-400c-82dd-c925c5350002",
+			"2d0aadcf-ef36-400c-82dd-c925c5350003",
+			"2d0aadcf-ef36-400c-82dd-c925c5350004",
+			"2d0aadcf-ef36-400c-82dd-c925c5350005",
+			"2d0aadcf-ef36-400c-82dd-c925c5350006",
+			"2d0aadcf-ef36-400c-82dd-c925c5350007",
+			"2d0aadcf-ef36-400c-82dd-c925c5350008",
+			"2d0aadcf-ef36-400c-82dd-c925c5350009"
+		],
+		"$CONTENT_2d0aadcf-ef36-400c-82dd-c925c53522c9/Objects/Database/ShapeSets/transparent_bricks.shapeset": [
+			"2d0aadcf-ef36-400c-82dd-c925c5360001",
+			"2d0aadcf-ef36-400c-82dd-c925c5360002",
+			"2d0aadcf-ef36-400c-82dd-c925c5360003",
+			"2d0aadcf-ef36-400c-82dd-c925c5360004",
+			"2d0aadcf-ef36-400c-82dd-c925c5360005",
+			"2d0aadcf-ef36-400c-82dd-c925c5360006",
+			"2d0aadcf-ef36-400c-82dd-c925c5360007",
+			"2d0aadcf-ef36-400c-82dd-c925c5360008",
+			"2d0aadcf-ef36-400c-82dd-c925c5360009"
+		]
+	},
+	"b78ade9d-1315-43c8-a538-432ec478e118": {
+		"$CONTENT_b78ade9d-1315-43c8-a538-432ec478e118/Objects/Database/ShapeSets/example.shapeset": [
+			"cf7e9641-a1cc-4df9-9832-a991888c90ea"
+		]
 	}
 }
