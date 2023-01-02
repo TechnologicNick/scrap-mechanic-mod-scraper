@@ -56417,5 +56417,15 @@
 		"$CONTENT_2bc5a271-e920-4853-a2a6-3f327ba3e971/Objects/Database/ShapeSets/example.json": [
 			"245c0685-7fb9-4283-af91-ef991c2fe8b6"
 		]
+	},
+	"39f76b51-08f0-4d8d-b5d5-b6353d58d83b": {
+		"$CONTENT_39f76b51-08f0-4d8d-b5d5-b6353d58d83b/Objects/Database/ShapeSets/example.shapeset": [
+			"441d6261-307c-4569-ba64-4baf9f6b0387",
+			"1fb97dbb-dcdc-48f4-826e-9f947e97bc1c",
+			"016f7c8f-c6c3-4c59-b202-dd8124a97b38"
+		]
+	},
+	"3359b5c9-a3f9-4b6c-9772-2c9254f484c3": {
+		"$CONTENT_3359b5c9-a3f9-4b6c-9772-2c9254f484c3/Objects/Database/ShapeSets/example.shapeset": []
 	}
 }
