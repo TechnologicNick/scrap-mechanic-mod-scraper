@@ -27509,7 +27509,7 @@
 	"505b6427-f350-42eb-b468-3bf7827d067f": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h1]Introduction[/h1]\r\nImpact adds homing missiles and fireworks to your game.\r\n\r\nThis mod is in a very early and experimental stage. \r\nTherefore it is not as big as other mods, but it will improve in the future.\r\n\r\n[h1]Content[/h1]\r\n[h2]Homing Missiles[/h2]\r\nThe Rocket Launcher launches homing missiles that hunt your friends down!\r\nYou can change the target player in the GUI of the launcher.\r\nCompete with your friends, to see who has the best creation.\r\n\r\n[h2]Firework[/h2]\r\nYes, you heard it right. Impact adds fireworks to your game.\r\nNot only does firework make a whole lot of fun, it also keeps those nasty rockets from your friends away.\r\n\r\n[h2]Lasers[/h2]\r\nImpact not only adds shiny rockets, it also adds a Laser to Scrap Mechanic.\r\nA friend's creation has beaten you yesterday, let's cut it in half. Got a big tomato but no knife, you guessed it, let's slice it with a laser.\r\nAll that is possible with the Impact mod.\r\n\r\n[h1]Thank you![/h1]\r\nThank you for relying on the Impact mod. Please give feedback and improvement wishes in the comment section.\r\nFeel free to share and like.\r\n\r\nBeta tested by [url=https://steamcommunity.com/profiles/76561198380567070]Chris[/url].\r\n\r\nHave fun, AK006",
+		"description": "[h1]Introduction[/h1]\r\nImpact is our first mod. It is motivitated by fun: not only for us, for you. Therefore you are welcome to tell us what feature you think is missing, should be changed or is bugged.\r\n\r\n[h1]Content[/h1]\r\n[h2]Homing Missiles[/h2]\r\nThe Rocket Launcher launches homing missiles that hunt your friends down!\r\nYou can change the target player in the GUI of the launcher.\r\nCompete with your friends, to see who has the best creation.\r\n\r\n[h2]Firework[/h2]\r\nYes, you heard it right. Impact adds fireworks to your game.\r\nFirework is one of the core features of the Impact Mod. It can be launched from a creation or out of the players hand, making it easy to launch you, your friends and probably every other object into space. By the way, it also distracts homing rockets.\r\n\r\n[h2]Lasers[/h2]\r\nImpact not only adds shiny rockets, it also adds a Laser to Scrap Mechanic.\r\nA friend's creation has beaten you yesterday, let's cut it in half. Got a biiiiig tomato but no knife, you guessed it, let's slice it with a laser.\r\nAll that is possible with the Impact mod.\r\n\r\n[h2]Advanced Game Rules[/h2]\r\nAt the time creating this mod, there is no way to hide the name tags. But that's no problem, we got you covered: you are searching for the Name Tag Jammer. It hides name tags when activated by a logic signal.\r\n\r\n[h2]Number Logic Support[/h2]\r\nA few parts in Impact require Number Logic. Therefore Impact provides primitive parts to satisfy this requirement, for advanced cases all Number Logic parts are compatible with The Modpack.\r\n\r\n[h2]Other Features[/h2]\r\n- Signal Transmitter\r\n- Number Screen\r\n- Buoyancy Barrel (Variable Buoyancy)\r\n- Screw Propeller\r\n\r\n[h1]Thank you![/h1]\r\nThank you for relying on the Impact mod.\r\n\r\nBetas are tested and a lot of the ideas were made by [url=https://steamcommunity.com/profiles/76561198380567070]Chris[/url].\r\n\r\nHave fun, AK006",
 		"fileId": 2899902965,
 		"localId": "505b6427-f350-42eb-b468-3bf7827d067f",
 		"name": "Impact",
@@ -27795,6 +27795,16 @@
 		"fileId": 2911413313,
 		"localId": "805404b8-eba5-4850-8de1-8d21c0923dd0",
 		"name": "kaczka",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"faac7579-a874-4375-8077-34624bb191d8": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "=====English=====\nThis mod is an analogue of Ascii blocks from The Modpack. But Ascii blocks from this mod have English language, Ukrainian language, Russian language and all these languages in one block.\n\n ===============\n Owner: _DEMON_FOX_ \n Discord: _DEMON_FOX_#5057\n\n=====Українська=====\nЦей мод аналог блоків Ascii з The Modpack. Але блоки Ascii з цього моду мають в собі Англійську мову, Українцьку мову, Російську мову та всі ці мови в одному блоці\n\n ===============\n Автор: _DEMON_FOX_ \n Діскорд: _DEMON_FOX_#5057\n\n=====Руский=====\n Этот мод аналог блоков Ascii из The Modpack. Но блоки Ascii bp этоdj моду имеют в себе Английский язык, Украинский язык, Русский язык и все эти языки в одном блоке.\n\n ===============\n Автор: _DEMON_FOX_ \n Дискорд: _DEMON_FOX_#5057",
+		"fileId": 2911940884,
+		"localId": "faac7579-a874-4375-8077-34624bb191d8",
+		"name": "More Ascii Blocks",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
