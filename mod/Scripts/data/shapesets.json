@@ -56487,5 +56487,12 @@
 	},
 	"61b1744b-035b-4af2-bf26-d51b64b96025": {
 		"$CONTENT_61b1744b-035b-4af2-bf26-d51b64b96025/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"50574eab-e07b-4f6b-ac12-50c7218ea721": {
+		"$CONTENT_50574eab-e07b-4f6b-ac12-50c7218ea721/Objects/Database/ShapeSets/example.shapeset": [
+			"261188c1-95a9-422e-bf7b-c753c67350c3",
+			"a9105b05-97a3-44b1-b8c4-71134d3cb4ad",
+			"8156f0ba-c7f7-4a5d-8d5d-ac584e5fe221"
+		]
 	}
 }
