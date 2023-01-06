@@ -56503,5 +56503,27 @@
 			"a9105b05-97a3-44b1-b8c4-71134d3cb4ad",
 			"8156f0ba-c7f7-4a5d-8d5d-ac584e5fe221"
 		]
+	},
+	"d2ac43e7-361d-4bc9-844e-809312ed8ea5": {
+		"$CONTENT_d2ac43e7-361d-4bc9-844e-809312ed8ea5/Objects/Database/ShapeSets/example.shapeset": [
+			"22beade5-38ca-47b4-a2ee-32403f58a862",
+			"4b6d2bee-d0f1-4e56-96f0-d2596388cad2",
+			"bee966b0-b5e5-41da-b992-5d363ab85ae4",
+			"9edb6f7c-fb44-4348-a1c4-8afb41b92d8a",
+			"9c82a525-8a8b-4483-9595-505aaa042486",
+			"64051718-a3f1-422b-bda3-277efa0c4545",
+			"38e41fb5-dd50-4294-829d-a517f0282fed",
+			"1c6756ca-3a60-4dcb-a5d1-353edf818308",
+			"eb1ef696-5c05-4662-9e47-fe1e0875ff84",
+			"93c27ab2-4930-4654-ba1c-bcfe35e966f6",
+			"aa4c9c5e-7fc6-4c27-967f-c550e551c872",
+			"6a43fff2-8c6d-4460-9f44-e5483b5267dd",
+			"f5098301-1693-457b-8efc-83b3504105ac",
+			"4ec64cda-1a5b-4465-88b4-5ea452c4a556",
+			"47ece75a-bfca-4e8a-b618-4f609fcea0da",
+			"4ce00048-f735-4fab-b978-5f405e60f48f",
+			"6d92d8e7-25e9-4698-b83d-a64dc97978c8",
+			"b5cdd503-fe1c-482b-86ab-6a5d2cc4fc8f"
+		]
 	}
 }
