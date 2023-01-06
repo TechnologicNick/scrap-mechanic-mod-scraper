@@ -27831,7 +27831,8 @@
 	"33cbe31f-d2a3-4d3d-9db2-29af6956b4bb": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Meme ",
+		"dependencies": null,
+		"description": "Meme \ncontains \nthe rock\nrickroll\ncommunist dogo\nscreaming dogo  \ncat eating something\nkratos\nPutin rinding a bear\nPatrick\nsonic but pissed\nOHIO ",
 		"fileId": 2912491946,
 		"localId": "33cbe31f-d2a3-4d3d-9db2-29af6956b4bb",
 		"name": "Cat meme block mod",
