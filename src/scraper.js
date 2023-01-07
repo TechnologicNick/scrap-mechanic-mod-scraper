@@ -24,6 +24,7 @@ module.exports = class Scraper {
 
         this.dbDescriptions = new Database(path.join(this.outDir, "descriptions.json"));
         this.dbShapesets = new Database(path.join(this.outDir, "shapesets.json"));
+        this.dbToolsets = new Database(path.join(this.outDir, "toolsets.json"));
     }
 
     async getIdsToScrape() {
@@ -229,6 +230,82 @@ module.exports = class Scraper {
         }
 
         await this.dbShapesets.save();
+    }
+
+    async scrapeToolsets() {
+        await this.dbToolsets.load();
+
+        for (const publishedfileid of await this.getIdsToScrape()) {
+            try {
+                const localId = this.getLocalId(publishedfileid, true);
+                const description = this.dbDescriptions.data[localId];
+
+                const toolsetFiles = {}
+                const parseToolset = async (filename) => {
+                    try {
+                        const toolsets = JSON.parse(
+                            stripJsonComments(
+                                (await fs.promises.readFile(filename)).toString()
+                            )
+                        );
+
+                        const toolUuids = [];
+
+                        for (const tool of toolsets.toolList) {
+                            toolUuids.push(tool.uuid);
+                        }
+
+                        const modDir = path.join(this.sourceDir, publishedfileid);
+                        const absolute = path.resolve(modDir, filename);
+                        if (!path.isAbsolute(absolute)) {
+                            throw new Error(`Unable to resolve path "${absolute}" to an absolute path`);
+                        }
+
+                        toolsetFiles[absolute.replace(modDir, `$CONTENT_${localId}`)] = toolUuids;
+
+                    } catch (ex) {
+                        console.log(`[Error] Failed reading toolsets file "${filename}" of ${publishedfileid}:\n`, ex);
+                    }
+                }
+
+                {
+                    // Parse toolsets found in `$CONTENT_DATA/Tools/Database/toolsets.tooldb`
+
+                    const tooldb = path.join(this.sourceDir, publishedfileid, "Tools", "Database", "toolsets.tooldb");
+                    if (fs.existsSync(tooldb)){
+                        const { toolSetList } = JSON.parse(
+                            stripJsonComments(
+                                (await fs.promises.readFile(tooldb)).toString()
+                            )
+                        );
+
+                        if (toolSetList) {
+                            const toolsetPaths = toolSetList
+                                .map(toolset => this.resolveContentPath(toolset, publishedfileid, localId))
+                                .filter(toolset => toolset);
+
+                            for (const toolset of toolsetPaths) {
+                                await parseToolset(toolset);
+                            }
+                        } else {
+                            console.log(`[Warning] toolsets.tooldb file has no "toolSetList" key for ${publishedfileid}`);
+                        }
+                    } else {
+                        if (description?.type === "Custom Game") {
+                            console.log(`[Warning] toolsets.tooldb file not found for ${publishedfileid}`);
+                        }
+                    }
+                }
+
+
+                this.handlePossibleChange(this.dbToolsets, publishedfileid, localId, toolsetFiles, "toolsets");
+
+            } catch (ex) {
+                console.log(`[Error] Failed scraping tools of ${publishedfileid}\n`, ex);
+            }
+        }
+
+        await this.dbToolsets.save();
     }
 
     createChangelog(details) {

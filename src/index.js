@@ -274,6 +274,7 @@ function getSettings() {
 
     await scraper.scrapeDescriptions(request.publishedfiledetails);
     await scraper.scrapeShapesets();
+    await scraper.scrapeToolsets();
 
     let changelog = scraper.createChangelog(request.publishedfiledetails);
 
