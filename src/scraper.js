@@ -34,7 +34,7 @@ module.exports = class Scraper {
 
     getLocalId(publishedfileid, fatal = false) {
         const localId = this.idToUuid[publishedfileid] // from description that just got scraped
-            ?? Object.values(this.dbDescriptions.data).find(desc => desc.fileId === publishedfileid)?.localId; // from description in database
+            ?? Object.values(this.dbDescriptions.data).find(desc => desc.fileId == publishedfileid)?.localId; // from description in database
 
         if (!localId) {
             if (fatal) {
