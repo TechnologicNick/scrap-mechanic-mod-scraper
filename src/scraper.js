@@ -1,3 +1,5 @@
+// @ts-check
+
 const fs = require("fs");
 const path = require("path");
 const stripJsonComments = require("strip-json-comments");
@@ -5,7 +7,9 @@ const Database = require("./database");
 const JSONbig = require("json-bigint")({ storeAsString: true });
 
 module.exports = class Scraper {
+    /** @type { Object.<number, string> } */
     idToUuid = {};
+    /** @type { Object.<string, number> } */
     uuidToId = {};
     changes = {
         added: new Set(),
@@ -13,6 +17,10 @@ module.exports = class Scraper {
     }
     blacklistedFileIds = [ 2504530003 /* Mod Database */ ];
     
+    /**
+     * @param {string} outDir The directory to store the scraped data in
+     * @param {string} sourceDir The directory containing the downloaded mods
+     */
     constructor(outDir, sourceDir) {
         this.outDir = outDir;
         this.sourceDir = sourceDir;
@@ -29,9 +37,13 @@ module.exports = class Scraper {
 
     async getIdsToScrape() {
         const downloaded = await fs.promises.readdir(this.sourceDir);
-        return downloaded.filter(id => !this.blacklistedFileIds.includes(id));
+        return downloaded.filter(id => !this.blacklistedFileIds.includes(parseInt(id)));
     }
 
+    /**
+     * @param {string | number} publishedfileid
+     * @param {boolean} fatal
+     */
     getLocalId(publishedfileid, fatal = false) {
         const localId = this.idToUuid[publishedfileid] // from description that just got scraped
             ?? Object.values(this.dbDescriptions.data).find(desc => desc.fileId == publishedfileid)?.localId; // from description in database
@@ -47,6 +59,13 @@ module.exports = class Scraper {
         return localId;
     }
 
+    /**
+     * @param {Database} database
+     * @param {string} publishedfileid
+     * @param {string | number} localId
+     * @param {any} newData
+     * @param {string} name
+     */
     async handlePossibleChange(database, publishedfileid, localId, newData, name) {
         // Changelog
         // Check if mod already has an entry
@@ -130,6 +149,11 @@ module.exports = class Scraper {
         await this.dbDescriptions.save();
     }
 
+    /**
+     * @param {string} contentPath
+     * @param {string} publishedfileid
+     * @param {string} localId
+     */
     resolveContentPath(contentPath, publishedfileid, localId) {
         const modDir = path.join(this.sourceDir, publishedfileid);
 
@@ -165,6 +189,7 @@ module.exports = class Scraper {
                         const shapeUuids = [];
 
                         for (const shape of [].concat(shapeset.partList ?? [], shapeset.blockList ?? [])) {
+                            // @ts-ignore
                             shapeUuids.push(shape.uuid);
                         }
 
@@ -239,28 +264,33 @@ module.exports = class Scraper {
         await this.dbShapesets.save();
     }
 
-    async scrapeToolsets() {
-        await this.dbToolsets.load();
+    /**
+     * Scrape a generic database
+     * @param {Database} database The database to save to
+     * @param {string} dbPath The path to the database file (e.g. `Objects/Database/shape.shapedb`)
+     * @param {string} dbSetListKey The key in the database file that contains the list of sets (e.g. `shapeSetList`)
+     * @param {(set: any) => string} getUuidsFromSet The function that extracts the UUIDs from a set
+     * @param {string} setName The name of the set (e.g. `shapeset`)
+     * @param {string} dbName The name of the database (e.g. `shape.shapedb`)
+     */
+    async scrapeDatabase(database, dbPath, dbSetListKey, getUuidsFromSet, setName, dbName) {
+        await database.load();
 
         for (const publishedfileid of await this.getIdsToScrape()) {
             try {
                 const localId = this.getLocalId(publishedfileid, true);
                 const description = this.dbDescriptions.data[localId];
 
-                const toolsetFiles = {}
-                const parseToolset = async (filename) => {
+                const setFiles = {}
+                const parseSet = async (filename) => {
                     try {
-                        const toolsets = JSON.parse(
+                        const sets = JSON.parse(
                             stripJsonComments(
                                 (await fs.promises.readFile(filename)).toString()
                             )
                         );
 
-                        const toolUuids = [];
-
-                        for (const tool of toolsets.toolList) {
-                            toolUuids.push(tool.uuid);
-                        }
+                        const uuids = getUuidsFromSet(sets);
 
                         const modDir = path.join(this.sourceDir, publishedfileid);
                         const absolute = path.resolve(modDir, filename);
@@ -268,51 +298,64 @@ module.exports = class Scraper {
                             throw new Error(`Unable to resolve path "${absolute}" to an absolute path`);
                         }
 
-                        toolsetFiles[absolute.replace(modDir, `$CONTENT_${localId}`)] = toolUuids;
+                        setFiles[absolute.replace(modDir, `$CONTENT_${localId}`)] = uuids;
 
                     } catch (ex) {
-                        console.log(`[Error] Failed reading toolsets file "${filename}" of ${publishedfileid}:\n`, ex);
+                        console.log(`[Error] Failed reading ${setName} file "${filename}" of ${publishedfileid}:\n`, ex);
                     }
                 }
 
                 {
-                    // Parse toolsets found in `$CONTENT_DATA/Tools/Database/toolsets.tooldb`
+                    // Parse sets found in `$CONTENT_DATA/${dbPath}`
 
-                    const tooldb = path.join(this.sourceDir, publishedfileid, "Tools", "Database", "toolsets.tooldb");
-                    if (fs.existsSync(tooldb)){
-                        const { toolSetList } = JSON.parse(
+                    const db = path.join(this.sourceDir, publishedfileid, dbPath);
+                    if (fs.existsSync(db)){
+                        const dbContent = JSON.parse(
                             stripJsonComments(
-                                (await fs.promises.readFile(tooldb)).toString()
+                                (await fs.promises.readFile(db)).toString()
                             )
                         );
 
-                        if (toolSetList) {
-                            const toolsetPaths = toolSetList
-                                .map(toolset => this.resolveContentPath(toolset, publishedfileid, localId))
-                                .filter(toolset => toolset);
+                        const setList = dbContent[dbSetListKey];
 
-                            for (const toolset of toolsetPaths) {
-                                await parseToolset(toolset);
+                        if (setList) {
+                            const setPaths = setList
+                                .map(set => this.resolveContentPath(set, publishedfileid, localId))
+                                .filter(set => set);
+
+                            for (const set of setPaths) {
+                                await parseSet(set);
                             }
                         } else {
-                            console.log(`[Warning] toolsets.tooldb file has no "toolSetList" key for ${publishedfileid}`);
+                            console.log(`[Warning] ${dbName} file has no "${dbSetListKey}" key for ${publishedfileid}`);
                         }
                     } else {
                         if (description?.type === "Custom Game") {
-                            console.log(`[Warning] toolsets.tooldb file not found for ${publishedfileid}`);
+                            console.log(`[Warning] ${dbName} file not found for ${publishedfileid}`);
                         }
                     }
                 }
 
 
-                this.handlePossibleChange(this.dbToolsets, publishedfileid, localId, toolsetFiles, "toolsets");
+                this.handlePossibleChange(database, publishedfileid, localId, setFiles, `${setName}s`);
 
             } catch (ex) {
-                console.log(`[Error] Failed scraping tools of ${publishedfileid}\n`, ex);
+                console.log(`[Error] Failed scraping ${setName}s of ${publishedfileid}\n`, ex);
             }
         }
 
-        await this.dbToolsets.save();
+        await database.save();
+    }
+
+    async scrapeToolsets() {
+        await this.scrapeDatabase(
+            this.dbToolsets,
+            path.join("Tools", "Database", "toolsets.tooldb"),
+            "toolSetList",
+            (toolset) => toolset.toolList.map(tool => tool.uuid),
+            "toolset",
+            "toolsets.tooldb"
+        )
     }
 
     createChangelog(details) {
