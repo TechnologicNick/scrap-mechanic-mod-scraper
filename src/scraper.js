@@ -62,9 +62,16 @@ module.exports = class Scraper {
             }
 
         } else {
-            console.log(`[${publishedfileid}, ${localId}] Added ${name}`);
-
-            this.changes.added.add(publishedfileid); 
+            // Prevent adding new databases marking all mods as updated
+            if (typeof newData === "object" ? Object.keys(newData).length > 0 : true) {
+                console.log(`[${publishedfileid}, ${localId}] Added ${name}`);
+    
+                if (database === this.dbDescriptions) {
+                    this.changes.added.add(publishedfileid); 
+                } else {
+                    this.changes.updated.add(publishedfileid);
+                }
+            }
         }
 
         database.data[localId] = newData;
