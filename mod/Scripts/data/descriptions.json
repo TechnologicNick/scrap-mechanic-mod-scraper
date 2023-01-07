@@ -27868,5 +27868,42 @@
 		"name": "Seeds & Fruit",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"3cd744b5-7267-4911-aa34-640b9e5455c2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2913589509,
+		"localId": "3cd744b5-7267-4911-aa34-640b9e5455c2",
+		"name": "Keyboard buttons mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"7c9e463c-206c-48f8-bd6d-8b594e4445fe": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2913388592,
+				"localId": "d2ac43e7-361d-4bc9-844e-809312ed8ea5",
+				"name": "Seeds & Fruit"
+			}
+		],
+		"description": "This mod adds the 3 survival containers + some modded containers.\n\n\n(ALSO INCLUDES PUMP (to allow for more containers) WITH CUSTOM SCRIPT INSIDE MOD (MAY USE SCRIPT FOR ANY PURPOSE))",
+		"fileId": 2913634450,
+		"localId": "7c9e463c-206c-48f8-bd6d-8b594e4445fe",
+		"name": "Containers +",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"3d4f6171-f7bc-4f83-887a-7168ba071540": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A normal Scrap Mechanic world, but the big ruin\nnear the crashed ship is replaced by 100 epic loot crates, enjoy!",
+		"fileId": 2913708839,
+		"localId": "3d4f6171-f7bc-4f83-887a-7168ba071540",
+		"name": "1000Epiclootcrates",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
