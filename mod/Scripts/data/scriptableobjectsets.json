@@ -1,0 +1,453 @@
+{
+	"50ee5ce2-9583-4a6e-b3da-b5c187cd798c": {
+		"$CONTENT_50ee5ce2-9583-4a6e-b3da-b5c187cd798c/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"6adc7c70-de63-4f47-afbf-018220f548d4": {
+		"$CONTENT_6adc7c70-de63-4f47-afbf-018220f548d4/ScriptableObjects/ScriptableObjectSets/managers.json": [
+			"5277d13a-755b-4b8b-b7ed-b8dc397c0754",
+			"83b0cc7e-b164-47b8-a83c-0d33ba5f72ec",
+			"7f652517-3ef2-4cf6-b1af-026b0fbb4c75",
+			"d36bac39-038b-4bbb-b0a0-ad537128e8d6",
+			"765a6068-8fb3-47ce-ae59-687d7d1375a2"
+		]
+	},
+	"f25adf0c-f364-496e-9e39-03b84a9000a4": {
+		"$CONTENT_f25adf0c-f364-496e-9e39-03b84a9000a4/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"66382e44-ba5c-4068-be35-49cb80726599": {
+		"$CONTENT_66382e44-ba5c-4068-be35-49cb80726599/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"84e425d7-f21f-4de9-ad20-8933cec006c8": {
+		"$CONTENT_84e425d7-f21f-4de9-ad20-8933cec006c8/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"a7346d8a-f874-41fc-bbca-0caff36ec6b7": {
+		"$CONTENT_a7346d8a-f874-41fc-bbca-0caff36ec6b7/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"23aee415-5c93-4c2e-91a9-f4753eab3f9f": {
+		"$CONTENT_23aee415-5c93-4c2e-91a9-f4753eab3f9f/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"8661aaa9-741b-4422-ad5e-4764cf2e1b18": {
+		"$CONTENT_8661aaa9-741b-4422-ad5e-4764cf2e1b18/ScriptableObjects/ScriptableObjectSets/example.sobset": [
+			"6893c9de-09b5-4b10-8ee1-8977fa68dc05"
+		]
+	},
+	"270f5165-544a-4006-bb78-88dc2a193b11": {
+		"$CONTENT_270f5165-544a-4006-bb78-88dc2a193b11/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"74d1efdd-5044-4040-b7fc-92eb7406308b": {
+		"$CONTENT_74d1efdd-5044-4040-b7fc-92eb7406308b/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"f8f5b0d8-7105-4721-bbe5-11e3f5c35f13": {
+		"$CONTENT_f8f5b0d8-7105-4721-bbe5-11e3f5c35f13/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"60e8b318-18fa-45f2-9b09-cd0688682d5c": {
+		"$CONTENT_60e8b318-18fa-45f2-9b09-cd0688682d5c/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"1958c833-0aa7-4b34-9396-f9d6ff58eb67": {},
+	"3399f2d3-d807-47d5-b00c-d3d22839ba63": {
+		"$CONTENT_3399f2d3-d807-47d5-b00c-d3d22839ba63/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"0de358f7-44a8-4963-ba95-3f096ac91a4f": {
+		"$CONTENT_0de358f7-44a8-4963-ba95-3f096ac91a4f/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"a2d9c77f-80ad-47b9-a937-c73f709cf767": {
+		"$CONTENT_a2d9c77f-80ad-47b9-a937-c73f709cf767/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"1e52fd97-6825-4060-895f-d07d42f5c2b4": {
+		"$CONTENT_1e52fd97-6825-4060-895f-d07d42f5c2b4/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"79b4dd13-5d17-4ceb-9f57-f30f61b36e06": {
+		"$CONTENT_79b4dd13-5d17-4ceb-9f57-f30f61b36e06/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"29811a03-4adf-42a4-9eeb-163c824c8c6e": {
+		"$CONTENT_29811a03-4adf-42a4-9eeb-163c824c8c6e/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"99811346-0da0-41d2-af9e-643138ce6153": {
+		"$CONTENT_99811346-0da0-41d2-af9e-643138ce6153/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"667b4c22-cc1a-4a2b-bee8-66a6c748d40e": {
+		"$CONTENT_667b4c22-cc1a-4a2b-bee8-66a6c748d40e/ScriptableObjects/ScriptableObjectSets/sob_quests.sobset": [
+			"210bc13d-367a-457f-af4c-a433d162518f",
+			"aaf5dda8-18dd-4a90-a85f-501023da347f",
+			"26ca3794-71f2-4648-a97c-997802680c95",
+			"45fe7b9c-4895-44a3-82aa-ed8da730de83",
+			"4ea21139-8366-445c-8a7c-fe08f745c7db",
+			"00fb3de6-6dff-4cea-801c-d3e2d6d48890",
+			"6a729c2c-f37c-4c9d-a1ad-b8f8e8dc49a0",
+			"9f2c2a5e-1bc7-45a4-ae25-29b5a208dcab",
+			"be20e9dd-6f2c-4648-95fd-9e9bb58fe158",
+			"2d876d8e-908f-47cc-8149-78bd148b1c92",
+			"9d0c78a9-e980-4a0e-b623-ec9e447ef1ae"
+		],
+		"$CONTENT_667b4c22-cc1a-4a2b-bee8-66a6c748d40e/ScriptableObjects/ScriptableObjectSets/managers.sobset": [
+			"c46b4d61-9f79-4f1c-b5d4-5ec4fff2c7b0",
+			"2b3e5483-341c-49fe-a2ef-9deb79d080b9"
+		]
+	},
+	"67f7bae1-ce0c-40c5-bc15-a3c6b0f2e24b": {
+		"$CONTENT_67f7bae1-ce0c-40c5-bc15-a3c6b0f2e24b/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"9525bed6-ffea-4721-b51b-10d89ffed45b": {
+		"$CONTENT_9525bed6-ffea-4721-b51b-10d89ffed45b/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"78181716-1cbe-4059-9719-89beb04f444a": {
+		"$CONTENT_78181716-1cbe-4059-9719-89beb04f444a/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"9ad7562f-29d3-4a23-b569-224e712bec50": {
+		"$CONTENT_9ad7562f-29d3-4a23-b569-224e712bec50/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"7843e372-bc33-4e5a-8fe3-b2e25e5982f6": {
+		"$CONTENT_7843e372-bc33-4e5a-8fe3-b2e25e5982f6/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"d45ddb04-7a99-48f3-9e88-e765cfa44c05": {
+		"$CONTENT_d45ddb04-7a99-48f3-9e88-e765cfa44c05/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"69377392-c53c-4a17-883d-214d43f9be18": {
+		"$CONTENT_69377392-c53c-4a17-883d-214d43f9be18/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"c54a3206-e255-4334-82e6-0da00f7bd255": {
+		"$CONTENT_c54a3206-e255-4334-82e6-0da00f7bd255/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"23f0ba4c-7ec0-4266-835a-892bef5b9614": {
+		"$CONTENT_23f0ba4c-7ec0-4266-835a-892bef5b9614/ScriptableObjects/ScriptableObjectSets/example.sobset": [
+			"92e440d7-89ca-4dcd-bc1e-7588e6240143"
+		]
+	},
+	"fc3fe5cc-5395-4d0f-bee1-bafe5c9bbfec": {
+		"$CONTENT_fc3fe5cc-5395-4d0f-bee1-bafe5c9bbfec/ScriptableObjects/ScriptableObjectSets/example.sobset": [
+			"6893c9de-09b5-4b10-8ee1-8977fa68dc05"
+		]
+	},
+	"c5d08b47-c3c0-4ffa-9c42-be5b19d5de55": {},
+	"85a3dbe1-3e10-4bc3-8a50-94b7e81d0a26": {
+		"$CONTENT_85a3dbe1-3e10-4bc3-8a50-94b7e81d0a26/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"7ff48f0d-b48f-49d0-87ec-fd085feba0c4": {},
+	"a3c483d5-8484-49e7-885d-113a554d334d": {
+		"$CONTENT_a3c483d5-8484-49e7-885d-113a554d334d/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"2c00f078-978c-4ef5-9b06-5cd5fda8f26c": {
+		"$CONTENT_2c00f078-978c-4ef5-9b06-5cd5fda8f26c/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"53209a75-1910-4b65-ab8f-6136c866ad96": {
+		"$CONTENT_53209a75-1910-4b65-ab8f-6136c866ad96/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"a241404f-c969-43d9-9029-792acac18ad0": {
+		"$CONTENT_a241404f-c969-43d9-9029-792acac18ad0/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"c21b3ba1-382c-462c-b17d-04ba99c3e911": {
+		"$CONTENT_c21b3ba1-382c-462c-b17d-04ba99c3e911/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"c2ed6bcc-2043-4afd-ba7d-f724acf822d3": {
+		"$CONTENT_c2ed6bcc-2043-4afd-ba7d-f724acf822d3/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"e1e6e22f-e79f-4edb-a9dc-62df46cae238": {
+		"$CONTENT_e1e6e22f-e79f-4edb-a9dc-62df46cae238/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"aa0d1105-7dc6-41f3-97af-8065d6d1d0df": {
+		"$CONTENT_aa0d1105-7dc6-41f3-97af-8065d6d1d0df/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"7ac05a15-f6ef-4ce6-9968-044c42a4db33": {
+		"$CONTENT_7ac05a15-f6ef-4ce6-9968-044c42a4db33/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"94c0daa1-3663-4114-9601-adc48df6715a": {},
+	"35e245c2-fede-4500-8211-b605ed329cfb": {},
+	"ecf6ca62-2989-455c-a9c6-be32f3ab0976": {
+		"$CONTENT_ecf6ca62-2989-455c-a9c6-be32f3ab0976/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"a86ddb9a-afb4-4fd8-a6a5-67e23c0f8a65": {},
+	"42b97fa0-de8f-40ac-aaee-f4feeb580997": {
+		"$CONTENT_42b97fa0-de8f-40ac-aaee-f4feeb580997/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"c666b400-d03d-4eec-ae60-b196401d77ed": {
+		"$CONTENT_c666b400-d03d-4eec-ae60-b196401d77ed/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"455309c1-36aa-46f7-83f9-869b80bab2fe": {
+		"$CONTENT_455309c1-36aa-46f7-83f9-869b80bab2fe/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"917e85fd-c601-41fc-822f-920b5b3c1061": {
+		"$CONTENT_917e85fd-c601-41fc-822f-920b5b3c1061/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"4fdd2dfd-813f-4fa6-9b56-d3c8f1dab06c": {
+		"$CONTENT_4fdd2dfd-813f-4fa6-9b56-d3c8f1dab06c/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"f9c82217-1ac8-4098-a52d-1aa04da57e94": {
+		"$CONTENT_f9c82217-1ac8-4098-a52d-1aa04da57e94/ScriptableObjects/ScriptableObjectSets/golf.sobset": [
+			"6e3a0484-afe3-4dec-b764-c78be207f763",
+			"45de87c5-eea6-4d91-a0bc-7add31dc3276",
+			"2747975e-12a2-40f1-9b35-84dfcde42e11"
+		]
+	},
+	"24486012-9b58-4e2b-aeba-0e2e5fd3d802": {
+		"$CONTENT_24486012-9b58-4e2b-aeba-0e2e5fd3d802/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"d8aff97d-afb2-4ea6-93d1-b957ace7ff15": {
+		"$CONTENT_d8aff97d-afb2-4ea6-93d1-b957ace7ff15/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"a08cf5ea-0044-4892-b66f-c3f6bee7ce3a": {
+		"$CONTENT_a08cf5ea-0044-4892-b66f-c3f6bee7ce3a/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"329940be-25a6-4caf-9c35-b310b86ad317": {
+		"$CONTENT_329940be-25a6-4caf-9c35-b310b86ad317/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"b37b4666-2ffb-4f75-a7d8-c10db931cd76": {
+		"$CONTENT_b37b4666-2ffb-4f75-a7d8-c10db931cd76/ScriptableObjects/ScriptableObjectSets/golf.sobset": [
+			"6e3a0484-afe3-4dec-b764-c78be207f763",
+			"45de87c5-eea6-4d91-a0bc-7add31dc3276",
+			"2747975e-12a2-40f1-9b35-84dfcde42e11"
+		]
+	},
+	"684f6f60-fbb4-4496-9913-c4e001bcb9d1": {
+		"$CONTENT_684f6f60-fbb4-4496-9913-c4e001bcb9d1/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"52f76e98-6a99-4afc-9c1b-1035305b2e0a": {},
+	"53e26cc5-2332-40b4-aec2-65c452e6ccf0": {
+		"$CONTENT_53e26cc5-2332-40b4-aec2-65c452e6ccf0/ScriptableObjects/ScriptableObjectSets/example.sobset": [
+			"6893c9de-09b5-4b10-8ee1-8977fa68dc05"
+		]
+	},
+	"83e1990e-411e-46f6-ace6-cc5cbdd68a89": {
+		"$CONTENT_83e1990e-411e-46f6-ace6-cc5cbdd68a89/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"e3d52333-57a7-4289-b737-ade78347cd12": {},
+	"88cad533-ae50-4ead-b07f-48158071b146": {
+		"$CONTENT_88cad533-ae50-4ead-b07f-48158071b146/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"e996eb7c-d45b-43fe-bcbb-a0943746bc2c": {
+		"$CONTENT_e996eb7c-d45b-43fe-bcbb-a0943746bc2c/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"00865f18-6bd7-41e5-9def-45e999a152cf": {
+		"$CONTENT_00865f18-6bd7-41e5-9def-45e999a152cf/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"838b62eb-ea80-42ce-948c-031c230a4b54": {},
+	"a32319a0-1f2a-4398-bd7e-fcf14e0159cc": {},
+	"80b8414b-4acf-468b-a378-c8a218039c1c": {
+		"$CONTENT_80b8414b-4acf-468b-a378-c8a218039c1c/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"2e1a7cee-b93a-480f-bf15-297af776a387": {
+		"$CONTENT_2e1a7cee-b93a-480f-bf15-297af776a387/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"45e4fe99-ff08-4e06-9923-64a4ff7dc597": {
+		"$CONTENT_45e4fe99-ff08-4e06-9923-64a4ff7dc597/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"94438739-8a66-4cd8-9fcd-fd2d70a0a01d": {},
+	"47e83a09-b06b-4f58-a808-3e8cd96ac4eb": {
+		"$CONTENT_47e83a09-b06b-4f58-a808-3e8cd96ac4eb/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"66bc0eab-63c7-4efa-9d07-4391505b7408": {},
+	"5d1aac85-b56d-46e7-b224-c6b99f5e2ce2": {},
+	"f6faf7cd-f761-40cb-b2ec-bc879307bfb1": {
+		"$CONTENT_f6faf7cd-f761-40cb-b2ec-bc879307bfb1/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"24669f86-6fda-4deb-8d96-2b741249d3eb": {
+		"$CONTENT_24669f86-6fda-4deb-8d96-2b741249d3eb/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"d9fe4eec-1449-4a84-bf99-4478a7c6dd1c": {
+		"$CONTENT_d9fe4eec-1449-4a84-bf99-4478a7c6dd1c/ScriptableObjects/ScriptableObjectSets/sob_managers.sobset": [
+			"83b0cc7e-b164-47b8-a83c-0d33ba5f72ec",
+			"c6988ecb-0fc1-4d45-afde-dc583b8b75ee"
+		],
+		"$CONTENT_d9fe4eec-1449-4a84-bf99-4478a7c6dd1c/ScriptableObjects/ScriptableObjectSets/sob_quests.sobset": [
+			"8be0279e-28b6-4aab-b620-586f50162c6e",
+			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
+			"009fe136-aeee-45c4-9135-006b786cfc59"
+		]
+	},
+	"9e56d32a-4fec-4c18-ac2b-7dffa394fefa": {
+		"$CONTENT_9e56d32a-4fec-4c18-ac2b-7dffa394fefa/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"7d8815da-0fad-4f65-b5bc-71a579c36ac6": {
+		"$CONTENT_7d8815da-0fad-4f65-b5bc-71a579c36ac6/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"5ff9ffb0-418b-40e4-be13-453579f26a25": {
+		"$CONTENT_5ff9ffb0-418b-40e4-be13-453579f26a25/ScriptableObjects/ScriptableObjectSets/sob_managers.sobset": [
+			"83b0cc7e-b164-47b8-a83c-0d33ba5f72ec",
+			"c6988ecb-0fc1-4d45-afde-dc583b8b75ee"
+		],
+		"$CONTENT_5ff9ffb0-418b-40e4-be13-453579f26a25/ScriptableObjects/ScriptableObjectSets/sob_quests.sobset": [
+			"8be0279e-28b6-4aab-b620-586f50162c6e",
+			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
+			"009fe136-aeee-45c4-9135-006b786cfc59"
+		]
+	},
+	"db7992e2-a462-4e59-a1b3-c495bd3fd229": {
+		"$CONTENT_db7992e2-a462-4e59-a1b3-c495bd3fd229/ScriptableObjects/ScriptableObjectSets/sob_managers.sobset": [
+			"83b0cc7e-b164-47b8-a83c-0d33ba5f72ec",
+			"c6988ecb-0fc1-4d45-afde-dc583b8b75ee"
+		],
+		"$CONTENT_db7992e2-a462-4e59-a1b3-c495bd3fd229/ScriptableObjects/ScriptableObjectSets/sob_quests.sobset": [
+			"8be0279e-28b6-4aab-b620-586f50162c6e",
+			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
+			"009fe136-aeee-45c4-9135-006b786cfc59"
+		]
+	},
+	"9c716ff0-84c4-46e0-9a34-7d436071082c": {},
+	"bfed32ee-e4c0-460b-84c3-a170a3d7d2c3": {},
+	"8662c856-c05a-46a9-8f0d-1b1a71f9ac90": {
+		"$CONTENT_8662c856-c05a-46a9-8f0d-1b1a71f9ac90/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"db9e2b76-3270-43a1-9f2b-ac3ef285435f": {},
+	"9b2bfa2b-11dd-4e3a-821d-a99b01409cac": {
+		"$CONTENT_9b2bfa2b-11dd-4e3a-821d-a99b01409cac/ScriptableObjects/ScriptableObjectSets/sob_quests.sobset": [
+			"8be0279e-28b6-4aab-b620-586f50162c6e",
+			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
+			"009fe136-aeee-45c4-9135-006b786cfc59"
+		]
+	},
+	"a1380e74-6b66-47d8-b5fb-6b7751da3da6": {
+		"$CONTENT_a1380e74-6b66-47d8-b5fb-6b7751da3da6/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"670a81d2-ba11-4998-abaf-23c5867470d2": {
+		"$CONTENT_670a81d2-ba11-4998-abaf-23c5867470d2/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"92c09009-628d-4298-892c-afcd5fefd884": {
+		"$CONTENT_92c09009-628d-4298-892c-afcd5fefd884/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"07925c1d-0c72-4848-bbd5-ab8bb55693a9": {
+		"$CONTENT_07925c1d-0c72-4848-bbd5-ab8bb55693a9/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"0a0da70d-591b-402d-a20f-38ec9e443c1f": {
+		"$CONTENT_0a0da70d-591b-402d-a20f-38ec9e443c1f/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"2ac0bfac-b805-49a7-90d8-1188486e0c62": {
+		"$CONTENT_2ac0bfac-b805-49a7-90d8-1188486e0c62/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"54145c30-4434-4f2b-9177-4248355cccbd": {
+		"$CONTENT_54145c30-4434-4f2b-9177-4248355cccbd/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"0373adae-d74a-4690-bbaf-facd4206498f": {
+		"$CONTENT_0373adae-d74a-4690-bbaf-facd4206498f/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"9b2bfa2b-11dd-4e3a-821d-a91201409cac": {
+		"$CONTENT_9b2bfa2b-11dd-4e3a-821d-a91201409cac/ScriptableObjects/ScriptableObjectSets/sob_quests.sobset": [
+			"8be0279e-28b6-4aab-b620-586f50162c6e",
+			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
+			"009fe136-aeee-45c4-9135-006b786cfc59"
+		]
+	},
+	"0041c7ab-4744-405a-a7e8-a6dc5eefd738": {
+		"$CONTENT_0041c7ab-4744-405a-a7e8-a6dc5eefd738/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"4a616385-0024-489a-8a9a-7d8ac73a78ce": {
+		"$CONTENT_4a616385-0024-489a-8a9a-7d8ac73a78ce/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"4419aa3f-d8ce-4fce-b450-92da767a9628": {
+		"$CONTENT_4419aa3f-d8ce-4fce-b450-92da767a9628/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"2bbf89ea-6f36-43af-a6a4-8026df4022b9": {
+		"$CONTENT_2bbf89ea-6f36-43af-a6a4-8026df4022b9/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"77a03e1d-ae83-46ef-a2a3-5526a0e2c254": {
+		"$CONTENT_77a03e1d-ae83-46ef-a2a3-5526a0e2c254/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"6a8efaaa-45cf-4592-a7e0-a7dbeae2e42c": {
+		"$CONTENT_6a8efaaa-45cf-4592-a7e0-a7dbeae2e42c/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"91dd1df1-5b4b-4d64-a8d3-f4efd2bb219e": {
+		"$CONTENT_91dd1df1-5b4b-4d64-a8d3-f4efd2bb219e/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"6e402ba0-0f4b-4750-b1d2-08026289aef4": {
+		"$CONTENT_6e402ba0-0f4b-4750-b1d2-08026289aef4/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"9b65a5f6-f5bf-4a76-aa6a-b96f3656862b": {},
+	"e799fa97-3461-4a7d-9636-ebf4c693e827": {
+		"$CONTENT_e799fa97-3461-4a7d-9636-ebf4c693e827/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"150de55d-d55e-4aa9-975e-8a945b817365": {
+		"$CONTENT_150de55d-d55e-4aa9-975e-8a945b817365/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"52b0dbf6-c234-40e2-999d-a8174ababf5e": {
+		"$CONTENT_52b0dbf6-c234-40e2-999d-a8174ababf5e/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"05108c9c-568e-4522-bdbd-f8d736dc5ce1": {
+		"$CONTENT_05108c9c-568e-4522-bdbd-f8d736dc5ce1/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"8152c437-8cd0-4bbc-9a87-2f01ab7e3957": {
+		"$CONTENT_8152c437-8cd0-4bbc-9a87-2f01ab7e3957/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"a1ffb374-c7e4-4ad2-817a-28d717547d96": {
+		"$CONTENT_a1ffb374-c7e4-4ad2-817a-28d717547d96/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"10ab7fc2-cb37-477d-89fe-0bbf916a8643": {
+		"$CONTENT_10ab7fc2-cb37-477d-89fe-0bbf916a8643/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"0bc984f0-5dd8-4669-8a2a-a54f1df5e52b": {
+		"$CONTENT_0bc984f0-5dd8-4669-8a2a-a54f1df5e52b/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"57552973-2c64-4236-b908-3d7d32e7f98f": {
+		"$CONTENT_57552973-2c64-4236-b908-3d7d32e7f98f/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"b55f9a53-5236-4358-9a3b-cbca61cada31": {
+		"$CONTENT_b55f9a53-5236-4358-9a3b-cbca61cada31/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"b27aa5f9-f154-4fcb-9a0b-e86076afbf1c": {},
+	"76ebfccd-0dc2-4b22-9bf0-2f6102689da3": {
+		"$CONTENT_76ebfccd-0dc2-4b22-9bf0-2f6102689da3/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"bdd4f9fe-ddfd-4da8-a721-59838fcdc1db": {
+		"$CONTENT_bdd4f9fe-ddfd-4da8-a721-59838fcdc1db/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"2e0b01c7-a7a4-413b-8dab-6c08dd598b39": {
+		"$CONTENT_2e0b01c7-a7a4-413b-8dab-6c08dd598b39/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"56bf131f-83ea-44c1-9ef9-ae8d541ec109": {
+		"$CONTENT_56bf131f-83ea-44c1-9ef9-ae8d541ec109/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"048c6411-03dc-4984-818d-69387fcd2c76": {
+		"$CONTENT_048c6411-03dc-4984-818d-69387fcd2c76/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"426e16fe-4523-4002-a80c-207fa007258c": {
+		"$CONTENT_426e16fe-4523-4002-a80c-207fa007258c/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"5519ca33-3719-4cb2-993c-c6c92e3196ec": {
+		"$CONTENT_5519ca33-3719-4cb2-993c-c6c92e3196ec/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"b8937c14-f72d-449b-b079-6885be09deef": {
+		"$CONTENT_b8937c14-f72d-449b-b079-6885be09deef/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"ffef435e-fc94-45c1-806f-2f38b8a9ff44": {
+		"$CONTENT_ffef435e-fc94-45c1-806f-2f38b8a9ff44/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"9838cd1a-207a-49e8-bdc5-8ce609e5ac44": {
+		"$CONTENT_9838cd1a-207a-49e8-bdc5-8ce609e5ac44/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"5ec77cab-f8a9-4ee8-90ae-40bba50fe567": {},
+	"ddefd882-5078-4f14-bcc2-030075103778": {
+		"$CONTENT_ddefd882-5078-4f14-bcc2-030075103778/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"3883e7e9-9073-4258-a916-60d9c783f6e5": {},
+	"0473c5c6-b676-4155-a68f-3386011e762c": {
+		"$CONTENT_0473c5c6-b676-4155-a68f-3386011e762c/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"cf531dc0-4702-4668-8bae-66d0d2b93b7a": {
+		"$CONTENT_cf531dc0-4702-4668-8bae-66d0d2b93b7a/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"b6aae82e-ce35-49ef-b01f-ce916c29f0b6": {
+		"$CONTENT_b6aae82e-ce35-49ef-b01f-ce916c29f0b6/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"a5385b5a-01f1-439b-8a26-28c9fb9507e2": {
+		"$CONTENT_a5385b5a-01f1-439b-8a26-28c9fb9507e2/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"3688b5a3-f2e4-4e97-bf08-9e9537839439": {
+		"$CONTENT_3688b5a3-f2e4-4e97-bf08-9e9537839439/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"571c4bee-feb8-493c-8a88-3fd5e501ad0f": {
+		"$CONTENT_571c4bee-feb8-493c-8a88-3fd5e501ad0f/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"9ad1ce67-6a0f-4def-a4da-461620390741": {
+		"$CONTENT_9ad1ce67-6a0f-4def-a4da-461620390741/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"0781e74f-2357-400f-ba8d-eade91fb909e": {
+		"$CONTENT_0781e74f-2357-400f-ba8d-eade91fb909e/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"053a87dd-9cb8-4400-9ff4-71fa5f8d8357": {},
+	"3359b5c9-a3f9-4b6c-9772-2c9254f484c3": {
+		"$CONTENT_3359b5c9-a3f9-4b6c-9772-2c9254f484c3/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"61b1744b-035b-4af2-bf26-d51b64b96025": {
+		"$CONTENT_61b1744b-035b-4af2-bf26-d51b64b96025/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"3d4f6171-f7bc-4f83-887a-7168ba071540": {
+		"$CONTENT_3d4f6171-f7bc-4f83-887a-7168ba071540/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	}
+}

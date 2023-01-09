@@ -1,3 +1,5 @@
+// @ts-check
+
 const fs = require("fs");
 const path = require("path");
 const stripJsonComments = require("strip-json-comments");
@@ -5,7 +7,9 @@ const Database = require("./database");
 const JSONbig = require("json-bigint")({ storeAsString: true });
 
 module.exports = class Scraper {
+    /** @type { Object.<number, string> } */
     idToUuid = {};
+    /** @type { Object.<string, number> } */
     uuidToId = {};
     changes = {
         added: new Set(),
@@ -13,6 +17,10 @@ module.exports = class Scraper {
     }
     blacklistedFileIds = [ 2504530003 /* Mod Database */ ];
     
+    /**
+     * @param {string} outDir The directory to store the scraped data in
+     * @param {string} sourceDir The directory containing the downloaded mods
+     */
     constructor(outDir, sourceDir) {
         this.outDir = outDir;
         this.sourceDir = sourceDir;
@@ -24,16 +32,25 @@ module.exports = class Scraper {
 
         this.dbDescriptions = new Database(path.join(this.outDir, "descriptions.json"));
         this.dbShapesets = new Database(path.join(this.outDir, "shapesets.json"));
+        this.dbToolsets = new Database(path.join(this.outDir, "toolsets.json"));
+        this.dbHarvestablesets = new Database(path.join(this.outDir, "harvestablesets.json"));
+        this.dbKinematicsets = new Database(path.join(this.outDir, "kinematicsets.json"));
+        this.dbScriptableobjectsets = new Database(path.join(this.outDir, "scriptableobjectsets.json"));
+        this.dbCharactersets = new Database(path.join(this.outDir, "charactersets.json"));
     }
 
     async getIdsToScrape() {
         const downloaded = await fs.promises.readdir(this.sourceDir);
-        return downloaded.filter(id => !this.blacklistedFileIds.includes(id));
+        return downloaded.filter(id => !this.blacklistedFileIds.includes(parseInt(id)));
     }
 
+    /**
+     * @param {string | number} publishedfileid
+     * @param {boolean} fatal
+     */
     getLocalId(publishedfileid, fatal = false) {
         const localId = this.idToUuid[publishedfileid] // from description that just got scraped
-            ?? Object.values(this.dbDescriptions.data).find(desc => desc.fileId === publishedfileid)?.localId; // from description in database
+            ?? Object.values(this.dbDescriptions.data).find(desc => desc.fileId == publishedfileid)?.localId; // from description in database
 
         if (!localId) {
             if (fatal) {
@@ -46,6 +63,13 @@ module.exports = class Scraper {
         return localId;
     }
 
+    /**
+     * @param {Database} database
+     * @param {string} publishedfileid
+     * @param {string | number} localId
+     * @param {any} newData
+     * @param {string} name
+     */
     async handlePossibleChange(database, publishedfileid, localId, newData, name) {
         // Changelog
         // Check if mod already has an entry
@@ -61,9 +85,16 @@ module.exports = class Scraper {
             }
 
         } else {
-            console.log(`[${publishedfileid}, ${localId}] Added ${name}`);
-
-            this.changes.added.add(publishedfileid); 
+            // Prevent adding new databases marking all mods as updated
+            if (typeof newData === "object" ? Object.keys(newData).length > 0 : true) {
+                console.log(`[${publishedfileid}, ${localId}] Added ${name}`);
+    
+                if (database === this.dbDescriptions) {
+                    this.changes.added.add(publishedfileid); 
+                } else {
+                    this.changes.updated.add(publishedfileid);
+                }
+            }
         }
 
         database.data[localId] = newData;
@@ -122,6 +153,11 @@ module.exports = class Scraper {
         await this.dbDescriptions.save();
     }
 
+    /**
+     * @param {string} contentPath
+     * @param {string} publishedfileid
+     * @param {string} localId
+     */
     resolveContentPath(contentPath, publishedfileid, localId) {
         const modDir = path.join(this.sourceDir, publishedfileid);
 
@@ -157,6 +193,7 @@ module.exports = class Scraper {
                         const shapeUuids = [];
 
                         for (const shape of [].concat(shapeset.partList ?? [], shapeset.blockList ?? [])) {
+                            // @ts-ignore
                             shapeUuids.push(shape.uuid);
                         }
 
@@ -229,6 +266,147 @@ module.exports = class Scraper {
         }
 
         await this.dbShapesets.save();
+    }
+
+    /**
+     * Scrape a generic database
+     * @param {Database} database The database to save to
+     * @param {string} dbPath The path to the database file (e.g. `Objects/Database/shape.shapedb`)
+     * @param {(db: any) => string[]} getSetListFromDb The function that extracts the paths to the sets from the database
+     * @param {(set: any) => string} getUuidsFromSet The function that extracts the UUIDs from a set
+     * @param {string} setName The name of the set (e.g. `shapeset`)
+     * @param {string} dbName The name of the database (e.g. `shape.shapedb`)
+     * @param {boolean} customGameOnly Whether the database is only allowed in custom games
+     */
+    async scrapeDatabase(database, dbPath, getSetListFromDb, getUuidsFromSet, setName, dbName, customGameOnly = false) {
+        await database.load();
+
+        for (const publishedfileid of await this.getIdsToScrape()) {
+            try {
+                const localId = this.getLocalId(publishedfileid, true);
+                const description = this.dbDescriptions.data[localId];
+
+                if (customGameOnly && description?.type !== "Custom Game") {
+                    continue;
+                }
+
+                const setFiles = {}
+                const parseSet = async (filename) => {
+                    try {
+                        const sets = JSON.parse(
+                            stripJsonComments(
+                                (await fs.promises.readFile(filename)).toString()
+                            )
+                        );
+
+                        const uuids = getUuidsFromSet(sets);
+
+                        const modDir = path.join(this.sourceDir, publishedfileid);
+                        const absolute = path.resolve(modDir, filename);
+                        if (!path.isAbsolute(absolute)) {
+                            throw new Error(`Unable to resolve path "${absolute}" to an absolute path`);
+                        }
+
+                        setFiles[absolute.replace(modDir, `$CONTENT_${localId}`)] = uuids;
+
+                    } catch (ex) {
+                        console.log(`[Error] Failed reading ${setName} file "${filename}" of ${publishedfileid}:\n`, ex);
+                    }
+                }
+
+                {
+                    // Parse sets found in `$CONTENT_DATA/${dbPath}`
+
+                    const db = path.join(this.sourceDir, publishedfileid, dbPath);
+                    if (fs.existsSync(db)){
+                        const dbContent = JSON.parse(
+                            stripJsonComments(
+                                (await fs.promises.readFile(db)).toString()
+                            )
+                        );
+
+                        const setPaths = getSetListFromDb(dbContent)
+                            .map(set => this.resolveContentPath(set, publishedfileid, localId))
+                            .filter(set => set);
+
+                        for (const set of setPaths) {
+                            await parseSet(set);
+                        }
+                    } else {
+                        if (description?.type === "Custom Game") {
+                            console.log(`[Warning] ${dbName} file not found for ${publishedfileid}`);
+                        }
+                    }
+                }
+
+
+                this.handlePossibleChange(database, publishedfileid, localId, setFiles, `${setName}s`);
+
+            } catch (ex) {
+                console.log(`[Error] Failed scraping ${setName}s of ${publishedfileid}\n`, ex);
+            }
+        }
+
+        await database.save();
+    }
+
+    async scrapeToolsets() {
+        await this.scrapeDatabase(
+            this.dbToolsets,
+            path.join("Tools", "Database", "toolsets.tooldb"),
+            (db) => db.toolSetList,
+            (toolset) => toolset.toolList.map(tool => tool.uuid),
+            "toolset",
+            "toolsets.tooldb",
+        );
+    }
+
+    async scrapeHarvestablesets() {
+        await this.scrapeDatabase(
+            this.dbHarvestablesets,
+            path.join("Harvestables", "Database", "harvestablesets.harvestabledb"),
+            (db) => db.harvestableSetList.map(harvestableset => harvestableset.name),
+            (harvestableset) => harvestableset.harvestableList.map(harvestable => harvestable.uuid),
+            "harvestableset",
+            "harvestablesets.harvestabledb",
+            true,
+        );
+    }
+
+    async scrapeKinematicsets() {
+        await this.scrapeDatabase(
+            this.dbKinematicsets,
+            path.join("Kinematics", "Database", "kinematicsets.kinematicdb"),
+            (db) => db.kinematicSetList.map(kinematicset => kinematicset.name),
+            (kinematicset) => kinematicset.kinematicList.map(kinematic => kinematic.uuid),
+            "kinematicset",
+            "kinematicsets.kinematicdb",
+            true,
+        );
+    }
+
+    async scrapeScriptableobjectsets() {
+        await this.scrapeDatabase(
+            this.dbScriptableobjectsets,
+            path.join("ScriptableObjects", "scriptableObjectSets.sobdb"),
+            (db) => db.scriptableObjectSetList.map(sobset => sobset.scriptableObjectSet),
+            (sobset) => sobset.scriptableObjectList.map(sob => sob.uuid),
+            "scriptableobjectset",
+            "scriptableObjectSets.sobdb",
+            true,
+        );
+    }
+
+    async scrapeCharactersets() {
+        await this.scrapeDatabase(
+            this.dbCharactersets,
+            path.join("Characters", "Database", "charactersets.characterdb"),
+            (db) => db.characterSetList,
+            (characterset) => characterset.characters.map(character => character.uuid),
+            "characterset",
+            "charactersets.characterdb",
+            true,
+        );
     }
 
     createChangelog(details) {

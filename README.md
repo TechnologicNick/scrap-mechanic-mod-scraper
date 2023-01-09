@@ -39,6 +39,7 @@ function ModDatabaseTest.doDatabaseStuff( self )
     -- Load the databases
     ModDatabase.loadDescriptions()
     ModDatabase.loadShapesets()
+    ModDatabase.loadToolsets() -- Enable detecting of loaded tool-only mods (optional)
 
     -- Getting all loaded mods
     local loadedMods = ModDatabase.getAllLoadedMods() -- Returns an array of localIds (UUIDs, strings)
@@ -65,8 +66,38 @@ function ModDatabaseTest.doDatabaseStuff( self )
     -- Make sure to unload the databases after you're done using them, they take up quite a bit of memory
     ModDatabase.unloadDescriptions()
     ModDatabase.unloadShapesets()
+    ModDatabase.unloadToolsets()
 
 end
+```
+
+## API
+```lua
+-- Loading the databases
+function ModDatabase.loadDescriptions() end
+function ModDatabase.loadShapesets() end
+function ModDatabase.loadToolsets() end
+function ModDatabase.loadHarvestablesets() end
+function ModDatabase.loadKinematicsets() end
+function ModDatabase.loadCharactersets() end
+function ModDatabase.loadScriptableobjectsets() end
+
+-- Unloading the databases
+function ModDatabase.unloadDescriptions() end
+function ModDatabase.unloadShapesets() end
+function ModDatabase.unloadToolsets() end
+function ModDatabase.unloadHarvestablesets() end
+function ModDatabase.unloadKinematicsets() end
+function ModDatabase.unloadCharactersets() end
+function ModDatabase.unloadScriptableobjectsets() end
+
+-- Getting localIds of loaded mods
+function ModDatabase.isModLoaded(localId) end
+function ModDatabase.getAllLoadedMods() end
+
+-- Getting localIds of installed mods
+function ModDatabase.isModInstalled(localId) end
+function ModDatabase.getAllInstalledMods() end
 ```
 
 ## Database formats
