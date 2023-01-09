@@ -10754,12 +10754,14 @@
 		"version": 0
 	},
 	"bd7b47d6-df36-4602-9d2a-4172cc52e502": {
-		"description": "This mod doesn't have a description",
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "请不用订阅并使用到自己的作品上 很有可能在未来更新中导致作品损毁\n\nPlease do not subscribe and use your own work, which may cause damage to your work in future updates",
 		"fileId": 2588867942,
 		"localId": "bd7b47d6-df36-4602-9d2a-4172cc52e502",
 		"name": "PLA HSF",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"997b1bee-74f3-4ba5-ae92-14f0058baff9": {
 		"description": "This mod doesn't have a description",
@@ -27943,6 +27945,16 @@
 		"fileId": 2914254984,
 		"localId": "1e6fa7b9-5177-42bc-b365-285d18c5ffbd",
 		"name": "awsomguy1234Troy",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"fdc559d0-b05b-411a-8f87-1da1200b5e1e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2914854132,
+		"localId": "fdc559d0-b05b-411a-8f87-1da1200b5e1e",
+		"name": "block",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
