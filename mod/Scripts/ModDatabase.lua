@@ -122,16 +122,22 @@ function ModDatabase.isModLoaded(localId)
         return nil
     end
 
+    local foundAnyLoaded = nil
+
     for shapeset, shapeUuids in pairs(ModDatabase.databases.shapesets[localId]) do
-        if shapeUuids[1] then
-            local uuid = sm.uuid.new(shapeUuids[1])
+        for _, shapeUuid in ipairs(shapeUuids) do
+            local uuid = sm.uuid.new(shapeUuid)
 
             -- Check if a shape is loaded
             if sm.item.isBlock(uuid) or sm.item.isPart(uuid) or sm.item.isJoint(uuid) then
 
                 -- Some mods use UUIDs of the game and the previous check will always return true on them.
                 -- This checks if the mod is installed by trying to read the part's shapeset file.
-                return select(1, pcall(sm.json.open, shapeset))
+                if select(1, pcall(sm.json.fileExists, shapeset)) then
+                    foundAnyLoaded = true
+                else
+                    return false
+                end
             else
                 return false
             end
@@ -141,20 +147,29 @@ function ModDatabase.isModLoaded(localId)
     -- If the toolsets database is loaded, check for loaded tools as well
     if ModDatabase.databases.toolsets and ModDatabase.databases.toolsets[localId] then
         for toolset, toolUuids in pairs(ModDatabase.databases.toolsets[localId]) do
-            if toolUuids[1] then
-                local uuid = sm.uuid.new(toolUuids[1])
+            for _, toolUuid in ipairs(toolUuids) do
+                local uuid = sm.uuid.new(toolUuid)
 
                 -- Check if a tool is loaded
                 if sm.item.isTool(uuid) then
 
                     -- Some mods use UUIDs of the game and the previous check will always return true on them.
                     -- This checks if the mod is installed by trying to read the tool's toolset file.
-                    return select(1, pcall(sm.json.open, toolset))
+                    if select(1, pcall(sm.json.fileExists, toolset)) then
+                        foundAnyLoaded = true
+                    else
+                        return false
+                    end
                 else
                     return false
                 end
             end
         end
+    end
+
+    -- Ensure all shapes and tools are loaded
+    if foundAnyLoaded then
+        return true
     end
 
     -- Mod doesn't have any shapes, uncertain if loaded
