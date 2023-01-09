@@ -4,17 +4,20 @@ ModDatabase = {}
 
 ModDatabase.databases = {}
 
+local function countKeys(t)
+    local count = 0
+    for k, v in pairs(t) do
+        count = count + 1
+    end
+    return count
+end
+
 function ModDatabase.loadDescriptions()
     print("[ModDatabase] Loading data/descriptions.json")
 
     ModDatabase.databases.descriptions = sm.json.open("$CONTENT_40639a2c-bb9f-4d4f-b88c-41bfe264ffa8/Scripts/data/descriptions.json")
 
-    local count = 0
-    for k, v in pairs(ModDatabase.databases.descriptions) do
-        count = count + 1
-    end
-
-    print("[ModDatabase] Loaded descriptions of " .. tostring(count) .. " mods")
+    print("[ModDatabase] Loaded descriptions of " .. tostring(countKeys(ModDatabase.databases.descriptions)) .. " mods")
 end
 
 function ModDatabase.loadShapesets()
@@ -22,24 +25,91 @@ function ModDatabase.loadShapesets()
 
     ModDatabase.databases.shapesets = sm.json.open("$CONTENT_40639a2c-bb9f-4d4f-b88c-41bfe264ffa8/Scripts/data/shapesets.json")
 
-    local count = 0
-    for k, v in pairs(ModDatabase.databases.shapesets) do
-        count = count + 1
-    end
-
-    print("[ModDatabase] Loaded shapesets of " .. tostring(count) .. " mods")
+    print("[ModDatabase] Loaded shapesets of " .. tostring(countKeys(ModDatabase.databases.shapesets)) .. " mods")
 end
+
+function ModDatabase.loadToolsets()
+    print("[ModDatabase] Loading data/toolsets.json")
+
+    ModDatabase.databases.toolsets = sm.json.open("$CONTENT_40639a2c-bb9f-4d4f-b88c-41bfe264ffa8/Scripts/data/toolsets.json")
+
+    print("[ModDatabase] Loaded toolsets of " .. tostring(countKeys(ModDatabase.databases.toolsets)) .. " mods")
+end
+
+function ModDatabase.loadHarvestablesets()
+    print("[ModDatabase] Loading data/harvestablesets.json")
+
+    ModDatabase.databases.harvestablesets = sm.json.open("$CONTENT_40639a2c-bb9f-4d4f-b88c-41bfe264ffa8/Scripts/data/harvestablesets.json")
+
+    print("[ModDatabase] Loaded harvestablesets of " .. tostring(countKeys(ModDatabase.databases.harvestablesets)) .. " mods")
+end
+
+function ModDatabase.loadKinematicsets()
+    print("[ModDatabase] Loading data/kinematicsets.json")
+
+    ModDatabase.databases.kinematicsets = sm.json.open("$CONTENT_40639a2c-bb9f-4d4f-b88c-41bfe264ffa8/Scripts/data/kinematicsets.json")
+
+    print("[ModDatabase] Loaded kinematicsets of " .. tostring(countKeys(ModDatabase.databases.kinematicsets)) .. " mods")
+end
+
+function ModDatabase.loadCharactersets()
+    print("[ModDatabase] Loading data/charactersets.json")
+
+    ModDatabase.databases.charactersets = sm.json.open("$CONTENT_40639a2c-bb9f-4d4f-b88c-41bfe264ffa8/Scripts/data/charactersets.json")
+
+    print("[ModDatabase] Loaded charactersets of " .. tostring(countKeys(ModDatabase.databases.charactersets)) .. " mods")
+end
+
+function ModDatabase.loadScriptableobjectsets()
+    print("[ModDatabase] Loading data/scriptableobjectsets.json")
+
+    ModDatabase.databases.scriptableobjectsets = sm.json.open("$CONTENT_40639a2c-bb9f-4d4f-b88c-41bfe264ffa8/Scripts/data/scriptableobjectsets.json")
+
+    print("[ModDatabase] Loaded scriptableobjectsets of " .. tostring(countKeys(ModDatabase.databases.scriptableobjectsets)) .. " mods")
+end
+
+
 
 function ModDatabase.unloadDescriptions()
     ModDatabase.databases.descriptions = nil
-    
+
     print("[ModDatabase] Unloaded data/descriptions.json")
 end
 
 function ModDatabase.unloadShapesets()
     ModDatabase.databases.shapesets = nil
-    
+
     print("[ModDatabase] Unloaded data/shapesets.json")
+end
+
+function ModDatabase.unloadToolsets()
+    ModDatabase.databases.toolsets = nil
+
+    print("[ModDatabase] Unloaded data/toolsets.json")
+end
+
+function ModDatabase.unloadHarvestablesets()
+    ModDatabase.databases.harvestablesets = nil
+
+    print("[ModDatabase] Unloaded data/harvestablesets.json")
+end
+
+function ModDatabase.unloadKinematicsets()
+    ModDatabase.databases.kinematicsets = nil
+
+    print("[ModDatabase] Unloaded data/kinematicsets.json")
+end
+
+function ModDatabase.unloadCharactersets()
+    ModDatabase.databases.charactersets = nil
+
+    print("[ModDatabase] Unloaded data/charactersets.json")
+end
+
+function ModDatabase.unloadScriptableobjectsets()
+    ModDatabase.databases.scriptableobjectsets = nil
+
+    print("[ModDatabase] Unloaded data/scriptableobjectsets.json")
 end
 
 
