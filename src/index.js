@@ -278,6 +278,7 @@ function getSettings() {
     await scraper.scrapeHarvestablesets();
     await scraper.scrapeKinematicsets();
     await scraper.scrapeScriptableobjectsets();
+    await scraper.scrapeCharactersets();
 
     let changelog = scraper.createChangelog(request.publishedfiledetails);
 
