@@ -138,6 +138,25 @@ function ModDatabase.isModLoaded(localId)
         end
     end
 
+    -- If the toolsets database is loaded, check for loaded tools as well
+    if ModDatabase.databases.toolsets and ModDatabase.databases.toolsets[localId] then
+        for toolset, toolUuids in pairs(ModDatabase.databases.toolsets[localId]) do
+            if toolUuids[1] then
+                local uuid = sm.uuid.new(toolUuids[1])
+
+                -- Check if a tool is loaded
+                if sm.item.isTool(uuid) then
+
+                    -- Some mods use UUIDs of the game and the previous check will always return true on them.
+                    -- This checks if the mod is installed by trying to read the tool's toolset file.
+                    return select(1, pcall(sm.json.open, toolset))
+                else
+                    return false
+                end
+            end
+        end
+    end
+
     -- Mod doesn't have any shapes, uncertain if loaded
     return nil
 end
