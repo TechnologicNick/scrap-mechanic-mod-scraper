@@ -35,6 +35,7 @@ module.exports = class Scraper {
         this.dbToolsets = new Database(path.join(this.outDir, "toolsets.json"));
         this.dbHarvestablesets = new Database(path.join(this.outDir, "harvestablesets.json"));
         this.dbKinematicsets = new Database(path.join(this.outDir, "kinematicsets.json"));
+        this.dbScriptableobjectsets = new Database(path.join(this.outDir, "scriptableobjectsets.json"));
     }
 
     async getIdsToScrape() {
@@ -379,6 +380,18 @@ module.exports = class Scraper {
             (kinematicset) => kinematicset.kinematicList.map(kinematic => kinematic.uuid),
             "kinematicset",
             "kinematicsets.kinematicdb",
+            true,
+        );
+    }
+
+    async scrapeScriptableobjectsets() {
+        await this.scrapeDatabase(
+            this.dbScriptableobjectsets,
+            path.join("ScriptableObjects", "scriptableObjectSets.sobdb"),
+            (db) => db.scriptableObjectSetList.map(sobset => sobset.scriptableObjectSet),
+            (sobset) => sobset.scriptableObjectList.map(sob => sob.uuid),
+            "scriptableobjectset",
+            "scriptableObjectSets.sobdb",
             true,
         );
     }
