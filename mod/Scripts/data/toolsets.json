@@ -2912,5 +2912,15 @@
 	"c0d2b25a-faaf-417b-875d-59ea7095842b": {},
 	"db9857fa-e69c-4670-a629-426fb57dbb1e": {},
 	"a0ab5ee2-7b1f-49f9-89ea-8ac38931349f": {},
-	"ce945d06-0174-4834-8471-f2161cb39a95": {}
+	"ce945d06-0174-4834-8471-f2161cb39a95": {},
+	"b127f6fc-67ca-4771-916d-89d7e3b37b77": {
+		"$CONTENT_b127f6fc-67ca-4771-916d-89d7e3b37b77/Tools/Database/ToolSets/example.toolset": []
+	},
+	"fd2e40a7-023c-484c-95c8-5cb0c81aff3b": {
+		"$CONTENT_fd2e40a7-023c-484c-95c8-5cb0c81aff3b/Tools/Database/ToolSets/Consumables.toolset": [
+			"ac0b5b0a-14e1-4b31-8944-0a351fbfcc67",
+			"e243f642-6934-42bb-8cdd-f8ff1704d411",
+			"9a3e478c-2224-44fa-887c-239965bd05ad"
+		]
+	}
 }
