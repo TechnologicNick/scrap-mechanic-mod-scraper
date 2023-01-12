@@ -27854,7 +27854,7 @@
 	"d2ac43e7-361d-4bc9-844e-809312ed8ea5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This is a \"Seeds & Fruit\" mod.\n\nIt adds the seeds and fruit from survival.",
+		"description": "This is a \"Seeds & Fruit\" mod.\r\n\r\nIt adds the seeds and fruit... (also vegetables) from survival.",
 		"fileId": 2913388592,
 		"localId": "d2ac43e7-361d-4bc9-844e-809312ed8ea5",
 		"name": "Seeds & Fruit",
@@ -27982,6 +27982,26 @@
 		"fileId": 2916297942,
 		"localId": "fd2e40a7-023c-484c-95c8-5cb0c81aff3b",
 		"name": "Consumables",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"81f5ec08-9a0f-4327-96c0-262ae706e4f6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "big scifi lasers and stuff",
+		"fileId": 2915607092,
+		"localId": "81f5ec08-9a0f-4327-96c0-262ae706e4f6",
+		"name": "Scifi Guns",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b03e83bd-6cfc-47d3-bfcb-3c5a437f107b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2916542549,
+		"localId": "b03e83bd-6cfc-47d3-bfcb-3c5a437f107b",
+		"name": "Player Teleporter",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

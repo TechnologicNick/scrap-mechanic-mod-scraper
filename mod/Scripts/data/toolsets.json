@@ -2656,8 +2656,15 @@
 	"930aa3f4-ed43-446e-96bf-dd512ce051c4": {},
 	"50574eab-e07b-4f6b-ac12-50c7218ea721": {},
 	"d2ac43e7-361d-4bc9-844e-809312ed8ea5": {
-		"$CONTENT_d2ac43e7-361d-4bc9-844e-809312ed8ea5/Tools/Database/ToolSets/Eat.toolset": [
-			"fa1b499e-c40e-4e55-9f73-27ae1cba6c15"
+		"$CONTENT_d2ac43e7-361d-4bc9-844e-809312ed8ea5/Tools/Database/ToolSets/Consumables.toolset": [
+			"4ec64cda-1a5b-4465-88b4-5ea452c4a556",
+			"f5098301-1693-457b-8efc-83b3504105ac",
+			"6a43fff2-8c6d-4460-9f44-e5483b5267dd",
+			"aa4c9c5e-7fc6-4c27-967f-c550e551c872",
+			"47ece75a-bfca-4e8a-b618-4f609fcea0da",
+			"4ce00048-f735-4fab-b978-5f405e60f48f",
+			"6d92d8e7-25e9-4698-b83d-a64dc97978c8",
+			"b5cdd503-fe1c-482b-86ab-6a5d2cc4fc8f"
 		]
 	},
 	"3cd744b5-7267-4911-aa34-640b9e5455c2": {},
@@ -2920,7 +2927,17 @@
 		"$CONTENT_fd2e40a7-023c-484c-95c8-5cb0c81aff3b/Tools/Database/ToolSets/Consumables.toolset": [
 			"ac0b5b0a-14e1-4b31-8944-0a351fbfcc67",
 			"e243f642-6934-42bb-8cdd-f8ff1704d411",
-			"9a3e478c-2224-44fa-887c-239965bd05ad"
+			"9a3e478c-2224-44fa-887c-239965bd05ad",
+			"54d84731-d9ec-435d-bc9d-d48e0763b1bf",
+			"cb7305b2-d8b5-4302-aff3-6cdd9212ca64",
+			"2c4a2633-153a-4800-ba3d-2ac0d993b9c8",
+			"54d8ef21-357d-48a3-a66d-40446f6bb686"
+		]
+	},
+	"81f5ec08-9a0f-4327-96c0-262ae706e4f6": {},
+	"b03e83bd-6cfc-47d3-bfcb-3c5a437f107b": {
+		"$CONTENT_b03e83bd-6cfc-47d3-bfcb-3c5a437f107b/Tools/Database/ToolSets/NewToolSet1.json": [
+			"41495d40-571a-4654-80b5-7b87692870f5"
 		]
 	}
 }
