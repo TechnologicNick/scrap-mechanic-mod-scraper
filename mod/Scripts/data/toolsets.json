@@ -2940,5 +2940,20 @@
 		]
 	},
 	"e742ec73-4a1c-4e0a-820e-5e9dd1393d2a": {},
-	"f57271fc-c008-4f9f-9407-02d7d3eb2487": {}
+	"f57271fc-c008-4f9f-9407-02d7d3eb2487": {},
+	"a3db3704-0fa0-4685-befe-e668f81149e1": {
+		"$CONTENT_a3db3704-0fa0-4685-befe-e668f81149e1/Tools/Database/ToolSets/tools.toolset": [
+			"92a363c9-6979-4f60-b609-74bad78d2a11",
+			"3aa15a68-ce9b-4df8-a821-f232d22ce73a",
+			"72c717c3-9eab-4a77-80e0-690ab171abfe",
+			"f5faff4d-feaa-4839-a60d-43637ecd619c",
+			"19855dce-6047-44d0-bf3a-062d11c38a34",
+			"e8b3adcb-06cb-46d9-b539-a3ca84824cca",
+			"ca50b410-a53b-46a8-a1c6-a16ae7608229",
+			"7d4e8cdc-107b-474c-a13b-aab8266f0d53",
+			"afcd0fef-f25b-474d-8496-00096f8f6cef",
+			"d95078dc-a3fa-4c68-b3f4-d896d71b0a72",
+			"5b625f4e-baf2-4a49-b7c5-e2779e974471"
+		]
+	}
 }
