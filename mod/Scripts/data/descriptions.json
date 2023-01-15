@@ -28050,5 +28050,25 @@
 		"name": "Buoyancy Mod",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"23454974-97e1-4f73-b73f-6e6af16c645c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Input Emulator Mod\n\nInput mapping:\n\nWhite - Engine Forward\nBlack - Engine Reverse\nBlue - Turn Left\nRed - Turn Right\nGreen - Piston + 1 Block\nPurple - Piston - 1 Block",
+		"fileId": 2918301352,
+		"localId": "23454974-97e1-4f73-b73f-6e6af16c645c",
+		"name": "WASD Emulator",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a399cff7-2ce1-4c37-a281-c71304d99076": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Bryce Balls block mod",
+		"fileId": 2918331730,
+		"localId": "a399cff7-2ce1-4c37-a281-c71304d99076",
+		"name": "Bryce Balls",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
