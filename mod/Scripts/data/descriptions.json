@@ -14705,7 +14705,7 @@
 	"c2ed6bcc-2043-4afd-ba7d-f724acf822d3": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "NOW IN ACTIVE DEVLOPEMENT\n\n----- WORK IN PROGRESS -----\n\nA sus version of Among us.\n\nYour spaceship of the Wonk Compagnie will be no longer coming a crime scene.\nTry to investigate to know who is the bot in your spaceship ! \n\nWarning, the mod is, for now, not completed,  but the devlopment is active!\n\nIf you want to contribute to the project, contact us, we need you !\n\nShare and like !\nAmong Scrap (WORK IN PROGRESS)\n\n",
+		"description": "NOW IN ACTIVE DEVLOPEMENT\r\n\r\n----- WORK IN PROGRESS -----\r\n\r\nA sus version of Among us.\r\n\r\nYour spaceship of the Wonk Compagnie will be no longer coming a crime scene.\r\nTry to investigate to know who is the bot in your spaceship ! \r\n\r\n\r\nWarning, the mod is, for now, not completed,  but the devlopment is active!\r\n\r\nIf you want to contribute to the project, contact us, we need you !\r\n\r\nShare and like !\r\nAmong Scrap (WORK IN PROGRESS)\r\n\r\n",
 		"fileId": 2811583960,
 		"localId": "c2ed6bcc-2043-4afd-ba7d-f724acf822d3",
 		"name": "Among Scrap",
@@ -26500,7 +26500,7 @@
 	"9838cd1a-207a-49e8-bdc5-8ce609e5ac44": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "BETA 1.9",
+		"description": "BETA 2.0",
 		"fileId": 2874348356,
 		"localId": "9838cd1a-207a-49e8-bdc5-8ce609e5ac44",
 		"name": "P.D.P.Z.P",
@@ -28018,7 +28018,13 @@
 	"f57271fc-c008-4f9f-9407-02d7d3eb2487": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod adds four types of \"bacteria\" to the game.",
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
+			}
+		],
+		"description": "This mod adds four types of \"bacteria\" to the game.\r\n\r\nType 1:\r\n- Green Bacteria. Slowly infects and eats away at any creation it touches until there's nothing left.\r\n\r\nType 2:\r\n- Red Bacteria. By itself it behaves the same as the green one, but if they combine....\r\n\r\nType 3:\r\n- Fire Bacteria. Has flames coming out of it and spreads similar to real fire.\r\n\r\nType 4:\r\n- Electric Bacteria. Is charged with electricity and produces a field of electrical interference around it, which interferes with logic creations or may even damage them!",
 		"fileId": 2917137777,
 		"localId": "f57271fc-c008-4f9f-9407-02d7d3eb2487",
 		"name": "Bacteria Mod",

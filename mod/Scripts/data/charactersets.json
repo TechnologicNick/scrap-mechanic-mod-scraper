@@ -140,7 +140,12 @@
 		"$CONTENT_c21b3ba1-382c-462c-b17d-04ba99c3e911/Characters/Database/CharacterSets/example.characterset": []
 	},
 	"c2ed6bcc-2043-4afd-ba7d-f724acf822d3": {
-		"$CONTENT_c2ed6bcc-2043-4afd-ba7d-f724acf822d3/Characters/Database/CharacterSets/example.characterset": []
+		"$CONTENT_c2ed6bcc-2043-4afd-ba7d-f724acf822d3/Characters/Database/CharacterSets/example.characterset": [
+			"65c2f922-bbdd-4d38-9e1d-c42d9557ced4"
+		],
+		"$CONTENT_c2ed6bcc-2043-4afd-ba7d-f724acf822d3/Characters/Database/CharacterSets/mechanic.characterset": [
+			"36fe0ade-9352-43e4-9e81-146fafcd3522"
+		]
 	},
 	"e1e6e22f-e79f-4edb-a9dc-62df46cae238": {
 		"$CONTENT_e1e6e22f-e79f-4edb-a9dc-62df46cae238/Characters/Database/CharacterSets/example.characterset": []

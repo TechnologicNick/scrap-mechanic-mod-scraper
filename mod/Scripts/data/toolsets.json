@@ -2940,7 +2940,11 @@
 		]
 	},
 	"e742ec73-4a1c-4e0a-820e-5e9dd1393d2a": {},
-	"f57271fc-c008-4f9f-9407-02d7d3eb2487": {},
+	"f57271fc-c008-4f9f-9407-02d7d3eb2487": {
+		"$CONTENT_f57271fc-c008-4f9f-9407-02d7d3eb2487/Tools/Database/ToolSets/tools.json": [
+			"572f5508-9af2-4f4d-b62d-08bf562a5f5f"
+		]
+	},
 	"a3db3704-0fa0-4685-befe-e668f81149e1": {
 		"$CONTENT_a3db3704-0fa0-4685-befe-e668f81149e1/Tools/Database/ToolSets/tools.toolset": [
 			"92a363c9-6979-4f60-b609-74bad78d2a11",

@@ -40244,6 +40244,10 @@
 			"3f6bdb04-f7cb-4acf-a436-95e1abf45e4b",
 			"174163a9-9311-485e-b1e7-0031e988c04a",
 			"899324f3-8764-45e0-a45b-0e0eba68b6f3"
+		],
+		"$CONTENT_c2ed6bcc-2043-4afd-ba7d-f724acf822d3/Objects/Database/ShapeSets/gameaction.shapeset": [
+			"231db07d-b14d-48ba-919d-037e214e7ca1",
+			"281fe90c-f456-4b29-b9d0-50165374d3f6"
 		]
 	},
 	"e1e6e22f-e79f-4edb-a9dc-62df46cae238": {
@@ -56820,11 +56824,22 @@
 		]
 	},
 	"f57271fc-c008-4f9f-9407-02d7d3eb2487": {
-		"$CONTENT_f57271fc-c008-4f9f-9407-02d7d3eb2487/Objects/Database/ShapeSets/example.shapeset": [
+		"$CONTENT_f57271fc-c008-4f9f-9407-02d7d3eb2487/Objects/Database/ShapeSets/bacteria.shapeset": [
 			"15ab9aaa-8f9e-11ed-a1eb-0242ac120002",
 			"2ef4d66a-9175-11ed-a1eb-0242ac120002",
 			"c1b2826c-920c-11ed-a1eb-0242ac120002",
-			"035110e6-9242-11ed-a1eb-0242ac120002"
+			"035110e6-9242-11ed-a1eb-0242ac120002",
+			"789cf46b-3d2c-4019-a60b-6c5070ac58a3",
+			"dcca292b-27a0-444b-a141-7d46080058a3",
+			"a1ffc001-fb8f-4a65-9994-0d1325297b16",
+			"2b2ebcdb-2434-4ef0-aa1c-ec450c116c40"
+		],
+		"$CONTENT_f57271fc-c008-4f9f-9407-02d7d3eb2487/Objects/Database/ShapeSets/override.shapeset": [
+			"be29592a-ef58-4b1d-b18c-895023abd27f"
+		],
+		"$CONTENT_f57271fc-c008-4f9f-9407-02d7d3eb2487/Objects/Database/ShapeSets/blocks.shapeset": [
+			"592650a4-577e-4c1a-ab48-522d593d33b6",
+			"115eca83-e385-4a32-9727-a4fd79aa8e4c"
 		]
 	},
 	"a3db3704-0fa0-4685-befe-e668f81149e1": {
