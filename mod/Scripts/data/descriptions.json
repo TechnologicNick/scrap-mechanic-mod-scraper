@@ -28076,5 +28076,25 @@
 		"name": "Bryce Balls",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"d752d3fd-11df-4127-9718-a14edcc70978": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Bed go brrr",
+		"fileId": 2870930089,
+		"localId": "d752d3fd-11df-4127-9718-a14edcc70978",
+		"name": "Bedwars Custom Game",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"3607044c-bdca-417a-b1ae-d191e62c1795": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2911923161,
+		"localId": "3607044c-bdca-417a-b1ae-d191e62c1795",
+		"name": "maps",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

@@ -2964,5 +2964,11 @@
 		"$CONTENT_aed53331-515a-41de-8b6d-1211bb4182f8/Tools/Database/ToolSets/example.toolset": []
 	},
 	"23454974-97e1-4f73-b73f-6e6af16c645c": {},
-	"a399cff7-2ce1-4c37-a281-c71304d99076": {}
+	"a399cff7-2ce1-4c37-a281-c71304d99076": {},
+	"d752d3fd-11df-4127-9718-a14edcc70978": {
+		"$CONTENT_d752d3fd-11df-4127-9718-a14edcc70978/Tools/Database/ToolSets/vanila.toolset": [
+			"a6113860-f4d4-42df-b8f9-129efdbaf777"
+		]
+	},
+	"3607044c-bdca-417a-b1ae-d191e62c1795": {}
 }
