@@ -15912,7 +15912,7 @@
 	"86f07a0f-e8c4-4610-82d1-da76b7e59899": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "A really slippy block that can be used to make thruster engines.",
+		"description": "NOW V1.1 !! NOW NON-DESCTRUTABLE !!\nA really slippy block that can be used to make thruster engines. It got even lower friction than the mesh block.",
 		"fileId": 2837037343,
 		"localId": "86f07a0f-e8c4-4610-82d1-da76b7e59899",
 		"name": "Slippy blocks",
@@ -26389,7 +26389,7 @@
 	"5519ca33-3719-4cb2-993c-c6c92e3196ec": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1] IndustrialScrap(CustomGame)\r\n\r\n[b] An industry mod for survival\r\n[u]Contents:\r\n[list]\r\n[*]Metals\r\n[*]Materials\r\n[*]Wheat\r\n[*]usable crates\r\n[*]Nuclear\r\n[*]Electricity\r\n[*]Milkin Wocs!\r\n[*]Skills\r\n[*]Bigger Map\r\n[/list]\r\n[/u]\r\n[b]trello list for later stuff:  https://trello.com/b/Ta3qh62k/fcmod\r\n\r\nTUTORIAL:[url]https://youtu.be/nGN2It0sxBU[/url]\r\nDC:Link [url]https://discord.gg/F2gUbr63MY[/b][/url]\r\n\r\n__________________________________________\r\n\r\n",
+		"description": "[h1] IndustrialScrap(CustomGame)\n\n[b] An industry mod for survival\n[u]Contents:\n[list]\n[*]Metals\n[*]Materials\n[*]usable crates\n[*]Nuclear\n[*]Electricity\n[*]Milkin Wocs!\n[*]Skills\n[*]Bigger Map\n[/list]\n[/u]\n[b]trello list for later stuff:  https://trello.com/b/Ta3qh62k/fcmod\n\nTUTORIAL:[url]https://youtu.be/nGN2It0sxBU[/url]\nDC:Link [url]https://discord.gg/F2gUbr63MY[/b][/url]\n\n__________________________________________\n\n",
 		"fileId": 2867446377,
 		"localId": "5519ca33-3719-4cb2-993c-c6c92e3196ec",
 		"name": "IndustrialScrap [CustomGame]",
@@ -28094,6 +28094,16 @@
 		"fileId": 2911923161,
 		"localId": "3607044c-bdca-417a-b1ae-d191e62c1795",
 		"name": "maps",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"c5454ea4-7709-4261-aed2-1360ec1944af": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod adds a Jetpack. Made by 00Fant",
+		"fileId": 2919540338,
+		"localId": "c5454ea4-7709-4261-aed2-1360ec1944af",
+		"name": "Jetpack",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

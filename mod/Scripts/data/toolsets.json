@@ -2970,5 +2970,10 @@
 			"a6113860-f4d4-42df-b8f9-129efdbaf777"
 		]
 	},
-	"3607044c-bdca-417a-b1ae-d191e62c1795": {}
+	"3607044c-bdca-417a-b1ae-d191e62c1795": {},
+	"c5454ea4-7709-4261-aed2-1360ec1944af": {
+		"$CONTENT_c5454ea4-7709-4261-aed2-1360ec1944af/Tools/Database/ToolSets/Jetpack.toolset": [
+			"1ce96057-1d6b-4be3-b39c-cec48699e32c"
+		]
+	}
 }
