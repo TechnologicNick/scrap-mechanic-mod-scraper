@@ -460,5 +460,10 @@
 		"$CONTENT_d752d3fd-11df-4127-9718-a14edcc70978/ScriptableObjects/ScriptableObjectSets/managers.sobset": [
 			"cb5871ae-c677-4480-94e9-31d16899d093"
 		]
+	},
+	"524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf": {
+		"$CONTENT_524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf/ScriptableObjects/ScriptableObjectSets/misu_manarers.sobset": [
+			"757b5d8b-4a9c-4e30-a565-90230c815659"
+		]
 	}
 }

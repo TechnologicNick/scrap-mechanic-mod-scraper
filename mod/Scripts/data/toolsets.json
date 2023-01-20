@@ -2976,5 +2976,12 @@
 			"1ce96057-1d6b-4be3-b39c-cec48699e32c"
 		]
 	},
-	"0a923245-6f73-45c3-97e3-f0efd19e3d49": {}
+	"0a923245-6f73-45c3-97e3-f0efd19e3d49": {},
+	"524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf": {
+		"$CONTENT_524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf/Tools/Database/ToolSets/misu_tools.toolset": [
+			"40adf281-0141-4168-9182-b5b2e1867ed3",
+			"ebd91a92-e142-4d2a-a2b4-881947693a53",
+			"2a42d51d-3502-4dd9-80fe-042543b3ff74"
+		]
+	}
 }
