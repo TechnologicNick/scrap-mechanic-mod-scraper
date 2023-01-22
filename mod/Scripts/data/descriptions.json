@@ -28120,7 +28120,7 @@
 	"524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This is my version on Survival",
+		"description": "This is my version on Survival .. its still in Beta state.. so if you have any ideas im happy to hear them @ https://discord.gg/N5hecbNK9g :)\n\nCheats? since its in DEV mode still you have \n\nNew commands!!\n/l = limited\n/u = unlimited\n/addmoney\n/removemoney = im not sure will this work\n/shop\n/fly\n\nnow comes Minecraft friendly commands\n/gmc = creative mode\n/gms = survival mode\n\npress R to open Shop.. will change it to H aka Handbook\n\nas i said any bugs / suggestions leave them at https://discord.com/channels/317761694820597770/1065643626597732422",
 		"fileId": 2920382717,
 		"localId": "524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf",
 		"name": "MisuMod - Survival (Custom)",
@@ -28136,5 +28136,15 @@
 		"name": "vannila survival",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"7bf589e6-46bf-4006-acb5-dbc88d07296e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Powerful, explosive gun with high fire-rate for the F22 Raptor.",
+		"fileId": 2921869207,
+		"localId": "7bf589e6-46bf-4006-acb5-dbc88d07296e",
+		"name": "asd",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
