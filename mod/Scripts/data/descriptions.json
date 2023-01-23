@@ -28156,5 +28156,26 @@
 		"name": "Explosive Gun mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"93a3bc1e-7e52-4daa-af14-0ba585ad4472": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "Adds a Block that can Destroy othe blocks based on impact damage",
+		"fileId": 2912842241,
+		"localId": "93a3bc1e-7e52-4daa-af14-0ba585ad4472",
+		"name": "Impact Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a8001c69-7db7-477d-8649-9ccc31909c9e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A mod that make trash finding a lot easier",
+		"fileId": 2922060438,
+		"localId": "a8001c69-7db7-477d-8649-9ccc31909c9e",
+		"name": "Custom Trash Locator Mod",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
