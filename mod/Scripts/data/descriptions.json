@@ -28146,5 +28146,15 @@
 		"name": "asd",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"9a6a5359-eaeb-4ed7-ba4f-0609da7cc5b3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Powerful explosive gun with high fire-rate. Useful in short and long ranges too.",
+		"fileId": 2921890995,
+		"localId": "9a6a5359-eaeb-4ed7-ba4f-0609da7cc5b3",
+		"name": "Explosive Gun mod",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
