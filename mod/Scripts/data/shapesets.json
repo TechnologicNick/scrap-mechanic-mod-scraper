@@ -54552,7 +54552,11 @@
 		],
 		"$CONTENT_5c17c1c8-2c1d-4559-b05b-db6a345896f8/Objects/Database/ShapeSets/cars.shapeset": [
 			"85c86d6e-9613-44f2-b5e8-2eb428357d9e",
-			"a307303b-dc69-47b8-89b6-be439a691c70"
+			"a307303b-dc69-47b8-89b6-be439a691c70",
+			"21dbb828-fb0d-4e1c-b1c2-865f86c49980",
+			"27cfa18c-dc92-4923-a4ae-44e329521e70",
+			"9d12aa2f-668e-45c9-a0be-f1aede57bfb2",
+			"a62f3479-6112-45a4-8d17-45d6e181f915"
 		],
 		"$CONTENT_5c17c1c8-2c1d-4559-b05b-db6a345896f8/Objects/Database/ShapeSets/russia_trains.shapeset": [
 			"49de45b8-bd2f-4d4f-8cf2-169815c0cbf5",
@@ -58491,6 +58495,13 @@
 	"a8001c69-7db7-477d-8649-9ccc31909c9e": {
 		"$CONTENT_a8001c69-7db7-477d-8649-9ccc31909c9e/Objects/Database/ShapeSets/example.shapeset": [
 			"db711606-5d3d-4a20-b18d-181f4c44bfbd"
+		]
+	},
+	"4784c689-ce16-482c-93aa-f26f467301c2": {
+		"$CONTENT_4784c689-ce16-482c-93aa-f26f467301c2/Objects/Database/ShapeSets/example.shapeset": [
+			"d628e6fd-b87e-4c1d-a98a-98896131dbc6",
+			"9ecdf080-6142-4b03-971d-2a0024a5c1ca",
+			"f9deaf03-c783-4346-935e-b77e71b648f3"
 		]
 	}
 }

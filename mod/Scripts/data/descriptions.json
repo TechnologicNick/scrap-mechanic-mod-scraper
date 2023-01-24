@@ -26547,7 +26547,7 @@
 	"5c17c1c8-2c1d-4559-b05b-db6a345896f8": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "VTTM 1.0 kot train wheels 81-717/714\n\nVTTM 1.1 81-718/719\n\nVTTM 1.1.1 fix front\n\nVTTM 1.2 model update \n\nVTTM 1.2.1 doors update\n\nVTTM 1.2.2 doors fix\n\nVTTM 1.3 final 1.0, new 3d model for subway, 81-710\n\nVTTM 1.4 ER2, 1 block thruster \n\nVTTM 1.4.1 puk\n\nVTTM 1.5\nKTM-5 in diff colors\nkvas\n\nVTTM 1.6\nAA1\nAA2\nchocolate\natomic reactor\n\nVTTM 1.7\nTECHNICAL UPDATE\nVAZ-2104 in diff colors \n\nVTTM 1.7.1\nsome fixes\n\nVTTM 1.7.2\nsome fixes",
+		"description": "VTTM 1.0 kot train wheels 81-717/714\n\nVTTM 1.1 81-718/719\n\nVTTM 1.1.1 fix front\n\nVTTM 1.2 model update \n\nVTTM 1.2.1 doors update\n\nVTTM 1.2.2 doors fix\n\nVTTM 1.3 final 1.0, new 3d model for subway, 81-710\n\nVTTM 1.4 ER2, 1 block thruster \n\nVTTM 1.4.1 puk\n\nVTTM 1.5\nKTM-5 in diff colors\nkvas\n\nVTTM 1.6\nAA1\nAA2\nchocolate\natomic reactor\n\nVTTM 1.7\nTECHNICAL UPDATE\nVAZ-2104 in diff colors \n\nVTTM 1.7.1\nsome fixes\n\nVTTM 1.7.2\nsome fixes\n\nVTTM 1.8\nBUHANKA\nLIAZ-677 in diff colors",
 		"fileId": 2869548799,
 		"localId": "5c17c1c8-2c1d-4559-b05b-db6a345896f8",
 		"name": "Voxel tram trains mod",
@@ -28175,6 +28175,16 @@
 		"fileId": 2922060438,
 		"localId": "a8001c69-7db7-477d-8649-9ccc31909c9e",
 		"name": "Custom Trash Locator Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"4784c689-ce16-482c-93aa-f26f467301c2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds different tech things\n\nParts:\nHoverpad (WIP)\nTungsten\nAerogel",
+		"fileId": 2915561488,
+		"localId": "4784c689-ce16-482c-93aa-f26f467301c2",
+		"name": "Zen's Scraptech Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
