@@ -58508,5 +58508,12 @@
 		"$CONTENT_55735746-8682-4fd8-a91e-f480241e984d/Objects/Database/ShapeSets/example.shapeset": [
 			"3719d04b-3221-48f2-8c7e-51c51286fac1"
 		]
+	},
+	"72c60b8b-68e3-4044-b825-0649c8534c41": {
+		"$CONTENT_72c60b8b-68e3-4044-b825-0649c8534c41/Objects/Database/ShapeSets/Shotterer.json": [],
+		"$CONTENT_72c60b8b-68e3-4044-b825-0649c8534c41/Objects/Database/ShapeSets/example.shapeset": [
+			"a6cf74e2-9c51-11ed-a8fc-0242ac120002",
+			"f9cda51a-16d5-4515-bbcd-b546bc9174d9"
+		]
 	}
 }
