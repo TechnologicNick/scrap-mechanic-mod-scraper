@@ -28187,5 +28187,15 @@
 		"name": "Zen's Scraptech Mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"55735746-8682-4fd8-a91e-f480241e984d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2923011179,
+		"localId": "55735746-8682-4fd8-a91e-f480241e984d",
+		"name": "Ball Joint",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
