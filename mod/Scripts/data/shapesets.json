@@ -62730,7 +62730,46 @@
 	},
 	"0859cbe7-66d5-4656-b383-7aa97168e472": {
 		"$CONTENT_0859cbe7-66d5-4656-b383-7aa97168e472/Objects/Database/ShapeSets/example.shapeset": [
-			"760cb200-1aff-4114-963d-1f37d36f0dae"
+			"760cb200-1aff-4114-963d-1f37d36f0dae",
+			"b22327d5-e122-46b8-bfc8-61b805ae425e"
 		]
+	},
+	"32bd3c76-4202-499c-8826-12c4bf170fd9": {
+		"$CONTENT_32bd3c76-4202-499c-8826-12c4bf170fd9/Objects/Database/ShapeSets/Buckets.shapeset": [
+			"5b418483-8230-4002-abe9-1056df69475d",
+			"2aab59b4-ead6-412b-b479-734f6409df6a",
+			"f2f98391-48f7-421c-aa90-a8a811d0ffee"
+		],
+		"$CONTENT_32bd3c76-4202-499c-8826-12c4bf170fd9/Objects/Database/ShapeSets/extra.shapeset": [
+			"3755264d-e35c-481e-8e75-f414045d9f8b"
+		],
+		"$CONTENT_32bd3c76-4202-499c-8826-12c4bf170fd9/Objects/Database/ShapeSets/Harvestables.shapeset": [
+			"e364269b-a487-4c0a-b2a9-16d321a90a46"
+		],
+		"$CONTENT_32bd3c76-4202-499c-8826-12c4bf170fd9/Objects/Database/ShapeSets/main.shapeset": [
+			"bd85aab8-da40-4295-be6b-f987bf44f08a",
+			"81826998-ba39-4901-8466-b49ed37310b9",
+			"b7fe5425-c793-4389-a6bc-9fb933a4a5c0",
+			"d50370f9-c1bf-4c49-bbc8-e22d2de94454",
+			"8180a279-e8ae-4893-8f8f-cb30c94b6260",
+			"6000739d-e7df-4e90-a59d-806f906e039d",
+			"881cded4-6d3f-46da-8a02-3d18b0cb4962",
+			"56350ab4-6dee-4706-835d-3f684c2c6bee",
+			"e23619f1-c290-45a7-934b-cdbf4dedb6e7",
+			"49dbc422-8fcf-43a0-809d-d32a71420325",
+			"0ea661c1-9535-4a96-b2c2-984a17834ab6",
+			"5007f881-f75f-4209-8aae-e67f9ac8b171",
+			"c9f72515-c37e-4edf-ae3f-f5066c817751",
+			"3b88892a-1780-443e-8dc3-21eddb3b2cb9",
+			"e752d0f9-9a0b-46ff-94ec-39c3ab55fa6c",
+			"4e876ebd-9536-4c51-8e9b-a98901d7b6ca",
+			"c5f74246-4059-4861-8753-be83f0a1dc24",
+			"c6e11e2b-1578-4f00-bb89-4a2a7d5bdce9",
+			"1581aec8-699e-4679-8b95-7bd49d3e4551",
+			"7f6adb69-9f79-4241-8305-9121beee0dc9",
+			"f15d3a0f-7070-430b-bd76-f5d42da26193",
+			"e364269b-a487-4c0a-b2a9-16d321a90a46"
+		],
+		"$CONTENT_32bd3c76-4202-499c-8826-12c4bf170fd9/Objects/Database/ShapeSets/NewShapeSet1.shapeset": []
 	}
 }

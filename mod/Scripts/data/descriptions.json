@@ -28241,7 +28241,7 @@
 	"b02ebe2d-b609-40a4-928e-1a5046c3100b": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h1] TEST VERSION - STILL WORK IN PROGRESS - Only For Test Purpose ATM [/h1]\r\nThis Mod Adds Dragable Wedges!\r\n( just before we get them in chapter 2 )\r\n\r\n4096 Different Wedges\r\n\r\n[h1] STILL TODO [/h1]\r\n-Make the Wedges Attaching to Creations. \r\nCurrently they get Created Free. So you have to Weld them after Placing.\r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.",
+		"description": "[h1] Dragable Wedges [/h1]\r\nThis Mod Adds Dragable Wedges!\r\n( just before we get them in chapter 2 )\r\n\r\n4096 Different Wedges\r\n\r\n[h1] STILL TODO [/h1]\r\n-Make the Wedges Attaching to Creations. \r\nCurrently they get Created Free. So you have to Weld them after Placing.\r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.",
 		"fileId": 2923909779,
 		"localId": "b02ebe2d-b609-40a4-928e-1a5046c3100b",
 		"name": "Dragable Wedges",
@@ -28361,10 +28361,21 @@
 	"0859cbe7-66d5-4656-b383-7aa97168e472": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Thios mod adds Fiat Seicento to the game. ",
+		"description": "This mod adds Fiat Seicento to the game.\n\nThere are 2 color options: light blue and red\n\nI'd suggest using something like The Legend Mod to get 1x1 engines because there's not that much space to fit a full-sized one without it cliping out of the textures.\n\nThis is the best quality model I found (for free), It is ported from game called OMSI.\n",
 		"fileId": 2925099714,
 		"localId": "0859cbe7-66d5-4656-b383-7aa97168e472",
 		"name": "Fiat Seicento Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"32bd3c76-4202-499c-8826-12c4bf170fd9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "WIP\nthis has indistrucable items.\ngoto this mod for interactables: MOD_SOON",
+		"fileId": 2924854797,
+		"localId": "32bd3c76-4202-499c-8826-12c4bf170fd9",
+		"name": "shapez fix",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
