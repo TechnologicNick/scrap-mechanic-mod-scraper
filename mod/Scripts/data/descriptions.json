@@ -12623,7 +12623,7 @@
 	"b3dc637a-90a5-46d1-8c3a-881bc2205c0e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Version 1.18\r\n\r\n\r\nChangelog \\/ \\/ \\/\r\n\r\nChristmas came early today! The \"Skanetrafiken smorgasbord update\" is here!\r\n\r\nWith all seats and block variants (Block variants being 2x2x1 and 3x3x1) available In Gray, Prioritized seat orange, Old alternative regional yellow, Old regional red And Old city green!\r\n\r\nCombine all of those seats and you have a hefty update!\r\n\r\n\r\n\r\n\r\nWelcome to the NEW bus seats and fabrics mod!\r\n\r\nEver since the bus seats and fabrics mod glitched out and duplicated itself (along with other glitches) I've had the idea of a new bus seats and fabrics mod on my mind...\r\n\r\nand now i'm proud to announce the release of the NEW bus seats and fabrics mod!\r\nHope you enjoy :)\r\n\r\n\r\n\r\n",
+		"description": "Version 1.19\r\n\r\n\r\nChangelog \\/ \\/ \\/\r\n\r\nSMALL UPDATE! Here are a few seats and fabrics :)\r\n\r\n\r\n\r\nWelcome to the NEW bus seats and fabrics mod!\r\n\r\nEver since the bus seats and fabrics mod glitched out and duplicated itself (along with other glitches) I've had the idea of a new bus seats and fabrics mod on my mind...\r\n\r\nand now i'm proud to announce the release of the NEW bus seats and fabrics mod!\r\nHope you enjoy :)\r\n\r\n\r\n\r\n",
 		"fileId": 2800437500,
 		"localId": "b3dc637a-90a5-46d1-8c3a-881bc2205c0e",
 		"name": "New bus seats and fabrics mod",
@@ -28171,7 +28171,7 @@
 	"a8001c69-7db7-477d-8649-9ccc31909c9e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "A mod that make trash finding a lot easier",
+		"description": "A mod that make trash finding a lot easier\r\n\r\n-- WHAT IS IT DOING --\r\n\r\nWhen you activate the unweld locator, it will automaticaly add beacons objects on every unwelded creations or parts in your world. Please note that the beacons will not be visible everytime because of the scrap mechanic render distance.\r\n\r\n-- HOW TO USE --\r\n\r\nPut the unweld locator on the floor\r\nShoot on it with a sputgun to activate / desactivate the beacons\r\n\r\nWARNING : SHOOTING A BIG AMOUT OF POTATOS ON THE UNWELD LOCATOR AT THE SAME TIME WILL CRASH YOUR GAME\r\n\r\nIf you have any sugestions, let me know ^^",
 		"fileId": 2922060438,
 		"localId": "a8001c69-7db7-477d-8649-9ccc31909c9e",
 		"name": "Custom Trash Locator Mod",
@@ -28376,6 +28376,26 @@
 		"fileId": 2924854797,
 		"localId": "32bd3c76-4202-499c-8826-12c4bf170fd9",
 		"name": "shapez fix",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"8d56f65a-4033-485b-a6f4-6b5781583188": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Better Loot Table Mod V2",
+		"fileId": 2925439763,
+		"localId": "8d56f65a-4033-485b-a6f4-6b5781583188",
+		"name": "Better Loot Table V2",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"83240ba7-1937-42b4-8299-f1efe0511a50": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds parts that make a modder's life easier!\n\n[hr][/hr]\n[b]Added Parts:[/b]\n• Recipe Maker - [i]Lets you easily create recipes and save them with a user friendly gui.[/i]\n• Inventory Description Maker - [i]Lets you create inventory descriptions with a user friendly gui.[/i]\n\n[hr][/hr]\n[b]Credits:[/b]\nScripting: [url=https://steamcommunity.com/id/Fagiano0]Fagiano0[/url]\nModels: [url=https://steamcommunity.com/id/Red-Builds]The Red Builder[/url]\n\n[hr][/hr]\n[img]https://i.imgur.com/p7Fv1Z6.gif[/img]\n\nIf you have ideas for new parts leave them in the comments!",
+		"fileId": 2925449174,
+		"localId": "83240ba7-1937-42b4-8299-f1efe0511a50",
+		"name": "Modder Utilities",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
