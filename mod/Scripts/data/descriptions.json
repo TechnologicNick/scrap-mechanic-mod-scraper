@@ -28321,7 +28321,7 @@
 	"6c25c658-0f6d-4b59-bef9-efddf4622bc5": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h1] STILL WORK IN PROGRESS - Careful in Use! [/h1]\r\nThis Mod Adds a Ball Seat.\r\nA Gyroscopic Controlled Seat.\r\n( just before we get them in chapter 2 )\r\n\r\n[h1] KNOWN ISSUE [/h1]\r\n-The Lift is NOT able to Spawn a Creation with that on it ( Invalid Joint ).\r\n Workaround: Save ur Creation without that Ballseat and Place it on it if you spawn your creation with a Lift.\r\n\r\n[h1] HUGE THANKS TO MrCrackx02, He found the Balljoint hidden inside the game Code. Without it this would not be Possible! [/h1]\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.",
+		"description": "This Mod Adds a Ball Seat.\r\nA Gyroscopic Controlled Seat.\r\n( just before we get them in chapter 2 )\r\n\r\n[h1] KNOWN ISSUE [/h1]\r\n-The Lift is NOT able to Spawn a Creation with that on it ( Invalid Joint ).\r\n Workaround: Save ur Creation without that Ballseat and Place it on it if you spawn your creation with a Lift.\r\n\r\n[h1] HUGE THANKS TO MrCrackx02, He found the Balljoint hidden inside the game Code. Without it this would not be Possible! [/h1]\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.",
 		"fileId": 2924764837,
 		"localId": "6c25c658-0f6d-4b59-bef9-efddf4622bc5",
 		"name": "Ball Seat",
@@ -28406,6 +28406,16 @@
 		"fileId": 2926063497,
 		"localId": "f74d1849-8c48-4656-ab89-86cc7b79257f",
 		"name": "Trees and Stones",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a80338b0-7b3f-4c09-ac64-1c21bf629a33": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod contains all my successful new ideas and life improvements.\n\nWarning: this mod relies heavily on Game Data, so it might break in the future!\n\nVersion 1.0",
+		"fileId": 2926221169,
+		"localId": "a80338b0-7b3f-4c09-ac64-1c21bf629a33",
+		"name": "The SMM Pack",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

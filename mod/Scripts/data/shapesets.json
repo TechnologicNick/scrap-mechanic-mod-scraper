@@ -62898,5 +62898,14 @@
 			"05c81c17-3780-4edb-80a4-1648c25ca460",
 			"15ee8b4c-d58b-462f-a0a0-5c9bcdff495f"
 		]
+	},
+	"a80338b0-7b3f-4c09-ac64-1c21bf629a33": {
+		"$CONTENT_a80338b0-7b3f-4c09-ac64-1c21bf629a33/Objects/Database/ShapeSets/parts.json": [
+			"44653de7-9b6c-4c93-99b7-2fb77c467aeb",
+			"1efb8f3b-3cf3-4fc1-b0dd-e8e6a8d43bc1",
+			"55d01b67-69fb-4bdf-a215-85c9f55c0fcc",
+			"50491d19-379f-4d30-9599-e23fc1c337da",
+			"602712de-6fe4-4ffc-948f-3123a46642d0"
+		]
 	}
 }
