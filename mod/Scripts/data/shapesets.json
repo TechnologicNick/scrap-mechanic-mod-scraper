@@ -55089,8 +55089,7 @@
 			"f9b5c7ac-5a29-4973-ba7f-7b2b5ff66a20",
 			"60966b58-94a2-4730-bddb-6652144a7ea8",
 			"78eb45cd-39e6-46a1-9fc2-9959d9dd1400",
-			"b59e44cd-deda-4df4-87c0-e83a1fc80752",
-			"a341e9fb-5ad4-435b-a588-30a6f8596201"
+			"b59e44cd-deda-4df4-87c0-e83a1fc80752"
 		]
 	},
 	"e33ef53c-a64f-44ea-bcdd-5355f520651e": {
@@ -62908,9 +62907,15 @@
 			"602712de-6fe4-4ffc-948f-3123a46642d0",
 			"48b0aeaf-315b-4111-bf1f-65898aad1c03",
 			"a43c2437-b9ff-46b4-82b7-203aeaec226a",
+			"b4c7e885-f4f1-46af-9c49-8787cc8a627f",
 			"82c8a634-c146-4ffa-86d4-d9d4c43614af",
 			"6f4333fb-e7e6-42ce-a732-55b2cd8e7929",
 			"92b8a2d9-2714-4cc6-adb3-7bd19df2002e"
+		]
+	},
+	"a511e5d0-444f-43c2-86a5-970cf57dc3e3": {
+		"$CONTENT_a511e5d0-444f-43c2-86a5-970cf57dc3e3/Objects/Database/ShapeSets/example.shapeset": [
+			"221d89c5-233d-4b37-ac13-f277e1e31f75"
 		]
 	}
 }

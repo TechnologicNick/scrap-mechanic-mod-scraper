@@ -12623,7 +12623,7 @@
 	"b3dc637a-90a5-46d1-8c3a-881bc2205c0e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Version 1.20 TEXTURE IMPROVEMENT UPDATE\r\n\r\n\r\nChangelog \\/ \\/ \\/\r\n\r\nMajority of skanetrafiken seat textures remade,\r\n\r\nChanged saturation on two fabrics (Affects all seats+fabric blocks with that fabric)\r\n\r\nFixed incorrect texture loop,\r\n\r\nThe backside of the city seat is now colorable :D\r\n\r\n\r\n\r\n\r\nWelcome to the NEW bus seats and fabrics mod!\r\n\r\nEver since the bus seats and fabrics mod glitched out and duplicated itself (along with other glitches) I've had the idea of a new bus seats and fabrics mod on my mind...\r\n\r\nand now i'm proud to announce the release of the NEW bus seats and fabrics mod!\r\nHope you enjoy :)\r\n\r\n\r\n\r\n",
+		"description": "Version 1.21 TEXTURE IMPROVEMENT UPDATE PT-2\r\n\r\n\r\nChangelog \\/ \\/ \\/\r\n\r\nSkanetrafiken seats further tweaked (Hopefully for the last time)\r\n\r\nTweaked colors on transdev style fabrics (This will apply to all seats+parts using this fabric)\r\n\r\nCustom seat replaced with custom colorable seat (Seats with old fabric will automatically be replaced with the new one since the UUID's are still the same)\r\n\r\nLowered city seat 3d model so it doesn't float above the ground anymore (This is a personal classic bus seat mod mistake)\r\n\r\n\r\n\r\nWelcome to the NEW bus seats and fabrics mod!\r\n\r\nEver since the bus seats and fabrics mod glitched out and duplicated itself (along with other glitches) I've had the idea of a new bus seats and fabrics mod on my mind...\r\n\r\nand now i'm proud to announce the release of the NEW bus seats and fabrics mod!\r\nHope you enjoy :)\r\n\r\n\r\n\r\n",
 		"fileId": 2800437500,
 		"localId": "b3dc637a-90a5-46d1-8c3a-881bc2205c0e",
 		"name": "New bus seats and fabrics mod",
@@ -28412,10 +28412,20 @@
 	"a80338b0-7b3f-4c09-ac64-1c21bf629a33": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod contains all my successful new ideas and life improvements.\n\nWarning: this mod relies heavily on Game Data, so it might break in the future!\n\nParts included:\nDriver's floor\nUnused horn\nSide-Mounted Button\nSide-Mounted Switch\nAlternate switch (a switch with a button model)\nSmall Electric Engine\nSmall Gas Engine\n\nBlocks included:\nIce\nRubber\nBlack Hole Block\n\nVersion 1.0.03",
+		"description": "This mod contains all my successful new ideas and life improvements.\n\nWarning: this mod relies heavily on Game Data, so it might break in the future!\n\nParts included:\nDriver's floor\nUnused horn\nSide-Mounted Button\nSide-Mounted Switch\nAlternate switch (a switch with a button model)\nSmall Electric Engine\nSmall Gas Engine\nSide-Mounted Thruster\n\nBlocks included:\nIce\nRubber\nBlack Hole Block\n\nVersion 1.0.05",
 		"fileId": 2926221169,
 		"localId": "a80338b0-7b3f-4c09-ac64-1c21bf629a33",
 		"name": "The SMM Pack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a511e5d0-444f-43c2-86a5-970cf57dc3e3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "all i have to say is, drum roll pleas:   E.",
+		"fileId": 2926622140,
+		"localId": "a511e5d0-444f-43c2-86a5-970cf57dc3e3",
+		"name": "the epic game mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
