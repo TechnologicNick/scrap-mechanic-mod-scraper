@@ -3028,5 +3028,8 @@
 	"8a921ceb-3903-4096-9e33-9e3a81c93127": {},
 	"c6e10608-c4da-4359-bf4e-b5e7e696a18d": {},
 	"ea2f92df-4691-46cc-8405-41b05abedc5e": {},
-	"b60c2c52-cc0d-45a1-9df3-3a45dfc88115": {}
+	"b60c2c52-cc0d-45a1-9df3-3a45dfc88115": {},
+	"03d9c6bb-aaa6-47a9-9db6-477507d0755d": {
+		"$CONTENT_03d9c6bb-aaa6-47a9-9db6-477507d0755d/Tools/Database/ToolSets/example.toolset": []
+	}
 }
