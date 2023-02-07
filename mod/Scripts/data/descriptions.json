@@ -16432,9 +16432,9 @@
 		"version": 1
 	},
 	"a1ffb374-c7e4-4ad2-817a-28d717547d96": {
-		"allow_add_mods": false,
+		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This is a game bro",
+		"description": "Moon Mechanic Mod Creative. The modification adds the ability to travel with your own rocket to the moon! All you have to do is put a rocket controller on your projection to explore the unknown. If you fall under the map type /down, if you want to get over the world border type /up, if you want to get to another world type /worldtp number, 1 - flat, 2 - normal terrain, 3 - moon. If you have ideas write in the comments.\n",
 		"fileId": 2845987832,
 		"localId": "a1ffb374-c7e4-4ad2-817a-28d717547d96",
 		"name": "Moon Mechanic ALPHA",
@@ -28416,7 +28416,7 @@
 	"a80338b0-7b3f-4c09-ac64-1c21bf629a33": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod contains all my successful new ideas and life improvements.\n\nWarning: this mod relies heavily on Game Data, so it might break in the future!\n\nBasic Parts Included:\nSmooth Wheel\nBig Smooth Wheel\nLi'l Square Speaker\n\nInteractive Parts included:\nDriver's floor\nUnused horn\nSide-Mounted Button\nSide-Mounted Switch\nAlternate switch (a switch with a button model)\nSmall Electric Engine\nSmall Gas Engine\nSide-Mounted Thruster\nThe DUCK seat\nDeletion Duck\nBlank Duck (is a seat)\nWASD converters\nSmall Timer\nPanel Sensor\nInstant Logic Gate\n\nBlocks included:\nIce\nRubber\nBlack Hole Block\n\nVersion 1.0.17",
+		"description": "This mod contains all my successful new ideas and life improvements.\n\nWarning: this mod relies heavily on Game Data, so it might break in the future!\n\nBasic Parts Included:\nSmooth Wheel\nBig Smooth Wheel\nLi'l Square Speaker\n\nInteractive Parts included:\nDriver's floor\nUnused horn\nSide-Mounted Button\nSide-Mounted Switch\nAlternate switch (a switch with a button model)\nSmall Electric Engine (Updated, now 1x1x1)\nSmall Gas Engine (Updated, now 1x1x1)\nSide-Mounted Thruster\nThe DUCK seat\nDeletion Duck\nBlank Duck (is a seat)\nWASD converters\nSmall Timer\nPanel Sensor\nInstant Logic Gate\n\nBlocks included:\nIce\nRubber\nBlack Hole Block (Updated, is now ultra-heavy)\n\nVersion 1.0.19",
 		"fileId": 2926221169,
 		"localId": "a80338b0-7b3f-4c09-ac64-1c21bf629a33",
 		"name": "The SMM Pack",
