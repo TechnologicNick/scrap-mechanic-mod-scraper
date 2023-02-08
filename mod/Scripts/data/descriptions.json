@@ -28456,7 +28456,7 @@
 	"ea2f92df-4691-46cc-8405-41b05abedc5e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "adds cool gates",
+		"description": "adds cool gates\r\n\r\ntutorial: https://www.youtube.com/watch?v=OaIUuntohKU\r\n\r\n[h1]the discord: https://discord.gg/6r46PkYr9s[/h1]",
 		"fileId": 2928652028,
 		"localId": "ea2f92df-4691-46cc-8405-41b05abedc5e",
 		"name": "maybe gates",
@@ -28470,6 +28470,16 @@
 		"fileId": 2929638635,
 		"localId": "03d9c6bb-aaa6-47a9-9db6-477507d0755d",
 		"name": "SM but you are TINY Server",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"45f1facf-d1d6-4589-8ca9-7f687d27ce8f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2930175885,
+		"localId": "45f1facf-d1d6-4589-8ca9-7f687d27ce8f",
+		"name": "dlkfgjhsfdgdsfg",
 		"type": "Custom Game",
 		"version": 0
 	}

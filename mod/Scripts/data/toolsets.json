@@ -3031,5 +3031,8 @@
 	"b60c2c52-cc0d-45a1-9df3-3a45dfc88115": {},
 	"03d9c6bb-aaa6-47a9-9db6-477507d0755d": {
 		"$CONTENT_03d9c6bb-aaa6-47a9-9db6-477507d0755d/Tools/Database/ToolSets/example.toolset": []
+	},
+	"45f1facf-d1d6-4589-8ca9-7f687d27ce8f": {
+		"$CONTENT_45f1facf-d1d6-4589-8ca9-7f687d27ce8f/Tools/Database/ToolSets/example.toolset": []
 	}
 }
