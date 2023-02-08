@@ -844,7 +844,13 @@
 			"8c95cede-25a5-48b4-be97-6c16dab31057",
 			"f7567939-d170-437e-b5c4-352ee9d5850d",
 			"c591d94b-d7d1-4305-a9dd-76ef06d6fb49",
-			"7261bb49-9c63-4097-999a-4dcab9645eb0"
+			"7261bb49-9c63-4097-999a-4dcab9645eb0",
+			"c591d94b-d7d1-4305-a9dd-76ef06d6fb49",
+			"062d34ac-d7ed-44ef-b523-e5b3ad70fdac",
+			"39a5aeba-a021-4117-8cad-e08ad159281d",
+			"0f74d3a4-ade0-4054-8207-21f6be7903be",
+			"2ab8edca-9cfe-4b1c-9f57-5092f94ea890",
+			"b6a26689-d803-49cc-a6e8-7f2b66dfb54d"
 		],
 		"$CONTENT_9b2bfa2b-11dd-4e3a-821d-a91201409cac/Harvestables/Database/HarvestableSets/hvs_trees.harvestableset": [
 			"c4ea19d3-2469-4059-9f13-3ddb4f7e0b79",
@@ -861,7 +867,18 @@
 			"27aa53ea-1e09-4251-a284-437f93850409"
 		],
 		"$CONTENT_9b2bfa2b-11dd-4e3a-821d-a91201409cac/Harvestables/Database/HarvestableSets/hvs_loot.harvestableset": [
-			"b8eb68ca-25a0-47aa-8745-12f2dd13d873"
+			"b8eb68ca-25a0-47aa-8745-12f2dd13d873",
+			"a6b9fa26-df80-4f5b-9679-418f4567e5ca"
+		],
+		"$CONTENT_9b2bfa2b-11dd-4e3a-821d-a91201409cac/Harvestables/Database/HarvestableSets/hvs_burntforest.harvestableset": [
+			"9ef210c0-ea30-4442-a1fe-924b5609b0cc",
+			"2bae67d4-c8ef-4c6e-a1a7-42281d0b7489",
+			"8f7a8108-2712-47b3-bce2-f25315165094",
+			"515aed88-0594-42b6-a352-617e5f5a3e45",
+			"2d5aa53d-eb9c-478c-a70f-c57a43753814",
+			"c08b553a-a917-4e26-bbb6-7b8523789cad",
+			"d3fcfc06-a6b6-4598-99b1-9a6445b976b3",
+			"b5f90719-fbca-4c59-89c3-187cdb5553d4"
 		]
 	},
 	"0041c7ab-4744-405a-a7e8-a6dc5eefd738": {
