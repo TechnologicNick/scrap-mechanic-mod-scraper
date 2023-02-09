@@ -28374,9 +28374,9 @@
 	},
 	"32bd3c76-4202-499c-8826-12c4bf170fd9": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"dependencies": null,
-		"description": "WIP\nthis has indistrucable items.\ngoto this mod for interactables: MOD_SOON\nintigations: (not needed to download) \nDecorative mod:https://steamcommunity.com/sharedfiles/filedetails/?id=1967288091",
+		"description": "WIP\nthis has indistrucable items.\ngoto this mod for interactables: MOD_SOON\nintigations: (not needed to download, they will work if its downloaded!) \nDecorative mod:https://steamcommunity.com/sharedfiles/filedetails/?id=1967288091",
 		"fileId": 2924854797,
 		"localId": "32bd3c76-4202-499c-8826-12c4bf170fd9",
 		"name": "shapez fix",
@@ -28469,7 +28469,7 @@
 		"description": "This is OURS to explore",
 		"fileId": 2929638635,
 		"localId": "03d9c6bb-aaa6-47a9-9db6-477507d0755d",
-		"name": "SM but you are TINY Server",
+		"name": "SM Server English",
 		"type": "Custom Game",
 		"version": 0
 	},
