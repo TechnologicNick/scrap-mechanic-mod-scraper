@@ -7695,7 +7695,7 @@
 	"8946e378-f660-44dc-8384-fca11145c98d": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "----------------------------------------------------------------\nEmblems of the armies involved in the World Wars.\n----------------------------------------------------------------\nSizes:\n1x1, 2x2, 3x3, 4x4, 6x6\nThickness:\n1 and 0.5 (wings)",
+		"description": "----------------------------------------------------------------\r\nEmblems of the armies involved in the World Wars.\r\n----------------------------------------------------------------\r\nSizes:\r\n1x1, 2x2, 3x3, 4x4, 6x6\r\nThickness:\r\n1 and 0.5 (wings)",
 		"fileId": 2443945742,
 		"localId": "8946e378-f660-44dc-8384-fca11145c98d",
 		"name": "WW2 Symbols",
@@ -26770,7 +26770,7 @@
 	"2b914803-8c10-4808-803b-9dc264f2e813": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Adds in custom teleporters!\r\nThese teleporters are able to transport players, and are linked by color! \r\n\r\nThey also output a configurable logic signal when used.\r\n\r\nPlease leave any bugs in the comments.\r\n\r\nNote: these teleporters are untested in multiplayer. They should work, but they may not! This is my first published SM mod, so I am still new to SM networking.\r\n\r\nOn the note of being new to SM modding...\r\nThanks to the help provided by the Guild of Scrap Mechanic Modders on Discord! Without the helpful people on that Discord server, this mod may not exist!\r\n\r\n",
+		"description": "v1.1.1:\n- Changed the texture of the Teleporter and the 3 block wide Teleporter\n- Updated Teleporter Cube (bigger collision box)\n\nAdds in custom teleporters!\nThese teleporters are able to transport players, and are linked by color! \n\nThey also output a configurable logic signal when used.\n\nPlease leave any bugs in the comments.\n\nNote: these teleporters are untested in multiplayer. They should work, but they may not! This is my first published SM mod, so I am still new to SM networking.\n\nOn the note of being new to SM modding...\nThanks to the help provided by the Guild of Scrap Mechanic Modders on Discord! Without the helpful people on that Discord server, this mod may not exist!\n\n",
 		"fileId": 2882385885,
 		"localId": "2b914803-8c10-4808-803b-9dc264f2e813",
 		"name": "Teleporters",
@@ -28490,6 +28490,27 @@
 		"fileId": 2552584445,
 		"localId": "95805c04-0f8d-4fe2-8d82-41831a95c141",
 		"name": "Effect Placer",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"5abe64f6-e744-4c5a-9f9d-a3d8218cff7d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "DEEZ NUTS",
+		"fileId": 2785652042,
+		"localId": "5abe64f6-e744-4c5a-9f9d-a3d8218cff7d",
+		"name": "SUPER COOL MOD RTX 420px 69G 120FPS YES",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"7ce81112-c0ba-47e0-8e9f-4c857c3c3fcf": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "adds a color changing block, if activated by a switch or logic gate it will change into its normal color, or off (black). its just used for if you want to have sensors be able to see logic gates, just turn on color mode for the sensor and it will be able to see if the block is on or not",
+		"fileId": 2932049989,
+		"localId": "7ce81112-c0ba-47e0-8e9f-4c857c3c3fcf",
+		"name": "changing color block",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
