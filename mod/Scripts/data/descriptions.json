@@ -15495,7 +15495,7 @@
 	"4f38d61a-86fe-43f4-a699-5d62eee82e48": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "WIP - Collection of many already existing mods, slightly altered to better match eachother.",
+		"description": "WIP - Collection of many already existing mods, slightly altered to better match each other.",
 		"fileId": 2803497899,
 		"localId": "4f38d61a-86fe-43f4-a699-5d62eee82e48",
 		"name": "Gnerf's War Mod",
@@ -16434,10 +16434,10 @@
 	"a1ffb374-c7e4-4ad2-817a-28d717547d96": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Moon Mechanic Mod Creative. The modification adds the ability to travel with your own rocket to the moon! All you have to do is put a rocket controller on your projection to explore the unknown. If you fall under the map type /down, if you want to get over the world border type /up, if you want to get to another world type /worldtp number, 1 - flat, 2 - normal terrain, 3 - moon. If you have ideas write in the comments.\nMood works 50/50 on multiplayer\n",
+		"description": "Moon Mechanic Mod Creative. The modification adds the ability to travel with your own rocket to the moon! All you have to do is put a rocket controller on your projection to explore the unknown. If you fall under the map type /down, if you want to get over the world border type /up, if you want to get to another world type /worldtp number, 1 - flat, 2 - normal terrain, 3 - moon. If you have ideas write in the comments.\r\nMood works 50/50 on multiplayer\r\n",
 		"fileId": 2845987832,
 		"localId": "a1ffb374-c7e4-4ad2-817a-28d717547d96",
-		"name": "Moon Mechanic ALPHA",
+		"name": "Moon Mechanic",
 		"type": "Custom Game",
 		"version": 0
 	},
@@ -28531,6 +28531,36 @@
 		"fileId": 2932322785,
 		"localId": "34d8ac88-d1dd-4efa-a69e-1a0e28bb2fce",
 		"name": "hidden models in game files",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"39271480-1090-48cc-9bf0-8e65a4cdf8f5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "HockeyStick",
+		"fileId": 2930898960,
+		"localId": "39271480-1090-48cc-9bf0-8e65a4cdf8f5",
+		"name": "Hockey",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d578f1aa-fec8-4c8e-a993-9ed40ee66fc3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2932542999,
+		"localId": "d578f1aa-fec8-4c8e-a993-9ed40ee66fc3",
+		"name": "modeltrains(VTTM)",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"8d535d17-25d4-4c15-84fc-2657792b4a76": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "TEST MOD",
+		"fileId": 2932617312,
+		"localId": "8d535d17-25d4-4c15-84fc-2657792b4a76",
+		"name": "TEST",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
