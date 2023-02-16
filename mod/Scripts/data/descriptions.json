@@ -28614,5 +28614,15 @@
 		"name": "Engines",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"3db809eb-54e1-49fb-898e-d0ea6f508aee": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Beta version mod.\nBy Mechanic Games",
+		"fileId": 2933816614,
+		"localId": "3db809eb-54e1-49fb-898e-d0ea6f508aee",
+		"name": "Test",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
