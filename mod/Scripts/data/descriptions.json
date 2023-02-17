@@ -26074,10 +26074,10 @@
 	"6a2e9817-686e-4373-8c32-4d4b9add6549": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[ENG]\r\n\r\nThis mod adds a lot of useful and not so useful things.\r\nSuch as:\r\n\r\nGramophones\r\nBlack and white holes\r\nThe mechanics of energy, radiation, fire and more.\r\nNick hider block\r\nA unique tablet on which you can fly.\r\nNew bombs\r\n\r\nAnd much more.\r\n\r\n[Rus]\r\n\r\nЭтот мод добавляет очень много полезных и не очень полезных вещей.\r\nКак например:\r\n\r\nГрамофоны\r\nЧёрные и белые дыры\r\nМеханику энергии, радиации, огня и прочего.\r\nБлок скрывания ника (nick hider)\r\nУникальный планшет, на котором можно летать.\r\nНовые бомбы\r\n\r\nИ многое другое.\r\n\r\nlicense guide path: SteamModFolder/387990/2862627470/dev/guide.txt\r\npirate guide path: %appdata%/Axolot Games/Scrap Mechanic/User/User_xxxxxxxxxxxxxxxxx/Mods/The Mod/dev/guide.txt",
+		"description": "[Eng]\nThe Logic Mod!\nThis is the largest mod in Scrap Mechanic!\nhe adds a lot to the game and makes it unique!\nthere are no such mods!\neveryone needs this mod!\n\nthe mod adds a lot to the game:\n    new mechanics\n    new blocks\n    new commands and features\n    regularly updated\n    there is a new stock logic in fashion\n    new super cool drones\n    microcontrollers\n    fire\n    radiation\n    wind\n    helium\n    bombs\n    electricity\n    the system of vision on the target\n    lots of new building blocks\n    and many many hours of unique gameplay\n\ncommands:\n    kicklast - kick the last player who came in\n    kick - kick a specific player\n    kickall - kick all players\n    logicmod - bring out the mod version\n\n\n[Rus]\nThe Logic Mod!\nэто самый маштабный мод в Scrap Mechanic!\nон добавляет в игру очень многое и делает это уникально!\nподобных этому моду нет!\nэтот мод нужен всем!\n\nмод добавляет в игру множество:\n    новых механик\n    новых блоков\n    новых команд и возможностей\n    регулярно обновляется\n    в моде есть новая стоковая логика\n    новые супер крутые дроны\n    микроконтроллеры\n    огонь\n    радиацию\n    ветер\n    гелий\n    бомбы\n    электрочество\n    системма навидения на цель\n    много новых строительных блоков\n    и много много часов уникального геймплея\n\nкоманды:\n    kicklast  - кикнуть последнего зашедшего игрока\n    kick      - кикнуть конкретного игрока\n    kickall   - кикнуть всех игроков\n    logicmod  - вывести версию мода",
 		"fileId": 2862627470,
 		"localId": "6a2e9817-686e-4373-8c32-4d4b9add6549",
-		"name": "The Mod",
+		"name": "The Logic Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -28617,11 +28617,22 @@
 	},
 	"3db809eb-54e1-49fb-898e-d0ea6f508aee": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
+		"dependencies": null,
 		"description": "Beta version mod.\nBy Mechanic Games",
 		"fileId": 2933816614,
 		"localId": "3db809eb-54e1-49fb-898e-d0ea6f508aee",
 		"name": "Test",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"5d5e5ccc-8215-4d07-b046-58c204b408f0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A pack of changed blocks for the needs of the CravatClan fleet. Mod created directly by Spocony_Oluś2015 for the use of the whole team. The mod will not be useful for building other projects.",
+		"fileId": 2933929710,
+		"localId": "5d5e5ccc-8215-4d07-b046-58c204b408f0",
+		"name": "CravatClan Block Pack 2",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
