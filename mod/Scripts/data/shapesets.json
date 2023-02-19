@@ -63783,7 +63783,17 @@
 			"470b9a92-ed94-4ef2-b1ea-b45f47ef0982",
 			"bfcaac1a-5a7f-4fba-9980-1159617a7212",
 			"3091926a-9340-46d9-83d6-4fd7c68ad950",
-			"df8528ed-15ad-4a39-a33a-698880684001"
+			"df8528ed-15ad-4a39-a33a-698880684001",
+			"9fc793b2-250b-40ab-bcb3-97cf97c7b481",
+			"4c1cc8de-7af1-4f8e-a5c4-c583460af9e5",
+			"e6db321c-6f98-47f6-9f7f-4e6794a62cb8",
+			"a736ffdf-22c1-40f2-8e40-988cab7c0559"
+		]
+	},
+	"61ee37d4-4aa2-4024-91ef-f3c5dceca797": {
+		"$CONTENT_61ee37d4-4aa2-4024-91ef-f3c5dceca797/Objects/Database/ShapeSets/example.shapeset": [
+			"353c20b8-9f3e-4395-99a0-9ebfc0a0eeed",
+			"ea31dd3f-5372-4d7f-af3f-d4e8bc3dc1ed"
 		]
 	}
 }

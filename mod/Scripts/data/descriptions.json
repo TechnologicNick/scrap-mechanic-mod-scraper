@@ -28558,6 +28558,7 @@
 	"8d535d17-25d4-4c15-84fc-2657792b4a76": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": null,
 		"description": "TEST MOD",
 		"fileId": 2932617312,
 		"localId": "8d535d17-25d4-4c15-84fc-2657792b4a76",
@@ -28649,10 +28650,20 @@
 	"0c303dc4-8bf6-446f-b28c-b411231a78d0": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod doesn't have a description",
+		"description": "An sm parts modifier that makes things more realistic.",
 		"fileId": 2935136287,
 		"localId": "0c303dc4-8bf6-446f-b28c-b411231a78d0",
 		"name": "Realism Aspect",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"61ee37d4-4aa2-4024-91ef-f3c5dceca797": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "red bricks",
+		"fileId": 2935350948,
+		"localId": "61ee37d4-4aa2-4024-91ef-f3c5dceca797",
+		"name": "blocksd",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
