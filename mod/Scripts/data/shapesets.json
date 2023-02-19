@@ -63795,5 +63795,10 @@
 			"353c20b8-9f3e-4395-99a0-9ebfc0a0eeed",
 			"ea31dd3f-5372-4d7f-af3f-d4e8bc3dc1ed"
 		]
+	},
+	"87bea49d-190a-4a48-8cf2-542a84dbad0b": {
+		"$CONTENT_87bea49d-190a-4a48-8cf2-542a84dbad0b/Objects/Database/ShapeSets/SEDB.shapeset": [
+			"a7df3f16-1aaa-4cbd-9b12-4eeddc79ab95"
+		]
 	}
 }
