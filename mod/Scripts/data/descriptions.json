@@ -28557,7 +28557,7 @@
 	},
 	"8d535d17-25d4-4c15-84fc-2657792b4a76": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"dependencies": null,
 		"description": "TEST MOD",
 		"fileId": 2932617312,
