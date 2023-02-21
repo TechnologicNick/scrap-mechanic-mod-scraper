@@ -7564,7 +7564,7 @@
 	"1cefefdc-a7e0-4b21-82c3-6c1ceea45208": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Modyfikacja dodaje Urządzenia Sterowania Ruchem Kolejowym (USRK) stosowane w Polsce. Obecnie zawiera jedynie elementy pozwalające zbudować funkcjonalne pulpity urządzeń przekaźnikowych. W przyszłości pojawią się elementy pozwalające na budowę urządzeń mechanicznych, komputerowych i innych.\r\n\r\n\r\nABY MODYFIKACJA BYŁA UŻYWANA ZGODNIE Z PRZEZNACZENIEM ZALECANE JEST POSIADANIE PONADPODSTAWOWEJ WIEDZY NA TEMAT URZĄDZEŃ STEROWANIA RUCHEM KOLEJOWYM!\r\n\r\n\r\n\r\nFAQ:\r\nQ: Jak działa przycisk pulpitowy?\r\nA: Przycisk przy zwykłym kliknięciu [E] daje sygnał logiczny. Przy kucnięciu oraz kliknięciu [E] daje sygnał, który jest zrozumiały tylko dla detektora wyciągnięcia przycisku. Należy więc podłączyć przycisk do detektora, a z detektora można wyciągnąć sygnał logiczny mówiący o wyciągnięciu przycisku.\r\n\r\nQ: Jak działa licznik?\r\nA: Licznik nalicza jedno użycie w momencie odłączenia źródła zasilania od niego. Chwilowo zeruje się przy wartości większej niż 128\r\n\r\nQ: Jak zbudować kostkę z semaforem/wykolejnicą?\r\nA: Najpierw ustawia się kostkę z wybranym semaforem/wykolejnicą, a następnie na nią nakłada się kostkę z odcinkiem torowym.\r\n\r\nQ: Dlaczego nie ma *czegoś*\r\nA: Modyfikacja jest wciąż rozwijana i nowe elementy zostają wciąż dodawane\r\n\r\nQ: Jak podłączyć kostkę z zajętością toru/blokadą liniową?\r\nA: W opisie danej części wylistowane są akceptowane wejścia kolorystyczne. Aby doprowadzić takie wejście należy pomalować źródło sygnału logicznego na dany kolor a następnie podłączyć do kostki.\r\n\r\nQ: Czemu kostka nie pokazuje sygnału który do niej doprowadzam?\r\nA: Są możliwe dwa przypadki: 1. Pomalowałeś źródło na zły kolor; 2. Wyświetlenie takiego sygnału jest niemożliwe. Kostka jest zaprogramowana w taki sposób by zminimalizować szanse na wyświetlenie błędnych wskazań (np. nie da się wskazać obydwu skrajnych położen rozjazdu)\r\n\r\nQ: Czemu sygnał na kostce nie gaśnie mimo odłączenia źródła zasilania?\r\nA: Kostka akceptuje wiele wejść o tym samym kolorze. Gdy conajmniej jedno z nich jest załączone, kostka wskazuje sygnał taki jak przy załączeniu jednego wejścia.\r\n\r\n\r\n\r\nCHANGELOG 03.12.2021:\r\n*Poprawki błędów\r\n*Umożliwienie załączenia dwóch odcinków zajętości na kostkach z rozjazdami na raz (przydatne przy sygnalizacji rozprucia)\r\n*Optymalizacja skryptów\r\n\r\nCHANGELOG 21.08.2021:\r\n+ Dodano urządzenie zdalnej kontroli ERP-3\r\n+ Dodano przekaźnik JRM\r\n+ Dodano oznaczenia na kostki pulpitowe\r\n+ Dodano kostkę pulpitową z dwoma odcinkami torowymi pod kątem\r\n+ Dodano dzwonek do blokad liniowych oraz sygnalizowania rozpruć\r\n+ Dodano kostkę pulpitową z tarczą rozrządową\r\n+ Dodano możliwość plombowania przycisków pulpitowych\r\n+ Dodano dwie kostki pulpitowe systemu E-DUN\r\n+ Dodano brakujące polskie tagi w angielskiej wersji językowej\r\n\r\n* Ulepszono model i tekstury licznika pulpitowego\r\n* Zwiększono maksymalną liczbę na liczniku z 128 do 240\r\n* Zoptymalizowano skrypty kostek pulpitowych\r\n* Ulepszono skrypt i modele przycisków pulpitowych\r\n* Zwiększono czas usuwania kostek i innych elementów pulpitu",
+		"description": "Witam! Znalazłeś się na stronie jednej z paru moich modyfikacji! Przed zasubskrybowaniem zalecam przeczytać poniższy opis:\r\n\r\nModyfikacja \"Niko - Urzadzenia Sterowania Ruchem Kolejowym\", jak nazwa wskazuje, dodaje Urządzenia Sterowania Ruchem Kolejowym (USRK). W tej modyfikacji znajdziesz jedynie urządzenia sterowania i zarządzania, urządzenia oddziaływania oraz wykonawcze można znaleźć w modyfikacji \"Niko - Infrastruktura Kolejowa PKP\". Niniejsza modyfikacja obecnie zawiera głównie elementy do budowy pulpitów kostkowych. W przyszłości pojawią się urządzenia mechaniczne, elektromechaniczne oraz komputerowe.\r\n\r\nW CELU POPRAWNEJ OBSŁUGI I BUDOWY URZĄDZEŃ STEROWANIA RUCHEM KOLEJOWYM ZA POMOCĄ TEJ MODYFIKACJI ZALECANE JEST POSIADANIE CONAJMNIEJ PODSTAWOWEJ WIEDZY NA TEMAT URZĄDZEŃ STEROWANIA RUCHEM KOLEJOWYM!\r\n\r\nAby ułatwić zrozumienie budowy oraz działania USRK w Scrap Mechanic zamieszczam link do dysku, na którym znajdują się obecnie dostępne dokumentacje techniczne. Można znaleźć tam informacje na temat budowy, podłączania, utrzymania i obsługi urządzeń, które dodają moje modyfikacje. Link można znaleźć poniżej:\r\n\r\n[TU POJAWI SIĘ LINK DO DYSKU]\r\n\r\n\r\nŻeby ograniczyć ilość pytań, zamieszczam również małe FAQ, które odpowie na większość niepewności:\r\n\r\nQ: Jak działa / Jak zbudować / Jak obsługiwać *jakikolwiek element*?\r\nA: W przypadku niepewności co do budowy, obsługi i działania poszczególnych elementów zapraszam do zapoznania się z opisami poszczególnych elementów w ekwipunku, a w przypadku dalszych wątpliwości, z dokumentacjami zamieszczonymi na dysku.\r\n\r\nQ: Dlaczego nie ma *jakikolwiek element*?\r\nA: Modyfikacja wciąż jest rozwijana i w przyszłości pojawią się nowe elementy USRK.\r\n\r\n\r\n\r\nCHANGELOG 22.12.2022:\r\n+ Dodano kostki pulpitów kostkowych 1/4u\r\n+ Dodano ramki pulpitów kostkowych 1/4u\r\n+ Dodano amperomierze pulpitów kostkowych 1/4u\r\n+ Dodano przełączniki pakietowe pulpitów kostkowych 1/4u\r\n+ Dodano sterownik rozjazdu\r\n+ Dodano sterownik Sz\r\n+ Dodano koder numeryczny\r\n+ Dodano dekoder numeryczny\r\n+ Dodano regulowany przekaźnik czasowy\r\n+ Dodano regulowany przekaźnik impulsowy\r\n+ Dodano powtarzacz UZK ERP-4 w dwóch wersjach\r\n+ Dodano powtarzacz UZK ERP-5\r\n+ Dodano miarkę\r\n+ Dodano Advanced Connect Tool\r\n\r\n* Zmieniono skrypt dzwonka pulpitowego\r\n* Zmieniono skrypt powtarzacza UZK ERP-3\r\n* Umożliwiono akceptowanie wejścia zielonego w kostkach pulpitowych zamiast najjaśniejszego zielonego\r\n* Umożliwiono akceptowanie wejścia niebieskiego w kostkach pulpitowych zamiast najjaśniejszego niebieskiego\r\n* Zmieniono obrazki oraz opis na Workshop\r\n\r\n- Usunięto kostkę pulpitową 1u SKP\r\n- Usunięto kostkę pulpitową 1u Nastawnia parterowa\r\n- Usunięto kostkę pulpitową 1u Nastawnia piętrowa",
 		"fileId": 2433741721,
 		"localId": "1cefefdc-a7e0-4b21-82c3-6c1ceea45208",
 		"name": "Niko - Urzadzenia Sterowania Ruchem Kolejowym",
@@ -28557,7 +28557,7 @@
 	},
 	"8d535d17-25d4-4c15-84fc-2657792b4a76": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"dependencies": null,
 		"description": "TEST MOD",
 		"fileId": 2932617312,
@@ -28684,6 +28684,26 @@
 		"fileId": 2936218401,
 		"localId": "897227c5-28b4-4d6e-ab91-fdbd39086e09",
 		"name": "B004KO",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"88ec0c71-8b66-42e3-9bc2-491825df53ca": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[Eng]\nthis mod allows you to create autopiloted cars\nthis mod can be induced in different ways and on different objects, starting from the label and the player\nending with a specific position or a block with a specific uuid\n, the fashion has a beautiful style, does not lag, it is easy to understand it, a concise cartoon logic\ndesign returns to the past at the time of 0.3.5\n\n[Rus]\nэтот мод позваляет создавать автопилотируемый машины\nэтот мод может наводиться разными способами и на разные обьекты, начиная от метки и игрока\nзаканчивая конкретной позицией или блоком с конкретным uuid\nу мода красивая стилистика, не лагает, в нем легко разобраться, лаконичный мультяшный дизаен логики\nвозврашает в прошлое во времена 0.3.5",
+		"fileId": 2936300656,
+		"localId": "88ec0c71-8b66-42e3-9bc2-491825df53ca",
+		"name": "Intelligentia Mod 2",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"0d61e43a-3609-457b-b783-8c03848f92c3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2936399193,
+		"localId": "0d61e43a-3609-457b-b783-8c03848f92c3",
+		"name": "Build Size Unlocker",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
