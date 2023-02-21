@@ -63901,5 +63901,13 @@
 			"7cb99104-09b5-411e-8c18-09343102ea4a",
 			"61ec7d1b-3762-4905-b9c5-d835d8545655"
 		]
+	},
+	"1010e926-0a10-46f0-896a-09d51a8ab9f8": {
+		"$CONTENT_1010e926-0a10-46f0-896a-09d51a8ab9f8/Objects/Database/ShapeSets/example.shapeset": [
+			"b7387f92-eb68-4aff-8728-a7f0692b4b07",
+			"f09580fb-5f7e-42cf-9033-281303c4ff87",
+			"dca4ac5b-4236-4070-a9cb-c468881f48a0",
+			"35c9620a-71de-4092-a037-936d096a33da"
+		]
 	}
 }
