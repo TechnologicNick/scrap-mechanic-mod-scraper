@@ -28538,7 +28538,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "Some Hockey Staff And Tools.",
+		"description": "Some Hockey Staff, Blocks And Tools.",
 		"fileId": 2930898960,
 		"localId": "39271480-1090-48cc-9bf0-8e65a4cdf8f5",
 		"name": "Hockey",
@@ -28727,10 +28727,20 @@
 				"name": "ModDatabase"
 			}
 		],
-		"description": "Fork of Radu's mod with suvival recipes (for personal use with moddatabase)\n\nWill be removed if owner requests\n\nThis is just some junk that i like making.\n1. Battery generator (heavy fast spinning things are better)\n2. 90 Degree Driveshaft (broken)\n3. Superfast Engines (fixed)",
+		"description": "Fork of Radu's mod with suvival recipes (for personal use with moddatabase)\n\nWill be removed if owner requests\n\nWon't be updated\n\nThis is just some junk that i like making.\n1. Battery generator (heavy fast spinning things are better)\nhas 5 materials, scroll while over materials to view\n2. 90 Degree Driveshaft (broken)\nidk why it shows up twice just ignore it its broken anyway\n3. Superfast Engines (fixed)",
 		"fileId": 2936979803,
 		"localId": "b53dfbde-9f4c-4370-95f9-4d30d32d8c5f",
 		"name": "Radu's random stuff (recipe fork)",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d7e52690-92c7-413d-b6c3-140cd8177049": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2937036552,
+		"localId": "d7e52690-92c7-413d-b6c3-140cd8177049",
+		"name": "Unrailed Pack",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
