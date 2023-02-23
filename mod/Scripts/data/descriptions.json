@@ -28416,7 +28416,7 @@
 	"a80338b0-7b3f-4c09-ac64-1c21bf629a33": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod contains all my successful new ideas and life improvements.\n\nWarning: this mod relies heavily on Game Data, so it might break in the future!\n\nBasic Parts Included:\nSmooth Wheel\nBig Smooth Wheel\nLi'l Square Speaker\n\nInteractive Parts included:\nDriver's floor\nUnused horn\nSide-Mounted Button\nSide-Mounted Switch\nAlternate switch (a switch with a button model)\nSmall Electric Engine (Updated, now 1x1x1)\nSmall Gas Engine (Updated, now 1x1x1)\nSide-Mounted Thruster\nThe DUCK seat\nDeletion Duck\nBlank Duck (is a seat)\nWASD converters\nSmall Timer\nPanel Sensor\nInstant Logic Gate\nLong Piston\n\nBlocks included:\nIce\nRubber\nBlack Hole Block (Updated, is now proper weight)\n\nVersion 1.0.21\n\nFollow Me on YouTube!\nhttps://www.youtube.com/channel/UCSs7uIlC04zzgdn_Zyy5X5A",
+		"description": "This mod contains all my successful new ideas and life improvements.\n\nWarning: this mod relies heavily on Game Data, so it might break in the future!\n\nBasic Parts Included:\nSmooth Wheel\nBig Smooth Wheel\nLi'l Square Speaker\n\nInteractive Parts included:\nDriver's floor\nUnused horn\nSide-Mounted Button\nSide-Mounted Switch\nAlternate switch (a switch with a button model)\nSmall Electric Engine (Updated, now 1x1x1)\nSmall Gas Engine (Updated, now 1x1x1)\nSide-Mounted Thruster\nThe DUCK seat\nDeletion Duck\nBlank Duck (is a seat)\nWASD converters\nSmall Timer\nPanel Sensor\nInstant Logic Gate\nLong Piston\n\nBlocks included:\nIce\nRubber\nBlack Hole Block (Updated, is now proper weight)\n\nTools Included:\nDeletion Duck 1 (can delete individual blocks and parts)\nDeletion Duck 2 (can delete creations)\n\nVersion 1.0.22\n\nFollow Me on YouTube!\nhttps://www.youtube.com/channel/UCSs7uIlC04zzgdn_Zyy5X5A",
 		"fileId": 2926221169,
 		"localId": "a80338b0-7b3f-4c09-ac64-1c21bf629a33",
 		"name": "The SMM Pack",
@@ -28741,6 +28741,16 @@
 		"fileId": 2937036552,
 		"localId": "d7e52690-92c7-413d-b6c3-140cd8177049",
 		"name": "Unrailed Pack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"8345a6da-8de4-4312-8e26-f94bf4cf9daf": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod allows you to destroy tier 5 parts with explosives\n\nYou will never have to clean up after an explosive party again!",
+		"fileId": 2937613356,
+		"localId": "8345a6da-8de4-4312-8e26-f94bf4cf9daf",
+		"name": "Destructible T5 Parts",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
