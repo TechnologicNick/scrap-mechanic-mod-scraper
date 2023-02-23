@@ -28416,7 +28416,7 @@
 	"a80338b0-7b3f-4c09-ac64-1c21bf629a33": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod contains all my successful new ideas and life improvements.\n\nWarning: this mod relies heavily on Game Data, so it might break in the future!\n\nBasic Parts Included:\nSmooth Wheel\nBig Smooth Wheel\nLi'l Square Speaker\n\nInteractive Parts included:\nDriver's floor\nUnused horn\nSide-Mounted Button\nSide-Mounted Switch\nAlternate switch (a switch with a button model)\nSmall Electric Engine (Updated, now 1x1x1)\nSmall Gas Engine (Updated, now 1x1x1)\nSide-Mounted Thruster\nThe DUCK seat\nDeletion Duck\nBlank Duck (is a seat)\nWASD converters\nSmall Timer\nPanel Sensor\nInstant Logic Gate\nLong Piston\n\nBlocks included:\nIce\nRubber\nBlack Hole Block (Updated, is now proper weight)\n\nVersion 1.0.20",
+		"description": "This mod contains all my successful new ideas and life improvements.\n\nWarning: this mod relies heavily on Game Data, so it might break in the future!\n\nBasic Parts Included:\nSmooth Wheel\nBig Smooth Wheel\nLi'l Square Speaker\n\nInteractive Parts included:\nDriver's floor\nUnused horn\nSide-Mounted Button\nSide-Mounted Switch\nAlternate switch (a switch with a button model)\nSmall Electric Engine (Updated, now 1x1x1)\nSmall Gas Engine (Updated, now 1x1x1)\nSide-Mounted Thruster\nThe DUCK seat\nDeletion Duck\nBlank Duck (is a seat)\nWASD converters\nSmall Timer\nPanel Sensor\nInstant Logic Gate\nLong Piston\n\nBlocks included:\nIce\nRubber\nBlack Hole Block (Updated, is now proper weight)\n\nVersion 1.0.21\n\nFollow Me on YouTube!\nhttps://www.youtube.com/channel/UCSs7uIlC04zzgdn_Zyy5X5A",
 		"fileId": 2926221169,
 		"localId": "a80338b0-7b3f-4c09-ac64-1c21bf629a33",
 		"name": "The SMM Pack",
@@ -28727,7 +28727,7 @@
 				"name": "ModDatabase"
 			}
 		],
-		"description": "Fork of Radu's mod with suvival recipes (for personal use with moddatabase)\n\nWill be removed if owner requests\n\nWon't be updated\n\nThis is just some junk that i like making.\n1. Battery generator (heavy fast spinning things are better)\nhas 5 materials, scroll while over materials to view\n2. 90 Degree Driveshaft (broken)\nidk why it shows up twice just ignore it its broken anyway\n3. Superfast Engines (fixed)",
+		"description": "Fork of Radu's mod with survival recipes (for personal use with moddatabase)\r\n\r\nWill be removed if owner requests\r\n\r\nWon't be updated\r\n\r\nThis is just some junk that i like making. - Radu\r\n\r\n1. Battery generator \r\n        heavy fast spinning things are better\r\n        has 5 materials, scroll while over materials to view\r\n        make sure you don't put the bearing connected to this on the thing that will be spinning\r\n\r\n2. 90 Degree Driveshaft (broken)\r\n\r\n3. Superfast Engines (fixed)\r\n\r\nyou don't need to enable the original of this on custom games (and probably shouldn't)",
 		"fileId": 2936979803,
 		"localId": "b53dfbde-9f4c-4370-95f9-4d30d32d8c5f",
 		"name": "Radu's random stuff (recipe fork)",
