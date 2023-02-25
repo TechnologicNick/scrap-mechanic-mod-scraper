@@ -64012,5 +64012,14 @@
 			"7324219e-2b19-4098-baa3-9876984ead08",
 			"2f004fdf-bfb0-46f3-a7ac-7711100bee0c"
 		]
+	},
+	"203bdd09-fff8-4f72-9e3e-c5469f7b5185": {
+		"$CONTENT_203bdd09-fff8-4f72-9e3e-c5469f7b5185/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"8b4cebc4-a03e-46d2-8395-7f3247b2a8ed": {
+		"$CONTENT_8b4cebc4-a03e-46d2-8395-7f3247b2a8ed/Objects/Database/ShapeSets/example.shapeset": [
+			"99473b3b-b27a-496d-9316-ef3db36d70cf",
+			"1d13d019-de89-4549-adc1-b1075c3d5fb8"
+		]
 	}
 }
