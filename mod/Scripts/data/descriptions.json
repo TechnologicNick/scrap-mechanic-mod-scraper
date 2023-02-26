@@ -14968,7 +14968,8 @@
 	"e3d52333-57a7-4289-b737-ade78347cd12": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "A mod with resource boosted & cost reduced\n( in progress )\nThanks for 4300 subb let's goo\nI only can work in weekend so write all your ideas.\nI need you, the cross and T-pipe as graphic bug: the invertory texture want to be applied. Soo if you can help meee plzz\n____________________________________________\nmod info:\n-260 inventory slots\n-mob loot boosted\n-grow speed boosted\n-stack boosted ( not everywhere at this time sorry)\n-refine speed boosted\n-chest slots boosted ( chek image )\n-wood-stone-metal container slot boosted to 100 slots\n-max hp 200\n-lower consumption of water and food\n-lot more oxygen\n-lower consumption of gas in gas engine\n-vacum super fast ( it's really fast, like 40Item/s )\n-CRAFTABLE COMPONENTS YAY ( can be found in part section )\n-added the staircase wedge and the concave wedge in craft bot ( can be found in part section )\n-low gas consumption\n-totebot head can be used to craft conpoments kits\n-Traider need less for more and op traids\n\nfor the future:\n-every item stack boost to 256 or 2560\n-boost loot-box loot\n-(your idea can be here)\n____________________________________________\n\nthank you all for sharing your feedback, I apologize for the bugs and issues\n\ntell me what you want me to add in the comment",
+		"dependencies": null,
+		"description": "A mod with resource boosted & cost reduced\n( in progress )\nThanks for 4300 subb let's goo\nI only can work in weekend so write all your ideas.\nI need you, the cross and T-pipe as graphic bug: the invertory texture want to be applied. Soo if you can help meee plzz\n____________________________________________\nmod info:\n-260 inventory slots\n-mob loot boosted\n-grow speed boosted\n-stack boosted ( not everywhere at this time sorry)\n-refine speed boosted\n-chest slots boosted\n-wood-stone-metal container slot boosted to 100 slots\n-max hp 200\n-lower consumption of water and food\n-lot more oxygen\n-lower consumption of gas in gas engine\n-vacum super fast ( it's really fast, like 40Item/s )\n-CRAFTABLE COMPONENTS YAY\n-added the staircase wedge and the concave wedge in craft bot\n-low gas consumption\n-totebot head can be used to craft conpoments kits\n-Traider need less for more and op traids\n\nfor the future:\n-every item stack boost to 256 or 2560\n-boost loot-box loot\n-(your idea can be here)\n____________________________________________\n\nthank you all for sharing your feedback, I apologize for the bugs and issues\n\ntell me what you want me to add in the comment",
 		"fileId": 2816326647,
 		"localId": "e3d52333-57a7-4289-b737-ade78347cd12",
 		"name": "Survival Less Cost",
@@ -26504,7 +26505,7 @@
 	"9838cd1a-207a-49e8-bdc5-8ce609e5ac44": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "V 3.0",
+		"description": "V 3.1",
 		"fileId": 2874348356,
 		"localId": "9838cd1a-207a-49e8-bdc5-8ce609e5ac44",
 		"name": "P.D.P.Z.P",
