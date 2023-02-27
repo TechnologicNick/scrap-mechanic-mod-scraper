@@ -13434,10 +13434,10 @@
 	"fed51d61-bc85-420d-82af-b645f2a23145": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[b]Play with everything from Raft Mechanic, but in creative!(no sharks though)[/b]\r\n[b]Thanks to [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Questionable Mark's Modded Craftbot Recipes[/url], they're also craftable in survival![/b]\r\n\r\nMore info about the mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2807590049]here[/url]!",
+		"description": "[b]Play with everything from Raft Mechanic, but in creative!(no sharks though)[/b]\r\n[b]Thanks to [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Questionable Mark's Modded Craftbot Recipes[/url], they're also craftable in survival![/b]\r\n\r\nMore info about the mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2807590049]here[/url]!\r\n\r\nPlease leave all suggestions and ideas for Raft Mechanic on the custom game(linked above) instead of this mod.",
 		"fileId": 2824149581,
 		"localId": "fed51d61-bc85-420d-82af-b645f2a23145",
-		"name": "RM_creative",
+		"name": "Raft Mechanic: Tools & Parts For Creative",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -14968,7 +14968,13 @@
 	"e3d52333-57a7-4289-b737-ade78347cd12": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"dependencies": null,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
+				"name": "ModDatabase"
+			}
+		],
 		"description": "A mod with resource boosted & cost reduced\n( in progress )\nThanks for 4300 subb let's goo\nI only can work in weekend so write all your ideas.\nI need you, the cross and T-pipe as graphic bug: the invertory texture want to be applied. Soo if you can help meee plzz\n____________________________________________\nmod info:\n-260 inventory slots\n-mob loot boosted\n-grow speed boosted\n-stack boosted ( not everywhere at this time sorry)\n-refine speed boosted\n-chest slots boosted\n-wood-stone-metal container slot boosted to 100 slots\n-max hp 200\n-lower consumption of water and food\n-lot more oxygen\n-lower consumption of gas in gas engine\n-vacum super fast ( it's really fast, like 40Item/s )\n-CRAFTABLE COMPONENTS YAY\n-added the staircase wedge and the concave wedge in craft bot\n-low gas consumption\n-totebot head can be used to craft conpoments kits\n-Traider need less for more and op traids\n\nfor the future:\n-every item stack boost to 256 or 2560\n-boost loot-box loot\n-(your idea can be here)\n____________________________________________\n\nthank you all for sharing your feedback, I apologize for the bugs and issues\n\ntell me what you want me to add in the comment",
 		"fileId": 2816326647,
 		"localId": "e3d52333-57a7-4289-b737-ade78347cd12",
@@ -28772,6 +28778,16 @@
 		"fileId": 2938511989,
 		"localId": "8b4cebc4-a03e-46d2-8395-7f3247b2a8ed",
 		"name": "TAG",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"8aacea08-c9e8-4cce-a383-bbed147c80b2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Space blocks",
+		"fileId": 2939477093,
+		"localId": "8aacea08-c9e8-4cce-a383-bbed147c80b2",
+		"name": "Space block",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
