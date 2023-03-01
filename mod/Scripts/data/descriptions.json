@@ -28423,7 +28423,7 @@
 	"a80338b0-7b3f-4c09-ac64-1c21bf629a33": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod contains all my successful new ideas and life improvements.\n\nWarning: this mod relies heavily on Game Data, so it might break in the future!\n\nBasic Parts Included:\nSmooth Wheel\nBig Smooth Wheel\nLi'l Square Speaker\n\nInteractive Parts included:\nDriver's floor\nUnused horn\nSide-Mounted Button\nSide-Mounted Switch\nAlternate switch (a switch with a button model)\nSmall Electric Engine (Updated, now 1x1x1)\nSmall Gas Engine (Updated, now 1x1x1)\nSide-Mounted Thruster\nThe DUCK seat\nDeletion Duck (Now improved)\nBlank Duck (is a seat)\nWASD converters\nSmall Timer\nPanel Sensor\nInstant Logic Gate\nLong Piston\nBearing Spinner (Now has proper description!)\n\nBlocks included:\nIce\nRubber\nBlack Hole Block (Updated, is now proper weight)\n\nTools Included:\nDeletion Duck 1 (can delete individual blocks and parts, also is now improved, should now work on every client)\nDeletion Duck 2 (can delete creations, also is now improved)\n\nVersion 1.0.27\n\nFollow Me on YouTube!\nhttps://www.youtube.com/channel/UCSs7uIlC04zzgdn_Zyy5X5A",
+		"description": "This mod contains all my successful new ideas and life improvements.\n\nWarning: this mod relies heavily on Game Data, so it might break in the future!\n\nBasic Parts Included:\nSmooth Wheel\nBig Smooth Wheel\nLi'l Square Speaker\n\nInteractive Parts included:\nDriver's floor\nUnused horn\nSide-Mounted Button\nSide-Mounted Switch\nAlternate switch (a switch with a button model)\nSmall Electric Engine (Updated, now 1x1x1)\nSmall Gas Engine (Updated, now 1x1x1)\nSide-Mounted Thruster\nThe DUCK seat\nDeletion Duck (Now improved)\nBlank Duck (is a seat)\nWASD converters\nSmall Timer\nPanel Sensor\nInstant Logic Gate\nLong Piston\nBearing Spinner (Now has slow mode option!)\nPiston Controller\n\nBlocks included:\nIce\nRubber\nBlack Hole Block (Updated, is now proper weight)\n\nTools Included:\nDeletion Duck 1 (can delete individual blocks and parts, also is now improved, should now work on every client)\nDeletion Duck 2 (can delete creations, also is now improved)\n\nVersion 1.0.28\n\nFollow Me on YouTube!\nhttps://www.youtube.com/channel/UCSs7uIlC04zzgdn_Zyy5X5A",
 		"fileId": 2926221169,
 		"localId": "a80338b0-7b3f-4c09-ac64-1c21bf629a33",
 		"name": "The SMM Pack",
@@ -28788,6 +28788,16 @@
 		"fileId": 2939477093,
 		"localId": "8aacea08-c9e8-4cce-a383-bbed147c80b2",
 		"name": "Space block",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a2554908-5784-4e41-9f8c-2b1b1daa3af7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "well this is a glowing pog what do you expect",
+		"fileId": 2940516931,
+		"localId": "a2554908-5784-4e41-9f8c-2b1b1daa3af7",
+		"name": "Pog",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
