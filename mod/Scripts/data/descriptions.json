@@ -28423,7 +28423,8 @@
 	"a80338b0-7b3f-4c09-ac64-1c21bf629a33": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod contains all my successful new ideas and life improvements.\n\nWarning: this mod relies heavily on Game Data, so it might break in the future!\n\nBasic Parts Included:\nSmooth Wheel\nBig Smooth Wheel\nLi'l Square Speaker\n\nInteractive Parts included:\nDriver's floor\nUnused horn\nSide-Mounted Button\nSide-Mounted Switch\nAlternate switch (a switch with a button model)\nSmall Electric Engine (Updated, now 1x1x1)\nSmall Gas Engine (Updated, now 1x1x1)\nSide-Mounted Thruster\nThe DUCK seat\nDeletion Duck (Now improved)\nBlank Duck (is a seat)\nWASD converters\nSmall Timer\nPanel Sensor\nInstant Logic Gate\nLong Piston\nBearing Spinner (Now has slow mode option!)\nPiston Controller\n\nBlocks included:\nIce\nRubber\nBlack Hole Block (Updated, is now proper weight)\n\nTools Included:\nDeletion Duck 1 (can delete individual blocks and parts, also is now improved, should now work on every client)\nDeletion Duck 2 (can delete creations, also is now improved)\n\nVersion 1.0.28\n\nFollow Me on YouTube!\nhttps://www.youtube.com/channel/UCSs7uIlC04zzgdn_Zyy5X5A",
+		"dependencies": null,
+		"description": "This mod contains all my successful new ideas and life improvements.\n\nWarning: this mod relies heavily on Game Data, so it might break in the future!\n\nBasic Parts Included:\nSmooth Wheel\nBig Smooth Wheel\nLi'l Square Speaker\n\nInteractive Parts included:\nDriver's floor\nUnused horn\nSide-Mounted Button\nSide-Mounted Switch\nAlternate switch (a switch with a button model)\nSmall Electric Engine (Updated, now 1x1x1)\nSmall Gas Engine (Updated, now 1x1x1)\nSide-Mounted Thruster\nThe DUCK seat\nDeletion Duck (Now improved)\nBlank Duck (is a seat)\nWASD converters\nSmall Timer\nPanel Sensor\nInstant Logic Gate\nLong Piston\nBearing Spinner (Now has slow mode option!)\nPiston Controller\n\nBlocks included:\nIce\nRubber\nBlack Hole Block (Updated, is now proper weight)\n\nTools Included:\nDeletion Duck 1 (can delete individual blocks and parts, also is now improved, should now work on every client)\nDeletion Duck 2 (can delete creations, also is now improved)\n\nNow has crafting recipes for non-cheaty items!\n\nVersion 1.0.28\n\nFollow Me on YouTube!\nhttps://www.youtube.com/channel/UCSs7uIlC04zzgdn_Zyy5X5A",
 		"fileId": 2926221169,
 		"localId": "a80338b0-7b3f-4c09-ac64-1c21bf629a33",
 		"name": "The SMM Pack",
@@ -28743,7 +28744,7 @@
 	},
 	"d7e52690-92c7-413d-b6c3-140cd8177049": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "This mod doesn't have a description",
 		"fileId": 2937036552,
 		"localId": "d7e52690-92c7-413d-b6c3-140cd8177049",
@@ -28830,5 +28831,21 @@
 		"name": "POG 3 banna goatee",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"5d31f638-9cf6-40ea-a79d-7c1fbef668f9": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2521834452,
+		"localId": "5d31f638-9cf6-40ea-a79d-7c1fbef668f9",
+		"name": "slope compilation (continuation)",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"1b000893-9041-4288-b164-9547288ce28a": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2523287836,
+		"localId": "1b000893-9041-4288-b164-9547288ce28a",
+		"name": "slope compilation (slope2slopeA)",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
