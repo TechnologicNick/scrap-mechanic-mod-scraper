@@ -28131,7 +28131,7 @@
 	"524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This is my version on Survival .. its still in Beta state.. so if you have any ideas im happy to hear them @ https://discord.gg/N5hecbNK9g :)\n\nCheats? since its in DEV mode still you have \n\nNew commands!!\n/l = limited\n/u = unlimited\n/addmoney\n/removemoney = im not sure will this work\n/shop\n/fly\n\nBOTS:\nBlack Farmbot (boss +1)\nPink Farmbot (boss +2)\nBlue Haybot (will change drops)\nPink Totebot (will change drops)\nWhite Tapebot(will change drops easy to kill.. spawns with common bots)\nPink Woc (special loot + rare spawn 1%)-- still working on this\n\nMORE BOTS TO COME\n\nWEAPONS:\n(TEMP NAMES, MAYBE MESHES)\n\nMisu Gatling gun (god gun atm.. :P)\nMisu Spudgun\nMisu Hammer\nMisu Chemical Launcher (NEW)\n\nyou can buy them for money you get killing mobs.. err i mean bots.. see R menu :)\n\nMORE WEAPONS TO COME\n\nadded new weapon Chemical Laucher.. :P\n\nnow comes Minecraft friendly commands\n/gmc = creative mode\n/gms = survival mode\n\npress R to open Shop.. will change it to H aka Handbook (coming soon!)\n\nFIX: Misu Weapons fix and few money exploits :P\n\nknowbug: if you drop my made guns/beacon its invinsible ((needs to be fixed asap >3))\n\nCo-op -- commands not working.. aka if you try to give money/stats to another player .. ((currently working on it))\n\ni need more people for testing this mod :) \n \nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597770/1065643626597732422",
+		"description": "This is my version on Survival .. its still in Beta state.. so if you have any ideas im happy to hear them @ https://discord.gg/N5hecbNK9g :)\r\n\r\nCheats? since its in DEV mode still you have \r\n\r\nNew commands!!\r\n/l = limited\r\n/u = unlimited\r\n/addmoney\r\n/removemoney = im not sure will this work\r\n/shop\r\n/fly\r\n\r\nBOTS:\r\nBlack Farmbot (boss +1)\r\nPink Farmbot (boss +2)\r\nBlue Haybot (will change drops)\r\nPink Totebot (will change drops)\r\nWhite Tapebot(will change drops easy to kill.. spawns with common bots)\r\nPink Woc (special loot + rare spawn 1%)-- still working on this\r\n\r\nMORE BOTS TO COME\r\n\r\nWEAPONS:\r\n(TEMP NAMES, MAYBE MESHES)\r\n\r\nMisu Gatling gun (god gun atm.. :P)\r\nMisu Spudgun\r\nMisu Hammer\r\nMisu Chemical Launcher (NEW)\r\n\r\nyou can buy them for money you get killing mobs.. err i mean bots.. see R menu :)\r\n\r\nMORE WEAPONS TO COME\r\n\r\nadded new weapon Chemical Laucher.. :P\r\n\r\nnow comes Minecraft friendly commands\r\n/gmc = creative mode\r\n/gms = survival mode\r\n\r\npress R to open Shop.. will change it to H aka Handbook (coming soon!)\r\n\r\nFIX: Misu Weapons fix and few money exploits :P\r\n\r\nknowbug: if you drop my made guns/beacon its invinsible ((needs to be fixed asap >3))\r\n\r\nCo-op -- commands not working.. aka if you try to give money/stats to another player .. ((currently working on it))\r\n\r\ni need more people for testing this mod :) \r\n \r\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597770/1065643626597732422\r\n\r\nIMPORTANT NOTICE:\r\nSupport me here\r\nhttps://www.paypal.me/misukins\r\nhttps://gofund.me/8c600ca2\r\nhttps://www.patreon.com/Misukins\r\n",
 		"fileId": 2920382717,
 		"localId": "524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf",
 		"name": "MisuMod - Survival (Custom)",
@@ -28808,6 +28808,26 @@
 		"fileId": 2940954244,
 		"localId": "06881a39-29a4-4252-b996-0726e4635887",
 		"name": "POG 2 electric boogaloo",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"4b321fcc-6fd9-4a93-a182-59f82f94ad7c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Stuff",
+		"fileId": 2941265413,
+		"localId": "4b321fcc-6fd9-4a93-a182-59f82f94ad7c",
+		"name": "Davey's Parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"8b612109-737e-4244-b3c1-8480e2118fba": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2941379728,
+		"localId": "8b612109-737e-4244-b3c1-8480e2118fba",
+		"name": "POG 3 banna goatee",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
