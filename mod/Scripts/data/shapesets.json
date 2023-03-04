@@ -50739,6 +50739,7 @@
 			"5dba5fc4-94a6-47a7-b7a6-32ed762c8d82"
 		],
 		"$CONTENT_2d219396-688d-40a9-be11-ed6a0f36e915/Objects/Database/ShapeSets/logicgates.json": [
+			"1c9245ca-797d-4da6-8b41-1601a82edf2b",
 			"d8d824e1-2133-4c35-af33-be09a096ed02",
 			"dfdc843f-73ea-4d2e-b915-8425484f5ee0",
 			"4d27c579-9e52-4caf-af8e-c9d6ec0f5c2e",
@@ -50760,6 +50761,7 @@
 		],
 		"$CONTENT_2d219396-688d-40a9-be11-ed6a0f36e915/Objects/Database/ShapeSets/mathgates.json": [
 			"4cbd59e9-a2b9-42b8-b498-04a33d439592",
+			"dcd87a39-950c-46d7-8a1a-5e0d7e2ef193",
 			"f7a543a9-d055-4dbe-9973-f6bc227cbf37",
 			"ef07f8f7-d129-4ff1-a04e-8c6823c963b8",
 			"98212ccb-ebe4-406d-8a60-e5cc1eb56f5b",
@@ -50814,6 +50816,7 @@
 		],
 		"$CONTENT_2d219396-688d-40a9-be11-ed6a0f36e915/Objects/Database/ShapeSets/indestructible/mathgates.json": [
 			"cc39757e-5b41-4a47-974d-93dcc15c6c10",
+			"57ef07e4-ed0d-413f-b4bb-f129cd37e55d",
 			"c6f7dfd6-ae65-42e5-8644-7505e67e63a6",
 			"fdb5f236-d8e8-4c9b-90af-424627f28090",
 			"8841eb4c-e50d-4f89-a4ca-3c4bd9584679",
@@ -63975,7 +63978,8 @@
 			"16de3dce-5b50-4c49-9884-e2c2cd1093da",
 			"d2aeffb8-13a8-4bb3-bda1-6f4e2a3765b1",
 			"97b064db-f293-4ade-9c2e-8644d694e850",
-			"bf55b475-3322-4464-830e-eea0c348beed"
+			"bf55b475-3322-4464-830e-eea0c348beed",
+			"443258c2-bab2-4336-9fcd-2321c3676447"
 		]
 	},
 	"8345a6da-8de4-4312-8e26-f94bf4cf9daf": {
