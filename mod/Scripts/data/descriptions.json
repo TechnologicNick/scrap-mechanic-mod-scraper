@@ -11088,6 +11088,8 @@
 		"version": 1
 	},
 	"d100848d-4eda-48de-8792-b5839487b5a5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
 		"dependencies": [
 			{
 				"fileId": 2775130925,
@@ -11102,7 +11104,7 @@
 				"localId": "ec9caf77-cf5b-4e67-8dd7-874214acabd8"
 			}
 		],
-		"description": "Rail Track Parts - for use with Rail Track - Terrain Assets\n\nTurntable bridge:\n - Straight Rail\n\nDeprecated Parts: \n - Junction Straight (Left/Right)\n - Junction Curve - Pivot, Middle, Blade (Left/Right)\n - Railyard Straight - Pivot, Blade (Left/Right)\n - Railyard Curve - Pivot, Middle, Blade (Left/Right)\n\nDependencies:\n - Switch Rail (Main Line Junction)\n - Switch Rail (Rail Yard Junction)\n - Switch Rail (Curved Junction - Radius 121u)\n\n\n\n\n",
+		"description": "Rail Track Parts - for use with Rail Track - Terrain Assets\r\n\r\nTurntable bridge:\r\n - Straight Rail\r\n\r\nDeprecated Parts: \r\n - Junction Straight (Left/Right)\r\n - Junction Curve - Pivot, Middle, Blade (Left/Right)\r\n - Railyard Straight - Pivot, Blade (Left/Right)\r\n - Railyard Curve - Pivot, Middle, Blade (Left/Right)\r\n\r\nDependencies:\r\n - Switch Rail (Main Line Junction)\r\n - Switch Rail (Rail Yard Junction)\r\n - Switch Rail (Curved Junction - Radius 121u)\r\n\r\n\r\n\r\n\r\n",
 		"fileId": 2632353309,
 		"localId": "d100848d-4eda-48de-8792-b5839487b5a5",
 		"name": "Rail Track",
@@ -26511,7 +26513,7 @@
 	"9838cd1a-207a-49e8-bdc5-8ce609e5ac44": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "V 3.1",
+		"description": "V 3.3",
 		"fileId": 2874348356,
 		"localId": "9838cd1a-207a-49e8-bdc5-8ce609e5ac44",
 		"name": "P.D.P.Z.P",
@@ -28847,5 +28849,25 @@
 		"name": "slope compilation (slope2slopeA)",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"b472d6e7-c6ee-4790-a1f4-64ae7ce538cd": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Soccer Mod",
+		"fileId": 2941711024,
+		"localId": "b472d6e7-c6ee-4790-a1f4-64ae7ce538cd",
+		"name": "Soccer Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f38ec0ae-da55-456c-a547-9cd0be289274": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Sport Stuff Mod (Mixed) (BETA)",
+		"fileId": 2941758788,
+		"localId": "f38ec0ae-da55-456c-a547-9cd0be289274",
+		"name": "Sport Stuff Mod Lite",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
