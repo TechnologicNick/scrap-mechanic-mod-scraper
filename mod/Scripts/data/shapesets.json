@@ -64261,5 +64261,11 @@
 			"f3df5eeb-16c8-45ef-857c-2bc5aab9d4b8",
 			"d76bb555-669d-4e1e-9e85-73f905556d14"
 		]
+	},
+	"e8211e8e-d3b4-43d5-8b9e-0911134b5e50": {
+		"$CONTENT_e8211e8e-d3b4-43d5-8b9e-0911134b5e50/Objects/Database/ShapeSets/example.shapeset": [
+			"071573ac-4de7-4d0c-a4cf-0eed74ea7e31",
+			"c8f06042-ef30-46b6-97af-1bd5bfabbaae"
+		]
 	}
 }
