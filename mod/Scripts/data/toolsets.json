@@ -3037,7 +3037,8 @@
 	"a80338b0-7b3f-4c09-ac64-1c21bf629a33": {
 		"$CONTENT_a80338b0-7b3f-4c09-ac64-1c21bf629a33/Tools/Database/ToolSets/NewToolSet1.toolset": [
 			"4c535002-c960-42b4-ac72-f99bf12182f2",
-			"5449bd7a-8585-48d2-8adb-c5f188d4990f"
+			"5449bd7a-8585-48d2-8adb-c5f188d4990f",
+			"ef24072e-fea0-44cb-870b-904ebd90b622"
 		]
 	},
 	"a511e5d0-444f-43c2-86a5-970cf57dc3e3": {},
