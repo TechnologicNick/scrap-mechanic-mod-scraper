@@ -28879,5 +28879,22 @@
 		"name": "slipp",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"4bb469b5-97e3-44cb-9ec5-8a6e067f101a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 881252559,
+				"localId": "1dc1f452-0f24-416a-b5d9-016ccc6fee0c",
+				"name": "New Legend Mod"
+			}
+		],
+		"description": "Allows you to play with New Legend Mod using Modded Craftbot Recipes custom game.\r\nAlso makes that engines and thrusters from New Legend Mod consume fuel.\r\nFull credits to New Legend Mod creators.\r\n\r\nCompatible with New Legend Mod 3.2.3\r\nSome recipes might still be not balanced.",
+		"fileId": 2942915613,
+		"localId": "4bb469b5-97e3-44cb-9ec5-8a6e067f101a",
+		"name": "Better Legend Survival",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
