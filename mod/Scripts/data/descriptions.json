@@ -28767,7 +28767,7 @@
 	"203bdd09-fff8-4f72-9e3e-c5469f7b5185": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "adds an undo command\r\n\r\na live and fav would be awesome\r\n\r\nnot multiplayer friendly currenty",
+		"description": "adds an undo command\r\n\r\nafter editing it saves the creation.\r\ntype undo, and it goes back to the last edit saved\r\nyou have to be looking at the reminisce of the creation otherwise it doesn't know what to undo.\r\n\r\ncreation may move to the center of world sorry, but its random and cant be fixed rn.\r\n\r\na like and favorite would be awesome\r\n\r\n[h1]the discord: https://discord.gg/6r46PkYr9s[/h1]",
 		"fileId": 2938475964,
 		"localId": "203bdd09-fff8-4f72-9e3e-c5469f7b5185",
 		"name": "undo",
