@@ -28700,10 +28700,10 @@
 	"88ec0c71-8b66-42e3-9bc2-491825df53ca": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[Eng]\nthis mod allows you to create autopiloted cars\nthis mod can be induced in different ways and on different objects, starting from the label and the player\nending with a specific position or a block with a specific uuid\n, the fashion has a beautiful style, does not lag, it is easy to understand it, a concise cartoon logic\ndesign returns to the past at the time of 0.3.5\n\n[Rus]\nэтот мод позваляет создавать автопилотируемый машины\nэтот мод может наводиться разными способами и на разные обьекты, начиная от метки и игрока\nзаканчивая конкретной позицией или блоком с конкретным uuid\nу мода красивая стилистика, не лагает, в нем легко разобраться, лаконичный мультяшный дизаен логики\nвозврашает в прошлое во времена 0.3.5",
+		"description": "[Eng]\nthis mod allows you to create autopiloted cars\nthis mod can be induced in different ways and on different objects, starting from the label and the player\nending with a specific position or a block with a specific uuid\n, the fashion has a beautiful style, does not lag, it is easy to understand it, a concise cartoon logic\ndesign returns to the past at the time of 0.3.5\n\n[Rus]\nэтот мод позваляет создавать автопилотируемый машины\nэтот мод может наводиться разными способами и на разные обьекты, начиная от метки и игрока\nзаканчивая конкретной позицией или блоком с конкретным uuid\nу мода красивая стилистика, не лагает, в нем легко разобраться, лаконичный мультяшный дизаен логики\nвозврашает в прошлое во времена 0.3.5\n\n\n\nquality certificate of the \"A\" team",
 		"fileId": 2936300656,
 		"localId": "88ec0c71-8b66-42e3-9bc2-491825df53ca",
-		"name": "Intelligentia Mod 2",
+		"name": "ATM-Intelligentia Mod 2",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -28904,6 +28904,56 @@
 		"fileId": 2943078081,
 		"localId": "d44413aa-cc9a-4019-a1f8-b64169832519",
 		"name": "Indestructible Blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"67da1616-d4e2-4e02-b7f4-6cd0c8b56a6e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[Eng]\nthis is a mod that adds retro items to the game\n\n[Rus]\nэто мод добавляющий в игру ретро предметы\n\n\n\nquality certificate of the \"A\" team",
+		"fileId": 2943565128,
+		"localId": "67da1616-d4e2-4e02-b7f4-6cd0c8b56a6e",
+		"name": "ATM-retro stuff",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"62d29f6c-e1e1-49d4-9b04-9bb9607a4d78": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[Eng]\na new mod on the door, here the doors are script blocks, they can control the bearings themselves! and they can also be turned!\n\n[Rus]\nновый мод на двери, тут двери это скриптовые блоки, они сами могут упровлять подшибниками! а еще их можно приватить!\n\n\n\nquality certificate of the \"A\" team",
+		"fileId": 2943598723,
+		"localId": "62d29f6c-e1e1-49d4-9b04-9bb9607a4d78",
+		"name": "ATM-Doors",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"78893dce-c61d-4621-9f7a-ce319b0d46be": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[Eng]\nthis mod will allow you to emulate the behavior of the seat using logic\nyou will be able to rotate the padshibniki as seats, as well as you will be able to emulate whether the character is sitting in the seats\n, this will allow you to control the motor's brake\nas well in the add-ons, it can work as a WASD converter\n\n[Rus]\nэтот мод позволит вам эмулировать поводения сиденья использую логику\nвы сможете поварачить падшибники как сиденья, так же вы сможете эмулировать сидит ли персонаж в сидушки\nэто позволит вам управлять тормазом матора\nтак же в дополнения, может работать как WASD конвертор\n\n\n\nquality certificate of the \"A\" team",
+		"fileId": 2943600019,
+		"localId": "78893dce-c61d-4621-9f7a-ce319b0d46be",
+		"name": "ATM-seat emulator",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"bcfa2644-ae4a-4e8a-ac1b-e99939c3a95b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[Eng]\nthis mod allows you to privatize buildings\n[Rus]\nэтот мод позваляет приватить постройки\n\n\n\nquality certificate of the \"A\" team",
+		"fileId": 2943621291,
+		"localId": "bcfa2644-ae4a-4e8a-ac1b-e99939c3a95b",
+		"name": "ATM-Private Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"587a941f-585a-4afe-b87a-d6e74817e3a6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "shaba",
+		"fileId": 2943739029,
+		"localId": "587a941f-585a-4afe-b87a-d6e74817e3a6",
+		"name": "shaba",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
