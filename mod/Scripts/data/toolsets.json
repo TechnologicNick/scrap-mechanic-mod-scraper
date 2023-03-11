@@ -3122,5 +3122,8 @@
 	"78893dce-c61d-4621-9f7a-ce319b0d46be": {},
 	"bcfa2644-ae4a-4e8a-ac1b-e99939c3a95b": {},
 	"587a941f-585a-4afe-b87a-d6e74817e3a6": {},
-	"415e2126-9bab-418a-81ea-0ae8a1d6b8b4": {}
+	"415e2126-9bab-418a-81ea-0ae8a1d6b8b4": {},
+	"497da247-e270-4ea5-92bc-687467ea4664": {
+		"$CONTENT_497da247-e270-4ea5-92bc-687467ea4664/Tools/Database/ToolSets/example.toolset": []
+	}
 }

@@ -28966,5 +28966,15 @@
 		"name": "Target Block",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"497da247-e270-4ea5-92bc-687467ea4664": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2945130265,
+		"localId": "497da247-e270-4ea5-92bc-687467ea4664",
+		"name": "crash test",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
