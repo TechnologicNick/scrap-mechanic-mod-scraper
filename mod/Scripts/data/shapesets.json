@@ -64379,5 +64379,10 @@
 			"0aed058d-5a42-4250-b571-2fb1fa46bb0d"
 		]
 	},
-	"587a941f-585a-4afe-b87a-d6e74817e3a6": {}
+	"587a941f-585a-4afe-b87a-d6e74817e3a6": {},
+	"415e2126-9bab-418a-81ea-0ae8a1d6b8b4": {
+		"$CONTENT_415e2126-9bab-418a-81ea-0ae8a1d6b8b4/Objects/Database/ShapeSets/targetblocks.shapeset": [
+			"6878df0c-b2b2-44a1-a73b-a89f7155a27c"
+		]
+	}
 }

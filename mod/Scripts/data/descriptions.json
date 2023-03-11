@@ -28093,7 +28093,7 @@
 	"d752d3fd-11df-4127-9718-a14edcc70978": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Bed go brrr",
+		"description": "Bed go brrr\r\n\r\nWatch my video for more info on the mod. Too lazy to make description for now.",
 		"fileId": 2870930089,
 		"localId": "d752d3fd-11df-4127-9718-a14edcc70978",
 		"name": "Bedwars Custom Game",
@@ -28954,6 +28954,16 @@
 		"fileId": 2943739029,
 		"localId": "587a941f-585a-4afe-b87a-d6e74817e3a6",
 		"name": "shaba",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"415e2126-9bab-418a-81ea-0ae8a1d6b8b4": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds a fun new destructible part. Adjust durability of the Target Block and types of damage it can receive. \nCreate your own destructible creations, obstacles for friends and much more!",
+		"fileId": 2944566946,
+		"localId": "415e2126-9bab-418a-81ea-0ae8a1d6b8b4",
+		"name": "Target Block",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
