@@ -64392,5 +64392,13 @@
 		"$CONTENT_f530d492-c3df-4697-8b40-7a12d8389d03/Objects/Database/ShapeSets/example.shapeset": [
 			"051c3ef5-2ed2-42a7-8b80-15c32107a97c"
 		]
+	},
+	"f0eefe8c-2a41-44ec-a7c5-5d7f9b65fbe8": {},
+	"8bcc03f4-fc48-4c11-af53-aa251cd8f596": {
+		"$CONTENT_8bcc03f4-fc48-4c11-af53-aa251cd8f596/Objects/Database/ShapeSets/parts.json": [
+			"751e630b-d043-4af8-9d38-5b035dd9e59c",
+			"ef4a325a-0b5f-4712-b816-281e7fd92ddf",
+			"c2db949b-1b00-498b-baae-e4f82e231320"
+		]
 	}
 }

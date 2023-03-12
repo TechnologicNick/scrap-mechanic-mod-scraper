@@ -16302,7 +16302,14 @@
 	"61dfaa2e-041d-4e6b-82a1-54185a7d0cfe": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "allows you to place the lift ANYWHERE\r\ninfinite reach (not length!)\r\n\r\ncant use a creation with keybinds:\r\nforce build button: go down\r\nreload button: go up",
+		"dependencies": [
+			{
+				"fileId": 2945713875,
+				"localId": "8a98d059-e8b2-4c4d-bc87-02be20411962",
+				"name": "STD"
+			}
+		],
+		"description": "allows you to place the lift ANYWHERE\r\ninfinite reach (not length!)\r\n\r\ncant use a creation with keybinds:\r\nforce build button: go down\r\nreload button: go up\r\n\r\n[h1]discord.gg/6r46PkYr9s[/h1]",
 		"fileId": 2844836154,
 		"localId": "61dfaa2e-041d-4e6b-82a1-54185a7d0cfe",
 		"name": "Better Lift",
@@ -26022,7 +26029,14 @@
 	"8420a7ba-2462-41ac-966e-da6cc84fb899": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1] Hello! [/h1]\r\n\r\nThis is a mod that gives you some useful tools to aid with your vanilla logic builds!\r\n\r\nThis mod is currently in beta, I will be adding to it in the future, right now i'm thinking of more ideas to add without adding existing tools in other logic mods.\r\n\r\n[h1] Current tools: [/h1]\r\n\r\n[b]Logic Gate State Shower[/b] - Shows the state of a logic gate\r\n\r\n[b]1 Tick Hammer Block[/b] - Makes your hammer able to 1 tick logic gates\r\n\r\n[b]Circuit Timer Block[/b] - measures the time in ticks in a circuit\r\n\r\n[b]Self Wirer[/b] - Self wires logic gates\r\n\r\n[b]Logic Gate Mode Changer[/b] - allows you to change the logic gate's mode by colour\r\n\r\n[b]Timer Tick Modifier[/b] - allows you to modify timers ticks by colour\r\n\r\n[b]Logic Gate Connection Shower[/b] - Shows connections with name tags on your screen, helps in high connection count logic creations\r\n\r\n[b]The Ultimate Connection Hider[/b] - 1st use, when it is placed down, it hides connections while wiring, 2nd use, when interacting with the tool it will hide every other connection except connections coming from a gate that is the same colour as the tool.\r\n\r\n\r\nplease report any bugs to me in the comments and feel free to give me some suggestions.\r\n\r\nHope you enjoy.",
+		"dependencies": [
+			{
+				"fileId": 2945713875,
+				"localId": "8a98d059-e8b2-4c4d-bc87-02be20411962",
+				"name": "STD"
+			}
+		],
+		"description": "[h1] Hello! [/h1]\r\n\r\nThis is a mod that gives you some useful tools to aid with your vanilla logic builds!\r\n\r\nThis mod is currently in beta, I will be adding to it in the future, right now i'm thinking of more ideas to add without adding existing tools in other logic mods.\r\n\r\n[h1] Current tools: [/h1]\r\n\r\n[b]Logic Gate State Shower[/b] - Shows the state of a logic gate\r\n\r\n[b]1 Tick Hammer Block[/b] - Makes your hammer able to 1 tick logic gates\r\n\r\n[b]Circuit Timer Block[/b] - measures the time in ticks in a circuit\r\n\r\n[b]Self Wirer[/b] - Self wires logic gates\r\n\r\n[b]Logic Gate Mode Changer[/b] - allows you to change the logic gate's mode by colour\r\n\r\n[b]Timer Tick Modifier[/b] - allows you to modify timers ticks by colour\r\n\r\n[b]Logic Gate Connection Shower[/b] - Shows connections with name tags on your screen, helps in high connection count logic creations\r\n\r\n[b]The Ultimate Connection Hider[/b] - 1st use, when it is placed down, it hides connections while wiring, 2nd use, when interacting with the tool it will hide every connection on the creation.\r\n\r\n\r\nplease report any bugs to me in the comments and feel free to give me some suggestions.\r\n\r\nHope you enjoy.",
 		"fileId": 2856940100,
 		"localId": "8420a7ba-2462-41ac-966e-da6cc84fb899",
 		"name": "Vanilla Logic Debug Tools",
@@ -28334,7 +28348,7 @@
 	"6c25c658-0f6d-4b59-bef9-efddf4622bc5": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This Mod Adds a Ball Seat.\r\nA Gyroscopic Controlled Seat.\r\n( just before we get them in chapter 2 )\r\n\r\n[h1] KNOWN ISSUE [/h1]\r\n-The Lift is NOT able to Spawn a Creation with that on it ( Invalid Joint ).\r\n Workaround: Save ur Creation without that Ballseat and Place it on it if you spawn your creation with a Lift.\r\n\r\n[h1] HUGE THANKS TO MrCrackx02, He found the Balljoint hidden inside the game Code. Without it this would not be Possible! [/h1]\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.",
+		"description": "This Mod Adds a Ball Seat.\r\nA Gyroscopic Controlled Seat.\r\n( just before we get them in chapter 2 )\r\n\r\n[h1]IMPORTENT IMPORTENT IMPORTENT IMPORTENT [/h1]\r\n[h1]-Change Camera Mode to: Free Camera[/h1]\r\n\r\n[h1] KNOWN ISSUE [/h1]\r\n-The Lift is NOT able to Spawn a Creation with that on it ( Invalid Joint ).\r\n Workaround: Save ur Creation without that Ballseat and Place it on it if you spawn your creation with a Lift.\r\n\r\n[h1] HUGE THANKS TO MrCrackx02, He found the Balljoint hidden inside the game Code. Without it this would not be Possible! [/h1]\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.",
 		"fileId": 2924764837,
 		"localId": "6c25c658-0f6d-4b59-bef9-efddf4622bc5",
 		"name": "Ball Seat",
@@ -28984,6 +28998,26 @@
 		"fileId": 2945638960,
 		"localId": "f530d492-c3df-4697-8b40-7a12d8389d03",
 		"name": "STRONK METAL",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f0eefe8c-2a41-44ec-a7c5-5d7f9b65fbe8": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This Mod replaces the Damaged Backpack with a Invisable Backpack\r\n\r\nGoto:\r\nMod Folder\r\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2945885643...\r\n\r\ncopy The \"Survival\" Folder into the Main game Folder and replace the existing Folder\r\n\r\nGame Folder\r\n...\\Steam\\SteamApps\\common\\Scrap Mechanic\r\n\r\n\r\nThis Mod is Only Client Side. That means noone else needs the Mod to play together.",
+		"fileId": 2945885643,
+		"localId": "f0eefe8c-2a41-44ec-a7c5-5d7f9b65fbe8",
+		"name": "Damaged Backpack Replace to None Backpack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"8bcc03f4-fc48-4c11-af53-aa251cd8f596": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Glass Tubes",
+		"fileId": 2945892889,
+		"localId": "8bcc03f4-fc48-4c11-af53-aa251cd8f596",
+		"name": "Glass Tubs",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
