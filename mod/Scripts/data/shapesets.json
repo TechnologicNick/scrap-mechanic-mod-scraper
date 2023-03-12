@@ -64387,5 +64387,10 @@
 	},
 	"497da247-e270-4ea5-92bc-687467ea4664": {
 		"$CONTENT_497da247-e270-4ea5-92bc-687467ea4664/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"f530d492-c3df-4697-8b40-7a12d8389d03": {
+		"$CONTENT_f530d492-c3df-4697-8b40-7a12d8389d03/Objects/Database/ShapeSets/example.shapeset": [
+			"051c3ef5-2ed2-42a7-8b80-15c32107a97c"
+		]
 	}
 }
