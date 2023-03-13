@@ -1003,7 +1003,11 @@
 			"b654c690-c61a-4e57-a35f-e808ecd5c235",
 			"0f52d91b-5fbf-46ea-8b12-5e8122e1e09a",
 			"2c417320-6d0b-4b07-b2f1-63a5f6e8c4a5",
-			"a4c29f13-66a6-4dd0-af72-c99f5ae1d85b"
+			"a4c29f13-66a6-4dd0-af72-c99f5ae1d85b",
+			"8bc6246c-6ef4-4fc3-9986-bd7c91018314"
+		],
+		"$CONTENT_f5452069-d631-422c-a1dc-2957c935cbaa/Tools/Database/ToolSets/managers.toolset": [
+			"3481335f-7ef0-4b14-bb1a-57412b3bc632"
 		]
 	},
 	"250f418e-fa2c-4fb0-917a-7678c7e534f7": {},

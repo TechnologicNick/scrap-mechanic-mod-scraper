@@ -10214,10 +10214,10 @@
 	"f5452069-d631-422c-a1dc-2957c935cbaa": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "For current 0.6.0 game version.\r\n\r\nThis mod add new tools:\r\n - Potato Pistol\r\n - Chainsaw\r\n - Radio Explosive\r\n - TapeGun\r\n - Climber Tools\r\n - Jetpack\r\n - Blink\r\n - Extended Paint Tool",
+		"description": "[img]https://steamuserimages-a.akamaihd.net/ugc/2051991161054954893/E9C4E48B94EB91397A829825DCB7B78D264202C1/[/img]\n\nThis mod add new tools to the game. It [u]addition[/u] for survival/custom games. Works in creative game too.\n\n[h1]ProxyItems[/h1]\nNow tools have a properly item visualization drop. Should works in other custom games.\n[img]https://steamuserimages-a.akamaihd.net/ugc/2051991161054967718/5AF033FC54455F8B7A8606CF2A6EAEE11AA9940C/[/img]\n\n[h1]Tools[/h1]\n[code][olist]\n[*]Potato Pistol\n Weapon, which has less damage then spud gun, but faster him. \n\n[*]Chainsaw \n Can cut down any tree, and destory stone chunks. Also can refine wood and stone.\n Have durability, you can check it by pressing 'R' button.\n Uses fuel (per hit): for harvestables - 1, for characters - 5.\n Durability consuming: for harvestable - 1, for characters - 5.\n Without fuel can't damage tree and stone, consuming durability increasing by 2.\n Damage with fuel: 100 - for harvestable, 60 - for other. Without fuel - 10.\n\n[*]Radio Explosive\n Explosive which make [b]BOOM[/b]. You can activate by pressing 'R' button. It can sticks to characters.\n\n[*]TapeGun\n Big gun which can shoot tape. You can change projectile type by pressing 'R' button. Projectile ammo: 'Tape Roll' and 'Explosive Tape Roll'.\n\n[*]Climber Tools\n Give aportunity to climb on walls. Uses 1 chemicals per 10 seconds.\n\n[*]Jetpack\n Give aportunity to fly. Uses 1 fuel per 5 seconds. Pressing 'LMB' button activate second mode, you doesn't need to take it in hands, to fly.\n\n[*]Blink\n You can teleport in any selected point by clicking 'RMB' button. 'F' button cancel teleport.\n\n[*]Extended Paint Tool\n Paint tool with huge amount of color choice. Press 'Q' button to open color selection menu. Press 'R' button to copy color from part/block.\n\n[*]Mobile Phone\n You can call with him. You can call to the 'Nomad Trader' for... trading.\n[/olist][/code]\n\n[h1]Trading[/h1]\n[code]\nHow to get new items? You need to call a 'Nomad Trader' from your 'Mobile Phone'.\n[img]https://steamuserimages-a.akamaihd.ne",
 		"fileId": 2525165918,
 		"localId": "f5452069-d631-422c-a1dc-2957c935cbaa",
-		"name": "Rager's Tools",
+		"name": "Call of Time / Rager's Tools",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -26527,7 +26527,7 @@
 	"9838cd1a-207a-49e8-bdc5-8ce609e5ac44": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "V 3.4",
+		"description": "V 3.5",
 		"fileId": 2874348356,
 		"localId": "9838cd1a-207a-49e8-bdc5-8ce609e5ac44",
 		"name": "P.D.P.Z.P",
