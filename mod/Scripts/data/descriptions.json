@@ -29020,5 +29020,15 @@
 		"name": "Glass Tubs",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"2340c626-a49b-487e-ace6-8c681d0535eb": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "a drill that looks like a xmas tree! yup, that's literally it..\n\nif you know, you know\nif you don't - don't worry about it!\n\nthis should be craftable in survival using the Modded Craftbot Recipes custom game:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2816900681",
+		"fileId": 2946267664,
+		"localId": "2340c626-a49b-487e-ace6-8c681d0535eb",
+		"name": "XMas Tree Drill",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
