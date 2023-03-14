@@ -64431,5 +64431,10 @@
 		"$CONTENT_2340c626-a49b-487e-ace6-8c681d0535eb/Objects/Database/ShapeSets/example.shapeset": [
 			"3b50ee0e-3460-44ad-946c-46c37eb656c9"
 		]
+	},
+	"13de37af-531d-434b-9d78-ebbe976a9d11": {
+		"$CONTENT_13de37af-531d-434b-9d78-ebbe976a9d11/Objects/Database/ShapeSets/example.shapeset": [
+			"307060b6-f819-4f37-8868-703deeb328d2"
+		]
 	}
 }
