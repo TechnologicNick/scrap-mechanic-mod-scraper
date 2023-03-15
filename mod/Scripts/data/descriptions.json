@@ -28593,7 +28593,7 @@
 	"f5b9c07c-4f9c-43bf-8302-2e35efe11136": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "adds steak engines",
 		"fileId": 2932783531,
 		"localId": "f5b9c07c-4f9c-43bf-8302-2e35efe11136",
 		"name": "beef power",
@@ -29039,6 +29039,26 @@
 		"fileId": 2946786937,
 		"localId": "13de37af-531d-434b-9d78-ebbe976a9d11",
 		"name": "Creation Saver",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"2dfc0f83-fc2a-49fb-9f45-18792e11f981": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Полная версия Крять FM с основного канала Утка в Трендах.\n\nустоновка на windows:\n1.перейдите в папку C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\\n2.скопируйте все файлы\n3.перейдите в папку C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\n4.вставьте скопированые файлы с заменой",
+		"fileId": 2946845525,
+		"localId": "2dfc0f83-fc2a-49fb-9f45-18792e11f981",
+		"name": "Крять FM",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"40023a1c-ce34-44bd-970f-e58067b5d1dd": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Tribute to the author.\nThis MOD repairs the ability to \ndownload this popular mod and\nmakes the bricks / parts function \nagain please contact the original\nowner for specific questions with\npermission.  THANK YOU!",
+		"fileId": 2947049887,
+		"localId": "40023a1c-ce34-44bd-970f-e58067b5d1dd",
+		"name": "MjM Pasta & Coffee",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
