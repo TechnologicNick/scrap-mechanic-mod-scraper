@@ -461,7 +461,13 @@
 	},
 	"524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf": {
 		"$CONTENT_524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf/ScriptableObjects/ScriptableObjectSets/misu_manarers.sobset": [
-			"757b5d8b-4a9c-4e30-a565-90230c815659"
+			"757b5d8b-4a9c-4e30-a565-90230c815659",
+			"34d7bd7a-5b60-4251-9017-45f4b2c6ae9a"
+		],
+		"$CONTENT_524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf/ScriptableObjects/ScriptableObjectSets/sob_quests.sobset": [
+			"8be0279e-28b6-4aab-b620-586f50162c6e",
+			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
+			"009fe136-aeee-45c4-9135-006b786cfc59"
 		]
 	},
 	"1561718d-39d2-4b09-985c-d762f64f8733": {

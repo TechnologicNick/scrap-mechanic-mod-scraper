@@ -29078,5 +29078,15 @@
 		"name": "Fants Logic Stuff",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"0a1eae23-1e16-42dc-ac4f-5b99d29cbbf5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "- beter cardbord\n- floting block",
+		"fileId": 2947845270,
+		"localId": "0a1eae23-1e16-42dc-ac4f-5b99d29cbbf5",
+		"name": "Weard Blocks",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
