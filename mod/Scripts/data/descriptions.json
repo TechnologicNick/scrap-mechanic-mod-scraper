@@ -29088,5 +29088,15 @@
 		"name": "Weard Blocks",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"9fd09c44-c46a-45b9-a7b9-da6f115989c0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[Eng]\nthis mod adds speakers, turntables and records\nfor the mod to work, DLM game extensions are required\n\n[Rus]\nданный мод добавляет колонки, проигрыватели и пластинки\nдля работы мода требуется расширения игры DLM",
+		"fileId": 2948210047,
+		"localId": "9fd09c44-c46a-45b9-a7b9-da6f115989c0",
+		"name": "sound mod",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

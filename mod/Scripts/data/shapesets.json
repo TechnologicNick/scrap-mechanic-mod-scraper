@@ -64637,5 +64637,56 @@
 			"3004fb82-5a58-4fea-9d07-186c4890c405",
 			"a41922d5-11f4-49f8-a3f1-2445b941e2fc"
 		]
+	},
+	"9fd09c44-c46a-45b9-a7b9-da6f115989c0": {
+		"$CONTENT_9fd09c44-c46a-45b9-a7b9-da6f115989c0/Objects/Database/ShapeSets/disks.json": [
+			"9456dc89-ff2a-4c3d-be66-ba00c4358f7a",
+			"4c06c40b-f430-4ef1-8a42-0e5f8773dd94",
+			"cdca6b16-7cd6-45b6-9d29-2096e78be0b7",
+			"5bd6fffa-6ba4-46e1-9487-d1de7444d907",
+			"70d6e4de-b9ba-4e6b-991d-9397d8e5f5e2",
+			"d041efc1-d045-40a6-8e7c-cd109b5b29e2",
+			"378e2f11-b414-44d2-a1a4-1291e8488f89",
+			"95e37ea6-79b6-4451-9256-f9065c5837c0",
+			"5d280d5f-0a7e-4683-b4bc-115f593600ea",
+			"637a32d0-9d8b-4ba9-84a8-27a07833bbdd",
+			"4ccb8d15-791e-4976-b44c-808c5c298381",
+			"77bb5de6-38df-42ef-80ec-c774c5385178",
+			"4a5f0ccd-c3d0-4738-818d-3fbbc3955516",
+			"48fdcd93-3188-4930-bbd9-40dda009ef8d",
+			"571f4e33-0a5d-4a4e-a60c-219c647f70d5",
+			"53b1f793-bca3-422b-9e70-66ebb516aee0",
+			"18641958-7788-4db9-8a1a-719e247aeee6",
+			"b20e6f9d-8b7c-4263-b95f-7b0a33d11215",
+			"d9309520-6906-45cb-9711-9e695f45b2f9",
+			"354e5bcb-e9a9-49fb-8769-ae4f52e604ea",
+			"d4851998-2f2c-4e63-be97-b7d197d4488a",
+			"f2d3101a-73b9-4e61-b1f5-6b4fc954bfc3",
+			"0a15f9f0-63dc-4deb-9f7d-bce18de081a4",
+			"5fa86370-9400-4d8f-8af3-b8e8ddda0d5b",
+			"ed5410f1-2163-48d5-a4b7-6bcabad0d410",
+			"0ea8460e-226f-43df-91fb-c4c7e532907d",
+			"ce587a4d-cee0-4781-a7ac-6f0d2a9bad39",
+			"6b5c7cea-d7e0-4185-bdae-bb4704a537a0",
+			"c3818f51-d86a-4e64-82fe-26f5a2540081",
+			"87112c1f-c0ae-4b5f-a844-e4b15437a40a",
+			"ed52fdc9-035b-41af-a672-3a5f593b9bc1",
+			"9dad851b-f08c-45e3-8da9-506e33c4f1a8",
+			"9c68736d-1068-4045-8ddb-565db004fe13",
+			"8f2af1f4-d822-4d14-b602-d5dca399b770"
+		],
+		"$CONTENT_9fd09c44-c46a-45b9-a7b9-da6f115989c0/Objects/Database/ShapeSets/grammophones.json": [
+			"7393d152-273d-41ca-b3b2-16760eeced4a",
+			"7383fa92-d894-492e-a007-e28180f63826",
+			"dc7dc9b6-d19c-4067-939a-233502d9b89a"
+		],
+		"$CONTENT_9fd09c44-c46a-45b9-a7b9-da6f115989c0/Objects/Database/ShapeSets/parts.json": [
+			"4737d983-de9d-4b08-a919-78e54fdc4d43",
+			"0e4ea152-2c9d-4aa6-88a2-ad20dea1e1ab",
+			"3a218369-f0bb-4dca-a985-7e2386169f3f",
+			"945d84ee-0965-4a47-8c6f-8b78228a831a",
+			"2f360b0b-8267-4384-b156-097370e55407",
+			"f95094de-b7eb-4450-914d-807e8db45f45"
+		]
 	}
 }
