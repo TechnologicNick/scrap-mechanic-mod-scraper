@@ -502,8 +502,10 @@
 		"$CONTENT_3269e6ef-4d80-4f75-b8f6-dffb303e5243/Tools/Database/ToolSets/tools.toolset": [
 			"336a7328-4d50-432c-8698-2ed511187cc7",
 			"96f3b45c-8729-4573-bc14-bbe1cc7fd2bb",
+			"5a1ca305-513f-42db-ae71-52bd0a9247fc",
 			"c0cb7836-075a-478a-af3d-0b7360721527",
 			"c3e4dc43-a841-4c0f-82a6-7225d1bf210e",
+			"872b6328-37d4-4922-847d-0aef8803ac94",
 			"b0c08b35-4b40-40fe-b933-ca123f99eef8"
 		]
 	},
@@ -3145,6 +3147,11 @@
 	"9fd09c44-c46a-45b9-a7b9-da6f115989c0": {
 		"$CONTENT_9fd09c44-c46a-45b9-a7b9-da6f115989c0/Tools/Database/ToolSets/thetools.toolset": [
 			"e4cce64f-6666-4780-8be3-bbe504f9f16b"
+		]
+	},
+	"2b9e7f4c-2ec2-4795-9468-188b0af0fdce": {
+		"$CONTENT_2b9e7f4c-2ec2-4795-9468-188b0af0fdce/Tools/Database/ToolSets/ScriptTrigger.toolset": [
+			"76632844-81af-4cdf-8f22-82ce21dec1ee"
 		]
 	}
 }

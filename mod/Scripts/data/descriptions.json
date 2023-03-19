@@ -4255,7 +4255,7 @@
 	"3269e6ef-4d80-4f75-b8f6-dffb303e5243": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "=================================================================\r\n\r\nThis mod adds new spudguns. They look like famous guns from WW1 and WW2.\r\nSome of them are animated so check them out if you like that kind of details!\r\n\r\nDiscord Server: https://discord.gg/QJRHhuUYsM\r\n\r\n=================================================================\r\n\r\n{value} - delay after shoot in ticks\r\n[A] - gun is animated\r\n<value> - amount of ammo in the magazine\r\n\r\n====== NEW CONTENT ======\r\n\r\nNEW EFFECTS:\r\n- Muzzle Flash\r\n- Case Ejecting\r\n- Glowing Projectiles\r\n\r\nNEW MOUNTABLE  WEAPON:\r\n- Mac-31 [A] <150>\r\n\r\nNEW HANDHELD WEAPON:\r\n- Double Barrel Shotgun\r\n\r\n=== LIGHT MACHINE GUNS ===\r\n\r\n- [A] Lewis M1914  {4}\r\n- [A] Maxim M1905  {4}\r\n- Mac-31 [A] <150> {3}\r\n- M1919 .30 {3}\r\n- MG-34 {3}\r\n- [A] MG-42 {2}, <50>\r\n- DP-29 {4}\r\n- DGx03 {4}\r\n\r\n=== HEAVY MACHINE GUNS ===\r\n\r\n- [A] Browning .50 {4}\r\n- [A] Browning .50 Aircraft {4}\r\n- DSzK 12.7mm {4}\r\n\r\n====== 20mm CANNONS ======\r\n\r\n- MG 151/20 {8}\r\n- WZ.38 {10}\r\n- Hispano {10}\r\n- [A] Vulcan M61 {4}\r\n\r\n======= EXPLOSIVES ========\r\n\r\n- Bomb (proximity fuse)\r\n- Bomb 50kg\r\n- Bomb 100kg\r\n- Bomb 250kg\r\n- Anti-Tank Mine\r\n- S-Mine\r\n\r\n===== OTHER WEAPONS ======\r\n\r\n- Bazooka {120}\r\n- AK-47 {5}\r\n- [A] Mosin-Nagant 1891 {100} <5>\r\n- [A] PTRD-41 {120}\r\n- [A] Cannon {160}\r\n\r\n===========================\r\n\r\n\r\n--------------------------Credit & Copyright:----------------------------\r\nBrent Batch / DO NOT COPY without permission from \r\nBrent Batchdiscord)\r\nQuestion Mark - scripts explosive and non-explosive guns\r\n\"Alarmblock\" script is made by wingcomstriker405\r\n--------------------------------------------------------------------------\r\n",
+		"description": "=================================================================\r\n\r\nThis mod adds new spudguns. They look like famous guns from WW1 and WW2.\r\nSome of them are animated so check them out if you like that kind of details!\r\n\r\nDiscord Server: https://discord.gg/QJRHhuUYsM\r\n\r\n=================================================================\r\n\r\n{value} - delay after shoot in ticks\r\n[A] - gun is animated\r\n<value> - amount of ammo in the magazine\r\n\r\n====== NEW CONTENT ======\r\n\r\nNEW HANDHELD WEAPON:\r\n- Bazooka M20\r\n- Eoka\r\n\r\n+ Granade damage improved\r\n\r\n=== LIGHT MACHINE GUNS ===\r\n\r\n- [A] Lewis M1914  {4}\r\n- [A] Maxim M1905  {4}\r\n- Mac-31 [A] <150> {3}\r\n- M1919 .30 {3}\r\n- MG-34 {3}\r\n- [A] MG-42 {2}, <50>\r\n- DP-29 {4}\r\n- DGx03 {4}\r\n\r\n=== HEAVY MACHINE GUNS ===\r\n\r\n- [A] Browning .50 {4}\r\n- [A] Browning .50 Aircraft {4}\r\n- DSzK 12.7mm {4}\r\n\r\n====== 20mm CANNONS ======\r\n\r\n- MG 151/20 {8}\r\n- WZ.38 {10}\r\n- Hispano {10}\r\n- [A] Vulcan M61 {4}\r\n\r\n======= EXPLOSIVES ========\r\n\r\n- Bomb (proximity fuse)\r\n- Bomb 50kg\r\n- Bomb 100kg\r\n- Bomb 250kg\r\n- Anti-Tank Mine\r\n- S-Mine\r\n\r\n===== OTHER WEAPONS ======\r\n\r\n- Bazooka {120}\r\n- AK-47 {5}\r\n- [A] Mosin-Nagant 1891 {100} <5>\r\n- [A] PTRD-41 {120}\r\n- [A] Cannon {160}\r\n\r\n===========================\r\n\r\n\r\n--------------------------Credit & Copyright:----------------------------\r\nBrent Batch / DO NOT COPY without permission from \r\nBrent Batchdiscord)\r\nQuestion Mark - scripts explosive and non-explosive guns\r\n\"Alarmblock\" script is made by wingcomstriker405\r\n--------------------------------------------------------------------------\r\n",
 		"fileId": 1903792337,
 		"localId": "3269e6ef-4d80-4f75-b8f6-dffb303e5243",
 		"name": "Machine gun",
@@ -26520,7 +26520,7 @@
 	"9838cd1a-207a-49e8-bdc5-8ce609e5ac44": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "V 3.5",
+		"description": "V 3.7 honda remaster",
 		"fileId": 2874348356,
 		"localId": "9838cd1a-207a-49e8-bdc5-8ce609e5ac44",
 		"name": "P.D.P.Z.P",
@@ -28140,7 +28140,7 @@
 	"524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This is my version on Survival .. its still in Beta state.. so if you have any ideas im happy to hear them @ https://discord.gg/N5hecbNK9g :)\r\n\r\nCheats? since its in DEV mode still you have \r\n\r\nNew commands!!\r\n/l = limited\r\n/u = unlimited\r\n/addmoney\r\n/removemoney = im not sure will this work\r\n/shop\r\n/fly\r\n\r\nBOTS:\r\nBlack Farmbot (boss +1)\r\nPink Farmbot (boss +2)\r\nBlue Haybot (will change drops)\r\nPink Totebot (will change drops)\r\nWhite Tapebot(will change drops easy to kill.. spawns with common bots)\r\nPink Woc (special loot + rare spawn 1%)-- still working on this\r\n\r\nMORE BOTS TO COME\r\n\r\nWEAPONS:\r\n(TEMP NAMES, MAYBE MESHES)\r\n\r\nMisu Gatling gun (god gun atm.. :P)\r\nMisu Spudgun\r\nMisu Hammer\r\nMisu Chemical Launcher (NEW)\r\n\r\nyou can buy them for money you get killing mobs.. err i mean bots.. see R menu :)\r\n\r\nMORE WEAPONS TO COME\r\n\r\nadded new weapon Chemical Laucher.. :P\r\n\r\nnow comes Minecraft friendly commands\r\n/gmc = creative mode\r\n/gms = survival mode\r\n\r\npress R to open Shop.. will change it to H aka Handbook (coming soon!)\r\n\r\nFIX: Misu Weapons fix and few money exploits :P\r\n\r\nknowbug: if you drop my made guns/beacon its invinsible ((needs to be fixed asap >3))\r\n\r\nCo-op -- commands not working.. aka if you try to give money/stats to another player .. ((currently working on it))\r\n\r\ni need more people for testing this mod :) \r\n \r\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597770/1065643626597732422\r\n\r\nIMPORTANT NOTICE:\r\nSupport me here\r\nhttps://www.paypal.me/misukins\r\nhttps://gofund.me/8c600ca2\r\nhttps://www.patreon.com/Misukins\r\n",
+		"description": "This is my version on Survival .. its still in Beta state.. so if you have any ideas im happy to hear them @ https://discord.gg/N5hecbNK9g :)\n\nCommands!!\n/l = limited\n/u = unlimited\n\nfixed.. ((will add /addmoney/setmoney/remove (playername) amount))\n/addmoney /amoney\n/removemoney /rmoney\n/setmoney /smoney\n/shop (will be removed)\n/fly\n\nBOTS:\nBlack Farmbot (boss +1)\nPink Farmbot (boss +2)\nBlue Haybot (will change drops)\nPink Totebot (will change drops)\nWhite Tapebot\nPink Woc (special loot + rare spawn 1%)\n\nMORE BOTS TO COME\n\nWEAPONS:\n(TEMP NAMES, MAYBE MESHES)\n\nMisu Gatling gun (god gun atm.. :P)\nMisu Spudgun\nMisu Hammer\nMisu Chemical Launcher (NEW)\n\nyou can buy them for money you get killing mobs.. err i mean bots.. see R menu :)\n\nMORE WEAPONS TO COME\n\nnow comes Minecraft friendly commands\n/gmc = creative mode\n/gms = survival mode\n\npress R to open Shop.. will change it to H aka Handbook (coming soon!)\n\nknowbug: if you drop my made guns its invinsible ((needs to be fixed asap >3))\n\nCo-op -- commands not working.. aka if you try to give money/stats to another player .. ((currently working on it))\n\nI need more people for testing this CO-OP/SP mod :) \n\nNEW:\nAdded new Chest + Mesh \nalso fixed few bugs\n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597770/1065643626597732422\n\nIMPORTANT NOTICE:\nSupport me here\nhttps://www.paypal.me/misukins\nhttps://gofund.me/8c600ca2\nhttps://www.patreon.com/Misukins\n",
 		"fileId": 2920382717,
 		"localId": "524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf",
 		"name": "MisuMod - Survival (Custom)",
@@ -29096,6 +29096,16 @@
 		"fileId": 2948210047,
 		"localId": "9fd09c44-c46a-45b9-a7b9-da6f115989c0",
 		"name": "sound mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"2b9e7f4c-2ec2-4795-9468-188b0af0fdce": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "More Access",
+		"fileId": 2944936676,
+		"localId": "2b9e7f4c-2ec2-4795-9468-188b0af0fdce",
+		"name": "More Access",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
