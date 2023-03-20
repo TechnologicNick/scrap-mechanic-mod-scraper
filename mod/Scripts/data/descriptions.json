@@ -29147,5 +29147,25 @@
 		"name": "Condom",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"3aeb81c2-71b9-45a1-9479-1f48f1e8ff21": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[Eng]\nthis is a fork of SCI\nSCI is a fork of Scriptable Computers\nyes, I made a fork of the fork, but I'm tired of the negative attitude to this fashion on the part of everyone\nplease do not skimp on comments and advice\neverything is approved by everyone.... maybe... to be honest, I didn't really understand myself whether I was allowed to do this\n\nlist of things done:\n@ removed a few duplicated scripts\n@ the code has become cleaner\n@ there is both the SCI api and the usual Scriptable Computers\n@ fixed a file system bug\n@ full lua env is supported in order to issue the best error reports, and lua worked fine\n@ added the load method, which allows you to set the name of a piece of code and works as in a normal lua\n\ndock: https://steamcommunity.com/sharedfiles/filedetails/?id=2831560152\nthe mod from which I made the fork: https://steamcommunity.com/sharedfiles/filedetails/?id=2891850490\noriginal mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2821133117\n\n\n\n[Rus]\nэто форк SCI\nSCI являеться форком Scriptable Computers\nда я сделал форк форка, но мне надаело напревательско отношения к этому моду с стороны всех\nпрошу, не поскупитель на коментарии и советы\nвсе всеми одобренно.... наверное... честно говоря я сам доконца не понял, разрешили ли мне это сделать\n\nсписок сделаного:\n@ удалено немного нублированых скриптов\n@ код стал чише\n@ тут есть как api SCI, так и обычного Scriptable Computers\n@ исправлен баг файловой системмы\n@ поддерживаеться full lua env для того чтобы выдавать лучшеи отчеты об ошибках, и lua работал нормально\n@ добавлен метод load который позваляет устоновить имя куска кода и работает как в обычном lua\n\nдока: https://steamcommunity.com/sharedfiles/filedetails/?id=2831560152\nмод с которого я сделал форк: https://steamcommunity.com/sharedfiles/filedetails/?id=2891850490\nоригинальный мод: https://steamcommunity.com/sharedfiles/filedetails/?id=2821133117",
+		"fileId": 2949350596,
+		"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
+		"name": "SComputers",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"92816666-c290-4813-adcd-42368ffa0ac2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Custom seats and other assorted parts to inspire new builds! \nThis is essentially \"MJM Scifi Mod V2\".\n\nAll models are my own work by mostly \"kit-bashing\" the game models into new designs. Please do not copy models from this mod without permission. \n\nNew parts as well as more updated parts from my old MJM Scifi mod will be added.",
+		"fileId": 2949501397,
+		"localId": "92816666-c290-4813-adcd-42368ffa0ac2",
+		"name": "Seats and Tech Mod",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
