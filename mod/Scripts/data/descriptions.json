@@ -28963,6 +28963,13 @@
 	"bcfa2644-ae4a-4e8a-ac1b-e99939c3a95b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2945713875,
+				"localId": "8a98d059-e8b2-4c4d-bc87-02be20411962",
+				"name": "STD"
+			}
+		],
 		"description": "[Eng]\nthis mod allows you to privatize buildings\n[Rus]\nэтот мод позваляет приватить постройки",
 		"fileId": 2943621291,
 		"localId": "bcfa2644-ae4a-4e8a-ac1b-e99939c3a95b",
@@ -29128,6 +29135,16 @@
 		"fileId": 2949119834,
 		"localId": "cbdf0001-5886-48cd-8353-594c494e23ad",
 		"name": "Totebothead Ballon",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"873d69ba-e025-4365-a6e2-e2ee7332cb01": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Always wear protection kids :)",
+		"fileId": 2949412701,
+		"localId": "873d69ba-e025-4365-a6e2-e2ee7332cb01",
+		"name": "Condom",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
