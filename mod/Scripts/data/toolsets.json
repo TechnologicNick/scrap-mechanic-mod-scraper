@@ -1696,7 +1696,8 @@
 			"4a428601-d22c-49e3-9759-58533ad22875",
 			"72dd0e4b-6078-4a20-9a77-9736b30b3459",
 			"be3ef1c8-bdeb-4588-9c33-826236de0583",
-			"73578340-06d1-4e3b-9b66-1d817f7675f8"
+			"73578340-06d1-4e3b-9b66-1d817f7675f8",
+			"9d5f610b-0aec-4ead-8b03-14eb2ec1e876"
 		]
 	},
 	"9e56d32a-4fec-4c18-ac2b-7dffa394fefa": {
@@ -3142,7 +3143,11 @@
 	"13de37af-531d-434b-9d78-ebbe976a9d11": {},
 	"2dfc0f83-fc2a-49fb-9f45-18792e11f981": {},
 	"40023a1c-ce34-44bd-970f-e58067b5d1dd": {},
-	"990d2f1b-deb3-4c03-ac9c-63df8eeded6e": {},
+	"990d2f1b-deb3-4c03-ac9c-63df8eeded6e": {
+		"$CONTENT_990d2f1b-deb3-4c03-ac9c-63df8eeded6e/Tools/Database/ToolSets/autoTool.toolset": [
+			"9d5f610b-0aec-4ead-8b03-14eb2ec1e876"
+		]
+	},
 	"0a1eae23-1e16-42dc-ac4f-5b99d29cbbf5": {},
 	"9fd09c44-c46a-45b9-a7b9-da6f115989c0": {
 		"$CONTENT_9fd09c44-c46a-45b9-a7b9-da6f115989c0/Tools/Database/ToolSets/thetools.toolset": [

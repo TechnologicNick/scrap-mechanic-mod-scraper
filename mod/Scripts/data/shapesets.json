@@ -55695,8 +55695,6 @@
 			"2b6b6b6f-7c7d-4f6a-9c8d-774a084b1cfb",
 			"46271f6f-e61a-4173-b121-e37a1f56a904",
 			"7abd8ee7-f1ac-4b32-924c-f8322f58a8e7",
-			"596660f2-1d92-468a-97c6-e7cdb9087095",
-			"18a8e622-2c01-41c0-9b60-c0d8d88c09d8",
 			"ab2672e2-4f2f-4e7b-8be1-4dcfc4ccb151",
 			"92877a40-097d-45be-be06-faa30d7846df",
 			"5123feac-7a92-45bd-8935-d1342d27cb04",
@@ -64759,6 +64757,9 @@
 		]
 	},
 	"92816666-c290-4813-adcd-42368ffa0ac2": {
+		"$CONTENT_92816666-c290-4813-adcd-42368ffa0ac2/Objects/Database/ShapeSets/logic.shapeset": [
+			"c0d650d8-db42-4537-8b19-5bc71336e1e2"
+		],
 		"$CONTENT_92816666-c290-4813-adcd-42368ffa0ac2/Objects/Database/ShapeSets/seats.shapeset": [
 			"989d052a-ef30-4221-8258-7ab209e07930",
 			"bca0b55d-e068-4ba3-9b4e-e1f925ddfe76",
