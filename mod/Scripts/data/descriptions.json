@@ -29151,7 +29151,14 @@
 	"3aeb81c2-71b9-45a1-9479-1f48f1e8ff21": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[Eng]\nthis is a fork of SCI\nSCI is a fork of Scriptable Computers\nyes, I made a fork of the fork, but I'm tired of the negative attitude to this fashion on the part of everyone\nplease do not skimp on comments and advice\neverything is approved by everyone.... maybe... to be honest, I didn't really understand myself whether I was allowed to do this\n\nlist of things done:\n@ removed a few duplicated scripts\n@ the code has become cleaner\n@ there is both the SCI api and the usual Scriptable Computers\n@ fixed a file system bug\n@ full lua env is supported in order to issue the best error reports, and lua worked fine\n@ added the load method, which allows you to set the name of a piece of code and works as in a normal lua\n\ndock: https://steamcommunity.com/sharedfiles/filedetails/?id=2831560152\nthe mod from which I made the fork: https://steamcommunity.com/sharedfiles/filedetails/?id=2891850490\noriginal mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2821133117\n\n\n\n[Rus]\nэто форк SCI\nSCI являеться форком Scriptable Computers\nда я сделал форк форка, но мне надаело напревательско отношения к этому моду с стороны всех\nпрошу, не поскупитель на коментарии и советы\nвсе всеми одобренно.... наверное... честно говоря я сам доконца не понял, разрешили ли мне это сделать\n\nсписок сделаного:\n@ удалено немного нублированых скриптов\n@ код стал чише\n@ тут есть как api SCI, так и обычного Scriptable Computers\n@ исправлен баг файловой системмы\n@ поддерживаеться full lua env для того чтобы выдавать лучшеи отчеты об ошибках, и lua работал нормально\n@ добавлен метод load который позваляет устоновить имя куска кода и работает как в обычном lua\n\nдока: https://steamcommunity.com/sharedfiles/filedetails/?id=2831560152\nмод с которого я сделал форк: https://steamcommunity.com/sharedfiles/filedetails/?id=2891850490\nоригинальный мод: https://steamcommunity.com/sharedfiles/filedetails/?id=2821133117",
+		"dependencies": [
+			{
+				"fileId": 2945713875,
+				"localId": "8a98d059-e8b2-4c4d-bc87-02be20411962",
+				"name": "STD"
+			}
+		],
+		"description": "[Eng]\nthis is a fork of Scriptable Computers\nI made a fork because, but I'm tired of the disregard for this mod on the part of everyone\nplease do not skimp on comments and tips\nfor creating a fork was approved by the authors of the mod\n\nthe list of things done:\n@ removed a few duplicated scripts\n@ the code has become cleaner\n@ there is a SCI api (however, this is only for compatibility, it is not a fork of SCI), as well as the usual Scriptable Computers\n@ fixed a file system bug\n@ \"full lua env\" is supported in order to issue the best error reports, and lua worked fine\n@ added the load method, which allows you to set the name of a piece of code and works as in normal lua, but does not allow you to load bytecode\n@ what kind of Russian font\n\noriginal mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2821133117\ndock: https://steamcommunity.com/sharedfiles/filedetails/?id=2831560152\n\n\n\n\n[Rus]\nэто форк Scriptable Computers\nя сделал форк потому что, но мне надаело наплевательско отношения к этому моду с стороны всех\nпрошу, не поскупитель на коментарии и советы\nсоздания форка было одобренно авторами мода\n\nсписок сделаного:\n@ удалено немного дублированых скриптов\n@ код стал чише\n@ тут есть api SCI(однако это только для совместимости, не являеться форком SCI), так и обычного Scriptable Computers\n@ исправлены баг файловой системмы\n@ поддерживаеться \"full lua env\" для того чтобы выдавать лучшеи отчеты об ошибках, и lua работал нормально\n@ добавлен метод load который позваляет устоновить имя куска кода и работает как в обычном lua, однако не позваляет загружать bytecode\n@ какой некакой русский шрифт\n\nоригинальный мод: https://steamcommunity.com/sharedfiles/filedetails/?id=2821133117\nдока: https://steamcommunity.com/sharedfiles/filedetails/?id=2831560152",
 		"fileId": 2949350596,
 		"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
 		"name": "SComputers",
@@ -29165,6 +29172,16 @@
 		"fileId": 2949501397,
 		"localId": "92816666-c290-4813-adcd-42368ffa0ac2",
 		"name": "Seats and Tech Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"c76c1b15-b535-4aa0-9113-65965c78f148": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This Mod add Parts from my Main Mod ( Fant Mod ) as Seperated Mod usable in Creative.\r\n\r\n-3 sizes of Ballwheels\r\n-6 sizes of Waterwheels ( paddle )\r\n-Chemical Lift Engine ( like a Hot air ballon )\r\n-3 sizes of Pontons ( adjustable bouyancy )\r\n-4 different Propeller ( fixed size )\r\n-2 Adjustable Propeller\r\n-1x2 Thuster\r\n-2 different Water Thruster ( for heavy ships, the power of them scales with the mass, more mass more power )\r\n-many different Wing parts ( they have nothing todo with the Wings mod, its a completly different code )\r\n \r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant",
+		"fileId": 2949730799,
+		"localId": "c76c1b15-b535-4aa0-9113-65965c78f148",
+		"name": "Fants Propulsion Stuff",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
