@@ -584,19 +584,20 @@
 		"$CONTENT_d752d3fd-11df-4127-9718-a14edcc70978/Characters/Database/CharacterSets/example.characterset": []
 	},
 	"524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf": {
-		"$CONTENT_524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf/Characters/Database/CharacterSets/misu_robots.characterset": [
+		"$CONTENT_524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf/Characters/Database/CharacterSets/misu_robots.json": [
 			"2256a0ba-d5f8-46a6-bba4-8aeb523e970f",
 			"c5f4b4b2-c708-41f3-bd34-9fa22a404ff4",
 			"1343b9b5-bcec-4fee-b5e6-e6f4c9b90431",
 			"b68d0266-918e-4df4-b27b-af71314bbb37",
 			"df060af6-9ed8-4845-940b-aae31fcb41b3",
-			"5ff3c834-3249-4528-9499-cfd66b93c328"
+			"5ff3c834-3249-4528-9499-cfd66b93c328",
+			"2a0c7fce-5687-4efc-b0d3-2a1440d888c7"
 		],
-		"$CONTENT_524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf/Characters/Database/CharacterSets/animals.characterset": [
+		"$CONTENT_524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf/Characters/Database/CharacterSets/animals.json": [
 			"264a563a-e304-430f-a462-9963c77624e9",
 			"48c03f69-3ec8-454c-8d1a-fa09083363b1"
 		],
-		"$CONTENT_524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf/Characters/Database/CharacterSets/robots.characterset": [
+		"$CONTENT_524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf/Characters/Database/CharacterSets/robots.json": [
 			"04761b4a-a83e-4736-b565-120bc776edb2",
 			"9dbbd2fb-7726-4e8f-8eb4-0dab228a561d",
 			"fcb2e8ce-ca94-45e4-a54b-b5acc156170b",
