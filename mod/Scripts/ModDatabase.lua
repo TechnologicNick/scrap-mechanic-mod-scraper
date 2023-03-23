@@ -4,6 +4,8 @@ ModDatabase = {}
 
 ModDatabase.databases = {}
 
+_G.ModDatabaseCache = {}
+
 local function countKeys(t)
     local count = 0
     for k, v in pairs(t) do
@@ -176,10 +178,14 @@ function ModDatabase.isModLoaded(localId)
     return nil
 end
 
-function ModDatabase.getAllLoadedMods()
+function ModDatabase.getAllLoadedMods(ignoreCache)
     assert(ModDatabase.databases.shapesets, "Shapesets database is not loaded! Load it using ModDatabase.loadShapesets()")
 
     local loaded = {}
+
+    if _G.ModDatabaseCache.loaded and (not ignoreCache) then
+        return _G.ModDatabaseCache.loaded
+    end
 
     for localId, shapesets in pairs(ModDatabase.databases.shapesets) do
         if ModDatabase.isModLoaded(localId) then
@@ -187,6 +193,7 @@ function ModDatabase.getAllLoadedMods()
         end
     end
 
+    _G.ModDatabaseCache.loaded = loaded
     return loaded
 end
 
@@ -204,16 +211,20 @@ function ModDatabase.isModInstalled(localId)
     return select(1, pcall(sm.json.fileExists, "$CONTENT_" .. localId .. "/description.json"))
 end
 
-function ModDatabase.getAllInstalledMods()
+function ModDatabase.getAllInstalledMods(ignoreCache)
     assert(ModDatabase.databases.descriptions, "Descriptions database is not loaded! Load it using ModDatabase.loadDescriptions()")
 
     local installed = {}
+
+    if _G.ModDatabaseCache.installed and (not ignoreCache) then
+        return _G.ModDatabaseCache.installed
+    end
 
     for localId, _ in pairs(ModDatabase.databases.descriptions) do
         if ModDatabase.isModInstalled(localId) then
             table.insert(installed, localId)
         end
     end
-
+    _G.ModDatabaseCache.installed = installed
     return installed
 end
