@@ -3204,5 +3204,10 @@
 			"fad07590-a4da-43b9-a25f-9405f44b4874",
 			"5abb246c-2d3e-4d5b-90b4-e76e7560d390"
 		]
+	},
+	"af82c9ec-563b-4b23-8c5d-05a2b0f3ced5": {
+		"$CONTENT_af82c9ec-563b-4b23-8c5d-05a2b0f3ced5/Tools/Database/ToolSets/tools.json": [
+			"12485df8-90c9-4e6c-843f-162c5cb109f3"
+		]
 	}
 }
