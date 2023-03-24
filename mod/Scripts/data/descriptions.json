@@ -29177,7 +29177,7 @@
 	"92816666-c290-4813-adcd-42368ffa0ac2": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Custom seats and other assorted parts to inspire new builds! \nThis is essentially \"MJM Scifi Mod V2\".\n\nAll models are my own work by mostly \"kit-bashing\" the game models into new designs. Please do not copy models from this mod without permission. \n\nNew parts as well as more updated parts from my old MJM Scifi mod will be added.\nParts in the two mods may not be compatible.",
+		"description": "Custom seats and other assorted parts to inspire new builds!\n\nThis is essentially [url=https://steamcommunity.com/sharedfiles/filedetails/?id=905650948]MJM Scifi Mod[/url] V2.\n\nTo craft in survival you must play a custom game that implements the [url=https://steamcommunity.com/workshop/filedetails/?id=2504530003]ModDatabase[/url] such as:\n- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Modded Craftbot Recipes[/url]\n- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2820096455]Fant Mod 2 Custom Gamemode[/url]\n\nAll models are my own work by mostly \"kit-bashing\" the game models into new designs. Please do not copy models or scripts from this mod without permission.\n\nI will be adding updated versions of various parts from my old mod over time, but the parts in my old MJM mod may not be compatible with this mod as this is a fresh start where I'm re-thinking how some they are implemented.",
 		"fileId": 2949501397,
 		"localId": "92816666-c290-4813-adcd-42368ffa0ac2",
 		"name": "Seats and Tech Mod (Survival)",
@@ -29227,6 +29227,26 @@
 		"fileId": 2951144897,
 		"localId": "af82c9ec-563b-4b23-8c5d-05a2b0f3ced5",
 		"name": "Random Junk Gun",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"4666e1f9-0ddc-4659-a589-a7cc974cb9f9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2951385249,
+		"localId": "4666e1f9-0ddc-4659-a589-a7cc974cb9f9",
+		"name": "CBORNIK",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b984a9d8-47c0-450f-825c-0403618e3f92": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Dear adventurer, let me tell you about the best Scrap Mechanic part that you never even knew you were missing out on. This part is a true game-changer, a marvel of engineering, and a must-have for any serious Scrap Mechanic enthusiast.\n\nImagine, if you will, a part that can transform your vehicles and contraptions from good to great, from functional to exceptional, from ordinary to extraordinary. A part that can unlock a whole new level of creativity and innovation, and help you take your Scrap Mechanic skills to the next level.\n\nThis part is so versatile, so adaptable, that it can be used in a myriad of different ways. It can enhance the speed and manoeuvrability of your vehicles, improve their durability and resilience, and even add new features and capabilities that you never thought possible.\n\nThis part is none other than the Crane Wheel™! You see, the Crane Wheel™ has become somewhat of a symbol for innovation and imagination in the world of scientific discovery. It represents the idea that anything is possible if you have the right tools and the right mindset. And that's exactly what this Scrap Mechanic mod does.\n\nBy adding the Crane Wheel™ to your Scrap Mechanic creations, you are embracing the spirit of creativity and pushing the boundaries of what is possible. You are harnessing the power of your imagination and using it to create amazing things that others can only dream of.\n\nSo, dear adventurer, I implore you to give this mod a try. You may be skeptical at first, but I assure you, once you see the incredible things you can do with the Crane Wheel™  you'll wonder how you ever lived without it. It truly is the best Scrap Mechanic part you didn't realise you were missing out on!\n\nCONTAINS:\n1x CRANE WHEEL™ in Creative\n\nBe sure to like the workshop item if you found it life changing!\n\n\nBy Jotrain Gamer",
+		"fileId": 2951390904,
+		"localId": "b984a9d8-47c0-450f-825c-0403618e3f92",
+		"name": "Crane Wheel Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
