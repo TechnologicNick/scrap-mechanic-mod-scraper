@@ -4,7 +4,7 @@ ModDatabase = {}
 
 ModDatabase.databases = {}
 
-_G.ModDatabaseCache = {}
+sm.ModDatabaseCache = {}
 
 local function countKeys(t)
     local count = 0
@@ -183,8 +183,8 @@ function ModDatabase.getAllLoadedMods(ignoreCache)
 
     local loaded = {}
 
-    if _G.ModDatabaseCache.loaded and (not ignoreCache) then
-        return _G.ModDatabaseCache.loaded
+    if sm.ModDatabaseCache.loaded and (not ignoreCache) then
+        return sm.ModDatabaseCache.loaded
     end
 
     for localId, shapesets in pairs(ModDatabase.databases.shapesets) do
@@ -193,7 +193,7 @@ function ModDatabase.getAllLoadedMods(ignoreCache)
         end
     end
 
-    _G.ModDatabaseCache.loaded = loaded
+    sm.ModDatabaseCache.loaded = loaded
     return loaded
 end
 
@@ -216,8 +216,8 @@ function ModDatabase.getAllInstalledMods(ignoreCache)
 
     local installed = {}
 
-    if _G.ModDatabaseCache.installed and (not ignoreCache) then
-        return _G.ModDatabaseCache.installed
+    if sm.ModDatabaseCache.installed and (not ignoreCache) then
+        return sm.ModDatabaseCache.installed
     end
 
     for localId, _ in pairs(ModDatabase.databases.descriptions) do
@@ -225,6 +225,6 @@ function ModDatabase.getAllInstalledMods(ignoreCache)
             table.insert(installed, localId)
         end
     end
-    _G.ModDatabaseCache.installed = installed
+    sm.ModDatabaseCache.installed = installed
     return installed
 end
