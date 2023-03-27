@@ -28153,7 +28153,7 @@
 	"524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This is my version on Survival .. its still in Beta state.. so if you have any ideas im happy to hear them @ https://discord.gg/N5hecbNK9g :)\n\nCommands!!\n/l = limited\n/u = unlimited\n\nfixed.. ((will add /addmoney/setmoney/remove (playername) amount))\n/addmoney /amoney\n/removemoney /rmoney\n/setmoney /smoney\n/shop (will be removed)\n/fly\n\nBOTS:\nBlack Farmbot (boss +1)\nPink Farmbot (boss +2)\nBlue Haybot (will change drops)\nPink Totebot (will change drops)\nWhite Tapebot\nPink Woc (special loot + rare spawn 1%)\nWhite Worm (Special loot from cardboard)\n\nMORE BOTS TO COME\n\nWEAPONS:\n(TEMP NAMES, MAYBE MESHES)\n\nMisu Gatling gun (god gun atm.. :P)\nMisu Spudgun\nMisu Hammer\nMisu Chemical Launcher (NEW)\nMisu Jepack (TODO = Fuel)\n\nyou can buy them for money you get killing mobs.. err i mean bots.. see R menu :)\n\nMORE WEAPONS TO COME\n\nnow comes Minecraft friendly commands\n/gmc = creative mode\n/gms = survival mode\n\npress R to open Shop.. will change it to H aka Handbook (coming soon!)\n\nknowbug: if you drop my made guns its invinsible ((needs to be fixed asap >3))\n\nCo-op -- commands not working.. aka if you try to give money/stats to another player .. ((currently working on it))\n\nI need more people for testing this CO-OP/SP mod :) \n\nNEW:\nAdded new Chest + Mesh \nalso fixed few bugs\nwhiteworm\nbots drops health potions (will add collision pickup so no need to add inv/pickup manually)\n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597770/1065643626597732422\n\nIMPORTANT NOTICE:\nSupport me here\nhttps://www.paypal.me/misukins\nhttps://gofund.me/8c600ca2\nhttps://www.patreon.com/Misukins\n",
+		"description": "This is my version on Survival .. its still in Beta state.. so if you have any ideas im happy to hear them @ https://discord.gg/N5hecbNK9g :)\n\nCommands!!\n/l = limited\n/u = unlimited\n\nfixed.. ((will add /addmoney/setmoney/remove (playername) amount))\n/addmoney /amoney\n/removemoney /rmoney\n/setmoney /smoney\n/shop (will be removed)\n/fly\n\nBOTS:\nBlack Farmbot (boss +1)\nPink Farmbot (boss +2)\nBlue Haybot (will change drops)\nPink Totebot (will change drops)\nWhite Tapebot\nPink Woc (special loot + rare spawn 1%)\nWhite Worm (Special loot from cardboard)\n\nMORE BOTS TO COME\n\nWEAPONS:\n(TEMP NAMES, MAYBE MESHES)\n\nMisu Gatling gun (god gun atm.. :P)\nMisu Spudgun\nMisu Hammer\nMisu Chemical Launcher (NEW)\nMisu Jepack (TODO = Fuel)\n\nyou can buy them for money you get killing mobs.. err i mean bots.. see R menu :)\n\nMORE WEAPONS TO COME\n\nnow comes Minecraft friendly commands\n/gmc = creative mode\n/gms = survival mode\n\npress R to open Shop.. will change it to H aka Handbook (coming soon!)\n\nknowbug: if you drop my made guns its invinsible ((needs to be fixed asap >3))\n\nCo-op -- commands not working.. aka if you try to give money/stats to another player .. ((currently working on it))\n\nI need more people for testing this CO-OP/SP mod :) \n\nNEW:\nAdded new BatteryRecharge + Mesh (all it need to add sperfect day/night script) - it has solarpanels :P\n\nstarting on perkpoints system all thats and more will be changed from Money to Perkpoints \nAdded stats on HUD.. will add them to /stats toggle for now they true default\n\nPS: if you use -Dev you will see errors when you kill bots/loot its known since i haven't finished that yet... just wanted to release something new :)\n\nwhiteworm (need to be fixed after pickup)\nbots drops health potions (will add collision pickup so no need to add inv/pickup manually)\n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597770/1065643626597732422\n\nIMPORTANT NOTICE:\nSupport me here\nhttps://www.paypal.me/misukins\nhttps://gofund.me/8c600ca2\nhttps://www.patreon.com/Misukins\n",
 		"fileId": 2920382717,
 		"localId": "524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf",
 		"name": "MisuMod - Survival (Custom)",
@@ -29169,7 +29169,14 @@
 	"3aeb81c2-71b9-45a1-9479-1f48f1e8ff21": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[Eng]\nthis fork of Scriptable Computers\nfork creation was approved by the authors of the mod!\n\nthe list of things done:\n@ limit the computer code is fixed at 32 kilobytes\n@ removed a few duplicated scripts\n@ the code has become much cleaner\n@ there is a SCI api here (however, this is only for compatibility, it is not a fork of SCI). this fork of as the usual Scriptable Computers\n@ fixed file system bug\n@ \"full lua env\" is supported in order to produce better error reports, and lua worked fine\n@ added the load method, which allows you to set the name of a piece of code and works as in normal lua, but does not allow you to load bytecode\n@ russian font\n@ added support for a large number of languages\n@ large displays (16x16 blocks)\n@ displays with huge resolutions(1024x1024)\n@ working non-square displays\n@ small hdd in 1 block(1MB)\n@ setLock and GetLock methods (GetLock also returns 2 parameters), this method accepts two parameters: whether it is blocked, whether it will be possible to change the first value.\nwhen locked, the computer interface cannot be opened\nif the second argument is true then the lock states cannot be changed\n@ setCode and getCode methods. allow you to install and read the computer code from itself\n@ setData and getData methods. they allow you to work with a small line of computer memory, it is stored in the computer itself.\nits maximum size is 512 bytes\n@ setInvisible and getInvisible methods. allow you to make the computer invisible to other computers connected to it\nand getParentComputers and getChildComputers will not return it\n@ computer with built-in 512 KB SSD\n@ the methods display.setSkipAtLags and display.getSkipAtLags\nsets whether flush will be canceled when lags\ncan create unpleasant stripes if you are drawing in palosks and once\nby omission skip at lags is true\n, but you can turn it off if you need it\n@ computer crash states now persist\n@ new colors for shadowing points\n@ new computer textures and I/O blocks\n@ added a new getCurrentComputer method will return the public api of your PC",
+		"dependencies": [
+			{
+				"fileId": 2945713875,
+				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
+				"name": "ModDatabase v2"
+			}
+		],
+		"description": "this fork of Scriptable Computers\r\nfork creation was approved by the authors of the mod!\r\n\r\nSComputers documentation: https://steamcommunity.com/sharedfiles/filedetails/?id=2952685276\r\nofficial mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2821133117\r\nofficial documentation: https://steamcommunity.com/sharedfiles/filedetails/?id=2831560152",
 		"fileId": 2949350596,
 		"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
 		"name": "SComputers [Fork]",
@@ -29249,6 +29256,16 @@
 		"fileId": 2951390904,
 		"localId": "b984a9d8-47c0-450f-825c-0403618e3f92",
 		"name": "Crane Wheel Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"c0c28f2a-1d64-4787-ad6a-8f0166367ac9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Crab",
+		"fileId": 2953363693,
+		"localId": "c0c28f2a-1d64-4787-ad6a-8f0166367ac9",
+		"name": "Crab",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
