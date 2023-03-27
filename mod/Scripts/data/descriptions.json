@@ -11740,6 +11740,8 @@
 		"version": 0
 	},
 	"cfb3c200-4272-4de8-9810-69c0079e0287": {
+		"allow_add_mods": true,
+		"custom_icons": false,
 		"description": "This mod doesn't have a description",
 		"fileId": 2745522922,
 		"localId": "cfb3c200-4272-4de8-9810-69c0079e0287",
@@ -16306,6 +16308,13 @@
 	"61dfaa2e-041d-4e6b-82a1-54185a7d0cfe": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2945713875,
+				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
+				"name": "ModDatabase"
+			}
+		],
 		"description": "allows you to place the lift ANYWHERE\r\ninfinite reach (not length!)\r\n\r\ncant use a creation with keybinds:\r\nforce build button: go down\r\nreload button: go up\r\n\r\n[h1]discord.gg/6r46PkYr9s[/h1]",
 		"fileId": 2844836154,
 		"localId": "61dfaa2e-041d-4e6b-82a1-54185a7d0cfe",
@@ -28444,7 +28453,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "This mod contains all my successful new ideas and life improvements.\n\nWarning: this mod relies heavily on Game Data, so it might break in the future!\n\nBasic Parts Included:\nSmooth Wheel\nBig Smooth Wheel\nLi'l Square Speaker\n\nInteractive Parts included:\nDriver's floor\nUnused horn\nSide-Mounted Button\nSide-Mounted Switch\nAlternate switch (a switch with a button model)\nSmall Electric Engine (Updated, now 1x1x1)\nSmall Gas Engine (Updated, now 1x1x1)\nSide-Mounted Thruster\nThe DUCK seat\nDeletion Duck (Now improved)\nBlank Duck (is a seat)\nWASD converters\nSmall Timer\nPanel Sensor\nInstant Logic Gate\nLong Piston\nBearing Spinner (Now has slow mode option!)\nPiston Controller\n\nBlocks included:\nIce\nRubber\nBlack Hole Block (Updated, is now proper weight)\n\nTools Included:\nDeletion Duck 1 (can delete individual blocks and parts, also is now improved, should now work on every client)\nDeletion Duck 2 (can delete creations, also is now improved)\nPowerHammer\n\nNow has crafting recipes for non-cheaty items!\n\nVersion 1.0.30\n\nFollow Me on YouTube!\nhttps://www.youtube.com/channel/UCSs7uIlC04zzgdn_Zyy5X5A",
+		"description": "This mod contains all my successful new ideas and life improvements.\n\nWarning: this mod relies heavily on Game Data, so it might break in the future!\n\nBasic Parts Included:\nSmooth Wheel\nBig Smooth Wheel\nLi'l Square Speaker\n\nInteractive Parts included:\nDriver's floor\nUnused horn\nSide-Mounted Button\nSide-Mounted Switch\nAlternate switch (a switch with a button model)\nSmall Electric Engine (Updated, now 1x1x1)\nSmall Gas Engine (Updated, now 1x1x1)\nSide-Mounted Thruster\nThe DUCK seat\nDeletion Duck (Now improved)\nBlank Duck (is a seat)\nWASD converters\nSmall Timer\nPanel Sensor\nInstant Logic Gate\nLong Piston\nBearing Spinner (Now has slow mode option!)\nPiston Controller\n\nBlocks included:\nIce\nRubber\nBlack Hole Block (Updated, is now proper weight)\n\nTools Included:\nDeletion Duck 1 (can delete individual blocks and parts, also is now improved, should now work on every client)\nDeletion Duck 2 (can delete creations, also is now improved)\nPowerHammer\nWireless Probe\n\nVersion 1.0.31\n\nFollow Me on YouTube!\nhttps://www.youtube.com/channel/UCSs7uIlC04zzgdn_Zyy5X5A",
 		"fileId": 2926221169,
 		"localId": "a80338b0-7b3f-4c09-ac64-1c21bf629a33",
 		"name": "The SMM Pack",
@@ -29160,13 +29169,6 @@
 	"3aeb81c2-71b9-45a1-9479-1f48f1e8ff21": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2945713875,
-				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
-				"name": "ModDatabase v2"
-			}
-		],
 		"description": "[Eng]\nthis fork of Scriptable Computers\nfork creation was approved by the authors of the mod!\n\nthe list of things done:\n@ limit the computer code is fixed at 32 kilobytes\n@ removed a few duplicated scripts\n@ the code has become much cleaner\n@ there is a SCI api here (however, this is only for compatibility, it is not a fork of SCI). this fork of as the usual Scriptable Computers\n@ fixed file system bug\n@ \"full lua env\" is supported in order to produce better error reports, and lua worked fine\n@ added the load method, which allows you to set the name of a piece of code and works as in normal lua, but does not allow you to load bytecode\n@ russian font\n@ added support for a large number of languages\n@ large displays (16x16 blocks)\n@ displays with huge resolutions(1024x1024)\n@ working non-square displays\n@ small hdd in 1 block(1MB)\n@ setLock and GetLock methods (GetLock also returns 2 parameters), this method accepts two parameters: whether it is blocked, whether it will be possible to change the first value.\nwhen locked, the computer interface cannot be opened\nif the second argument is true then the lock states cannot be changed\n@ setCode and getCode methods. allow you to install and read the computer code from itself\n@ setData and getData methods. they allow you to work with a small line of computer memory, it is stored in the computer itself.\nits maximum size is 512 bytes\n@ setInvisible and getInvisible methods. allow you to make the computer invisible to other computers connected to it\nand getParentComputers and getChildComputers will not return it\n@ computer with built-in 512 KB SSD\n@ the methods display.setSkipAtLags and display.getSkipAtLags\nsets whether flush will be canceled when lags\ncan create unpleasant stripes if you are drawing in palosks and once\nby omission skip at lags is true\n, but you can turn it off if you need it\n@ computer crash states now persist\n@ new colors for shadowing points\n@ new computer textures and I/O blocks\n@ added a new getCurrentComputer method will return the public api of your PC",
 		"fileId": 2949350596,
 		"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
