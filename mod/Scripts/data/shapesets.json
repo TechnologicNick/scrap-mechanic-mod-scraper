@@ -65839,5 +65839,10 @@
 			"d64ec9e6-e70b-4159-9ed5-ecf3ecc50bb1"
 		]
 	},
-	"fbac45aa-d973-401d-889d-8b2bf16a5b04": {}
+	"fbac45aa-d973-401d-889d-8b2bf16a5b04": {},
+	"a6f6eab5-59a6-4ce5-abb2-1f21fbdca71a": {
+		"$CONTENT_a6f6eab5-59a6-4ce5-abb2-1f21fbdca71a/Objects/Database/ShapeSets/example.shapeset": [
+			"19e278ba-9224-4b09-973b-bf12747b72e3"
+		]
+	}
 }
