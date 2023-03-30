@@ -29270,5 +29270,15 @@
 		"name": "Crab",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"fbac45aa-d973-401d-889d-8b2bf16a5b04": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h1]Customize Your Character![/h1]\r\n\r\nThis Mod adds a Tool that Allows you to Attach all Block and Parts to your Player.\r\nThe Parts and Blocks are JUST VISUAL. \r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant",
+		"fileId": 2954491805,
+		"localId": "fbac45aa-d973-401d-889d-8b2bf16a5b04",
+		"name": "PVA - Player Visual Attachments",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

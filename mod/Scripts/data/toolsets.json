@@ -3213,5 +3213,11 @@
 	},
 	"4666e1f9-0ddc-4659-a589-a7cc974cb9f9": {},
 	"b984a9d8-47c0-450f-825c-0403618e3f92": {},
-	"c0c28f2a-1d64-4787-ad6a-8f0166367ac9": {}
+	"c0c28f2a-1d64-4787-ad6a-8f0166367ac9": {},
+	"fbac45aa-d973-401d-889d-8b2bf16a5b04": {
+		"$CONTENT_fbac45aa-d973-401d-889d-8b2bf16a5b04/Tools/Database/ToolSets/PVA.toolset": [
+			"780795bd-d506-418a-9824-a110b2fa9daa",
+			"8617557f-c854-41a4-bf1a-0a7cb8825e61"
+		]
+	}
 }
