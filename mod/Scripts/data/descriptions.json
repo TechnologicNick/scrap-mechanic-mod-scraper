@@ -14698,7 +14698,7 @@
 	"a241404f-c969-43d9-9029-792acac18ad0": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod adds several new recipes to make resources renewable and add blocks the devs were to lazy to add themselfs. It removes some of the grind of scrap mechanic by making refining faster and adding recipes.\n\nHideout:\n-Ember\n-Scrap Wood\n-Wood\n-Scrap Metal\n-Metal\n-Stone\n-Sunshake\n-Circuit Board\n-Component Kit\n-Glue\n\nCraftbot:\n-Scrap Metal and comp. Kits crafted from Totebot heads\n-Square Net (the orange low friction net)\n-Shack Light\n-Beam Frame Light\n-Warehouse Wall Light\n-Fluorescent Light\n-Construction Light\n-Giant Pipe Bracer (can be used as an even larger wheel)\n-Wedge\n-1x2x1 Wedge\n-Screw\n-Nut\n-Shack Roof\n\n-Faster player refinery times\n\nFuture Plans are to add a 2nd Craftbot that allows for decorative blocks to be crafted",
+		"description": "This mod adds several new recipes to make resources renewable and add blocks the devs were to lazy to add themselfs. It removes some of the grind of scrap mechanic by making refining faster and more efficient, adding recipes, increasing the player's HP, giving full HP on respawn and much more!\n\nHideout:\n-Ember\n-Scrap Wood\n-Wood\n-Scrap Metal\n-Metal\n-Stone\n-Sunshake\n-Circuit Board\n-Component Kit\n-Glue\n\nCraftbot:\n-Scrap Metal and comp. Kits crafted from Totebot heads\n-Square Net (the orange low friction net)\n-Shack Light\n-Beam Frame Light\n-Warehouse Wall Light\n-Fluorescent Light\n-Construction Light\n-Giant Pipe Bracer (can be used as an even larger wheel)\n-Wedge\n-1x2x1 Wedge\n-Screw\n-Nut\n-Shack Roof\n\n-Faster player refinery times\n\nFuture Plans are to add a 2nd Craftbot that allows for decorative blocks to be crafted",
 		"fileId": 2811442484,
 		"localId": "a241404f-c969-43d9-9029-792acac18ad0",
 		"name": "Tweaks & Renewables [Custom Game]",
@@ -28412,9 +28412,9 @@
 	},
 	"32bd3c76-4202-499c-8826-12c4bf170fd9": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"dependencies": null,
-		"description": "WIP\nthis has indistrucable items.\ngoto this mod for interactables: MOD_SOON\nintigations: (not needed to download, they will work if its downloaded!) \nDecorative mod:https://steamcommunity.com/sharedfiles/filedetails/?id=1967288091",
+		"description": "WIP\r\nthis has indestructible items.\r\ngoto this mod for interactables: MOD_SOON\r\nintigations: (not needed to download, they will work if its downloaded!) \r\nDecorative mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1967288091\r\n  \r\n\r\nMake Sure to go checkout the integration Mods!",
 		"fileId": 2924854797,
 		"localId": "32bd3c76-4202-499c-8826-12c4bf170fd9",
 		"name": "shapez fix",
