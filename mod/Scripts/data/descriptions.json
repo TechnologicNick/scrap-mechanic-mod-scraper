@@ -28414,7 +28414,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "WIP\r\nthis has indestructible items.\r\ngoto this mod for interactables: MOD_SOON\r\nintigations: (not needed to download, they will work if its downloaded!) \r\nDecorative mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1967288091\r\n  \r\n\r\nMake Sure to go checkout the integration Mods!",
+		"description": "WIP\nthis has indestructible items.\ngoto this mod for interactables: MOD_SOON\nintigations: (not needed to download, they will work if its downloaded!) \n\nNow Features Shubbery and 2 new eingines, Spud ammo and pigment flower!!\n\nDecorative mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1967288091\n\n\nMake Sure to go checkout the integration Mods!",
 		"fileId": 2924854797,
 		"localId": "32bd3c76-4202-499c-8826-12c4bf170fd9",
 		"name": "shapez fix",
@@ -29121,6 +29121,13 @@
 	"9fd09c44-c46a-45b9-a7b9-da6f115989c0": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2945713875,
+				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
+				"name": "ModDatabase v2"
+			}
+		],
 		"description": "[Eng]\nthis mod adds speakers, turntables and records\nfor the mod to work, DLM game extensions are required\n\n[Rus]\nданный мод добавляет колонки, проигрыватели и пластинки\nдля работы мода требуется расширения игры DLM",
 		"fileId": 2948210047,
 		"localId": "9fd09c44-c46a-45b9-a7b9-da6f115989c0",
@@ -29300,5 +29307,25 @@
 		"name": "Bomb Themed Radio",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"063e408d-c8f6-4a42-8740-c7d93241a119": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "frog",
+		"fileId": 2956708044,
+		"localId": "063e408d-c8f6-4a42-8740-c7d93241a119",
+		"name": "Frog",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f3aa0335-e45c-4686-9958-d205829f4857": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Big ass flat world without the stupid grass. It's about 100x larger than the vanilla world, for testing things like planes.\n\nWARNING:\nthe world is WAYYY bigger than the default world, meaning scrap has some trouble. SAVE YOUR CREATION BEFORE RAMMING INTO THE WORLD BORDER AT MACH 69. Your creation may clip through the world border and be lost forever. Not my responsibility, you have been warned.\n\nAlso if anyone has ideas on how to give new players default items in their hotbar, let me know. The ways scrap does this for survival and creative just dont work here -_-... i hate this game.",
+		"fileId": 2956763123,
+		"localId": "f3aa0335-e45c-4686-9958-d205829f4857",
+		"name": "Biggerworld",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
