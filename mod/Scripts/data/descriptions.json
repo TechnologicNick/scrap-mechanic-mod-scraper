@@ -694,13 +694,16 @@
 		"version": "0.0"
 	},
 	"dee04807-890a-4332-b4bd-3e8aade79988": {
+		"allow_add_mods": true,
 		"creatorId": "76561198331670978",
-		"description": "Don't forget to hit the 'Like' ！~\r\n\r\n别忘记点赞哦 ！~\r\n\r\n\r\n\r\n   \r\n\r\n",
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "Added new content, modified some old models.",
 		"fileId": 1165202450,
 		"localId": "dee04807-890a-4332-b4bd-3e8aade79988",
 		"name": "Wheels by Karasu",
 		"type": "Blocks and Parts",
-		"version": "0.0"
+		"version": 1
 	},
 	"f8fbf147-2f0a-4020-8db1-548cab919f7d": {
 		"creatorId": "76561198273817527",
@@ -29327,5 +29330,15 @@
 		"name": "Biggerworld",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"8ba4dc4b-dbcc-47a4-8cdb-638fd609b9bc": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Adds a couple of armor blocks:\nSide armor (4 durability)\nFront armor (5 durability)\nAircraft armor (2 durability, 1 density)\nI made them to fit (more or less) polygons textures. This is my first mod, so textures arent the best.",
+		"fileId": 2956989226,
+		"localId": "8ba4dc4b-dbcc-47a4-8cdb-638fd609b9bc",
+		"name": "TankArmor",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
