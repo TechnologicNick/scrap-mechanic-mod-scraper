@@ -28158,7 +28158,7 @@
 	"524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This is my version on Survival .. its still in Beta state.. so if you have any ideas im happy to hear them @ https://discord.gg/N5hecbNK9g :)\n\nCommands!!\n/l = limited\n/u = unlimited\n\n/addmoney            or /amoney\n/removemoney      or /rmoney\n/setmoney              or /smoney\n\n/addstatpoints         or /asp\n/removestatpoints   or /rsp\n/setstatpoints           or /aap\n\n/shop (will be removed)\n/fly\n\nBOTS:\nBlack Farmbot (boss +1)\nPink Farmbot (boss +2)\nBlue Haybot (will change drops)\nPink Totebot (will change drops)\nWhite Tapebot\nPink Woc (special loot + rare spawn 1%)\nWhite Worm (Special loot from cardboard)\nMORE BOTS TO COME\n\nWEAPONS:\n(TEMP NAMES, MAYBE MESHES)\nMisu Gatling gun (god gun atm.. :P)\nMisu Spudgun\nMisu Hammer\nMisu Chemical Launcher (NEW)\nMisu Jepack (TODO = Fuel)\n\nyou can buy them for money you get killing mobs.. err i mean bots.. see R menu :)\n\nMORE WEAPONS TO COME\n\nnow comes Minecraft friendly commands\n/gmc = creative mode\n/gms = survival mode\n\nCOMING:\n/op <name> for CO-OP and all other commands where you give items or anything to another player\n\npress R to open Shop.. will change it to H aka Handbook (coming soon!)\n\nknowbug: if you drop my made guns its invinsible ((needs to be fixed asap >3))\n\nCo-op -- commands not working.. aka if you try to give money/stats to another player .. ((currently working on it))\n\nI need more people for testing this CO-OP/SP mod :) \n\nNEW:\nBatteryRecharge + Mesh - it has solarpanels :P\nStatPoints :) you can buy stats from Shop (R) more stats will be added.\nStats on HUD..\n/stats toggle\n\nPS: if you use -Dev you will see errors when you kill bots/loot its known since i haven't finished that yet... just wanted to release something new :)\n\nwhiteworm (need to be fixed after pickup)\nbots drops health (3% chance)\n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597",
+		"description": "This is my version on Survival .. its still in Beta state.. so if you have any ideas im happy to hear them @ https://discord.gg/N5hecbNK9g :)\n\nv0.5b:\nmy weapons consumes Mana\nI might change Mana to Stamina since my guns use it\n\nBots drops health/mana/fuel (3% chance)\nCrudeOil Farmer :) (you need to add batteries init)\nHUD will be changed\nfew script fixed/cleanup\n\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n/addmoney            or /amoney\n/removemoney      or /rmoney\n/setmoney              or /smoney\n/addstatpoints         or /asp\n/removestatpoints   or /rsp\n/setstatpoints           or /aap\n/shop (will be removed)\n/fly\n\nBOTS:\nBlack Farmbot (boss +1)\nPink Farmbot (boss +2)\nBlue Haybot (will change drops)\nPink Totebot (will change drops)\nWhite Tapebot\nPink Woc (special loot + rare spawn 1%)\nWhite Worm (Special loot from cardboard  + rare spawn 1%)\n\nFIX:\nWhiteworm Pickup keep White color ((NOT TESTED))\n\nWEAPONS:\n(TEMP NAMES, MAYBE MESHES)\nMisu Gatling gun\nMisu Spudgun\nMisu Hammer\nMisu Chemical Launcher\nMisu Jepack\nBatteryRecharge\nCrudeOil Farmer\n\nyou can buy all my items, for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :) \n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
 		"fileId": 2920382717,
 		"localId": "524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf",
 		"name": "MisuMod - Survival (Custom)",
@@ -29334,10 +29334,30 @@
 	"8ba4dc4b-dbcc-47a4-8cdb-638fd609b9bc": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Adds a couple of armor blocks:\nSide armor (4 durability)\nFront armor (5 durability)\nAircraft armor (2 durability, 1 density)\nI made them to fit (more or less) polygons textures. This is my first mod, so textures arent the best.",
+		"description": "Adds a couple of armor blocks:\r\nSide armor (4 durability)\r\nFront armor (5 durability)\r\nAircraft armor (2 durability, 1 density)\r\nI made them to fit (more or less) polygons textures. This is my first mod, so textures arent the best.",
 		"fileId": 2956989226,
 		"localId": "8ba4dc4b-dbcc-47a4-8cdb-638fd609b9bc",
 		"name": "TankArmor",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a958dd94-4189-43d3-b989-c1eee52d0869": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Realistic sound pack mod for scrap mechanic",
+		"fileId": 2956714384,
+		"localId": "a958dd94-4189-43d3-b989-c1eee52d0869",
+		"name": "B_Scrap Realistic Sound Pack Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"896540f0-e1aa-4e27-af54-5b784d199434": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds a block that does not have physics! You can use this to create floating bases.",
+		"fileId": 2957132349,
+		"localId": "896540f0-e1aa-4e27-af54-5b784d199434",
+		"name": "Estran's Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

@@ -1159,7 +1159,10 @@
 		"$CONTENT_524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf/Harvestables/Database/HarvestableSets/hvs_questitems.harvestableset": [
 			"7745d036-ed25-4559-9eb2-47b6da8d007e"
 		],
-		"$CONTENT_524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf/Harvestables/Database/HarvestableSets/misu_lootcrate.harvestableset": []
+		"$CONTENT_524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf/Harvestables/Database/HarvestableSets/misu_lootcrate.harvestableset": [
+			"fc8e1c66-f35f-45f2-bc25-db02ad1f5571",
+			"aa1824e7-5806-42d1-9c6f-32daf2f78e6c"
+		]
 	},
 	"1561718d-39d2-4b09-985c-d762f64f8733": {
 		"$CONTENT_1561718d-39d2-4b09-985c-d762f64f8733/Harvestables/Database/HarvestableSets/example.harvestableset": []
