@@ -28158,12 +28158,12 @@
 	"524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This is my version on Survival .. its still in Beta state.. so if you have any ideas im happy to hear them @ https://discord.gg/N5hecbNK9g :)\n\nv0.5b:\nmy weapons consumes Mana\nI might change Mana to Stamina since my guns use it\n\nBots drops health/mana/fuel (3% chance)\nCrudeOil Farmer :) (you need to add batteries init)\nHUD will be changed\nfew script fixed/cleanup\n\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n/addmoney            or /amoney\n/removemoney      or /rmoney\n/setmoney              or /smoney\n/addstatpoints         or /asp\n/removestatpoints   or /rsp\n/setstatpoints           or /aap\n/shop (will be removed)\n/fly\n\nBOTS:\nBlack Farmbot (boss +1)\nPink Farmbot (boss +2)\nBlue Haybot (will change drops)\nPink Totebot (will change drops)\nWhite Tapebot\nPink Woc (special loot + rare spawn 1%)\nWhite Worm (Special loot from cardboard  + rare spawn 1%)\n\nFIX:\nWhiteworm Pickup keep White color ((NOT TESTED))\n\nWEAPONS:\n(TEMP NAMES, MAYBE MESHES)\nMisu Gatling gun\nMisu Spudgun\nMisu Hammer\nMisu Chemical Launcher\nMisu Jepack\nBatteryRecharge\nCrudeOil Farmer\n\nyou can buy all my items, for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :) \n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
+		"description": "# MisuMod - Survival (Custom)\nThis is my version on Survival .. its still in Beta state.. so if you have any ideas im happy to hear them @ https://discord.gg/N5hecbNK9g :)\n\nv0.6b:\nfixed mana/fuel and some minor fixed on script\nadded Super Sunshake to shop and drop list\n\nmy weapons consumes Mana\nI might change Mana to Stamina since my guns use it\n\nBots drops health/mana/fuel (3% chance)\nCrudeOil Farmer :) (you need to add batteries init)\nHUD will be changed\nfew script fixed/cleanup\n\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n/addmoney            or /amoney\n/removemoney      or /rmoney\n/setmoney              or /smoney\n/addstatpoints         or /asp\n/removestatpoints   or /rsp\n/setstatpoints           or /aap\n/shop (will be removed)\n/fly\n\nBOTS:\nBlack Farmbot (boss +1)\nPink Farmbot (boss +2)\nBlue Haybot (will change drops)\nPink Totebot (will change drops)\nWhite Tapebot\nPink Woc (special loot + rare spawn 1%)\nWhite Worm (Special loot from cardboard  + rare spawn 1%)\n\nWEAPONS:\n(TEMP NAMES, MAYBE MESHES)\nMisu Gatling gun\nMisu Spudgun\nMisu Hammer\nMisu Chemical Launcher\nMisu Jepack\nBatteryRecharge\nCrudeOil Farmer\n\nyou can buy all my items, for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :) \n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
 		"fileId": 2920382717,
 		"localId": "524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf",
 		"name": "MisuMod - Survival (Custom)",
 		"type": "Custom Game",
-		"version": 0
+		"version": 0.6
 	},
 	"1561718d-39d2-4b09-985c-d762f64f8733": {
 		"allow_add_mods": true,
@@ -28732,7 +28732,7 @@
 	"88ec0c71-8b66-42e3-9bc2-491825df53ca": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[Eng]\nthis mod allows you to create autopiloted cars\nthis mod can be induced in different ways and on different objects, starting from the label and the player\nending with a specific position or a block with a specific uuid\n, the fashion has a beautiful style, does not lag, it is easy to understand it, a concise cartoon logic\ndesign returns to the past at the time of 0.3.5\n\n[Rus]\nэтот мод позваляет создавать автопилотируемый машины\nэтот мод может наводиться разными способами и на разные обьекты, начиная от метки и игрока\nзаканчивая конкретной позицией или блоком с конкретным uuid\nу мода красивая стилистика, не лагает, в нем легко разобраться, лаконичный мультяшный дизаен логики\nвозврашает в прошлое во времена 0.3.5",
+		"description": "[Eng]\nthis mod allows you to create auto piloted cars/aircraft\nthis mod can be guided in different ways and on different objects:\ntags,\nplayers,\ncan be guided to a specific position,\na block with a specific uuid (guidance on uuid has not yet been done),\ncan be guided to a building.\n\nthe fashion has a beautiful style, it does not lag, it is easy to understand it, the concise cartoon design of logic\nreturns to the past at the time of 0.3.5\n\n[Rus]\nэтот мод позваляет создавать автопилотируемые машины/летательные аппараты\nэтот мод может наводиться разными способами и на разные обьекты:\nметки,\nигроки,\nможет наводиться на конкретную позицию,\nблоком с конкретным uuid(наведения по uuid пока что не сделано),\nможет навадиться на постройку.\n\nу мода красивая стилистика, не лагает, в нем легко разобраться, лаконичный мультяшный дизаен логики\nвозврашает в прошлое во времена 0.3.5",
 		"fileId": 2936300656,
 		"localId": "88ec0c71-8b66-42e3-9bc2-491825df53ca",
 		"name": "Intelligentia Mod 2",
@@ -28969,17 +28969,10 @@
 	"78893dce-c61d-4621-9f7a-ce319b0d46be": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2945713875,
-				"localId": "8a98d059-e8b2-4c4d-bc87-02be20411962",
-				"name": "STD"
-			}
-		],
-		"description": "[Eng]\nthis mod will allow you to emulate the behavior of the seat using logic\nyou will be able to rotate the padshibniki as seats, as well as you will be able to emulate whether the character is sitting in the seats\n, this will allow you to control the motor's brake\nas well in the add-ons, it can work as a WASD converter\n\n[Rus]\nэтот мод позволит вам эмулировать поводения сиденья использую логику\nвы сможете поварачить падшибники как сиденья, так же вы сможете эмулировать сидит ли персонаж в сидушки\nэто позволит вам управлять тормазом матора\nтак же в дополнения, может работать как WASD конвертор",
+		"description": "[Eng]\ndear mechanics!\nthis mod will allow you to emulate the behavior of the seat using logic\nyou will be able to turn the bearings as seats\n, you will also be able to emulate whether the character is sitting in the seats - this will allow you to control the motor brake\nas well, in addition, it can work as a WASD converter\nalso contains many interesting logic pieces that mechanics will like\n\n[Rus]\nдорогие механики!\nэтот мод позволит вам эмулировать поведения сиденья используя логику\nвы сможете поворачивать подшипники как сиденья\nтак же вы сможете эмулировать сидит ли персонаж в сидушки - это позволит вам управлять тормозом мотора\nтак же в дополнение, может работать как WASD конвертор\nтак же содержит много интересных логических штук, которые понрявяться механикам",
 		"fileId": 2943600019,
 		"localId": "78893dce-c61d-4621-9f7a-ce319b0d46be",
-		"name": "seat emulator",
+		"name": "any logic stuff",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -29358,6 +29351,16 @@
 		"fileId": 2957132349,
 		"localId": "896540f0-e1aa-4e27-af54-5b784d199434",
 		"name": "Estran's Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6bc49594-9348-4970-871e-4b3fb98feb56": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[Eng]\na new mod that transfers details from Challenge mode to creative.\nthis mod contains new details from Challenge mode.\nthe detail scripts have been heavily adapted to the creative mode.\nremoved many limits and redesigned the behavior of many details.\nmany of the details that cannot work in creative mode have been redesigned as indicators.\nfor example, a bot spawner will not spawn a bot when entering the world,\nyou should do it yourself if necessary, since an autospawn is not always needed in the creative.\nalso, items that were not paintable in Challenge mode are now paintable.\n\n[Rus]\nновый мод переносящий детали из Challenge mode в креатив.\nданный мод содержит новые детали из Challenge mode.\nскрипты деталей были сильно адоптированы под режим креатива.\nубраны многие лимиты и переработано поведения многих деталей.\nмногие те детали что не могут работать в режиме креатива были переработаны как индикаторы.\nнапример спавнер ботов не спавнит бота при заходе в мир,\nвы должны сделать это сами если в этом есть необходимость, так как автоспавн не всегда нужен в креативе.\nтак же предметы которые в Challenge mode не красились, теперь красяться.",
+		"fileId": 2957640756,
+		"localId": "6bc49594-9348-4970-871e-4b3fb98feb56",
+		"name": "Advanced Challenge Parts",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
