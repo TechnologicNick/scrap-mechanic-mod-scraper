@@ -64968,7 +64968,8 @@
 			"66355447-8900-412c-b03c-12c85e0587ef",
 			"3c46e9e5-2875-47b4-8668-005a0768c992",
 			"331fe852-9e4a-48ba-8235-dde17b5de3a4",
-			"94c8b309-b6fb-40f8-90bb-b5c3ac28bacd"
+			"94c8b309-b6fb-40f8-90bb-b5c3ac28bacd",
+			"81f9080a-12b1-4fd7-9710-91d9434ef156"
 		],
 		"$CONTENT_3aeb81c2-71b9-45a1-9479-1f48f1e8ff21/Objects/Database/ShapeSets/radars.json": [
 			"ab2672e2-4f2f-4e7b-8be1-4dcfc4ccb151",
@@ -66058,6 +66059,11 @@
 			"0440ab76-3bf1-4eac-a13b-02c0d919c34c",
 			"f93ab713-ae9f-4a3c-90e8-7d9b8de8a5a6",
 			"466020f4-73f8-49f1-8d14-ab3bf38c754e"
+		]
+	},
+	"ac5b6a73-4e82-4ed7-8aa3-4ac755691cf7": {
+		"$CONTENT_ac5b6a73-4e82-4ed7-8aa3-4ac755691cf7/Objects/Database/ShapeSets/example.shapeset": [
+			"96622379-ceb4-4815-abf8-556c998d45d1"
 		]
 	}
 }
