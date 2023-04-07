@@ -591,7 +591,8 @@
 			"b68d0266-918e-4df4-b27b-af71314bbb37",
 			"df060af6-9ed8-4845-940b-aae31fcb41b3",
 			"5ff3c834-3249-4528-9499-cfd66b93c328",
-			"2a0c7fce-5687-4efc-b0d3-2a1440d888c7"
+			"2a0c7fce-5687-4efc-b0d3-2a1440d888c7",
+			"760529d0-02d0-4948-96e8-16c5eab39b0f"
 		],
 		"$CONTENT_524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf/Characters/Database/CharacterSets/animals.json": [
 			"264a563a-e304-430f-a462-9963c77624e9",
@@ -631,5 +632,8 @@
 	"f3aa0335-e45c-4686-9958-d205829f4857": {},
 	"51c2c6c0-bdc5-48ce-b67a-5d314f29d29f": {
 		"$CONTENT_51c2c6c0-bdc5-48ce-b67a-5d314f29d29f/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"ab894f29-c54c-4112-886c-ea74c7df6ea2": {
+		"$CONTENT_ab894f29-c54c-4112-886c-ea74c7df6ea2/Characters/Database/CharacterSets/example.characterset": []
 	}
 }

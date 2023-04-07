@@ -14988,7 +14988,7 @@
 				"name": "ModDatabase"
 			}
 		],
-		"description": "A mod with resource boosted & cost reduced\n( in progress )\nThanks for 5200 subb let's goo\nI only can work in weekend so write all your ideas.\nI need you, the cross and T-pipe as graphic bug: the invertory texture want to be applied. Soo if you can help meee plzz\n____________________________________________\nmod info:\n-260 inventory slots\n-mob loot boosted\n-grow speed boosted\n-stack boosted ( not everywhere at this time sorry)\n-refine speed boosted\n-chest slots boosted\n-wood-stone-metal container slot boosted to 100 slots\n-max hp 200\n-lower consumption of water and food\n-lot more oxygen\n-lower consumption of gas in gas engine\n-vacum super fast ( it's really fast, like 40Item/s )\n-CRAFTABLE COMPONENTS YAY\n-added the staircase wedge and the concave wedge in craft bot\n-low gas consumption\n-totebot head can be used to craft conpoments kits\n-Traider need less for more and op traids\n\nfor the future:\n-every item stack boost to 256 or 2560\n-boost loot-box loot\n-(your idea can be here)\n\n--Item Overstacks incompatibility! :\nIf you are using Less Cost survival gamemode with Overstacks block and parts, you may encounter problems with storage capacity in certains container...\n____________________________________________\n\nthank you all for sharing your feedback, I apologize for the bugs and issues\n\ntell me what you want me to add in the comment",
+		"description": "A mod with resource boosted & cost reduced\n( in progress )\nThanks for 5300 subb let's goo\n____________________________________________\nmod info:\n-260 inventory slots\n-mob loot boosted\n-grow speed boosted\n-stack boosted ( not everywhere at this time sorry)\n-refine speed boosted\n-chest slots boosted\n-wood-stone-metal container slot boosted to 100 slots\n-max hp 200\n-lower consumption of water and food\n-lot more oxygen\n-lower consumption of gas in gas engine\n-vacum super fast ( it's really fast, like 40Item/s )\n-CRAFTABLE COMPONENTS YAY\n-added the staircase wedge and the concave wedge in craft bot\n-low gas consumption\n-totebot head can be used to craft conpoments kits\n-Traider need less for more and op traids\n-And more!\n\nfor the future:\n-your ideas\n\nISSUES:\n\n-Item Overstacks incompatibility! :\nIf you are using Less Cost survival gamemode with Overstacks block and parts, you may encounter problems with storage capacity in certains container...\n\n-BOTS WILL BREAK AFTER A MOD UPDATE.\n____________________________________________\n\nthank you all for sharing your feedback, I apologize for the bugs and issues\n\ntell me what you want me to add in the comment ;)",
 		"fileId": 2816326647,
 		"localId": "e3d52333-57a7-4289-b737-ade78347cd12",
 		"name": "Survival Less Cost",
@@ -28158,12 +28158,12 @@
 	"524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "# MisuMod - Survival (Custom)\nThis is my version on Survival .. its still in Beta state.. so if you have any ideas im happy to hear them @ https://discord.gg/N5hecbNK9g :)\n\nv0.6b:\nfixed mana/fuel and some minor fixed on script\nadded Super Sunshake to shop and drop list\n\nmy weapons consumes Mana\nI might change Mana to Stamina since my guns use it\n\nBots drops health/mana/fuel (3% chance)\nCrudeOil Farmer :) (you need to add batteries init)\nHUD will be changed\nfew script fixed/cleanup\n\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n/addmoney            or /amoney\n/removemoney      or /rmoney\n/setmoney              or /smoney\n/addstatpoints         or /asp\n/removestatpoints   or /rsp\n/setstatpoints           or /aap\n/shop (will be removed)\n/fly\n\nBOTS:\nBlack Farmbot (boss +1)\nPink Farmbot (boss +2)\nBlue Haybot (will change drops)\nPink Totebot (will change drops)\nWhite Tapebot\nPink Woc (special loot + rare spawn 1%)\nWhite Worm (Special loot from cardboard  + rare spawn 1%)\n\nWEAPONS:\n(TEMP NAMES, MAYBE MESHES)\nMisu Gatling gun\nMisu Spudgun\nMisu Hammer\nMisu Chemical Launcher\nMisu Jepack\nBatteryRecharge\nCrudeOil Farmer\n\nyou can buy all my items, for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :) \n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
+		"description": "MisuMod - Survival (Custom)\n\nv0.71b\nAdded Yellow Totebot\n\nv0.7b:\nfixed things\n\nADDED: Rightclick attack to MisuHammer (needs work)\nMisu Grenade (needs work)\nArmor for SP\nDamage for SP\n\nBots drops health/mana/fuel (3% chance)\nCrudeOil Farmer :) (you need to add batteries init)\nHUD will be changed\nfew script fixed/cleanup\n\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n/addmoney            or /amoney\n/removemoney      or /rmoney\n/setmoney              or /smoney\n/addstatpoints         or /asp\n/removestatpoints   or /rsp\n/setstatpoints           or /aap\n/shop (will be removed)\n/fly\n\nBOTS:\nBlack Farmbot (boss +1)\nPink Farmbot (boss +2)\nBlue Haybot (will change drops)\nPink Totebot (will change drops)\nWhite Tapebot\nPink Woc (special loot + rare spawn 1%)\nWhite Worm (Special loot from cardboard  + rare spawn 1%)\n\nWEAPONS:\n(TEMP NAMES, MAYBE MESHES)\nMisu Gatling gun\nMisu Spudgun\nMisu Hammer\nMisu Chemical Launcher\nMisu Jepack\nMisu Grenade\nBatteryRecharge\nCrudeOil Farmer\n\nyou can buy all my items, for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :) \n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
 		"fileId": 2920382717,
 		"localId": "524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf",
 		"name": "MisuMod - Survival (Custom)",
 		"type": "Custom Game",
-		"version": 0.6
+		"version": 0.71
 	},
 	"1561718d-39d2-4b09-985c-d762f64f8733": {
 		"allow_add_mods": true,
@@ -29153,7 +29153,7 @@
 	"3aeb81c2-71b9-45a1-9479-1f48f1e8ff21": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "this fork of Scriptable Computers\r\nfork creation was approved by the authors of the mod!\r\n\r\nSComputers documentation: https://steamcommunity.com/sharedfiles/filedetails/?id=2952685276\r\nofficial mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2821133117\r\nofficial documentation: https://steamcommunity.com/sharedfiles/filedetails/?id=2831560152",
+		"description": "this fork of Scriptable Computers\nfork creation was approved by the authors of the mod!\nadded support for crafting recipes!\n\nSComputers documentation: https://steamcommunity.com/sharedfiles/filedetails/?id=2952685276\nofficial mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2821133117\nofficial documentation: https://steamcommunity.com/sharedfiles/filedetails/?id=2831560152",
 		"fileId": 2949350596,
 		"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
 		"name": "SComputers [Fork]",
@@ -29249,7 +29249,7 @@
 	"fbac45aa-d973-401d-889d-8b2bf16a5b04": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h1]Customize Your Character![/h1]\r\n\r\nThis Mod adds a Tool that Allows you to Attach all Block and Parts to your Player.\r\nThe Parts and Blocks are JUST VISUAL. \r\n\r\n[h1]Outfit Save File Path: [/h1]\r\n...\\Steam\\steamapps\\workshop\\content\\387990\\2954491805\\Scripts\\PVA_Data.json\r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant",
+		"description": "[h1]Customize Your Character![/h1]\r\n\r\nThis Mod adds a Tool that Allows you to Attach all Block and Parts to your Player.\r\nThe Parts and Blocks are JUST VISUAL. \r\n\r\n[h1]When you Made your Outfit, ALLWAYS Backup the Outfit Data File! File path below [/h1]\r\n[h1]Outfit Save File Path: [/h1]\r\n...\\Steam\\steamapps\\workshop\\content\\387990\\2954491805\\Scripts\\PVA_Data.json\r\n\r\n(i can happen that when i update the tool, that the data file gets cleared. so to prevent losing your outfit is the backup)\r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant",
 		"fileId": 2954491805,
 		"localId": "fbac45aa-d973-401d-889d-8b2bf16a5b04",
 		"name": "PVA - Player Visual Attachments",
@@ -29353,6 +29353,16 @@
 		"fileId": 2958350040,
 		"localId": "51c2c6c0-bdc5-48ce-b67a-5d314f29d29f",
 		"name": "rer",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"ab894f29-c54c-4112-886c-ea74c7df6ea2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2958448427,
+		"localId": "ab894f29-c54c-4112-886c-ea74c7df6ea2",
+		"name": "MAP 01",
 		"type": "Custom Game",
 		"version": 0
 	}

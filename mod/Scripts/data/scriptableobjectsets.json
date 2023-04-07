@@ -493,5 +493,8 @@
 	"f3aa0335-e45c-4686-9958-d205829f4857": {},
 	"51c2c6c0-bdc5-48ce-b67a-5d314f29d29f": {
 		"$CONTENT_51c2c6c0-bdc5-48ce-b67a-5d314f29d29f/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"ab894f29-c54c-4112-886c-ea74c7df6ea2": {
+		"$CONTENT_ab894f29-c54c-4112-886c-ea74c7df6ea2/ScriptableObjects/ScriptableObjectSets/example.sobset": []
 	}
 }
