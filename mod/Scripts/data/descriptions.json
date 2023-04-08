@@ -698,7 +698,7 @@
 		"creatorId": "76561198331670978",
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "Added new content, modified some old models.",
+		"description": "Added new content, modified some old models.\r\n添加了一些东西，修改了旧的模型，有需要的类型可以留言，有时间会做",
 		"fileId": 1165202450,
 		"localId": "dee04807-890a-4332-b4bd-3e8aade79988",
 		"name": "Wheels by Karasu",
@@ -26575,6 +26575,7 @@
 	"fa44ebc5-7131-4a58-aa24-6f2fb86f2084": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": null,
 		"description": "Test mod to mess with my friend",
 		"fileId": 2875277072,
 		"localId": "fa44ebc5-7131-4a58-aa24-6f2fb86f2084",
@@ -28158,12 +28159,12 @@
 	"524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "MisuMod - Survival (Custom)\n\nv0.71b\nAdded Yellow Totebot\n\nv0.7b:\nfixed things\n\nADDED: Rightclick attack to MisuHammer (needs work)\nMisu Grenade (needs work)\nArmor for SP\nDamage for SP\n\nBots drops health/mana/fuel (3% chance)\nCrudeOil Farmer :) (you need to add batteries init)\nHUD will be changed\nfew script fixed/cleanup\n\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n/addmoney            or /amoney\n/removemoney      or /rmoney\n/setmoney              or /smoney\n/addstatpoints         or /asp\n/removestatpoints   or /rsp\n/setstatpoints           or /aap\n/shop (will be removed)\n/fly\n\nBOTS:\nBlack Farmbot (boss +1)\nPink Farmbot (boss +2)\nBlue Haybot (will change drops)\nPink Totebot (will change drops)\nWhite Tapebot\nPink Woc (special loot + rare spawn 1%)\nWhite Worm (Special loot from cardboard  + rare spawn 1%)\n\nWEAPONS:\n(TEMP NAMES, MAYBE MESHES)\nMisu Gatling gun\nMisu Spudgun\nMisu Hammer\nMisu Chemical Launcher\nMisu Jepack\nMisu Grenade\nBatteryRecharge\nCrudeOil Farmer\n\nyou can buy all my items, for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :) \n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
+		"description": "MisuMod - Survival (Custom)\n\nv0.8b:\nfixed CrudeFarmer\nTwo new Bots (tote red/blue)\nMisu Grenade (fixed)\n\nBots drops health/mana/fuel (3% chance)\nCrudeOil Farmer :) (you need to add batteries init)\n\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n/addmoney            or /amoney\n/removemoney      or /rmoney\n/setmoney              or /smoney\n/addstatpoints         or /asp\n/removestatpoints   or /rsp\n/setstatpoints           or /aap\n/shop (will be removed)\n/fly\n\nBOTS:\nBlack Farmbot (boss +1)\nPink Farmbot (boss +2)\nBlue Haybot (will change drops)\nPink Totebot (will change drops)\nWhite Tapebot\nPink Woc (special loot + rare spawn 1%)\nWhite Worm (Special loot from cardboard  + rare spawn 1%)\n\nWEAPONS:\n(TEMP NAMES, MAYBE MESHES)\nMisu Gatling gun\nMisu Spudgun\nMisu Hammer\nMisu Chemical Launcher\nMisu Jepack\nMisu Grenade\nBatteryRecharge\nCrudeOil Farmer\n\nyou can buy all my items, for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :) \n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
 		"fileId": 2920382717,
 		"localId": "524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf",
 		"name": "MisuMod - Survival (Custom)",
 		"type": "Custom Game",
-		"version": 0.71
+		"version": 0.8
 	},
 	"1561718d-39d2-4b09-985c-d762f64f8733": {
 		"allow_add_mods": true,
@@ -29358,12 +29359,32 @@
 	},
 	"ab894f29-c54c-4112-886c-ea74c7df6ea2": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "This mod doesn't have a description",
 		"fileId": 2958448427,
 		"localId": "ab894f29-c54c-4112-886c-ea74c7df6ea2",
 		"name": "MAP 01",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"66eb3461-1e15-4113-a44a-2470387f8db0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2945330885,
+		"localId": "66eb3461-1e15-4113-a44a-2470387f8db0",
+		"name": "you_gala_official",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"d9cd8d6f-51b9-4ef0-af09-2c7711190d11": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h1]Googly Eyes![/h1]\r\nHave Fun ;)\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant",
+		"fileId": 2959094015,
+		"localId": "d9cd8d6f-51b9-4ef0-af09-2c7711190d11",
+		"name": "Googly Eyes",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
