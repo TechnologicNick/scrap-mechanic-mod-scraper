@@ -3192,7 +3192,11 @@
 			"cdbf4286-81a5-4892-b6f1-0fa7c2a13068"
 		]
 	},
-	"3aeb81c2-71b9-45a1-9479-1f48f1e8ff21": {},
+	"3aeb81c2-71b9-45a1-9479-1f48f1e8ff21": {
+		"$CONTENT_3aeb81c2-71b9-45a1-9479-1f48f1e8ff21/Tools/Database/ToolSets/thetools.toolset": [
+			"3bfcfb4c-100d-425d-8bb6-b710ea26cff0"
+		]
+	},
 	"92816666-c290-4813-adcd-42368ffa0ac2": {},
 	"c76c1b15-b535-4aa0-9113-65965c78f148": {},
 	"43a593be-676b-40fd-a5d4-167c7da7396b": {},
