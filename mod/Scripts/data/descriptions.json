@@ -28159,12 +28159,12 @@
 	"524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "MisuMod - Survival (Custom)\n\nv0.8b:\nfixed CrudeFarmer\nTwo new Bots (tote red/blue)\nMisu Grenade (fixed)\n\nBots drops health/mana/fuel (3% chance)\nCrudeOil Farmer :) (you need to add batteries init)\n\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n/addmoney            or /amoney\n/removemoney      or /rmoney\n/setmoney              or /smoney\n/addstatpoints         or /asp\n/removestatpoints   or /rsp\n/setstatpoints           or /aap\n/shop (will be removed)\n/fly\n\nBOTS:\nBlack Farmbot (boss +1)\nPink Farmbot (boss +2)\nBlue Haybot (will change drops)\nPink Totebot (will change drops)\nWhite Tapebot\nPink Woc (special loot + rare spawn 1%)\nWhite Worm (Special loot from cardboard  + rare spawn 1%)\n\nWEAPONS:\n(TEMP NAMES, MAYBE MESHES)\nMisu Gatling gun\nMisu Spudgun\nMisu Hammer\nMisu Chemical Launcher\nMisu Jepack\nMisu Grenade\nBatteryRecharge\nCrudeOil Farmer\n\nyou can buy all my items, for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :) \n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
+		"description": "MisuMod - Survival (Custom)\n\nv0.91b:\nMoneyBonus to stats Shop 1SP\n\nv0.9b:\nWater Farmer\nChemical Farmer\nMisuHammer Block (right click) no resist damage yet!\nCraftbot recepies: SuperSunshake\n\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n\nBOTS:\nBlack Farmbot\nPink Farmbot\nBlue Haybot\nPink Totebot\nBlue Totebot\nYellow Totebot\nRed Totebot\nWhite Tapebot\nPink Woc\nWhite Worm\n\nWEAPONS:\nMisu Gatling\nMisu Spudgun\nMisu Hammer\nMisu Chemical Launcher\nMisu Jepack\nMisu Grenade\n\nOBJ:\nBatteryRecharge\nCrudeOil Farmer\nWater Farmer\nChemical Farmer\n\nyou can buy all my items for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :) \n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
 		"fileId": 2920382717,
 		"localId": "524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf",
 		"name": "MisuMod - Survival (Custom)",
 		"type": "Custom Game",
-		"version": 0.8
+		"version": 0.91
 	},
 	"1561718d-39d2-4b09-985c-d762f64f8733": {
 		"allow_add_mods": true,
@@ -28428,7 +28428,7 @@
 	"8d56f65a-4033-485b-a6f4-6b5781583188": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Better Loot Table Mod V2",
+		"description": "Mod that changes the loot tables and some crafting recipes in order to make scrap more enjoyable and overall much less grind.\nWorks on version 0.6.5 (finally)\n\nCONTENT:\n- Tweaked drops from harvestables\n- More refined material\n- Better loot crates and bot drops\nI'm not providing any clues to what really changed, have fun finding out yourself.\n\nSource code at: https://github.com/MaxiorPL/scrapBLT2\n\nWARNING: This mod is not intended for first time players, as it changes fundamentally the pacing and progression of the game, also may contain glitches and other stuff while using additional mods.",
 		"fileId": 2925439763,
 		"localId": "8d56f65a-4033-485b-a6f4-6b5781583188",
 		"name": "Better Loot Table V2",
