@@ -29310,10 +29310,17 @@
 	"a958dd94-4189-43d3-b989-c1eee52d0869": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Realistic sound pack mod for scrap mechanic",
+		"dependencies": [
+			{
+				"fileId": 2945713875,
+				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
+				"name": "ModDatabase v2"
+			}
+		],
+		"description": "sound pack mod for scrap mechanic\n-------------------------------------------\n\nHello, i have updated the mod to have more effects in scrap mechanic such as:\n-footsteps\n-explosion\n-tapegun\n-impacts\n-volume changes\n-------------------------------------------\n\nthis mod replaces the sound effects whit call of duty warzone 2.0 songs, and effects but also random audio effects that i can find on google.\nThe mod was made whit FMOD Bank Tools for opening up the .Bank file at: Steam\\steamapps\\common\\Scrap Mechanic\\Data\\Audio\\Banks\\Master Bank.bank\n-------------------------------------------\n\nINSTALL:\n\nThe data folder can be found at: C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2956714384\\B_Scrap Realistic Sound Pack Mod\n\n1. Copy the Data folder\n2. Go to: C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\n3. Paste the Data folder into Scrap Mechanic Folder and click on replace all files.\n----------------------------------------------------\n\nSPECIAL:\n\nMake sure to like and subscribe as well as comment!\n\nenjoy.",
 		"fileId": 2956714384,
 		"localId": "a958dd94-4189-43d3-b989-c1eee52d0869",
-		"name": "B_Scrap Realistic Sound Pack Mod",
+		"name": "B_Scrap Sound Pack Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
