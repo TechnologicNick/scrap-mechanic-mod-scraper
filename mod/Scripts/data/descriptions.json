@@ -28159,12 +28159,12 @@
 	"524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "MisuMod - Survival (Custom)\n\nv953:\nScript Cleanup and changed MisuChemical Weapon name to Misu WaterCannon.\n\nv0.952:\nAdded: MisuMod HelpBook : Gameplay tab\n\nv0.951:\nChanged MoneyBonus to 1 (for some gameplay)\n\nv0.95:\nRed Haybot\nWhite Haybot\nMisuMod HelpBook\nNew Shop (R)\n\nTODO:\nMisuHammer Block (right click) no resist damage yet!\n\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n\nBOTS:\nBlack Farmbot\nPink Farmbot\nBlue Haybot\nPink Totebot\nBlue Totebot\nYellow Totebot\nRed Totebot\nWhite Tapebot\nPink Woc\nWhite Worm\nRed Haybot\nWhite Haybot\n\nWEAPONS:\nMisu Gatling\nMisu Spudgun\nMisu Hammer\nMisu Chemical Launcher\nMisu Jepack\nMisu Grenade\n\nOBJ:\nBatteryRecharge\nCrudeOil Farmer\nWater Farmer\nChemical Farmer\nMisu Beacon\nMisuMod HelpBook\nCraftbot recepies: SuperSunshake and few more\n\nyou can buy all my items for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :) \n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
+		"description": "MisuMod - Survival (Custom)\n\nv.954:\nyou can buy SP from shop now (10000monies = 10SP)\nadded GlueFarmer (you may need batteries)\nfixed Haybot colors..\nfixed WaterCannon dmg\n\nv953:\nScript Cleanup and changed MisuChemical Weapon name to Misu WaterCannon.\n\nv0.952:\nAdded: MisuMod HelpBook : Gameplay tab\n\nv0.951:\nChanged MoneyBonus to 1 (for some gameplay)\n\nv0.95:\nRed Haybot\nWhite Haybot\nMisuMod HelpBook\nNew Shop (R)\n\nTODO:\nMisuHammer Block (right click) no resist damage yet!\n\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n\nBOTS:\nBlack Farmbot\nPink Farmbot\nBlue Haybot\nPink Totebot\nBlue Totebot\nYellow Totebot\nRed Totebot\nWhite Tapebot\nPink Woc\nWhite Worm\nRed Haybot\nWhite Haybot\n\nWEAPONS:\nMisu Gatling\nMisu Spudgun\nMisu Hammer\nMisu WaterCannon (you can use it growing crops it also has fertilizer and water.)\nMisu Jepack.\nMisu Jepack\nMisu Grenade\n\nOBJ:\nBatteryRecharge\nCrudeOil Farmer\nWater Farmer\nChemical Farmer\nMisu Beacon\nMisuMod HelpBook\nCraftbot recepies: SuperSunshake and few more\n\nyou can buy all my items for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :) \n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
 		"fileId": 2920382717,
 		"localId": "524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf",
 		"name": "MisuMod - Survival (Custom)",
 		"type": "Custom Game",
-		"version": 0.951
+		"version": 0.954
 	},
 	"1561718d-39d2-4b09-985c-d762f64f8733": {
 		"allow_add_mods": true,
@@ -29411,6 +29411,47 @@
 		"fileId": 2960582746,
 		"localId": "f881b6b9-4d9b-4174-9b06-8dacaae39aaa",
 		"name": "Inventive",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a1198287-4426-433c-9f1c-e76769d7631f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "Blocks With Health. Health Is Reduced Only By Potatoes!",
+		"fileId": 2960975405,
+		"localId": "a1198287-4426-433c-9f1c-e76769d7631f",
+		"name": "Blocks With Health",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"49a34fe6-5ace-4125-8204-60fc086e3840": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "B_Scrap Gui Pack Mod\n-----------------------------------\n\nThis Mod was: https://steamcommunity.com/sharedfiles/filedetails/?id=2832003317 But i remastered the entire mod because the old was ugly.\nThis mod changes some of the GUI textures (ORANGE -> BLUE) because why not, and its cool.\nThis Mod was made whit GIMP using auto cliker for automation and i had to change all the textures one by one.\nThe Mods works for Resolution: 1280x720, 1920x1080, 2560x1440, 3840x2160 Displays. but i mean for ALL of them in scrap mechanic and it was H A R D.\n\n-----------------------------------\nINSTALL:\n\nFirst of all the link of this website: (    ) has the ID\nso The ID of the folder is (  ) and its at: Steam\\steamapps\\workshop\\content\\387990\\ \\B_Scrap GUI Pack Mod\n\nif your at: B_Scrap GUI Pack Mod then Copy the Data Folder from there and paste it into: Steam\\steamapps\\common\\Scrap Mechanic and click on replace files.\n\nthe mod should work fine on all resolutions, if one of the gui textures are orange, it could mean that its impossible for me to change that such as text messages.\nIf the GUI texture isnt blue, and actually isnt even blue in the gui textures folder, REINSTALL. if it still dosent work after it report the issue.\n-----------------------------------\nOther:\n\nNO COPYRIGHT, yes i know sometimes it could be bad but i wanna know if someone can make this mod better.\n\nSUBSCRIBE and LIKE, so i can make more mods in the future! it really helps me a lot and takes a lot of time to make.",
+		"fileId": 2961007525,
+		"localId": "49a34fe6-5ace-4125-8204-60fc086e3840",
+		"name": "B_Scrap Gui Pack Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"611bd832-ee88-4b1a-b636-f1e52f953894": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "The Utility Ducks\n\nAnti-Gravity-Duck: makes gravity -0.5\nUn-Anti-Gravity-Duck: makes gravity 9\nBoom-Duck: Very VERY explosive\nPaint-Duck: Paintss everything on the creation the color of te duck when intracted with\n\nif anything dosent work try putting your creation on a lift (mostly for anti-gravity-ducks)",
+		"fileId": 2961040159,
+		"localId": "611bd832-ee88-4b1a-b636-f1e52f953894",
+		"name": "Utility Ducks Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"30ac1314-5fba-432d-a454-065ae9cff33c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Includes:\n\n\nModern dishwasher,\n\nOld dishwasher,\n\nModern washing machine,\n\nOld washing machine,\n\nModern tumble dryer,\n\nOld tumble dryer,\n\nEach appliance is an interactible (electric engine) Connect to a bearing for sound effects\n",
+		"fileId": 2961313316,
+		"localId": "30ac1314-5fba-432d-a454-065ae9cff33c",
+		"name": "Swecools appliances",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
