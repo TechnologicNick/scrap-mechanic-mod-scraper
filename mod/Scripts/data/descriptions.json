@@ -26262,7 +26262,7 @@
 	"e18c61d3-befb-44e5-bbae-d57bfec0f7f5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod adds a sunshake that lets you fly.",
+		"description": "This mod adds a simple sunshake that lets you fly.",
 		"fileId": 2865678708,
 		"localId": "e18c61d3-befb-44e5-bbae-d57bfec0f7f5",
 		"name": "SunServer Mod",
@@ -29417,8 +29417,14 @@
 	"a1198287-4426-433c-9f1c-e76769d7631f": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": null,
-		"description": "Blocks With Health. Health Is Reduced Only By Potatoes!",
+		"dependencies": [
+			{
+				"fileId": 2945713875,
+				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
+				"name": "ModDatabase v2"
+			}
+		],
+		"description": "Blocks With Health.",
 		"fileId": 2960975405,
 		"localId": "a1198287-4426-433c-9f1c-e76769d7631f",
 		"name": "Blocks With Health",
