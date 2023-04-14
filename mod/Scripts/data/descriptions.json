@@ -29467,5 +29467,15 @@
 		"name": "Swecools appliances",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"7e9f0513-f6bf-4c40-b486-8b95e8389637": {
+		"allow_add_mods": false,
+		"custom_icons": false,
+		"description": "Adds more recipes to the craftbot",
+		"fileId": 2962100346,
+		"localId": "7e9f0513-f6bf-4c40-b486-8b95e8389637",
+		"name": "Craftbot Plus",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
