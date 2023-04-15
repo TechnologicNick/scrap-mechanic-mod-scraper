@@ -26262,7 +26262,8 @@
 	"e18c61d3-befb-44e5-bbae-d57bfec0f7f5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod adds a simple sunshake that lets you fly.",
+		"dependencies": null,
+		"description": "This mod adds Sunshakes, of all colors and kinds. Use these for building creations.\n\nList of SunShakes:\n\n1. FlyShake. This one simply makes you fly.\n\n2. SpeedShake. This one adds some speed.\n\n3. SlowShake. This one makes you slow.\n\n4. TurboShake. This one makes you extremely fast. Useful for travelling across the map.\n\nThe speed Sunshakes apply if you are flying or not, but the speed will reset if you switch to not flying or if you start flying.",
 		"fileId": 2865678708,
 		"localId": "e18c61d3-befb-44e5-bbae-d57bfec0f7f5",
 		"name": "SunServer Mod",
