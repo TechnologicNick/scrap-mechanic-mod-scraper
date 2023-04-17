@@ -66845,5 +66845,52 @@
 			"6b1cab58-c103-48cd-8cb3-314cc57cf959",
 			"643a991a-2958-4882-abb8-68e0a223a7ab"
 		]
+	},
+	"884e88ba-5951-4160-9467-c1a9ad4cd097": {
+		"$CONTENT_884e88ba-5951-4160-9467-c1a9ad4cd097/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"417d390b-d890-4891-b278-7c89f40ffb00": {
+		"$CONTENT_417d390b-d890-4891-b278-7c89f40ffb00/Objects/Database/ShapeSets/Parts.json": [
+			"fcf2a13a-6e1c-41f9-a0e8-16b843c2906f",
+			"07163b00-66b8-4d0e-817b-56d47914351c",
+			"3caf1937-4e5b-4d18-a8f6-5a2a4410f301",
+			"6a82f622-0645-4bb4-b29b-68928278a73d",
+			"1d244860-75a3-4d65-86cc-105557e1a102",
+			"b2c0bdff-0eab-43bc-aeff-981fd77fb6bd",
+			"8358289d-f16c-4332-a16e-82016c8f4a92",
+			"a1b34ded-c7bd-4b38-805d-33cf051976c5",
+			"e7fc83cb-274a-4d11-82ce-0dc01e0723c7",
+			"2ef05ccd-33ec-4616-b521-04fb089ae339",
+			"3da91720-3add-4bd7-9060-a254607ff10f",
+			"2bb5d837-3f63-46e0-9244-f9b1ea150293",
+			"68acd984-38b6-4ffa-a07e-db335749414c",
+			"d18ac61b-2078-4715-a3b4-ad5fcedfe680",
+			"ced00d48-ab03-4bf1-861a-17b2343b3cd0",
+			"512e0e85-8442-476c-bdf5-14b2ee10f100",
+			"363e4bb1-68bb-4a52-9698-dcae49f7be0a",
+			"aeea777f-e991-424c-bd65-2abbb147c729",
+			"90955e03-6250-4f25-a389-d34ea0654e02",
+			"a9400382-1039-41e5-bb6a-f7c85f95702a",
+			"1f9a844d-36a6-4e2b-9681-62473499d436",
+			"865837ec-e11d-4ada-96e0-2805b64337de",
+			"2dedb7ac-692a-4332-a3ef-f3865454472d",
+			"b43b8c06-cf6a-4f0a-8949-8d328dbcbc40",
+			"bf0e7dfc-4bc5-4fb9-8090-27314c715265",
+			"b09e7b64-982c-43fc-b713-1b9658a98d80",
+			"8cba2f3a-da0d-4379-b3e5-edba694d4e6b",
+			"e3397192-dc73-4b41-9afa-900379263ba6",
+			"13aa6ed4-9f57-42df-bf9f-f0e967b1a6f2",
+			"94409801-3ec6-4fba-8cd0-a57045def5c5",
+			"f2c05fd8-f289-4062-8fd0-b8fb7e2af0cb",
+			"6d111c8f-d5a0-42a7-a717-5cf9ccef4e1c",
+			"dc94e861-bd8e-4470-acfd-f9b93cc890a0",
+			"827f6b83-ebf5-45a2-9e61-72ec6d1b3ec2",
+			"9dbaa496-3043-42cb-9de1-620a1ed33bb9",
+			"3ba84b2c-ecaf-42b8-a7cc-f64920025f83",
+			"56ba267a-321a-48d9-8766-694b0d55ed89",
+			"f02c0030-1af5-4fba-b508-d363b18d0dfa",
+			"34a503ff-70ae-4dfc-97e1-31dbf2078e98",
+			"5babb5a9-3a3d-4176-8bbe-76fb4922ef53"
+		]
 	}
 }
