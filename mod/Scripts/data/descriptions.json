@@ -12986,7 +12986,7 @@
 	"79246818-be32-4845-8d63-b9289017e074": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[b]Adds Fireaxe to the game as a tool[/b]\r\nIts capable of destroying weak materials up to fabricated wood and plastic\r\n\r\nworks only in 0.6.0",
+		"description": "[b]Adds Fireaxe to the game as a tool[/b]\r\nIts capable of destroying weak materials up to fabricated wood and plastic\r\n\r\nNow craftable in \"Survival with Modded Crafting Recipes Support\" custom game!\r\n\r\nworks only in 0.6.0",
 		"fileId": 2813593777,
 		"localId": "79246818-be32-4845-8d63-b9289017e074",
 		"name": "Fireaxe",
