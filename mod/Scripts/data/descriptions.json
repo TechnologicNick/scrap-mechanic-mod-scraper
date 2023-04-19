@@ -28160,7 +28160,7 @@
 	"524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "MisuMod - Survival (Custom)\n\nv.954:\nyou can buy SP from shop now (10000monies = 10SP)\nadded GlueFarmer (you may need batteries)\nfixed Haybot colors..\nfixed WaterCannon dmg\n\nv953:\nScript Cleanup and changed MisuChemical Weapon name to Misu WaterCannon.\n\nv0.952:\nAdded: MisuMod HelpBook : Gameplay tab\n\nv0.951:\nChanged MoneyBonus to 1 (for some gameplay)\n\nv0.95:\nRed Haybot\nWhite Haybot\nMisuMod HelpBook\nNew Shop (R)\n\nTODO:\nMisuHammer Block (right click) no resist damage yet!\n\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n\nBOTS:\nBlack Farmbot\nPink Farmbot\nBlue Haybot\nPink Totebot\nBlue Totebot\nYellow Totebot\nRed Totebot\nWhite Tapebot\nPink Woc\nWhite Worm\nRed Haybot\nWhite Haybot\n\nWEAPONS:\nMisu Gatling\nMisu Spudgun\nMisu Hammer\nMisu WaterCannon (you can use it growing crops it also has fertilizer and water.)\nMisu Jepack.\nMisu Jepack\nMisu Grenade\n\nOBJ:\nBatteryRecharge\nCrudeOil Farmer\nWater Farmer\nChemical Farmer\nMisu Beacon\nMisuMod HelpBook\nCraftbot recepies: SuperSunshake and few more\n\nyou can buy all my items for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :) \n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
+		"description": "MisuMod - Survival (Custom)\n\nv955:\nMisuhammer Block (might need more work)\nBot spawn rate increased by 100%\nLowered Shop prices.\n\nv.954:\nyou can buy SP from shop now (10000monies = 10SP)\nadded GlueFarmer (you may need batteries)\nfixed Haybot colors..\nfixed WaterCannon dmg\n\nv953:\nScript Cleanup and changed MisuChemical Weapon name to Misu WaterCannon.\n\nv0.952:\nAdded: MisuMod HelpBook : Gameplay tab\n\nv0.951:\nChanged MoneyBonus to 1 (for some gameplay)\n\nv0.95:\nRed Haybot\nWhite Haybot\nMisuMod HelpBook\nNew Shop (R)\n\n--------------------------------\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n\nBOTS:\nBlack Farmbot\nPink Farmbot\nBlue Haybot\nPink Totebot\nBlue Totebot\nYellow Totebot\nRed Totebot\nWhite Tapebot\nPink Woc\nWhite Worm\nRed Haybot\nWhite Haybot\n\nWEAPONS:\nMisu Gatling\nMisu Spudgun\nMisu Hammer\nMisu WaterCannon (you can use it growing crops it also has fertilizer and water.)\nMisu Jepack.\nMisu Jepack\nMisu Grenade\n\nOBJ:\nBatteryRecharge\nCrudeOil Farmer\nWater Farmer\nChemical Farmer\nMisu Beacon\nMisuMod HelpBook\nCraftbot recepies: SuperSunshake and few more\n\nyou can buy all my items for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :) \n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
 		"fileId": 2920382717,
 		"localId": "524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf",
 		"name": "MisuMod - Survival (Custom)",
@@ -29566,6 +29566,16 @@
 		"fileId": 2963989519,
 		"localId": "42bc054b-7602-46fc-9bf1-ef3ffc33a9b0",
 		"name": "Fants Mouse Movment Detector",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"687aa611-ab7b-47b5-8c1b-6ce30ebf7d58": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "",
+		"fileId": 2964056426,
+		"localId": "687aa611-ab7b-47b5-8c1b-6ce30ebf7d58",
+		"name": "TF-MECHANIC",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

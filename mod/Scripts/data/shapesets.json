@@ -66902,5 +66902,13 @@
 		"$CONTENT_42bc054b-7602-46fc-9bf1-ef3ffc33a9b0/Objects/Database/ShapeSets/FMMD.shapeset": [
 			"b8eaad47-7b50-4b45-96ab-fc201182209b"
 		]
+	},
+	"687aa611-ab7b-47b5-8c1b-6ce30ebf7d58": {
+		"$CONTENT_687aa611-ab7b-47b5-8c1b-6ce30ebf7d58/Objects/Database/ShapeSets/example.shapeset": [
+			"5abe8f56-962e-4171-a030-5df2bcacf32f",
+			"e2608a81-8aee-4400-a302-6618047d890d",
+			"0185d44f-319c-40e1-9991-c7c01043925a",
+			"ad6a8229-f22a-4da1-81a3-85b13b723bc0"
+		]
 	}
 }
