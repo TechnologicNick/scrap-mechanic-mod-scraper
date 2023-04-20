@@ -28160,7 +28160,7 @@
 	"524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "MisuMod - Survival (Custom)\n\nv955:\nMisuhammer Block (might need more work)\nBot spawn rate increased by 100%\nLowered Shop prices.\n\nv.954:\nyou can buy SP from shop now (10000monies = 10SP)\nadded GlueFarmer (you may need batteries)\nfixed Haybot colors..\nfixed WaterCannon dmg\n\nv953:\nScript Cleanup and changed MisuChemical Weapon name to Misu WaterCannon.\n\nv0.952:\nAdded: MisuMod HelpBook : Gameplay tab\n\nv0.951:\nChanged MoneyBonus to 1 (for some gameplay)\n\nv0.95:\nRed Haybot\nWhite Haybot\nMisuMod HelpBook\nNew Shop (R)\n\n--------------------------------\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n\nBOTS:\nBlack Farmbot\nPink Farmbot\nBlue Haybot\nPink Totebot\nBlue Totebot\nYellow Totebot\nRed Totebot\nWhite Tapebot\nPink Woc\nWhite Worm\nRed Haybot\nWhite Haybot\n\nWEAPONS:\nMisu Gatling\nMisu Spudgun\nMisu Hammer\nMisu WaterCannon (you can use it growing crops it also has fertilizer and water.)\nMisu Jepack.\nMisu Jepack\nMisu Grenade\n\nOBJ:\nBatteryRecharge\nCrudeOil Farmer\nWater Farmer\nChemical Farmer\nMisu Beacon\nMisuMod HelpBook\nCraftbot recepies: SuperSunshake and few more\n\nyou can buy all my items for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :) \n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
+		"description": "MisuMod - Survival (Custom)\n\n0.956:\nNothing much just some clean up...\n\nv955:\nMisuhammer Block (might need more work)\nBot spawn rate increased by 100%\nLowered Shop prices.\n\nv.954:\nyou can buy SP from shop now (10000monies = 10SP)\nadded GlueFarmer (you may need batteries)\nfixed Haybot colors..\nfixed WaterCannon dmg\n\nv953:\nScript Cleanup and changed MisuChemical Weapon name to Misu WaterCannon.\n\nv0.952:\nAdded: MisuMod HelpBook : Gameplay tab\n\nv0.951:\nChanged MoneyBonus to 1 (for some gameplay)\n\nv0.95:\nRed Haybot\nWhite Haybot\nMisuMod HelpBook\nNew Shop (R)\n\n--------------------------------\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n\nBOTS:\nBlack Farmbot\nPink Farmbot\nBlue Haybot\nPink Totebot\nBlue Totebot\nYellow Totebot\nRed Totebot\nWhite Tapebot\nPink Woc\nWhite Worm\nRed Haybot\nWhite Haybot\n\nWEAPONS:\nMisu Gatling\nMisu Spudgun\nMisu Hammer\nMisu WaterCannon (you can use it growing crops it also has fertilizer and water.)\nMisu Jepack.\nMisu Jepack\nMisu Grenade\n\nOBJ:\nBatteryRecharge\nCrudeOil Farmer\nWater Farmer\nChemical Farmer\nMisu Beacon\nMisuMod HelpBook\nCraftbot recepies: SuperSunshake and few more\n\nyou can buy all my items for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :) \n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
 		"fileId": 2920382717,
 		"localId": "524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf",
 		"name": "MisuMod - Survival (Custom)",
@@ -29175,7 +29175,7 @@
 	"c76c1b15-b535-4aa0-9113-65965c78f148": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This Mod add Parts from my Main Mod ( Fant Mod ) as Seperated Mod usable in Creative.\r\n\r\n-Gearbox\r\n-3 sizes of Ballwheels\r\n-6 sizes of Waterwheels ( paddle )\r\n-Different Wheels and Offrad Wheels\r\n-Chemical Lift Engine ( like a Hot air ballon )\r\n-3 sizes of Pontons ( adjustable bouyancy )\r\n-4 different Propeller ( fixed size )\r\n-2 Adjustable Propeller\r\n-1x2 Thuster\r\n-2 different Water Thruster ( for heavy ships, the power of them scales with the mass, more mass more power )\r\n-many different Wing parts ( they have nothing todo with the Wings mod, its a completly different code )\r\n-2 Custom Engines with Gear Change, Brake and Clutch\r\n \r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant",
+		"description": "This Mod add Parts from my Main Mod ( Fant Mod ) as Seperated Mod usable in Creative.\r\n\r\n-Gearbox\r\n-3 sizes of Ballwheels\r\n-6 sizes of Waterwheels ( paddle )\r\n-Different Wheels and Offrad Wheels\r\n-Chemical Lift Engine ( like a Hot air ballon )\r\n-3 sizes of Pontons ( adjustable bouyancy )\r\n-4 different Propeller ( fixed size )\r\n-2 Adjustable Propeller\r\n-1x2 Thuster\r\n-2 different Water Thruster ( for heavy ships, the power of them scales with the mass, more mass more power )\r\n-many different Wing parts ( they have nothing todo with the Wings mod, its a completly different code )\r\n-2 Custom Engines with Gear Change, Brake and Clutch\r\n \r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2949730799,
 		"localId": "c76c1b15-b535-4aa0-9113-65965c78f148",
 		"name": "Fants Propulsion Stuff",
@@ -29482,7 +29482,8 @@
 	"05d6839b-36b3-4659-be89-9036df2f79ec": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "An Oxygen generator I yoinked from Scrapnautica Custom Game.\nConnect a Generator to the Oxygen Producer, set a size, and get underwater building!\n\n\n\n[spoiler]Prodigy 404 is not responsible or can be blamed for: drowning, equipment malfunction, nuclear meltdowns or irresponsible use of air generators[/spoiler]\n\n\n\n\n--------------\nUPDATES\n--------------\n16/4/23:\nAdded Nuclear Power Plant",
+		"dependencies": null,
+		"description": "An Oxygen generator I yoinked from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2808140550]Scrapnautica Custom Game.[/url]\nConnect a Generator to the Oxygen Producer, set a size, and get underwater building!\n\n\n\n[spoiler]Prodigy 404 is not responsible or can be blamed for: drowning, equipment malfunction, nuclear meltdowns or irresponsible use of air generators[/spoiler]\n\n\n\n\n--------------\nUPDATES\n--------------\n16/4/23:\nAdded Nuclear Power Plant\n\n19/4/23:\nAdded Power Switch",
 		"fileId": 2962704233,
 		"localId": "05d6839b-36b3-4659-be89-9036df2f79ec",
 		"name": "OXYGEN",
@@ -29552,7 +29553,13 @@
 	"cb283672-5b5b-4038-ade9-2d0df4962ff4": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "parts I create that may be useful or fun.\r\n\r\n[h1]current parts:[/h1]\r\n[list]\r\n[*] creation Summoner\r\n     allows you to save creations from the void or just from far away.\r\n[/list]\r\n[h1]discord.gg/6r46PkYr9s[/h1]",
+		"dependencies": [
+			{
+				"fileId": 2963669827,
+				"localId": "c070161a-e8e0-4593-8e63-30799b7f6904"
+			}
+		],
+		"description": "parts and tools created that may be useful or fun.\r\n\r\n[h1]current parts:[/h1]\r\n[list]\r\n[*] creation Summoner\r\n     allows you to save creations from the void or just from far away.\r\n[/list]\r\n[h1]discord.gg/6r46PkYr9s[/h1]",
 		"fileId": 2963923303,
 		"localId": "cb283672-5b5b-4038-ade9-2d0df4962ff4",
 		"name": "unknown tools",
@@ -29576,6 +29583,32 @@
 		"fileId": 2964056426,
 		"localId": "687aa611-ab7b-47b5-8c1b-6ce30ebf7d58",
 		"name": "TF-MECHANIC",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"c070161a-e8e0-4593-8e63-30799b7f6904": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This tool allows you to select multiple bodies and duplicate/mirror them.\n\nSelect Mode Controls:\n- Left click (default for Build/Primary) to select a body\n- Right click (default for Remove/Secondary) to deselect a body\n- F (default for Force Build) to cycle save slots, hold to save selected bodies to current slot\n- R (default for Reload) to switch to Build Mode\n- Double clicking selects/deselects a body and its immediate child bodies*\n- Triple clicking selects/deselects a body and all its descendant bodies*\n\n*The body on which you first place a joint is the parent, and anything you build on the other end of the joint is the child.\n\nBuild Mode Controls:\n- Left click (default for Build/Primary) to spawn saved bodies of the current slot\n- Q (default for Next Rotation) to rotate/mirror creation\n- F (default for Force Build) to cycle save slots\n- R (default for Reload) to switch to Select Mode\n\nNotes:\n- A summary of the selected bodies is displayed as text in the form of “M[*12B-34J]^”\n- \"M\" is only shown in Build Mode and indicates a mirrored creation\n- \"*\" indicates that the creation is disjointed (one or more bodies are not connected to the others)\n- First set of numbers represent the number of bodies\n- Second set of numbers represent the number of joints\n- “^” is only shown in Select Mode and indicates that all bodies/joints of a creation had been selected\n- Selecting a body will select all joints that it is the parent of\n- Interactable settings are preserved in the copies and bearing directions are reversed when mirrored\n- Shift+Q (rotating/mirroring in reverse order) does not yet work (broken SM API feature)\n- There are no collision checks (yet, maybe) when spawning creations, be prepared for a bad time if you spawn into other objects\n- Unpredictable outcomes may occur if a creation is modified while selecting or saving\n",
+		"fileId": 2963669827,
+		"localId": "c070161a-e8e0-4593-8e63-30799b7f6904",
+		"name": "Duplicator Tool",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"07cd7ed7-e79e-4f15-baa8-dbb3a435ee58": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
+			}
+		],
+		"description": "A private modpack of items I made, use at your own risk",
+		"fileId": 2964616768,
+		"localId": "07cd7ed7-e79e-4f15-baa8-dbb3a435ee58",
+		"name": "The Whack Pack",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
