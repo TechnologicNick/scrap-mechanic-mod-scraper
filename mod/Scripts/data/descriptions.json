@@ -29565,9 +29565,17 @@
 			{
 				"fileId": 2844836154,
 				"localId": "61dfaa2e-041d-4e6b-82a1-54185a7d0cfe"
+			},
+			{
+				"fileId": 2022198450,
+				"localId": "d14c9984-f872-411b-8e0e-993e829e9bbb"
+			},
+			{
+				"fileId": 2885937214,
+				"localId": "d69c811d-76bc-4b7d-af00-2e674c7c52fe"
 			}
 		],
-		"description": "parts and tools created that may be useful or fun.\n\n[h1]current parts:[/h1]\n[list]\n[*] creation Summoner\n     allows you to save creations from the void or just from far away.\n[*] Duplicator Tool\n     This tool allows you to select multiple bodies and duplicate/mirror them.\n[*] Player Teleporter\n     this tool allows you to teleport around the map just by looking at where you want to go.\n[*] Better Lift\n     This tool Replaces your current Lift to have infinate reach, use [F] and [R] to extend lift past noraml limits.\n[/list]\n[h1]discord.gg/6r46PkYr9s[/h1]",
+		"description": "parts and tools created that may be useful or fun.\n\n[h1]current parts:[/h1]\n[list]\n[*] creation Summoner\n     allows you to save creations from the void or just from far away.\n[*] Duplicator Tool\n     This tool allows you to select multiple bodies and duplicate/mirror them.\n[*] Player Teleporter\n     this tool allows you to teleport around the map just by looking at where you want to go.\n[*] Better Lift\n     This tool Replaces your current Lift to have infinate reach, use [F] and [R] to extend lift past noraml limits.\n[*] Admin Tool\n     complex featues, visit [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2022198450]this page[/url] for description.\n[*] Player Kicker\n     Allows you to people from your world.\n[*] World Cleaner\n     Allows you to clear parts from the world.\n[*] Free Camera\n     complex featues, visit [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2022198450]this page[/url] for description.\n[*] Permission Manager\n     Allows you to configure permission for other players to use.\n[/list]\n[h1]discord.gg/6r46PkYr9s[/h1]",
 		"fileId": 2963923303,
 		"localId": "cb283672-5b5b-4038-ade9-2d0df4962ff4",
 		"name": "unknown tools",
