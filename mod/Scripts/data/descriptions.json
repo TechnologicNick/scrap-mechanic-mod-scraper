@@ -29698,5 +29698,25 @@
 		"name": "farm bot sith",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"cae91144-6c70-412c-a490-1043a0f8075c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2965553746,
+		"localId": "cae91144-6c70-412c-a490-1043a0f8075c",
+		"name": "engin test",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"30f44a4d-9e5a-4988-9562-f6a9c9ebfca9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2965583412,
+		"localId": "30f44a4d-9e5a-4988-9562-f6a9c9ebfca9",
+		"name": "op thrusters",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

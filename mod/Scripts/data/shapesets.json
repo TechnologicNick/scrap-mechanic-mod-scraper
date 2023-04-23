@@ -1732,7 +1732,19 @@
 			"dff8afbe-4cdf-2052-91f9-2ed05ce7aa2e",
 			"dff8afbe-4cdf-2052-91f9-2ed05ce8aa0e",
 			"dff8afbe-4cdf-2052-91f9-2ed05ce8aa1e",
-			"dff8afbe-4cdf-2052-91f9-2ed05ce8aa2e"
+			"dff8afbe-4cdf-2052-91f9-2ed05ce8aa2e",
+			"dff8afbe-4cdf-2052-91f9-1ed04ce8aa0e",
+			"dff8afbe-4cdf-2052-91f9-1ed04ce8aa1e",
+			"dff8afbe-4cdf-2052-91f9-1ed04ce8aa2e",
+			"dff8afbe-4cdf-2052-91f9-1ed04ce8aa3e",
+			"dff8afbe-4cdf-2052-91f9-1ed04ce8aa4e",
+			"dff8afbe-4cdf-2052-91f9-1ed04ce8aa5e",
+			"dff8afbe-4cdf-2052-91f9-1ed04ce8aa6e",
+			"dff8afbe-4cdf-2052-91f9-1ed04ce8aa7e",
+			"dff8afbe-4cdf-2052-91f9-1ed04ce8aa8e",
+			"dff8afbe-4cdf-2052-91f9-1ed04ce8aa9e",
+			"dff8afbe-4cdf-2052-91f9-1ed04ce9aa0e",
+			"dff8afbe-4cdf-2052-91f9-1ed04ce9aa1e"
 		],
 		"$CONTENT_dee04807-890a-4332-b4bd-3e8aade79988/Objects/Database/ShapeSets/3TruckRims.json": [
 			"dff8afbd-4cdf-4066-91f9-2ed05ce7aa1e",
@@ -66981,5 +66993,24 @@
 	},
 	"e7e07e33-360b-4111-807f-2fc55ad463a7": {
 		"$CONTENT_e7e07e33-360b-4111-807f-2fc55ad463a7/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"cae91144-6c70-412c-a490-1043a0f8075c": {
+		"$CONTENT_cae91144-6c70-412c-a490-1043a0f8075c/Objects/Database/ShapeSets/example.shapeset": [
+			"24c36932-5a83-416b-85a6-1d5944a418b2"
+		]
+	},
+	"30f44a4d-9e5a-4988-9562-f6a9c9ebfca9": {
+		"$CONTENT_30f44a4d-9e5a-4988-9562-f6a9c9ebfca9/Objects/Database/ShapeSets/example.shapeset": [
+			"0b08a003-3511-412d-af11-d2bc77956071",
+			"0b08a003-3511-412d-af11-d2bc77956071",
+			"0b08a003-3511-412d-af11-d2bc77956071",
+			"0b08a003-3511-412d-af11-d2bc77956071",
+			"0b08a003-3511-412d-af11-d2bc77956071",
+			"0b08a003-3511-412d-af11-d2bc77956071",
+			"0b08a003-3511-412d-af11-d2bc77956071",
+			"0b08a003-3511-412d-af11-d2bc77956071",
+			"0b08a003-3511-412d-af11-d2bc77956071",
+			"0b08a003-3511-412d-af11-d2bc77956071"
+		]
 	}
 }
