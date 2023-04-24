@@ -29190,7 +29190,7 @@
 	},
 	"92816666-c290-4813-adcd-42368ffa0ac2": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "Custom seats and other assorted parts to inspire new builds!\n\nThis is essentially [url=https://steamcommunity.com/sharedfiles/filedetails/?id=905650948]MJM Scifi Mod[/url] V2.\n\nTo craft in survival you must play a custom game that implements the [url=https://steamcommunity.com/workshop/filedetails/?id=2504530003]ModDatabase[/url] such as:\n- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Modded Craftbot Recipes[/url]\n- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2820096455]Fant Mod 2 Custom Gamemode[/url]\n\nAll models are my own work by mostly \"kit-bashing\" the game models into new designs. Please do not copy models or scripts from this mod without permission.\n\nI will be adding updated versions of various parts from my old mod over time, but the parts in my old MJM mod may not be compatible with this mod as this is a fresh start where I'm re-thinking how some they are implemented.",
 		"fileId": 2949501397,
 		"localId": "92816666-c290-4813-adcd-42368ffa0ac2",
@@ -29716,6 +29716,16 @@
 		"fileId": 2965583412,
 		"localId": "30f44a4d-9e5a-4988-9562-f6a9c9ebfca9",
 		"name": "op thrusters",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"89fbceac-8d5b-4f16-91ed-ff93c752414b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2965854845,
+		"localId": "89fbceac-8d5b-4f16-91ed-ff93c752414b",
+		"name": "BetterBubbleBlock",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
