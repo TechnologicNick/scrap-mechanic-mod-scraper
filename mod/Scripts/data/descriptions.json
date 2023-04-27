@@ -28478,8 +28478,14 @@
 	"a80338b0-7b3f-4c09-ac64-1c21bf629a33": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": null,
-		"description": "This mod contains all my successful new ideas and life improvements.\n\nWarning: this mod relies heavily on Game Data, so it might break in the future!\n\nBasic Parts Included:\nSmooth Wheel\nBig Smooth Wheel\nLi'l Square Speaker\n\nInteractive Parts included:\nDriver's floor\nUnused horn\nSide-Mounted Button\nSide-Mounted Switch\nAlternate switch (a switch with a button model)\nSmall Electric Engine (Updated, now 1x1x1)\nSmall Gas Engine (Updated, now 1x1x1)\nSide-Mounted Thruster\nThe DUCK seat\nDeletion Duck (Now improved)\nBlank Duck (is a seat)\nWASD converters\nSmall Timer\nPanel Sensor\nInstant Logic Gate\nLong Piston\nBearing Spinner (Now has slow mode option!)\nPiston Controller\n\nBlocks included:\nIce\nRubber\nBlack Hole Block (Updated, is now proper weight)\n\nTools Included:\nDeletion Duck 1 (can delete individual blocks and parts, also is now improved, should now work on every client)\nDeletion Duck 2 (can delete creations, also is now improved)\nPowerHammer\nWireless Probe\n\nVersion 1.0.31\n\nFollow Me on YouTube!\nhttps://www.youtube.com/channel/UCSs7uIlC04zzgdn_Zyy5X5A",
+		"dependencies": [
+			{
+				"fileId": 2945713875,
+				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
+				"name": "ModDatabase v2"
+			}
+		],
+		"description": "This mod contains all my successful new ideas and life improvements.\n\nWarning: this mod relies heavily on Game Data, so it might break in the future!\n\nBasic Parts Included:\nSmooth Wheel\nBig Smooth Wheel\nLi'l Square Speaker\nScrap Mechanic Mister's seal of approval\n\nInteractive Parts included:\nDriver's floor\nUnused horn\nSide-Mounted Button\nSide-Mounted Switch\nAlternate switch (a switch with a button model)\nSmall Electric Engine (Updated, now 1x1x1)\nSmall Gas Engine (Updated, now 1x1x1)\nSide-Mounted Thruster\nThe DUCK seat\nDeletion Duck (Now improved)\nBlank Duck (is a seat)\nWASD converters\nSmall Timer\nPanel Sensor\nInstant Logic Gate\nLong Piston\nBearing Spinner (Now has slow mode option!)\nPiston Controller\n\nBlocks included:\nIce\nRubber\nBlack Hole Block (Updated, is now proper weight)\n\nTools Included:\nDeletion Duck 1 (can delete individual blocks and parts, also is now improved, should now work on every client)\nDeletion Duck 2 (can delete creations, also is now improved)\nPowerHammer\nWireless Probe\n\nVersion 1.0.32\n\nFollow Me on YouTube!\nhttps://www.youtube.com/channel/UCSs7uIlC04zzgdn_Zyy5X5A",
 		"fileId": 2926221169,
 		"localId": "a80338b0-7b3f-4c09-ac64-1c21bf629a33",
 		"name": "The SMM Pack",
@@ -29725,6 +29731,16 @@
 		"fileId": 2965854845,
 		"localId": "89fbceac-8d5b-4f16-91ed-ff93c752414b",
 		"name": "BetterBubbleBlock",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"e035ce11-6f83-4a9d-a2de-c73e43b8b230": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This was a test to see if I could make good textures for scrap mechanic, but if you do this, make sure that:\nthe texture's size is divisible by 4\nthe texture's size is a power of 2\nyou use an image editor with alpha support\n\nand if you use blender (recommended):\nmake sure you set up the UV map according to the texture, or it will look wrong.",
+		"fileId": 2967296366,
+		"localId": "e035ce11-6f83-4a9d-a2de-c73e43b8b230",
+		"name": "The ''Hello World!'' cube",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
