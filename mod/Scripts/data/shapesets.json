@@ -65150,7 +65150,8 @@
 			"4b7d97b4-28b5-4bd3-ad1c-fec8977395b6",
 			"5f20d66b-b640-4033-9917-274ed9e2f9d6",
 			"066838af-d4ca-4be3-b839-dca0f38d569a",
-			"17f95af6-bb0e-41d2-870f-8f757f44313b"
+			"17f95af6-bb0e-41d2-870f-8f757f44313b",
+			"b214b25c-ccaf-4e56-9fb8-1fe421df7ec2"
 		],
 		"$CONTENT_92816666-c290-4813-adcd-42368ffa0ac2/Objects/Database/ShapeSets/seats.shapeset": [
 			"b720335f-3205-4689-807d-6a756d8a7e44",
@@ -67669,6 +67670,11 @@
 			"70dec7af-e6bb-49f6-b5d3-ce928dc92182",
 			"1c771751-9241-4b25-8dfb-7b9d31304d32",
 			"0a720195-4914-4972-8de6-68f7d586a713"
+		]
+	},
+	"19b43c5d-263e-4e9a-be59-dc93a0831c27": {
+		"$CONTENT_19b43c5d-263e-4e9a-be59-dc93a0831c27/Objects/Database/ShapeSets/guides.shapeset": [
+			"5e161169-624a-425b-b9db-0f3db623233b"
 		]
 	}
 }
