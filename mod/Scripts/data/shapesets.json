@@ -54914,6 +54914,8 @@
 			"7521a5e5-ea57-4742-bc53-44ee9dc85f5b",
 			"9ee5a30e-9552-4392-a570-ae969006c31a",
 			"405defd2-25dc-44c0-acc6-010bd5fc9a11",
+			"182224b8-7224-428f-a800-5e8c801a3f6e",
+			"b3b36a1d-fa24-4624-83bd-593cf3087a59",
 			"8ff33776-6261-43d2-b194-b70614bc9d9d",
 			"92122389-b3e5-4c5f-a7a0-b89f8e4e15ae",
 			"854d6f69-fae0-4dae-a483-fcf74020a532",
@@ -58770,13 +58772,9 @@
 			"2e792123-4a10-4cc6-b9ef-c5a518655cb4"
 		],
 		"$CONTENT_524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf/Objects/Database/ShapeSets/tool_parts.json": [
-			"cf41bd2d-8bd3-432b-8a92-a36eda7e7740",
 			"85fc5f11-722b-4723-91f2-293a81ad0800",
 			"731c6a84-7ae7-439d-a620-128076f9985c",
 			"836e98a2-8c8c-4a6b-9239-54acdd4f4736",
-			"2d7f1278-ac93-4039-9eb2-d31715ea10ff",
-			"b633c3ee-2cda-4096-989a-60e90cd220aa",
-			"3faf624b-0a95-452f-b6cd-9930ad1731c5",
 			"1226cfd3-4fc8-4f9e-b21a-0c9576e2ef2f"
 		],
 		"$CONTENT_524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf/Objects/Database/ShapeSets/lights.json": [
@@ -59370,10 +59368,10 @@
 			"d22164ab-fba8-4243-9059-77abc82eb995"
 		],
 		"$CONTENT_524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf/Objects/Database/ShapeSets/misu_parts.json": [
-			"5f03f892-1c3d-49cf-be87-690ff7a56a54",
-			"51c868c5-b97e-4b5e-9f1a-e56bb8091180",
-			"ee975b99-a31e-4031-bf2e-42b7e14547db",
-			"5ee6c1fd-d7a3-4463-9077-a45a69e901d5",
+			"cf41bd2d-8bd3-432b-8a92-a36eda7e7740",
+			"2d7f1278-ac93-4039-9eb2-d31715ea10ff",
+			"b633c3ee-2cda-4096-989a-60e90cd220aa",
+			"3faf624b-0a95-452f-b6cd-9930ad1731c5",
 			"f9c50356-cc27-46f0-b5d8-434e85b5683f",
 			"3407474c-1dc5-488a-bd38-c3af943525e8",
 			"7631a462-bf41-4444-b1a6-a1e16262655a",
@@ -65010,6 +65008,7 @@
 		],
 		"$CONTENT_9fd09c44-c46a-45b9-a7b9-da6f115989c0/Objects/Database/ShapeSets/grammophones.json": [
 			"7393d152-273d-41ca-b3b2-16760eeced4a",
+			"565dd123-e34c-4fc3-a13f-543804259876",
 			"7383fa92-d894-492e-a007-e28180f63826",
 			"dc7dc9b6-d19c-4067-939a-233502d9b89a"
 		],
