@@ -7136,12 +7136,12 @@
 		"version": 0
 	},
 	"57b5a5a3-113a-495f-8423-c2bfa58d8e46": {
-		"description": "You can destroy the Encryptors with explosives so that you can then collect the blocks from inside the warehouse.",
+		"description": "You can destroy the Encryptors with explosives so that you can then collect the blocks from inside the warehouse.\r\n\r\n[h1] To install : [/h1]\r\n- First of all, to avoid problems caused by old mods that you have installed, it is strongly recommended to check the integrity of the files by right clicking on your game in the steam library, then clicking on \"Properties \">\" Local files \">\" Check file integrity \"\r\n- Go to \"C: \\ Program Files (x86) \\ Steam \\ steamapps \\ workshop \\ content \\ 387990\" it is generally present on the OS disk (C :), if it is not there, you have it 'have surely installed in another storage drive\r\n- Right-click in an empty place in the folder and click on \"Sort by> Modified on\" do the same and click on \"Sort by> Descending order\" there should be a folder called \"2355843366\"\r\n- Go to the \"Scrap Mechanic\" folder and copy the \"Survival\" folder then paste them into the \"Steam\\steamapps\\common\\Scrap Mechanic\" folder (go back 5 pages in the folder and you will see the \"common\" folder) and click replace. You have finished the installation!",
 		"fileId": 2355843366,
 		"localId": "57b5a5a3-113a-495f-8423-c2bfa58d8e46",
 		"name": "Destructible Encryptor",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"59b014a0-f995-4569-a688-17a210e57ef4": {
 		"description": "This mod doesn't have a description",
