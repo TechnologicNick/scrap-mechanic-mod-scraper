@@ -29814,7 +29814,7 @@
 	"334555ea-5a9c-4167-9cf1-632dd134a932": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "Take control of any NPC with this mod!\r\n\r\nSimply interact with the NPC to attach to its controls and you get full control over its movement, attacks, weapons, etc.!\r\n\r\nWorks on Totebots, Haybots, Tapebots, Red Tapebots, Farmbots, Wocs and Glow Worms.\r\n\r\n[b]Also works in multiplayer![/b]\r\n\r\n\r\n[b]Notes:[/b]\r\n- [b]The mod does NOT appear in the inventory - This is normal!\r\nThe mod works immediately after enabling it![/b]\r\n- Some animations may look a bit weird, that's normal because the bots weren't meant to be controlled by a player. This has no effect on the functionality of the mod.",
 		"fileId": 2969977254,
 		"localId": "334555ea-5a9c-4167-9cf1-632dd134a932",
 		"name": "NPC Control",
