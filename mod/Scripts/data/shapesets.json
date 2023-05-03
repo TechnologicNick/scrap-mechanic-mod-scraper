@@ -59386,7 +59386,10 @@
 			"ad8694b8-628f-42f4-a716-cf106810c833",
 			"3a3280e4-03b6-4a4d-9e02-e348478213c9",
 			"4ef6ed66-dbc5-40fd-90b1-ac136c1c8873",
-			"0dcc4ecc-f733-462b-94e4-7579c8a49701"
+			"0dcc4ecc-f733-462b-94e4-7579c8a49701",
+			"44a4b1e7-a09a-43c8-965e-7603a5e623df",
+			"7cec3d95-4f29-4dbc-a1d7-83f50baddcd9",
+			"83203dbc-6259-46c9-87bd-df52f47ec6d5"
 		]
 	},
 	"1561718d-39d2-4b09-985c-d762f64f8733": {
@@ -67705,6 +67708,24 @@
 	"09750133-9df9-49f3-9cf5-447c2b263dc4": {
 		"$CONTENT_09750133-9df9-49f3-9cf5-447c2b263dc4/Objects/Database/ShapeSets/example.shapeset": [
 			"01a1f53d-acd2-4f45-adf5-b6f8de54eb04"
+		]
+	},
+	"34b996de-f0ee-4e5a-81b3-33061da4374d": {
+		"$CONTENT_34b996de-f0ee-4e5a-81b3-33061da4374d/Objects/Database/ShapeSets/hideout_trader.shapeset": [
+			"614c3193-13da-40f4-9b03-37f26e760fd6"
+		],
+		"$CONTENT_34b996de-f0ee-4e5a-81b3-33061da4374d/Objects/Database/ShapeSets/craftbot.shapeset": [
+			"b63c6440-dfc2-4da7-acdb-3c385080b2e4",
+			"b7571f6f-9d53-44ba-99d2-3b4f05e6fd0f",
+			"1c83675f-7c77-4cbb-875b-79d4bd46100d",
+			"c69a7855-d915-4784-af81-d0a8849e458f",
+			"4fcb4cb8-7623-11ea-bc55-0242ac130003"
+		],
+		"$CONTENT_34b996de-f0ee-4e5a-81b3-33061da4374d/Objects/Database/ShapeSets/workbench.shapeset": [
+			"2ff2b13f-5a50-443c-bbda-1f40f6aa917f"
+		],
+		"$CONTENT_34b996de-f0ee-4e5a-81b3-33061da4374d/Objects/Database/ShapeSets/dispenserbot.shapeset": [
+			"ebd73cee-988f-4ffb-95d1-d3c3c81fd506"
 		]
 	}
 }

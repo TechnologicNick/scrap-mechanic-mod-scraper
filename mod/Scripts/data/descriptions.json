@@ -28179,7 +28179,7 @@
 	"524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "MisuMod - Survival (Custom)\n\nNOTE: You need to start NewGame (SORRY)\n\nHotfix: DMG\n\nv1.1:\nNew: Shop/HelpBook Sounds\nHygine (You need water to clean up)\nStartingMoney: 500 monies\n\nv1.0:\nCleanup Console and janky scripts.\n\nv.955:\nMisuhammer Block (might need more work)\nBot spawn rate increased by 100%\nLowered Shop prices.\n\nv.954:\nyou can buy SP from shop now (10000monies = 10SP)\nadded GlueFarmer (you may need batteries)\nfixed Haybot colors..\nfixed WaterCannon dmg\n\nv.953:\nScript Cleanup and changed MisuChemical Weapon name to Misu WaterCannon.\n\nv.952:\nAdded: MisuMod HelpBook : Gameplay tab\n\nv.951:\nChanged MoneyBonus to 1 (for some gameplay)\n\nv.95:\nRed Haybot\nWhite Haybot\nMisuMod HelpBook\nNew Shop (R)\n\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n\nBOTS:\nBlack Farmbot\nPink Farmbot\nBlue Haybot\nPink Totebot\nBlue Totebot\nYellow Totebot\nRed Totebot\nWhite Tapebot\nPink Woc\nWhite Worm\nRed Haybot\nWhite Haybot\n\nWEAPONS:\nMisu Gatling\nMisu Spudgun\nMisu Hammer\nMisu WaterCannon: you can use it growing crops it also has fertilizer and water.Misu Jepack.\nMisu Grenade\n\nOBJ:\nBatteryRecharge\nCrudeOil Farmer\nWater Farmer\nChemical Farmer\nMisu Beacon\nMisuMod HelpBook\nCraftbot recepies: SuperSunshake and few more\n\nyou can buy all my items for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :) \n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
+		"description": "MisuMod - Survival (Custom)\n\nv1.2:\nNew: Shop 15SP Collection Range with ResourceContainer / RefinerySpeed with Refinery. Max (level) is 6.\nNametags for every bot.\nTrashcan for unwanted items!\nBattery/Water Farmer new mesh!\nSunshake Farmer (might need batteries :P)\nNew Bot White Farmbot, it will be hard!\n\nFIX: All Farmers inventory (NameTag)\n\nTODO:Max DamageBonus and Max armorBonus\n\nv1.1:\nNew: Shop/HelpBook Sounds\nHygine (You need water to clean up)\nStartingMoney: 500 monies\n\nv1.0:\nCleanup Console and janky scripts.\n\nv.955:\nMisuhammer Block (might need more work)\nBot spawn rate increased by 100%\nLowered Shop prices.\n\nv.954:\nyou can buy SP from shop now (10000monies = 10SP)\nadded GlueFarmer (you may need batteries)\nfixed Haybot colors..\nfixed WaterCannon dmg\n\nv.953:\nScript Cleanup and changed MisuChemical Weapon name to Misu WaterCannon.\n\nv.952:\nAdded: MisuMod HelpBook : Gameplay tab\n\nv.951:\nChanged MoneyBonus to 1 (for some gameplay)\n\nv.95:\nRed Haybot\nWhite Haybot\nMisuMod HelpBook\nNew Shop (R)\n\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n\nBOTS:\nBlack Farmbot\nPink Farmbot\nBlue Haybot\nPink Totebot\nBlue Totebot\nYellow Totebot\nRed Totebot\nWhite Tapebot\nPink Woc\nWhite Worm\nRed Haybot\nWhite Haybot\n\nWEAPONS:\nMisu Gatling\nMisu Spudgun\nMisu Hammer\nMisu WaterCannon: you can use it growing crops it also has fertilizer and water.Misu Jepack.\nMisu Grenade\n\nOBJ:\nBatteryRecharge\nCrudeOil Farmer\nWater Farmer\nChemical Farmer\nMisu Beacon\nMisuMod HelpBook\nCraftbot recepies: SuperSunshake and few more\n\nyou can buy all my items for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :) \n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
 		"fileId": 2920382717,
 		"localId": "524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf",
 		"name": "MisuMod - Survival (Custom)",
@@ -29830,5 +29830,22 @@
 		"name": "Mixed Fights Stuff",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"34b996de-f0ee-4e5a-81b3-33061da4374d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
+				"name": "ModDatabase"
+			}
+		],
+		"description": "Better survival",
+		"fileId": 2970452054,
+		"localId": "34b996de-f0ee-4e5a-81b3-33061da4374d",
+		"name": "Better survival",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
