@@ -29847,5 +29847,15 @@
 		"name": "Better survival",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"6defd250-22f3-4731-9b22-377666398a6b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Logic Driven Explosives that create an explosion when recieving an \"on\" signal. They can be used for engines, rockets, pyrotechnics, and for competitive vehicle games due to their instantaneous explosion >:)\n\nThere are three varieties: \"typical,\" \"lethal,\" and \"safe.\" Lethal is just as strong as the typical explosion, while safe only destroys blocks like cardboard. Typical explosives do destroy themselves, which is just so... typical of them.\n\nThe smaller versions use the same model as the bigger ones, so they look a bit too big. I'll look into making a custom model that makes them 1x1x1, like their colliding dimensions.\n\nThis is my first mod, I hope it brings an element of fun into your game. I suggest turning off Camera Shake if you connect one of these to a loop... things get a bit chaotic ;)",
+		"fileId": 2970563507,
+		"localId": "6defd250-22f3-4731-9b22-377666398a6b",
+		"name": "Logic Explosive",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

@@ -67727,5 +67727,15 @@
 		"$CONTENT_34b996de-f0ee-4e5a-81b3-33061da4374d/Objects/Database/ShapeSets/dispenserbot.shapeset": [
 			"ebd73cee-988f-4ffb-95d1-d3c3c81fd506"
 		]
+	},
+	"6defd250-22f3-4731-9b22-377666398a6b": {
+		"$CONTENT_6defd250-22f3-4731-9b22-377666398a6b/Objects/Database/ShapeSets/explosives.json": [
+			"79ae85fe-e5b3-4a48-bd3a-97e2f8fd8d17",
+			"79ae85fe-e5b3-4a48-bd3a-97e2f8fd8d13",
+			"79ae85fe-e5b3-4a48-bd3a-97e2f8fd8d14",
+			"79ae85fe-e5b3-4a48-bd3a-97e2f8fd8d15",
+			"79ae85fe-e5b3-4a48-bd3a-97e2f8fd8d16",
+			"79ae85fe-e5b3-4a48-bd3a-97e2f8fd8d18"
+		]
 	}
 }
