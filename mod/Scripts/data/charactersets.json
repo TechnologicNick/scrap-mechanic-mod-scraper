@@ -645,10 +645,15 @@
 		"$CONTENT_66eb3461-1e15-4113-a44a-2470387f8db0/Characters/Database/CharacterSets/example.characterset": []
 	},
 	"912b34b3-c727-480e-b331-e091e4a993b4": {
-		"$CONTENT_912b34b3-c727-480e-b331-e091e4a993b4/Characters/Database/CharacterSets/example.characterset": []
+		"$CONTENT_912b34b3-c727-480e-b331-e091e4a993b4/Characters/Database/CharacterSets/example.characterset": [
+			"57e0dbf8-bfa5-4d72-8afc-84f6f0aad9ad"
+		]
 	},
 	"7e9f0513-f6bf-4c40-b486-8b95e8389637": {
 		"$CONTENT_7e9f0513-f6bf-4c40-b486-8b95e8389637/Characters/Database/CharacterSets/example.characterset": []
 	},
-	"34b996de-f0ee-4e5a-81b3-33061da4374d": {}
+	"34b996de-f0ee-4e5a-81b3-33061da4374d": {},
+	"137cdbf7-6312-42c3-b2e5-f3e24f8e3faa": {
+		"$CONTENT_137cdbf7-6312-42c3-b2e5-f3e24f8e3faa/Characters/Database/CharacterSets/example.characterset": []
+	}
 }

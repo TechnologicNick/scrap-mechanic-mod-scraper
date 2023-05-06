@@ -506,5 +506,12 @@
 	"7e9f0513-f6bf-4c40-b486-8b95e8389637": {
 		"$CONTENT_7e9f0513-f6bf-4c40-b486-8b95e8389637/ScriptableObjects/ScriptableObjectSets/example.sobset": []
 	},
-	"34b996de-f0ee-4e5a-81b3-33061da4374d": {}
+	"34b996de-f0ee-4e5a-81b3-33061da4374d": {},
+	"137cdbf7-6312-42c3-b2e5-f3e24f8e3faa": {
+		"$CONTENT_137cdbf7-6312-42c3-b2e5-f3e24f8e3faa/ScriptableObjects/ScriptableObjectSets/sob_quests.sobset": [
+			"8be0279e-28b6-4aab-b620-586f50162c6e",
+			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
+			"009fe136-aeee-45c4-9135-006b786cfc59"
+		]
+	}
 }

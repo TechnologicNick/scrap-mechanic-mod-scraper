@@ -3313,5 +3313,11 @@
 	},
 	"09750133-9df9-49f3-9cf5-447c2b263dc4": {},
 	"34b996de-f0ee-4e5a-81b3-33061da4374d": {},
-	"6defd250-22f3-4731-9b22-377666398a6b": {}
+	"6defd250-22f3-4731-9b22-377666398a6b": {},
+	"137cdbf7-6312-42c3-b2e5-f3e24f8e3faa": {
+		"$CONTENT_137cdbf7-6312-42c3-b2e5-f3e24f8e3faa/Tools/Database/ToolSets/example.toolset": [
+			"5935cf84-ed91-11ec-8ea0-0242ac120002",
+			"a22ed440-f3bf-11ec-b939-0242ac120002"
+		]
+	}
 }

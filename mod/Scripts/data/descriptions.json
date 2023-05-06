@@ -28179,7 +28179,7 @@
 	"524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "MisuMod - Survival (Custom)\n\nv1.2:\nNew: Shop 15SP Collection Range with ResourceContainer / RefinerySpeed with Refinery. Max (level) is 6.\nNametags for every bot.\nTrashcan for unwanted items!\nBattery/Water Farmer new mesh!\nSunshake Farmer (might need batteries :P)\nNew Bot White Farmbot, it will be hard!\n\nFIX: All Farmers inventory (NameTag)\n\nTODO:Max DamageBonus and Max armorBonus\n\nv1.1:\nNew: Shop/HelpBook Sounds\nHygine (You need water to clean up)\nStartingMoney: 500 monies\n\nv1.0:\nCleanup Console and janky scripts.\n\nv.955:\nMisuhammer Block (might need more work)\nBot spawn rate increased by 100%\nLowered Shop prices.\n\nv.954:\nyou can buy SP from shop now (10000monies = 10SP)\nadded GlueFarmer (you may need batteries)\nfixed Haybot colors..\nfixed WaterCannon dmg\n\nv.953:\nScript Cleanup and changed MisuChemical Weapon name to Misu WaterCannon.\n\nv.952:\nAdded: MisuMod HelpBook : Gameplay tab\n\nv.951:\nChanged MoneyBonus to 1 (for some gameplay)\n\nv.95:\nRed Haybot\nWhite Haybot\nMisuMod HelpBook\nNew Shop (R)\n\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n\nBOTS:\nBlack Farmbot\nPink Farmbot\nBlue Haybot\nPink Totebot\nBlue Totebot\nYellow Totebot\nRed Totebot\nWhite Tapebot\nPink Woc\nWhite Worm\nRed Haybot\nWhite Haybot\n\nWEAPONS:\nMisu Gatling\nMisu Spudgun\nMisu Hammer\nMisu WaterCannon: you can use it growing crops it also has fertilizer and water.Misu Jepack.\nMisu Grenade\n\nOBJ:\nBatteryRecharge\nCrudeOil Farmer\nWater Farmer\nChemical Farmer\nMisu Beacon\nMisuMod HelpBook\nCraftbot recepies: SuperSunshake and few more\n\nyou can buy all my items for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :) \n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
+		"description": "MisuMod - Survival (Custom)\n\nCOMING SOON:  /newworld \"seed\" aka / newworld 69420\n\nv1.3:\n\nYOU NEED NEW GAME (sorry)\n\nNew:\nShop 15SP Collection Range with ResourceContainer / RefinerySpeed with Refinery. Max (level) is 6\nNametags for every bot.\nTrashcan for unwanted items!\nBattery/Water Farmer new mesh!\nSunshake Farmer (might need batteries :P)\nNew Bot White Farmbot, it will be hard!\nEnergy added you need to sleep or just drink Sunshakes :)\nLimit for CollectionRange = 5 / RefinerySpeed = 5 / moneyMultiplier = 100 / damageBonus = 100 / armorBonus = 70\n\nv1.2:\nNew: Shop 15SP Collection Range with ResourceContainer / RefinerySpeed with Refinery. Max (level) is 6.\nNametags for every bot.\nTrashcan for unwanted items!\nBattery/Water Farmer new mesh!\nSunshake Farmer (might need batteries :P)\nNew Bot White Farmbot, it will be hard!\n\nFIX: All Farmers inventory (NameTag)\n\nTODO:Max DamageBonus and Max armorBonus\n\nSee Misu HelpBook 4 more info (toolbar 9)\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n\nBOTS:\nBlack Farmbot (medium)\nPink Farmbot (hard)\nWhite Farmbot (very hard)\nBlue Haybot\nPink Totebot\nBlue Totebot\nYellow Totebot\nRed Totebot\nWhite Tapebot\nPink Woc\nWhite Worm\nRed Haybot\nWhite Haybot\n\nWEAPONS:\nMisu Gatling\nMisu Spudgun\nMisu Hammer\nMisu WaterCannon: you can use it growing crops it also has fertilizer and water.\nMisu Jetpack\nMisu Grenade\n\nOBJ:\nBatteryRecharge\nCrudeOil Farmer\nWater Farmer\nChemical Farmer\nSunShake Farmer\nMisu Beacon\nMisuMod HelpBook\nCraftbot recepies: SuperSunshake and few more\n\nyou can buy all my items for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :) \n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
 		"fileId": 2920382717,
 		"localId": "524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf",
 		"name": "MisuMod - Survival (Custom)",
@@ -29504,10 +29504,10 @@
 	"7e9f0513-f6bf-4c40-b486-8b95e8389637": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "With this mod, you can now unlock a treasure trove of brand-new recipes for a vast array of building blocks that were previously unavailable for crafting in survival. \r\nWhether you're a master builder or just getting started, this mod will take your crafting skills to the next level and elevate your game to new heights!\r\n\r\nBut wait, there's more! Unlike other mods that seek to balance gameplay by introducing recipes for circuits or component kits, this mod keeps it simple and focuses solely on providing you with more blocks to create with. So, you can enjoy the freedom to build without any restrictions or limitations, unleashing your creativity to the fullest.\r\n\r\nI value your feedback, which is why we've left the door open for you to suggest your favorite blocks that are currently missing from the game. So, leave a comment and let me know what you'd like to see added to this mod!\r\n\r\nDownload it today and let your building dreams come to life!\r\n\r\nHope you enjoy building with the real wedges now ;)\r\n\r\nI may also try to make the stacks for some of the blocks bigger, so items that were not stackable before like big pipe pieces could be stacked like the other pipe pieces.\r\n\r\nI have implemented it for some of the blocks, feedback is welcome",
+		"description": "Features\n- More blocks for crafting inside the craftbot\n- Stack size increase for previously unstackable items\n\nWith this mod, you can now unlock a treasure trove of brand-new recipes for a vast array of building blocks that were previously unavailable for crafting in survival. \nWhether you're a master builder or just getting started, this mod will take your crafting skills to the next level and elevate your game to new heights!\n\nBut wait, there's more! Unlike other mods that seek to balance gameplay by introducing recipes for circuits or component kits, this mod keeps it simple and focuses solely on providing you with more blocks to create with. So, you can enjoy the freedom to build without any restrictions or limitations, unleashing your creativity to the fullest.\n\nI value your feedback, which is why we've left the door open for you to suggest your favorite blocks that are currently missing from the game. So, leave a comment and let me know what you'd like to see added to this mod!\n\nDownload it today and let your building dreams come to life!\n\nHope you enjoy building with the real wedges now ;)\n\nI may also try to make the stacks for some of the blocks bigger, so items that were not stackable before like big pipe pieces could be stacked like the other pipe pieces.\n\nChanged some recipies for balencing (Tubes)\nAdded Circuit recipie out of 5 Totebot heads (to get rid of them)\n\nI have implemented it for some of the blocks, feedback is welcome",
 		"fileId": 2962100346,
 		"localId": "7e9f0513-f6bf-4c40-b486-8b95e8389637",
-		"name": "Craftbot Plus",
+		"name": "Craftbot Plus Inventory Improvements",
 		"type": "Custom Game",
 		"version": 0
 	},
@@ -29857,5 +29857,22 @@
 		"name": "Logic Explosive",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"137cdbf7-6312-42c3-b2e5-f3e24f8e3faa": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
+				"name": "ModDatabase"
+			}
+		],
+		"description": "This is a fork of Lemon Survival that adds craftbot modded recipies support",
+		"fileId": 2971680042,
+		"localId": "137cdbf7-6312-42c3-b2e5-f3e24f8e3faa",
+		"name": "Orange survival (Fork of Lemon survival)",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
