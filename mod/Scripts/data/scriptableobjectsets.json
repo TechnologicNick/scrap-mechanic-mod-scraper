@@ -513,5 +513,8 @@
 			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
 			"009fe136-aeee-45c4-9135-006b786cfc59"
 		]
+	},
+	"d11cd216-1104-4c83-ad37-98378a1b544e": {
+		"$CONTENT_d11cd216-1104-4c83-ad37-98378a1b544e/ScriptableObjects/ScriptableObjectSets/example.sobset": []
 	}
 }

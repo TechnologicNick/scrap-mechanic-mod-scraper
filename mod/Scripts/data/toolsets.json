@@ -3320,5 +3320,8 @@
 			"a22ed440-f3bf-11ec-b939-0242ac120002"
 		]
 	},
-	"c91ccb3b-0abb-4b84-887d-047399aa128d": {}
+	"c91ccb3b-0abb-4b84-887d-047399aa128d": {},
+	"d11cd216-1104-4c83-ad37-98378a1b544e": {
+		"$CONTENT_d11cd216-1104-4c83-ad37-98378a1b544e/Tools/Database/ToolSets/example.toolset": []
+	}
 }
