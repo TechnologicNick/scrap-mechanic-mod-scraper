@@ -29868,11 +29868,21 @@
 				"name": "ModDatabase"
 			}
 		],
-		"description": "This is a fork of Lemon Survival that adds craftbot modded recipies support",
+		"description": "This is a fork of Lemon Survival",
 		"fileId": 2971680042,
 		"localId": "137cdbf7-6312-42c3-b2e5-f3e24f8e3faa",
 		"name": "Orange survival (Fork of Lemon survival)",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"c91ccb3b-0abb-4b84-887d-047399aa128d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2972702966,
+		"localId": "c91ccb3b-0abb-4b84-887d-047399aa128d",
+		"name": "New bus seats and fabrics seat addon vol-2",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
