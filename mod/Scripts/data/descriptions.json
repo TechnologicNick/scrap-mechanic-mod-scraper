@@ -29921,5 +29921,15 @@
 		"name": "blI",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"51ee9a4c-967b-46f5-b1b4-333ed02a1831": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds 9 Packing Crates to creative mode that were previously only available in survival mode.\r\n\r\nIncluded Parts:\r\n- Banana Crate\r\n- Blueberry Crate\r\n- Broccoli Crate\r\n- Orange Crate\r\n- Pineapple Crate\r\n- Carrot Crate\r\n- Redbeet Crate\r\n- Tomato Crate\r\n- WOC Crate (moo)\r\n\r\nThis mod will not recieve updates to add new content.",
+		"fileId": 2973487498,
+		"localId": "51ee9a4c-967b-46f5-b1b4-333ed02a1831",
+		"name": "Packing Crates in Creative",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
