@@ -3323,5 +3323,11 @@
 	"c91ccb3b-0abb-4b84-887d-047399aa128d": {},
 	"d11cd216-1104-4c83-ad37-98378a1b544e": {
 		"$CONTENT_d11cd216-1104-4c83-ad37-98378a1b544e/Tools/Database/ToolSets/example.toolset": []
+	},
+	"3cbecd83-23c1-48f1-a9e1-5ea064068b9a": {},
+	"e52533c5-8076-4bda-82bf-336df526690b": {
+		"$CONTENT_e52533c5-8076-4bda-82bf-336df526690b/Tools/Database/ToolSets/thetools.toolset": [
+			"0a9a0694-e5ca-4795-a92a-ebef23275117"
+		]
 	}
 }
