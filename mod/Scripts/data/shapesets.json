@@ -68129,5 +68129,12 @@
 			"1dcd74ca-39ba-4b00-a36a-3381b25055f4",
 			"deabb19a-1acd-4bbf-8bd2-f8f17410170b"
 		]
+	},
+	"ce9b5b4a-04b6-4e7a-9dd0-23bbcdc99114": {
+		"$CONTENT_ce9b5b4a-04b6-4e7a-9dd0-23bbcdc99114/Objects/Database/ShapeSets/parts.json": [
+			"ecf5d392-d9c6-40d4-83a5-020471d261e9",
+			"9823f470-33a4-41d3-a4a8-01fda5126455",
+			"57f24d21-291f-43ae-930a-68c6547bdd86"
+		]
 	}
 }
