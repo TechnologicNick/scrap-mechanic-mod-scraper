@@ -29959,5 +29959,15 @@
 		"name": "Hytech",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"bffb8343-5a9f-4098-baed-292c0b1a1474": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "E",
+		"fileId": 2974481764,
+		"localId": "bffb8343-5a9f-4098-baed-292c0b1a1474",
+		"name": "test",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

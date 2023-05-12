@@ -3195,6 +3195,7 @@
 		"$CONTENT_3aeb81c2-71b9-45a1-9479-1f48f1e8ff21/Tools/Database/ToolSets/thetools.toolset": [
 			"3bfcfb4c-100d-425d-8bb6-b710ea26cff0",
 			"7f3e227c-345a-4c28-8775-f6c011b80127",
+			"3aa0151f-a3d6-48b1-9a7e-2328aa1bfe36",
 			"178a9ec6-f5d9-4842-aa5b-5307f6822f46",
 			"9f4d34ef-61c8-4cc6-96bc-74aa1ce002ed"
 		]
@@ -3409,5 +3410,6 @@
 		"$CONTENT_cc774b05-b3f8-4254-9729-e3e09fd9fe91/Tools/Database/ToolSets/2897133124-3756e54b25ca657f661c13fcd879c7f8/VacuumGun.toolset": [
 			"bcd62b41-db3a-46ba-80fb-ba1cf7475e1a"
 		]
-	}
+	},
+	"bffb8343-5a9f-4098-baed-292c0b1a1474": {}
 }
