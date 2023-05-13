@@ -9980,12 +9980,14 @@
 		"version": 0
 	},
 	"705fdcda-506f-42c3-920a-6301bb950e9f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
 		"description": "Vadam's Creative Tweaks contains :\n- ALL survival parts\n- Tapeguns, Pesticide Gun, Glow Gun.\n- Running Encryptor, Protector\n\nFor the next updates :\n- Memory Gate\n- All bots parts with (with their heads making noise)\n- Running cookbot\n\nLike the mods?\nDon't forget to leave a thumbs up ! ;D\n\nLanguage Support:\n- English: Default\n- French: Maybe Later...",
 		"fileId": 2468268139,
 		"localId": "705fdcda-506f-42c3-920a-6301bb950e9f",
 		"name": "Vadam's Creative Tweaks",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"add3950a-ec50-4607-aaa9-8305144c4c41": {
 		"description": "Yet another World Cleaner mod!\n\nThis Is an extended version of World Cleaner³ by huetobi which itself is copied from World Cleaner ² by Lagerhaus 23 which was copied from Bombs. A Lot Of Bombs. by TheMineTrooper.\n\nI added the green World Cleaner which removes every part that is NOT loose.\n\nRed: Deletes everything.\n\nBlue: Deletes only the block types present in the creation it is attached to.\n\nYellow: Deletes everything that isn't attached to the floor or lift.\n\nGreen: Deletes everything that IS attached somewhere.",
@@ -28179,7 +28181,7 @@
 	"524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "MisuMod - Survival (Custom)\n\nCOMING SOON:\n/newworld \"seed\" aka / newworld 69420\nFIX for Hammer Block\n\nv1.4:\nEveryFarmer addon Mesh\nMisuTruck (/import MisuTruck) or (/import cheat_MisuTruck)\nRestedBuff (2x damageBonus) for 10mins\n\nSee Misu HelpBook 4 more info (toolbar 9)\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n\nBOTS:\nBlack Farmbot (medium)\nPink Farmbot (hard)\nWhite Farmbot (very hard)\nBlue Haybot\nPink Totebot\nBlue Totebot\nYellow Totebot\nRed Totebot\nWhite Tapebot\nPink Woc\nWhite Worm\nRed Haybot\nWhite Haybot\n\nWEAPONS:\nMisu Gatling\nMisu Spudgun\nMisu Hammer\nMisu WaterCannon: you can use it growing crops it also has fertilizer and water.\nMisu Jetpack\nMisu Grenade\n\nOBJ:\nBatteryRecharge\nCrudeOil Farmer\nWater Farmer\nChemical Farmer\nSunShake Farmer\nMisu Beacon\nMisuMod HelpBook\nCraftbot recepies: SuperSunshake and few more\n\nyou can buy all my items for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :)\n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
+		"description": "MisuMod - Survival (Custom)\n\nCOMING SOON:\n/newworld \"seed\" aka / newworld 69420\nFIX for Hammer Block\nAgain Rework shop (R)\nRandom potion effect removed from bots and added to onHit\n\nv1.5:\nMisu Hammer can break any Stone/Tree\ner( Will add Monies/SP to them later. )\nFew bug fixes and code clean.\n\nPS...\nIf you play and want to help me.\nEnable -dev on your steam (Rightclick on SM, select Properties and then add -dev to Launch Options)\n\nSee Misu HelpBook 4 more info (toolbar 9)\nCommands!!\n/gmc = creative mode\n/gms = survival mode\n\nBOTS:\nBlack Farmbot (medium)\nPink Farmbot (hard)\nWhite Farmbot (very hard)\nBlue Haybot\nPink Totebot\nBlue Totebot\nYellow Totebot\nRed Totebot\nWhite Tapebot\nPink Woc\nWhite Worm\nRed Haybot\nWhite Haybot\n\nWEAPONS:\nMisu Gatling\nMisu Spudgun\nMisu Hammer\nMisu WaterCannon: you can use it growing crops it also has fertilizer and water.\nMisu Jetpack\nMisu Grenade\n\nOBJ:\nBatteryRecharge\nCrudeOil Farmer\nWater Farmer\nChemical Farmer\nSunShake Farmer\nMisu Beacon\nMisuMod HelpBook\nCraftbot recepies: SuperSunshake and few more\n\nyou can buy all my items for money you get killing bots see (R) menu :)\n\nknowbug: if you drop my made guns/tools its invinsible ((i need help with that))\n\nI need more people for testing this CO-OP/SP mod :)\n\nAny bugs / suggestions leave them at https://discord.com/channels/317761694820597\n\nDonate?\nhttps://streamlabs.com/misukins/tip",
 		"fileId": 2920382717,
 		"localId": "524cf9f9-8c9a-4b9c-8be3-862d0ecd8ccf",
 		"name": "MisuMod - Survival (Custom)",
