@@ -14983,14 +14983,8 @@
 	"e3d52333-57a7-4289-b737-ade78347cd12": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2504530003,
-				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
-				"name": "ModDatabase"
-			}
-		],
-		"description": "A mod with resource boosted & cost reduced\n( in progress )\nThanks for 5300 subb let's goo\n____________________________________________\nmod info:\n-260 inventory slots\n-mob loot boosted\n-grow speed boosted\n-stack boosted ( not everywhere at this time sorry)\n-refine speed boosted\n-chest slots boosted\n-wood-stone-metal container slot boosted to 100 slots\n-max hp 200\n-lower consumption of water and food\n-lot more oxygen\n-lower consumption of gas in gas engine\n-vacum super fast ( it's really fast, like 40Item/s )\n-CRAFTABLE COMPONENTS YAY\n-added the staircase wedge and the concave wedge in craft bot\n-low gas consumption\n-totebot head can be used to craft conpoments kits\n-Traider need less for more and op traids\n-And more!\n\nfor the future:\n-your ideas\n\nISSUES:\n\n-Item Overstacks incompatibility! :\nIf you are using Less Cost survival gamemode with Overstacks block and parts, you may encounter problems with storage capacity in certains container...\n\n-BOTS WILL BREAK AFTER A MOD UPDATE.\n____________________________________________\n\nthank you all for sharing your feedback, I apologize for the bugs and issues\n\ntell me what you want me to add in the comment ;)",
+		"dependencies": null,
+		"description": "A mod with resource boosted & cost reduced\n( in progress )\nThanks for 5700 subb let's goo\n____________________________________________\n\nMod recipes removed ;(\n\nmod info:\n-260 inventory slots\n-mob loot boosted\n-grow speed boosted\n-stack boosted ( not everywhere at this time sorry)\n-refine speed boosted\n-chest slots boosted\n-wood-stone-metal container slot boosted to 100 slots\n-max hp 200\n-lower consumption of water and food\n-lot more oxygen\n-lower consumption of gas in gas engine\n-vacum super fast ( it's really fast, like 40Item/s )\n-CRAFTABLE COMPONENTS YAY\n-added the staircase wedge and the concave wedge in craft bot\n-low gas consumption\n-totebot head can be used to craft conpoments kits\n-Traider need less for more and op traids\n-And more!\n\nfor the future:\n-your ideas\n\nISSUES:\n\n-Item Overstacks incompatibility! :\nIf you are using Less Cost survival gamemode with Overstacks block and parts, you may encounter problems with storage capacity in certains container...\n\n-BOTS WILL BREAK AFTER A MOD UPDATE.\n____________________________________________\n\nthank you all for sharing your feedback, I apologize for the bugs and issues\n\ntell me what you want me to add in the comment ;)",
 		"fileId": 2816326647,
 		"localId": "e3d52333-57a7-4289-b737-ade78347cd12",
 		"name": "Survival Less Cost",
@@ -29989,6 +29983,16 @@
 		"fileId": 2974929183,
 		"localId": "a4543f37-b41b-49bf-8f0e-e9d87b9b87ee",
 		"name": "uwu mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1d7d5824-ae66-44e3-8236-dedb19aec0b2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2975251750,
+		"localId": "1d7d5824-ae66-44e3-8236-dedb19aec0b2",
+		"name": "X-Ray Sidor",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
