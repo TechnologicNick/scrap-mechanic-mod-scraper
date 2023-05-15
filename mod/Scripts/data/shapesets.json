@@ -71100,5 +71100,16 @@
 		"$CONTENT_1d7d5824-ae66-44e3-8236-dedb19aec0b2/Objects/Database/ShapeSets/example.shapeset": [
 			"e19566ff-6ca0-4621-9b50-ef7b763c60b2"
 		]
+	},
+	"70ec7518-49ed-4c05-bf70-1e6f6fa9930e": {
+		"$CONTENT_70ec7518-49ed-4c05-bf70-1e6f6fa9930e/Objects/Database/ShapeSets/interactive.json": [
+			"d5e36413-b3c1-4636-8447-3410c352ec7b",
+			"6546c293-a5aa-4442-80d5-a2819f077746",
+			"5e96037a-a338-490a-a76f-6b4d820f8e46",
+			"12862001-666c-4bdd-8326-a1f43610d28b"
+		]
+	},
+	"733429f4-bf71-4884-884c-737f179d2bbf": {
+		"$CONTENT_733429f4-bf71-4884-884c-737f179d2bbf/Objects/Database/ShapeSets/example.shapeset": []
 	}
 }
