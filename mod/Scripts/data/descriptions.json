@@ -30026,5 +30026,25 @@
 		"name": "Modpack survival",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"4a14c9d8-5819-4ab8-b4a2-e3fd57b9a181": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "choose the skin from the choices and replace the curret files and there you go!",
+		"fileId": 2976553109,
+		"localId": "4a14c9d8-5819-4ab8-b4a2-e3fd57b9a181",
+		"name": "lift skins",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"630b3c35-59b4-4094-a4fb-2c2b333f0a55": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "",
+		"fileId": 2976697730,
+		"localId": "630b3c35-59b4-4094-a4fb-2c2b333f0a55",
+		"name": "Military Outfit Mod",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
