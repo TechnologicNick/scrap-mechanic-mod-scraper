@@ -30046,5 +30046,16 @@
 		"name": "Military Outfit Mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"8102006f-e5db-4407-bb6e-860468e0d84e": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "choose the skin from the choices and replace the curret files and there you go!",
+		"fileId": 2976922846,
+		"localId": "8102006f-e5db-4407-bb6e-860468e0d84e",
+		"name": "Lift skins (Working Now)",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

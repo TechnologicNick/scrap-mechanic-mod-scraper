@@ -66745,7 +66745,12 @@
 			"888f1dda-34f8-4cda-bad4-c88d9b08a12c",
 			"93b54463-73df-413b-89dd-5dbca5dddecc",
 			"0744589b-4527-40f4-a451-9f50125e181a",
-			"3b769680-2e76-4f38-ba76-e09191601751"
+			"3b769680-2e76-4f38-ba76-e09191601751",
+			"88a434cf-7521-428c-b2ee-56148e8d8abd",
+			"27fc21be-268e-4583-93f6-a3ebc761425b",
+			"e6d1f59e-2231-4a44-b506-8ca4639fd236",
+			"97705926-5dd5-4a0a-848a-ba65b9d18f2e",
+			"5ff86ebc-ca18-4485-88b7-2088970123ef"
 		],
 		"$CONTENT_912b34b3-c727-480e-b331-e091e4a993b4/Objects/Database/ShapeSets/lights.json": [
 			"ed27f5e2-cac5-4a32-a5d9-49f116acc6af",
@@ -66809,7 +66814,7 @@
 			"763fd838-7ed5-420e-8984-c2ae86da1e5c",
 			"7a0e9041-9dd5-4cb1-b804-69ee16c45efe",
 			"50007ac9-e97d-4b32-9fd6-de919c8a34a4",
-			"bf7e5ff1-0885-43e7-a71d-2a1f3e3a6cd7"
+			"5ff86ebc-ca18-4485-88b7-2088970123ef"
 		],
 		"$CONTENT_912b34b3-c727-480e-b331-e091e4a993b4/Objects/Database/ShapeSets/spaceship.json": [
 			"1a82f776-5989-4471-b09d-0c3f65012fb3",
@@ -71123,5 +71128,8 @@
 		"$CONTENT_d6c7c53e-9044-4b5d-88a0-877c00e5a9d2/Objects/Database/ShapeSets/example.shapeset": []
 	},
 	"4a14c9d8-5819-4ab8-b4a2-e3fd57b9a181": {},
-	"630b3c35-59b4-4094-a4fb-2c2b333f0a55": {}
+	"630b3c35-59b4-4094-a4fb-2c2b333f0a55": {},
+	"8102006f-e5db-4407-bb6e-860468e0d84e": {
+		"$CONTENT_8102006f-e5db-4407-bb6e-860468e0d84e/Objects/Database/ShapeSets/example.shapeset": []
+	}
 }
