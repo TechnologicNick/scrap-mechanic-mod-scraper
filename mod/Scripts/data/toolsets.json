@@ -3423,5 +3423,10 @@
 	},
 	"4a14c9d8-5819-4ab8-b4a2-e3fd57b9a181": {},
 	"630b3c35-59b4-4094-a4fb-2c2b333f0a55": {},
-	"8102006f-e5db-4407-bb6e-860468e0d84e": {}
+	"8102006f-e5db-4407-bb6e-860468e0d84e": {},
+	"8bb14a6d-58ab-4f6c-ab97-cd7ec50c4cec": {
+		"$CONTENT_8bb14a6d-58ab-4f6c-ab97-cd7ec50c4cec/Tools/Database/ToolSets/example.toolset": [
+			"c80a50ab-8f17-42a1-b9e0-631833e9acfd"
+		]
+	}
 }

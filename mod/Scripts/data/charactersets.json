@@ -687,5 +687,11 @@
 	},
 	"d6c7c53e-9044-4b5d-88a0-877c00e5a9d2": {
 		"$CONTENT_d6c7c53e-9044-4b5d-88a0-877c00e5a9d2/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"8bb14a6d-58ab-4f6c-ab97-cd7ec50c4cec": {
+		"$CONTENT_8bb14a6d-58ab-4f6c-ab97-cd7ec50c4cec/Characters/Database/CharacterSets/ISMod.characterset": [
+			"c8bfb8f3-7efc-49ac-875a-eb85ac0614db",
+			"264a563a-e304-430f-a462-9963c77624e9"
+		]
 	}
 }
