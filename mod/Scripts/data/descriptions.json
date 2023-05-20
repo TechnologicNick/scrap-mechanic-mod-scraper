@@ -30077,5 +30077,25 @@
 		"name": "Explosives",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"40dd37aa-247c-42a0-8769-a4060ad7e228": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Unlocks legacy parts and puts them in the inventory.",
+		"fileId": 2977889500,
+		"localId": "40dd37aa-247c-42a0-8769-a4060ad7e228",
+		"name": "Legacy Parts Unlocker",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d79a53af-704e-4d6a-a06c-ed2ab2a7482f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2977914961,
+		"localId": "d79a53af-704e-4d6a-a06c-ed2ab2a7482f",
+		"name": "Grabber",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
