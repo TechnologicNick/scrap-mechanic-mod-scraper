@@ -71651,5 +71651,10 @@
 			"05c81c17-3780-4edb-80a4-1648c25ca460",
 			"15ee8b4c-d58b-462f-a0a0-5c9bcdff495f"
 		]
+	},
+	"53e27668-4a10-42cc-8e45-13d2170c860e": {
+		"$CONTENT_53e27668-4a10-42cc-8e45-13d2170c860e/Objects/Database/ShapeSets/example.shapeset": [
+			"977371a3-5a67-43bc-8d38-368770ce4ac6"
+		]
 	}
 }

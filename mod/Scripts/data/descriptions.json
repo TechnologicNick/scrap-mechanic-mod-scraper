@@ -28755,13 +28755,6 @@
 	"88ec0c71-8b66-42e3-9bc2-491825df53ca": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2945713875,
-				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
-				"name": "ModDatabase v2"
-			}
-		],
 		"description": "[Eng]\nthis mod allows you to create auto piloted cars/aircraft\nthis mod can be guided in different ways and on different objects:\ntags,\nplayers,\ncan be guided to a specific position,\na block with a specific uuid (guidance on uuid has not yet been done),\ncan be guided to a building.\n\nthe fashion has a beautiful style, it does not lag, it is easy to understand it, the concise cartoon design of logic\nreturns to the past at the time of 0.3.5\n\n[Rus]\nэтот мод позваляет создавать автопилотируемые машины/летательные аппараты\nэтот мод может наводиться разными способами и на разные обьекты:\nметки,\nигроки,\nможет наводиться на конкретную позицию,\nблоком с конкретным uuid(наведения по uuid пока что не сделано),\nможет навадиться на постройку.\n\nу мода красивая стилистика, не лагает, в нем легко разобраться, лаконичный мультяшный дизаен логики\nвозврашает в прошлое во времена 0.3.5",
 		"fileId": 2936300656,
 		"localId": "88ec0c71-8b66-42e3-9bc2-491825df53ca",
@@ -28979,6 +28972,13 @@
 	"67da1616-d4e2-4e02-b7f4-6cd0c8b56a6e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2945713875,
+				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
+				"name": "ModDatabase v2"
+			}
+		],
 		"description": "[Eng]\ndear mechanics!\nthis is a mod that adds a lot of new decor to the game, which will diversify your gameplay\n\n[Rus]\nдорогие механики!\nэто мод добавляющий в игру много нового декора, который разнообразит ваш геймплей",
 		"fileId": 2957460006,
 		"localId": "67da1616-d4e2-4e02-b7f4-6cd0c8b56a6e",
@@ -28989,6 +28989,13 @@
 	"62d29f6c-e1e1-49d4-9b04-9bb9607a4d78": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2945713875,
+				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
+				"name": "ModDatabase v2"
+			}
+		],
 		"description": "[Eng]\nthe models were taken from the mod \"Entrance Doors Pack\" from the author \"ikey07\"\nhere the doors are script blocks, they can control the bearings themselves!\nand they can also be privatized so that only you can open them!\n\nthere are 3 private modes:\n  public,\n  private,\n  privatized (anyone can open, but only you can change the private mode).\n\n[Rus]\nмодели были взяты из мода \"Entrance Doors Pack\" от автора \"ikey07\"\nтут двери это скриптовые блоки, они могут сами управлять подшибниками!\nа еще их можно заприватить, чтобы только вы могли их открыть!\n\nимееться 3 режима привата:\n  публичный,\n  приватный,\n  приватизированый(кто угодно сможет открывать, но только вы сможете изменить режим привата).",
 		"fileId": 2943598723,
 		"localId": "62d29f6c-e1e1-49d4-9b04-9bb9607a4d78",
@@ -28999,6 +29006,13 @@
 	"78893dce-c61d-4621-9f7a-ce319b0d46be": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2945713875,
+				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
+				"name": "ModDatabase v2"
+			}
+		],
 		"description": "[Eng]\ndear mechanics!\nthis mod will allow you to emulate the behavior of the seat using logic\nyou will be able to turn the bearings as seats\n, you will also be able to emulate whether the character is sitting in the seats - this will allow you to control the motor brake\nas well, in addition, it can work as a WASD converter\nalso contains many interesting logic pieces that mechanics will like\n\n[Rus]\nдорогие механики!\nэтот мод позволит вам эмулировать поведения сиденья используя логику\nвы сможете поворачивать подшипники как сиденья\nтак же вы сможете эмулировать сидит ли персонаж в сидушки - это позволит вам управлять тормозом мотора\nтак же в дополнение, может работать как WASD конвертор\nтак же содержит много интересных логических штук, которые понрявяться механикам",
 		"fileId": 2943600019,
 		"localId": "78893dce-c61d-4621-9f7a-ce319b0d46be",
@@ -29009,6 +29023,13 @@
 	"bcfa2644-ae4a-4e8a-ac1b-e99939c3a95b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2945713875,
+				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
+				"name": "ModDatabase v2"
+			}
+		],
 		"description": "[Eng]\nthis mod allows you to privatize buildings\n[Rus]\nэтот мод позваляет приватить постройки",
 		"fileId": 2943621291,
 		"localId": "bcfa2644-ae4a-4e8a-ac1b-e99939c3a95b",
@@ -29373,6 +29394,13 @@
 	"6bc49594-9348-4970-871e-4b3fb98feb56": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2945713875,
+				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
+				"name": "ModDatabase v2"
+			}
+		],
 		"description": "[Eng]\na new mod that transfers details from Challenge mode to creative.\nthis mod contains new details from Challenge mode.\nthe detail scripts have been heavily adapted to the creative mode.\nremoved many limits and redesigned the behavior of many details.\nmany of the details that cannot work in creative mode have been redesigned as indicators.\nfor example, a bot spawner will not spawn a bot when entering the world,\nyou should do it yourself if necessary, since an autospawn is not always needed in the creative.\nalso, items that were not paintable in Challenge mode are now paintable.\n\n[Rus]\nновый мод переносящий детали из Challenge mode в креатив.\nданный мод содержит новые детали из Challenge mode.\nскрипты деталей были сильно адоптированы под режим креатива.\nубраны многие лимиты и переработано поведения многих деталей.\nмногие те детали что не могут работать в режиме креатива были переработаны как индикаторы.\nнапример спавнер ботов не спавнит бота при заходе в мир,\nвы должны сделать это сами если в этом есть необходимость, так как автоспавн не всегда нужен в креативе.\nтак же предметы которые в Challenge mode не красились, теперь красяться.",
 		"fileId": 2957640756,
 		"localId": "6bc49594-9348-4970-871e-4b3fb98feb56",
@@ -30095,6 +30123,16 @@
 		"fileId": 2977914961,
 		"localId": "d79a53af-704e-4d6a-a06c-ed2ab2a7482f",
 		"name": "Grabber",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"53e27668-4a10-42cc-8e45-13d2170c860e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Glowbug Engine",
+		"fileId": 2978317898,
+		"localId": "53e27668-4a10-42cc-8e45-13d2170c860e",
+		"name": "Glowbug Engine",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
