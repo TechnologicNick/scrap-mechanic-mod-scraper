@@ -276,12 +276,15 @@
 		"type": "Blocks and Parts"
 	},
 	"c280edec-0a0d-4421-9e94-0953b3da5fa8": {
+		"allow_add_mods": true,
 		"creatorId": "76561198152046046",
-		"description": " [h1][b]OFFICIAL [RED] MOD BY FR13NDS[/b][/h1]\n [IMG]http://i.imgur.com/EFERX9f.gif[/IMG]\n [b][u]Logs:[/u][/b] \n____________________________________________________\n[b]UPDATE[04.04.19]\n\nFULL COMPLETE MOD\n\nALL SUPPORT RUSSIAN AND ENGLISH.\n[/i][/b]\nSUPPORT RUSSIAN LANGUAGE +\nSUPPORT ENGLISH LANGUAGE +\n____________________________________________________\n\n[b]Hi this is my project and I want your support! \n[spoiler] Привет! это мой проект и я надеюсь на твою поддержку![/spoiler]\n\nMy mod add in game 100 parts\n[spoiler] Мой мод добавляет 100 разнообразных предметов [/spoiler]\n\ntags: [spoiler] 255 block's LK KATAROV 210+ block's FR13NDS [/spoiler]\n\nBlock's you can see in game)\n\nLATEST UPDATE CHECK IN \"Logs\" UP",
+		"custom_icons": false,
+		"description": " [h1][b]OFFICIAL [RED] MOD BY FR13NDS[/b][/h1]\r\n [IMG]http://i.imgur.com/EFERX9f.gif[/IMG]\r\n [b][u]Logs:[/u][/b] \r\n\r\nCloud / Клауд\r\n____________________________________________________\r\n[b]UPDATE[04.04.19]\r\n\r\nFULL COMPLETE MOD\r\n\r\nALL SUPPORT RUSSIAN AND ENGLISH.\r\n[/i][/b]\r\nSUPPORT RUSSIAN LANGUAGE +\r\nSUPPORT ENGLISH LANGUAGE +\r\n____________________________________________________\r\n\r\n[b]Hi this is my project and I want your support! \r\n[spoiler] Привет! это мой проект и я надеюсь на твою поддержку![/spoiler]\r\n\r\nMy mod add in game 100 parts\r\n[spoiler] Мой мод добавляет 100 разнообразных предметов [/spoiler]\r\n\r\ntags: [spoiler] 255 block's LK KATAROV 210+ block's FR13NDS [/spoiler]\r\n\r\nBlock's you can see in game)\r\n\r\nLATEST UPDATE CHECK IN \"Logs\" UP",
 		"fileId": 1101799350,
 		"localId": "c280edec-0a0d-4421-9e94-0953b3da5fa8",
 		"name": "[FR13] [RED] 100+ Block's",
-		"type": "Blocks and Parts"
+		"type": "Blocks and Parts",
+		"version": 1
 	},
 	"08da17ea-d790-4938-8b86-2f3d30a3004a": {
 		"creatorId": "76561198132112631",
@@ -805,13 +808,15 @@
 		"version": "0.0"
 	},
 	"eb21fabf-4357-4b34-b1bf-78ccbcaef818": {
+		"allow_add_mods": true,
 		"creatorId": "76561198152046046",
-		"description": " [h1][b]FR13NDS BESIEGE PACK[/b][/h1]\n\n [IMG]http://i.imgur.com/EFERX9f.gif[/IMG]\n [b][u]Logs:[/u][/b] \n____________________________________________________\n[b][i]START MOD[03.11.17]\n\nALL SUPPORT RUSSIAN AND ENGLISH.\n\n[/i][/b]\nSUPPORT RUSSIAN LANGUAGE +\nSUPPORT ENGLISH LANGUAGE +\n____________________________________________________\n\n[b]Hi this is my project and I want your support! \n[spoiler] Привет! это мой проект и я надеюсь на твою поддержку![/spoiler]\n\nMy mod add in game 60 parts\n[spoiler] Мой мод добавляет 60+ разнообразных предметов [/spoiler]\n\ntags: [spoiler] 255 block's LK KATAROV 210+ block's FR13NDS [/spoiler]\n\nBlock's you can see in game)\n\nLATEST UPDATE CHECK IN \"Logs\" UP\n\n [IMG]https://i.imgur.com/4peFOSL.gif[/IMG]\n\n [IMG]https://i.imgur.com/HVSSlXS.gif[/IMG]\n© Spiderling Studios\n",
+		"custom_icons": false,
+		"description": " [h1][b]FR13NDS BESIEGE PACK[/b][/h1]\r\n\r\n [IMG]http://i.imgur.com/EFERX9f.gif[/IMG]\r\n [b][u]Logs:[/u][/b] \r\n\r\nCloud / Клауд\r\n____________________________________________________\r\n[b][i]START MOD[03.11.17]\r\n\r\nALL SUPPORT RUSSIAN AND ENGLISH.\r\n\r\n[/i][/b]\r\nSUPPORT RUSSIAN LANGUAGE +\r\nSUPPORT ENGLISH LANGUAGE +\r\n____________________________________________________\r\n\r\n[b]Hi this is my project and I want your support! \r\n[spoiler] Привет! это мой проект и я надеюсь на твою поддержку![/spoiler]\r\n\r\nMy mod add in game 60 parts\r\n[spoiler] Мой мод добавляет 60+ разнообразных предметов [/spoiler]\r\n\r\ntags: [spoiler] 255 block's LK KATAROV 210+ block's FR13NDS [/spoiler]\r\n\r\nBlock's you can see in game)\r\n\r\nLATEST UPDATE CHECK IN \"Logs\" UP\r\n\r\n [IMG]https://i.imgur.com/4peFOSL.gif[/IMG]\r\n\r\n [IMG]https://i.imgur.com/HVSSlXS.gif[/IMG]\r\n© Spiderling Studios\r\n",
 		"fileId": 1189128714,
 		"localId": "eb21fabf-4357-4b34-b1bf-78ccbcaef818",
 		"name": "[FR13] BESIEGE PACK",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"129d385a-ae45-4126-be35-c17ee8f90b04": {
 		"creatorId": "76561198083152018",
@@ -3504,12 +3509,14 @@
 		"version": 0
 	},
 	"84983808-eb50-4fa8-b6c0-aa072e053ef5": {
-		"description": "#FFFFFF [h1][b]GTA EDITION MOD BY FR13NDS[/b][/h1]\n [IMG]http://i.imgur.com/EFERX9f.gif[/IMG]\n [b][u]Logs:[/u][/b] \n\n[IMG]http://i.imgur.com/CxS5JDqg.jpg[/IMG]\n____________________________________________________\n[b][i]FIRST UPDATE[04.04.19]\n\nALL SUPPORT RUSSIAN AND ENGLISH.\n\n[/i][/b]\nSUPPORT RUSSIAN LANGUAGE +\nSUPPORT ENGLISH LANGUAGE +\n____________________________________________________\n\n[IMG]http://i.imgur.com/CYqfMmu.gif[/IMG]\n\n[b]Hi this is my project and I want your support! \n[spoiler] Привет! это мой проект и я надеюсь на твою поддержку![/spoiler]\n\nMY MOD ADD IN GAME 200+ PARTS FROM GTA SAN ANDREAS!!\n\nBlock's you can see in game)\n\nLATEST UPDATE CHECK IN \"Logs\" UP",
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": " [h1][b]GTA EDITION MOD BY FR13NDS[/b][/h1]\r\n [IMG]http://i.imgur.com/EFERX9f.gif[/IMG]\r\n [b][u]Logs:[/u][/b] \r\n\r\nCloud / Клауд\r\n\r\n[IMG]http://i.imgur.com/CxS5JDqg.jpg[/IMG]\r\n____________________________________________________\r\n[b][i]FIRST UPDATE[04.04.19]\r\n\r\nALL SUPPORT RUSSIAN AND ENGLISH.\r\n\r\n[/i][/b]\r\nSUPPORT RUSSIAN LANGUAGE +\r\nSUPPORT ENGLISH LANGUAGE +\r\n____________________________________________________\r\n\r\n[IMG]http://i.imgur.com/CYqfMmu.gif[/IMG]\r\n\r\n[b]Hi this is my project and I want your support! \r\n[spoiler] Привет! это мой проект и я надеюсь на твою поддержку![/spoiler]\r\n\r\nMY MOD ADD IN GAME 200+ PARTS FROM GTA SAN ANDREAS!!\r\n\r\nBlock's you can see in game)\r\n\r\nLATEST UPDATE CHECK IN \"Logs\" UP",
 		"fileId": 1716889213,
 		"localId": "84983808-eb50-4fa8-b6c0-aa072e053ef5",
 		"name": "[FR13] GTA EDITION",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"d3081d30-ef75-4f29-a6ca-7356d1045c1c": {
 		"description": "This mod doesn't have a description",
@@ -4944,12 +4951,14 @@
 		"version": 0
 	},
 	"2111351a-e907-4d08-a4d7-f97de656530f": {
-		"description": "#FFFFFFHello, this is my new mod with over 1000 parts, it replaced my old mod (MOTHERUSSIA), but don 't worry all the buildings should work the same way.\n\nONLY NON-INTERACTIVE PARTS IN THIS MOD!\n\n[img]https://i.imgur.com/vj1Lmaa.png[/img]\n\nI have built two demo crafts for you <3\n\n[IMG]https://i.imgur.com/D5RvIXl.png[/IMG]\n[IMG]https://i.imgur.com/atARxwK.png[/IMG]\n\n[img]https://i.imgur.com/gk2Gq4n.png[/img]",
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": " [h1][b]A LOT OF GANGSTA PARTS MOD 2 BY FR13NDS[/b][/h1]\r\n [IMG]http://i.imgur.com/EFERX9f.gif[/IMG]\r\n [b][u]Logs:[/u][/b] \r\n\r\nHello, this is my new mod with over 1000 parts, it replaced my old mod (MOTHERUSSIA), but don 't worry all the buildings should work the same way.\r\n\r\nONLY NON-INTERACTIVE PARTS IN THIS MOD!\r\n\r\n[img]https://i.imgur.com/vj1Lmaa.png[/img]\r\n\r\nI have built two demo crafts for you <3\r\n\r\n[IMG]https://i.imgur.com/D5RvIXl.png[/IMG]\r\n[IMG]https://i.imgur.com/atARxwK.png[/IMG]\r\n\r\n[img]https://i.imgur.com/gk2Gq4n.png[/img]\r\n\r\n[img]https://i.imgur.com/NxVEmwj.png[/img]",
 		"fileId": 2032956798,
 		"localId": "2111351a-e907-4d08-a4d7-f97de656530f",
 		"name": "A LOT OF GANGSTA PARTS MOD 2",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"7602c741-8646-4070-b6dd-95d5327d7479": {
 		"description": "This mod doesn't have a description",
@@ -4960,12 +4969,14 @@
 		"version": 0
 	},
 	"ef60ae0b-b1c2-4c90-af92-91aa065e05c3": {
-		"description": " [h1][b]A LOT OF GANGSTA PARTS MOD BY FR13NDS[/b][/h1]\n [IMG]http://i.imgur.com/EFERX9f.gif[/IMG]\n [b][u]Logs:[/u][/b] \n\nHello, this is my new mod with over 1000 parts, it replaced my old mod (MOTHERUSSIA), but don 't worry all the buildings should work the same way.\n\n[img]https://i.imgur.com/vj1Lmaa.png[/img]\n\nI have built two demo crafts for you <3\n\n[IMG]https://i.imgur.com/D5RvIXl.png[/IMG]\n[IMG]https://i.imgur.com/atARxwK.png[/IMG]\n\n[img]https://i.imgur.com/gk2Gq4n.png[/img]\n",
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": " [h1][b]A LOT OF GANGSTA PARTS MOD BY FR13NDS[/b][/h1]\r\n [IMG]http://i.imgur.com/EFERX9f.gif[/IMG]\r\n [b][u]Logs:[/u][/b] \r\n\r\nHello, this is my new mod with over 1000 parts, it replaced my old mod (MOTHERUSSIA), but don 't worry all the buildings should work the same way.\r\n\r\n[img]https://i.imgur.com/vj1Lmaa.png[/img]\r\n\r\nI have built two demo crafts for you <3\r\n\r\n[IMG]https://i.imgur.com/D5RvIXl.png[/IMG]\r\n[IMG]https://i.imgur.com/atARxwK.png[/IMG]\r\n\r\n[img]https://i.imgur.com/gk2Gq4n.png[/img]\r\n\r\n[img]https://i.imgur.com/NxVEmwj.png[/img]\r\n",
 		"fileId": 2033891212,
 		"localId": "ef60ae0b-b1c2-4c90-af92-91aa065e05c3",
 		"name": "A LOT OF GANGSTA PARTS MOD",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"2d3b7b77-4f1a-48ef-82f3-edbefefa919d": {
 		"description": "Some homemade mods!",
@@ -8192,12 +8203,15 @@
 		"type": "Blocks and Parts"
 	},
 	"5a17290b-d194-4dd8-9fcf-495ff9c0f3c6": {
+		"allow_add_mods": true,
 		"creatorId": "76561198152046046",
-		"description": "#FFFFFF [h1][b]OFFICIAL [BLUE] MOD BY FR13NDS[/b][/h1]\n [IMG]http://i.imgur.com/EFERX9f.gif[/IMG]\n [b][u]Logs:[/u][/b] \n____________________________________________________\n[b][i]\n\nALL SUPPORT RUSSIAN AND ENGLISH.\n\n[/i][/b]\nSUPPORT RUSSIAN LANGUAGE +\nSUPPORT ENGLISH LANGUAGE +\n____________________________________________________\n\n[b]Hi this is my project and I want your support! \n[spoiler] Привет! это мой проект и я надеюсь на твою поддержку![/spoiler]\n\nMy mod add in game 255 parts\n[spoiler] Мой мод добавляет 255 разнообразных предметов [/spoiler]\n\ntags: [spoiler] 255 block's LK KATAROV 210+ block's FR13NDS [/spoiler]\n\nBlock's you can see in game)\n\nLATEST UPDATE CHECK IN \"Logs\" UP",
+		"custom_icons": false,
+		"description": " [h1][b]OFFICIAL [BLUE] MOD BY FR13NDS[/b][/h1]\n [IMG]http://i.imgur.com/EFERX9f.gif[/IMG]\n [b][u]Logs:[/u][/b] \n\nCloud / Клауд\n____________________________________________________\n[b][i]\n\nALL SUPPORT RUSSIAN AND ENGLISH.\n\n[/i][/b]\nSUPPORT RUSSIAN LANGUAGE +\nSUPPORT ENGLISH LANGUAGE +\n____________________________________________________\n\n[b]Hi this is my project and I want your support! \n[spoiler] Привет! это мой проект и я надеюсь на твою поддержку![/spoiler]\n\nMy mod add in game parts\n[spoiler] Мой мод добавляет 255 разнообразных предметов [/spoiler]\n\ntags: [spoiler] 255 block's LK KATAROV 210+ block's FR13NDS [/spoiler]\n\nBlock's you can see in game)\n\nLATEST UPDATE CHECK IN \"Logs\" UP",
 		"fileId": 877576189,
 		"localId": "5a17290b-d194-4dd8-9fcf-495ff9c0f3c6",
 		"name": "[FR13] [BLUE] 255 Block's",
-		"type": "Blocks and Parts"
+		"type": "Blocks and Parts",
+		"version": 1
 	},
 	"a1dc7525-42ab-4a24-b194-7caafb38620e": {
 		"creatorId": "76561198133812082",
@@ -30133,6 +30147,48 @@
 		"fileId": 2978317898,
 		"localId": "53e27668-4a10-42cc-8e45-13d2170c860e",
 		"name": "Glowbug Engine",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d00ce8bf-cb44-4174-b64b-0267aafc5891": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2033891212,
+				"localId": "ef60ae0b-b1c2-4c90-af92-91aa065e05c3",
+				"name": "A LOT OF GANGSTA PARTS MOD"
+			},
+			{
+				"fileId": 2032956798,
+				"localId": "2111351a-e907-4d08-a4d7-f97de656530f",
+				"name": "A LOT OF GANGSTA PARTS MOD 2"
+			},
+			{
+				"fileId": 1189128714,
+				"localId": "eb21fabf-4357-4b34-b1bf-78ccbcaef818",
+				"name": "[FR13] BESIEGE PACK"
+			},
+			{
+				"fileId": 1716889213,
+				"localId": "84983808-eb50-4fa8-b6c0-aa072e053ef5",
+				"name": "[FR13] GTA EDITION"
+			},
+			{
+				"fileId": 877576189,
+				"localId": "5a17290b-d194-4dd8-9fcf-495ff9c0f3c6",
+				"name": "[FR13] [BLUE] 255 Block's"
+			},
+			{
+				"fileId": 1101799350,
+				"localId": "c280edec-0a0d-4421-9e94-0953b3da5fa8",
+				"name": "[FR13] [RED] 100+ Block's"
+			}
+		],
+		"description": "Эта модификация - всего лишь весточка о том, что я не забыл о вас.\nДавно не слышались, друзья.\nУже прошло очень много времени с того момента, как игра обновилась и в моих модах сломалось большинство моделек и скриптов.\nЯ не пропал, постепенно приводил все впорядок, понимая, что пульс игры постепенно ослабевает, а к моим модификацпиям никогда небыло огромного спроса из-за их топорности или ненужности и старым модам чисто системно уже не вернуться снова в топ.\nНо я все исправил, в старых модах я изменил все модельки, которые мне не нравились через призму времени, ведь в то время я смотря на пару полигонов и кричал \"Вау, это превосходно\" , часть предметов безвозвратно удалил за их ненадобностью или альтернативным превосходством других модификаций.\nМне было бы бесконечно приятно, если бы настоящие олдфаги обратили внимание снова. Я реально постарался, делал изменения исходя из того, что было бы неправильно похоронить их, вместо того чтобы все исправить.\nЕсли у вас будут какие либо предложения, которые я никогда не упускал из внимания в былое время, обязательно пишите их к тому моду, в который вы хотели бы внести изменения или что то добавить.\nВ этой модификации для вас небольшой, но душевный подарочек.\nВ комментариях под этим модом вы можете написать о том, кто тут главный распи3дяй в здании, мне будет приятно :)\n\nThis mod is just a message that I have not forgotten about you.\nHaven't see you for a long time, friends.\nIt's been a very long time since the game was updated and most of the models and scripts broke in my mods.\nI did not disappear, I gradually put everything in order, realizing that the pulse of the game was gradually weakening, and there was never a huge demand for my modifiers because of their clumsiness or uselessness and the old mods would not return to the top again purely systemically.\nBut I fixed everything, in the old mods I changed all the models that I didn't like through the prism of time, because at that time I was looking at a couple of polygons and shouting \"Wow, this is excellent\", some of ",
+		"fileId": 2979745525,
+		"localId": "d00ce8bf-cb44-4174-b64b-0267aafc5891",
+		"name": "[FR13] WE NEED TO TALK",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
