@@ -30198,5 +30198,15 @@
 		"name": "[FR13] WE NEED TO TALK",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"d70c075f-112e-4180-a65b-1c8ef14483de": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 2980339404,
+		"localId": "d70c075f-112e-4180-a65b-1c8ef14483de",
+		"name": "What The Fork",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
