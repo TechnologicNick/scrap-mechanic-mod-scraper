@@ -10779,6 +10779,13 @@
 	"bd7b47d6-df36-4602-9d2a-4172cc52e502": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2945713875,
+				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
+				"name": "ModDatabase v2"
+			}
+		],
 		"description": "请不用订阅并使用到自己的作品上 很有可能在未来更新中导致作品损毁\n\nPlease do not subscribe and use your own work, which may cause damage to your work in future updates",
 		"fileId": 2588867942,
 		"localId": "bd7b47d6-df36-4602-9d2a-4172cc52e502",
@@ -29600,7 +29607,7 @@
 	"61d4b3e3-c5f7-454c-87fb-7a0fff5d91d0": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds alot of Parts about Pipes, Container, Pumps from my Main Fant Mod as a Standalone Mod",
+		"description": "This mod adds alot of Parts about Pipes, Container, Pumps from my Main Fant Mod as a Standalone Mod.\r\n\r\n-6 way Itempipe\r\n-Itempipe Pump\r\n-3 way Vacuumpump\r\n-Recycler\r\n-Pumpjack\r\n-Trashbin\r\n-Teleporter Itempipes\r\n-Container and Chests\r\n \r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2963115530,
 		"localId": "61d4b3e3-c5f7-454c-87fb-7a0fff5d91d0",
 		"name": "Fants Pipes Container Pumps Recycler",
