@@ -3442,5 +3442,10 @@
 		"$CONTENT_d70c075f-112e-4180-a65b-1c8ef14483de/Tools/Database/ToolSets/Fork.toolset": [
 			"41936190-31bf-4cbd-93b4-8e7f2ac2f9c3"
 		]
+	},
+	"4496537a-6592-49bd-a7e7-179b687bd588": {
+		"$CONTENT_4496537a-6592-49bd-a7e7-179b687bd588/Tools/Database/ToolSets/oobct.toolset": [
+			"72d7a86c-c214-4bce-aef8-1258bc07d4b6"
+		]
 	}
 }
