@@ -71374,5 +71374,13 @@
 		"$CONTENT_5c31e4b1-2095-4ec6-9e0b-90d3e8a76ec7/Objects/Database/ShapeSets/tools.shapeset": [
 			"abb7eb4d-67d1-400d-a1e6-48e3ae50b0e7"
 		]
+	},
+	"48a92e79-d571-4cb5-a742-14369892c1af": {
+		"$CONTENT_48a92e79-d571-4cb5-a742-14369892c1af/Objects/Database/ShapeSets/example.shapeset": [
+			"940eedcf-85dd-4def-a7d7-df0ad6de4ae8"
+		]
+	},
+	"d96a46bf-d8b3-4820-a96a-fff373a05e2a": {
+		"$CONTENT_d96a46bf-d8b3-4820-a96a-fff373a05e2a/Objects/Database/ShapeSets/example.shapeset": []
 	}
 }
