@@ -16377,7 +16377,7 @@
 	"226cb8be-6db2-44b1-9bc0-bbeb8d906b45": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Duck Everything",
+		"description": "Duck Everything\r\n\r\n- Ducks -\r\n   Quack Duck - have a duck go quack in chat\r\n   (WIP) Engine Duck - manually adjust the speed and strength of the engine for maximum control\r\n   Gun Duck - shoot from this duck\r\n   Glow Duck - let this duck light your way\r\n   (WIP) Fan Duck - this duck will blow anything out of your way",
 		"fileId": 2845241358,
 		"localId": "226cb8be-6db2-44b1-9bc0-bbeb8d906b45",
 		"name": "Duck Expansion",
