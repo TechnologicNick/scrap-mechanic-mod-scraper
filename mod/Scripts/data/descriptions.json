@@ -30256,5 +30256,15 @@
 		"name": "IpGa13's Better Recipes",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"2bedb1ba-488e-432e-9fbd-a10e841bc890": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "have fun",
+		"fileId": 2982972809,
+		"localId": "2bedb1ba-488e-432e-9fbd-a10e841bc890",
+		"name": "fair survivle",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
