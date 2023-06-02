@@ -16377,7 +16377,7 @@
 	"226cb8be-6db2-44b1-9bc0-bbeb8d906b45": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Duck Everything\r\n\r\n- Ducks -\r\n   Quack Duck - have a duck go quack in chat\r\n   (WIP) Engine Duck - manually adjust the speed and strength of the engine for maximum control\r\n   Gun Duck - shoot from this duck\r\n   Glow Duck - let this duck light your way\r\n   (WIP) Fan Duck - this duck will blow anything out of your way",
+		"description": "Duck Everything\n\n- Ducks -\n   Quack Duck - have a duck go quack in chat\n   Gun Duck - shoot from this duck\n   Glow Duck - a duck that glows",
 		"fileId": 2845241358,
 		"localId": "226cb8be-6db2-44b1-9bc0-bbeb8d906b45",
 		"name": "Duck Expansion",
@@ -30274,6 +30274,16 @@
 		"fileId": 2983293264,
 		"localId": "99ada3fc-8b02-4836-96fe-d6bea7bda570",
 		"name": "TheSub Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"2dddd30e-2942-4e23-9b90-41ad73437501": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2983610399,
+		"localId": "2dddd30e-2942-4e23-9b90-41ad73437501",
+		"name": "tapebot shooter",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
