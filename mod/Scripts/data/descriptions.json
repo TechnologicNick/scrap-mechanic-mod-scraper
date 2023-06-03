@@ -29231,7 +29231,7 @@
 	},
 	"3aeb81c2-71b9-45a1-9479-1f48f1e8ff21": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "this fork of Scriptable Computers\r\nfork creation was approved by the authors of the mod!\r\nadded support for crafting recipes!\r\n\r\nSComputers documentation: https://scrapmechanictools.com/modapis/SComputers/Info\r\nSComputers documentation(outdate): https://steamcommunity.com/sharedfiles/filedetails/?id=2952685276\r\nofficial mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2821133117\r\nofficial documentation: https://steamcommunity.com/sharedfiles/filedetails/?id=2831560152",
 		"fileId": 2949350596,
 		"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
