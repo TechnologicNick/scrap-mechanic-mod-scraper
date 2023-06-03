@@ -3453,5 +3453,9 @@
 	"d96a46bf-d8b3-4820-a96a-fff373a05e2a": {},
 	"2bedb1ba-488e-432e-9fbd-a10e841bc890": {},
 	"99ada3fc-8b02-4836-96fe-d6bea7bda570": {},
-	"2dddd30e-2942-4e23-9b90-41ad73437501": {}
+	"2dddd30e-2942-4e23-9b90-41ad73437501": {},
+	"d0a92197-34c8-4f4e-9002-75a1e14f882d": {},
+	"54c88924-cba6-43a7-be21-973c6727d8ad": {
+		"$CONTENT_54c88924-cba6-43a7-be21-973c6727d8ad/Tools/Database/ToolSets/example.toolset": []
+	}
 }

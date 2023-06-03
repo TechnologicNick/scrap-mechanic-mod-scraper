@@ -29683,7 +29683,8 @@
 	"687aa611-ab7b-47b5-8c1b-6ce30ebf7d58": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "",
+		"dependencies": null,
+		"description": "ДЛЯ ПРОЕКТА МАТВЕЯ ",
 		"fileId": 2964056426,
 		"localId": "687aa611-ab7b-47b5-8c1b-6ce30ebf7d58",
 		"name": "TF-MECHANIC",
@@ -30089,7 +30090,7 @@
 	"630b3c35-59b4-4094-a4fb-2c2b333f0a55": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Military Outfit Mod 2.1\n(Customization Descriptions Fix)\n\nFor everyone who asked to make a custom game - this is technically not possible\nДля всех кто просил сделать кастом гейм - это технически не возможно\n\n\nENG\nHOW TO INSTALL:\n1.\nGoto:\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2976697730\n\n2.\ncopy ALL FOLDERS into and REPLACE the existing Folders.\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\"\n\n3.\nDONE\n\nYou need epic garment box to unlock Military Outfit.\nYou also can get the \"Backpacks Remover\" from common garment box.\n-------------------------------------------------------------------------------\nRUS\nКАК УСТАНОВИТЬ:\n1.\nПерейдите в:\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2976697730\n2.\nКопируйте все папки в \"...\\Steam\\SteamApps\\common\\Scrap Mechanic\" и нажмите \"заменить все файлы\",\n3. \nГотово\n\nЧто бы разблокировать Военную одежду вам нужны Желтые Ящики с одеждой.\nВы также можете получить \"Удалитель Рюкзаков\" из Зелёного Ящика с одеждой.\n\nSpecial Thanks to TechnologicNick for help",
+		"description": "Military Outfit Mod 2.5\n(New Helmet 3D Model)\n\nFor everyone who asked to make a custom game - this is technically not possible\nДля всех кто просил сделать кастом гейм - это технически не возможно\n\n\nENG\nHOW TO INSTALL:\n1.\nGoto:\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2976697730\n\n2.\ncopy ALL FOLDERS into and REPLACE the existing Folders.\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\"\n\n3.\nDONE\n\nYou need epic garment box to unlock Military Outfit.\nYou also can get the \"Backpacks Remover\" from common garment box.\n-------------------------------------------------------------------------------\nRUS\nКАК УСТАНОВИТЬ:\n1.\nПерейдите в:\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2976697730\n2.\nКопируйте все папки в \"...\\Steam\\SteamApps\\common\\Scrap Mechanic\" и нажмите \"заменить все файлы\",\n3. \nГотово\n\nЧто бы разблокировать Военную одежду вам нужны Желтые Ящики с одеждой.\nВы также можете получить \"Удалитель Рюкзаков\" из Зелёного Ящика с одеждой.\n\nSpecial Thanks to TechnologicNick for help",
 		"fileId": 2976697730,
 		"localId": "630b3c35-59b4-4094-a4fb-2c2b333f0a55",
 		"name": "Military Outfit Mod",
@@ -30286,5 +30287,24 @@
 		"name": "tapebot shooter",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"d0a92197-34c8-4f4e-9002-75a1e14f882d": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "JourneyMap: Adds a minimap to the game.",
+		"fileId": 2983969230,
+		"localId": "d0a92197-34c8-4f4e-9002-75a1e14f882d",
+		"name": "JourneyMap",
+		"type": "Custom Game"
+	},
+	"54c88924-cba6-43a7-be21-973c6727d8ad": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Easier Survival",
+		"fileId": 2984028019,
+		"localId": "54c88924-cba6-43a7-be21-973c6727d8ad",
+		"name": "Survival Tweaks",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
