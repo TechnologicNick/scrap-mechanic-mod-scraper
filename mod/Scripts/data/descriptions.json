@@ -30300,7 +30300,7 @@
 	"54c88924-cba6-43a7-be21-973c6727d8ad": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Easier Survival",
+		"description": "Easier Survival with some tweaks\r\n\r\nPlayer:\r\n-faster refine time\r\n\r\n\r\nLoot:\r\n-more oil x5 per collectable\r\n-more corn x3 per collectable\r\n-more clam x3 per collectable\r\n-more flowers x5 per collectable\r\n-more beeswax x4 per collectable\r\n-more cotton x5 per ollectable\r\n-refining items gives 40 blocks\r\n\r\n\r\nGuns:\r\n-GutlingGun Does same damage as Normal Spudgun per potato (No Ammo Wasted)\r\n\r\n\r\nCrafting:\r\n-Added Cheap Recipe For Component Kits\r\n-Totebot Heads Can Be Converted To circuit Board\r\n\r\n\r\n",
 		"fileId": 2984028019,
 		"localId": "54c88924-cba6-43a7-be21-973c6727d8ad",
 		"name": "Survival Tweaks",
