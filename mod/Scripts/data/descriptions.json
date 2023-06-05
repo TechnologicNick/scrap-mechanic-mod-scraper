@@ -29516,7 +29516,7 @@
 				"name": "ModDatabase v2"
 			}
 		],
-		"description": "Blocks With Health.",
+		"description": "Damage to the unit is caused by collisions with other units and elements, as well as by being hit by potatoes.",
 		"fileId": 2960975405,
 		"localId": "a1198287-4426-433c-9f1c-e76769d7631f",
 		"name": "Blocks With Health",
