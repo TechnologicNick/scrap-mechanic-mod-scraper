@@ -30090,7 +30090,7 @@
 	"630b3c35-59b4-4094-a4fb-2c2b333f0a55": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Military Outfit Mod 2.5\n(New Helmet 3D Model)\n\nFor everyone who asked to make a custom game - this is technically not possible\nДля всех кто просил сделать кастом гейм - это технически не возможно\n\n\nENG\nHOW TO INSTALL:\n1.\nGoto:\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2976697730\n\n2.\ncopy ALL FOLDERS into and REPLACE the existing Folders.\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\"\n\n3.\nDONE\n\nYou need epic garment box to unlock Military Outfit.\nYou also can get the \"Backpacks Remover\" from common garment box.\n-------------------------------------------------------------------------------\nRUS\nКАК УСТАНОВИТЬ:\n1.\nПерейдите в:\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2976697730\n2.\nКопируйте все папки в \"...\\Steam\\SteamApps\\common\\Scrap Mechanic\" и нажмите \"заменить все файлы\",\n3. \nГотово\n\nЧто бы разблокировать Военную одежду вам нужны Желтые Ящики с одеждой.\nВы также можете получить \"Удалитель Рюкзаков\" из Зелёного Ящика с одеждой.\n\nSpecial Thanks to TechnologicNick for help",
+		"description": "Military Outfit Mod 3\n(Balaclava Is Here)\n\nFor everyone who asked to make a custom game - this is technically not possible\nДля всех кто просил сделать кастом гейм - это технически не возможно\n\n\nENG\nHOW TO INSTALL:\n1.\nGoto:\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2976697730\n\n2.\ncopy ALL FOLDERS into and REPLACE the existing Folders.\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\"\n\n3.\nDONE\n\nYou need epic garment box to unlock Military Outfit.\nYou also can get the \"Backpacks Remover\" from common garment box.\n-------------------------------------------------------------------------------\nRUS\nКАК УСТАНОВИТЬ:\n1.\nПерейдите в:\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2976697730\n2.\nКопируйте все папки в \"...\\Steam\\SteamApps\\common\\Scrap Mechanic\" и нажмите \"заменить все файлы\",\n3. \nГотово\n\nЧто бы разблокировать Военную одежду вам нужны Желтые Ящики с одеждой.\nВы также можете получить \"Удалитель Рюкзаков\" из Зелёного Ящика с одеждой.\n\nSpecial Thanks to TechnologicNick for help",
 		"fileId": 2976697730,
 		"localId": "630b3c35-59b4-4094-a4fb-2c2b333f0a55",
 		"name": "Military Outfit Mod",
@@ -30306,5 +30306,25 @@
 		"name": "Survival Tweaks",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"c3971490-1e5e-4f21-8af1-303ae00e0eae": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "простенькая карта с галюнами",
+		"fileId": 2982683501,
+		"localId": "c3971490-1e5e-4f21-8af1-303ae00e0eae",
+		"name": "MAP 02",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"22899330-4a98-4dca-ab67-6c0bc1888896": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Rbmk Reactor Part",
+		"fileId": 2985306682,
+		"localId": "22899330-4a98-4dca-ab67-6c0bc1888896",
+		"name": "rbmk part's",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
