@@ -3461,5 +3461,10 @@
 		"$CONTENT_c3971490-1e5e-4f21-8af1-303ae00e0eae/Tools/Database/ToolSets/example.toolset": []
 	},
 	"22899330-4a98-4dca-ab67-6c0bc1888896": {},
-	"675d2244-a265-4236-8886-661d5fc1b3cd": {}
+	"675d2244-a265-4236-8886-661d5fc1b3cd": {},
+	"f9cf9fef-02f9-4029-89d7-4a8c91e2f349": {
+		"$CONTENT_f9cf9fef-02f9-4029-89d7-4a8c91e2f349/Tools/Database/ToolSets/NewToolSet1.json": [
+			"31485d40-561a-4654-91b5-7b77692870f4"
+		]
+	}
 }

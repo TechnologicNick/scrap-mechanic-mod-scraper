@@ -28475,7 +28475,7 @@
 	"83240ba7-1937-42b4-8299-f1efe0511a50": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod adds parts that make a modder's life easier!\n\n[hr][/hr]\n[b]Added Parts:[/b]\n• Recipe Maker - [i]Lets you easily create recipes and save them with a user friendly gui.[/i]\n• Inventory Description Maker - [i]Lets you create inventory descriptions with a user friendly gui.[/i]\n\n[hr][/hr]\n[b]Credits:[/b]\nScripting: [url=https://steamcommunity.com/id/Fagiano0]Fagiano0[/url]\nModels: [url=https://steamcommunity.com/id/Red-Builds]The Red Builder[/url]\n\n[hr][/hr]\n[img]https://i.imgur.com/p7Fv1Z6.gif[/img]\n\nIf you have ideas for new parts leave them in the comments!",
+		"description": "This mod adds parts that make a modder's life easier!\n\n[hr][/hr]\n[b]Added Parts:[/b]\n• Recipe Maker - [i]Lets you easily create recipes and save them with a user friendly gui.[/i]\n• Inventory Description Maker - [i]Lets you create inventory descriptions with a user friendly gui.[/i]\n\n[hr][/hr]\n[b]Credits:[/b]\nScripting: [url=https://steamcommunity.com/id/Fagiano0]Fagiano0[/url]\nModels: [url=https://steamcommunity.com/id/Red-Builds]The Red Builder[/url]\n\n[hr][/hr]\n\nIf you have ideas for new parts leave them in the comments!",
 		"fileId": 2925449174,
 		"localId": "83240ba7-1937-42b4-8299-f1efe0511a50",
 		"name": "Modder Utilities",
@@ -30335,6 +30335,16 @@
 		"fileId": 2986310859,
 		"localId": "675d2244-a265-4236-8886-661d5fc1b3cd",
 		"name": "murder drones N",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f9cf9fef-02f9-4029-89d7-4a8c91e2f349": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2987476458,
+		"localId": "f9cf9fef-02f9-4029-89d7-4a8c91e2f349",
+		"name": "Bingo's Block and Part Editor",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
