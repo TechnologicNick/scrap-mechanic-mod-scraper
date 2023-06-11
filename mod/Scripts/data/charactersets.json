@@ -700,5 +700,11 @@
 	},
 	"c3971490-1e5e-4f21-8af1-303ae00e0eae": {
 		"$CONTENT_c3971490-1e5e-4f21-8af1-303ae00e0eae/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"c46507b0-268b-4de4-815d-df32096f8f89": {
+		"$CONTENT_c46507b0-268b-4de4-815d-df32096f8f89/Characters/Database/CharacterSets/example.characterset": [
+			"00000000-0000-0000-0000-000000000000",
+			"7733557c-fdea-4810-8732-f73dca3d47a7"
+		]
 	}
 }
