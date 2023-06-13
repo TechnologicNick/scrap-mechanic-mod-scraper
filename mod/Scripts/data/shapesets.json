@@ -71516,5 +71516,10 @@
 			"1459ae27-c91f-4208-a4e9-225b0a521357"
 		],
 		"$CONTENT_c46507b0-268b-4de4-815d-df32096f8f89/Objects/Database/ShapeSets/blocks.shapeset": []
+	},
+	"a0f6c5b6-a74e-4a5b-997a-757a4c3968c4": {
+		"$CONTENT_a0f6c5b6-a74e-4a5b-997a-757a4c3968c4/Objects/Database/ShapeSets/example.shapeset": [
+			"06f6efa8-a93a-436d-bcab-284df28b155e"
+		]
 	}
 }
