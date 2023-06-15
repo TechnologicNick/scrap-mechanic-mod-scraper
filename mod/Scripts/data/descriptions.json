@@ -30391,5 +30391,25 @@
 		"name": "DLM legacy",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"fcc886b1-37b7-4e3b-afdd-92bfb80df95e": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This Mod Adds a Special Wheel for Racing.",
+		"fileId": 2989514956,
+		"localId": "fcc886b1-37b7-4e3b-afdd-92bfb80df95e",
+		"name": "Fant Race Parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1265da1a-612b-428a-8d19-f13d7abb4961": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2989540858,
+		"localId": "1265da1a-612b-428a-8d19-f13d7abb4961",
+		"name": "normalni kuroidno bloki",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

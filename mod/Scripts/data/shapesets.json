@@ -71523,5 +71523,16 @@
 			"06f6efa8-a93a-436d-bcab-284df28b155e"
 		]
 	},
-	"0e903652-d674-416c-91f7-effa1fcd4cae": {}
+	"0e903652-d674-416c-91f7-effa1fcd4cae": {},
+	"fcc886b1-37b7-4e3b-afdd-92bfb80df95e": {
+		"$CONTENT_fcc886b1-37b7-4e3b-afdd-92bfb80df95e/Objects/Database/ShapeSets/frw.shapeset": [
+			"4e52db0d-9b2c-4913-a35d-dd7a5b0629b6"
+		]
+	},
+	"1265da1a-612b-428a-8d19-f13d7abb4961": {
+		"$CONTENT_1265da1a-612b-428a-8d19-f13d7abb4961/Objects/Database/ShapeSets/example.shapeset": [
+			"64adba04-cf68-4f38-bdb7-2ef261dce542",
+			"f8f70bbf-6346-4221-8411-1f34be64ee00"
+		]
+	}
 }
