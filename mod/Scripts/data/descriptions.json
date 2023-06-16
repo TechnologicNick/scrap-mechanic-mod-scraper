@@ -29466,10 +29466,17 @@
 	"ab894f29-c54c-4112-886c-ea74c7df6ea2": {
 		"allow_add_mods": true,
 		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 2945713875,
+				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
+				"name": "ModDatabase v2"
+			}
+		],
 		"description": "This mod doesn't have a description",
 		"fileId": 2958448427,
 		"localId": "ab894f29-c54c-4112-886c-ea74c7df6ea2",
-		"name": "MAP 01",
+		"name": "Omega world Overloaded",
 		"type": "Custom Game",
 		"version": 0
 	},
@@ -30245,7 +30252,7 @@
 				"name": "ModDatabase v2"
 			}
 		],
-		"description": "---------------------------------------------------------------------------------------------------\noriginal: https://steamcommunity.com/workshop/filedetails/?id=2821133117\n---------------------------------------------------------------------------------------------------\n\nthis mod just removes the range limit on the antenna and removes the noise that the radars have. other than that, this is a copy of the mod above. if you want to use this, then remember that all of the credit goes to the original creators: TheFattestCat and Donyti_Qramixy\n\nthis just removes some limitations with scriptable computers. please remember that the only reason for this mod to exist is to remove a few lines of code (checking the distance and giving noise to radars). i uploaded this only for the simple reason of having more \"cheating\" parts. things like limited range on the antenna and noise on the radars only got in the way of all my builds, so i decided to \"make\" some parts without limits. ive tried, and i failed at making an add-on. if there is any way to make an add-on, ill do my best to make it, and then ill delete this.\n\nif the original authors of the mod disapprove of this, please just comment on this. ill delete it and ill try again to make the add-ons.\n\ni have seen a discussion on the original mod page about making a fork, so i thought that maybe this could also kinda apply to me. i've also started a discussion about making an add-on, but i didnt get an answer, so i deleted it after some time.",
+		"description": "---------------------------------------------------------------------------------------------------\r\noriginal: https://steamcommunity.com/workshop/filedetails/?id=2821133117\r\n---------------------------------------------------------------------------------------------------\r\n\r\nthis mod just changes a few lines of code and adds a few blocks. other than that, this is a copy of the mod above. if you want to use this, then remember that all of the credit goes to the original creators: TheFattestCat and Donyti_Qramixy\r\n\r\nwhats new/different:\r\n-radars do not have noise (no errors in readings)\r\n-added flares and flare dispenser\r\n-added more powerful small radars\r\n-added a transparent display (easily breakable)\r\n\r\ni have tried making an add-on, but i failed\r\n\r\nif the original authors of the mod disapprove of this, please just comment on this. ill delete it and ill try again to make the add-on.\r\n\r\ni have seen a discussion on the original mod page about making a fork, so i thought that maybe this could also kinda apply to me. i've also started a discussion about making an add-on, but i didnt get an answer, so i deleted it after some time.",
 		"fileId": 2979308690,
 		"localId": "5c31e4b1-2095-4ec6-9e0b-90d3e8a76ec7",
 		"name": "ScriptableComputer but with better tools",
@@ -30409,6 +30416,39 @@
 		"fileId": 2989540858,
 		"localId": "1265da1a-612b-428a-8d19-f13d7abb4961",
 		"name": "normalni kuroidno bloki",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"64bd3c56-5dca-47ba-ac21-287f03dcd371": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod is for testing Scrap Mechanic Editor!",
+		"fileId": 2989673651,
+		"localId": "64bd3c56-5dca-47ba-ac21-287f03dcd371",
+		"name": "Scrap Mechanic Editor MOD",
+		"scripts": [
+			{
+				"class": "GetPosition",
+				"path": "Scripts/GetPosition.lua"
+			}
+		],
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"715214f7-dc3f-4e47-9d5d-f4913d723d21": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2973331517,
+				"localId": "e52533c5-8076-4bda-82bf-336df526690b",
+				"name": "Logic API"
+			}
+		],
+		"description": "various DANGEROUS blocks, be careful!",
+		"fileId": 2989704611,
+		"localId": "715214f7-dc3f-4e47-9d5d-f4913d723d21",
+		"name": "Dangerous Blocks",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
