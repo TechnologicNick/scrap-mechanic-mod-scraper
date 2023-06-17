@@ -29012,9 +29012,9 @@
 		"custom_icons": false,
 		"dependencies": [
 			{
-				"fileId": 2945713875,
-				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
-				"name": "ModDatabase v2"
+				"fileId": 2973331517,
+				"localId": "e52533c5-8076-4bda-82bf-336df526690b",
+				"name": "Logic API"
 			}
 		],
 		"description": "[Eng]\nthe models were taken from the mod \"Entrance Doors Pack\" from the author \"ikey07\"\nhere the doors are script blocks, they can control the bearings themselves!\nand they can also be privatized so that only you can open them!\n\nthere are 3 private modes:\n  public,\n  private,\n  privatized (anyone can open, but only you can change the private mode).\n\n[Rus]\nмодели были взяты из мода \"Entrance Doors Pack\" от автора \"ikey07\"\nтут двери это скриптовые блоки, они могут сами управлять подшибниками!\nа еще их можно заприватить, чтобы только вы могли их открыть!\n\nимееться 3 режима привата:\n  публичный,\n  приватный,\n  приватизированый(кто угодно сможет открывать, но только вы сможете изменить режим привата).",
