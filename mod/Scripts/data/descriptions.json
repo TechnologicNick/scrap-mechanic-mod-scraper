@@ -30461,5 +30461,25 @@
 		"name": "sussy block",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"0ed4d418-9e78-433b-a204-43cbc10cfb7d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "An \"better\" verison of the first among us mod",
+		"fileId": 2988539200,
+		"localId": "0ed4d418-9e78-433b-a204-43cbc10cfb7d",
+		"name": "Amongus Block 2",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d3c8180f-50f8-4076-8a0b-442bf11a2553": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "cow",
+		"fileId": 2990821229,
+		"localId": "d3c8180f-50f8-4076-8a0b-442bf11a2553",
+		"name": "usefull stuff i guess",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
