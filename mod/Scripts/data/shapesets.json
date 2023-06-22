@@ -71603,5 +71603,15 @@
 			"cab32ce6-0b7b-4fc9-8a3b-e3d52d17342a",
 			"18616874-c515-4d50-b8e0-44fd177bf803"
 		]
+	},
+	"bea48fd0-6086-460e-8cbb-6ae32193bdfb": {
+		"$CONTENT_bea48fd0-6086-460e-8cbb-6ae32193bdfb/Objects/Database/ShapeSets/example.shapeset": [
+			"cac93727-c344-42bc-9334-72f3e59c9d0b"
+		]
+	},
+	"e5876f95-c20d-4e0a-82a9-d51f0abf8849": {
+		"$CONTENT_e5876f95-c20d-4e0a-82a9-d51f0abf8849/Objects/Database/ShapeSets/example.shapeset": [
+			"52f396ea-0ba7-4e82-bf99-6563ac91b1ad"
+		]
 	}
 }
