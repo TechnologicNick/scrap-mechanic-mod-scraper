@@ -3492,5 +3492,10 @@
 			"8596e228-b4a5-4a48-8599-860ba1550b46"
 		]
 	},
-	"53f5c89b-f1e2-46a1-9bad-8e1968e48ea3": {}
+	"53f5c89b-f1e2-46a1-9bad-8e1968e48ea3": {},
+	"bb6b1b29-e6ef-43a0-b675-f54e72483740": {
+		"$CONTENT_bb6b1b29-e6ef-43a0-b675-f54e72483740/Tools/Database/ToolSets/tools.toolset": [
+			"3c89ed08-7e7f-406e-9a38-c93d37df8593"
+		]
+	}
 }

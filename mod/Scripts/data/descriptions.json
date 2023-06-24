@@ -30556,5 +30556,15 @@
 		"name": "Better Map",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"bb6b1b29-e6ef-43a0-b675-f54e72483740": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Welcome, and thank you for browsing the CleanUP!™ Service!\n\nThe CleanUp!™ Service package comes with:\n12 silicon packets and the new Graviton Amplifier!\n\nSubscribe to the CleanUp!™ Service today for easier CleanUp!™ in the future!",
+		"fileId": 2993727275,
+		"localId": "bb6b1b29-e6ef-43a0-b675-f54e72483740",
+		"name": "CleanUp!™",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

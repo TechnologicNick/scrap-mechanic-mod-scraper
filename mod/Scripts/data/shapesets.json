@@ -72133,5 +72133,8 @@
 			"2808d27c-a05a-4a2b-af9b-a3c97522aa2a"
 		]
 	},
-	"53f5c89b-f1e2-46a1-9bad-8e1968e48ea3": {}
+	"53f5c89b-f1e2-46a1-9bad-8e1968e48ea3": {},
+	"bb6b1b29-e6ef-43a0-b675-f54e72483740": {
+		"$CONTENT_bb6b1b29-e6ef-43a0-b675-f54e72483740/Objects/Database/ShapeSets/example.shapeset": []
+	}
 }
