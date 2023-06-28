@@ -72160,5 +72160,10 @@
 			"d2f2da81-ff31-4cc2-9eae-0a3d29672a06",
 			"16cf04e3-d127-42ea-bcaf-83c2c48ab918"
 		]
+	},
+	"3b9e4bc6-ae0c-4dc2-a0e6-12ea77e78af5": {
+		"$CONTENT_3b9e4bc6-ae0c-4dc2-a0e6-12ea77e78af5/Objects/Database/ShapeSets/example.shapeset": [
+			"2fe0739a-5a32-4ac3-9ac6-21d47605d325"
+		]
 	}
 }
