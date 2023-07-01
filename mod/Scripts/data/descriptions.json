@@ -27094,7 +27094,7 @@
 	"dbac6a77-8732-40ff-bebc-d2774f5f5110": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Adds wheels with friction 10",
+		"description": "Adds wheels with friction 10 with item names",
 		"fileId": 2891282799,
 		"localId": "dbac6a77-8732-40ff-bebc-d2774f5f5110",
 		"name": "grippy wheels",
@@ -30608,6 +30608,17 @@
 		"fileId": 2996675778,
 		"localId": "c8ffdf84-1316-47d3-8b1e-99c66f808a80",
 		"name": "Mst",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"10065c21-0e86-436f-ac8c-916b08a95189": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "This mod doesn't have a description",
+		"fileId": 2996699789,
+		"localId": "10065c21-0e86-436f-ac8c-916b08a95189",
+		"name": "4",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
