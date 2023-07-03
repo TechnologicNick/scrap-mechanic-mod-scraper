@@ -29072,7 +29072,7 @@
 				"name": "ModDatabase v2"
 			}
 		],
-		"description": "[Eng]\nthis mod allows you to privatize buildings\n[Rus]\nэтот мод позваляет приватить постройки",
+		"description": "[Eng]\nthis mod allows you to privatize creations, bodies, and even the whole world!\n\n[Rus]\nэтот мод позваляет приватить постройки, отдельные обьекты, и даже весь мир!",
 		"fileId": 2943621291,
 		"localId": "bcfa2644-ae4a-4e8a-ac1b-e99939c3a95b",
 		"name": "Private Mod",
@@ -29457,7 +29457,7 @@
 				"name": "ModDatabase v2"
 			}
 		],
-		"description": "[Eng]\na new mod that transfers details from Challenge mode to creative.\nthis mod contains new details from Challenge mode.\nthe detail scripts have been heavily adapted to the creative mode.\nremoved many limits and redesigned the behavior of many details.\nmany of the details that cannot work in creative mode have been redesigned as indicators.\nfor example, a bot spawner will not spawn a bot when entering the world,\nyou should do it yourself if necessary, since an autospawn is not always needed in the creative.\nalso, items that were not paintable in Challenge mode are now paintable.\n\n[Rus]\nновый мод переносящий детали из Challenge mode в креатив.\nданный мод содержит новые детали из Challenge mode.\nскрипты деталей были сильно адоптированы под режим креатива.\nубраны многие лимиты и переработано поведения многих деталей.\nмногие те детали что не могут работать в режиме креатива были переработаны как индикаторы.\nнапример спавнер ботов не спавнит бота при заходе в мир,\nвы должны сделать это сами если в этом есть необходимость, так как автоспавн не всегда нужен в креативе.\nтак же предметы которые в Challenge mode не красились, теперь красяться.",
+		"description": "[Eng]\na new mod that transfers details from Challenge mode to creative.\nthis mod contains new details from Challenge mode.\nthe scripts have been heavily adapted to the creative mode.\nremoved many limits and redesigned the behavior of many details.\nmany of the details that cannot work in creative mode have been redesigned as indicators.\nthe bot spawner will not spawn the bot when entering the world.\nyou should do it yourself if there is a need for it, since the autosave is not always needed in the creative.\nalso, items that were not paintable in Challenge mode are now paintable.\n\n[Rus]\nновый мод переносящий детали из Challenge mode в креатив.\nданный мод содержит новые детали из Challenge mode.\nскрипты деталей были сильно адоптированы под режим креатива.\nубраны многие лимиты и переработано поведения многих деталей.\nмногие те детали что не могут работать в режиме креатива были переработаны как индикаторы.\nспавнер ботов не спавнит бота при заходе в мир.\nвы должны сделать это сами если в этом есть необходимость, так как автоспавн не всегда нужен в креативе.\nтак же предметы которые в Challenge mode не красились, теперь красяться.",
 		"fileId": 2957640756,
 		"localId": "6bc49594-9348-4970-871e-4b3fb98feb56",
 		"name": "Advanced Challenge Parts",
@@ -30473,7 +30473,7 @@
 				"name": "Logic API"
 			}
 		],
-		"description": "various DANGEROUS blocks, be careful!",
+		"description": "various DANGEROUS blocks, be careful!\n\nblack hole:\n* sucks in creations/players/mobs\n\nvirus block:\n* jumps between creations, spreads and interferes with the work of creations",
 		"fileId": 2989704611,
 		"localId": "715214f7-dc3f-4e47-9d5d-f4913d723d21",
 		"name": "Dangerous Blocks",
