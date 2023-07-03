@@ -29041,7 +29041,7 @@
 		"description": "[Eng]\nthe models were taken from the mod \"Entrance Doors Pack\" from the author \"ikey07\"\nhere the doors are script blocks, they can control the bearings themselves!\nand they can also be privatized so that only you can open them!\n\nthere are 3 private modes:\n  public,\n  private,\n  privatized (anyone can open, but only you can change the private mode).\n\n[Rus]\nмодели были взяты из мода \"Entrance Doors Pack\" от автора \"ikey07\"\nтут двери это скриптовые блоки, они могут сами управлять подшибниками!\nа еще их можно заприватить, чтобы только вы могли их открыть!\n\nимееться 3 режима привата:\n  публичный,\n  приватный,\n  приватизированый(кто угодно сможет открывать, но только вы сможете изменить режим привата).",
 		"fileId": 2943598723,
 		"localId": "62d29f6c-e1e1-49d4-9b04-9bb9607a4d78",
-		"name": "Scriptable-Doors",
+		"name": "Scriptable Doors",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -29050,15 +29050,15 @@
 		"custom_icons": false,
 		"dependencies": [
 			{
-				"fileId": 2945713875,
-				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
-				"name": "ModDatabase v2"
+				"fileId": 2973331517,
+				"localId": "e52533c5-8076-4bda-82bf-336df526690b",
+				"name": "Logic API"
 			}
 		],
-		"description": "[Eng]\ndear mechanics!\nthis mod will allow you to emulate the behavior of the seat using logic\nyou will be able to turn the bearings as seats\n, you will also be able to emulate whether the character is sitting in the seats - this will allow you to control the motor brake\nas well, in addition, it can work as a WASD converter\nalso contains many interesting logic pieces that mechanics will like\n\n[Rus]\nдорогие механики!\nэтот мод позволит вам эмулировать поведения сиденья используя логику\nвы сможете поворачивать подшипники как сиденья\nтак же вы сможете эмулировать сидит ли персонаж в сидушки - это позволит вам управлять тормозом мотора\nтак же в дополнение, может работать как WASD конвертор\nтак же содержит много интересных логических штук, которые понрявяться механикам",
+		"description": "[Eng]\ndear mechanics!\nthis mod will allow you to emulate the behavior of the seat using logic.\nyou will be able to rotate the bearings like seats.\nyou can also emulate whether the character is sitting in the seats - this will allow you to control the engine brake.\nalso in addition, it can work as a WASD converter.\nit will also contain a lot of interesting logic pieces that mechanics will like.\n\n[Rus]\nдорогие механики!\nэтот мод позволит вам эмулировать поведения сиденья используя логику.\nвы сможете поворачивать подшипники как сиденья.\nтак же вы сможете эмулировать сидит ли персонаж в сидушки - это позволит вам управлять тормозом мотора.\nтак же в дополнение, может работать как WASD конвертор.\nтак же он будет содержать много интересных логических штук, которые понрявяться механикам.",
 		"fileId": 2943600019,
 		"localId": "78893dce-c61d-4621-9f7a-ce319b0d46be",
-		"name": "any logic stuff",
+		"name": "Advanced Logic Stuff",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
