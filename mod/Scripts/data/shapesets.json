@@ -72265,5 +72265,13 @@
 		"$CONTENT_a013ffb9-8b11-4879-96b4-63b09e1ab95b/Objects/Database/ShapeSets/airgen.shapeset": [
 			"649e756e-2fd7-4640-9b43-fe5bf0c32f9c"
 		]
+	},
+	"73fe8804-80d5-4c5d-a7fc-497272969ee0": {
+		"$CONTENT_73fe8804-80d5-4c5d-a7fc-497272969ee0/Objects/Database/ShapeSets/example.shapeset": [
+			"977e06dc-a99d-487d-8387-4a463e66fa89",
+			"d59b6176-44dd-4330-9def-4cd5016a84dd",
+			"51252140-7569-420c-b1e2-23998281478f",
+			"7d3001b2-9816-4073-bcc1-5864c4199062"
+		]
 	}
 }
