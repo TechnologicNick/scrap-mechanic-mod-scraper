@@ -16139,7 +16139,8 @@
 	"52b0dbf6-c234-40e2-999d-a8174ababf5e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod lets you see from the mechanic's eyes.\r\n\r\nIf your camera starts clipping into your head, you might want to adjust the zoom with /zoom\r\n\r\n[h1]New commands:[/h1]\r\n/zoom <number> - Adjusts the zoom of the camera(default: 5)\r\n/camtoggle - Switches between the normal camera and the True First Person camera\r\n\r\n[h1]Available commands from regular survival:[/h1]\r\n/unlimited\r\n/limited\r\n/god\r\n/spawn\r\n/killall\r\n/noaggro\r\n/encrypt\r\n/decrypt\r\n\r\n\r\n[img]https://i.imgur.com/p7Fv1Z6.gif[/img]\r\n\r\nLeave all feedback in the comments.",
+		"dependencies": [],
+		"description": "This mod lets you see from the mechanic's eyes.\n\nIf your camera starts clipping into your head, you might want to adjust the zoom with /zoom\n\n[h1]New commands:[/h1]\n/zoom <number> - Adjusts the zoom of the camera(default: 5)\n/camtoggle - Switches between the normal camera and the True First Person camera\n\n\nLeave all feedback in the comments.",
 		"fileId": 2840144060,
 		"localId": "52b0dbf6-c234-40e2-999d-a8174ababf5e",
 		"name": "True First Person",
@@ -28797,7 +28798,7 @@
 				"name": "Logic API"
 			}
 		],
-		"description": "[Eng]\r\nthis mod allows you to create autopiloted cars/aircraft.\r\nthis mod can be guided in different ways and on different objects: tags, players, units, creations, etc.\r\nit can be guided to a specific position specified by numerical logic.\r\na block with a specific uuid (guidance on the uuid has not yet been done).\r\n\r\nthis mod is designed to work in conjunction with \"The modpack\" or another mod that allows you to work with numbers.\r\ncrafting recipes will be added soon.\r\nif a bug is found, I strongly ask you to write in the comments (and it will be fixed soon).\r\n\r\nreturns to the past at the time of 0.3.5))\r\n\r\n[Rus]\r\nэтот мод позволяет создавать автопилотируемые машины/летательные аппараты.\r\nэтот мод может наводиться разными способами и на разные объекты: метки, игроки, юниты, постройки, и т д.\r\nможет наводиться на конкретную позицию заданную числовой логикой.\r\nблоком с конкретным uuid(наведения по uuid пока что не сделано).\r\n\r\nданный мод рассчитан на работу в паре с \"The modpack\" или другим модом позволяющим работать с числами.\r\nв скором времени будут добавлены рецепты крафта.\r\nесли вы обнаружете ошибку, я настоятельно прошу вас написать в комментариях (и она скоро будет исправлена).\r\n\r\nвозвращает в прошлое во времена 0.3.5))",
+		"description": "[Eng]\nthis mod allows you to create autopiloted cars/aircraft.\nthis mod can be guided in different ways and on different objects: tags, players, units, creations, etc.\nit can be guided to a specific position specified by numerical logic.\na block with a specific uuid (guidance on the uuid has not yet been done).\n\nthis mod is designed to work in conjunction with \"The modpack\" or another mod that allows you to work with numbers.\ncrafting recipes will be added soon.\nif a bug is found, I strongly ask you to write in the comments (and it will be fixed soon).\n\nreturns to the past at the time of 0.3.5))\n\n[Rus]\nэтот мод позволяет создавать автопилотируемые машины/летательные аппараты.\nэтот мод может наводиться разными способами и на разные объекты: метки, игроки, юниты, постройки, и т д.\nможет наводиться на конкретную позицию заданную числовой логикой.\nблоком с конкретным uuid(наведения по uuid пока что не сделано).\n\nданный мод рассчитан на работу в паре с \"The modpack\" или другим модом позволяющим работать с числами.\nв скором времени будут добавлены рецепты крафта.\nесли вы обнаружете ошибку, я настоятельно прошу вас написать в комментариях (и она скоро будет исправлена).\n\nвозвращает в прошлое во времена 0.3.5))\n\n\nthis mod is distributed under the \"unlicense\" license.\nmore information in the \"LICENSE\" file",
 		"fileId": 2936300656,
 		"localId": "88ec0c71-8b66-42e3-9bc2-491825df53ca",
 		"name": "Robotization",
@@ -29072,7 +29073,7 @@
 				"name": "ModDatabase v2"
 			}
 		],
-		"description": "[Eng]\nthis mod allows you to privatize creations, bodies, and even the whole world!\n\n[Rus]\nэтот мод позваляет приватить постройки, отдельные обьекты, и даже весь мир!",
+		"description": "[Eng]\nthis mod allows you to privatize creations, bodies, and even the whole world!\n\n[Rus]\nэтот мод позваляет приватить постройки, отдельные обьекты, и даже весь мир!\n\n\nthis mod is distributed under the \"unlicense\" license.\nmore information in the \"LICENSE\" file",
 		"fileId": 2943621291,
 		"localId": "bcfa2644-ae4a-4e8a-ac1b-e99939c3a95b",
 		"name": "Private Mod",
@@ -29210,7 +29211,7 @@
 				"name": "Logic API"
 			}
 		],
-		"description": "[Eng]\r\nthis mod adds speakers, turntables and records\r\nfor the mod to work, DLM game extensions are required\r\nthe mod supports crafting, but records are not crafting\r\nrecords in survival mode to spawn in peace on earth\r\n\r\n[Rus]\r\nданный мод добавляет колонки, проигрыватели и пластинки\r\nдля работы мода требуется расширения игры DLM\r\nмод поддержкивает крафты, но пластинки не крафтиться\r\nпластинки в режиме выживания спавняться в мире на земле",
+		"description": "[Eng]\nthis mod adds speakers, turntables and records.\nDLM game extensions are required for the mod to work.\nthe mod supports crafting, but the plates are not crafting.\nplates in survival mode spawn in peace on earth.\n\n[Rus]\nданный мод добавляет колонки, проигрыватели и пластинки.\nдля работы мода требуется расширения игры DLM.\nмод поддержкивает крафты, но пластинки не крафтиться.\nпластинки в режиме выживания спавняться в мире на земле.",
 		"fileId": 2948210047,
 		"localId": "9fd09c44-c46a-45b9-a7b9-da6f115989c0",
 		"name": "sound mod",
@@ -29452,12 +29453,12 @@
 		"custom_icons": false,
 		"dependencies": [
 			{
-				"fileId": 2945713875,
-				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
-				"name": "ModDatabase v2"
+				"fileId": 2973331517,
+				"localId": "e52533c5-8076-4bda-82bf-336df526690b",
+				"name": "Logic API"
 			}
 		],
-		"description": "[Eng]\na new mod that transfers details from Challenge mode to creative.\nthis mod contains new details from Challenge mode.\nthe scripts have been heavily adapted to the creative mode.\nremoved many limits and redesigned the behavior of many details.\nmany of the details that cannot work in creative mode have been redesigned as indicators.\nthe bot spawner will not spawn the bot when entering the world.\nyou should do it yourself if there is a need for it, since the autosave is not always needed in the creative.\nalso, items that were not paintable in Challenge mode are now paintable.\n\n[Rus]\nновый мод переносящий детали из Challenge mode в креатив.\nданный мод содержит новые детали из Challenge mode.\nскрипты деталей были сильно адоптированы под режим креатива.\nубраны многие лимиты и переработано поведения многих деталей.\nмногие те детали что не могут работать в режиме креатива были переработаны как индикаторы.\nспавнер ботов не спавнит бота при заходе в мир.\nвы должны сделать это сами если в этом есть необходимость, так как автоспавн не всегда нужен в креативе.\nтак же предметы которые в Challenge mode не красились, теперь красяться.",
+		"description": "[Eng]\na new mod that transfers details from Challenge mode to creative.\nthis mod contains new details from Challenge mode.\nthe scripts have been heavily adapted to the creative mode.\nremoved many limits and redesigned the behavior of many details.\nmany of the details that cannot work in creative mode have been redesigned as indicators.\nthe bot spawner will not spawn the bot when entering the world.\nyou should do it yourself if there is a need for it, since the autosave is not always needed in the creative.\nalso, items that were not paintable in Challenge mode are now paintable.\n\n[Rus]\nновый мод переносящий детали из Challenge mode в креатив.\nданный мод содержит новые детали из Challenge mode.\nскрипты деталей были сильно адоптированы под режим креатива.\nубраны многие лимиты и переработано поведения многих деталей.\nмногие те детали что не могут работать в режиме креатива были переработаны как индикаторы.\nспавнер ботов не спавнит бота при заходе в мир.\nвы должны сделать это сами если в этом есть необходимость, так как автоспавн не всегда нужен в креативе.\nтак же предметы которые в Challenge mode не красились, теперь красяться.\n\n\nthis mod is distributed under the \"unlicense\" license.\nmore information in the \"LICENSE\" file",
 		"fileId": 2957640756,
 		"localId": "6bc49594-9348-4970-871e-4b3fb98feb56",
 		"name": "Advanced Challenge Parts",
@@ -30473,7 +30474,7 @@
 				"name": "Logic API"
 			}
 		],
-		"description": "various DANGEROUS blocks, be careful!\n\nblack hole:\n* sucks in creations/players/mobs\n\nvirus block:\n* jumps between creations, spreads and interferes with the work of creations",
+		"description": "various DANGEROUS blocks, be careful!\n\nblack hole:\n* sucks in creations/players/mobs\n\nvirus block:\n* jumps between creations, spreads and interferes with the work of creations\n\n\nthis mod is distributed under the \"unlicense\" license.\nmore information in the \"LICENSE\" file",
 		"fileId": 2989704611,
 		"localId": "715214f7-dc3f-4e47-9d5d-f4913d723d21",
 		"name": "Dangerous Blocks",
@@ -30642,10 +30643,10 @@
 				"name": "Logic API"
 			}
 		],
-		"description": "a new development of scientists!\nnew super unique technology!\nA new era of humanity!\nWE PRESENT TO YOU: WOMAN LOGIC BLOCK",
+		"description": "a new development of scientists!\nnew super unique technology!\nA new era of humanity!\nWE PRESENT TO YOU: WOMAN LOGIC BLOCK\n\nHardonium - idea\nMR.Logic - code and texture\n\nthis mod is distributed under the \"unlicense\" license.\nmore information in the \"LICENSE\" file",
 		"fileId": 2997698237,
 		"localId": "4c466945-b098-404d-8e7e-3e42b9bb61be",
-		"name": "woman logic block",
+		"name": "Woman Logic Block",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
