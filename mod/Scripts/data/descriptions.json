@@ -4265,7 +4265,7 @@
 	"3269e6ef-4d80-4f75-b8f6-dffb303e5243": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "=================================================================\r\n\r\nThis mod adds new spudguns. They look like famous guns from WW1 and WW2.\r\nSome of them are animated so check them out if you like that kind of details!\r\n\r\nDiscord Server: https://discord.gg/QJRHhuUYsM\r\n\r\n=================================================================\r\n\r\n{value} - delay after shoot in ticks\r\n[A] - gun is animated\r\n<value> - amount of ammo in the magazine\r\n\r\n====== NEW CONTENT ======\r\n\r\nNEW HANDHELD WEAPON:\r\n- Bazooka M20\r\n- Eoka\r\n\r\n+ Granade damage improved\r\n+ Crafting recipes in survival\r\n\r\n=== LIGHT MACHINE GUNS ===\r\n\r\n- [A] Lewis M1914  {4}\r\n- [A] Maxim M1905  {4}\r\n- Mac-31 [A] <150> {3}\r\n- M1919 .30 {3}\r\n- MG-34 {3}\r\n- [A] MG-42 {2}, <50>\r\n- DP-29 {4}\r\n- DGx03 {4}\r\n\r\n=== HEAVY MACHINE GUNS ===\r\n\r\n- [A] Browning .50 {4}\r\n- [A] Browning .50 Aircraft {4}\r\n- DSzK 12.7mm {4}\r\n\r\n====== 20mm CANNONS ======\r\n\r\n- MG 151/20 {8}\r\n- WZ.38 {10}\r\n- Hispano {10}\r\n- [A] Vulcan M61 {4}\r\n\r\n======= EXPLOSIVES ========\r\n\r\n- Bomb (proximity fuse)\r\n- Bomb 50kg\r\n- Bomb 100kg\r\n- Bomb 250kg\r\n- Anti-Tank Mine\r\n- S-Mine\r\n\r\n===== OTHER WEAPONS ======\r\n\r\n- Bazooka {120}\r\n- AK-47 {5}\r\n- [A] Mosin-Nagant 1891 {100} <5>\r\n- [A] PTRD-41 {120}\r\n- [A] Cannon {160}\r\n\r\n===========================\r\n\r\n\r\n--------------------------Credit & Copyright:----------------------------\r\nBrent Batch / DO NOT COPY without permission from \r\nBrent Batchdiscord)\r\nQuestion Mark - scripts explosive and non-explosive guns\r\n\"Alarmblock\" script is made by wingcomstriker405\r\n--------------------------------------------------------------------------\r\n",
+		"description": "=================================================================\r\n\r\nThis mod adds new spudguns. They look like famous guns from WW1 and WW2.\r\nSome of them are animated so check them out if you like that kind of details!\r\n\r\nDiscord Server: https://discord.gg/QJRHhuUYsM\r\n\r\n=================================================================\r\n\r\n{value} - delay after shoot in ticks\r\n[A] - gun is animated\r\n<value> - amount of ammo in the magazine\r\n\r\n====== NEW CONTENT ======\r\n\r\nNEW HANDHELD WEAPON:\r\n\r\n+M1 Garand\r\n+Mp 40 Submg\r\n\r\n+ Granade nerfed\r\n\r\n=== LIGHT MACHINE GUNS ===\r\n\r\n- [A] Lewis M1914  {4}\r\n- [A] Maxim M1905  {4}\r\n- Mac-31 [A] <150> {3}\r\n- M1919 .30 {3}\r\n- MG-34 {3}\r\n- [A] MG-42 {2}, <50>\r\n- DP-29 {4}\r\n- DGx03 {4}\r\n\r\n=== HEAVY MACHINE GUNS ===\r\n\r\n- [A] Browning .50 {4}\r\n- [A] Browning .50 Aircraft {4}\r\n- DSzK 12.7mm {4}\r\n\r\n====== 20mm CANNONS ======\r\n\r\n- MG 151/20 {8}\r\n- WZ.38 {10}\r\n- Hispano {10}\r\n- [A] Vulcan M61 {4}\r\n\r\n======= EXPLOSIVES ========\r\n\r\n- Bomb (proximity fuse)\r\n- Bomb 50kg\r\n- Bomb 100kg\r\n- Bomb 250kg\r\n- Anti-Tank Mine\r\n- S-Mine\r\n\r\n===== OTHER WEAPONS ======\r\n\r\n- Bazooka {120}\r\n- AK-47 {5}\r\n- [A] Mosin-Nagant 1891 {100} <5>\r\n- [A] PTRD-41 {120}\r\n- [A] Cannon {160}\r\n\r\n===========================\r\n\r\n\r\n--------------------------Credit & Copyright:----------------------------\r\nBrent Batch / DO NOT COPY without permission from \r\nBrent Batchdiscord)\r\nQuestion Mark - scripts explosive and non-explosive guns\r\n\"Alarmblock\" script is made by wingcomstriker405\r\n--------------------------------------------------------------------------\r\n",
 		"fileId": 1903792337,
 		"localId": "3269e6ef-4d80-4f75-b8f6-dffb303e5243",
 		"name": "Machine gun",
@@ -30667,6 +30667,64 @@
 		"fileId": 2998208195,
 		"localId": "73fe8804-80d5-4c5d-a7fc-497272969ee0",
 		"name": "glass_is_jp2_mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"c48f17fd-c82c-4ece-bab8-13fc1c9fe581": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This Mod Adds The Growing Sensor from my Main Fant Mod as a Standalone Part.\r\nIt can Detect if a Plant ( Soil ) needs Seeds, Water, Fertilizer or is Ready to Harvest.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"fileId": 2998826573,
+		"localId": "c48f17fd-c82c-4ece-bab8-13fc1c9fe581",
+		"name": "Plant Growing Sensor",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"94caf1eb-3f7b-4d3e-ab50-e53602b228f2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
+			}
+		],
+		"description": "This mod doesn't have a description",
+		"fileId": 2999000076,
+		"localId": "94caf1eb-3f7b-4d3e-ab50-e53602b228f2",
+		"name": "blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"deafce5f-8d95-49b1-b8fa-d543fccc82f6": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 2999109760,
+		"localId": "deafce5f-8d95-49b1-b8fa-d543fccc82f6",
+		"name": "more wheels",
+		"type": "Blocks and Parts",
+		"version": 1,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
+			}
+		]
+	},
+	"c94fe81b-0a95-40e4-adb1-70df8ee2b973": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
+			}
+		],
+		"description": "This mod doesn't have a description",
+		"fileId": 2999123366,
+		"localId": "c94fe81b-0a95-40e4-adb1-70df8ee2b973",
+		"name": "wheels",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
