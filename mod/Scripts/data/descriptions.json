@@ -30727,5 +30727,15 @@
 		"name": "wheels",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"cb6611e0-3721-4b5c-a9e7-04c87071645e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 2841300781,
+		"localId": "cb6611e0-3721-4b5c-a9e7-04c87071645e",
+		"name": "METAL!!!",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
