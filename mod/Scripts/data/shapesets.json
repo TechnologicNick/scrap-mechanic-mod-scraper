@@ -13696,7 +13696,8 @@
 			"355e465a-bf4d-45c5-a49c-a063972b2781"
 		],
 		"$CONTENT_3269e6ef-4d80-4f75-b8f6-dffb303e5243/Objects/Database/ShapeSets/grenades.json": [
-			"b4a6a717-f54b-4df7-a44c-bb5308a494a2"
+			"b4a6a717-f54b-4df7-a44c-bb5308a494a2",
+			"63f18d12-41eb-4de7-9ce3-54f5b3a25a14"
 		],
 		"$CONTENT_3269e6ef-4d80-4f75-b8f6-dffb303e5243/Objects/Database/ShapeSets/parts.json": [
 			"690ce3fd-6f14-4d6d-9a47-8576fec4350d",
@@ -71671,7 +71672,9 @@
 	},
 	"e5876f95-c20d-4e0a-82a9-d51f0abf8849": {
 		"$CONTENT_e5876f95-c20d-4e0a-82a9-d51f0abf8849/Objects/Database/ShapeSets/example.shapeset": [
-			"52f396ea-0ba7-4e82-bf99-6563ac91b1ad"
+			"52f396ea-0ba7-4e82-bf99-6563ac91b1ad",
+			"661fea2a-2aec-4ba1-af42-1f44317514f3",
+			"adeff051-edf6-4b4c-9480-4d9a83d708b5"
 		]
 	},
 	"0b13c513-c64e-411c-af7a-56a5b4c06989": {
@@ -80017,5 +80020,11 @@
 	},
 	"dca1454d-fe28-4a1e-a810-99e6c16171d2": {
 		"$CONTENT_dca1454d-fe28-4a1e-a810-99e6c16171d2/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"863abfea-9dc1-4ffe-aab2-a1b1204c6c37": {
+		"$CONTENT_863abfea-9dc1-4ffe-aab2-a1b1204c6c37/Objects/Database/ShapeSets/example.shapeset": [
+			"29a6463a-0585-4b6b-a588-b6503d05faa1",
+			"54508457-ee0b-40ee-81d2-56016d50b408"
+		]
 	}
 }
