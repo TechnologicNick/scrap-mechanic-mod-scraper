@@ -30794,5 +30794,15 @@
 		"name": "Armour Blocks",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"94d5a350-d305-49ad-a33b-300372d0749e": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This Mod Add Rideable Woc´s to the Game.\r\nYou will find a Woc Saddle and Woc Bags for it.\r\nJust Take them in your Hand and Press Leftclick on a Woc.\r\nEnjoy the Ride ;)\r\n\r\nControles are:\r\nWASD = Moving\r\nHolf Left or Right Mouse Button to Sprint\r\n\r\nWhile Sprinting you will see the \"Corn\" Staminabar gets lower. Stop sprinting and it will regenerate.\r\n\r\nThe Mod is a Standalone Seperation from my Main Fant Mod.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"fileId": 3001552885,
+		"localId": "94d5a350-d305-49ad-a33b-300372d0749e",
+		"name": "Rideable Wocs",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

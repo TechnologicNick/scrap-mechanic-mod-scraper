@@ -80026,5 +80026,12 @@
 			"29a6463a-0585-4b6b-a588-b6503d05faa1",
 			"54508457-ee0b-40ee-81d2-56016d50b408"
 		]
+	},
+	"94d5a350-d305-49ad-a33b-300372d0749e": {
+		"$CONTENT_94d5a350-d305-49ad-a33b-300372d0749e/Objects/Database/ShapeSets/Fant_Rideable_Wocs.shapeset": [
+			"686640e9-bbe5-4fa8-9923-9f6f8f620dba",
+			"965f491c-0486-4b0c-9c7c-af26b9dea98c",
+			"3e0e7cc2-6c24-4610-9082-08572e385c18"
+		]
 	}
 }

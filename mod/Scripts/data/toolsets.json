@@ -3523,5 +3523,12 @@
 	"646793f6-e344-4a01-aafc-1e78a02ebe54": {},
 	"8dce5730-a409-4340-9c0e-210109460136": {},
 	"dca1454d-fe28-4a1e-a810-99e6c16171d2": {},
-	"863abfea-9dc1-4ffe-aab2-a1b1204c6c37": {}
+	"863abfea-9dc1-4ffe-aab2-a1b1204c6c37": {},
+	"94d5a350-d305-49ad-a33b-300372d0749e": {
+		"$CONTENT_94d5a350-d305-49ad-a33b-300372d0749e/Tools/Database/ToolSets/RideableWocs.toolset": [
+			"61fa2d92-e160-4f5a-b15c-b1ed64b2713c",
+			"4a428601-d22c-49e3-9759-58533ad22875",
+			"72dd0e4b-6078-4a20-9a77-9736b30b3459"
+		]
+	}
 }
