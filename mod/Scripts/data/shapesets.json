@@ -80033,5 +80033,10 @@
 			"965f491c-0486-4b0c-9c7c-af26b9dea98c",
 			"3e0e7cc2-6c24-4610-9082-08572e385c18"
 		]
+	},
+	"758be396-082c-423e-bf81-498ce08bc847": {
+		"$CONTENT_758be396-082c-423e-bf81-498ce08bc847/Objects/Database/ShapeSets/Logic_Creation_Spawner.shapeset": [
+			"9f14b988-95f6-4eaf-b453-b0246b4ff968"
+		]
 	}
 }
