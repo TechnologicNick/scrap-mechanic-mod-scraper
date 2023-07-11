@@ -29268,7 +29268,7 @@
 				"name": "Logic API"
 			}
 		],
-		"description": "this fork of ScriptableComputer\r\nfork creation was approved by the authors of the mod\r\nfor the mod to work correctly, there SHOULD BE NO \"ScriptableComputer\" and/or \"SCI\" in the world\r\n\r\nadvantages of SComputers compared to any other computer mods:\r\n* bug fixes (critical filesystem bugs, bugs causing lags, bugs breaking code, and many other extremely unpleasant bugs have been fixed in SComputers)\r\n* responsive support (you can always write a comment to the mod and I will answer it, you can also write to me in the discord \"smlogic\")\r\n* optimization (displays in SComputers lag much less than in the original)\r\n* the presence of require and built-in libraries (in mod there are several built-in libraries for rendering bmp, midi playback, a library for creating a file system in RAM, utf8, base64 and many other libraries that you will not have to write from 0 now)\r\n* compatibility (this mod is fully compatible with the original and with SCI and may also be compatible with other mods in the future)\r\n* code examples (code examples in mod will help you figure it out a bit)\r\n* security (from SComputers it is much more difficult to cause bugsplat, game freezes, lags)\r\n* availability of new components (keyboards, holographic projectors, terminals, speakers, LEDs, tablets)\r\n* regular updates (about 4 updates per week)\r\n* support for crafting recipes\r\n* radars are seen a robots/wocs/worms\r\n* ability to use dlm/fullLuaEnv to load code (instead of luaInLua and scrapVM) which will allow you to receive normal error reports\r\n\r\ncurrent documentation is \"temporary\"\r\nbecause the scrapmechanictool site has closed\r\nalso, the SComputers documentation describes only what SComputers adds\r\nyou will still need to study the documentation of the parent mod (ScriptableComputer) to have an idea of how the mod works\r\n\r\nSComputers documentation: https://github.com/igorkll/SComputers_docs/blob/main/SComputers/Info.md\r\nParent Mod documentation(ScriptableComputer): https://steamcommunity.com/sharedfiles/filedetails/?id=2831560152",
+		"description": "this fork of ScriptableComputer\nfork creation was approved by the authors of the mod\nfor the mod to work correctly, there SHOULD BE NO \"ScriptableComputer\" and/or \"SCI\" in the world\n\nluaInLua bug fixes:\n* most of the luaInLua bugs have been fixed\n* local variables now work fine\n* the arguments of the functions now also work fine\n\nadvantages of SComputers compared to any other computer mods:\n* bug fixes (critical filesystem bugs, bugs causing lags, bugs breaking code, and many other extremely unpleasant bugs have been fixed in SComputers)\n* compatibility (this mod is fully compatible with the original and with SCI and may also be compatible with other mods in the future)\n* responsive support (you can always write a comment to the mod and I will answer it, you can also write to me in the discord \"smlogic\")\n* optimization (displays in SComputers lag much less than in the original)\n* the presence of require and built-in libraries (image, midi, vdisplay, base64, utf8, ramfs, etc)\n* code examples (code examples in mod will help you figure it out a bit)\n* security (from SComputers it is much more difficult to cause bugsplat, game freezes, lags)\n* availability of new components\n* regular updates (about 4 updates per week)\n* support for crafting recipes\n* radars are seen a robots/wocs/worms\n* ability to use dlm/fullLuaEnv to load code (instead of luaInLua) which will allow you to receive normal error reports\n\ncurrent documentation is \"temporary\"\nbecause the scrapmechanictool site has closed\nalso, the SComputers documentation describes only what SComputers adds\nyou will still need to study the documentation of the parent mod (ScriptableComputer) to have an idea of how the mod works\n\nSComputers documentation: https://github.com/igorkll/SComputers_docs/blob/main/SComputers/Info.md\nParent Mod documentation(ScriptableComputer): https://steamcommunity.com/sharedfiles/filedetails/?id=2831560152",
 		"fileId": 2949350596,
 		"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
 		"name": "SComputers [Fork]",
@@ -30823,6 +30823,36 @@
 		"fileId": 3002358324,
 		"localId": "b85bf84c-78b3-4d3d-8265-adfbfbc1b2ed",
 		"name": "Minecraft",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"80d56ff9-74cb-413e-8465-60223f42433a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Includes all chess pieces (1*1*1, 1*2*1) and a chess board (8*8).\n",
+		"fileId": 3002448319,
+		"localId": "80d56ff9-74cb-413e-8465-60223f42433a",
+		"name": "The Chess Set",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"83a5de34-29ce-4a26-9a3d-002e1d8010c4": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "My first scrap mechanic mod",
+		"fileId": 3002605739,
+		"localId": "83a5de34-29ce-4a26-9a3d-002e1d8010c4",
+		"name": "Wordwire's pixel bricks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"2c6b578e-170a-402a-b57b-1d7523faf296": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3002609790,
+		"localId": "2c6b578e-170a-402a-b57b-1d7523faf296",
+		"name": "disable names",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
