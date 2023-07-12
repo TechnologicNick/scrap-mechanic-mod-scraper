@@ -30820,7 +30820,7 @@
 		"custom_icons": false,
 		"dependencies": null,
 		"description": "This mod doesn't have a description",
-		"fileId": 3002358324,
+		"fileId": 3002736507,
 		"localId": "b85bf84c-78b3-4d3d-8265-adfbfbc1b2ed",
 		"name": "Minecraft",
 		"type": "Blocks and Parts",
@@ -30855,5 +30855,25 @@
 		"name": "disable names",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"756d4f03-2e86-4f5b-a425-20259568eff3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Tired of finding the right item in the inventory filled with various mods? \r\nThere is a solution for you.\r\nJust hold the camera on block or shape and enter the [b] /get [/b] command into the chat and you will get it instantly in hotbar.\r\n\r\n\r\n[h1] Instruction (or just watch the video) [/h1]\r\n[olist]\r\n    [*]Download mod and enable it.\r\n    [*]Aim the camera at the block or shape.\r\n    [*]Open chat and enter the [b]/get[/b] command.\r\n[/olist]\r\n\r\n\r\n[h1] Info about mod [/h1]\r\nThis mod doesn't support Survival and other custom games. Probably, I can add support for them.\r\nI use chat command, because Scrap Mechanic don't have support get keybindigs, maybe I can do that.\r\n\r\nPlease, leave a like and add the mod to your favorites to support my work!",
+		"fileId": 3002663600,
+		"localId": "756d4f03-2e86-4f5b-a425-20259568eff3",
+		"name": "Pickable Shapes",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"8de92d19-0b28-44dd-9f52-145c575e5d71": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3002836941,
+		"localId": "8de92d19-0b28-44dd-9f52-145c575e5d71",
+		"name": "MAP 3",
+		"type": "Custom Game",
+		"version": 0
 	}
 }

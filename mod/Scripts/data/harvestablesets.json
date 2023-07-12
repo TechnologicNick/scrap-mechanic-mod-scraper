@@ -1385,5 +1385,8 @@
 			"cceec00b-8a34-4d68-a419-8c3bc7aa075a"
 		]
 	},
-	"53f5c89b-f1e2-46a1-9bad-8e1968e48ea3": {}
+	"53f5c89b-f1e2-46a1-9bad-8e1968e48ea3": {},
+	"8de92d19-0b28-44dd-9f52-145c575e5d71": {
+		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Harvestables/Database/HarvestableSets/example.harvestableset": []
+	}
 }
