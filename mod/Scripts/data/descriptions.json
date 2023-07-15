@@ -28670,7 +28670,14 @@
 	"f5b9c07c-4f9c-43bf-8302-2e35efe11136": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "adds steak engines",
+		"dependencies": [
+			{
+				"fileId": 2945713875,
+				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
+				"name": "ModDatabase v2"
+			}
+		],
+		"description": "Power your creations with slabs of meat!\r\n\r\nDiscord: hello.jpeg\r\n\r\nReddit: fact_eater\r\n\r\nYouTube: The Idiot Speedrunner",
 		"fileId": 2932783531,
 		"localId": "f5b9c07c-4f9c-43bf-8302-2e35efe11136",
 		"name": "beef power",
@@ -30859,7 +30866,7 @@
 	"756d4f03-2e86-4f5b-a425-20259568eff3": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Устали находить нужный предмет среди заполненного модами инвентаря? Это можно решить. Просто наведите камерой на нужный блок и введите команду [b]/get[/b] в чат и нужный блок появится у вас в нужном слоте.\r\n\r\n\r\n[h1] Инструкция (можно посмотреть видео) [/h1]\r\n[olist]\r\n    [*]Скачайте мод и включите его.\r\n    [*]Наведите камеру на нужный блок.\r\n    [*]Откройте чат и введите команду [b]/get[/b].\r\n[/olist]\r\n\r\n\r\n[h1] Информация о моде [/h1]\r\nЭтот мод добавляет функцию получения нужного блока не заходя в инвентарь. (Как средняя кнопка мыши в Minecraft'е)\r\nЭтот мод не поддерживает режим Выживания и другие кастомные режимы. Когда-нибудь я смогу добавить для них поддержку.\r\nЯ использую команду, потому что Scrap Mechanic не поддерживает бинды для модов, в будущем если добавят поддержу, то я обязательно сделаю это, пока только так.\r\nС помощью команды нельзя получить подшипник, подвеску, поршни и др.\r\n\r\nПожалуйста, поставьте лайк и добавьте этот мод себе в избранное, чтобы поддержать мою работу!",
+		"description": "Tired of finding the right item in the inventory filled with various mods? There is a solution for you. \nJust hold the camera on block and enter the [b] /get [/b] command into the chat and you will get it instantly in hotbar.\n\n\n[h1] Instruction (or just watch the video) [/h1]\n[olist]\n    [*]Download mod and enable it.\n    [*]Aim the camera at the needed block.\n    [*]Open chat and enter [b]/get[/b] command.\n[/olist]\n\n\n[h1] Info about mod [/h1]\nThis mod adds the function of getting the desired block without the inventory. (like the middle mouse button in Minecraft)\nThis mod doesn't support Survival and other custom games. Probably, I can add support for them.\nI use chat command, because Scrap Mechanic API doesn't support keybinding for mods, maybe I can do that in future.\nWith this command you can't get bearing, pistons, suspensions. (aka joint items)\n\nPlease, leave a like and add the mod to your favorites to support my work!",
 		"fileId": 3002663600,
 		"localId": "756d4f03-2e86-4f5b-a425-20259568eff3",
 		"name": "Pickable Shapes",
