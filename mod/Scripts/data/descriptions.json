@@ -30933,5 +30933,15 @@
 		"name": "destructible",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"472b085d-161e-41ae-90e3-cb6ba2aff3b2": {
+		"allow_add_mods": false,
+		"custom_icons": false,
+		"description": "[h1]SIMPLE FORESTRY MOD[/h1]\nThis mod adds tree seeds and corn seeds to your survival game.\n\n[h1]Usage:[/h1]\nPlant tree seeds and corn seeds just like other seeds, with water and eventually fertilizer. You won't see the soil crop after you plant a tree but you can still use water and fertilizer.\nTrees and broken corns drop 1-2 seeds and a soil bag when you destroy them.\n\nTrees do not regrow.",
+		"fileId": 3005192651,
+		"localId": "472b085d-161e-41ae-90e3-cb6ba2aff3b2",
+		"name": "Simple Forestry Mod",
+		"type": "Custom Game",
+		"version": 0
 	}
 }

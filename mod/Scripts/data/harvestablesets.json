@@ -1388,5 +1388,17 @@
 	"53f5c89b-f1e2-46a1-9bad-8e1968e48ea3": {},
 	"8de92d19-0b28-44dd-9f52-145c575e5d71": {
 		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Harvestables/Database/HarvestableSets/example.harvestableset": []
+	},
+	"472b085d-161e-41ae-90e3-cb6ba2aff3b2": {
+		"$CONTENT_472b085d-161e-41ae-90e3-cb6ba2aff3b2/Harvestables/Database/HarvestableSets/hvs_plantables.json": [
+			"f358b27e-225c-11ee-be56-0242ac120002",
+			"ed577c38-2195-11ee-be56-0242ac120002",
+			"96909f64-2196-11ee-be56-0242ac120002",
+			"9690a25c-2196-11ee-be56-0242ac120002"
+		],
+		"$CONTENT_472b085d-161e-41ae-90e3-cb6ba2aff3b2/Harvestables/Database/HarvestableSets/hvs_farmables.json": [
+			"39a5aeba-a021-4117-8cad-e08ad159281d",
+			"0f74d3a4-ade0-4054-8207-21f6be7903be"
+		]
 	}
 }
