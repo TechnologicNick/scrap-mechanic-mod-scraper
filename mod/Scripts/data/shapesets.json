@@ -80344,5 +80344,10 @@
 			"05c81c17-3780-4edb-80a4-1648c25ca460",
 			"15ee8b4c-d58b-462f-a0a0-5c9bcdff495f"
 		]
+	},
+	"761ec264-c958-4ac6-a7f9-2dc742719a27": {
+		"$CONTENT_761ec264-c958-4ac6-a7f9-2dc742719a27/Objects/Database/ShapeSets/example.shapeset": [
+			"89031b13-7282-46c8-bc91-0e38e8ecf8dd"
+		]
 	}
 }
