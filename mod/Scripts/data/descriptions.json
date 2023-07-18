@@ -26072,13 +26072,6 @@
 	"8420a7ba-2462-41ac-966e-da6cc84fb899": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2945713875,
-				"localId": "8a98d059-e8b2-4c4d-bc87-02be20411962",
-				"name": "STD"
-			}
-		],
 		"description": "[h1] Hello! [/h1]\r\n\r\nThis is a mod that gives you some useful tools to aid with your vanilla logic builds!\r\n\r\nThis mod is currently in beta, I will be adding to it in the future, right now i'm thinking of more ideas to add without adding existing tools in other logic mods.\r\n\r\n[h1] Current tools: [/h1]\r\n\r\n[b]Logic Gate State Shower[/b] - Shows the state of a logic gate\r\n\r\n[b]1 Tick Hammer Block[/b] - Makes your hammer able to 1 tick logic gates\r\n\r\n[b]Circuit Timer Block[/b] - measures the time in ticks in a circuit\r\n\r\n[b]Self Wirer[/b] - Self wires logic gates\r\n\r\n[b]Logic Gate Mode Changer[/b] - allows you to change the logic gate's mode by colour\r\n\r\n[b]Timer Tick Modifier[/b] - allows you to modify timers ticks by colour\r\n\r\n[b]Logic Gate Connection Shower[/b] - Shows connections with name tags on your screen, helps in high connection count logic creations\r\n\r\n[b]The Ultimate Connection Hider[/b] - 1st use, when it is placed down, it hides connections while wiring, 2nd use, when interacting with the tool it will hide every connection on the creation.\r\n\r\n\r\nplease report any bugs to me in the comments and feel free to give me some suggestions.\r\n\r\nHope you enjoy.",
 		"fileId": 2856940100,
 		"localId": "8420a7ba-2462-41ac-966e-da6cc84fb899",
@@ -27832,18 +27825,6 @@
 	"2bc5a271-e920-4853-a2a6-3f327ba3e971": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2945713875,
-				"localId": "8a98d059-e8b2-4c4d-bc87-02be20411962",
-				"name": "STD"
-			},
-			{
-				"fileId": 2945713875,
-				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
-				"name": "ModDatabase v2"
-			}
-		],
 		"description": "[h1]Player Name Tag Hider[/h1]\r\n\r\nVery simple, this tool hides player nametag's, but keeps your chrosshair and hotbar on screen, this can be useful for stuff like tank battles, hide and seek/manhunt etc.\r\n\r\nAny bugs, feel free to let me know in the comments\r\n\r\n[i]A like and a favourite would also be greatly appreciated[/i]👍\r\n\r\n[b]Hope you enjoy![/b]",
 		"fileId": 2910423207,
 		"localId": "2bc5a271-e920-4853-a2a6-3f327ba3e971",
@@ -30963,5 +30944,15 @@
 		"name": "Survival And Mods",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"2f451f24-bdec-40b5-b6fb-a338dab158d3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Removes potatos shot by mounted spudguns.",
+		"fileId": 3005776120,
+		"localId": "2f451f24-bdec-40b5-b6fb-a338dab158d3",
+		"name": "No Mounted Spudgun Potatos",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
