@@ -80357,5 +80357,16 @@
 		"$CONTENT_2f451f24-bdec-40b5-b6fb-a338dab158d3/Objects/Database/ShapeSets/example.shapeset": [
 			"454ad69d-bac2-4b06-9386-6267bcbfece2"
 		]
+	},
+	"a4063cc2-d4d9-492f-987a-0c9e7810c3cf": {
+		"$CONTENT_a4063cc2-d4d9-492f-987a-0c9e7810c3cf/Objects/Database/ShapeSets/SkyWorld.shapeset": [
+			"66ad6dcd-5927-461e-96db-619ae0f2a715",
+			"a84712d0-436f-4408-b56e-6a626ad72d9c",
+			"450b46c6-9993-4573-9965-752224685ede",
+			"1c8d3c83-2d3a-41be-88b3-510722c85e39"
+		],
+		"$CONTENT_a4063cc2-d4d9-492f-987a-0c9e7810c3cf/Objects/Database/ShapeSets/survivalobject.json": [
+			"614c3193-13da-40f4-9b03-37f26e760fd6"
+		]
 	}
 }

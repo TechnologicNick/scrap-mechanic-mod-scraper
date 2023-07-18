@@ -1403,5 +1403,14 @@
 	},
 	"39b64e01-45d3-4148-b061-a0f5b8ef5379": {
 		"$CONTENT_39b64e01-45d3-4148-b061-a0f5b8ef5379/Harvestables/Database/HarvestableSets/example.harvestableset": []
+	},
+	"a4063cc2-d4d9-492f-987a-0c9e7810c3cf": {
+		"$CONTENT_a4063cc2-d4d9-492f-987a-0c9e7810c3cf/Harvestables/Database/HarvestableSets/SkyWorldHarvestables.harvestableset": [
+			"391b6787-c3c5-4a24-befa-58d4e37b8e8d",
+			"bd6c5b59-6f3a-474a-aaea-47e9d8f566c1",
+			"30109e38-7e8c-4baf-b6ae-e0a41a74f91f",
+			"7533dde5-27c5-478c-83ed-8bfc8a9907ac",
+			"b6a26689-d803-49cc-a6e8-7f2b66dfb54d"
+		]
 	}
 }

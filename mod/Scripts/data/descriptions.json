@@ -30372,13 +30372,6 @@
 	"f9cf9fef-02f9-4029-89d7-4a8c91e2f349": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 1759377518,
-				"localId": "2b09183f-5ecb-4dac-93a0-99bd0baa6e55",
-				"name": "ModDatabase"
-			}
-		],
 		"description": "[h1] Bingo's Block And Part Editor [/h1]\r\n\r\nThis tool allows you to practically blueprint edit in game, this includes joints too. Don't worry about creating invalid joint positions or similar issues as I have some measures put in place to stop that from happening.\r\n\r\nAny bugs, feel free to let me know in the comments.\r\n\r\n[i] A like and a favourite would also be greatly appreciated 👍 [/i]\r\n\r\nHope you enjoy!",
 		"fileId": 2987476458,
 		"localId": "f9cf9fef-02f9-4029-89d7-4a8c91e2f349",
@@ -30954,5 +30947,15 @@
 		"name": "No Mounted Spudgun Potatos",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"a4063cc2-d4d9-492f-987a-0c9e7810c3cf": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This is a Fully Sky World. No Ground!",
+		"fileId": 3006236236,
+		"localId": "a4063cc2-d4d9-492f-987a-0c9e7810c3cf",
+		"name": "Sky World",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
