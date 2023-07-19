@@ -80363,10 +80363,23 @@
 			"66ad6dcd-5927-461e-96db-619ae0f2a715",
 			"a84712d0-436f-4408-b56e-6a626ad72d9c",
 			"450b46c6-9993-4573-9965-752224685ede",
-			"1c8d3c83-2d3a-41be-88b3-510722c85e39"
+			"1c8d3c83-2d3a-41be-88b3-510722c85e39",
+			"97f449b6-c948-448b-b8b3-4448e3f6b956"
+		],
+		"$CONTENT_a4063cc2-d4d9-492f-987a-0c9e7810c3cf/Objects/Database/ShapeSets/craftbot.json": [
+			"b63c6440-dfc2-4da7-acdb-3c385080b2e4",
+			"b7571f6f-9d53-44ba-99d2-3b4f05e6fd0f",
+			"1c83675f-7c77-4cbb-875b-79d4bd46100d",
+			"c69a7855-d915-4784-af81-d0a8849e458f",
+			"4fcb4cb8-7623-11ea-bc55-0242ac130003"
 		],
 		"$CONTENT_a4063cc2-d4d9-492f-987a-0c9e7810c3cf/Objects/Database/ShapeSets/survivalobject.json": [
 			"614c3193-13da-40f4-9b03-37f26e760fd6"
+		]
+	},
+	"a63c48d8-ff6a-4e74-a37a-b4eaf9ceb2fc": {
+		"$CONTENT_a63c48d8-ff6a-4e74-a37a-b4eaf9ceb2fc/Objects/Database/ShapeSets/logo.shapeset": [
+			"69e0f426-d3b5-474b-82b7-cf93ba169a8e"
 		]
 	}
 }
