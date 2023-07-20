@@ -30967,5 +30967,15 @@
 		"name": "Beanixxie Logo",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"a3eb6a74-164e-44c0-8a49-8f4eef32703d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3007093629,
+		"localId": "a3eb6a74-164e-44c0-8a49-8f4eef32703d",
+		"name": "Thruster or explosive Powered Engines Blocks",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
