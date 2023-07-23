@@ -722,5 +722,8 @@
 		"$CONTENT_a4063cc2-d4d9-492f-987a-0c9e7810c3cf/Characters/Database/CharacterSets/robots.characterset": [
 			"8984bdbf-521e-4eed-b3c4-2b5e287eb879"
 		]
+	},
+	"856ef1e1-789c-416f-9be9-b42159176d6e": {
+		"$CONTENT_856ef1e1-789c-416f-9be9-b42159176d6e/Characters/Database/CharacterSets/example.characterset": []
 	}
 }

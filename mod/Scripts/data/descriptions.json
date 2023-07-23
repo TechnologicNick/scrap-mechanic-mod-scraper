@@ -30987,5 +30987,15 @@
 		"name": "Summer Beach Menu",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"856ef1e1-789c-416f-9be9-b42159176d6e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "My improved version of the bedwars custom game originally made by Dr. Pixel Plays\n\nChanges made:\n\n - Spawn protection of 2.5s\n - Enemy sensor (new interactive part)\n - Driver's seat and driver's saddle added to the shop",
+		"fileId": 2996323205,
+		"localId": "856ef1e1-789c-416f-9be9-b42159176d6e",
+		"name": "Improved Bedwars Custom Game",
+		"type": "Custom Game",
+		"version": 0
 	}
 }

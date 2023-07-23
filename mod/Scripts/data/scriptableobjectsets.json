@@ -554,5 +554,10 @@
 	},
 	"a4063cc2-d4d9-492f-987a-0c9e7810c3cf": {
 		"$CONTENT_a4063cc2-d4d9-492f-987a-0c9e7810c3cf/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"856ef1e1-789c-416f-9be9-b42159176d6e": {
+		"$CONTENT_856ef1e1-789c-416f-9be9-b42159176d6e/ScriptableObjects/ScriptableObjectSets/managers.sobset": [
+			"cb5871ae-c677-4480-94e9-31d16899d093"
+		]
 	}
 }
