@@ -55178,6 +55178,9 @@
 		]
 	},
 	"97fea750-1f4e-4130-94fb-05b1d9bce4ff": {
+		"$CONTENT_97fea750-1f4e-4130-94fb-05b1d9bce4ff/Objects/Database/ShapeSets/challenge_interactive.json": [
+			"fa9de66b-fd92-4d67-bf68-6584937b736d"
+		],
 		"$CONTENT_97fea750-1f4e-4130-94fb-05b1d9bce4ff/Objects/Database/ShapeSets/chemammo.shapeset": [
 			"f60de4ca-4e98-4df4-805e-89d24ee9653f"
 		]
