@@ -81217,5 +81217,10 @@
 	},
 	"7ee7c7bb-2fad-4e8f-a3b3-9e00472a714e": {
 		"$CONTENT_7ee7c7bb-2fad-4e8f-a3b3-9e00472a714e/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"c9017daa-0898-445d-b1c7-03d42b5ec396": {
+		"$CONTENT_c9017daa-0898-445d-b1c7-03d42b5ec396/Objects/Database/ShapeSets/composite.json": [
+			"14b629d7-a1b6-4803-ae6e-a0ff50d45053"
+		]
 	}
 }

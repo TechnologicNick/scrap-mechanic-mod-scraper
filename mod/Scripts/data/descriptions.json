@@ -31002,7 +31002,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "Adds money as a block that you can use to buy(craft)things. To get money trade stuff in with your craftbot.",
+		"description": "Adds money as a block that you can use to buy(trade)things. To get money trade stuff in with your craftbot.",
 		"fileId": 3009247639,
 		"localId": "6f223957-55c3-4e17-8343-fb65029903cc",
 		"name": "Money mod",
@@ -31025,5 +31025,22 @@
 		"name": "endless world",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"c9017daa-0898-445d-b1c7-03d42b5ec396": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2949350596,
+				"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
+				"name": "SComputers [Fork]"
+			}
+		],
+		"description": "this is a special version of SComputers for integration into challenges/customgames, unlike the original SComputers, this has an additional \"unsafe computer\" that always has unsafe-mode and printON, regardless of the user settings of the mod. also, this version of SComputers is turned on by silence (it is not required to press the YES button when logging in) and cannot be turned off",
+		"fileId": 3009550168,
+		"localId": "c9017daa-0898-445d-b1c7-03d42b5ec396",
+		"name": "SComputers [Integrable]",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
