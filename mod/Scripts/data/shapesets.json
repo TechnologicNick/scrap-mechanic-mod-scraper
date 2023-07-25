@@ -81209,5 +81209,13 @@
 			"1babcbfe-4585-46a9-afdf-b71dd0ab5396",
 			"c4a2ffa8-c245-41fb-9496-966c6ee4648b"
 		]
+	},
+	"6f223957-55c3-4e17-8343-fb65029903cc": {
+		"$CONTENT_6f223957-55c3-4e17-8343-fb65029903cc/Objects/Database/ShapeSets/example.shapeset": [
+			"cb751c82-9bc3-48bd-aa03-4c2648d81640"
+		]
+	},
+	"7ee7c7bb-2fad-4e8f-a3b3-9e00472a714e": {
+		"$CONTENT_7ee7c7bb-2fad-4e8f-a3b3-9e00472a714e/Objects/Database/ShapeSets/example.shapeset": []
 	}
 }

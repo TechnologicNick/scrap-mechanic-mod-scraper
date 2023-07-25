@@ -30840,7 +30840,7 @@
 	"756d4f03-2e86-4f5b-a425-20259568eff3": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Tired of finding the right item in the inventory filled with various mods? There is a solution for you. \nJust hold the camera on block and enter the [b] /get [/b] command into the chat and you will get it instantly in hotbar.\n\n\n[h1] Instruction (or just watch the video) [/h1]\n[olist]\n    [*]Download mod and enable it.\n    [*]Aim the camera at the needed block.\n    [*]Open chat and enter [b]/get[/b] command.\n[/olist]\n\n\n[h1] Info about mod [/h1]\nThis mod adds the function of getting the desired block without the inventory. (like the middle mouse button in Minecraft)\nThis mod doesn't support Survival and other custom games. Probably, I can add support for them.\nI use chat command, because Scrap Mechanic API doesn't support keybinding for mods, maybe I can do that in future.\nWith this command you can't get bearing, pistons, suspensions. (aka joint items)\n\nPlease, leave a like and add the mod to your favorites to support my work!",
+		"description": "Tired of finding the right item in the inventory filled with various mods? There is a solution for you. \r\nJust hold the camera on block and enter the [b] /get [/b] command into the chat and you will get it instantly in hotbar.\r\n\r\n[h1] I'm working on new update with tool instead of script [/h1]\r\n\r\n[h1] Instruction (or just watch the video) [/h1]\r\n[olist]\r\n    [*]Download mod and enable it.\r\n    [*]Aim the camera at the needed block.\r\n    [*]Open chat and enter [b]/get[/b] command.\r\n[/olist]\r\n\r\n\r\n[h1] Info about mod [/h1]\r\n[olist]\r\n    [*]This mod adds the function of getting the desired block without the inventory. (like the middle mouse button in Minecraft)\r\n    [*]This mod doesn't support Survival and other custom games. Probably, I can add support for them.\r\n    [*]I use chat command, because Scrap Mechanic API doesn't support keybinding for mods, maybe I can do that in future.\r\n    [*]With this command you can't get bearing, pistons, suspensions. (because this is joint items)\r\n    [*]Additional hotbar slots don't work with this mod, I can't fix that.\r\n[/olist]\r\n\r\n\r\nPlease, leave a like and add the mod to your favorites to support my work!",
 		"fileId": 3002663600,
 		"localId": "756d4f03-2e86-4f5b-a425-20259568eff3",
 		"name": "Pickable Shapes",
@@ -30995,6 +30995,34 @@
 		"fileId": 2996323205,
 		"localId": "856ef1e1-789c-416f-9be9-b42159176d6e",
 		"name": "Improved Bedwars Custom Game",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"6f223957-55c3-4e17-8343-fb65029903cc": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "Adds money as a block that you can use to buy(craft)things. To get money trade stuff in with your craftbot.",
+		"fileId": 3009247639,
+		"localId": "6f223957-55c3-4e17-8343-fb65029903cc",
+		"name": "Money mod",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"7ee7c7bb-2fad-4e8f-a3b3-9e00472a714e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2973331517,
+				"localId": "e52533c5-8076-4bda-82bf-336df526690b",
+				"name": "Logic API"
+			}
+		],
+		"description": "there is an endless world in this custom game! it is almost empty to leave room for your creations, it contains tiles to diversify the world.\n\nplease note that at very large distances, the collision of the terrain may disappear!",
+		"fileId": 3009274090,
+		"localId": "7ee7c7bb-2fad-4e8f-a3b3-9e00472a714e",
+		"name": "endless world",
 		"type": "Custom Game",
 		"version": 0
 	}
