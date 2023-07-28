@@ -31062,5 +31062,25 @@
 		"name": "Cogsters' Mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"32719682-fec7-45e1-9f35-02672aefc49d": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This is a mod with one block witche is a super Boyant boat block",
+		"fileId": 3010873991,
+		"localId": "32719682-fec7-45e1-9f35-02672aefc49d",
+		"name": "Boat Block",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"9d94d450-8ec5-4c63-922c-8e7d598a1d3a": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "gggg",
+		"fileId": 3010879854,
+		"localId": "9d94d450-8ec5-4c63-922c-8e7d598a1d3a",
+		"name": "Skee",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

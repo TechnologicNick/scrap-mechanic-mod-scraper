@@ -81241,5 +81241,16 @@
 			"5ce780fb-67ea-4e4e-b683-361928de677c",
 			"db673d0b-a58f-4ca4-aaee-b34589cbb264"
 		]
+	},
+	"32719682-fec7-45e1-9f35-02672aefc49d": {
+		"$CONTENT_32719682-fec7-45e1-9f35-02672aefc49d/Objects/Database/ShapeSets/example.shapeset": [
+			"05e2ebfd-82df-4f8d-875a-7ae64255a716"
+		]
+	},
+	"9d94d450-8ec5-4c63-922c-8e7d598a1d3a": {
+		"$CONTENT_9d94d450-8ec5-4c63-922c-8e7d598a1d3a/Objects/Database/ShapeSets/example.shapeset": [
+			"010c0681-7f8f-454e-b80b-a882e48173cf",
+			"2a7e3dce-0f41-4d2b-8505-0bed01d73780"
+		]
 	}
 }
