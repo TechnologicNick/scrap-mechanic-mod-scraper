@@ -81252,5 +81252,12 @@
 			"010c0681-7f8f-454e-b80b-a882e48173cf",
 			"2a7e3dce-0f41-4d2b-8505-0bed01d73780"
 		]
+	},
+	"8894ba1d-8f88-424d-8820-d4e985df2893": {
+		"$CONTENT_8894ba1d-8f88-424d-8820-d4e985df2893/Objects/Database/ShapeSets/Fants_Grinder.shapeset": [
+			"846ce978-d609-4a67-b9d6-996e5c5cbd16",
+			"8ccf972b-8241-4be2-a7b9-3e69db41ea15",
+			"68fba88c-aa80-469e-8372-b9fdf39aab6f"
+		]
 	}
 }
