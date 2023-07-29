@@ -4861,12 +4861,15 @@
 		"version": 0
 	},
 	"e93f09be-636b-43d5-b3fc-4d7cbe65d98d": {
-		"description": "Several kinds of segmented displays",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "Several kinds of segmented displays\n\n\n\n© 2022 S410 All Rights Reserved",
 		"fileId": 2021400478,
 		"localId": "e93f09be-636b-43d5-b3fc-4d7cbe65d98d",
 		"name": "Segment Displays",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"0f47d190-14fa-4c06-89d3-b8993a775202": {
 		"description": "This mod doesn't have a description",
