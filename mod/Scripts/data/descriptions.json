@@ -27732,7 +27732,7 @@
 	"c42fe0d2-e46d-48df-ad86-68ae4175e274": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This Mod Adds a Simple way to Toggle the Gravity on or off.\r\nYou can connect a logic input like a switch to it to turn it on or off. without unlimited items so not in creative you need to connect a Batterie Container too\r\n.\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.",
+		"description": "This Mod Adds a Simple way to Toggle the Gravity on or off.\r\nYou can connect a logic input like a switch to it to turn it on or off. without unlimited items so not in creative you need to connect a Batterie Container too\r\n.\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2908895063,
 		"localId": "c42fe0d2-e46d-48df-ad86-68ae4175e274",
 		"name": "Antigrav",
@@ -31093,6 +31093,16 @@
 		"fileId": 3011575610,
 		"localId": "8894ba1d-8f88-424d-8820-d4e985df2893",
 		"name": "Fants Grinder",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6bf89429-f8f0-412b-aa39-8a5d2023f7f1": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod adds from my Main Fant Mod the Suckomatic as Standalone Mod",
+		"fileId": 3012082374,
+		"localId": "6bf89429-f8f0-412b-aa39-8a5d2023f7f1",
+		"name": "Fants Suckomatic",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

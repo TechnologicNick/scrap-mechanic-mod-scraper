@@ -64784,7 +64784,8 @@
 			"028ac28e-d8ad-464a-9b5a-fcd9e7c16aee",
 			"0e16480c-697c-4511-9f7f-0656012bda72",
 			"cd52810a-65db-458d-84a8-949eb8530386",
-			"507a6918-0b1a-4ef7-8244-034afa25497d"
+			"507a6918-0b1a-4ef7-8244-034afa25497d",
+			"f285b388-b132-4a5e-af2d-dbf920b7950b"
 		]
 	},
 	"0a1eae23-1e16-42dc-ac4f-5b99d29cbbf5": {
@@ -80388,7 +80389,8 @@
 			"8e8bd1b8-144b-4032-957c-9063545702e8",
 			"1c8d3c83-2d3a-41be-88b3-510722c85e39",
 			"97f449b6-c948-448b-b8b3-4448e3f6b956",
-			"589dda51-0702-4aad-8986-bb8eff77a5b4"
+			"589dda51-0702-4aad-8986-bb8eff77a5b4",
+			"73233988-1022-4fe1-b992-c17796b8bda5"
 		],
 		"$CONTENT_a4063cc2-d4d9-492f-987a-0c9e7810c3cf/Objects/Database/ShapeSets/craftbot.json": [
 			"b63c6440-dfc2-4da7-acdb-3c385080b2e4",
@@ -81259,6 +81261,11 @@
 			"846ce978-d609-4a67-b9d6-996e5c5cbd16",
 			"8ccf972b-8241-4be2-a7b9-3e69db41ea15",
 			"68fba88c-aa80-469e-8372-b9fdf39aab6f"
+		]
+	},
+	"6bf89429-f8f0-412b-aa39-8a5d2023f7f1": {
+		"$CONTENT_6bf89429-f8f0-412b-aa39-8a5d2023f7f1/Objects/Database/ShapeSets/Fants_Suckomatic.shapeset": [
+			"b99153cf-1ddd-4c00-ab4e-f59c4c41dde3"
 		]
 	}
 }
