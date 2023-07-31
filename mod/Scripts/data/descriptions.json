@@ -30549,7 +30549,7 @@
 	"53f5c89b-f1e2-46a1-9bad-8e1968e48ea3": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "Specifically modified survival generator mainly for Train Worlds :\r\n- a much flatter world\r\n- 2 times bigger world\r\n- no deserts, burnt forests, etc.\r\n- dev commands\r\n- biomes made of custom tiles based on those from the game\r\n- no warehouses, ruins or other ugly structures\r\n- no bushes in the tracks\r\n\r\nit's NOT a better survival, it's a better map for building infrastructure from parts of, for example, niko02 mods.\r\n\r\nfor those who think it's better programmed survival or for others who think overdetailed track assets don't lag and they use it, it's useless",
 		"fileId": 2993574658,
 		"localId": "53f5c89b-f1e2-46a1-9bad-8e1968e48ea3",
 		"name": "Better Map",
@@ -30954,7 +30954,7 @@
 	"a4063cc2-d4d9-492f-987a-0c9e7810c3cf": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h1]Importent[/h1]\r\n[h1]SUB TO THE REQUIED MODS.[/h1]\r\n( not add them to your world. )\r\n\r\nThis is a Full Survival Sky World. \r\nNo Ground!\r\nIf you know \"Sky Block\" from Minecraft then you will understand what this Gamemode is.\r\nAll Resources Spawn Randomly on the Floating Islands around you.\r\n\r\nFeatures:\r\n- Farming on the Floating Islands\r\n- Raids on the Floating Islands\r\n- Adjusted recipe for the Craftbot and Trader\r\n\r\nPlanned Feature ( wip )\r\n- More Islands\r\n- More Recipe Balances\r\n\r\n[h1] IN CASE YOU JUST FALL INTO THE VOID [/h1]\r\n[h1] SUB THE REQUIED MODS! [/h1]\r\n( not add them to your world. )\r\n\r\n\r\nPlease Let me know in my Discord if i need to Change Something.\r\nHave Fun!\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "[h1]Importent[/h1]\r\n[h1]SUB TO THE REQUIED MODS.[/h1]\r\n( not add them to your world. )\r\n\r\nThis is a Full Survival Sky World. \r\nNo Ground!\r\nIf you know \"Sky Block\" from Minecraft then you will understand what this Gamemode is.\r\nAll Resources Spawn Randomly on the Floating Islands around you.\r\n\r\nFeatures:\r\n- Farming on the Floating Islands\r\n- Raids on the Floating Islands\r\n- Adjusted recipe for the Craftbot and Trader\r\n- \"/cheat\" command to enable cheats\r\n- \"/fly\" command to fly around when cheats are active\r\n\r\nPlanned Feature ( wip )\r\n- More Islands\r\n- More Recipe Balances\r\n\r\n[h1] IN CASE YOU JUST FALL INTO THE VOID [/h1]\r\n[h1] SUB THE REQUIED MODS! [/h1]\r\n( not add them to your world. )\r\n\r\n\r\nPlease Let me know in my Discord if i need to Change Something.\r\nHave Fun!\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 3006236236,
 		"localId": "a4063cc2-d4d9-492f-987a-0c9e7810c3cf",
 		"name": "Sky World",
@@ -31103,6 +31103,16 @@
 		"fileId": 3012082374,
 		"localId": "6bf89429-f8f0-412b-aa39-8a5d2023f7f1",
 		"name": "Fants Suckomatic",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d0622858-82d3-412d-8c0e-f4eab62bf19e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Just a mod that copy the function of the xo meter from the mod pack and makes it invisibe",
+		"fileId": 3012313056,
+		"localId": "d0622858-82d3-412d-8c0e-f4eab62bf19e",
+		"name": "XO meter",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

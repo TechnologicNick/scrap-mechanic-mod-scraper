@@ -81267,5 +81267,10 @@
 		"$CONTENT_6bf89429-f8f0-412b-aa39-8a5d2023f7f1/Objects/Database/ShapeSets/Fants_Suckomatic.shapeset": [
 			"b99153cf-1ddd-4c00-ab4e-f59c4c41dde3"
 		]
+	},
+	"d0622858-82d3-412d-8c0e-f4eab62bf19e": {
+		"$CONTENT_d0622858-82d3-412d-8c0e-f4eab62bf19e/Objects/Database/ShapeSets/example.shapeset": [
+			"45e1c227-99f8-4272-97b4-8053d6b7e449"
+		]
 	}
 }
