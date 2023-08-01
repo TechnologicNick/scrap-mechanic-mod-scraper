@@ -26463,7 +26463,7 @@
 	"5519ca33-3719-4cb2-993c-c6c92e3196ec": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1] IndustrialScrap(CustomGame)\n\n[b] An industry mod for survival\n[u]Contents:\n[list]\n[*]Metals\n[*]Materials\n[*]usable crates\n[*]Nuclear\n[*]Electricity\n[*]Milkin Wocs!\n[*]Skills\n[*]Bigger Map\n[/list]\n[/u]\n[b]trello list for later stuff:  https://trello.com/b/Ta3qh62k/fcmod\n\nTUTORIAL:[url]https://youtu.be/nGN2It0sxBU[/url]\nDC:Link [url]https://discord.gg/F2gUbr63MY[/b][/url]\n\n__________________________________________\n\n",
+		"description": "[h1] IndustrialScrap(CustomGame)\n\n[b] An industry mod for survival\n[u]Contents:\n[list]\n[*]Metals\n[*]Materials\n[*]usable crates\n[*]Nuclear\n[*]Electricity\n[*]Milking Wocs!\n[*]Skills\n[*]Bigger Map\n[*]Machinery \n[*]Automation\n[*]Grippier Wheels\n[*]Radiation\n[*]New Crates for the trader \nlike Cow , wood , stone and and hay.\n[/list]\n[/u]\n[b]trello list for later stuff:  https://trello.com/b/Ta3qh62k/fcmod\n\nTUTORIAL:[url]https://youtu.be/nGN2It0sxBU[/url]\nDC:Link [url]https://discord.gg/F2gUbr63MY[/b][/url]\n\n__________________________________________\n\n",
 		"fileId": 2867446377,
 		"localId": "5519ca33-3719-4cb2-993c-c6c92e3196ec",
 		"name": "IndustrialScrap [CustomGame]",
@@ -31113,6 +31113,26 @@
 		"fileId": 3012313056,
 		"localId": "d0622858-82d3-412d-8c0e-f4eab62bf19e",
 		"name": "XO meter",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"3dc44f5d-f4be-4857-9b68-99d164572ee2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This Mod Adds A Trampoline.",
+		"fileId": 3012979356,
+		"localId": "3dc44f5d-f4be-4857-9b68-99d164572ee2",
+		"name": "Trampoline Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"5cfc4f8a-0b66-4469-ab97-7b8a8ae8102f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Basically Nuke Mod but with a cooler explosion and a real bomb (explosion is still WAY too small right now, but the radiation zone isn't).",
+		"fileId": 3012995157,
+		"localId": "5cfc4f8a-0b66-4469-ab97-7b8a8ae8102f",
+		"name": "Nuclear Bombs Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
