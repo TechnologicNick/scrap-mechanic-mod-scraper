@@ -3601,5 +3601,11 @@
 	"6bf89429-f8f0-412b-aa39-8a5d2023f7f1": {},
 	"d0622858-82d3-412d-8c0e-f4eab62bf19e": {},
 	"3dc44f5d-f4be-4857-9b68-99d164572ee2": {},
-	"5cfc4f8a-0b66-4469-ab97-7b8a8ae8102f": {}
+	"5cfc4f8a-0b66-4469-ab97-7b8a8ae8102f": {},
+	"48e8caf6-13ef-4eae-8887-9c5d3c927f4b": {
+		"$CONTENT_48e8caf6-13ef-4eae-8887-9c5d3c927f4b/Tools/Database/ToolSets/tools.json": [
+			"ab70c5ac-20f6-44a0-bc16-c83cf9445b50"
+		]
+	},
+	"99470dc6-bf2d-48f2-8150-9a4f7d8ebaaa": {}
 }

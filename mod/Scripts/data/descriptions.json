@@ -31031,7 +31031,7 @@
 	},
 	"c9017daa-0898-445d-b1c7-03d42b5ec396": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"dependencies": [
 			{
 				"fileId": 2949350596,
@@ -31039,7 +31039,7 @@
 				"name": "SComputers [Fork]"
 			}
 		],
-		"description": "this is a special version of SComputers for integration into challenges/customgames, unlike the original SComputers, this has an additional \"unsafe computer\" that always has unsafe-mode and printON, regardless of the user settings of the mod. also, this version of SComputers is turned on by silence (it is not required to press the YES button when logging in) and cannot be turned off",
+		"description": "this is a special version of SComputers for integration into challenges/customgames, unlike the original SComputers, this has an additional \"unsafe computer\" that always has unsafe-mode and printON, regardless of the user settings of the mod. also, this version of SComputers is turned on by silence (it is not required to press the YES button when logging in) and cannot be turned off\r\n\r\nVanila SComputers: https://steamcommunity.com/sharedfiles/filedetails/?id=2949350596",
 		"fileId": 3009550168,
 		"localId": "c9017daa-0898-445d-b1c7-03d42b5ec396",
 		"name": "SComputers [Integrable]",
@@ -31133,6 +31133,27 @@
 		"fileId": 3012995157,
 		"localId": "5cfc4f8a-0b66-4469-ab97-7b8a8ae8102f",
 		"name": "Nuclear Bombs Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"48e8caf6-13ef-4eae-8887-9c5d3c927f4b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "Adds in some blocks and tools that could be of great use in hide and seek maps.\n[b]If you have any ideas, PLEASE send me a DM at Gitko on Discord! I'm open to anything, and I'd love to expand this mod![/b]\n\n[h1]=== Tools ===[/h1]\nNoise Maker\n:: Makes a spud gun shooting sound when clicked.\n\n[h1]=== Blocks ===[/h1]\nMini Spectator Activator\n:: A remodeled 1x1 version of ShrooToo's spectator activator block from the Spectator / Surveillance Cam / Free Cam Mod. Can ONLY be used with the surveillance camera from this mod.\n\nSurveillance Camera (Mini Spectator Activator)\n:: A modified version of ShrooToo's surveillance camera from the Spectator / Surveillance Cam / Free Cam Mod that can be used with the Mini Spectator Activator.\n\n[h1]=== Credits ===[/h1]\nThe script for the spectator activator and surveillance camera featured in the Spectator / Surveillance Cam / Free Cam Mod by ShrooToo was used in this mod. Check out the mod here:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2131769975",
+		"fileId": 3013432142,
+		"localId": "48e8caf6-13ef-4eae-8887-9c5d3c927f4b",
+		"name": "Hide & Seek Essentials",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"99470dc6-bf2d-48f2-8150-9a4f7d8ebaaa": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3013447934,
+		"localId": "99470dc6-bf2d-48f2-8150-9a4f7d8ebaaa",
+		"name": "Test001",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
