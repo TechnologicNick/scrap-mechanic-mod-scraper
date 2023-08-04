@@ -31163,5 +31163,15 @@
 		"name": "Test001",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"662e5936-6565-40ff-91cd-0bc025fc4581": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "ВНИМАНИЕ: Этот мод необходимо установить вручную.\n\nУстановка:\nОткройте C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\\nСкопируйте файл Master Bank.bank\nПерейдите в C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\\Data\\Audio\\Banks\nЗамените файл\nНаслаждайтесь!",
+		"fileId": 3014205975,
+		"localId": "662e5936-6565-40ff-91cd-0bc025fc4581",
+		"name": "New Radio",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
