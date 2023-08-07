@@ -31189,7 +31189,7 @@
 	"9627e876-e655-4ae5-86be-3b098a861059": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Modded challenge mode. Early Alpha",
+		"description": "Modded challenge mode. Early Alpha.\r\n[list]\r\n[*]Allows for playing challenge mode challenges with mods\r\n[*]Will rely on ChallengeMode Database similar to the ModDatabase by the Guild\r\n[*]Some bugs (most can be fixed by reloading, restarting or resetting)\r\n[*]Will allow for editing challenges with mods for uploading\r\n[/list]",
 		"fileId": 3015733838,
 		"localId": "9627e876-e655-4ae5-86be-3b098a861059",
 		"name": "Challenge Mode",
@@ -31199,6 +31199,13 @@
 	"a471c1ae-7ff8-4440-8d97-57567de77c5b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 1759377518,
+				"localId": "2b09183f-5ecb-4dac-93a0-99bd0baa6e55",
+				"name": "ModDatabase"
+			}
+		],
 		"description": "ADDS FACTORY CART FROM SATISFACTORY!!!",
 		"fileId": 3015819171,
 		"localId": "a471c1ae-7ff8-4440-8d97-57567de77c5b",
