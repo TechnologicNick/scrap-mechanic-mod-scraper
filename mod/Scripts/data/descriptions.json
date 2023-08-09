@@ -7002,12 +7002,14 @@
 		"version": 0
 	},
 	"16690193-ac9a-440a-ba2a-fcc8509e9607": {
+		"allow_add_mods": true,
+		"custom_icons": false,
 		"description": "This mod doesn't have a description",
 		"fileId": 2313183222,
 		"localId": "16690193-ac9a-440a-ba2a-fcc8509e9607",
 		"name": "JacobG5",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"03af7f59-b71c-48e5-8ea8-6c898ad75835": {
 		"description": "This is addon to mod called \"The ModPack\"\nScripts that is used here is from The ModPack\n\nThis addon adds new blocks that is 1/4; 1/16 of the size of the original rgb block\n\nYou can use this mod to create matrixes using glitch welding.\n\nMore blocks will be added in the near future.",
@@ -30407,7 +30409,7 @@
 	"0e903652-d674-416c-91f7-effa1fcd4cae": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "unfortunately, the author will no longer develop this mod, he left the game for unknown reasons...\nalthough he was very talented and promising\nthis is the version of DLM 2.7 (the last one I have)\nat the moment I don't think I will take DLM development into my own hands since I don't have the source code and the appropriate skills\n\nthe documentation is located in the docs folder in the mod files\n\ninstallation:\n-- 1\n* goto mod files\n* goto folder \"content/files\"\n* copy all the replacement files to the release folder of the game\n\n-- 2\n* goto mod files\n* goto folder \"content\"\n* run install.exe",
+		"description": "unfortunately, the author will no longer develop this mod, he left the game for unknown reasons ...\nalthough he was very talented and promising.\nthis is DLM version 2.7 (the last one I have).\nI decided that I would take over the development, the\noriginal DLM will always lie in this mod, but in the \"content\" folder there will be a DLM with my changes described in the file \"listOfChanges.txt \". at the same time.\nI undertake to maintain security and fix any vulnerabilities that have arisen\n\nthe documentation is located in the docs folder in the mod files\n\ninstallation:\n-- 1\n* goto mod files\n* goto folder \"content/files\"\n* copy all the replacement files to the release folder of the game\n\n-- 2\n* goto mod files\n* goto folder \"content\"\n* run install.exe",
 		"fileId": 2988924872,
 		"localId": "0e903652-d674-416c-91f7-effa1fcd4cae",
 		"name": "DLM legacy",
@@ -31230,6 +31232,16 @@
 		"fileId": 3013766074,
 		"localId": "34ece877-5ed5-4900-8a68-aafe458e8910",
 		"name": "Random Stuff",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1b99c98e-a04f-4297-a440-2ed81acc8337": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod add's blocks for building Tanks",
+		"fileId": 3015780469,
+		"localId": "1b99c98e-a04f-4297-a440-2ed81acc8337",
+		"name": "Tank Blocks",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
