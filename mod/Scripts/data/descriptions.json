@@ -31265,5 +31265,25 @@
 		"name": "solar panel 2",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"46c0a73b-6bfc-4f3f-a58e-a292e1177a08": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3017669143,
+		"localId": "46c0a73b-6bfc-4f3f-a58e-a292e1177a08",
+		"name": "panel",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"cdd021d8-a9ef-47c4-aaa9-e74c0bf9604f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3017946449,
+		"localId": "cdd021d8-a9ef-47c4-aaa9-e74c0bf9604f",
+		"name": "Overloaded world",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
