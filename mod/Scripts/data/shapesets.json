@@ -81454,5 +81454,15 @@
 			"b5ab19c4-5d5c-405d-96f1-1c4f345f27b7",
 			"f4321df3-34cd-4da2-8d30-93c627371212"
 		]
-	}
+	},
+	"30a2450e-570f-4c22-91d3-ae9b11ecc636": {
+		"$CONTENT_30a2450e-570f-4c22-91d3-ae9b11ecc636/Objects/Database/ShapeSets/blocks.json": [
+			"82898540-3898-4d5b-84e1-49c70997371e",
+			"76cc8542-5218-4cab-897c-efe3ab3b98ab",
+			"417ca837-02b9-44e4-91d8-9971d12b1b64",
+			"8209711e-8fca-4912-a767-6b271d15ddc8",
+			"e3cfed8a-31a5-4562-a493-aa796db903ce"
+		]
+	},
+	"fa53e258-e1a8-4864-be01-ba06bd12f831": {}
 }
