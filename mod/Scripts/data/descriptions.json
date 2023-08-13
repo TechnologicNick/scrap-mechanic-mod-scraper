@@ -10561,12 +10561,14 @@
 		"version": 0
 	},
 	"74046bca-5942-4259-b74a-cbbc870bd204": {
-		"description": "Exports creations to the block.",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Can be used to copy your friends creations or getting the base in your world into your lift. Can be very helpful!",
 		"fileId": 2569946483,
 		"localId": "74046bca-5942-4259-b74a-cbbc870bd204",
 		"name": "Exporter mod",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"3b2ad5bc-084a-41b7-a0fc-7a05cdcb25cd": {
 		"description": "This Is My First Mod Will include the bruh block",
