@@ -3626,10 +3626,10 @@
 	"46c0a73b-6bfc-4f3f-a58e-a292e1177a08": {},
 	"cdd021d8-a9ef-47c4-aaa9-e74c0bf9604f": {
 		"$CONTENT_cdd021d8-a9ef-47c4-aaa9-e74c0bf9604f/Tools/Database/ToolSets/example.toolset": [
-			"9fde0601-c2ba-4c70-8d5c-2a7a9fdd122b",
-			"c5ea0c2f-185b-48d6-b4df-45c386a575cc",
-			"f6250bf4-9726-406f-a29a-945c06e460e5",
-			"bb641a4f-e391-441c-bc6d-0ae21a069476"
+			"48deff62-765b-4779-8f4a-37649850a225",
+			"03087cb5-bd02-4708-ab74-cd286fbdde7d",
+			"385cd6c5-cd39-4ce2-9370-ee2c0025197d",
+			"ff5d914a-b75a-422a-bd4a-d01cbf8a661d"
 		]
 	},
 	"bebb9da7-8fec-4195-ba24-2d0c8fd9977a": {
@@ -3648,5 +3648,6 @@
 			"fbfc9f66-71a4-430a-a924-3b298b3f67eb"
 		]
 	},
-	"ea94f465-08ef-48b4-b2ac-8fcad0b77361": {}
+	"ea94f465-08ef-48b4-b2ac-8fcad0b77361": {},
+	"b4e8f13f-2e99-4502-969b-5555581d173b": {}
 }

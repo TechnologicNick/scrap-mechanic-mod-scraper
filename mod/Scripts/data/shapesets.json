@@ -81654,5 +81654,16 @@
 			"255c8e83-4bc2-403e-a0da-3ac11faadddb",
 			"2640b4d1-83f5-4a99-9e67-e2703dda2321"
 		]
+	},
+	"b4e8f13f-2e99-4502-969b-5555581d173b": {
+		"$CONTENT_b4e8f13f-2e99-4502-969b-5555581d173b/Objects/Database/ShapeSets/example.shapeset": [
+			"e30baab9-5596-4300-8c11-99391d402886",
+			"d95dbf5d-5901-4886-b8db-eb3fb81585e2",
+			"d3533fd4-dbe9-4a2b-9418-49b4b721a01e",
+			"fdb27dd4-3ae5-473d-8e9d-856b2ccdcb42",
+			"29588cc4-0a2e-42bb-a5bf-9edaddd50290",
+			"1c6b6a5c-5ae7-4490-af7f-4e69524392af",
+			"d2784616-c466-4928-8272-d83148746b55"
+		]
 	}
 }

@@ -31293,10 +31293,10 @@
 	"bebb9da7-8fec-4195-ba24-2d0c8fd9977a": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h2]This is a far less buggy version of its predecessor[/h2]\r\n\r\n[h3]Currently Working Features[/h3]\r\n[list]\r\n[*] Load and play challenges from the workshop\r\n[*] Multiplayer well supported\r\n[*] Normal working challenge mode\r\n[*] Mods supported\r\n[/list]\r\n\r\n[h3]Planned Features[/h3]\r\n[list]\r\n[*] Scrolling on both menu pages\r\n[*] Working Menu Book\r\n[*] Build/Create Challenges\r\n[*] Integrated \"hide and seek\" mod\r\n[*] Integration with ChallengeDatabase (coming soon)\r\n[/list]\r\n\r\n[h3]Known Bugs[/h3]\r\n[list]\r\n[*] Clients have visible health, although its only a visual glitch\r\n[*] Menu Book not working\r\n[*] No Scrolling on the menu pages\r\n[/list]",
+		"description": "[h2]This is a far less buggy version of its predecessor[/h2]\r\n\r\n[h3]Currently Working Features[/h3]\r\n[list]\r\n[*] Load and play challenges from the workshop ([i]challenges uploaded before 8/1/23[/i])\r\n[*] Working challenge logic and progression\r\n[*] Multiplayer well supported\r\n[*] Normal working challenge mode\r\n[*] Mods supported\r\n[*] Working Menu Book\r\n[/list]\r\n\r\n[h3]Planned Features[/h3]\r\n[list]\r\n[*] Scrolling on both menu pages\r\n[*] [strike]Working Menu Book[/strike]\r\n[*] Build/Create Challenges\r\n[*] Proceed to [i]NEXT[/i] level when clicked\r\n[*] Exit to menu when [i]FINISH[/i] clicked\r\n[*] Integrated \"hide and seek\" mod\r\n[*] Integration with ChallengeDatabase ([i]coming soon[/i])\r\n[/list]\r\n\r\n[h3]Known Bugs[/h3]\r\n[list]\r\n[*] Clients have visible health, although its only a visual glitch\r\n[*] [strike]Menu Book ...[/strike]\r\n[*] Unexplained mega death sound after blowing up entire map\r\n[*] Unverified instances of extreme lag and stuttering\r\n[/list]\r\n\r\n[i]Sorry about the 1GB size. Working on reducing it but the game doesn't like to behave nicely[/i]",
 		"fileId": 3018301847,
 		"localId": "bebb9da7-8fec-4195-ba24-2d0c8fd9977a",
-		"name": "Modded Challenge Mode Remake",
+		"name": "Modded Challenge Mode",
 		"type": "Custom Game",
 		"version": 0
 	},
@@ -31334,6 +31334,16 @@
 		"fileId": 3020453708,
 		"localId": "ea94f465-08ef-48b4-b2ac-8fcad0b77361",
 		"name": "Block",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b4e8f13f-2e99-4502-969b-5555581d173b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "some bushes and mini trees from game\nthere not a lot rn but its my first mod so this explains it\nalso one note: small trees branches are green (or color you repairt them) i have no idea how to change that, i will be happy for help in that thing\nalso they got funky names",
+		"fileId": 3020743190,
+		"localId": "b4e8f13f-2e99-4502-969b-5555581d173b",
+		"name": "bushes",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
