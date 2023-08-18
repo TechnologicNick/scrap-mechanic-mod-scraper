@@ -31300,7 +31300,7 @@
 	"bebb9da7-8fec-4195-ba24-2d0c8fd9977a": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1] Modded Challenge Mode (Custom Game)[/h1]\r\n[h2]This is a far less buggy version of its predecessor[/h2]\r\n\r\n[h3]WARNING:[/h3]\r\nAny changes made in build mode will not save (for the time being) until an optimal solution has been chosen\r\n\r\n[h3]Currently Working Features[/h3]\r\n[list]\r\n[*] Load and play challenges from the workshop ([i]challenges uploaded before 8/1/23[/i])\r\n[*] Working challenge logic and progression\r\n[*] Multiplayer well supported\r\n[*] Normal working challenge mode\r\n[*] Mods supported\r\n[*] Working Menu Book\r\n[*] Health\r\n[*] Level selector for challenge packs\r\n[*] Open Challenges in build mode (multiplayer not tested)\r\n[/list]\r\n\r\n[h3]Planned Features[/h3]\r\n[list]\r\n[*] Scrolling on both menu pages\r\n[*] [strike]Working Menu Book[/strike]\r\n[*] [strike]Build/[/strike]Create Challenges\r\n[*] [b]Save changes in build mode[/b]\r\n[*] [strike]Proceed to [i]NEXT[/i] level when clicked[/strike]\r\n[*] [strike]Exit to menu when [i]FINISH[/i] clicked[/strike]\r\n[*] Integrated \"hide and seek\" mod\r\n[*] Integration with ChallengeDatabase ([i]coming soon[/i])\r\n[/list]\r\n\r\n[h3]Known Bugs[/h3]\r\n[list]\r\n[*] [strike]Clients have visible health, although its only a visual glitch[/strike]\r\n[*] [strike]Menu Book ...[/strike]\r\n[*] [strike]Unexplained mega death sound after blowing up entire map[/strike]\r\n[*] [strike]Unverified instances of extreme lag and stuttering[/strike]\r\n[/list]\r\n\r\n[i]Sorry about the 1GB size. Working on reducing it but the game doesn't like to behave nicely[/i]",
+		"description": "[h1] Modded Challenge Mode (Custom Game)[/h1]\r\n\r\n[h3]Feedback[/h3]\r\nCommunity feedback is highly valued and needed for the continued improvement of this mod. Please leave any and all information regarding your experience, problems, etc. in the comments below, add me on discord (TheGuy920) or join my [url=https://discord.gg/FQg62dq]discord server[/url]\r\n\r\n[h3]WARNING:[/h3]\r\nAny changes made in build mode will not save (for the time being) until an optimal solution has been chosen\r\n\r\n[h3]Currently Working Features[/h3]\r\n[list]\r\n[*] Load and play challenges from the workshop ([i]challenges uploaded before 8/1/23[/i])\r\n[*] Working challenge logic and progression\r\n[*] Multiplayer well supported\r\n[*] Normal working challenge mode\r\n[*] Mods supported\r\n[*] Working Menu Book\r\n[*] Health and respawn\r\n[*] Level selector for challenge packs\r\n[*] Open challenges in build mode (multiplayer not tested)\r\n[*] Test and Stop Test implemented\r\n[/list]\r\n\r\n[h3]Planned Features[/h3]\r\n[list]\r\n[*] Scrolling on both menu pages\r\n[*] [strike]Working Menu Book[/strike]\r\n[*] [strike]Build/[/strike]Create Challenges\r\n[*] [b]Save changes in build mode[/b]\r\n[*] [strike]Proceed to [i]NEXT[/i] level when clicked[/strike]\r\n[*] [strike]Exit to menu when [i]FINISH[/i] clicked[/strike]\r\n[*] Integrated \"hide and seek\" mod\r\n[*] Integration with ChallengeDatabase ([i]coming soon[/i])\r\n[/list]\r\n\r\n[h3]Known Bugs[/h3]\r\n[list]\r\n[*] [strike]Clients have visible health, although its only a visual glitch[/strike]\r\n[*] [strike]Menu Book ...[/strike]\r\n[*] [strike]Unexplained mega death sound after blowing up entire map[/strike]\r\n[*] [strike]Unverified instances of extreme lag and stuttering[/strike]\r\n[/list]\r\n\r\n[i]Sorry about the 1GB size. Working on reducing it but the game doesn't like to behave nicely[/i]",
 		"fileId": 3018301847,
 		"localId": "bebb9da7-8fec-4195-ba24-2d0c8fd9977a",
 		"name": "Modded Challenge Mode",
@@ -31353,5 +31353,32 @@
 		"name": "bushes",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"c95b300d-aab2-4689-94c5-a55581a34447": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2983759547,
+				"localId": "17779a6d-e12b-4f28-8bbd-6cd2d87e674d",
+				"name": "Steel Alloy"
+			},
+			{
+				"fileId": 2983769320,
+				"localId": "2c498696-9599-4df3-8fbd-f6d88b1f8571",
+				"name": "Titanium Alloy"
+			},
+			{
+				"fileId": 3021866017,
+				"localId": "aad41d82-aae4-4ca7-a60f-3cd6e35d1122",
+				"name": "Block Pack 1"
+			}
+		],
+		"description": "Scrap mechanic needs help check out my other mod -> https://steamcommunity.com/sharedfiles/filedetails/?id=3011453086\n\nPlease i never lie ever ever ever i am part of a \nsupport thingy for scrap mechanic!.\n",
+		"fileId": 3021867354,
+		"localId": "c95b300d-aab2-4689-94c5-a55581a34447",
+		"name": "Survival ( Cheat Comands )",
+		"type": "Custom Game",
+		"version": 0
 	}
 }

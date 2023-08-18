@@ -3649,5 +3649,8 @@
 		]
 	},
 	"ea94f465-08ef-48b4-b2ac-8fcad0b77361": {},
-	"b4e8f13f-2e99-4502-969b-5555581d173b": {}
+	"b4e8f13f-2e99-4502-969b-5555581d173b": {},
+	"c95b300d-aab2-4689-94c5-a55581a34447": {
+		"$CONTENT_c95b300d-aab2-4689-94c5-a55581a34447/Tools/Database/ToolSets/example.toolset": []
+	}
 }
