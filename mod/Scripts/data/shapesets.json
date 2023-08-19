@@ -81286,5 +81286,12 @@
 		"$CONTENT_6eb1d265-ff45-4236-8a4e-13de2b5b85fc/Objects/Database/ShapeSets/ladder.shapeset": [
 			"f404fc56-b241-42e4-96f2-26c503d000a8"
 		]
+	},
+	"2b4e4ce6-4dbb-478a-bb69-7d9e323c2b19": {},
+	"21de2e5f-08dc-4d2f-9c13-4e14499c1779": {
+		"$CONTENT_21de2e5f-08dc-4d2f-9c13-4e14499c1779/Objects/Database/ShapeSets/creationDestroyer.shapeset": [
+			"da1812d1-27fb-4c80-831a-119706e37cd7",
+			"0dd426c0-4fad-4cf1-a6a7-3f769a3fbc9e"
+		]
 	}
 }

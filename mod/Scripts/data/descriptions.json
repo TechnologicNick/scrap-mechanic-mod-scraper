@@ -31417,5 +31417,25 @@
 		"name": "Ladders",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"2b4e4ce6-4dbb-478a-bb69-7d9e323c2b19": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "",
+		"fileId": 3022152458,
+		"localId": "2b4e4ce6-4dbb-478a-bb69-7d9e323c2b19",
+		"name": "Made In Abyss Radio",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"21de2e5f-08dc-4d2f-9c13-4e14499c1779": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod includes two blocks that delete or destroy a creation with a logic signal in different ways.\n\nBlue block: Deletes a creation when a logic signal is applied.\n\nRed block: Destroys a creation, including an explosion with debris, when a logic signal is applied.",
+		"fileId": 3022299624,
+		"localId": "21de2e5f-08dc-4d2f-9c13-4e14499c1779",
+		"name": "Xeridox's Creation Destroyer",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
