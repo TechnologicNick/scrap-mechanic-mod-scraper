@@ -31312,7 +31312,7 @@
 	"bebb9da7-8fec-4195-ba24-2d0c8fd9977a": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1] Modded Challenge Mode (Custom Game)[/h1]\r\n\r\n[h3]Feedback[/h3]\r\nCommunity feedback is highly valued and needed for the continued improvement of this mod. Please leave any and all information regarding your experience, problems, etc. in the comments below, add me on discord (TheGuy920) or join my [url=https://discord.gg/FQg62dq]discord server[/url]\r\n\r\n[h3]WARNING:[/h3]\r\nAny changes made in build mode will not save (for the time being) until an optimal solution has been chosen\r\n\r\n[h3]Currently Working Features[/h3]\r\n[list]\r\n[*] Load and play challenges from the workshop ([i]challenges uploaded before 8/1/23[/i])\r\n[*] Working challenge logic and progression\r\n[*] Multiplayer well supported\r\n[*] Normal working challenge mode\r\n[*] Mods supported\r\n[*] Working Menu Book\r\n[*] Health and respawn\r\n[*] Level selector for challenge packs\r\n[*] Open challenges in build mode (multiplayer not tested)\r\n[*] Test and Stop Test implemented\r\n[/list]\r\n\r\n[h3]Planned Features[/h3]\r\n[list]\r\n[*] Scrolling on both menu pages\r\n[*] [strike]Working Menu Book[/strike]\r\n[*] [strike]Build/[/strike]Create Challenges\r\n[*] [b]Save changes in build mode[/b]\r\n[*] [strike]Proceed to [i]NEXT[/i] level when clicked[/strike]\r\n[*] [strike]Exit to menu when [i]FINISH[/i] clicked[/strike]\r\n[*] Integrated \"hide and seek\" mod\r\n[*] Integration with ChallengeDatabase ([i]coming soon[/i])\r\n[/list]\r\n\r\n[h3]Known Bugs[/h3]\r\n[list]\r\n[*] [strike]Clients have visible health, although its only a visual glitch[/strike]\r\n[*] [strike]Menu Book ...[/strike]\r\n[*] [strike]Unexplained mega death sound after blowing up entire map[/strike]\r\n[*] [strike]Unverified instances of extreme lag and stuttering[/strike]\r\n[/list]\r\n\r\n[i]Sorry about the 1GB size. Working on reducing it but the game doesn't like to behave nicely[/i]",
+		"description": "[h1] Modded Challenge Mode (Custom Game)[/h1]\r\n\r\n[h3]Feedback[/h3]\r\nCommunity feedback is highly valued and needed for the continued improvement of this mod. Please leave any and all information regarding your experience, problems, etc. in the comments below, add me on discord (TheGuy920) or join my [url=https://discord.gg/FQg62dq]discord server[/url]\r\n\r\n[h3]WARNING:[/h3]\r\nAny changes made in build mode will not save (for the time being) until an optimal solution has been chosen\r\n\r\n[h3]Currently Working Features[/h3]\r\n[list]\r\n[*] Load and play challenges from the workshop ([i]challenges uploaded before 8/1/23[/i])\r\n[*] Working challenge logic and progression\r\n[*] Multiplayer well supported\r\n[*] Normal working challenge mode\r\n[*] Mods supported\r\n[*] Working Menu Book\r\n[*] Health and respawn\r\n[*] Level selector for challenge packs\r\n[*] Open challenges in build mode\r\n[*] Test and Stop Test implemented\r\n[*] Scrolling on all menu pages\r\n[*] Build mode works as expected ([b]SAVING DOES NOT WORK[/b])\r\n[/list]\r\n\r\n[h3]Planned Features[/h3]\r\n[list]\r\n[*] [b]Save changes in build mode[/b]\r\n[*] Integrated \"hide and seek\" mod\r\n[*] Integration with ChallengeDatabase ([i]coming soon[/i])\r\n[*] Size can be reduced by 600MB\r\n[*] [i]Create Challenges[/i] \r\n[list] [*] Likely will need to be done in normal challenge mode, before continuing in the custom game [/list]\r\n[/list]\r\n\r\n[h3]Known Bugs[/h3]\r\n[list]\r\n[*] [strike]After leaving build world, incorrect world management when joining non-build world[/strike]\r\n[*] [strike]After joining world with health, health bar is still active[/strike]\r\n[*] [strike]Health bar does not show up for clients on first world join[/strike]\r\n[*] [strike]When a client joins while the level has been loaded, they will join the lobby world and not the challenge world[/strike]\r\n[*] [strike]Clients have visible health, although its only a visual glitch[/strike]\r\n[*] [strike]Menu Book ...[/strike]\r\n[*] [strike]Unexplained mega death sound after blowing up entire map[/strike]\r\n[*] [strike]Unverified instances of extreme lag and stuttering[/strike]\r\n[/list]\r\n\r\n[i]Sorry about the 1GB size. Working on reducing it but the game doesn't like to behave nicely[/i]",
 		"fileId": 3018301847,
 		"localId": "bebb9da7-8fec-4195-ba24-2d0c8fd9977a",
 		"name": "Modded Challenge Mode",
@@ -31450,6 +31450,26 @@
 		"fileId": 3022544482,
 		"localId": "2c02b5fd-1e8c-4862-bbcb-ed79b9be6793",
 		"name": "no fri",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d91d6254-3599-458a-a43d-b80c26787ea6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This is 10k's Recycle & Recipe Boost Mod, his Harvest Boost Mod, and Slayving's Forestry and Farming Mod put together and fixed.\n\nIT IS NOT A CUSTOM GAME!\nI AM SLOWLY WORKING TOWARD PORTING THIS TO CUSTOM GAME.\n\nhttps://discord.gg/GAdCeu8Fmw\nJoin the discord for progress checks with the custom game version.",
+		"fileId": 3022938317,
+		"localId": "d91d6254-3599-458a-a43d-b80c26787ea6",
+		"name": "File Switch Trilogy",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"cf8f128e-0c40-4194-84b6-17b26a35ad7f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3022998834,
+		"localId": "cf8f128e-0c40-4194-84b6-17b26a35ad7f",
+		"name": "challangebuilder",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
