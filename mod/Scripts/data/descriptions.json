@@ -16349,13 +16349,6 @@
 	"61dfaa2e-041d-4e6b-82a1-54185a7d0cfe": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2945713875,
-				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
-				"name": "ModDatabase"
-			}
-		],
 		"description": "allows you to place the lift ANYWHERE\r\ninfinite reach (not length!)\r\n\r\ncant use a creation with keybinds:\r\nforce build button: go down\r\nreload button: go up\r\n\r\n[h1]discord.gg/6r46PkYr9s[/h1]",
 		"fileId": 2844836154,
 		"localId": "61dfaa2e-041d-4e6b-82a1-54185a7d0cfe",
@@ -26083,6 +26076,18 @@
 	"8420a7ba-2462-41ac-966e-da6cc84fb899": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2945713875,
+				"localId": "8a98d059-e8b2-4c4d-bc87-02be20411962",
+				"name": "STD"
+			},
+			{
+				"fileId": 1759377518,
+				"localId": "2b09183f-5ecb-4dac-93a0-99bd0baa6e55",
+				"name": "ModDatabase"
+			}
+		],
 		"description": "[h1] Hello! [/h1]\r\n\r\nThis is a mod that gives you some useful tools to aid with your vanilla logic builds!\r\n\r\nThis mod is currently in beta, I will be adding to it in the future, right now i'm thinking of more ideas to add without adding existing tools in other logic mods.\r\n\r\n[h1] Current tools: [/h1]\r\n\r\n[b]Logic Gate State Shower[/b] - Shows the state of a logic gate\r\n\r\n[b]1 Tick Hammer Block[/b] - Makes your hammer able to 1 tick logic gates\r\n\r\n[b]Circuit Timer Block[/b] - measures the time in ticks in a circuit\r\n\r\n[b]Self Wirer[/b] - Self wires logic gates\r\n\r\n[b]Logic Gate Mode Changer[/b] - allows you to change the logic gate's mode by colour\r\n\r\n[b]Timer Tick Modifier[/b] - allows you to modify timers ticks by colour\r\n\r\n[b]Logic Gate Connection Shower[/b] - Shows connections with name tags on your screen, helps in high connection count logic creations\r\n\r\n[b]The Ultimate Connection Hider[/b] - 1st use, when it is placed down, it hides connections while wiring, 2nd use, when interacting with the tool it will hide every connection on the creation.\r\n\r\n\r\nplease report any bugs to me in the comments and feel free to give me some suggestions.\r\n\r\nHope you enjoy.",
 		"fileId": 2856940100,
 		"localId": "8420a7ba-2462-41ac-966e-da6cc84fb899",
@@ -31435,6 +31440,16 @@
 		"fileId": 3022299624,
 		"localId": "21de2e5f-08dc-4d2f-9c13-4e14499c1779",
 		"name": "Xeridox's Creation Destroyer",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"2c02b5fd-1e8c-4862-bbcb-ed79b9be6793": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "for bots",
+		"fileId": 3022544482,
+		"localId": "2c02b5fd-1e8c-4862-bbcb-ed79b9be6793",
+		"name": "no fri",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
