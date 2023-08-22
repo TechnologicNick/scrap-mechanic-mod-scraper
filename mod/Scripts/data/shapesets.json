@@ -81309,5 +81309,10 @@
 			"0019f514-e2ab-49b2-ae1e-c3928f719369",
 			"a2967084-79c1-4483-90a7-8a918a49c33a"
 		]
+	},
+	"a8f876f2-2ff8-4d0a-891a-39528c16d7f8": {
+		"$CONTENT_a8f876f2-2ff8-4d0a-891a-39528c16d7f8/Objects/Database/ShapeSets/NewShapeSet1.shapeset": [
+			"85907dfd-c10a-4693-9f5a-963b87f4fb7d"
+		]
 	}
 }
