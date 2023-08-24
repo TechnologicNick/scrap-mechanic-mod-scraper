@@ -79820,14 +79820,38 @@
 		"$CONTENT_756d4f03-2e86-4f5b-a425-20259568eff3/Objects/Database/ShapeSets/example.shapeset": []
 	},
 	"8de92d19-0b28-44dd-9f52-145c575e5d71": {
-		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/blocks.json": [],
+		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/blocks.json": [
+			"00000000-0000-0000-0000-000000000000"
+		],
 		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/interactive.json": [
 			"24001201-40dd-4950-b99f-17d878a9e07b",
-			"caaa4732-6fe9-4998-93a2-21cc3e3fd9dd"
+			"caaa4732-6fe9-4998-93a2-21cc3e3fd9dd",
+			"b9f779d3-5328-4a35-b130-34659714b7b3",
+			"fe28b1d7-1e51-4ad7-9a81-e0ec19aeb1e8",
+			"57a86d98-c991-492a-81c3-2a1e6229249a",
+			"d3e84a0a-da8d-4b9a-a6d8-20b1b46194c7",
+			"4f39a7de-3e28-4da7-b67e-e88330e0060e",
+			"4b50e734-865c-4cef-8199-3ae6f645ef23"
 		],
-		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/lights.json": [],
+		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/lights.json": [
+			"a5bc8775-0175-4301-bac3-b6cdadd19ba8",
+			"aac09f94-df13-46f9-a0ca-2276c5227d4b",
+			"89fc095f-57f9-447b-a6a7-3af26a88a7bd",
+			"86a5784f-783a-41b3-aa81-d0fd5238508c",
+			"9176b3a4-dd48-47e7-8d72-b9b3911e9bc6",
+			"85c8bb3e-1920-402e-aedb-3be91a453458",
+			"5c306113-bcb7-4468-8239-e79c23680ef6",
+			"dfecb34c-cbb2-4236-ae37-39f141260322",
+			"09fe256e-4cf3-4590-a2f3-0e58ccf022f4",
+			"2071946f-8e95-4ccd-a007-a3cafaff2f9b",
+			"2071946f-8e95-4ccd-a007-a3cafaff2f9b"
+		],
 		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/vehicle.json": [],
-		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/industrial.json": [],
+		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/industrial.json": [
+			"707d2d57-cc9f-4d3a-a6b1-edf9999fb161",
+			"dcd62428-c2fc-4a0f-8b71-b0ef364da8bc",
+			"2e980086-cf70-4be2-87c2-16a9c69dc442"
+		],
 		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/spaceship.json": [],
 		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/fittings.json": [],
 		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/containers.json": [],
