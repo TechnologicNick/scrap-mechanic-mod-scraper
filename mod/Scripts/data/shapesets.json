@@ -53232,6 +53232,11 @@
 			"5eb8975b-0acf-43a7-ab4e-62ce661c0df7",
 			"e83a22c5-8783-413f-a199-46bc30ca8dac"
 		],
+		"$CONTENT_526ed7a7-b9ff-4c9b-9167-2ed27b816195/Objects/Database/ShapeSets/interactivecontainers.json": [
+			"76331bbf-abbd-4b8d-bb54-f721a5b6193b",
+			"38ec258d-c644-4f08-8635-3f7434c884dd",
+			"be29592a-ef58-4b1d-b18c-895023abd27f"
+		],
 		"$CONTENT_526ed7a7-b9ff-4c9b-9167-2ed27b816195/Objects/Database/ShapeSets/outfitpackage.json": [
 			"63695efd-0862-49f2-ace6-4d1758147fae",
 			"27a221b1-9809-4df1-901a-caafe119c9b6",
@@ -81340,6 +81345,12 @@
 		"$CONTENT_a8f876f2-2ff8-4d0a-891a-39528c16d7f8/Objects/Database/ShapeSets/NewShapeSet1.shapeset": [
 			"85907dfd-c10a-4693-9f5a-963b87f4fb7d",
 			"a6393a1d-d154-4d8d-8905-879c000919ee"
+		]
+	},
+	"038b823d-9a78-46cc-a6c2-269522bfe71b": {
+		"$CONTENT_038b823d-9a78-46cc-a6c2-269522bfe71b/Objects/Database/ShapeSets/example.shapeset": [
+			"d67fda8e-6f5d-4787-bff7-7c9ed6951aba",
+			"b8182a48-9a7f-45d4-aaa4-52c5fbbe54c1"
 		]
 	}
 }

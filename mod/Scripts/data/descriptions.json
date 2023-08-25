@@ -25894,7 +25894,7 @@
 	"526ed7a7-b9ff-4c9b-9167-2ed27b816195": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod adds the possibility to use all Survival Mode Parts in Creative Mode.\nThe database contains exact same UUID's as in-game parts making it cross Survival Mode compaitable.\nNOTE: Use some parts at your own risk as they may break your world if used wrong, such as Elevator parts, Hideout parts and Dispensorbot.",
+		"description": "This mod adds the possibility to use all Survival Mode Parts in Creative Mode.\r\nThe database contains exact same UUID's as in-game parts making it cross Survival Mode compaitable.\r\nNOTE: Use some parts at your own risk as they may break your world if used wrong, such as Elevator parts, Hideout parts and Dispensorbot. \r\nIf some parts can't be picked by your lift or removed, be sure to use /restrictions command in the chat.",
 		"fileId": 2858904031,
 		"localId": "526ed7a7-b9ff-4c9b-9167-2ed27b816195",
 		"name": "Survival Mode Parts Fix",
@@ -31495,6 +31495,16 @@
 		"fileId": 3023989829,
 		"localId": "a8f876f2-2ff8-4d0a-891a-39528c16d7f8",
 		"name": "scrapfield junk pack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"038b823d-9a78-46cc-a6c2-269522bfe71b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds various technologic objets developed by the SuEjon Military factory (That its just fiction lol dont take it seriously) by his main designer, Ejon.\r\n\r\nFeatures:\r\n-Long distance Radar Sensor\r\n-Aircraft externals dettacher\r\n\r\ndisclaimer: *The plane in the main picture is only illustrative, it includes other parts wich dont come with this mod*\r\n\r\nsecond disclaimer: *This is my first public mod, I know its not the best stuff you have ever seen*",
+		"fileId": 3025007939,
+		"localId": "038b823d-9a78-46cc-a6c2-269522bfe71b",
+		"name": "SuEjon Technologic Components",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
