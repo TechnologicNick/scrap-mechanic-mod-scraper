@@ -31507,5 +31507,13 @@
 		"name": "SuEjon Technologic Components",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"7833e847-8dbf-4f7b-ad7a-a26c6bb06cd4": {
+		"description": "This mod doesn't have a description",
+		"fileId": 3025277112,
+		"localId": "7833e847-8dbf-4f7b-ad7a-a26c6bb06cd4",
+		"name": "PC THINGS",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }

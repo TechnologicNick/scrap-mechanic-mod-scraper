@@ -81352,5 +81352,10 @@
 			"d67fda8e-6f5d-4787-bff7-7c9ed6951aba",
 			"b8182a48-9a7f-45d4-aaa4-52c5fbbe54c1"
 		]
+	},
+	"7833e847-8dbf-4f7b-ad7a-a26c6bb06cd4": {
+		"$CONTENT_7833e847-8dbf-4f7b-ad7a-a26c6bb06cd4/Objects/Database/ShapeSets/parts.json": [
+			"57abbbcb-7451-4fac-9dff-2fb4d0d7aad4"
+		]
 	}
 }
