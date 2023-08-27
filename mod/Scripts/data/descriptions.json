@@ -26084,18 +26084,6 @@
 	"8420a7ba-2462-41ac-966e-da6cc84fb899": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2945713875,
-				"localId": "8a98d059-e8b2-4c4d-bc87-02be20411962",
-				"name": "STD"
-			},
-			{
-				"fileId": 1759377518,
-				"localId": "2b09183f-5ecb-4dac-93a0-99bd0baa6e55",
-				"name": "ModDatabase"
-			}
-		],
 		"description": "[h1] Hello! [/h1]\r\n\r\nThis is a mod that gives you some useful tools to aid with your vanilla logic builds!\r\n\r\nThis mod is currently in beta, I will be adding to it in the future, right now i'm thinking of more ideas to add without adding existing tools in other logic mods.\r\n\r\n[h1] Current tools: [/h1]\r\n\r\n[b]Logic Gate State Shower[/b] - Shows the state of a logic gate\r\n\r\n[b]1 Tick Hammer Block[/b] - Makes your hammer able to 1 tick logic gates\r\n\r\n[b]Circuit Timer Block[/b] - measures the time in ticks in a circuit\r\n\r\n[b]Self Wirer[/b] - Self wires logic gates\r\n\r\n[b]Logic Gate Mode Changer[/b] - allows you to change the logic gate's mode by colour\r\n\r\n[b]Timer Tick Modifier[/b] - allows you to modify timers ticks by colour\r\n\r\n[b]Logic Gate Connection Shower[/b] - Shows connections with name tags on your screen, helps in high connection count logic creations\r\n\r\n[b]The Ultimate Connection Hider[/b] - 1st use, when it is placed down, it hides connections while wiring, 2nd use, when interacting with the tool it will hide every connection on the creation.\r\n\r\n\r\nplease report any bugs to me in the comments and feel free to give me some suggestions.\r\n\r\nHope you enjoy.",
 		"fileId": 2856940100,
 		"localId": "8420a7ba-2462-41ac-966e-da6cc84fb899",
@@ -30403,13 +30391,6 @@
 	"f9cf9fef-02f9-4029-89d7-4a8c91e2f349": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 1759377518,
-				"localId": "2b09183f-5ecb-4dac-93a0-99bd0baa6e55",
-				"name": "ModDatabase"
-			}
-		],
 		"description": "[h1] Bingo's Block And Part Editor [/h1]\r\n\r\nThis tool allows you to practically blueprint edit in game, this includes joints too. Don't worry about creating invalid joint positions or similar issues as I have some measures put in place to stop that from happening.\r\n\r\nAny bugs, feel free to let me know in the comments.\r\n\r\n[i] A like and a favourite would also be greatly appreciated 👍 [/i]\r\n\r\nHope you enjoy!",
 		"fileId": 2987476458,
 		"localId": "f9cf9fef-02f9-4029-89d7-4a8c91e2f349",
