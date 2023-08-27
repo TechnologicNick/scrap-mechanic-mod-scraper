@@ -31526,5 +31526,25 @@
 		"name": "Cock",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"455e95e3-5a30-44bc-acc0-1e7173170b47": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Script for lift is taken from \"Better Lift\" mod and slightly changed to make the lift go in the air.",
+		"fileId": 3026374314,
+		"localId": "455e95e3-5a30-44bc-acc0-1e7173170b47",
+		"name": "Air-Lift",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"e0cf7499-3250-4361-9b00-ec0c09601b24": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "--- Better Placement ---\n\nThis mod contains a more flexible way of placing things (no blocks / joints for now) in Scrap Mechanic.\n\n-- How to use --\n\n1 - Hold the Better Placement Tool, press R\n\n2 - Hold the part you want to place, look where you want to place it\n\n3 - Select the Rotation Axis by Looking at different parts of the gizmo, Press Q (rotation key) to Rotate.\nPress R (reload key) to lock the gizmo to that spot.\n\n4 - Press and hold the primary mouse button for the positioning gizmo to show up. Press and release to just build there.\n\n5 - Move the part visualization to your desired spot by moving the cursor and pressing Q to use the vertical axis\n\n6 - Release the primary mouse button\n\n-- Settings --\n\nHold the Better Placement Tool, press Q (rotation key)\n\n-- Notes --\n\nIf you start the placement on a body (e.g. a frame) and move it over to another body (e.g. a wheel), the part will still attach to the first body (the frame). \n\nIf you build the part so that it isn't attached to the original body, it will disconnect when the body is put on a lift.\n\nThis mod is inspired by Tweakeroo's Flexible Block Placement, but the logic has been adapted to be more suitable to Scrap Mechanic.",
+		"fileId": 3026384153,
+		"localId": "e0cf7499-3250-4361-9b00-ec0c09601b24",
+		"name": "Better Placement",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

@@ -3677,5 +3677,15 @@
 			"5935cf84-ed91-11ec-8ea0-0242ac120002",
 			"a22ed440-f3bf-11ec-b939-0242ac120002"
 		]
+	},
+	"455e95e3-5a30-44bc-acc0-1e7173170b47": {
+		"$CONTENT_455e95e3-5a30-44bc-acc0-1e7173170b47/Tools/Database/ToolSets/example.toolset": [
+			"1c28ef88-f1d8-4fd9-ba37-00368b4b4853"
+		]
+	},
+	"e0cf7499-3250-4361-9b00-ec0c09601b24": {
+		"$CONTENT_e0cf7499-3250-4361-9b00-ec0c09601b24/Tools/Database/ToolSets/BetterPlacement.toolset": [
+			"74febb3f-cc08-4e02-89c8-9fd0d0a1aa3c"
+		]
 	}
 }
