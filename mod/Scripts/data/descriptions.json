@@ -7006,7 +7006,7 @@
 	"16690193-ac9a-440a-ba2a-fcc8509e9607": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "Parts For SMC Videos",
 		"fileId": 2313183222,
 		"localId": "16690193-ac9a-440a-ba2a-fcc8509e9607",
 		"name": "JacobG5",
@@ -30322,7 +30322,7 @@
 	"99ada3fc-8b02-4836-96fe-d6bea7bda570": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "My own mod.",
+		"description": "New blocks, interactive and parts!",
 		"fileId": 2983293264,
 		"localId": "99ada3fc-8b02-4836-96fe-d6bea7bda570",
 		"name": "TheSub Mod",
@@ -31544,6 +31544,16 @@
 		"fileId": 3026384153,
 		"localId": "e0cf7499-3250-4361-9b00-ec0c09601b24",
 		"name": "Better Placement",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"56413286-66a1-4293-9599-c326cc4ac796": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "The white one sets the gravity to minus and the green one sets the gravity back to normal",
+		"fileId": 3026541147,
+		"localId": "56413286-66a1-4293-9599-c326cc4ac796",
+		"name": "AntiGravityPart",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
