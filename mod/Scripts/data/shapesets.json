@@ -81718,5 +81718,10 @@
 			"d3a60d46-8956-4252-9496-83d0bd739c8c",
 			"c4274db7-aa6d-415b-ae47-11d0cd10462d"
 		]
+	},
+	"b9ae5f06-5ffe-46db-993f-78b59582d373": {
+		"$CONTENT_b9ae5f06-5ffe-46db-993f-78b59582d373/Objects/Database/ShapeSets/parts.json": [
+			"718f4e15-ff51-4fed-b874-723a25d62e1c"
+		]
 	}
 }
