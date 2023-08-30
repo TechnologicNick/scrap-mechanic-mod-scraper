@@ -3689,5 +3689,9 @@
 		]
 	},
 	"56413286-66a1-4293-9599-c326cc4ac796": {},
-	"b9ae5f06-5ffe-46db-993f-78b59582d373": {}
+	"b9ae5f06-5ffe-46db-993f-78b59582d373": {
+		"$CONTENT_b9ae5f06-5ffe-46db-993f-78b59582d373/Tools/Database/ToolSets/tool.toolset": [
+			"090e21b9-eff9-466f-9061-9c186f6de50b"
+		]
+	}
 }
