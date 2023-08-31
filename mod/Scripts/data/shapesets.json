@@ -81723,5 +81723,23 @@
 		"$CONTENT_b9ae5f06-5ffe-46db-993f-78b59582d373/Objects/Database/ShapeSets/parts.json": [
 			"718f4e15-ff51-4fed-b874-723a25d62e1c"
 		]
+	},
+	"f0960588-e925-4730-842a-4f57476299d6": {
+		"$CONTENT_f0960588-e925-4730-842a-4f57476299d6/Objects/Database/ShapeSets/example.shapeset": [
+			"aa8d89eb-919b-42f4-8b58-af6f0d5856bc",
+			"a481138b-fae9-47c9-9bc2-91b6d2e2bf52",
+			"cf3fdcfc-a7e5-4497-b000-ffda67dd8db7",
+			"42786777-c148-4e13-9bab-e460564e79c3",
+			"38ee0516-abc5-4e46-9195-c763610d7ec4",
+			"20f59114-5964-451f-bb47-820da3ebbc3b",
+			"103fc4e6-7e57-465e-a86d-983343415877",
+			"2e792123-4a10-4cc6-b9ef-c5a518655cb4",
+			"f2aa1e44-aea8-4431-9b7e-f7e35163dd7c",
+			"02ee2a98-bd8d-4a09-bb69-38edaf66b8e1",
+			"968de65c-75f3-471b-954e-6165a4b6d3d6",
+			"f99ebc34-4821-4b39-a625-b839c5802ed5",
+			"5cb39ea5-554d-4c40-9d9a-6b2dd59de953",
+			"7468db55-b29d-4ce0-82b9-2414f493a376"
+		]
 	}
 }

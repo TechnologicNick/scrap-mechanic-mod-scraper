@@ -30301,7 +30301,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "Custom Super Thruster for personnal uses\n\n\nWARNING: this thruster is VERY powerfull (even if i nerfed it a little bit recently) so use it for big creation only",
+		"description": "Custom Super Thruster for personnal uses\n\nsettings:\n1 -> 0 push power\n2 -> more than a lvl 5 thruster\n3 -> can propulse you out of the world box if put on a smal creation\n\nWARNING: this thruster is VERY powerfull when on the max setting (even if i nerfed it a little bit recently) so use it for big creation only",
 		"fileId": 2981815648,
 		"localId": "48a92e79-d571-4cb5-a742-14369892c1af",
 		"name": "Supah Thurestah",
@@ -31573,6 +31573,16 @@
 		"fileId": 3027347571,
 		"localId": "b9ae5f06-5ffe-46db-993f-78b59582d373",
 		"name": "compatibility (missing mod fix)",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f0960588-e925-4730-842a-4f57476299d6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3028361395,
+		"localId": "f0960588-e925-4730-842a-4f57476299d6",
+		"name": "working old parts",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
