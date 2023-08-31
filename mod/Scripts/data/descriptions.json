@@ -31569,7 +31569,7 @@
 	"b9ae5f06-5ffe-46db-993f-78b59582d373": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Fixes a new bug. It has already been reported to the devs and will be fixed in the newest update\r\n[code] Could not find Blocks and Parts mod 'compatibility'[/code]\r\nOnce the mod is loaded, you may need to reload the world once more in order to place or interact with anything\r\n\r\ntags: comp, compat, fix, bug, crash, compatibility",
+		"description": "Fixes a rare bug. It has already been reported to the devs and will be fixed in the newest update\r\n[code] Could not find Blocks and Parts mod 'compatibility'[/code]\r\nOnce the mod is loaded, you may need to reload the world once more in order to place or interact with anything\r\n\r\nShould be installed before the error happens. Repeated world crashing will likely corrupt it making it irrecoverable\r\n\r\ntags: comp, compat, fix, bug, crash, compatibility",
 		"fileId": 3027347571,
 		"localId": "b9ae5f06-5ffe-46db-993f-78b59582d373",
 		"name": "compatibility (missing mod fix)",
