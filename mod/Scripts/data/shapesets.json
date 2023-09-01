@@ -13679,9 +13679,11 @@
 			"9f9fda0d-9e65-4ffe-907c-5150218a03e1",
 			"903b737a-42b9-459d-a169-c4171016cfab",
 			"af84d5d9-00b1-4bab-9c5a-102c11e14a13",
+			"d80e4edd-8823-42f6-9f17-1dc130ba51ce",
 			"295481d0-910a-48d4-a04a-e1bf1290e510",
 			"3f4644d5-47cb-477d-b22d-901ab2ed2e0f",
-			"a2fc1d9c-7c00-4d29-917b-6b9e26ea32a2"
+			"a2fc1d9c-7c00-4d29-917b-6b9e26ea32a2",
+			"a2a1b12e-8045-4ab0-9577-8b63c06a55c2"
 		],
 		"$CONTENT_3269e6ef-4d80-4f75-b8f6-dffb303e5243/Objects/Database/ShapeSets/cannon_shells.json": [
 			"d7a0fd34-6a9c-4be8-be10-4e7016e05861"
@@ -13778,6 +13780,7 @@
 		"$CONTENT_3269e6ef-4d80-4f75-b8f6-dffb303e5243/Objects/Database/ShapeSets/tool_parts.json": [
 			"c4966054-2c7e-451a-b946-090604696d78",
 			"7a716b53-04a5-4a39-874b-4a13986dcc69",
+			"616fc02a-e31f-4dcb-998d-6f03c4a7dfe8",
 			"9df34886-8dbb-4c67-ad4d-1b280673b786",
 			"db67924a-39b0-4522-a3a5-270ef2a8538b",
 			"873b01f3-4b50-460f-b7fc-98bbdf4b50e3",
