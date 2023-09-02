@@ -17055,6 +17055,11 @@
 				"fileId": 1759377518,
 				"localId": "2b09183f-5ecb-4dac-93a0-99bd0baa6e55",
 				"name": "ModDatabase"
+			},
+			{
+				"fileId": 2945713875,
+				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
+				"name": "ModDatabase v2"
 			}
 		],
 		"description": "This mod doesn't have a description",
