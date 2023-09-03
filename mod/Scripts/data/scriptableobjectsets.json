@@ -585,5 +585,12 @@
 			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
 			"009fe136-aeee-45c4-9135-006b786cfc59"
 		]
+	},
+	"bb8c0087-f9f2-4625-8a11-a3d7c3dedd13": {
+		"$CONTENT_bb8c0087-f9f2-4625-8a11-a3d7c3dedd13/ScriptableObjects/ScriptableObjectSets/golf.sobset": [
+			"6e3a0484-afe3-4dec-b764-c78be207f763",
+			"45de87c5-eea6-4d91-a0bc-7add31dc3276",
+			"2747975e-12a2-40f1-9b35-84dfcde42e11"
+		]
 	}
 }

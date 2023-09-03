@@ -31604,5 +31604,15 @@
 		"name": "working old parts",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"bb8c0087-f9f2-4625-8a11-a3d7c3dedd13": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3030076157,
+		"localId": "bb8c0087-f9f2-4625-8a11-a3d7c3dedd13",
+		"name": "Happy birthday spora!",
+		"type": "Custom Game",
+		"version": 0
 	}
 }

@@ -509,5 +509,19 @@
 	},
 	"81ba61be-a052-4b42-8123-ce6fc4f88969": {
 		"$CONTENT_81ba61be-a052-4b42-8123-ce6fc4f88969/Kinematics/Database/KinematicSets/example.kinematicset": []
+	},
+	"bb8c0087-f9f2-4625-8a11-a3d7c3dedd13": {
+		"$CONTENT_bb8c0087-f9f2-4625-8a11-a3d7c3dedd13/Kinematics/Database/KinematicSets/golf.kinematicset": [
+			"d9756b4f-a68c-4d58-9df5-96af16a95f29",
+			"535da21e-0293-4150-ae11-c66ec578df27",
+			"83654539-476e-4487-b6e0-61ae1077febd",
+			"77afbc11-26b5-4d6b-9e73-82fd8d5eb2a9",
+			"e9239245-33b7-46a8-8cfd-21acca23b033",
+			"e37fe0db-0ddc-4b09-a295-fc07751d255d",
+			"054ba846-a648-4bc5-aeb4-b93aef30410b",
+			"9f4cef56-b037-41fb-adf7-3f7d86e14937",
+			"487dc97d-90ca-4d1d-bfab-964c38245b16",
+			"f5835b75-418a-4a3c-8a58-527759b29272"
+		]
 	}
 }
