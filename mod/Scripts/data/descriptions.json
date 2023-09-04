@@ -31614,5 +31614,15 @@
 		"name": "Happy birthday spora!",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"eaf28501-3c4b-471b-b13e-492d762acc9a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Additional crafting recipes for the Craftbot",
+		"fileId": 3030306177,
+		"localId": "eaf28501-3c4b-471b-b13e-492d762acc9a",
+		"name": "JelSurvivalCrafts",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

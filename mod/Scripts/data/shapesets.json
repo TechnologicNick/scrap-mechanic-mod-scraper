@@ -79863,7 +79863,12 @@
 		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/industrial.json": [
 			"707d2d57-cc9f-4d3a-a6b1-edf9999fb161",
 			"dcd62428-c2fc-4a0f-8b71-b0ef364da8bc",
-			"2e980086-cf70-4be2-87c2-16a9c69dc442"
+			"2e980086-cf70-4be2-87c2-16a9c69dc442",
+			"8608925f-5d1d-42db-8ba0-e7b0740ce5a3",
+			"a987046e-846f-4c31-ad1a-94b40fb09317",
+			"b12cad5a-c6a5-4aac-b06e-577274793c37",
+			"b3ca23d6-15c2-47af-af5e-f2421e91c6ac",
+			"8793f3ab-1bce-4f68-aa5c-e1117dd4f843"
 		],
 		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/spaceship.json": [],
 		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/fittings.json": [],
@@ -81749,5 +81754,8 @@
 	},
 	"bb8c0087-f9f2-4625-8a11-a3d7c3dedd13": {
 		"$CONTENT_bb8c0087-f9f2-4625-8a11-a3d7c3dedd13/Objects/Database/ShapeSets/golf.shapeset": []
+	},
+	"eaf28501-3c4b-471b-b13e-492d762acc9a": {
+		"$CONTENT_eaf28501-3c4b-471b-b13e-492d762acc9a/Objects/Database/ShapeSets/example.shapeset": []
 	}
 }
