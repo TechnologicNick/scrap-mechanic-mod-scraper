@@ -29758,7 +29758,7 @@
 	"c070161a-e8e0-4593-8e63-30799b7f6904": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This tool allows you to select multiple bodies and duplicate/mirror them.\n\nSelect Mode Controls:\n- Left click (default for Build/Primary) to select a body\n- Right click (default for Remove/Secondary) to deselect a body\n- F (default for Force Build) to cycle save slots, hold to save selected bodies to current slot\n- R (default for Reload) to switch to Build Mode\n- Double clicking selects/deselects a body and its immediate child bodies*\n- Triple clicking selects/deselects a body and all its descendant bodies*\n\n*The body on which you first place a joint is the parent, and anything you build on the other end of the joint is the child.\n\nBuild Mode Controls:\n- Left click (default for Build/Primary) to spawn saved bodies of the current slot\n- Q (default for Next Rotation) to rotate/mirror creation\n- F (default for Force Build) to cycle save slots\n- R (default for Reload) to switch to Select Mode\n\nNotes:\n- A summary of the selected bodies is displayed as text in the form of “M[*12B-34J]^”\n- \"M\" is only shown in Build Mode and indicates a mirrored creation\n- \"*\" indicates that the creation is disjointed (one or more bodies are not connected to the others)\n- First set of numbers represent the number of bodies\n- Second set of numbers represent the number of joints\n- “^” is only shown in Select Mode and indicates that all bodies/joints of a creation had been selected\n- Selecting a body will select all joints that it is the parent of\n- Interactable settings are preserved in the copies and bearing directions are reversed when mirrored\n- Shift+Q (rotating/mirroring in reverse order) does not yet work (broken SM API feature)\n- There are no collision checks (yet, maybe) when spawning creations, be prepared for a bad time if you spawn into other objects\n- Unpredictable outcomes may occur if a creation is modified while selecting or saving\n",
+		"description": "",
 		"fileId": 2963669827,
 		"localId": "c070161a-e8e0-4593-8e63-30799b7f6904",
 		"name": "Duplicator Tool",
@@ -30609,14 +30609,7 @@
 	"3b9e4bc6-ae0c-4dc2-a0e6-12ea77e78af5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 1759377518,
-				"localId": "2b09183f-5ecb-4dac-93a0-99bd0baa6e55",
-				"name": "ModDatabase"
-			}
-		],
-		"description": "An interactable mug who is determined to stay upright!\r\n\r\nYou can connect a logic signal to turn it on or off, or just leave it at its default of being on.\r\nWhile on, the mug will try to correct itself to sit (or fly) upright. Why have just your mug stable, when you could have your entire vehicle stabilized?\r\n\r\nWhile Suspension Glitch is great at stabilizing, there are two things it doesn't replicate that the StabiliZING Mug can accomplish\r\n\r\n1. The StabiliZING Mug will always try to point upwards, while a suspension glitch setup will slowly veer from perfect alignment.\r\n2. The StabiliZING Mug can be customized in stiffness. A suspension glitch is essentially perfectly stiff, with no way to make it feel more natural.\r\n\r\nI've made a few vehicles to showcase all of the possible ways you could use this tech, and might make a few more.\r\n\r\nHere are the current showcases:\r\nSimple Flyer --- https://steamcommunity.com/sharedfiles/filedetails/?id=2995728585\r\nMotorcycle --- https://steamcommunity.com/sharedfiles/filedetails/?id=2995728811\r\nMono-Wheel --- https://steamcommunity.com/sharedfiles/filedetails/?id=2995728885\r\nSuspension --- https://steamcommunity.com/sharedfiles/filedetails/?id=2995728992\r\nEngine --- https://steamcommunity.com/sharedfiles/filedetails/?id=2997662604\r\n\r\nThis mod uses coding inspirations from \"Hoverpads\" by 00Fant. I was trying to figure out how everything in Scrap Mechanic Modding worked, and there were some questions that weren't answered by the Scrap Mechanic Lua API Reference.",
+		"description": "An interactable mug who is determined to stay upright!\n\nYou can connect a logic signal to turn it on or off, or just leave it at its default of being on.\nWhile on, the mug will try to sit upright. Attatch it to your vehicles to be able to keep them upright all the time.\n\nWhile Suspension Glitch is great at stabilizing, there are four seperate reasons why the StabiliZING Mug is simply the superior option.\n\n1. The StabiliZING Mug will always try to point upwards, while a suspension glitch setup will slowly veer from perfect alignment.\n2. The StabiliZING Mug can be customized in stiffness. A suspension glitch is essentially perfectly stiff, with no way to make it feel more natural.\n3. It is easy to keep it compact. The smallest a suspension glitch can get is 2x1x1, and that's only if you use glitchwelding.\n4. It can be turned on and off with nothing more than a logic signal. You don't need to have any kinematics to restrict the suspension glitch.\n\nThere is bonus mug included titled the Slowing Mug. It has a feature that suspension glitch can not replicate, which is to slow down in midair. It is great for giving flying machines tighter controls.\n\nI've made a few vehicles to showcase all of the possible ways you could use this tech, and might make a few more. Here is the collection:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3010223930\n\nThis mod uses coding inspirations from \"Hoverpads\" by 00Fant. I was trying to figure out how everything in Scrap Mechanic Modding worked, and there were some questions that weren't answered by the Scrap Mechanic Lua API Reference.",
 		"fileId": 2995678965,
 		"localId": "3b9e4bc6-ae0c-4dc2-a0e6-12ea77e78af5",
 		"name": "StabiliZING Mug",
@@ -31159,13 +31152,7 @@
 	"5cfc4f8a-0b66-4469-ab97-7b8a8ae8102f": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 1759377518,
-				"localId": "2b09183f-5ecb-4dac-93a0-99bd0baa6e55",
-				"name": "ModDatabase"
-			}
-		],
+		"dependencies": [],
 		"description": "Basically Nuke Mod but with a cooler explosion and a real bomb (explosion is still WAY too small right now, but the radiation zone isn't).\r\n\r\noh yeah, and I didn't make most of the stuff in this, it's from the nuke mod instead.\r\n\r\nnuke mod by X606 and MineTrooper (not me): https://steamcommunity.com/sharedfiles/filedetails/?id=1506706675",
 		"fileId": 3012995157,
 		"localId": "5cfc4f8a-0b66-4469-ab97-7b8a8ae8102f",
@@ -31227,13 +31214,7 @@
 	"a471c1ae-7ff8-4440-8d97-57567de77c5b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 1759377518,
-				"localId": "2b09183f-5ecb-4dac-93a0-99bd0baa6e55",
-				"name": "ModDatabase"
-			}
-		],
+		"dependencies": [],
 		"description": "ADDS FACTORY CART FROM SATISFACTORY!!!",
 		"fileId": 3015819171,
 		"localId": "a471c1ae-7ff8-4440-8d97-57567de77c5b",
@@ -31622,6 +31603,44 @@
 		"fileId": 3030306177,
 		"localId": "eaf28501-3c4b-471b-b13e-492d762acc9a",
 		"name": "JelSurvivalCrafts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d931f7fe-970f-483d-a07b-cf9f3ad01763": {
+		"description": "This mod doesn't have a description",
+		"fileId": 2242302701,
+		"localId": "d931f7fe-970f-483d-a07b-cf9f3ad01763",
+		"name": "space mod",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"b100139f-a13f-41bc-b2ef-ec0b65bec881": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Inventum is mod similar to Intelligentia. It currently adds a customizable magnet, that can be configured to track certain players with a simple UI",
+		"fileId": 3030942200,
+		"localId": "b100139f-a13f-41bc-b2ef-ec0b65bec881",
+		"name": "Inventum",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d92e0e8e-2935-418c-8d11-7c26d83f7830": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Use this handy spyglass to check if someone is messing with your precious creations, see if a switch is on from far away, or even use it to see where your plane flew! \n\nLike and favorite if you enjoy the mod, and leave a comment if you have suggestions for this mod or future ones.",
+		"fileId": 3030953698,
+		"localId": "d92e0e8e-2935-418c-8d11-7c26d83f7830",
+		"name": "Spyglass",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6820e90f-842b-4c34-bad6-3c2575923845": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This Mod Adds Adjustable Weight Blocks.\r\nYou can Adjust the Weight via a Slider GUI Interface or with Logic Inputs.\r\nExample:\r\nConnect 2 Buttons, One MUST be the Default Orange Color and the Other one must be any Other Color.\r\nThe Default Colored Input Makes it Heavyer, the Other Colored Input makes it Lighter.\r\n\r\nEnjoy\r\n\r\nIdea From:\r\nlolmedlol\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"fileId": 3030992851,
+		"localId": "6820e90f-842b-4c34-bad6-3c2575923845",
+		"name": "Adjustable Weight",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

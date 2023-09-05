@@ -72252,7 +72252,8 @@
 	},
 	"3b9e4bc6-ae0c-4dc2-a0e6-12ea77e78af5": {
 		"$CONTENT_3b9e4bc6-ae0c-4dc2-a0e6-12ea77e78af5/Objects/Database/ShapeSets/example.shapeset": [
-			"2fe0739a-5a32-4ac3-9ac6-21d47605d325"
+			"2fe0739a-5a32-4ac3-9ac6-21d47605d325",
+			"3fe0739a-5a32-4ac3-9ac6-21d47605d325"
 		]
 	},
 	"c8ffdf84-1316-47d3-8b1e-99c66f808a80": {
@@ -80978,7 +80979,10 @@
 			"52ed7306-172d-4307-a821-7c33656b2ed9",
 			"c42fc05e-90ad-400c-bc6c-835c834d8034",
 			"ff5e72cd-74b6-4e0c-852f-755a046c98d4",
-			"4270ef75-5cf1-4d22-9597-e7ea4273309c"
+			"4270ef75-5cf1-4d22-9597-e7ea4273309c",
+			"f2eddf49-9e55-4e5e-89e3-aeab1ac4f41f",
+			"3a96c789-b352-40d9-8ef9-5b34b08d1f75",
+			"e9e54915-b5e4-4528-beda-1881008c8f13"
 		]
 	},
 	"48e8caf6-13ef-4eae-8887-9c5d3c927f4b": {
@@ -81760,5 +81764,31 @@
 	},
 	"eaf28501-3c4b-471b-b13e-492d762acc9a": {
 		"$CONTENT_eaf28501-3c4b-471b-b13e-492d762acc9a/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"d931f7fe-970f-483d-a07b-cf9f3ad01763": {
+		"$CONTENT_d931f7fe-970f-483d-a07b-cf9f3ad01763/Objects/Database/ShapeSets/blocks.json": [],
+		"$CONTENT_d931f7fe-970f-483d-a07b-cf9f3ad01763/Objects/Database/ShapeSets/parts.json": []
+	},
+	"b100139f-a13f-41bc-b2ef-ec0b65bec881": {
+		"$CONTENT_b100139f-a13f-41bc-b2ef-ec0b65bec881/Objects/Database/ShapeSets/main.shapeset": [
+			"31f6a7f4-04cd-417d-8b14-f09335a437d2"
+		]
+	},
+	"d92e0e8e-2935-418c-8d11-7c26d83f7830": {
+		"$CONTENT_d92e0e8e-2935-418c-8d11-7c26d83f7830/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"6820e90f-842b-4c34-bad6-3c2575923845": {
+		"$CONTENT_6820e90f-842b-4c34-bad6-3c2575923845/Objects/Database/ShapeSets/adjustable_weight.shapeset": [
+			"2675373a-f081-450e-8574-b32a06d31890",
+			"01e60925-4d63-4d20-a5e3-972075f3d2e7",
+			"7842ae3f-7add-4c42-9da0-b03618d19a14",
+			"0e49b472-39c7-44c9-abca-bab4817211da",
+			"95ce1cdf-20a9-4736-b98d-f66856db2c8a",
+			"405b0c90-ec55-4c77-94eb-f31eed1e9a0c",
+			"0f2ddf99-3e81-47d9-832b-9d3ea50ada20",
+			"7af55460-e613-4402-b1a1-b8a476bfe10b",
+			"818f7a64-d67b-4c7e-a93c-201fe89c890c",
+			"41c3c8a1-7953-4411-8667-0300f098c59a"
+		]
 	}
 }
