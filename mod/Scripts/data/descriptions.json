@@ -31643,5 +31643,15 @@
 		"name": "Adjustable Weight",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"382d7af8-ab85-4243-b29c-e53b232a7f1a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "its gary and jerry combined",
+		"fileId": 3031188613,
+		"localId": "382d7af8-ab85-4243-b29c-e53b232a7f1a",
+		"name": "jary",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
