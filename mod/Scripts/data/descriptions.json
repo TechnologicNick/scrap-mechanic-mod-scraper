@@ -31422,13 +31422,7 @@
 	"21de2e5f-08dc-4d2f-9c13-4e14499c1779": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 1759377518,
-				"localId": "2b09183f-5ecb-4dac-93a0-99bd0baa6e55",
-				"name": "ModDatabase"
-			}
-		],
+		"dependencies": [],
 		"description": "This mod includes two blocks that delete or destroy a creation with a logic signal in different ways.\r\n\r\nBlue block: Deletes a creation when a logic signal is applied.\r\n\r\nRed block: Destroys a creation, including an explosion with debris, when a logic signal is applied.\r\n\r\n[u]Note:[/u] I don't yet know if this works properly in multiplayer or not, so please let me know if it doesn't work or any other problem you find.\r\n\r\nThe following video shows how I use this mod in my ScrapOut series (click the image).\r\n[url=https://youtu.be/LWKDHwuRCiY][img]https://steamuserimages-a.akamaihd.net/ugc/2054257543516395461/976946B92B7C55E11B4426EE0EA469E81F293177/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img][/url]\r\n\r\n",
 		"fileId": 3022299624,
 		"localId": "21de2e5f-08dc-4d2f-9c13-4e14499c1779",
