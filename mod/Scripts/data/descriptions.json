@@ -31657,5 +31657,15 @@
 		"name": "Sk4zZi0uS Block Mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"a9a095f0-d5f4-49e2-a3a7-f6f800890510": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Have you ever wondered how it feels to go Duck a’ Mock? Well now you can with this new mod!\nIt features all kinds of “Ducks” that can manipulate your world in different ways.\n\nHow it works:\nPlace a Duck down and get the effect of the Duck! If you have placed a duck down with a continuous effect E.g., Gravity in this example you will need to place down the “Gravity Duck” to make the gravity normal again.\n\nDisclaimer: Make sure to delete any Ducks from this mod that somehow isnt self deleted\n\nCan you use my Mod?\nYes ofc, but with proper credit!\n",
+		"fileId": 3031841361,
+		"localId": "a9a095f0-d5f4-49e2-a3a7-f6f800890510",
+		"name": "Ducks",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
