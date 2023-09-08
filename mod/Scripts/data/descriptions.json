@@ -31441,13 +31441,6 @@
 	"cf8f128e-0c40-4194-84b6-17b26a35ad7f": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2945713875,
-				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
-				"name": "ModDatabase v2"
-			}
-		],
 		"description": "This mod doesn't have a description",
 		"fileId": 3022998834,
 		"localId": "cf8f128e-0c40-4194-84b6-17b26a35ad7f",
