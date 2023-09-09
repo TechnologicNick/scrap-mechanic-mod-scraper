@@ -16361,13 +16361,6 @@
 	"61dfaa2e-041d-4e6b-82a1-54185a7d0cfe": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2945713875,
-				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
-				"name": "ModDatabase v2"
-			}
-		],
 		"description": "allows you to place the lift ANYWHERE\r\ninfinite reach (not length!)\r\n\r\ncant use a creation with keybinds:\r\nforce build button: go down\r\nreload button: go up\r\n\r\n[h1]discord.gg/6r46PkYr9s[/h1]",
 		"fileId": 2844836154,
 		"localId": "61dfaa2e-041d-4e6b-82a1-54185a7d0cfe",
@@ -27479,13 +27472,6 @@
 	"d69c811d-76bc-4b7d-af00-2e674c7c52fe": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2945713875,
-				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
-				"name": "ModDatabase v2"
-			}
-		],
 		"description": "allows you to see zero width blocks\r\n\r\nZero width block, or zwb, is a block that are scaled down to have a width of 0 on any side. These blocks are heavily used in compact creations and allow for absolute no collision pass-throughs. These blocks can not be seen in game so this tool fixes that\r\n\r\nadded compatability to the joint mod!.",
 		"fileId": 2885937214,
 		"localId": "d69c811d-76bc-4b7d-af00-2e674c7c52fe",
@@ -31658,6 +31644,16 @@
 		"fileId": 3031841361,
 		"localId": "a9a095f0-d5f4-49e2-a3a7-f6f800890510",
 		"name": "Ducks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"bdd844e6-8e49-4cbb-a184-4abf8eb1bfc0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This is a lift mod originally created by unknown81311 \"Better Lift\"\nMe and my friends wanted our own custom version for things we wanted.",
+		"fileId": 3032953742,
+		"localId": "bdd844e6-8e49-4cbb-a184-4abf8eb1bfc0",
+		"name": "Azure's Lift",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
