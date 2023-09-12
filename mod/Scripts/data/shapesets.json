@@ -82022,5 +82022,13 @@
 			"ba79e3c0-914f-46ff-874b-243df5589e3c",
 			"be744e84-f67e-4c06-a809-c247adc1babb"
 		]
+	},
+	"d3e4964b-e971-42df-b67e-d988d1b054cc": {
+		"$CONTENT_d3e4964b-e971-42df-b67e-d988d1b054cc/Objects/Database/ShapeSets/parts.json": [
+			"6a7b0558-1003-47d0-94de-c7ec96e4ce4f",
+			"13824fe9-37f4-49dc-bf2b-542120b79f88",
+			"faa8944c-4f2b-4e41-9d59-d09b33600d6c",
+			"460c7b5d-6620-4279-b695-f4fbd4ca607f"
+		]
 	}
 }
