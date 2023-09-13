@@ -2237,11 +2237,7 @@
 	"928daaa1-1221-415b-b30f-7be9f208ba10": {},
 	"bfea3e44-524f-479d-ae4e-27c63d888c53": {},
 	"207bf4a6-6862-4660-b9e0-e29dd111d758": {},
-	"35bd8b52-4dcf-40b5-9b22-dad88a750e23": {
-		"$CONTENT_35bd8b52-4dcf-40b5-9b22-dad88a750e23/Tools/Database/ToolSets/example.toolset": [
-			"f61a409d-9409-44da-a9a8-70762e36fe89"
-		]
-	},
+	"35bd8b52-4dcf-40b5-9b22-dad88a750e23": {},
 	"f8691728-c858-4fc5-a5ba-37acccf84a78": {},
 	"39531f1d-5df3-406d-a4bc-c08f5a74ea47": {
 		"$CONTENT_39531f1d-5df3-406d-a4bc-c08f5a74ea47/Tools/Database/ToolSets/FantTools.toolset": [
