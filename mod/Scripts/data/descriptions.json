@@ -29014,15 +29014,15 @@
 		"custom_icons": false,
 		"dependencies": [
 			{
-				"fileId": 2945713875,
-				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
-				"name": "ModDatabase v2"
+				"fileId": 2973331517,
+				"localId": "e52533c5-8076-4bda-82bf-336df526690b",
+				"name": "Logic API"
 			}
 		],
 		"description": "[Eng]\ndear mechanics!\nthis is a mod that adds a lot of new decor to the game, which will diversify your gameplay\n\n[Rus]\nдорогие механики!\nэто мод добавляющий в игру много нового декора, который разнообразит ваш геймплей",
 		"fileId": 2957460006,
 		"localId": "67da1616-d4e2-4e02-b7f4-6cd0c8b56a6e",
-		"name": "any decor stuff",
+		"name": "Any decor stuff",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
