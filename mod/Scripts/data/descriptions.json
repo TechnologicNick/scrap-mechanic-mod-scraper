@@ -30411,10 +30411,10 @@
 	"0e903652-d674-416c-91f7-effa1fcd4cae": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "unfortunately, the author will no longer develop this mod, he left the game for unknown reasons ...\nalthough he was very talented and promising.\nthis is DLM version 2.7 (the last one I have).\nI decided that I would take over the development, the\noriginal DLM will always lie in this mod, but in the \"content\" folder there will be a DLM with my changes described in the file \"listOfChanges.txt \". at the same time.\nI undertake to maintain security and fix any vulnerabilities that have arisen\n\nthe documentation is located in the docs folder in the mod files\n\ninstallation:\n-- 1\n* goto mod files\n* goto folder \"content/files\"\n* copy all the replacement files to the release folder of the game\n\n-- 2\n* goto mod files\n* goto folder \"content\"\n* run install.exe",
+		"description": "unfortunately, the author will no longer develop this mod, he left the game for unknown reasons ...\nalthough he was very talented and promising.\nthis is DLM version 2.7 (the last one I have).\nI decided that I would take over the development, the\noriginal DLM will always lie in this mod, but in the \"content\" folder there will be a DLM with my changes described in the file \"listOfChanges.txt \". at the same time.\nI undertake to maintain security and fix any vulnerabilities that have arisen\n\nthe documentation is located in the docs folder in the mod files\n\nnew apis (listOfChanges):\nadded coroutine: dlm.coroutine\nadded debug.traceback: dlm.debug.traceback\nadded file importer: dlm.io.readFile():content -- the path is chosen by the user\nadded file exporter: dlm.io.writeFile(content):ok, err -- the path is chosen by the user\n\ninstallation:\n-- 1\n* goto mod files\n* goto folder \"content/files\"\n* copy all the replacement files to the release folder of the game\n\n-- 2\n* goto mod files\n* goto folder \"content\"\n* run install.exe",
 		"fileId": 2988924872,
 		"localId": "0e903652-d674-416c-91f7-effa1fcd4cae",
-		"name": "DLM legacy",
+		"name": "DLM legacy (support)",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
