@@ -30264,14 +30264,8 @@
 	"5c31e4b1-2095-4ec6-9e0b-90d3e8a76ec7": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2945713875,
-				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
-				"name": "ModDatabase v2"
-			}
-		],
-		"description": "---------------------------------------------------------------------------------------------------\r\noriginal: https://steamcommunity.com/workshop/filedetails/?id=2821133117\r\n---------------------------------------------------------------------------------------------------\r\n\r\nthis mod just changes a few lines of code and adds a few blocks. other than that, this is a copy of the mod above. if you want to use this, then remember that all of the credit goes to the original creators: TheFattestCat and Donyti_Qramixy\r\n\r\nwhats new/different:\r\n-radars do not have noise (no errors in readings)\r\n-added flares and flare dispenser\r\n-added more powerful small radars\r\n-added a transparent display (easily breakable)\r\n\r\ni have tried making an add-on, but i failed\r\n\r\nif the original authors of the mod disapprove of this, please just comment on this. ill delete it and ill try again to make the add-on.\r\n\r\ni have seen a discussion on the original mod page about making a fork, so i thought that maybe this could also kinda apply to me. i've also started a discussion about making an add-on, but i didnt get an answer, so i deleted it after some time.",
+		"dependencies": [],
+		"description": "---------------------------------------------------------------------------------------------------\r\noriginal: https://steamcommunity.com/workshop/filedetails/?id=2821133117\r\n---------------------------------------------------------------------------------------------------\r\n\r\nthis mod just changes a few lines of code and adds a few blocks. other than that, this is a copy of the mod above. if you want to use this, then remember that all of the credit goes to the original creators: TheFattestCat and Donyti_Qramixy\r\n\r\nwhats new/different:\r\n-radars do not have noise (no errors in readings, no randomness in readings)\r\n-added flares and a flare dispenser (red flare just disappears after some time, blue flare fools the radar into thinking it is the same body it was launched from)\r\n-added more powerful small radars\r\n-added a transparent display (easily breakable) (most of the work for this was already done by TheFattestCat and Donyti_Qramixy)\r\n-added a setVAngle() and a getVAngle(). these functions refer to the vertical angle (as in pitch) that the radar is rotated to.\r\n-added a RWR block (outputs a signal if it is detected by radars)\r\n\r\ni have tried making an add-on, but i failed\r\n\r\nif the original authors of the mod disapprove of this, please just comment on this. ill delete it and ill try again to make the add-on.\r\n\r\ni have seen a discussion on the original mod page about making a fork, so i thought that maybe this could also kinda apply to me. i've also started a discussion about making an add-on, but i didnt get an answer, so i deleted it after some time.",
 		"fileId": 2979308690,
 		"localId": "5c31e4b1-2095-4ec6-9e0b-90d3e8a76ec7",
 		"name": "ScriptableComputer but with better tools",
