@@ -31654,13 +31654,7 @@
 	"f48c3c9a-b49f-471b-99d7-e01f6f533dc0": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2973331517,
-				"localId": "e52533c5-8076-4bda-82bf-336df526690b",
-				"name": "Logic API"
-			}
-		],
+		"dependencies": null,
 		"description": "this mod is suitable for all fans of old versions of the game.\nit hides all new interactive details from the inventory.\nat the same time, it opens the old ones.\n\nthis mod is distributed under the \"unlicense\" license.\nmore information in the \"LICENSE\" file",
 		"fileId": 3033767774,
 		"localId": "f48c3c9a-b49f-471b-99d7-e01f6f533dc0",
