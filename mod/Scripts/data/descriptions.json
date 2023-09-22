@@ -31681,5 +31681,15 @@
 		"name": "DEN-FOLD RACTOKL",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"b2e5eeda-696e-41a8-ac84-343ffe56d716": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This Mod Adds Animated Wing Parts to remove the Need to have Bearings on the Wings.\r\nThis should make Planes much Less Performence heavy and more Stable.\r\n\r\nWing parts:\r\n- 1x1x3\r\n- 1x1x5\r\n- 1x1x3 centered\r\n- 1x1x5 centered\r\n- non flap \r\n- end caps\r\n\r\nHave Fun and Enjoy.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"fileId": 3038895959,
+		"localId": "b2e5eeda-696e-41a8-ac84-343ffe56d716",
+		"name": "Animated Wing Parts",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

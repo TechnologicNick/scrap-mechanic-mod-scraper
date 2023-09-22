@@ -82052,5 +82052,21 @@
 			"9eb66a34-6271-411a-b865-3f83bea0ac2c",
 			"dcf5baec-d9a6-4224-a006-3b713806a6b0"
 		]
+	},
+	"b2e5eeda-696e-41a8-ac84-343ffe56d716": {
+		"$CONTENT_b2e5eeda-696e-41a8-ac84-343ffe56d716/Objects/Database/ShapeSets/awp.shapeset": [
+			"d015c81c-3d5d-4b12-ad8b-a376200f0839",
+			"8324670d-7ebe-45f8-8e7b-4afc0afac143",
+			"d3682c9e-a05c-46d5-b7f0-117de27af204",
+			"44b0ae6b-fb17-4827-864b-7b735343cdd6",
+			"18b4cc47-e604-46b0-8a80-18feae5135b3",
+			"63ff5e2a-d3b1-4969-826d-ccf4aa3b4a50",
+			"f8e9ec34-f5d3-40db-93e7-0d0936f815db",
+			"d2ccbe79-b0b2-4127-9f3c-c447d8904b26",
+			"06d27d0c-ca80-4060-b141-9e7c2e3ca8e1",
+			"c5c4226c-ad98-4601-8e62-5b3c6d6439b9",
+			"8f151207-a9a0-46fd-8e09-ce903be52eb0",
+			"dd11f915-fb27-4e49-86c6-aca73cd98041"
+		]
 	}
 }
