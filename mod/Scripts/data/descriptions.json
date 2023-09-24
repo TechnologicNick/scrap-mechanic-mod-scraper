@@ -26304,7 +26304,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "This mod adds Sunshakes, of all colors and kinds. Use these for building creations.\n\nList of SunShakes:\n\n1. FlyShake. This one simply makes you fly.\n\n2. SpeedShake. This one adds some speed.\n\n3. SlowShake. This one makes you slow.\n\n4. TurboShake. This one makes you extremely fast. Useful for travelling across the map.\n\nThe speed Sunshakes apply if you are flying or not, but the speed will reset if you switch to not flying or if you start flying.",
+		"description": "This mod adds Sunshakes, of all colors and kinds. Use these for building creations.\n\nThe FlyShake toggles between flying and not flying. (SPEED EFFECTS WILL RESET)\n\nThe SpeedShake, SlowShake, and TurboShake all change the speed of the player.\n\nThe ResetShake will reset speed effects.\n\nThe speed Sunshakes apply if you are flying or not, but the speed will reset if you switch to not flying or if you start flying.",
 		"fileId": 2865678708,
 		"localId": "e18c61d3-befb-44e5-bbae-d57bfec0f7f5",
 		"name": "Super Sunshakes",
@@ -29944,6 +29944,13 @@
 	"6defd250-22f3-4731-9b22-377666398a6b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 1759377518,
+				"localId": "2b09183f-5ecb-4dac-93a0-99bd0baa6e55",
+				"name": "ModDatabase"
+			}
+		],
 		"description": "Logic Driven Explosives that create an explosion when recieving an \"on\" signal. They can be used for engines, rockets, pyrotechnics, and for competitive vehicle games due to their instantaneous explosion >:)\n\nThere are three varieties: \"typical,\" \"lethal,\" and \"safe.\" Lethal is just as strong as the typical explosion, while safe only destroys blocks like cardboard. Typical explosives do destroy themselves, which is just so... typical of them.\n\nThis is my first mod, I hope it brings an element of fun into your game. I suggest turning off Camera Shake if you connect one of these to a loop... things get a bit chaotic ;)",
 		"fileId": 2970563507,
 		"localId": "6defd250-22f3-4731-9b22-377666398a6b",
@@ -31699,6 +31706,43 @@
 		"fileId": 3039777840,
 		"localId": "4337b55f-cf5e-46dd-9b7a-0291b43db1a5",
 		"name": "Fants Mountable Weapons",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"ee7f6b44-e9e8-4636-89ce-e7f5fd41c070": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3033959663,
+				"localId": "f096fc92-f3f3-4b71-94fa-02309ccc2433",
+				"name": "Challenge Assets"
+			}
+		],
+		"description": "[h1] Challenge Mode in Creative? YES! [/h1]\r\n\r\n[h2] How does it work? [/h2]\r\nThis relies on a local detector to detect your local challenge packs and challenge levels as well as a Challenge Pack Database mod (comming soon) that will scrape the workshop every 12 hours and if a new challenge pack is on the workshop, it will add the ID of the challenge pack to the Challenge Pack Database, allowing the new challenge pack to be loaded and played! To activate the local detector, load this mod at least 1 time first before continuing.\r\n\r\n[h2] Why? [/h2]\r\nBecause it supports all \"normal\" creative mods (\"normal\" because this creative mod is not normal). It also supports kinematics, harvestables, custom worlds/tiles, nodes, etc.\r\n\r\n\r\n[h1] Make sure you download the dependencies  -----------------------> [/h1]\r\n\r\n[h2] How do I make a new challenge? [/h2]\r\nThere is a bit of technical work to be done, so make sure you follow the directions below or watch the YouTube tutorial (if posted or available)\r\n[list]\r\n[*] This mod cannot make new challenge packs or levels. This must be done in challenge mode\r\n\r\n[*] In the near future, it may be possible to add new levels to existing challenge packs\r\n\r\n[*] When making a new level, you will need to click build, you should also take this time to add a challenge starter and complete the challenge. If you do not do this, you will not be able to upload to the workshop later\r\n\r\n[*] At this point you should have a new challenge with a completion time, making it ready to upload\r\n\r\n[*] There is a local \"detector\". This detector can detect local levels and packs you make. \r\n\r\n[*] When you make a new level, it creates that level in its own folder: [b][i]level_id/data[/i][/b]\r\n\r\n[*] When you add that level to a challenge pack, it copies the level, in the challenge pack folder: [b][i]challenge_id/level_id/data[/i][/b]\r\n\r\n[*] When the game goes to load that level now, it will load [b][i]challenge_id/level_id/data[/i][/b] instead of [b][i]level_id/data[/i][/b]\r\n\r\n[*] The local detector can detect the ID of either the pack or the level, however you must have loaded into the level for this to occur. When you previously created a new challenge and completed it, it added the [b][i]level_id[/i][/b] to a local list. However you added it to a challenge pack and the local detector has not been able to run, and detect the challenge pack id. So for 1 final time, you must load into the level, and then the game will load [b][i]challenge_id/level_id/data[/i][/b] allowing the detector to get the level and the pack ID. \r\n\r\n[*] Without the pack id and ONLY the level ID, you will be editing [b][i]level_id/data[/i][/b] in the mod instead of [b][i]challenge_id/level_id/data[/i][/b]. So if you were to upload, you will not see any changes. \r\n\r\n[*] Now for the easy part. You can load up the mod, and begin editing (and saving!) the challenge levels. From this point forward, if you add mods to your level, you are NOT to load the challenge pack or any levels in the normal Challenge Mode! Your game will be really sad if you do. If you simply want to build challenges, with temporary mods, like helpful building tools, you are more than welcome to load the challenge back into the normal Challenge Mode.\r\n\r\n[*] When you want to update or upload, simply navigate back to the normal challenge mode, and click update or upload for the challenge pack!\r\n[/list]\r\n\r\nLastly be sure to update the workshop item with the correct list of mod dependencies and customize the icon, as it will not update after the first completion time (if you use mods and cannot load it in normal challenge mode again)\r\n\r\n[h3]Feedback[/h3]\r\nCommunity feedback is highly valued and needed for the continued improvement of this mod. Please leave any and all information regarding your experience, problems, etc. in the comments below, add me on discord (TheGuy920) or join my [url=https://discord.gg/FQg62dq]discord server[/url]\r\n\r\n[h3] Bugs? [/h3]\r\nIf you really spam the UI hard enough on the landing/menu page, you can break the menus, however pressing escape multiple times to close any broken menus will usually fix the problem\r\nAlso the hammer in the \"lobby\" for clients is not broken. Its a custom hammer that doesnt do anything\r\nWorst comes to worst, reload the world by exiting, or make a fresh modded challenge mode world. there really should be like 0 bugs tho so plz report them, either in the [url=https://discord.gg/FQg62dq]discord server[/url], or in the comments here\r\n\r\n[h1][url=https://discord.gg/FQg62dq]Discord Server[/url][/h1]",
+		"fileId": 3033524501,
+		"localId": "ee7f6b44-e9e8-4636-89ce-e7f5fd41c070",
+		"name": "Challenge Mode in Creative",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"702c7754-8d84-42d5-98be-4113b4c11de8": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3039915898,
+		"localId": "702c7754-8d84-42d5-98be-4113b4c11de8",
+		"name": "CleanBlock2",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"4e90fa2c-2a75-4a05-a0b8-06a14f5b2db2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "123",
+		"fileId": 3039953769,
+		"localId": "4e90fa2c-2a75-4a05-a0b8-06a14f5b2db2",
+		"name": "Autumn Park Menu",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
