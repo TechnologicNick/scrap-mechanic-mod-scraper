@@ -82152,5 +82152,11 @@
 	},
 	"4e90fa2c-2a75-4a05-a0b8-06a14f5b2db2": {
 		"$CONTENT_4e90fa2c-2a75-4a05-a0b8-06a14f5b2db2/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"e3589ff7-31ca-4f19-b1f0-bef055ba9200": {},
+	"5a7c1dd7-2582-45c3-9ee6-2260c478a837": {
+		"$CONTENT_5a7c1dd7-2582-45c3-9ee6-2260c478a837/Objects/Database/ShapeSets/example.shapeset": [
+			"6524ad4a-15be-409a-9e21-df92e37a3d6f"
+		]
 	}
 }
