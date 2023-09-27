@@ -592,5 +592,11 @@
 			"45de87c5-eea6-4d91-a0bc-7add31dc3276",
 			"2747975e-12a2-40f1-9b35-84dfcde42e11"
 		]
+	},
+	"081b1b76-5a4d-4ea8-91e4-09d1ce9e4ae6": {
+		"$CONTENT_081b1b76-5a4d-4ea8-91e4-09d1ce9e4ae6/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"25b2775e-4776-4d4b-9eb8-79c4b0f1b9cd": {
+		"$CONTENT_25b2775e-4776-4d4b-9eb8-79c4b0f1b9cd/ScriptableObjects/ScriptableObjectSets/example.sobset": []
 	}
 }

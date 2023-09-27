@@ -752,5 +752,11 @@
 		"$CONTENT_bb8c0087-f9f2-4625-8a11-a3d7c3dedd13/Characters/Database/CharacterSets/golf.characterset": [
 			"00000000-0000-0000-0000-000000000000"
 		]
+	},
+	"081b1b76-5a4d-4ea8-91e4-09d1ce9e4ae6": {
+		"$CONTENT_081b1b76-5a4d-4ea8-91e4-09d1ce9e4ae6/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"25b2775e-4776-4d4b-9eb8-79c4b0f1b9cd": {
+		"$CONTENT_25b2775e-4776-4d4b-9eb8-79c4b0f1b9cd/Characters/Database/CharacterSets/example.characterset": []
 	}
 }

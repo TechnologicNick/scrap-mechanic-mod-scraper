@@ -82158,5 +82158,11 @@
 		"$CONTENT_5a7c1dd7-2582-45c3-9ee6-2260c478a837/Objects/Database/ShapeSets/example.shapeset": [
 			"6524ad4a-15be-409a-9e21-df92e37a3d6f"
 		]
+	},
+	"081b1b76-5a4d-4ea8-91e4-09d1ce9e4ae6": {
+		"$CONTENT_081b1b76-5a4d-4ea8-91e4-09d1ce9e4ae6/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"25b2775e-4776-4d4b-9eb8-79c4b0f1b9cd": {
+		"$CONTENT_25b2775e-4776-4d4b-9eb8-79c4b0f1b9cd/Objects/Database/ShapeSets/example.shapeset": []
 	}
 }

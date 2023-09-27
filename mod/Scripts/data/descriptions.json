@@ -31765,5 +31765,25 @@
 		"name": "Air Swim Mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"081b1b76-5a4d-4ea8-91e4-09d1ce9e4ae6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "easy survival for noobs",
+		"fileId": 3041547040,
+		"localId": "081b1b76-5a4d-4ea8-91e4-09d1ce9e4ae6",
+		"name": "easy survival",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"25b2775e-4776-4d4b-9eb8-79c4b0f1b9cd": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod makes it so you keep your entire inventory whenever you die and respawn!",
+		"fileId": 3041586585,
+		"localId": "25b2775e-4776-4d4b-9eb8-79c4b0f1b9cd",
+		"name": "Survival Keep Inventory",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
