@@ -27117,7 +27117,7 @@
 	"7f17663b-3e95-4316-9617-a18f39995aac": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This is a Simple Pixel Display.\r\nJust to draw stuff on it. ;)\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.",
+		"description": "This is a Simple Pixel Display.\r\nJust to draw stuff on it. ;)\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2891513321,
 		"localId": "7f17663b-3e95-4316-9617-a18f39995aac",
 		"name": "Pixel Display",
@@ -31785,5 +31785,15 @@
 		"name": "Survival Keep Inventory",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"8b631ee4-13fb-4cf3-be06-f2949c348429": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3042023795,
+		"localId": "8b631ee4-13fb-4cf3-be06-f2949c348429",
+		"name": "Paving Stone of Death (PetRock)",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
