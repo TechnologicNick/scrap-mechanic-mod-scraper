@@ -82172,5 +82172,11 @@
 			"8a3cea03-cb39-44b7-b5ee-0eef80745601",
 			"64a6c329-cbd8-4bac-ace8-80f6d6a14a9c"
 		]
+	},
+	"07237fba-d25d-41d3-88c5-9bb61bad1355": {
+		"$CONTENT_07237fba-d25d-41d3-88c5-9bb61bad1355/Objects/Database/ShapeSets/Wheel3x05.json": [
+			"3c34eb88-5c9c-11ee-8c99-0242ac120002",
+			"08aec44d-57b7-4478-ad10-44ef518b885d"
+		]
 	}
 }

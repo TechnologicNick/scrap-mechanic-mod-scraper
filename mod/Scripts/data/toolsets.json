@@ -2245,11 +2245,11 @@
 	"f8691728-c858-4fc5-a5ba-37acccf84a78": {},
 	"39531f1d-5df3-406d-a4bc-c08f5a74ea47": {
 		"$CONTENT_39531f1d-5df3-406d-a4bc-c08f5a74ea47/Tools/Database/ToolSets/FantTools.toolset": [
-			"c9d61b8a-b116-41d5-9f95-77a87e4fcff7",
-			"0d886c8f-5ece-4860-a115-22d5ad339b44",
-			"e5f0077b-05fa-4d41-904b-07c1651686dd",
-			"8ba1eb2a-4337-4ebc-94c9-24e54b1ae426",
-			"7facaa00-bd55-492b-96b7-91481b010601"
+			"2e34a961-54bd-4028-b3e6-3cf3935ec336",
+			"d365ca2a-fa07-4f57-a571-83920bed1ded",
+			"ef2e37c6-e68d-4718-a1eb-f4676fb33db0",
+			"94d570ef-d10e-4754-aedf-fd8a99cb87ff",
+			"78d04945-558e-45c4-8d20-a38de1325cd9"
 		]
 	},
 	"ffd76ed8-50d1-489a-952b-657baf4df019": {
@@ -3452,7 +3452,7 @@
 	"d00ce8bf-cb44-4174-b64b-0267aafc5891": {},
 	"d70c075f-112e-4180-a65b-1c8ef14483de": {
 		"$CONTENT_d70c075f-112e-4180-a65b-1c8ef14483de/Tools/Database/ToolSets/Fork.toolset": [
-			"41936190-31bf-4cbd-93b4-8e7f2ac2f9c3"
+			"0c35ae5a-0983-4e4a-9371-e899d611305a"
 		]
 	},
 	"4496537a-6592-49bd-a7e7-179b687bd588": {
@@ -3752,5 +3752,6 @@
 		"$CONTENT_25b2775e-4776-4d4b-9eb8-79c4b0f1b9cd/Tools/Database/ToolSets/example.toolset": []
 	},
 	"7f17663b-3e95-4316-9617-a18f39995aac": {},
-	"8b631ee4-13fb-4cf3-be06-f2949c348429": {}
+	"8b631ee4-13fb-4cf3-be06-f2949c348429": {},
+	"07237fba-d25d-41d3-88c5-9bb61bad1355": {}
 }
