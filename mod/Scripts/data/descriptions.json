@@ -31810,5 +31810,15 @@
 		"name": "Overloaded wheels pack",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"fb8cc7d2-404d-437e-95de-90b265474b80": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3043452567,
+		"localId": "fb8cc7d2-404d-437e-95de-90b265474b80",
+		"name": "STALKER shadow of Den",
+		"type": "Custom Game",
+		"version": 0
 	}
 }

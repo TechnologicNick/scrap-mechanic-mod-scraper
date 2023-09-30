@@ -79852,7 +79852,8 @@
 			"57a86d98-c991-492a-81c3-2a1e6229249a",
 			"d3e84a0a-da8d-4b9a-a6d8-20b1b46194c7",
 			"4f39a7de-3e28-4da7-b67e-e88330e0060e",
-			"4b50e734-865c-4cef-8199-3ae6f645ef23"
+			"4b50e734-865c-4cef-8199-3ae6f645ef23",
+			"ace832ea-7cd0-49b1-94c5-2ba4fbddc083"
 		],
 		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/lights.json": [
 			"a5bc8775-0175-4301-bac3-b6cdadd19ba8",
@@ -79871,14 +79872,11 @@
 		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/industrial.json": [
 			"707d2d57-cc9f-4d3a-a6b1-edf9999fb161",
 			"dcd62428-c2fc-4a0f-8b71-b0ef364da8bc",
-			"2e980086-cf70-4be2-87c2-16a9c69dc442",
-			"8608925f-5d1d-42db-8ba0-e7b0740ce5a3",
-			"a987046e-846f-4c31-ad1a-94b40fb09317",
-			"b12cad5a-c6a5-4aac-b06e-577274793c37",
-			"b3ca23d6-15c2-47af-af5e-f2421e91c6ac",
-			"8793f3ab-1bce-4f68-aa5c-e1117dd4f843"
+			"2e980086-cf70-4be2-87c2-16a9c69dc442"
 		],
-		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/spaceship.json": [],
+		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/spaceship.json": [
+			"8cdb69b2-39fb-4eb8-8e4d-1855aade0f80"
+		],
 		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/fittings.json": [],
 		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/containers.json": [],
 		"$CONTENT_8de92d19-0b28-44dd-9f52-145c575e5d71/Objects/Database/ShapeSets/decor.json": [],
@@ -82654,6 +82652,19 @@
 		"$CONTENT_07237fba-d25d-41d3-88c5-9bb61bad1355/Objects/Database/ShapeSets/Wheel3x05.json": [
 			"3c34eb88-5c9c-11ee-8c99-0242ac120002",
 			"08aec44d-57b7-4478-ad10-44ef518b885d"
+		]
+	},
+	"fb8cc7d2-404d-437e-95de-90b265474b80": {
+		"$CONTENT_fb8cc7d2-404d-437e-95de-90b265474b80/Objects/Database/ShapeSets/example.shapeset": [
+			"69f2a874-4ad3-49ae-a6e4-4d4c154bf2be",
+			"b1f6bc03-0414-4253-b2a6-e46b628933be",
+			"d40408d5-32da-40c2-abc1-b9dfd80f0d28",
+			"7523d50b-de9c-4501-85e0-f2d0920c07dd",
+			"b9d6fce3-9383-46d5-93af-7f69d5952be8",
+			"ccac34ee-e28d-46b2-ba9b-e1ee07d1c5b4",
+			"306eb0cd-85ed-4986-8df3-774af5c9fed0",
+			"18d687a5-3c64-4f92-829d-ccd1c50c4414",
+			"de7eea5b-9262-476b-a5bb-238d0e91f81f"
 		]
 	}
 }

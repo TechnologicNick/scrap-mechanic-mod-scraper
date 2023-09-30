@@ -1466,5 +1466,18 @@
 	},
 	"25b2775e-4776-4d4b-9eb8-79c4b0f1b9cd": {
 		"$CONTENT_25b2775e-4776-4d4b-9eb8-79c4b0f1b9cd/Harvestables/Database/HarvestableSets/example.harvestableset": []
+	},
+	"fb8cc7d2-404d-437e-95de-90b265474b80": {
+		"$CONTENT_fb8cc7d2-404d-437e-95de-90b265474b80/Harvestables/Database/HarvestableSets/example.harvestableset": [
+			"e88ed512-56dd-4149-9316-fbe0fd3bb063",
+			"9e96c507-4979-4b9b-8f70-30e927215f40",
+			"35da5d00-a0ff-470b-a733-7f9051b995e5",
+			"dba94a12-0988-4fd3-b968-119b80a2d651",
+			"5ae8cd27-7427-4d5a-acad-3f10181f7ceb",
+			"f90d41ba-56d3-40b6-acaa-b93185b683f9",
+			"8cc097a0-bfad-48bd-b1e8-1293f79ab814",
+			"e7b6459e-6709-49a6-8862-31ce30726336",
+			"da9d98c2-2748-490d-be40-ee5dd6c2d257"
+		]
 	}
 }
