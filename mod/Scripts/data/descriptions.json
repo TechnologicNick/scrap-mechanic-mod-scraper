@@ -31820,5 +31820,15 @@
 		"name": "STALKER shadow of Den",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"7a9df191-d013-4ad9-8efe-141141886e5d": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h1]Amplified Mountains: Elevate Your World[/h1]\n\n[b]One Sentence Description:[/b]\nDiscover the exhilaration of towering landscapes with Amplified Mountains, a custom game mod meticulously crafted to transform hills into challenging peaks, offering not only a visually striking experience but also a more rigorous terrain for testing vehicles and strategies.\n\n[b]Detailed Description:[/b]\nAmplified Mountains goes beyond mere visual enhancement—it’s a conduit to elevated challenges and testing grounds. By morphing the rolling hills into jagged, towering mountains, it introduces a layer of complexity and ruggedness to the game’s terrain, offering players a uniquely challenging environment to test the mettle of their vehicles. Navigate through the intricate landscapes, assess your strategies against the imposing heights, and push your vehicles to their limits in this reshaped, more demanding world. Whether you're an innovation enthusiast keen on testing creations or a strategist eager for new environmental challenges, Amplified Mountains ensures a richer, more intricate gaming experience.\n\n[b]Tags:[/b]\nAmplified Mountains, Custom Game, Mod, Challenging Terrain, Vehicle Testing, Hills, Mountains, Transformation, Strategic, Visual Enhancement, Elevated, Rugged, Complexity, Intricate Landscapes, Demanding\n\n[b]Translations:[/b]\n- [i]French:[/i] Montagnes Amplifiées\n- [i]German:[/i] Verstärkte Berge\n- [i]Spanish:[/i] Montañas Amplificadas\n- [i]Italian:[/i] Montagne Amplificate\n\n[hr][/hr]",
+		"fileId": 3043644164,
+		"localId": "7a9df191-d013-4ad9-8efe-141141886e5d",
+		"name": "Amplified Mountains",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
