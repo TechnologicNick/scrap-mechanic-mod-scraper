@@ -26945,7 +26945,14 @@
 	"1ff58691-5dc0-4b41-b3fe-4490b6b544da": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod add 3 blocks:\nScrap metal 1.\nScrap metal 2..\nScrap metal 3...\nbig shoota drum\nrotor part",
+		"dependencies": [
+			{
+				"fileId": 1759377518,
+				"localId": "2b09183f-5ecb-4dac-93a0-99bd0baa6e55",
+				"name": "ModDatabase"
+			}
+		],
+		"description": "This mod add some blocks:\nScrap metal 1.\nScrap metal 2..\nScrap metal 3...\nbig shoota drum\nrotor part\n\nnew part: metallic tube 1x2",
 		"fileId": 2885475590,
 		"localId": "1ff58691-5dc0-4b41-b3fe-4490b6b544da",
 		"name": "scrap blocks mod",
@@ -31838,6 +31845,16 @@
 		"fileId": 3043607531,
 		"localId": "e11fccaa-69ac-47b5-8a7f-483efc06c6c3",
 		"name": "modom",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"cb505061-d0e9-4764-9c62-6653b3eb896e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3044943204,
+		"localId": "cb505061-d0e9-4764-9c62-6653b3eb896e",
+		"name": "Sandbag",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
