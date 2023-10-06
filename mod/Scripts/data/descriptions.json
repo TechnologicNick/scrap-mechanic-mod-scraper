@@ -26952,7 +26952,7 @@
 				"name": "ModDatabase"
 			}
 		],
-		"description": "This mod add some blocks:\nScrap metal 1.\nScrap metal 2..\nScrap metal 3...\nbig shoota drum\nrotor part\n\nnew part: metallic tube 1x2",
+		"description": "This mod add some blocks:\nScrap metal 1.\nScrap metal 2..\nScrap metal 3...\nbig shoota drum\nrotor part\nmetallic tube 1x2\n\nnew block: venchile block",
 		"fileId": 2885475590,
 		"localId": "1ff58691-5dc0-4b41-b3fe-4490b6b544da",
 		"name": "scrap blocks mod",

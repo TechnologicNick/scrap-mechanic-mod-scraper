@@ -55650,10 +55650,11 @@
 		]
 	},
 	"1ff58691-5dc0-4b41-b3fe-4490b6b544da": {
-		"$CONTENT_1ff58691-5dc0-4b41-b3fe-4490b6b544da/Objects/Database/ShapeSets/example.shapeset": [
+		"$CONTENT_1ff58691-5dc0-4b41-b3fe-4490b6b544da/Objects/Database/ShapeSets/blocks.shapeset": [
 			"9239fb74-5e21-11ed-9b6a-0242ac120002",
 			"9239fe6c-5e21-11ed-9b6a-0242ac120002",
-			"923a0146-5e21-11ed-9b6a-0242ac120002"
+			"923a0146-5e21-11ed-9b6a-0242ac120002",
+			"b4b3c8d5-f11b-4f82-b103-f3de78b60dcc"
 		],
 		"$CONTENT_1ff58691-5dc0-4b41-b3fe-4490b6b544da/Objects/Database/ShapeSets/parts.shapeset": [
 			"12dc5ac4-6606-11ed-9022-0242ac120002",
