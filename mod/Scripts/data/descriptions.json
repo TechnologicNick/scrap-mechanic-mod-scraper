@@ -31857,5 +31857,15 @@
 		"name": "Sandbag",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"7ba0b6b3-15ae-4e3b-adb8-f2b493db5f63": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "this radio is filmed and produced by me",
+		"fileId": 3046840881,
+		"localId": "7ba0b6b3-15ae-4e3b-adb8-f2b493db5f63",
+		"name": "wiloui radio",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
