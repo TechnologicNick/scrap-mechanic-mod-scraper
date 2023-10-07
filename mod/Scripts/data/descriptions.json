@@ -30025,7 +30025,7 @@
 	"51ee9a4c-967b-46f5-b1b4-333ed02a1831": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod adds 9 Packing Crates to creative mode that were previously only available in survival mode.\r\n\r\nIncluded Parts:\r\n- Banana Crate\r\n- Blueberry Crate\r\n- Broccoli Crate\r\n- Orange Crate\r\n- Pineapple Crate\r\n- Carrot Crate\r\n- Redbeet Crate\r\n- Tomato Crate\r\n- WOC Crate (moo)\r\n\r\nThis mod will not recieve updates to add new content.",
+		"description": "This mod adds 9 Liftable Packing Crates to creative mode that were previously only available in survival mode.\n\nThese Packing Crates can be used on the lift, unlike their survival-mode counterparts. This should make them more useful when prototyping creations with them.\n\nIncluded Parts:\n- Banana Crate\n- Blueberry Crate\n- Broccoli Crate\n- Orange Crate\n- Pineapple Crate\n- Carrot Crate\n- Redbeet Crate\n- Tomato Crate\n- WOC Crate (moo)\n\nUpdate 1.15 [7/10/23]dmy\n- Cleaned up files\n- Crates have their own UUID now\n\nUpdate 1.10 (10/9/23)dmy\n- Now liftable\n- Crates now have inventory descriptions\n\nThis mod will not receive updates to add new content.",
 		"fileId": 2973487498,
 		"localId": "51ee9a4c-967b-46f5-b1b4-333ed02a1831",
 		"name": "Packing Crates in Creative",

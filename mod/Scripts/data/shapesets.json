@@ -68060,27 +68060,16 @@
 		"$CONTENT_e52533c5-8076-4bda-82bf-336df526690b/Objects/Database/ShapeSets/parts.json": []
 	},
 	"51ee9a4c-967b-46f5-b1b4-333ed02a1831": {
-		"$CONTENT_51ee9a4c-967b-46f5-b1b4-333ed02a1831/Objects/Database/ShapeSets/packingcrates.json": [
-			"0bc74539-df8a-47c7-aad8-d55d809a01e4",
-			"e77d9577-589a-446b-96c1-f6d0d7495489",
-			"99477093-e819-4199-b62a-fda6143aae89",
-			"c10a77d5-3357-4cb4-8113-a2cbe69c7ff2",
-			"bc69cb3b-7e0c-4c36-805d-f8d89fcfced3",
-			"9cd8288c-5a19-479f-af47-9eb55230ade2",
-			"628fd350-577d-413f-82a8-7f08a83de3d8",
-			"1dcd74ca-39ba-4b00-a36a-3381b25055f4",
-			"deabb19a-1acd-4bbf-8bd2-f8f17410170b"
-		],
 		"$CONTENT_51ee9a4c-967b-46f5-b1b4-333ed02a1831/Objects/Database/ShapeSets/packingcrates.shapeset": [
-			"0bc74539-df8a-47c7-aad8-d55d809a01e4",
-			"e77d9577-589a-446b-96c1-f6d0d7495489",
-			"99477093-e819-4199-b62a-fda6143aae89",
-			"c10a77d5-3357-4cb4-8113-a2cbe69c7ff2",
-			"bc69cb3b-7e0c-4c36-805d-f8d89fcfced3",
-			"9cd8288c-5a19-479f-af47-9eb55230ade2",
-			"628fd350-577d-413f-82a8-7f08a83de3d8",
-			"1dcd74ca-39ba-4b00-a36a-3381b25055f4",
-			"deabb19a-1acd-4bbf-8bd2-f8f17410170b"
+			"ec55a2ad-1b4e-4417-bb13-b1c368481d84",
+			"36370b9d-f1c6-4483-b62d-26a8282f8702",
+			"0be7d5bb-c55a-4a53-9e05-24eafce9f915",
+			"67c2a859-e819-48a9-a63b-0ee028f0f363",
+			"43c6086a-d368-47c4-8c95-4c6527cb2934",
+			"ded0a73c-3e99-4e5f-a9eb-c882e34fb61f",
+			"f15e276d-f704-4ed1-81ec-e94181f63f47",
+			"962d6297-8968-4731-bdea-ee88123bd09d",
+			"13a6117c-cb3d-41fe-a23f-2407ce7f2139"
 		]
 	},
 	"ce9b5b4a-04b6-4e7a-9dd0-23bbcdc99114": {
