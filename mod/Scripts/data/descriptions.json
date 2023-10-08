@@ -31867,5 +31867,33 @@
 		"name": "wiloui radio",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"f9bdd76d-da60-4dd4-adf2-023f7dac7387": {
+		"description": "No Friction Glass by Z3N71CHG10\n\nthis mod adds a block that combines the properties of ice and glass. Useful for building tracks or mechanisms that require little friction",
+		"fileId": 2774805502,
+		"localId": "f9bdd76d-da60-4dd4-adf2-023f7dac7387",
+		"name": "No Friction Glass",
+		"type": "Blocks and Parts",
+		"version": 0
+	},
+	"a7e3c217-064e-4ddc-a672-22d42dd277d6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Just a small mod to have a fast engine, dont look at this too much pls",
+		"fileId": 3047112702,
+		"localId": "a7e3c217-064e-4ddc-a672-22d42dd277d6",
+		"name": "Cool Engines",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"8cd6310c-74e4-48e5-af3f-d96b25dd8e7a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1] ORIGINAL MOD: [url=https://steamcommunity.com/workshop/filedetails/?id=1350748231] X's Detail Mod [/url] [/h1]\r\nThanks to [url=https://steamcommunity.com/id/xesau] Xesau [/url] for his mod!\r\n\r\nThis is a retextured mod, it does not change the texture of the original. Changed the ratings and textures of parts.",
+		"fileId": 3047239195,
+		"localId": "8cd6310c-74e4-48e5-af3f-d96b25dd8e7a",
+		"name": "X's Detail Mod: Steel Retexture",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
