@@ -762,5 +762,31 @@
 	"fb8cc7d2-404d-437e-95de-90b265474b80": {
 		"$CONTENT_fb8cc7d2-404d-437e-95de-90b265474b80/Characters/Database/CharacterSets/example.characterset": []
 	},
-	"7a9df191-d013-4ad9-8efe-141141886e5d": {}
+	"7a9df191-d013-4ad9-8efe-141141886e5d": {},
+	"73184f18-b33f-461b-963d-b59975fe59a3": {
+		"$CONTENT_73184f18-b33f-461b-963d-b59975fe59a3/Characters/Database/CharacterSets/default.characterset": [
+			"00000000-0000-0000-0000-000000000000",
+			"387dd285-9258-4b4e-9906-5c8e937e6704"
+		],
+		"$CONTENT_73184f18-b33f-461b-963d-b59975fe59a3/Characters/Database/CharacterSets/animals.characterset": [
+			"264a563a-e304-430f-a462-9963c77624e9",
+			"48c03f69-3ec8-454c-8d1a-fa09083363b1",
+			"e27ea0f0-33a9-4618-91e9-eac0c16f5279",
+			"f5294ddb-8af2-4309-a82b-7a59a7d13e54",
+			"3dc9578f-c81d-4c21-81ad-87558e6945a9"
+		],
+		"$CONTENT_73184f18-b33f-461b-963d-b59975fe59a3/Characters/Database/CharacterSets/robots.characterset": [
+			"04761b4a-a83e-4736-b565-120bc776edb2",
+			"9dbbd2fb-7726-4e8f-8eb4-0dab228a561d",
+			"fcb2e8ce-ca94-45e4-a54b-b5acc156170b",
+			"68d3b2f3-ed4b-4967-9d22-8ee6f555df63",
+			"c3d31c47-0c9b-4b07-9bd4-8f022dc4333e",
+			"8984bdbf-521e-4eed-b3c4-2b5e287eb879",
+			"c8bfb8f3-7efc-49ac-875a-eb85ac0614db",
+			"9f4fde94-312f-4417-b13b-84029c5d6b52",
+			"176dd781-967a-4b5c-905b-4003f43b77f7",
+			"2f09bad6-fe15-436b-a02e-196badddb714",
+			"c9524d17-a38b-42c2-ad27-de4726e0b917"
+		]
+	}
 }

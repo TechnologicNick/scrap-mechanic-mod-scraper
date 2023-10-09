@@ -26778,7 +26778,14 @@
 	"4038fac5-a55f-4748-bf4f-2dcd81f6b3f6": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "a terrible mod that (currently) adds 2 blocks",
+		"dependencies": [
+			{
+				"fileId": 2945713875,
+				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
+				"name": "ModDatabase v2"
+			}
+		],
+		"description": "a terrible mod that (currently) adds 7\n blocks",
 		"fileId": 2879638963,
 		"localId": "4038fac5-a55f-4748-bf4f-2dcd81f6b3f6",
 		"name": "epic parto modo",
@@ -29719,8 +29726,8 @@
 	},
 	"42bc054b-7602-46fc-9bf1-ef3ffc33a9b0": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"custom_icons": true,
+		"description": "This mod adds a Part that Detects your Mouse Movment and Outputs a ON Signal based on that.\r\n\r\n \r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2963989519,
 		"localId": "42bc054b-7602-46fc-9bf1-ef3ffc33a9b0",
 		"name": "Fants Mouse Movment Detector",
@@ -30073,7 +30080,6 @@
 	"6a7ce970-c6c3-439e-8343-b64ceef8d1f5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": null,
 		"description": "Automate process of making logic creations with... Logic creations?\n\nThanks to Some1Something for idea, bean bongo for help and HerrVincling for code\n\nincludes:\nBlock placer\nLogic placer\nMounted Paint gun\nMounted connection tool\nMounted connection remover\nLogic changer\nController Controller\nand more!",
 		"fileId": 2974862494,
 		"localId": "6a7ce970-c6c3-439e-8343-b64ceef8d1f5",
@@ -31893,6 +31899,36 @@
 		"fileId": 3047239195,
 		"localId": "8cd6310c-74e4-48e5-af3f-d96b25dd8e7a",
 		"name": "X's Detail Mod: Steel Retexture",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"bac02eaa-3fed-4156-882c-5e4f0de60a89": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "this makes tiny chest!",
+		"fileId": 3044524476,
+		"localId": "bac02eaa-3fed-4156-882c-5e4f0de60a89",
+		"name": "tiny chest",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"73184f18-b33f-461b-963d-b59975fe59a3": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "A Combo of the survival additions and fant custom games",
+		"fileId": 3047360890,
+		"localId": "73184f18-b33f-461b-963d-b59975fe59a3",
+		"name": "MODPACK",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"6745add8-bc60-4519-87a2-e28ec2fc80b7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3047740258,
+		"localId": "6745add8-bc60-4519-87a2-e28ec2fc80b7",
+		"name": "Overloaded Polygons",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
