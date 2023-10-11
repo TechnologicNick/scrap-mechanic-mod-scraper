@@ -84151,7 +84151,14 @@
 	"6b83c9c2-f326-4108-8466-846639679213": {
 		"$CONTENT_6b83c9c2-f326-4108-8466-846639679213/Objects/Database/ShapeSets/example.shapeset": [
 			"900f3ee1-5d5a-4072-a788-a3a06fdf6263",
-			"aad87ce7-7ad2-4985-a175-ce36f7c25f86"
+			"aad87ce7-7ad2-4985-a175-ce36f7c25f86",
+			"a39dd92e-ea0f-45b5-9589-b49da69f6f2c"
+		]
+	},
+	"72e3bb93-c571-4d64-ba7d-baa680ff5275": {
+		"$CONTENT_72e3bb93-c571-4d64-ba7d-baa680ff5275/Objects/Database/ShapeSets/example.shapeset": [
+			"f5b0b464-5095-4994-afe5-b5df7ac5ccb5",
+			"05953f62-adb2-41ed-9345-3b3b08b050ff"
 		]
 	}
 }
