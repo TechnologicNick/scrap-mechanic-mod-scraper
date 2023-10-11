@@ -84160,5 +84160,12 @@
 			"f5b0b464-5095-4994-afe5-b5df7ac5ccb5",
 			"05953f62-adb2-41ed-9345-3b3b08b050ff"
 		]
+	},
+	"b2efd9e5-7eff-4ebb-9f13-701c4190eb15": {
+		"$CONTENT_b2efd9e5-7eff-4ebb-9f13-701c4190eb15/Objects/Database/ShapeSets/example.shapeset": [
+			"32cfb9f4-bc9a-47db-b488-e087598f108a",
+			"0c147396-75d0-4325-8449-ed6f8426b4aa",
+			"af34e72a-482a-4e21-a874-0aecce860d98"
+		]
 	}
 }

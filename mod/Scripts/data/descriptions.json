@@ -31956,10 +31956,20 @@
 	"72e3bb93-c571-4d64-ba7d-baa680ff5275": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "dunno 1st person but with body and better username fade distance ig.. also extreme headbob and camera is correctly positioned",
+		"description": "dunno 1st person but with body and better username fade distance ig.. also extreme headbob and camera is correctly positioned\n\nFIXED AIM UP/DOWN",
 		"fileId": 3048700943,
 		"localId": "72e3bb93-c571-4d64-ba7d-baa680ff5275",
 		"name": "1st But Different",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b2efd9e5-7eff-4ebb-9f13-701c4190eb15": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "New Big Pyramids",
+		"fileId": 3049124058,
+		"localId": "b2efd9e5-7eff-4ebb-9f13-701c4190eb15",
+		"name": "Big Pyramids Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
