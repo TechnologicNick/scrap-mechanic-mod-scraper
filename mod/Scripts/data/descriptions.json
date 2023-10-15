@@ -31982,5 +31982,15 @@
 		"name": "The Modpack is Funny",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"dcfe3d42-ed03-4025-ba8e-04a5c4875e28": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod aims to bring back defunct/depricated item recipes to the fant mod CG and add some items that cant normally be recycled/crafted\n\n\nas of today this addon adds...\n...back the recipe for the old non-modular tank tracks with the original cost from when they were first introduced/showcased on fants YT channel\n\n...a recipe to craft/recycle the farmbot drill (personal main use is for recycling)\n\n\nif you have any recipes you want added and the cost for said item, let me know on fants discord @ Linus\n\nfant mod discord link\nhttps://discord.gg/Z2qty5E",
+		"fileId": 3050306813,
+		"localId": "dcfe3d42-ed03-4025-ba8e-04a5c4875e28",
+		"name": "Linus Additional Fant Mod Recipes",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
