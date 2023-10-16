@@ -28956,13 +28956,6 @@
 	"b472d6e7-c6ee-4790-a1f4-64ae7ce538cd": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2945713875,
-				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
-				"name": "ModDatabase v2"
-			}
-		],
 		"description": "Soccer Mod",
 		"fileId": 2941711024,
 		"localId": "b472d6e7-c6ee-4790-a1f4-64ae7ce538cd",
@@ -29557,14 +29550,7 @@
 	"a1198287-4426-433c-9f1c-e76769d7631f": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2945713875,
-				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
-				"name": "ModDatabase v2"
-			}
-		],
-		"description": "Damage to the unit is caused by collisions with other units and elements, as well as by being hit by potatoes.",
+		"description": "This mod adds health blocks. If you aim at a block, you will see its health.\r\nPotatoes take 50 health.\r\nA hammer blow takes 20 health.\r\nExploding a standard bomb takes 350 health.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nmod, scrap mechanic, block, hp, health",
 		"fileId": 2960975405,
 		"localId": "a1198287-4426-433c-9f1c-e76769d7631f",
 		"name": "Blocks With Health",
@@ -31984,6 +31970,16 @@
 		"fileId": 3050306813,
 		"localId": "dcfe3d42-ed03-4025-ba8e-04a5c4875e28",
 		"name": "Linus Additional Fant Mod Recipes",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6571d303-0c29-4b60-90fe-395948e28b66": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "The description is a copy of the original one.\nQuote from the original owner :\n\"\n2022-10-13\nI would like to apologize for not answering any comments or messages recently and for the lack of any updates to this mod.\nI've been incredibly busy irl and it's been very difficult for me to find much time to do this sort of thing. I cannot say when I will be able to resume work on any of my mods.\nIf anyone wants to do a fork of any of my mods, go right ahead. You have full permission to do so.\nThat's all I really can say for now. If anyone has any questions about this, feel free to send a dm over on discord and I will answer as soon as possible.\n\n/Wasp\n\"\n\n\n\nThis is a survival mod.\n\nWaspEyeNight Mods Discord server if you are interested: http://discord.gg/mxFgeZW\n\nWhat does this mod do?\nThis mod mainly adds a ton of crafting recipes together with a few extra features. You get a recyclebot, new vacuum pipes (T and cross-pipes), new trades at the trader and increased stack sizes.\n\nIf you want an exact number, you get 244 extra recipes in the craftbot and 82 in the recyclebot. (These numbers are probably out of date at this point)\n\nInstallation\nThis is a file mod, it has to be manually installed.\n\nIf you wish to make a backup of your save file, you should be able to find them in\n%Appdata%\\Axolot Games\\Scrap Mechanic\\User\\User_<Some numbers>\\Save\\Survival\n\nStart by opening your Scrap Mechanic directory by going to your steam library > right clicking on Scrap Mechanic > Properties > Local files > Browse\nNow, Copy the \"Data\" and \"Survival\" folders from\nC:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2118868098\\Scrap Mechanic\n(The mod should have been automatically downloaded to the above path after subscribing)\nNow you should be good to go! Enjoy your not-at-all-unnecessary-amount-of-crafting-recipes.\n\nCompatibility\nDON T KNOW IF IT WORKS\nFile mods are notorious for being incompatible with each other. To play with either Fant Mod or Survival Player Forestry and Farming mod at the same time as Craftbot+, you will ",
+		"fileId": 3051604594,
+		"localId": "6571d303-0c29-4b60-90fe-395948e28b66",
+		"name": "CraftBot+ Patched",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
