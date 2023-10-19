@@ -17176,13 +17176,7 @@
 	"1d38a47f-d86a-402e-ae32-8a86b6699cd1": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"dependencies": [
-			{
-				"fileId": 1759377518,
-				"localId": "2b09183f-5ecb-4dac-93a0-99bd0baa6e55",
-				"name": "ModDatabase"
-			}
-		],
+		"dependencies": [],
 		"description": "The mod that has the tools you didn't know you needed",
 		"fileId": 2852964146,
 		"localId": "1d38a47f-d86a-402e-ae32-8a86b6699cd1",
