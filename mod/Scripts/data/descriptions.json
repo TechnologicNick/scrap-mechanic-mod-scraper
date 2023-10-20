@@ -30132,7 +30132,7 @@
 	"630b3c35-59b4-4094-a4fb-2c2b333f0a55": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Military Outfit Mod 3.2\n(Female Balaclava Fix)\n\nFor everyone who asked to make a custom game - this is technically not possible\nДля всех кто просил сделать кастом гейм - это технически не возможно\n\n\nENG\nHOW TO INSTALL:\n1.\nGoto:\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2976697730\n\n2.\ncopy ALL FOLDERS into and REPLACE the existing Folders.\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\"\n\n3.\nDONE\n\nYou need epic garment box to unlock Military Outfit.\nYou also can get the \"Backpacks Remover\" from common garment box.\n-------------------------------------------------------------------------------\nRUS\nКАК УСТАНОВИТЬ:\n1.\nПерейдите в:\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2976697730\n2.\nКопируйте все папки в \"...\\Steam\\SteamApps\\common\\Scrap Mechanic\" и нажмите \"заменить все файлы\",\n3. \nГотово\n\nЧто бы разблокировать Военную одежду вам нужны Желтые Ящики с одеждой.\nВы также можете получить \"Удалитель Рюкзаков\" из Зелёного Ящика с одеждой.\n\nSpecial Thanks to TechnologicNick for help",
+		"description": "Military Outfit Mod 3.2\r\n(Female Balaclava Fix)\r\n\r\nFor everyone who asked to make a custom game - this is technically not possible\r\nДля всех кто просил сделать кастом гейм - это технически не возможно\r\n\r\n\r\nENG\r\nHOW TO INSTALL:\r\n1.\r\nGoto:\r\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2976697730\r\n\r\n2.\r\ncopy ALL FOLDERS into and REPLACE the existing Folders.\r\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\"\r\n\r\n3.\r\nDONE\r\n\r\nYou need epic garment box to unlock Military Outfit.\r\nYou also can get the \"Backpacks Remover\" from common garment box.\r\n-------------------------------------------------------------------------------\r\nRUS\r\nКАК УСТАНОВИТЬ:\r\n1.\r\nПерейдите в:\r\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2976697730\r\n2.\r\nКопируйте все папки в \"...\\Steam\\SteamApps\\common\\Scrap Mechanic\" и нажмите \"заменить все файлы\",\r\n3. \r\nГотово\r\n\r\nЧто бы разблокировать Военную одежду вам нужны Желтые Ящики с одеждой.\r\nВы также можете получить \"Удалитель Рюкзаков\" из Зелёного Ящика с одеждой.\r\n\r\nSpecial Thanks to TechnologicNick for help\r\n\r\nDiscord: https://discord.gg/fhJTaQS4e3",
 		"fileId": 2976697730,
 		"localId": "630b3c35-59b4-4094-a4fb-2c2b333f0a55",
 		"name": "Military Outfit Mod",
@@ -31981,6 +31981,36 @@
 		"fileId": 3051604594,
 		"localId": "6571d303-0c29-4b60-90fe-395948e28b66",
 		"name": "CraftBot+ Patched",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"5c21781f-f35c-4c6b-85d9-655421d6b975": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Carry Handle",
+		"fileId": 3054781952,
+		"localId": "5c21781f-f35c-4c6b-85d9-655421d6b975",
+		"name": "Carry Handle",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f5f1759a-9b3a-410f-9489-7804b405744f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3054824091,
+		"localId": "f5f1759a-9b3a-410f-9489-7804b405744f",
+		"name": "Just A Mini Statuette",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"fae4322b-b135-4879-989f-a277b2752066": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Reloaded Version Of Mod \n\nMilitary Outfit Mod 3.2\n(Female Balaclava Fix)\n\nFor everyone who asked to make a custom game - this is technically not possible\nДля всех кто просил сделать кастом гейм - это технически не возможно\n\n\nENG\nHOW TO INSTALL:\n1.\nGoto:\n...\\Steam\\SteamApps\\workshop\\content\\387990\\3054841863\n\n2.\ncopy ALL FOLDERS into and REPLACE the existing Folders.\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\"\n\n3.\nDONE\n\nYou need epic garment box to unlock Military Outfit.\nYou also can get the \"Backpacks Remover\" from common garment box.\n-------------------------------------------------------------------------------\nRUS\nКАК УСТАНОВИТЬ:\n1.\nПерейдите в:\n...\\Steam\\SteamApps\\workshop\\content\\387990\\3054841863\n2.\nКопируйте все папки в \"...\\Steam\\SteamApps\\common\\Scrap Mechanic\" и нажмите \"заменить все файлы\",\n3. \nГотово\n\nЧто бы разблокировать Военную одежду вам нужны Желтые Ящики с одеждой.\nВы также можете получить \"Удалитель Рюкзаков\" из Зелёного Ящика с одеждой.\n\nSpecial Thanks to TechnologicNick for help\n\nDiscord: https://discord.gg/fhJTaQS4e3",
+		"fileId": 3054841863,
+		"localId": "fae4322b-b135-4879-989f-a277b2752066",
+		"name": "Military OutFit Mod Fixed",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
