@@ -84446,5 +84446,11 @@
 	},
 	"53976b51-7e17-446b-a2a7-b31143175766": {
 		"$CONTENT_53976b51-7e17-446b-a2a7-b31143175766/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"7be17c48-af75-4b9d-b823-19a5aa72cfa0": {
+		"$CONTENT_7be17c48-af75-4b9d-b823-19a5aa72cfa0/Objects/Database/ShapeSets/example.shapeset": [
+			"b364008e-aaae-4dac-98cb-72ae6fb95fe8",
+			"21b665b6-d37d-4e3a-824c-7546dab68f46"
+		]
 	}
 }

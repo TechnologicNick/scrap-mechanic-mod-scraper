@@ -31449,7 +31449,7 @@
 	"038b823d-9a78-46cc-a6c2-269522bfe71b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "",
+		"description": "This mod adds various technologic objets developed by the SuEjon Military factory (That its just fiction lol dont take it seriously) by his main designer, Ejon. You can find stuff from fuel transferer devices to high range radar sensors.\r\n\r\nFeatures:\r\n-Long distance Radar Sensor (One for objects and other for terrain)\r\n-Aircraft externals dettacher (Small and Big version)\r\n-3x3 Ramjet thruster\r\n-Modular pieces for creating missiles and rockets.\r\n-Fuel Transfer Device\r\n-RWR (radar detector)\r\n\r\nWays of using:\r\n\r\n-- Radar sensor: Its like a normal sensor, but simpler. It detects wether objects or terrain at a huge distance, depending on what version of the radar you choose,\r\n\r\n-- External Dettacher: This part will destroy itself when recieved a logic input. The way its meant to use its to put it under your plane's wing and under the attacher; a bomb, missile, rocket or anything that you would like to drop.\r\n\r\n-- 3x3 Ramjet thruster: Like a normal thruster, but it has fixed power. The fuel usage is twice the normal level 5 thruster at maximum power, recomended for vehicles wich are odd in width where you can't put a normal thruster centered.\r\n\r\n-- Fuel Transferer: It can be connected up to 3 things. 2 SM fuel tanks and a logic INPUT wich will trigger the fuel transfer. The fuel flow will be FROM the tank you connected first TO the other one. You can't connect 3 tanks to the device (you can but it wont do anything)\r\n\r\n-- RWR System: Its a simple device with an integrated screen. It will show up different icons depending on what kind of thread you have against your vehicle. There are 2 icons: The diamond with a dot means that a tracking nose has targetted you, that icon can be shown at the top, left, bottom or right of the screen, so you know where it comes from. If a danger icon starts blinking, it means that the tracking nose was fired against you. For each time the warning appears, the device emmits a logic signal, so you can connect it to a totebot head or some sound part. For last, there is the radar icon, wich means a radar is detecting your vehicle. For turning on the RWR, connect it to a button or something and turn it on.\r\n\r\n-- Modular ballistic parts:\r\n-> Explosive mass: Its the body of your projectile, it explodes if it detects high acceleration and sometimes when it collides.\r\n\r\n-> Nose: Its for the front of your projectile (its explosive)\r\n\r\n-> Tail: Its for the back of your projectile (also explosive)\r\n\r\n-> Thruster: The thruster has its own fuel inside, its one use. 15 seconds of burn time (The attachable version has less power)\r\n\r\n-> Tracking nose: It can be connected to 3 things. A ballistic thruster, a button or another activation system, and a light or another thing that can be toggled. When the nose RECIEVES logic INPUT, it will start tracking in a vision cone of 15°. Once it got a target, it will lock it forever, even if you turn off the button. While a target its locked, the nose will SEND logic OUTPUT. If the nose detects that its connected to a ballistic thruster, its burning AND it has a target locked, the nose will start trying to go to the target. If it gets close enought, it will detonate by itself.\r\n\r\ndisclaimer: The plane in the pictures is only illustrative, it includes other parts wich don't come with this mod, like the wings (I will upload it soon if you want it)\r\ndisclaimer 2: All this ballistics things are in beta, Im struggling a lot to make it work fine but its really hard. So expect it not to work. Srry ;_;\r\ndisclaimer 3: This is my first public mod, I know its not the best stuff you have ever seen, it has lots of bugs\r\n\r\n\r\nExtra recommendations: For adding aerodynamics to the projectiles, I recommend the mod \"wings\" wich you may already know. The way I found the best in aerodynamics its to place 4 small wings around the front and the back of the missile without any angle, Il be uploading a missile soon so you will have an example. Without wings, its too hard to get a missile working properly.",
 		"fileId": 3025007939,
 		"localId": "038b823d-9a78-46cc-a6c2-269522bfe71b",
 		"name": "SuEjon Technologic Components",
@@ -32057,10 +32057,20 @@
 	"53976b51-7e17-446b-a2a7-b31143175766": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Just Strange and Absurd Weapons\n\nWeapons:\n-Tree\n-Traffic Sign\n\nNew Weapons Soon!\n\n\nDiscord: https://discord.gg/TJePhfsgzR",
+		"description": "Just Strange and Absurd Weapons\n\nWeapons:\n-Tree\n-Traffic Sign\n-Cranehammer\n\nNew Weapons Soon!\n\n\nDiscord: https://discord.gg/TJePhfsgzR",
 		"fileId": 3059132456,
 		"localId": "53976b51-7e17-446b-a2a7-b31143175766",
 		"name": "Romytrix's Weapons Pack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"7be17c48-af75-4b9d-b823-19a5aa72cfa0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3060067640,
+		"localId": "7be17c48-af75-4b9d-b823-19a5aa72cfa0",
+		"name": "protogen head",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
