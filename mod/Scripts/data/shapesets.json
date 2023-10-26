@@ -84452,5 +84452,10 @@
 			"b364008e-aaae-4dac-98cb-72ae6fb95fe8",
 			"21b665b6-d37d-4e3a-824c-7546dab68f46"
 		]
+	},
+	"5ba38b5f-9f35-4a36-9a8e-82112a41d04f": {
+		"$CONTENT_5ba38b5f-9f35-4a36-9a8e-82112a41d04f/Objects/Database/ShapeSets/example.shapeset": [
+			"c5ec8c45-a47d-4a00-9dd7-45a6f44d10be"
+		]
 	}
 }
