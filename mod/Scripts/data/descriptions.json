@@ -32083,5 +32083,21 @@
 		"name": "test mod oh god",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"090bc798-aca2-44e6-b57c-76c0a6986e32": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 1904783067,
+				"localId": "c0344d93-7492-46c8-88be-a61699e57041"
+			}
+		],
+		"description": "Cannons Pack Ricochets Addon.\r\n\r\nThe addon is currently under development, the icons are not configured.\r\n\r\nFor now, the ricochet mechanics are ready, but in the future there will still be a loss of Explosion Level under various conditions.\r\nWrite suggestions for improvement in the comments.\r\n\r\nScript developers:\r\nHeterty\r\nQuestionable Mark\r\n\r\nLogic:\r\nSporling\r\nAlevirex(helps sporling)\r\n\r\nTranslation:\r\nDriver(Polish)\r\n\r\n\r\n\r\nRicochet Chance\r\nA given number makes the chance of a ricochet which depends on the angle and randomness\r\n\r\nRicochet Angle\r\nMinimum ricochet angle (large)\r\n\r\nAll questions about mod - Discord: Heterty",
+		"fileId": 3061776084,
+		"localId": "090bc798-aca2-44e6-b57c-76c0a6986e32",
+		"name": "Cannons Pack Ricochets",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
