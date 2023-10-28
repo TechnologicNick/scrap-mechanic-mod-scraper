@@ -32099,5 +32099,31 @@
 		"name": "Cannons Pack Ricochets",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"8ec0b0e1-b0ab-4f34-ae1c-59ad47c6e5ec": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
+			}
+		],
+		"description": "This mod is a modding Library that allow a lot of things for mods :[list]\n[*]Access the informations of other mods in a local game like :[list]\n[*]their differents sets (shape, tool, harvestable...),\n[*]their custom Crafting recipes (craftbot, cookbot and trader),\n[*]their Descriptions,[/list]\n[*]Have all the informations of a part that are in his shapeset (size, flammable, stacksize, set path, original mod Id...),\n[*]Introduce an all new tag system like Minecraft, if you want to check an item property, check if it's in a tag that specify this property (this depends on if modders registered their item tags, register your tags in the GFolder below)[/list]\n\nFor additional informations, check the link below :\nhttps://drive.google.com/drive/folders/1zq18JfoMygM5buyJ0P-Bj0eRGnY9rH9F?usp=drive_link",
+		"fileId": 3055543525,
+		"localId": "8ec0b0e1-b0ab-4f34-ae1c-59ad47c6e5ec",
+		"name": "Compatibility Library",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"9ee487a6-e79a-44b6-9ff3-61b30ffce099": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "this is a texture mod to make clusters of dots easier to navigate as well as a \"that way -->\" connection line for the funnies so in the rare case that someone asks where that connection went/goes you can just answer \"it goes that way\" (not mandatory)\n\nthis texture mod also includes a dark mode axolot loading screen when booting up the game to avoid the flashbang.\n\nin this link you will find 2 batch scripts to install the texture mod, just drop the one you want in your game folder and run it, its a basic \"if not exist\" and Xcopy script to make sure everything goes right:\n\nscripts: https://drive.google.com/drive/folders/1dzJp4nLpZEqNTZQFNK4wsksL3XPRLPqf?usp=sharing\n\n\n\nmanual installation:\n\nnavigate to \"steamapps\\workshop\\content\\387990\\3063152060\"\n\ndrag and drop the data and cache folders to your game folder\n\nstart game and enjoy",
+		"fileId": 3063152060,
+		"localId": "9ee487a6-e79a-44b6-9ff3-61b30ffce099",
+		"name": "Linus better dots and lines",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
