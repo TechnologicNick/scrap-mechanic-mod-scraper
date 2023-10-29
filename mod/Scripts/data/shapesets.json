@@ -84477,5 +84477,10 @@
 	"8ec0b0e1-b0ab-4f34-ae1c-59ad47c6e5ec": {
 		"$CONTENT_8ec0b0e1-b0ab-4f34-ae1c-59ad47c6e5ec/Objects/Database/ShapeSets/example.shapeset": []
 	},
-	"9ee487a6-e79a-44b6-9ff3-61b30ffce099": {}
+	"9ee487a6-e79a-44b6-9ff3-61b30ffce099": {},
+	"d2791e65-79a8-4662-91e1-c11c26a1cd7c": {
+		"$CONTENT_d2791e65-79a8-4662-91e1-c11c26a1cd7c/Objects/Database/ShapeSets/example.shapeset": [
+			"23240831-c1df-4b41-a71f-212b5f825479"
+		]
+	}
 }
