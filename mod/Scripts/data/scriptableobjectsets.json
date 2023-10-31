@@ -613,5 +613,12 @@
 			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
 			"009fe136-aeee-45c4-9135-006b786cfc59"
 		]
+	},
+	"d8503c25-b89d-4ec9-9823-154b909a3cfc": {
+		"$CONTENT_d8503c25-b89d-4ec9-9823-154b909a3cfc/ScriptableObjects/ScriptableObjectSets/sob_quests.sobset": [
+			"8be0279e-28b6-4aab-b620-586f50162c6e",
+			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
+			"009fe136-aeee-45c4-9135-006b786cfc59"
+		]
 	}
 }

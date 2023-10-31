@@ -3874,5 +3874,12 @@
 	"8ec0b0e1-b0ab-4f34-ae1c-59ad47c6e5ec": {},
 	"9ee487a6-e79a-44b6-9ff3-61b30ffce099": {},
 	"d2791e65-79a8-4662-91e1-c11c26a1cd7c": {},
-	"4fdd0d99-1875-42f2-87bd-64b4ee2d6dd5": {}
+	"4fdd0d99-1875-42f2-87bd-64b4ee2d6dd5": {},
+	"d8503c25-b89d-4ec9-9823-154b909a3cfc": {
+		"$CONTENT_d8503c25-b89d-4ec9-9823-154b909a3cfc/Tools/Database/ToolSets/example.toolset": [
+			"5935cf84-ed91-11ec-8ea0-0242ac120002",
+			"a22ed440-f3bf-11ec-b939-0242ac120002",
+			"a6113860-f4d4-42df-b8f9-129efdbaf777"
+		]
+	}
 }
