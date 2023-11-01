@@ -32104,7 +32104,7 @@
 				"localId": "c0344d93-7492-46c8-88be-a61699e57041"
 			}
 		],
-		"description": "Cannons Pack Ricochets Addon.\r\n\r\nThe addon is currently under development, the icons are not configured.\r\n\r\nFor now, the ricochet mechanics are ready, but in the future there will still be a loss of Explosion Level under various conditions.\r\nWrite suggestions for improvement in the comments.\r\n\r\nScript developers:\r\nHeterty\r\nQuestionable Mark\r\n\r\nLogic:\r\nSporling\r\nAlevirex(helps sporling)\r\n\r\nTranslation:\r\nDriver(Polish)\r\n\r\n\r\n\r\nRicochet Chance\r\nA given number makes the chance of a ricochet which depends on the angle and randomness\r\n\r\nRicochet Angle\r\nMinimum ricochet angle (large)\r\n\r\nAll questions about mod - Discord: Heterty",
+		"description": "[i][h1]Cannons Pack Ricochets Addon.[/h1]\r\n\r\n[b]The addon[/b] is currently under development.\r\nFor now, the [b]ricochet mechanics are ready,[/b] but in the future there will still be a [b]loss of Explosion Level[/b] under various conditions.\r\nWrite suggestions for improvement in the comments.\r\n\r\n[hr][/hr]\r\n[h3] Developers: [/h3]\r\n  [b]Scripts:[/b]\r\n    [u]Heterty[/u](All new scripts, Rus/Eng/Ger translation, General development, etc.)\r\n    [u]Questionable Mark[/u](Help with Raycasts, made a base for mod)\r\n\r\n  [b]Logic:[/b]\r\n    [u]Sporling, Alevirex[/u](Maths formulas)\r\n\r\n  [b]Other:[/b]\r\n    [u]Driver[/u](Polish translation)\r\n\r\n[hr][/hr]\r\n[h3]Info:[/h3]\r\n   [b]Minimum projectile force to ricochet - 71 m/s(don't forget about speed loss)[/b]\r\n\r\n   [b]Ricochet Chance(0-1)[/b]\r\n     A [u]given number[/u] makes the chance of a ricochet which depends on the angle and randomness.\r\n   [b]Ricochet Angle[/b]\r\n     Minimum ricochet angle [u](large)[/u]\r\n\r\n[b]All questions about mod - Discord: Heterty[/b][/i]",
 		"fileId": 3061776084,
 		"localId": "090bc798-aca2-44e6-b57c-76c0a6986e32",
 		"name": "Cannons Pack Ricochets",
@@ -32173,5 +32173,15 @@
 		"name": "lemonSurvival 2.0",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"08e78ad9-056d-4bd3-8a16-20487fd93c33": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "My FIRST mod.",
+		"fileId": 3067915917,
+		"localId": "08e78ad9-056d-4bd3-8a16-20487fd93c33",
+		"name": "cannon shells",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
