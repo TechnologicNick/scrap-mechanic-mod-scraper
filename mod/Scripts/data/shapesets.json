@@ -84941,5 +84941,11 @@
 			"c49fcf5a-789f-11ee-b962-0242ac120002",
 			"c49fd068-789f-11ee-b962-0242ac120002"
 		]
+	},
+	"9061bc26-c1d8-4765-9553-aedf7e6755f2": {
+		"$CONTENT_9061bc26-c1d8-4765-9553-aedf7e6755f2/Objects/Database/ShapeSets/parts.json": [
+			"bf37eaab-859e-45f1-aed2-115ed7d28be9",
+			"2309e5c7-c174-4471-a298-fd9db445c41b"
+		]
 	}
 }

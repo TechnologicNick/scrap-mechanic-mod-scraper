@@ -32188,10 +32188,20 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "This mod contains all (but not all types :)) but there will be updates in which I will add more and more types of polygons) polygons from 1 to 15 blocks long.\n------------------------------------------------------\n * Do not judge strictly, this is my first mod.\n * I'm reading the comments.\n * Why did I decide to make this mod? 1) I was figuring out the Mod Tool and how everything works there. 2) Many mods do not contain all the polygons or they are not so long that it is necessary sometimes in creations.\n * And I want to announce BAM - Big Air Mod which will be released when I don't know when:) But I'll post about it here. It will add homing missiles, good wing blocks, jet engines and cannons.",
+		"description": "This mod contains all (but not all types :)) but there will be updates in which I will add more and more types of polygons) polygons from 1 to 15 blocks long.\r\n------------------------------------------------------------------------------------------\r\n * Do not judge strictly, this is my first mod.\r\n * I'm reading the comments.\r\n * Why did I decide to make this mod? \r\n   1) I was figuring out the Mod Tool and how everything works there. \r\n   2) Many mods do not contain all the polygons or they are not so long that it is necessary sometimes in creations.\r\n * And I want to announce BAM - Big Air Mod which will be released when I don't know when:) But I'll post about it here. It will add homing missiles, good wing blocks, jet engines and cannons.",
 		"fileId": 3068556282,
 		"localId": "1ad6b37f-11bc-42b3-81fa-ee788b978dcc",
 		"name": "All Polygons",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"9061bc26-c1d8-4765-9553-aedf7e6755f2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "2D-Arial gameplay.\r\n\r\n\r\nPlace block.\r\nClick on block.\r\nPlay game.\r\n\r\n\r\nHope you placed block at eye level so you can revert.",
+		"fileId": 3069349841,
+		"localId": "9061bc26-c1d8-4765-9553-aedf7e6755f2",
+		"name": "Sky Mechanic",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
