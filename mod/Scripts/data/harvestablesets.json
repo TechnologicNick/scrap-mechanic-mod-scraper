@@ -1469,7 +1469,7 @@
 	},
 	"fb8cc7d2-404d-437e-95de-90b265474b80": {
 		"$CONTENT_fb8cc7d2-404d-437e-95de-90b265474b80/Harvestables/Database/HarvestableSets/example.harvestableset": [
-			"e88ed512-56dd-4149-9316-fbe0fd3bb063",
+			"b3adf576-57b2-458f-911d-97131c12d7d7",
 			"9e96c507-4979-4b9b-8f70-30e927215f40",
 			"35da5d00-a0ff-470b-a733-7f9051b995e5",
 			"dba94a12-0988-4fd3-b968-119b80a2d651",
@@ -1477,7 +1477,8 @@
 			"f90d41ba-56d3-40b6-acaa-b93185b683f9",
 			"8cc097a0-bfad-48bd-b1e8-1293f79ab814",
 			"e7b6459e-6709-49a6-8862-31ce30726336",
-			"da9d98c2-2748-490d-be40-ee5dd6c2d257"
+			"da9d98c2-2748-490d-be40-ee5dd6c2d257",
+			"b8eb68ca-25a0-47aa-8745-12f2dd13d873"
 		]
 	},
 	"7a9df191-d013-4ad9-8efe-141141886e5d": {},
