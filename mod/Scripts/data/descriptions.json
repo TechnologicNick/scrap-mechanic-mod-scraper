@@ -4098,12 +4098,15 @@
 		"version": 0
 	},
 	"40028b49-6ace-41f1-80ad-cdb86ae66c01": {
-		"description": "-- Post-iron-ya Modpack--\n\n> Best quality!\n\n> For all creators! \n\n> Add to favourites!\n\nEnjoy! <3",
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "Achtung!!! Outdated, may broke Your creation.",
 		"fileId": 1848622468,
 		"localId": "40028b49-6ace-41f1-80ad-cdb86ae66c01",
 		"name": "Post-iron-ya Modpack",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"5b461d1a-a39b-46f8-b0e6-1b91a22baab5": {
 		"description": "Here! its a plain block.",
@@ -26154,13 +26157,6 @@
 	"6a2e9817-686e-4373-8c32-4d4b9add6549": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2973331517,
-				"localId": "e52533c5-8076-4bda-82bf-336df526690b",
-				"name": "Logic API"
-			}
-		],
 		"description": "[Eng]\nthis mod is in a state of support.\nnew blocks will not be added,\nand the old ones will be gradually transferred to my other mods,\nwhen transferring blocks to my other mods, these mods will\nbe launched together with this mod. bugs will be fixed\n\nPixel Mod!\nthis is the largest mod in Scrap Mechanic!\nhe adds a lot to the game and makes it unique!\nthere are no such mods!\neveryone needs this mod!\nthis is a direct competitor to all other mods!\n\nthe mod contains a gameplay defender inside itself that can:\n    protect the game from cheaters\n    from the potentially dangerous\n    games from the unknowns\n    from igrakov with a bad reputation\n    and about all this, he will display warnings in the chat!\n\nthe mod adds to the game:\n    new mechanics\n    new blocks\n    new commands and features\n    regularly updated\n    there is a new string logic in fashion\n    new super cool drones\n    LUA-programmable microcontrollers\n    fire\n    radiation\n    wind\n    helium\n    bombs!!!\n    electricity\n    the system of vision on the target\n    lots of new building blocks\n    a bunch of cool new blocks!!!!!!!\n    lots of decorative blocks\n    numerical logic\n    cameras that don't bug when moving\n    and many many hours of unique gameplay\n\nteams:\n    kicklast - kick the last player who came in\n    kick - kick a specific player\n    kickall - kick all players\n    logicmod - output the mod version\n\n\n[Rus]\nданный мод находится в состоянии поддержки.\nновые блоки добавляться не будут,\nа старые будут постепенно переноситься в другие мои моды,\nпри переносе блоков в другие мои моды эти моды будут\nзапускаться вместе с этим модом. баги фикситься будут\n\nPixel Mod!\nэто самый маштабный мод в Scrap Mechanic!\nон добавляет в игру очень многое и делает это уникально!\nподобных этому моду нет!\nэтот мод нужен всем!\nэто прямой конкурент всем другим модам!\n\nмод содержит внутри себя зашитника игрового процесса который может:\n    зашитить игру от читиров\n    от потанциально опасных играков\n    от неведимок\n    от играков с плохой репутацией\n    и о всем э",
 		"fileId": 2862627470,
 		"localId": "6a2e9817-686e-4373-8c32-4d4b9add6549",
@@ -28808,13 +28804,6 @@
 	"88ec0c71-8b66-42e3-9bc2-491825df53ca": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2973331517,
-				"localId": "e52533c5-8076-4bda-82bf-336df526690b",
-				"name": "Logic API"
-			}
-		],
 		"description": "[Eng]\nthis mod allows you to create autopiloted cars/aircraft.\nthis mod can be guided in different ways and on different objects: tags, players, units, creations, etc.\nit can be guided to a specific position specified by numerical logic.\na block with a specific uuid (guidance on the uuid has not yet been done).\n\nthis mod is designed to work in conjunction with \"The modpack\" or another mod that allows you to work with numbers.\ncrafting recipes will be added soon.\nif a bug is found, I strongly ask you to write in the comments (and it will be fixed soon).\n\nreturns to the past at the time of 0.3.5))\n\n[Rus]\nэтот мод позволяет создавать автопилотируемые машины/летательные аппараты.\nэтот мод может наводиться разными способами и на разные объекты: метки, игроки, юниты, постройки, и т д.\nможет наводиться на конкретную позицию заданную числовой логикой.\nблоком с конкретным uuid(наведения по uuid пока что не сделано).\n\nданный мод рассчитан на работу в паре с \"The modpack\" или другим модом позволяющим работать с числами.\nв скором времени будут добавлены рецепты крафта.\nесли вы обнаружете ошибку, я настоятельно прошу вас написать в комментариях (и она скоро будет исправлена).\n\nвозвращает в прошлое во времена 0.3.5))\n\n\nthis mod is distributed under the \"unlicense\" license.\nmore information in the \"LICENSE\" file",
 		"fileId": 2936300656,
 		"localId": "88ec0c71-8b66-42e3-9bc2-491825df53ca",
@@ -29042,14 +29031,7 @@
 	"62d29f6c-e1e1-49d4-9b04-9bb9607a4d78": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2973331517,
-				"localId": "e52533c5-8076-4bda-82bf-336df526690b",
-				"name": "Logic API"
-			}
-		],
-		"description": "[Eng]\nthe models were taken from the mod \"Entrance Doors Pack\" from the author \"ikey07\"\nhere the doors are script blocks, they can control the bearings themselves!\nand they can also be privatized so that only you can open them!\n\nthere are 3 private modes:\n  public,\n  private,\n  privatized (anyone can open, but only you can change the private mode).\n\n[Rus]\nмодели были взяты из мода \"Entrance Doors Pack\" от автора \"ikey07\"\nтут двери это скриптовые блоки, они могут сами управлять подшибниками!\nа еще их можно заприватить, чтобы только вы могли их открыть!\n\nимееться 3 режима привата:\n  публичный,\n  приватный,\n  приватизированый(кто угодно сможет открывать, но только вы сможете изменить режим привата).",
+		"description": "[Eng]\r\nthis mod is a fork of the \"Entrance Doors Pack\" from the author of \"ikey07\".\r\nhere the doors are script blocks, they can control the bearings themselves!\r\nand they can also be privatized so that only you can open them!\r\n\r\nthere are 3 private modes:\r\n  public,\r\n  private,\r\n  privatized (anyone can open, but only you can change the private mode).\r\n\r\n[Rus]\r\nданный мод являетья форком \"Entrance Doors Pack\" от автора \"ikey07\".\r\nтут двери это скриптовые блоки, они могут сами управлять подшибниками!\r\nа еще их можно заприватить, чтобы только вы могли их открыть!\r\n\r\nимееться 3 режима привата:\r\n  публичный,\r\n  приватный,\r\n  приватизированый(кто угодно сможет открывать, но только вы сможете изменить режим привата).",
 		"fileId": 2943598723,
 		"localId": "62d29f6c-e1e1-49d4-9b04-9bb9607a4d78",
 		"name": "Scriptable Doors",
@@ -29059,13 +29041,6 @@
 	"78893dce-c61d-4621-9f7a-ce319b0d46be": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2973331517,
-				"localId": "e52533c5-8076-4bda-82bf-336df526690b",
-				"name": "Logic API"
-			}
-		],
 		"description": "[Eng]\ndear mechanics!\nthis mod will allow you to emulate the behavior of the seat using logic.\nyou will be able to rotate the bearings like seats.\nyou can also emulate whether the character is sitting in the seats - this will allow you to control the engine brake.\nalso in addition, it can work as a WASD converter.\nit will also contain a lot of interesting logic pieces that mechanics will like.\n\n[Rus]\nдорогие механики!\nэтот мод позволит вам эмулировать поведения сиденья используя логику.\nвы сможете поворачивать подшипники как сиденья.\nтак же вы сможете эмулировать сидит ли персонаж в сидушки - это позволит вам управлять тормозом мотора.\nтак же в дополнение, может работать как WASD конвертор.\nтак же он будет содержать много интересных логических штук, которые понрявяться механикам.",
 		"fileId": 2943600019,
 		"localId": "78893dce-c61d-4621-9f7a-ce319b0d46be",
@@ -29076,13 +29051,7 @@
 	"bcfa2644-ae4a-4e8a-ac1b-e99939c3a95b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2973331517,
-				"localId": "e52533c5-8076-4bda-82bf-336df526690b",
-				"name": "Logic API"
-			}
-		],
+		"dependencies": null,
 		"description": "[Eng]\nthis mod allows you to privatize creations, bodies, and even the whole world!\n\n[Rus]\nэтот мод позваляет приватить постройки, отдельные обьекты, и даже весь мир!\n\n\nthis mod is distributed under the \"unlicense\" license.\nmore information in the \"LICENSE\" file",
 		"fileId": 2943621291,
 		"localId": "bcfa2644-ae4a-4e8a-ac1b-e99939c3a95b",
@@ -29214,14 +29183,7 @@
 	"9fd09c44-c46a-45b9-a7b9-da6f115989c0": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2973331517,
-				"localId": "e52533c5-8076-4bda-82bf-336df526690b",
-				"name": "Logic API"
-			}
-		],
-		"description": "[Eng]\nthis mod adds speakers, turntables and records.\nDLM game extensions are required for the mod to work.\nthe mod supports crafting, but the plates are not crafting.\nplates in survival mode spawn in peace on earth.\n\n[Rus]\nданный мод добавляет колонки, проигрыватели и пластинки.\nдля работы мода требуется расширения игры DLM.\nмод поддержкивает крафты, но пластинки не крафтиться.\nпластинки в режиме выживания спавняться в мире на земле.",
+		"description": "[Eng]\r\nthis mod adds speakers, turntables and records.\r\nDLM game extensions are required for the mod to work.\r\nthe mod supports crafting, but the plates are not crafting.\r\nplates in survival mode spawn in peace on earth.\r\n\r\n[Rus]\r\nданный мод добавляет колонки, проигрыватели и пластинки.\r\nдля работы мода требуется расширения игры DLM.\r\nмод поддерживает крафты, но пластинки не крафтиться.\r\nпластинки в режиме выживания спавняться в мире на земле.\r\n\r\n\r\nthis mod is distributed under the \"unlicense\" license.\r\nmore information in the \"LICENSE\" file",
 		"fileId": 2948210047,
 		"localId": "9fd09c44-c46a-45b9-a7b9-da6f115989c0",
 		"name": "sound mod",
@@ -29271,13 +29233,6 @@
 	"3aeb81c2-71b9-45a1-9479-1f48f1e8ff21": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"dependencies": [
-			{
-				"fileId": 2973331517,
-				"localId": "e52533c5-8076-4bda-82bf-336df526690b",
-				"name": "Logic API"
-			}
-		],
 		"description": "this fork of ScriptableComputer\nfork creation was approved by the authors of the mod\nfor the mod to work correctly, there SHOULD BE NO \"ScriptableComputer\" and/or \"SCI\" in the world\n\nluaInLua bug fixes:\n* most of the luaInLua bugs have been fixed\n* local variables now work fine\n* the arguments of the functions now also work fine\n\nadvantages of SComputers compared to any other computer mods:\n* bug fixes (critical filesystem bugs, bugs causing lags, bugs breaking code, and many other extremely unpleasant bugs have been fixed in SComputers)\n* compatibility (this mod is fully compatible with the original and with SCI and may also be compatible with other mods in the future)\n* responsive support (you can always write a comment to the mod and I will answer it, you can also write to me in the discord \"smlogic\")\n* optimization (displays in SComputers lag much less than in the original)\n* the presence of require and built-in libraries (image, midi, vdisplay, base64, utf8, ramfs, etc)\n* code examples (code examples in mod will help you figure it out a bit)\n* security (from SComputers it is much more difficult to cause bugsplat, game freezes, lags)\n* availability of new components\n* regular updates (about 4 updates per week)\n* support for crafting recipes\n* radars are seen a robots/wocs/worms\n* ability to use dlm/fullLuaEnv to load code (instead of luaInLua) which will allow you to receive normal error reports\n\ncurrent documentation is \"temporary\"\nbecause the scrapmechanictool site has closed\nalso, the SComputers documentation describes only what SComputers adds\nyou will still need to study the documentation of the parent mod (ScriptableComputer) to have an idea of how the mod works\n\nSComputers documentation: https://github.com/igorkll/SComputers_docs/blob/main/SComputers/Info.md\nParent Mod documentation(ScriptableComputer): https://steamcommunity.com/sharedfiles/filedetails/?id=2831560152",
 		"fileId": 2949350596,
 		"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
@@ -29461,13 +29416,6 @@
 	"6bc49594-9348-4970-871e-4b3fb98feb56": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2973331517,
-				"localId": "e52533c5-8076-4bda-82bf-336df526690b",
-				"name": "Logic API"
-			}
-		],
 		"description": "[Eng]\na new mod that transfers details from Challenge mode to creative.\nthis mod contains new details from Challenge mode.\nthe scripts have been heavily adapted to the creative mode.\nremoved many limits and redesigned the behavior of many details.\nmany of the details that cannot work in creative mode have been redesigned as indicators.\nthe bot spawner will not spawn the bot when entering the world.\nyou should do it yourself if there is a need for it, since the autosave is not always needed in the creative.\nalso, items that were not paintable in Challenge mode are now paintable.\n\n[Rus]\nновый мод переносящий детали из Challenge mode в креатив.\nданный мод содержит новые детали из Challenge mode.\nскрипты деталей были сильно адоптированы под режим креатива.\nубраны многие лимиты и переработано поведения многих деталей.\nмногие те детали что не могут работать в режиме креатива были переработаны как индикаторы.\nспавнер ботов не спавнит бота при заходе в мир.\nвы должны сделать это сами если в этом есть необходимость, так как автоспавн не всегда нужен в креативе.\nтак же предметы которые в Challenge mode не красились, теперь красяться.\n\n\nthis mod is distributed under the \"unlicense\" license.\nmore information in the \"LICENSE\" file",
 		"fileId": 2957640756,
 		"localId": "6bc49594-9348-4970-871e-4b3fb98feb56",
@@ -30463,13 +30411,7 @@
 	"715214f7-dc3f-4e47-9d5d-f4913d723d21": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2973331517,
-				"localId": "e52533c5-8076-4bda-82bf-336df526690b",
-				"name": "Logic API"
-			}
-		],
+		"dependencies": null,
 		"description": "various DANGEROUS blocks, be careful!\n\nblack hole:\n* sucks in creations/players/mobs\n\nvirus block:\n* jumps between creations, spreads and interferes with the work of creations\n\n\nthis mod is distributed under the \"unlicense\" license.\nmore information in the \"LICENSE\" file",
 		"fileId": 2989704611,
 		"localId": "715214f7-dc3f-4e47-9d5d-f4913d723d21",
@@ -31298,13 +31240,6 @@
 	"266bf883-a7f6-46dc-a1a2-fa213179055c": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2973331517,
-				"localId": "e52533c5-8076-4bda-82bf-336df526690b",
-				"name": "Logic API"
-			}
-		],
 		"description": "blocks the use of any commands in the chat.\nsuitable for people who can't resist using cheats or accidentally cleaning the world",
 		"fileId": 3018650967,
 		"localId": "266bf883-a7f6-46dc-a1a2-fa213179055c",
@@ -31819,7 +31754,7 @@
 	"fb8cc7d2-404d-437e-95de-90b265474b80": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "versia 1.0.1",
+		"description": "versia 1.0.1 (test)",
 		"fileId": 3043452567,
 		"localId": "fb8cc7d2-404d-437e-95de-90b265474b80",
 		"name": "STALKER shadow of Den",
