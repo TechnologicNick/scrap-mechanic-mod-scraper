@@ -3894,5 +3894,8 @@
 		"$CONTENT_9061bc26-c1d8-4765-9553-aedf7e6755f2/Tools/Database/ToolSets/tools.toolset": [
 			"8f25a3e4-3e43-4cd0-a9a4-de6d364335f5"
 		]
+	},
+	"aca5f1b1-dbc7-41c6-b924-d3c5c9fcdc25": {
+		"$CONTENT_aca5f1b1-dbc7-41c6-b924-d3c5c9fcdc25/Tools/Database/ToolSets/example.toolset": []
 	}
 }
