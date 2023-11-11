@@ -32138,5 +32138,15 @@
 		"name": "Chapter2Real",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"db8418b6-2e46-4f01-90f5-58b4973e7587": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod aims to add more advanced variations of the vanilla tools for Creative.\n\nMod Plan:\n\n1. Advanced Paint Tool (added)\n2. Advanced Connection Tool (planned)\nMore TBD",
+		"fileId": 3078604380,
+		"localId": "db8418b6-2e46-4f01-90f5-58b4973e7587",
+		"name": "Creative Tools",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

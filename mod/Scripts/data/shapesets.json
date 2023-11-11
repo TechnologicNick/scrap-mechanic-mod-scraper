@@ -85002,5 +85002,8 @@
 	},
 	"aca5f1b1-dbc7-41c6-b924-d3c5c9fcdc25": {
 		"$CONTENT_aca5f1b1-dbc7-41c6-b924-d3c5c9fcdc25/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"db8418b6-2e46-4f01-90f5-58b4973e7587": {
+		"$CONTENT_db8418b6-2e46-4f01-90f5-58b4973e7587/Objects/Database/ShapeSets/shapes.json": []
 	}
 }
