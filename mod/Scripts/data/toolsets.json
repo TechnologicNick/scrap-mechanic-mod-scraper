@@ -3903,5 +3903,10 @@
 		"$CONTENT_db8418b6-2e46-4f01-90f5-58b4973e7587/Tools/Database/ToolSets/PrimaryToolSet.toolset": [
 			"ba43916b-1dcb-4a67-9350-c4a4966a1b74"
 		]
+	},
+	"29e7f7d2-7fd2-4b55-9bec-119d65cf8d70": {
+		"$CONTENT_29e7f7d2-7fd2-4b55-9bec-119d65cf8d70/Tools/Database/ToolSets/tools.toolset": [
+			"8f25a3e4-3e43-4cd0-a9a4-de6d364335f5"
+		]
 	}
 }

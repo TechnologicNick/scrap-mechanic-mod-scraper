@@ -31748,7 +31748,7 @@
 	"fb8cc7d2-404d-437e-95de-90b265474b80": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "versia 1.0.3 ",
+		"description": "versia 1.0.4\nhttps://discord.gg/U8mx6nc28j",
 		"fileId": 3043452567,
 		"localId": "fb8cc7d2-404d-437e-95de-90b265474b80",
 		"name": "STALKER shadow of Den",
@@ -31907,7 +31907,7 @@
 	"dcfe3d42-ed03-4025-ba8e-04a5c4875e28": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod aims to bring back defunct/depricated item recipes to the fant mod CG and add some items that cant normally be recycled/crafted\n\n\nas of today this addon adds...\n...back the recipe for the old non-modular tank tracks with the original cost from when they were first introduced/showcased on fants YT channel\n\n...a recipe to craft/recycle the farmbot drill (personal main use is for recycling)\n\n\nif you have any recipes you want added and the cost for said item, let me know on fants discord @ Linus\n\nfant mod discord link\nhttps://discord.gg/Z2qty5E",
+		"description": "This mod aims to bring back defunct/depricated item recipes to the fant mod CG and add some items that cant normally be recycled/crafted\r\n\r\n\r\nas of today this addon adds...\r\n...back the recipe for the old non-modular tank tracks with the original cost from when they were first introduced/showcased on fants YT channel, old tracks showcase video: https://youtu.be/200BOZ94COA\r\n\r\n...a recipe to craft/recycle the farmbot drill (personal main use is for recycling)\r\n\r\n...a lot of decorational items listed in change logs (any future added items will be listed there)\r\n\r\nif you have any recipes you want added and the cost for said item, let me know on fants discord @ Linus\r\n\r\nfant mod discord link\r\nhttps://discord.gg/Z2qty5E",
 		"fileId": 3050306813,
 		"localId": "dcfe3d42-ed03-4025-ba8e-04a5c4875e28",
 		"name": "Linus Additional Fant Mod Recipes",
@@ -32146,6 +32146,16 @@
 		"fileId": 3078604380,
 		"localId": "db8418b6-2e46-4f01-90f5-58b4973e7587",
 		"name": "Creative Tools",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"29e7f7d2-7fd2-4b55-9bec-119d65cf8d70": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Clue Modpack for Moonbo",
+		"fileId": 3079921518,
+		"localId": "29e7f7d2-7fd2-4b55-9bec-119d65cf8d70",
+		"name": "Clue Modpack for Moonbo",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
