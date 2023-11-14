@@ -85013,5 +85013,12 @@
 			"2309e5c7-c174-4471-a298-fd9db445c41b",
 			"be844191-829e-4bbe-a653-f1667cbbb63e"
 		]
+	},
+	"75a81078-8183-49e5-93ff-7910b81dd63e": {
+		"$CONTENT_75a81078-8183-49e5-93ff-7910b81dd63e/Objects/Database/ShapeSets/example.shapeset": [
+			"2b5dd45d-2a86-424b-a240-cb7224aa3e4f",
+			"0e7d3ca9-980a-4103-bb56-2096ba69bde3",
+			"d175576f-dab4-4123-9982-f15626d37c6e"
+		]
 	}
 }
