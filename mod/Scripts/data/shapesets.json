@@ -85024,5 +85024,10 @@
 	"defae439-d6c1-4ffe-af79-7366a844ddef": {
 		"$CONTENT_defae439-d6c1-4ffe-af79-7366a844ddef/Objects/Database/ShapeSets/example.shapeset": []
 	},
-	"9cd9aae9-a16f-488e-9558-f5188a01f800": {}
+	"9cd9aae9-a16f-488e-9558-f5188a01f800": {},
+	"bc584d77-3e40-4eb1-8f85-61599e416802": {
+		"$CONTENT_bc584d77-3e40-4eb1-8f85-61599e416802/Objects/Database/ShapeSets/shapes.shapeset": [
+			"c985c056-beeb-4dfa-a21c-fc34d83c9435"
+		]
+	}
 }
