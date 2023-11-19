@@ -85048,5 +85048,13 @@
 	},
 	"e037c269-b76c-44a4-ab1b-358814b2fa93": {
 		"$CONTENT_e037c269-b76c-44a4-ab1b-358814b2fa93/Objects/Database/ShapeSets/empty.json": []
+	},
+	"1c95c48f-25a1-4618-a4d9-58ee4a86703e": {
+		"$CONTENT_1c95c48f-25a1-4618-a4d9-58ee4a86703e/Objects/Database/ShapeSets/example.shapeset": [
+			"ce6f5711-e259-45ac-a95f-9c9484e816b1"
+		]
+	},
+	"c506283e-1983-4d59-8d37-f51d8d811e50": {
+		"$CONTENT_c506283e-1983-4d59-8d37-f51d8d811e50/Objects/Database/ShapeSets/example.shapeset": []
 	}
 }
