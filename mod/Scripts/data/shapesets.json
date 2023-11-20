@@ -35808,11 +35808,27 @@
 		"$CONTENT_3c781077-0cff-4f20-8492-beb1f55c6cbf/Objects/Database/ShapeSets/parts.json": []
 	},
 	"6db9449a-2b49-4ee7-8711-ad91ff4119ec": {
-		"$CONTENT_6db9449a-2b49-4ee7-8711-ad91ff4119ec/Objects/Database/ShapeSets/VehicleLights.json": [
+		"$CONTENT_6db9449a-2b49-4ee7-8711-ad91ff4119ec/Objects/Database/ShapeSets/blocks.shapeset": [
+			"29e60243-5b1e-4bb1-bb0b-b00bce07f509",
+			"bffad3d2-4b79-4287-9a43-bba7987650dd"
+		],
+		"$CONTENT_6db9449a-2b49-4ee7-8711-ad91ff4119ec/Objects/Database/ShapeSets/parts.shapeset": [
+			"99e7b2b9-b760-4273-ada0-b15d8d93a120",
+			"d04badce-fc8a-46da-9389-f3bade34fb7d",
+			"aab8866b-9f00-412d-ba45-0cadee45956e",
+			"eed6ea66-459b-4127-af37-45cbfa02c073"
+		],
+		"$CONTENT_6db9449a-2b49-4ee7-8711-ad91ff4119ec/Objects/Database/ShapeSets/enemies.shapeset": [
+			"c6e64537-cbfe-4039-ad0b-73ec22d3727c",
+			"8df36720-5446-4c9a-96ad-98247a0a67a3",
+			"fc7920ef-7ea3-4e2a-8b86-a18781505c87",
+			"ce5ad053-73f9-48d9-84eb-4586b2f69a41"
+		],
+		"$CONTENT_6db9449a-2b49-4ee7-8711-ad91ff4119ec/Objects/Database/ShapeSets/VehicleLights.shapeset": [
 			"3f691444-554e-48ad-840b-8e84c82b659b",
 			"f2f78340-286b-457c-9bc4-feb7896fbbc0"
 		],
-		"$CONTENT_6db9449a-2b49-4ee7-8711-ad91ff4119ec/Objects/Database/ShapeSets/VehicleTwo.json": [
+		"$CONTENT_6db9449a-2b49-4ee7-8711-ad91ff4119ec/Objects/Database/ShapeSets/VehicleTwo.shapeset": [
 			"e7dcdeb1-3667-4829-ad77-5bcc38c6f1f4",
 			"d38ef0d8-3f26-4fb8-ae24-fc869dd27cfd",
 			"27bd869f-bccb-471f-8c75-c0ba401e9bda",
@@ -35832,15 +35848,11 @@
 			"455c0d71-757d-47a4-91d1-0adcc8c87f56",
 			"b6e916dd-280c-4840-97d2-116ec32d5976"
 		],
-		"$CONTENT_6db9449a-2b49-4ee7-8711-ad91ff4119ec/Objects/Database/ShapeSets/blocks.shapeset": [
-			"29e60243-5b1e-4bb1-bb0b-b00bce07f509",
-			"bffad3d2-4b79-4287-9a43-bba7987650dd"
-		],
-		"$CONTENT_6db9449a-2b49-4ee7-8711-ad91ff4119ec/Objects/Database/ShapeSets/parts.shapeset": [
-			"99e7b2b9-b760-4273-ada0-b15d8d93a120",
-			"aa4c9c5e-7fc6-4c27-967f-c550e551c872",
-			"9a3e478c-2224-44fa-887c-239965bd05ad",
-			"64051718-a3f1-422b-bda3-277efa0c4545"
+		"$CONTENT_6db9449a-2b49-4ee7-8711-ad91ff4119ec/Objects/Database/ShapeSets/override_vanilla/interactivecontainers_shared.shapeset": [
+			"056e5ff1-f030-40df-946a-b830bf494c92",
+			"da4833fd-f981-4e08-a9f7-48e630a7c146",
+			"ea10d1af-b97a-46fb-8895-dfd1becb53bb",
+			"096d4daf-639e-4947-a1a6-1890eaa94464"
 		]
 	},
 	"12c428a4-be3a-40ee-9a1f-7fb22df4a158": {
@@ -82726,7 +82738,12 @@
 			"d3d24e3b-d7ef-4a01-a1fa-30b5e46ee31e",
 			"d0938938-6411-4a6a-bc4b-74004bea54ee",
 			"26700bbe-3d9e-43df-8640-31b15f6bbb1a",
-			"26ef0e00-df82-446d-98f1-5334cee6980a"
+			"26ef0e00-df82-446d-98f1-5334cee6980a",
+			"90a6f704-efad-4705-8c01-b13205792e17",
+			"7815778d-ad5a-4b15-abdb-67ac4f9cfe34",
+			"8d75724e-e072-4fc5-acfa-147383b95e98",
+			"39d62d68-230a-4c7f-bbb3-af67f586438d",
+			"73d3e064-d1aa-426c-933e-e9af1febf01e"
 		]
 	},
 	"7a9df191-d013-4ad9-8efe-141141886e5d": {},
@@ -85056,5 +85073,71 @@
 	},
 	"c506283e-1983-4d59-8d37-f51d8d811e50": {
 		"$CONTENT_c506283e-1983-4d59-8d37-f51d8d811e50/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"bd8ce29f-bcf3-4e5a-98bb-1a4539a4bb04": {
+		"$CONTENT_bd8ce29f-bcf3-4e5a-98bb-1a4539a4bb04/Objects/Database/ShapeSets/parts.json": [
+			"90a6f704-efad-4705-8c01-b13205792e17",
+			"7815778d-ad5a-4b15-abdb-67ac4f9cfe34",
+			"8d75724e-e072-4fc5-acfa-147383b95e98",
+			"39d62d68-230a-4c7f-bbb3-af67f586438d",
+			"73d3e064-d1aa-426c-933e-e9af1febf01e"
+		]
+	},
+	"677c9cdc-4a3f-4523-9b3d-2602c834ceb7": {
+		"$CONTENT_677c9cdc-4a3f-4523-9b3d-2602c834ceb7/Objects/Database/ShapeSets/blocks.shapeset": [
+			"29e60243-5b1e-4bb1-bb0b-b00bce07f509",
+			"bffad3d2-4b79-4287-9a43-bba7987650dd"
+		],
+		"$CONTENT_677c9cdc-4a3f-4523-9b3d-2602c834ceb7/Objects/Database/ShapeSets/parts.shapeset": [
+			"99e7b2b9-b760-4273-ada0-b15d8d93a120",
+			"d04badce-fc8a-46da-9389-f3bade34fb7d",
+			"aab8866b-9f00-412d-ba45-0cadee45956e",
+			"eed6ea66-459b-4127-af37-45cbfa02c073"
+		],
+		"$CONTENT_677c9cdc-4a3f-4523-9b3d-2602c834ceb7/Objects/Database/ShapeSets/enemies.shapeset": [
+			"c6e64537-cbfe-4039-ad0b-73ec22d3727c",
+			"8df36720-5446-4c9a-96ad-98247a0a67a3",
+			"fc7920ef-7ea3-4e2a-8b86-a18781505c87",
+			"ce5ad053-73f9-48d9-84eb-4586b2f69a41"
+		],
+		"$CONTENT_677c9cdc-4a3f-4523-9b3d-2602c834ceb7/Objects/Database/ShapeSets/VehicleLights.shapeset": [
+			"3f691444-554e-48ad-840b-8e84c82b659b",
+			"f2f78340-286b-457c-9bc4-feb7896fbbc0"
+		],
+		"$CONTENT_677c9cdc-4a3f-4523-9b3d-2602c834ceb7/Objects/Database/ShapeSets/VehicleTwo.shapeset": [
+			"e7dcdeb1-3667-4829-ad77-5bcc38c6f1f4",
+			"d38ef0d8-3f26-4fb8-ae24-fc869dd27cfd",
+			"27bd869f-bccb-471f-8c75-c0ba401e9bda",
+			"ae7f01db-5b37-48b8-a6ed-00d3c0a6372c",
+			"8483343d-ce68-4a1f-a807-f4c6e399d10a",
+			"f737addd-42a8-4446-9117-01bb9db3e273",
+			"36cc89b0-01d2-419c-80d9-e38c22cd0cb1",
+			"a053d5b7-f745-465e-87ac-97725e2ac984",
+			"c195c3ca-17ba-4684-8173-1eb92715fc72",
+			"4b55462e-976a-4cfc-b2fd-7b7a90f31813",
+			"71b2a025-d5ed-44cb-98f5-9e82517a9c04",
+			"db8c6146-8e90-440e-9099-36e3eedd1b78",
+			"56a7a237-a3b2-4f31-a061-83de75afd9a2",
+			"eeb0d743-486c-4441-a0b9-b2a2230ad0d4",
+			"975e4770-41c4-4343-9435-cef1e85c0b01",
+			"ba83357d-db8f-4b41-9e08-145f0f82f263",
+			"455c0d71-757d-47a4-91d1-0adcc8c87f56",
+			"b6e916dd-280c-4840-97d2-116ec32d5976"
+		],
+		"$CONTENT_677c9cdc-4a3f-4523-9b3d-2602c834ceb7/Objects/Database/ShapeSets/override_vanilla/chests.shapeset": [
+			"ad35f7e6-af8f-40fa-aef4-77d827ac8a8a",
+			"f08d772f-9851-400f-a014-d847900458a7",
+			"d0afb527-e786-4a22-a907-6da7e7cba8cb",
+			"90dbaebf-8ea1-4a5a-8f6f-86ddde77c6c8",
+			"fcfae5e2-1df9-47d8-bb9a-30bec9b5b1f5",
+			"d4e6c84c-a493-44b1-81aa-4f4741ea3ed8",
+			"b3402155-e8a3-452d-b6fb-55c8d4e4e681"
+		],
+		"$CONTENT_677c9cdc-4a3f-4523-9b3d-2602c834ceb7/Objects/Database/ShapeSets/override_vanilla/interactivecontainers_shared.shapeset": [
+			"056e5ff1-f030-40df-946a-b830bf494c92",
+			"da4833fd-f981-4e08-a9f7-48e630a7c146",
+			"ea10d1af-b97a-46fb-8895-dfd1becb53bb",
+			"096d4daf-639e-4947-a1a6-1890eaa94464"
+		]
 	}
 }

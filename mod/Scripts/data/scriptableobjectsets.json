@@ -629,5 +629,13 @@
 	},
 	"defae439-d6c1-4ffe-af79-7366a844ddef": {
 		"$CONTENT_defae439-d6c1-4ffe-af79-7366a844ddef/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"677c9cdc-4a3f-4523-9b3d-2602c834ceb7": {
+		"$CONTENT_677c9cdc-4a3f-4523-9b3d-2602c834ceb7/ScriptableObjects/ScriptableObjectSets/example.sobset": [
+			"88c4f979-0feb-44d3-8b59-51da00338430",
+			"d696f6ae-615f-499b-b22a-20e8cea14831",
+			"cd770721-1acb-400e-a175-28cd6511010f",
+			"be34f6d8-0c1e-4fc0-b243-522da04a4409"
+		]
 	}
 }

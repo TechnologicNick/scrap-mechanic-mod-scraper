@@ -12904,7 +12904,7 @@
 	"6db9449a-2b49-4ee7-8711-ad91ff4119ec": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod is a mistake\n\n------------------------------------------------------------------------------------------------------\n\nUpd 1: ● Added new ecpic gamr thumbnail!!!1!\nUpd 2: ● Added amogi\nUpd 3: ● Added more amogi (colorful)\nUpd 4: ● Fixed stats for blocks\n● \"dev blocks\" now have background colours corresponding to their respective pfps in discord\n● Amogus's default colour now correspond to effect block's defalut colour\nUpd 5: ● Fixed effect block errors related to logging in and out of the world\n● Added clues\nUpd 6: ● Added rgb mode that turns on and off on interaction\n● It's impossible to glitch the block out and leave effect in the world without the block itself\n● Block now resets effect color back to the color of block itself when rgb mode is turned off\nPatch 6.1: ● Adjusted amount of amogus spawning in rgb mode so it doesn't lag out the game\n● Hitbox fixes and optimisations\n● Now effect changes color on paint ( turning block on and off is no longer required )\n● Optimised rgb code ( giant thanks to BlueFlame )",
+		"description": "This mod is a mistake\r\n\r\n------------------------------------------------------------------------------------------------------\r\n\r\nUpd 1: ● Added new ecpic gamr thumbnail!!!1!\r\nUpd 2: ● Added amogi\r\nUpd 3: ● Added more amogi (colorful)\r\nUpd 4: ● Fixed stats for blocks\r\n● \"dev blocks\" now have background colours corresponding to their respective pfps in discord\r\n● Amogus's default colour now correspond to effect block's defalut colour\r\nUpd 5: ● Fixed effect block errors related to logging in and out of the world\r\n● Added clues\r\nUpd 6: ● Added rgb mode that turns on and off on interaction\r\n● It's now impossible to glitch the block out and leave effect in the world without the block itself\r\nPatch 6.1: ● Adjusted amount of amogus spawning in rgb mode so it doesn't lag out the game\r\n● Block now resets effect color back to the color of block itself when rgb mode is turned off\r\n● Hitbox fixes and optimisations\r\n● Now effect changes color on paint ( turning block on and off is no longer required )\r\n● Optimised rgb code ( giant thanks to BlueFlame )\r\nUpd 7: ● \tAdded Grab tool\r\n● Custom game version is now available!",
 		"fileId": 2809667982,
 		"localId": "6db9449a-2b49-4ee7-8711-ad91ff4119ec",
 		"name": "E",
@@ -31748,7 +31748,7 @@
 	"fb8cc7d2-404d-437e-95de-90b265474b80": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "versia 1.0.5\nhttps://discord.gg/U8mx6nc28j\nдобавлены новые крафты",
+		"description": "versia 1.0.6\nhttps://discord.gg/E8JBypbfqp\nдобавлены новые крафты",
 		"fileId": 3043452567,
 		"localId": "fb8cc7d2-404d-437e-95de-90b265474b80",
 		"name": "STALKER shadow of Den",
@@ -32229,5 +32229,37 @@
 		"name": "MySurvival",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"bd8ce29f-bcf3-4e5a-98bb-1a4539a4bb04": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[Eng]\nthis mod allows you to create a separate small world in one block!\nthey can be used to make a magic circuit in one block!\nplease note that it is highly discouraged to use bearings inside the pocket universe, and IN ANY CASE, it is impossible to use loose parts!\n\n[Rus]\nданный мод позваляет вам создать отдельный маленький мир в одном блоке!\nих можно использовать для того чтобы сделать могическую схему в один блок!\nобратите внимания, что внутри карманной вселенной крафне не рекомендуеться использовать подщипники, и НЕВКОЕМ СЛУЧАИ нельзя использовать незакрепленные части!",
+		"fileId": 3088831605,
+		"localId": "bd8ce29f-bcf3-4e5a-98bb-1a4539a4bb04",
+		"name": "Pocket Universe",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"677c9cdc-4a3f-4523-9b3d-2602c834ceb7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
+				"name": "ModDatabase"
+			},
+			{
+				"fileId": 2809667982,
+				"localId": "6db9449a-2b49-4ee7-8711-ad91ff4119ec",
+				"name": "E"
+			}
+		],
+		"description": "The most anticipated sequel of all time!\r\nPlease like and add to favourites so this mod can survive in the algorithm!\r\n\r\nThis mod is constantly updated, so leave your feedback in the comments!\r\n\r\nBEFORE YOU PLAY!\r\nDo you want more memes?\r\nIf so install DLL mods to add more to the experience!\r\nSteps:\r\n1. Go to https://github.com/QuestionableM/SM-DLL-Injector/releases/latest\r\n2. Download DLL-Injector-Installer.exe and run it.\r\n3. Go to https://github.com/QuestionableM/SM-CustomAudioExtension/releases/latest\r\n4. Download CustomAudioExtension.dll\r\n5. Go to Scrap Mechanic in your steam library\r\n6. Press the small cogwheel on the same bar as the \"play\" button\r\n7. Go to \"manage\", then click \"bowse local files\"\r\n8. Go into the folder called \"Release\"\r\n9. In there create a new folder called \"DLLModules\"\r\n10. Move CustomAudioExtension.dll into that folder\r\n\r\nPROFIT!",
+		"fileId": 3088910657,
+		"localId": "677c9cdc-4a3f-4523-9b3d-2602c834ceb7",
+		"name": "E Mod 2 - The video game",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
