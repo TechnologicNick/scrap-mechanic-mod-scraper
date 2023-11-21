@@ -637,5 +637,11 @@
 			"cd770721-1acb-400e-a175-28cd6511010f",
 			"be34f6d8-0c1e-4fc0-b243-522da04a4409"
 		]
+	},
+	"925a869f-3e9f-42d5-9123-0f5648bad7c8": {
+		"$CONTENT_925a869f-3e9f-42d5-9123-0f5648bad7c8/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"3a1affa6-b547-48b5-9c23-f6f638ef4960": {
+		"$CONTENT_3a1affa6-b547-48b5-9c23-f6f638ef4960/ScriptableObjects/ScriptableObjectSets/example.sobset": []
 	}
 }
