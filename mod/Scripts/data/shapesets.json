@@ -85246,5 +85246,11 @@
 			"3308ed02-2d88-4b87-9d46-e4f3e445dcbc",
 			"3813c348-b5d0-4b87-9437-685884d05dbd"
 		]
+	},
+	"f123620e-9224-4062-87ba-8c5c5ef25f33": {
+		"$CONTENT_f123620e-9224-4062-87ba-8c5c5ef25f33/Objects/Database/ShapeSets/example.shapeset": [
+			"eda02fe1-c1df-4057-a0a3-5b0a52f438ef",
+			"deddc364-5db3-4297-b7b0-7c15a53c253c"
+		]
 	}
 }
