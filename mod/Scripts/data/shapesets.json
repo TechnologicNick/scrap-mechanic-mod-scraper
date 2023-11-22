@@ -85374,5 +85374,10 @@
 			"f39cee8d-4f6e-438e-aebd-fa1010866c56",
 			"2348d356-0d1b-4e97-a93e-fbd5dc1a3455"
 		]
+	},
+	"2005f027-c376-4781-92e5-e6e8af856ef1": {
+		"$CONTENT_2005f027-c376-4781-92e5-e6e8af856ef1/Objects/Database/ShapeSets/parts.json": [
+			"6f807bf1-6d3d-4051-95a7-56d303485330"
+		]
 	}
 }
