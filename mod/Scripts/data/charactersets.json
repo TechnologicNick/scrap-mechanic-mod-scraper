@@ -825,5 +825,11 @@
 	},
 	"3a1affa6-b547-48b5-9c23-f6f638ef4960": {
 		"$CONTENT_3a1affa6-b547-48b5-9c23-f6f638ef4960/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"73d0546a-3aca-4d1d-8211-52af52cca7ce": {
+		"$CONTENT_73d0546a-3aca-4d1d-8211-52af52cca7ce/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"5721989b-42b3-4ee1-a0b4-6d410b0f9643": {
+		"$CONTENT_5721989b-42b3-4ee1-a0b4-6d410b0f9643/Characters/Database/CharacterSets/example.characterset": []
 	}
 }

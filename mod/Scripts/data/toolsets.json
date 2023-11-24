@@ -3965,5 +3965,11 @@
 		]
 	},
 	"941f6a36-9258-48b3-ab39-8380e882d2be": {},
-	"ee810dbb-9106-4ff7-a26f-46730063bb98": {}
+	"ee810dbb-9106-4ff7-a26f-46730063bb98": {},
+	"73d0546a-3aca-4d1d-8211-52af52cca7ce": {
+		"$CONTENT_73d0546a-3aca-4d1d-8211-52af52cca7ce/Tools/Database/ToolSets/example.toolset": []
+	},
+	"5721989b-42b3-4ee1-a0b4-6d410b0f9643": {
+		"$CONTENT_5721989b-42b3-4ee1-a0b4-6d410b0f9643/Tools/Database/ToolSets/example.toolset": []
+	}
 }
