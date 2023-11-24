@@ -86463,6 +86463,11 @@
 		"$CONTENT_73d0546a-3aca-4d1d-8211-52af52cca7ce/Objects/Database/ShapeSets/example.shapeset": []
 	},
 	"5721989b-42b3-4ee1-a0b4-6d410b0f9643": {
-		"$CONTENT_5721989b-42b3-4ee1-a0b4-6d410b0f9643/Objects/Database/ShapeSets/example.shapeset": []
+		"$CONTENT_5721989b-42b3-4ee1-a0b4-6d410b0f9643/Objects/Database/ShapeSets/example.shapeset": [
+			"5202a8c7-d083-4acd-b1a9-81fb07a04b31"
+		]
+	},
+	"46b878fe-b9dc-4cfb-a449-aafd3cf53a1d": {
+		"$CONTENT_46b878fe-b9dc-4cfb-a449-aafd3cf53a1d/Objects/Database/ShapeSets/example.shapeset": []
 	}
 }

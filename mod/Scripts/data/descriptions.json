@@ -32449,5 +32449,15 @@
 		"name": "Scrap Mechanic Versus Mode",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"46b878fe-b9dc-4cfb-a449-aafd3cf53a1d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Fight against your friends!\nHas PVP enabled, you spawn at a random position with a bed and craftbot.\nOriginal mod: https://steamcommunity.com/sharedfiles/filedetails/?id=3092981191",
+		"fileId": 3093744674,
+		"localId": "46b878fe-b9dc-4cfb-a449-aafd3cf53a1d",
+		"name": "Scrap Mechanic Versus Mode Alternative Spawn",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
