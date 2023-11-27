@@ -32297,7 +32297,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"description": "Mod with blocks for tank battles. Alpha test.",
-		"fileId": 3090088665,
+		"fileId": 3096437411,
 		"localId": "1df218f7-d3b2-40f6-b4b7-4057d13f0683",
 		"name": "Block's for Tank's",
 		"type": "Blocks and Parts",
@@ -32457,6 +32457,16 @@
 		"fileId": 3093744674,
 		"localId": "46b878fe-b9dc-4cfb-a449-aafd3cf53a1d",
 		"name": "Scrap Mechanic Versus Mode Alternative Spawn",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"472c21c8-b706-4c8f-ab6b-dd9adcf9edd7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3096542818,
+		"localId": "472c21c8-b706-4c8f-ab6b-dd9adcf9edd7",
+		"name": "dibidildocronikum",
 		"type": "Custom Game",
 		"version": 0
 	}
