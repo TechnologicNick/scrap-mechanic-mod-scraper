@@ -30692,7 +30692,7 @@
 	"8dce5730-a409-4340-9c0e-210109460136": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This Mod Add from my Main Fant Mod the Unit Facer as Standalone Part. \r\nThis Blocks allows you to Build Auto Aiming Turrets, Mouse Controlled Aiming things like Mouse Aim Turrets or Vehicles that turn based on your View Direction. and much more.\r\nNot all Modes are supported in this version, but Most of them. \r\nTo get the Full Functionality of all modes use the Fant Mod.\r\n\r\nHere the COLOR Code List of all Supported Modes:\r\n\r\nDEFAULT Color = Only Robots\r\nWHITE Color = All Units\r\nBLUE Color = Wocs and Glowbugs\r\nRED Color = Players\r\nYELLOW Color = All Except Players!\r\nBLACK Color = Other Players and not the Player Owner\r\nPURPLE Color = Aim at the Owner Aim Direction\r\nPINK Color = Aim at the Owner Aim Position\r\nLIGHTORANGE = Aim at Rocks\r\nLIGHTYELLOW = Aim at Trees\r\nLIGHTGREEN = Aim at Refine Rods\r\n\r\n( i hope i dont have to explain that the First Row of colors in the Paint tool are LIGHT Colors and not the Colors for the Unit Facer Modes! \r\nSo when there is written \"RED\" then it Means RED and not Light or Dark Red!!! )\r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This Mod Add from my Main Fant Mod the Unit Facer, Unit Facer HUB and the Waypoint Marker Tool as Standalone Part. \r\nThis Blocks allows you to Build Auto Aiming Turrets, Mouse Controlled Aiming things like Mouse Aim Turrets or Vehicles that turn based on your View Direction. and much more.\r\nNot all Modes are supported in this version, but Most of them. \r\nTo get the Full Functionality of all modes use the Fant Mod.\r\n\r\nHere the COLOR Code List of all Supported Modes:\r\n\r\nDEFAULT Color = Only Robots\r\nWHITE Color = All Units\r\nBLUE Color = Wocs and Glowbugs\r\nRED Color = Players\r\nYELLOW Color = All Except Players!\r\nBLACK Color = Other Players and not the Player Owner\r\nPURPLE Color = Aim at the Owner Aim Direction\r\nPINK Color = Aim at the Owner Aim Position\r\nLIGHTORANGE = Aim at Rocks\r\nLIGHTYELLOW = Aim at Trees\r\nLIGHTGREEN = Aim at Refine Rods\r\nLIGHTGRAY = Waypoint Follow\r\n\r\n( i hope i dont have to explain that the First Row of colors in the Paint tool are LIGHT Colors and not the Colors for the Unit Facer Modes! \r\nSo when there is written \"RED\" then it Means RED and not Light or Dark Red!!! )\r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2999989626,
 		"localId": "8dce5730-a409-4340-9c0e-210109460136",
 		"name": "Unit Facer",
@@ -32477,6 +32477,16 @@
 		"fileId": 3097956939,
 		"localId": "ec79826f-ceab-4295-b662-8a8fbd5508d8",
 		"name": "PVP Universal PT-BR",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"975ba0ce-9585-4fb8-845a-cf769346e52f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3098523797,
+		"localId": "975ba0ce-9585-4fb8-845a-cf769346e52f",
+		"name": "Fants Camera",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

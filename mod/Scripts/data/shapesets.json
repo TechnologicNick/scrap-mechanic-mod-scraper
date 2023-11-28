@@ -79711,7 +79711,8 @@
 	},
 	"8dce5730-a409-4340-9c0e-210109460136": {
 		"$CONTENT_8dce5730-a409-4340-9c0e-210109460136/Objects/Database/ShapeSets/unit_facer.shapeset": [
-			"979b2a00-dbc4-4275-8fd6-1afb5933d383"
+			"979b2a00-dbc4-4275-8fd6-1afb5933d383",
+			"01a21d10-a14c-4cd2-a0c4-8584453caabf"
 		]
 	},
 	"dca1454d-fe28-4a1e-a810-99e6c16171d2": {
@@ -86518,5 +86519,10 @@
 	},
 	"ec79826f-ceab-4295-b662-8a8fbd5508d8": {
 		"$CONTENT_ec79826f-ceab-4295-b662-8a8fbd5508d8/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"975ba0ce-9585-4fb8-845a-cf769346e52f": {
+		"$CONTENT_975ba0ce-9585-4fb8-845a-cf769346e52f/Objects/Database/ShapeSets/Fants_Camera.shapeset": [
+			"1501095a-63b3-4e93-adda-1950ef34e0df"
+		]
 	}
 }
