@@ -3977,5 +3977,10 @@
 	},
 	"472c21c8-b706-4c8f-ab6b-dd9adcf9edd7": {
 		"$CONTENT_472c21c8-b706-4c8f-ab6b-dd9adcf9edd7/Tools/Database/ToolSets/example.toolset": []
+	},
+	"ec79826f-ceab-4295-b662-8a8fbd5508d8": {
+		"$CONTENT_ec79826f-ceab-4295-b662-8a8fbd5508d8/Tools/Database/ToolSets/example.toolset": [
+			"ec79826f-ceab-4295-b662-8a8fbd5508d8"
+		]
 	}
 }
