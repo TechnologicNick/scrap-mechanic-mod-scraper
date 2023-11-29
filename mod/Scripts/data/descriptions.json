@@ -32489,5 +32489,15 @@
 		"name": "Fants Camera",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"2a5b4242-32b3-44d8-95a9-f921c10e20bc": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Mod for SComputers [Fork].\n\nIn mod I add new parts:\n-Orient block(block orientation from modpack, but for SComputers)\n\n-Aerobatic dyms(DOESN'T WORKS!)",
+		"fileId": 3098594593,
+		"localId": "2a5b4242-32b3-44d8-95a9-f921c10e20bc",
+		"name": "Scomputers [Fork] additional parts",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

@@ -82759,7 +82759,8 @@
 	},
 	"cb505061-d0e9-4764-9c62-6653b3eb896e": {
 		"$CONTENT_cb505061-d0e9-4764-9c62-6653b3eb896e/Objects/Database/ShapeSets/example.json": [
-			"d3735a5c-3cf5-4005-b55a-2850f6f66b24"
+			"8d04be16-b668-4271-8dde-ec015f69b119",
+			"279792aa-593c-4020-a2e6-6a3a5e0699c3"
 		]
 	},
 	"7ba0b6b3-15ae-4e3b-adb8-f2b493db5f63": {
@@ -86523,6 +86524,12 @@
 	"975ba0ce-9585-4fb8-845a-cf769346e52f": {
 		"$CONTENT_975ba0ce-9585-4fb8-845a-cf769346e52f/Objects/Database/ShapeSets/Fants_Camera.shapeset": [
 			"1501095a-63b3-4e93-adda-1950ef34e0df"
+		]
+	},
+	"2a5b4242-32b3-44d8-95a9-f921c10e20bc": {
+		"$CONTENT_2a5b4242-32b3-44d8-95a9-f921c10e20bc/Objects/Database/ShapeSets/example.shapeset": [
+			"5ec1dfcd-f51d-4559-8198-aee875cbfa24",
+			"ca4a5fef-065f-497b-8a9f-34e3174e8155"
 		]
 	}
 }
