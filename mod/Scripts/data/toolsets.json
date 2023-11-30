@@ -3988,5 +3988,8 @@
 		]
 	},
 	"975ba0ce-9585-4fb8-845a-cf769346e52f": {},
-	"2a5b4242-32b3-44d8-95a9-f921c10e20bc": {}
+	"2a5b4242-32b3-44d8-95a9-f921c10e20bc": {},
+	"5b1dc873-9f3e-460b-88e2-dfeec320e377": {
+		"$CONTENT_5b1dc873-9f3e-460b-88e2-dfeec320e377/Tools/Database/ToolSets/example.toolset": []
+	}
 }
