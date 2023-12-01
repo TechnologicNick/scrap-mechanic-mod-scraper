@@ -32503,5 +32503,15 @@
 		"name": "map 1000",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"5f61c9d0-9f43-42b1-8b82-f6c87c6a869a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Exotics Wacky Blocks Mod \n\nCurrent blocks included : \nSteel Alloy\n\nThis mod will be updated frequently!\n\nThis is my first time creating a mod for any game, so I hope it is somewhat good. (Ik it is basic atm) ",
+		"fileId": 3101399897,
+		"localId": "5f61c9d0-9f43-42b1-8b82-f6c87c6a869a",
+		"name": "Exotics Wacky Blocks Mod",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
