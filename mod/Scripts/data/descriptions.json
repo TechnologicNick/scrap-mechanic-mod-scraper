@@ -32246,17 +32246,12 @@
 		"custom_icons": false,
 		"dependencies": [
 			{
-				"fileId": 2504530003,
-				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
-				"name": "ModDatabase"
-			},
-			{
 				"fileId": 2809667982,
 				"localId": "6db9449a-2b49-4ee7-8711-ad91ff4119ec",
 				"name": "E"
 			}
 		],
-		"description": "The most anticipated sequel of all time!\r\nPlease like and add to favourites so this mod can survive in the algorithm!\r\n\r\nThis mod is constantly updated, so leave your feedback in the comments!\r\n\r\nBEFORE YOU PLAY!\r\nDo you want more memes?\r\nIf so install DLL mods to add more to the experience!\r\nSteps:\r\n1. Go to https://github.com/QuestionableM/SM-DLL-Injector/releases/latest\r\n2. Download DLL-Injector-Installer.exe and run it.\r\n3. Go to https://github.com/QuestionableM/SM-CustomAudioExtension/releases/latest\r\n4. Download CustomAudioExtension.dll\r\n5. Go to Scrap Mechanic in your steam library\r\n6. Press the small cogwheel on the same bar as the \"play\" button\r\n7. Go to \"manage\", then click \"bowse local files\"\r\n8. Go into the folder called \"Release\"\r\n9. In there create a new folder called \"DLLModules\"\r\n10. Move CustomAudioExtension.dll into that folder\r\n\r\nPROFIT!",
+		"description": "The most anticipated sequel of all time!\r\nPlease like and add to favourites so this mod can survive in the algorithm!\r\n\r\nThis mod is constantly updated, so leave your feedback in the comments!\r\n\r\nBEFORE YOU PLAY!\r\nDo you want more memes?\r\nIf so install DLL mods to add more to the experience!\r\nSteps:\r\n1. Go to https://github.com/QuestionableM/SM-DLL-Injector/releases/latest\r\n2. Download DLL-Injector-Installer.exe and run it.\r\n3. Go to https://github.com/QuestionableM/SM-CustomAudioExtension/releases/latest\r\n4. Download CustomAudioExtension.dll\r\n5. Go to Scrap Mechanic in your steam library\r\n6. Press the small cogwheel on the same bar as the \"play\" button\r\n7. Go to \"manage\", then click \"bowse local files\"\r\n8. Go into the folder called \"Release\"\r\n9. In there create a new folder called \"DLLModules\"\r\n10. Move CustomAudioExtension.dll into that folder\r\n\r\nPROFIT!\r\n\r\n-----------------ALL UPDATES AND PATCHONTES CAN BE FOUND BELOW-----------------\r\n  __________\r\n|>Day 0 patch<|\r\n \\_version 1.1_/\r\n● Added /switchHUD to toggle custom HUD elements\r\n● Made collision destruction less violent\r\n● Made stars in the night sky bigger to circumvent Scrap Mechanic's rendering issues\r\n● Turned off silly meter as it is unfinished\r\n● Fixed incompatibility with fant mod by disabling the fant mod (To be fixed but I'm lazy)\r\n● Added the missing \"2\" in the title that's displayed in game\r\n● Fixed collision destruction bugs",
 		"fileId": 3088910657,
 		"localId": "677c9cdc-4a3f-4523-9b3d-2602c834ceb7",
 		"name": "E Mod 2 - The video game",
@@ -32264,7 +32259,6 @@
 		"version": 0
 	},
 	"a8dadfc6-8a82-48d6-992f-72fd24838618": {
-		"allow_add_mods": true,
 		"custom_icons": false,
 		"description": "[hr][/hr]\r\n[b]The mod[b] adds various vanilla polygons with different strengths, which is extremely useful when creating vehicles.\r\n[hr][/hr]\r\nDiscord server: https://discord.gg/Vy4wC7kg[/b]",
 		"fileId": 3089730713,
