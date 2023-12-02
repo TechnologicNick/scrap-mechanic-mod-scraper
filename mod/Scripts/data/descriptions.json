@@ -30743,7 +30743,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "This Mod was co created by Xiaoqi and Xiaomo\r\n---Block size 3×3×3\r\n---Currently, all modules only have decorative functions without any interactive functions\r\n---Mod continuously updated\r\n---Module direction rotation---New Legend Mod\r\n\r\nMod version---1.4.1\r\n\r\n本Mod由小七和小默共同创作\r\n --- 方块尺寸 3×3×3\r\n --- 目前所有模块只有装饰作用 无任何交互功能\r\n --- Mod持续更新\r\n --- 模块方向旋转---传奇建造队\r\n\r\nMod版本---1.4.1\r\n\r\n反馈通道 / Feedback Channel：\r\ntzdsn3374472750@gmail.com\r\n1978598779@qq.com",
+		"description": "本Mod由小七和小默共同创作\r\n --- 方块尺寸 3×3×3\r\n --- 目前所有模块只有装饰作用 无任何交互功能\r\n --- Mod持续更新\r\n --- 模块方向旋转---传奇建造队\r\n\r\nMod版本---1.4.3\r\n\r\nThis Mod was co created by Xiaoqi and Xiaomo\r\n---Block size 3×3×3\r\n---Currently, all modules only have decorative functions without any interactive functions\r\n---Mod continuously updated\r\n---Module direction rotation---New Legend Mod\r\n\r\nMod version---1.4.3\r\n\r\n反馈通道 / Feedback Channel：\r\n1978598779@qq.com",
 		"fileId": 3002736507,
 		"localId": "b85bf84c-78b3-4d3d-8265-adfbfbc1b2ed",
 		"name": "Minecraft",
@@ -30979,10 +30979,10 @@
 				"name": "SComputers [Fork]"
 			}
 		],
-		"description": "this is a special version of SComputers for integration into challenges/customgames, unlike the original SComputers, this has an additional \"unsafe computer\" that always has unsafe-mode and printON, regardless of the user settings of the mod. also, this version of SComputers is turned on by silence (it is not required to press the YES button when logging in) and cannot be turned off\r\n\r\nVanila SComputers: https://steamcommunity.com/sharedfiles/filedetails/?id=2949350596",
+		"description": "this is a special version of SComputers for integration into challenges/customgames, unlike the original SComputers, this has an additional \"unsafe computer\" that always has unsafe-mode and printON, regardless of the user settings of the mod. also, this version of SComputers is turned on by silence (it is not required to press the YES button when logging in) and cannot be turned off\r\n\r\nif someone makes a custom game with this mod, please leave a link in the comments\r\n\r\nVanila SComputers: https://steamcommunity.com/sharedfiles/filedetails/?id=2949350596",
 		"fileId": 3009550168,
 		"localId": "c9017daa-0898-445d-b1c7-03d42b5ec396",
-		"name": "SComputers [Integrable]",
+		"name": "SComputers Integrable [Fork]",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
