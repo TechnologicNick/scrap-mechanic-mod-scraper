@@ -3992,5 +3992,8 @@
 	"5b1dc873-9f3e-460b-88e2-dfeec320e377": {
 		"$CONTENT_5b1dc873-9f3e-460b-88e2-dfeec320e377/Tools/Database/ToolSets/example.toolset": []
 	},
-	"5f61c9d0-9f43-42b1-8b82-f6c87c6a869a": {}
+	"5f61c9d0-9f43-42b1-8b82-f6c87c6a869a": {},
+	"55964826-34ce-40bd-95d2-99313b1f3887": {
+		"$CONTENT_55964826-34ce-40bd-95d2-99313b1f3887/Tools/Database/ToolSets/example.toolset": []
+	}
 }
