@@ -86620,5 +86620,18 @@
 	},
 	"55964826-34ce-40bd-95d2-99313b1f3887": {
 		"$CONTENT_55964826-34ce-40bd-95d2-99313b1f3887/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"22de8c6f-3260-4566-8f13-32bd07138bc1": {
+		"$CONTENT_22de8c6f-3260-4566-8f13-32bd07138bc1/Objects/Database/ShapeSets/music.json": [
+			"87028f33-af0c-4373-8b93-9bacb56ab6f1",
+			"ad42a7e5-21eb-4f86-9906-446ebd29291c",
+			"43490218-89ce-447d-99b4-7bc986f19647",
+			"38263144-0b5e-4c3d-ace9-7ef30c8b79d9"
+		]
+	},
+	"303f382a-fe2b-407f-819a-79e4b272fdda": {
+		"$CONTENT_303f382a-fe2b-407f-819a-79e4b272fdda/Objects/Database/ShapeSets/xeriCrosshairs.shapeset": [
+			"303f382a-fe2b-407f-819a-79e4b272fdda"
+		]
 	}
 }
