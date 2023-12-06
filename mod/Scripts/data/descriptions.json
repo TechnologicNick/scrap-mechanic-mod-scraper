@@ -32554,5 +32554,15 @@
 		"name": "S.C.R.A.P.K.E.R. Mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"a2425879-2256-4b93-b0b8-f4f78b0ee144": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "hooks classes so mods dont have to!",
+		"fileId": 3106598997,
+		"localId": "a2425879-2256-4b93-b0b8-f4f78b0ee144",
+		"name": "Hook API",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
