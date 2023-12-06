@@ -35827,7 +35827,8 @@
 	"6db9449a-2b49-4ee7-8711-ad91ff4119ec": {
 		"$CONTENT_6db9449a-2b49-4ee7-8711-ad91ff4119ec/Objects/Database/ShapeSets/blocks.shapeset": [
 			"29e60243-5b1e-4bb1-bb0b-b00bce07f509",
-			"bffad3d2-4b79-4287-9a43-bba7987650dd"
+			"bffad3d2-4b79-4287-9a43-bba7987650dd",
+			"828bc42c-1f4a-4417-9d47-8fdcb67ff80e"
 		],
 		"$CONTENT_6db9449a-2b49-4ee7-8711-ad91ff4119ec/Objects/Database/ShapeSets/parts.shapeset": [
 			"99e7b2b9-b760-4273-ada0-b15d8d93a120",
@@ -54358,8 +54359,7 @@
 			"324654fc-45e6-4dad-b8e0-70f042e82bc3",
 			"36a903fc-0b0e-4298-a0a5-f932ba45c808",
 			"0fa1181d-eec7-4ad6-9944-7aa14fb5b41f",
-			"3e18648c-acac-4362-a395-080eb9eb3f04",
-			"3e18648c-acac-4362-a395-080eb9eb3f05"
+			"3e18648c-acac-4362-a395-080eb9eb3f04"
 		]
 	},
 	"031297f2-01a0-4a94-aefc-6ea1059ab77d": {
@@ -85299,38 +85299,10 @@
 		]
 	},
 	"677c9cdc-4a3f-4523-9b3d-2602c834ceb7": {
-		"$CONTENT_677c9cdc-4a3f-4523-9b3d-2602c834ceb7/Objects/Database/ShapeSets/blocks.shapeset": [
-			"29e60243-5b1e-4bb1-bb0b-b00bce07f509",
-			"bffad3d2-4b79-4287-9a43-bba7987650dd"
-		],
 		"$CONTENT_677c9cdc-4a3f-4523-9b3d-2602c834ceb7/Objects/Database/ShapeSets/enemies.shapeset": [
 			"c6e64537-cbfe-4039-ad0b-73ec22d3727c",
 			"8df36720-5446-4c9a-96ad-98247a0a67a3",
 			"fc7920ef-7ea3-4e2a-8b86-a18781505c87"
-		],
-		"$CONTENT_677c9cdc-4a3f-4523-9b3d-2602c834ceb7/Objects/Database/ShapeSets/VehicleLights.shapeset": [
-			"3f691444-554e-48ad-840b-8e84c82b659b",
-			"f2f78340-286b-457c-9bc4-feb7896fbbc0"
-		],
-		"$CONTENT_677c9cdc-4a3f-4523-9b3d-2602c834ceb7/Objects/Database/ShapeSets/VehicleTwo.shapeset": [
-			"e7dcdeb1-3667-4829-ad77-5bcc38c6f1f4",
-			"d38ef0d8-3f26-4fb8-ae24-fc869dd27cfd",
-			"27bd869f-bccb-471f-8c75-c0ba401e9bda",
-			"ae7f01db-5b37-48b8-a6ed-00d3c0a6372c",
-			"8483343d-ce68-4a1f-a807-f4c6e399d10a",
-			"f737addd-42a8-4446-9117-01bb9db3e273",
-			"36cc89b0-01d2-419c-80d9-e38c22cd0cb1",
-			"a053d5b7-f745-465e-87ac-97725e2ac984",
-			"c195c3ca-17ba-4684-8173-1eb92715fc72",
-			"4b55462e-976a-4cfc-b2fd-7b7a90f31813",
-			"71b2a025-d5ed-44cb-98f5-9e82517a9c04",
-			"db8c6146-8e90-440e-9099-36e3eedd1b78",
-			"56a7a237-a3b2-4f31-a061-83de75afd9a2",
-			"eeb0d743-486c-4441-a0b9-b2a2230ad0d4",
-			"975e4770-41c4-4343-9435-cef1e85c0b01",
-			"ba83357d-db8f-4b41-9e08-145f0f82f263",
-			"455c0d71-757d-47a4-91d1-0adcc8c87f56",
-			"b6e916dd-280c-4840-97d2-116ec32d5976"
 		],
 		"$CONTENT_677c9cdc-4a3f-4523-9b3d-2602c834ceb7/Objects/Database/ShapeSets/override_vanilla/chests.shapeset": [
 			"ad35f7e6-af8f-40fa-aef4-77d827ac8a8a",
@@ -86633,5 +86605,6 @@
 		"$CONTENT_303f382a-fe2b-407f-819a-79e4b272fdda/Objects/Database/ShapeSets/xeriCrosshairs.shapeset": [
 			"303f382a-fe2b-407f-819a-79e4b272fdda"
 		]
-	}
+	},
+	"74a8fb9e-32aa-45a3-b8be-f9c07dc9c028": {}
 }
