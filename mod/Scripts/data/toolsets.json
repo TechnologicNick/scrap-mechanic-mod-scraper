@@ -4002,5 +4002,11 @@
 		"$CONTENT_a2425879-2256-4b93-b0b8-f4f78b0ee144/Tools/Database/ToolSets/example.toolset": [
 			"0669c469-eb6a-453b-9fcc-486c497460fa"
 		]
-	}
+	},
+	"aa4e79af-3e54-4ef8-8d4c-a5bf7516fef6": {
+		"$CONTENT_aa4e79af-3e54-4ef8-8d4c-a5bf7516fef6/Tools/Database/ToolSets/example.toolset": [
+			"2e11cf46-2845-4de9-92de-eec08505ba4a"
+		]
+	},
+	"97d4261d-b6bb-4b02-af07-3afd4969adb8": {}
 }

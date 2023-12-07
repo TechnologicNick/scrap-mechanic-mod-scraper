@@ -32564,5 +32564,32 @@
 		"name": "Hook API",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"aa4e79af-3e54-4ef8-8d4c-a5bf7516fef6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3106598997,
+				"localId": "a2425879-2256-4b93-b0b8-f4f78b0ee144",
+				"name": "Hook API"
+			}
+		],
+		"description": "Allows you to interact with scripted shapes from a far ways away.",
+		"fileId": 3107339755,
+		"localId": "aa4e79af-3e54-4ef8-8d4c-a5bf7516fef6",
+		"name": "Extended Reach",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"97d4261d-b6bb-4b02-af07-3afd4969adb8": {
+		"allow_add_mods": false,
+		"custom_icons": false,
+		"description": "A sort of modpack for some tweaks that Kerman likes.",
+		"fileId": 3107362467,
+		"localId": "97d4261d-b6bb-4b02-af07-3afd4969adb8",
+		"name": "Kerman's Tweaks",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
