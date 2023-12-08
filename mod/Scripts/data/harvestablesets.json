@@ -1669,5 +1669,8 @@
 		"$CONTENT_97d4261d-b6bb-4b02-af07-3afd4969adb8/Harvestables/Database/HarvestableSets/hvs_farmables.harvestableset": [
 			"046a8ac8-300b-4e52-91f7-0912d53b2955"
 		]
+	},
+	"1077d620-4110-4931-adb7-48ddaca7ec58": {
+		"$CONTENT_1077d620-4110-4931-adb7-48ddaca7ec58/Harvestables/Database/HarvestableSets/example.harvestableset": []
 	}
 }
