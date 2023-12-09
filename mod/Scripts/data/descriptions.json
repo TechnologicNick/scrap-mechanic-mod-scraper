@@ -32611,5 +32611,15 @@
 		"name": "Heavy parts",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"964498a2-4f2b-4c65-879c-da797ed6b13f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3109418230,
+		"localId": "964498a2-4f2b-4c65-879c-da797ed6b13f",
+		"name": "Fixed First View",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
