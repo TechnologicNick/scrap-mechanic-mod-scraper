@@ -4020,5 +4020,11 @@
 		"$CONTENT_964498a2-4f2b-4c65-879c-da797ed6b13f/Tools/Database/ToolSets/tool.toolset": [
 			"c08fc1a0-3b11-456a-a67a-fe85e222f331"
 		]
+	},
+	"1a953ae5-2279-4dc9-a870-79428403eab5": {},
+	"7f6be7f4-b4c3-40d0-9d61-4f682453def7": {
+		"$CONTENT_7f6be7f4-b4c3-40d0-9d61-4f682453def7/Tools/Database/ToolSets/AutoTools.toolset": [
+			"d980d11b-f302-49de-a918-995861c8eb7d"
+		]
 	}
 }

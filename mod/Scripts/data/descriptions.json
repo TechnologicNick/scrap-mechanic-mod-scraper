@@ -32621,5 +32621,25 @@
 		"name": "Fixed First View",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"1a953ae5-2279-4dc9-a870-79428403eab5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Special mod for new year and christmas",
+		"fileId": 3110300626,
+		"localId": "1a953ae5-2279-4dc9-a870-79428403eab5",
+		"name": "Papermod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"7f6be7f4-b4c3-40d0-9d61-4f682453def7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "",
+		"fileId": 3110483114,
+		"localId": "7f6be7f4-b4c3-40d0-9d61-4f682453def7",
+		"name": "ScrapMechanic-Editor",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
