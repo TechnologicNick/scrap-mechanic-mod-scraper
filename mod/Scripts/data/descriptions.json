@@ -14972,7 +14972,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"description": "[h1]【当前版本】[/h1]\r\nLegend Survival Custom Game [b]3.2.2[/b]\r\n\r\n[h1]【适配游戏版本】[/h1]\r\nScrap Mechanic [b]0.6.2[/b]\r\n\r\n[h1]【关于Mod】[/h1]\r\n欢迎各位机械师订阅由 [b]中国[/b] 玩家团队：[b]传奇建造队[/b] 制作的传奇生存自定义游戏。这是一个将传奇Mod创造的物品加入生存模式的自定义游戏，可以满足生存建造的绝大部分需要。本Mod包含：材质方块、各种几何体、各种可互动零件、各种车辆轮胎、载具零件、威力强大的武器、各种装饰、自然景物装饰、建筑零件 和独特的传奇零件。你可以通过收集各种不同的材料并用锻造机器人合成或与商人交易来获得这些物品！\r\n\r\n[h1]【使用视频教程】[/h1]\r\nhttps://www.bilibili.com/video/BV1Ka4y1x7Vr\r\n\r\n[h1]【特别感谢】[/h1]\r\n感谢Modpack作者Durf对Mod体积优化的建议！\r\n以及MJM Mod提供的开源座椅脚本!\r\n\r\n[h1]【支持语言】[/h1]\r\n[list]\r\n[*]简体中文 Chinese\r\n[*]英语 English\r\n[/list]\r\n\r\n[h1]【其他Mod】[/h1]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=881252559] 传奇Mod（创造模式） [/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2716762412] 传奇地形资产Mod [/url]\r\n\r\n[h1]【我们的视频频道】[/h1]\r\nB站: http://space.bilibili.com/25427038\r\n微博：https://weibo.com/u/5507869196\r\n抖音：https://v.douyin.com/JxXUuNn/\r\n快手：http://www.gifshow.com/s/qWgnmWqf\r\n\r\n[h1]【我们的QQ交流群】[/h1]\r\n传奇建造队交流一群 537532878\r\n传奇建造队交流二群 158484814\r\n传奇建造队交流三群 474178046\r\n传奇建造队交流四群 633703984",
-		"fileId": 2815418786,
+		"fileId": 3111285012,
 		"localId": "a08cf5ea-0044-4892-b66f-c3f6bee7ce3a",
 		"name": "Legend Survival Custom Game",
 		"type": "Custom Game",
@@ -32661,5 +32661,25 @@
 		"name": "1234",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"2876c65d-9672-4bae-81f3-999eaed118a2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "FERRARI",
+		"fileId": 3110724764,
+		"localId": "2876c65d-9672-4bae-81f3-999eaed118a2",
+		"name": "abova 2",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"bccef858-b7e8-43f2-b68e-4627d8a0aee2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "ПВП СРАЖЕНИЯ В ПОДЗЕМКЕ дена",
+		"fileId": 3111307158,
+		"localId": "bccef858-b7e8-43f2-b68e-4627d8a0aee2",
+		"name": "DEN KILL",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
