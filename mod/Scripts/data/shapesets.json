@@ -84671,7 +84671,10 @@
 		"$CONTENT_090bc798-aca2-44e6-b57c-76c0a6986e32/Objects/Database/ShapeSets/Weapons.shapeset": [
 			"967bdaf1-3c00-4f52-b43c-02379d2e095c",
 			"e6c0634f-47ff-4b21-817b-747bd679f682",
-			"8346bdba-0d4f-403f-81ec-bd876096def2"
+			"8346bdba-0d4f-403f-81ec-bd876096def2",
+			"a8af6c64-6b7b-4eb7-b1c0-ee9f70a1662b",
+			"3dfe6190-ef0f-4693-ae94-b87239676fbf",
+			"c39ad2f4-c139-4984-a009-8ab77632217d"
 		]
 	},
 	"8ec0b0e1-b0ab-4f34-ae1c-59ad47c6e5ec": {
@@ -86770,5 +86773,19 @@
 	},
 	"7f6be7f4-b4c3-40d0-9d61-4f682453def7": {
 		"$CONTENT_7f6be7f4-b4c3-40d0-9d61-4f682453def7/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"9acc4a8e-436c-495a-950c-60c3e2fcca86": {
+		"$CONTENT_9acc4a8e-436c-495a-950c-60c3e2fcca86/Objects/Database/ShapeSets/example.shapeset": [
+			"1907bdb1-4233-4a14-98b7-452f4b4cef2a",
+			"1907bdb1-4233-4a14-98b7-452f4b4cef2a",
+			"f0cbf270-774c-481a-ad71-c4abbc613a29",
+			"fc360d0d-4115-40c1-bbdd-dbc35b470ebf",
+			"c5fdfa47-9e9a-4470-9a41-421837e7868c"
+		]
+	},
+	"29497fa3-a3fb-4b20-a80d-6f5508ccb4a5": {
+		"$CONTENT_29497fa3-a3fb-4b20-a80d-6f5508ccb4a5/Objects/Database/ShapeSets/example.shapeset": [
+			"820984d4-e1c8-4bf9-a0e1-81d5b46af0e3"
+		]
 	}
 }

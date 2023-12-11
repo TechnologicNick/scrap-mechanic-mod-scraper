@@ -32034,7 +32034,7 @@
 				"localId": "c0344d93-7492-46c8-88be-a61699e57041"
 			}
 		],
-		"description": "[i][h1]Cannons Pack Ricochets and Penetrations Addon.[/h1]\r\n\r\n[hr][/hr]\r\n[b]THE MOD ADDES THREE NEW GUNS, BUT YOU MUST INSTALL THE REGULAR CANNONS PACK\r\n\r\nМОД ДОБАВЛЯЕТ ТРИ НОВЫЕ ПУШКИ, НО ОБЯЗАТЕЛЬНО УСТАНОВИТЬ ОБЫЧНЫЙ КЭНОНС ПАК[/b]\r\n\r\n[hr][/hr]\r\n[b]Videos in Russian about this mod:(u can use subtitles)[/b]\r\n\r\nhttps://youtu.be/3U-BDA4Cpbo\r\nhttps://youtu.be/h25sNP1Jy_A\r\n\r\n[hr][/hr]\r\n[h3] Ricochet Developers: [/h3]\r\n  [b]Scripts:[/b]\r\n    [u]Heterty[/u](All new scripts, Rus/Eng/Ger translation, General development, etc.)\r\n    [u]Questionable Mark[/u](Help with Raycasts, made a base for mod)\r\n\r\n  [b]Logic:[/b]\r\n    [u]Sporling, Alevirex[/u](Maths formulas)\r\n\r\n  [b]Other:[/b]\r\n    [u]Driver[/u](Polish translation)\r\n\r\n[hr][/hr]\r\n[h3] Penetrations and shrapnels developers: [/h3]\r\n\r\n[b]All:[/b]\r\n[u]Heterty[/u]\r\n\r\n3d models of shrapnels was taken from the Machine Gun Pack mod\r\n\r\n[hr][/hr]\r\n[h3]Info:[/h3]\r\n   [b]Minimum projectile force to ricochet - 71 m/s(don't forget about speed loss)[/b]\r\n\r\n[b]Ricochet Chance(0-1)[/b]\r\n     A [u]given number[/u] makes the chance of a ricochet which depends on the angle and randomness.\r\n[b]Ricochet Angle[/b]\r\n     Minimum ricochet angle [u](large)[/u]\r\n\r\n [b]Expl.lvl falls with distance[/b]\r\n     This logical parameter allows the explosion level to decrease with distance\r\n [b]Expl.lvl falls with angle[/b]\r\n     This logical parameter allows the explosion level to decrease with angle\r\n\r\n [b]Coef. Expl. Lvl fall with distance[/b]\r\n     This coefficient is the cosine of the specified number, and affects how much Expl.Lvl drops with distance\r\n [b]Coef. Expl. Lvl angle fall[/b]\r\n     This coefficient is the multiplier by which the drop in armor penetration due to the slope of the armor is multiplied.\r\n [b]Shell normalization[/b]\r\n     The entered parameter is the angle by which the projectile rotates when penetrating towards the armor.\r\n\r\n [b]Ignore durab. lvl. (X) and less(Not finished)[/b]\r\n     This value is the shape of what strength, inclusive, the projectile will ignore and fly through\r\n [b]Penetration(Not finished)[/b]\r\n     The indicated value is how many blocks the projectile is capable of penetrating (do not forget about the loss of explosion Lvl)\r\n\r\n[hr][/hr]\r\n[h3]Shrapnels[/h3]\r\n\r\n[b]Spawn shrapnels after expl.[/b]\r\nThis Boolean parameter enables or disables the creation of fragments after an explosion\r\n[b]Rot. shr. against the surface[/b]\r\nThis logical parameter causes the fragments to fly in the opposite direction from the surface.\r\n[b]Smart shrapnel rotation[/b]\r\nThis logical parameter makes it so that fragments bounce off on all surfaces except blocks, and fly inside when they see blocks\r\n\r\n[b]Shrapnels count[/b]\r\nNumber of spawned fragments\r\n[b]Shrapnels speed(m/s)[/b]\r\nFragment speed (with slight spread)\r\n\r\n[b]Shrapnels damage[/b]\r\nDamage to unit or character from a fragment\r\n[b]Shrapnels spread(degrees)[/b]\r\nScattering of fragments, without turning on the \"Rot. shr. against the surface\" it is better to set the spread to 360\r\n\r\n[b]Exp. lvl. before shrapnels spawn[/b]\r\nThe explosion level of the explosion before the fragments spawn (the effect is determined depending on the radius)\r\n[b]Exp. rad. before shrapnels spawn[/b]\r\nExplosion radius of the explosion before the fragments spawn (the effect is determined depending on the radius)\r\n\r\n[b]Min. proj. speed to spawn shrap.[/b]\r\nMinimum projectile speed for fragment spawning\r\n[b]Min. proj. speed to penetration.[/b]\r\nMinimum projectile speed to penetrate\r\n\r\n[hr][/hr]\r\n[b]All questions about mod - Discord: heterty[/b][/i]\r\n[b]Funding - Project Overloaded.\r\nDiscord: alevirex[/b]",
+		"description": "[i][h1]Cannons Pack Ricochets and Penetrations Addon.[/h1]\r\n\r\n[hr][/hr]\r\n[b]THE MOD ADDES THREE NEW GUNS, BUT YOU MUST INSTALL THE REGULAR CANNONS PACK\r\n\r\nМОД ДОБАВЛЯЕТ ТРИ НОВЫЕ ПУШКИ, НО ОБЯЗАТЕЛЬНО УСТАНОВИТЬ ОБЫЧНЫЙ КЭНОНС ПАК[/b]\r\n\r\n[hr][/hr]\r\n[b]Videos in Russian about this mod:(u can use subtitles)[/b]\r\n\r\nhttps://youtu.be/3U-BDA4Cpbo\r\nhttps://youtu.be/h25sNP1Jy_A\r\n\r\n[hr][/hr]\r\n[h3] Ricochet Developers: [/h3]\r\n  [b]Scripts:[/b]\r\n    [u]Heterty[/u](All new scripts, Rus/Eng/Ger translation, General development, etc.)\r\n    [u]Questionable Mark[/u](Help with Raycasts, made a base for mod)\r\n\r\n  [b]Logic:[/b]\r\n    [u]Sporling, Alevirex[/u](Maths formulas)\r\n\r\n  [b]Other:[/b]\r\n    [u]Driver[/u](Polish translation)\r\n\r\n[hr][/hr]\r\n[h3] Penetrations and shrapnels developers: [/h3]\r\n\r\n[b]All:[/b]\r\n[u]Heterty[/u]\r\n\r\n3d models of shrapnels was taken from the Machine Gun Pack mod\r\n\r\n[hr][/hr]\r\n[h3]Info:[/h3]\r\n   [b]Minimum projectile force to ricochet - 71 m/s(don't forget about speed loss)[/b]\r\n\r\n[b]Ricochet Chance(0-1)[/b]\r\n     A [u]given number[/u] makes the chance of a ricochet which depends on the angle and randomness.\r\n[b]Ricochet Angle[/b]\r\n     Minimum ricochet angle [u](large)[/u]\r\n\r\n [b]Expl.lvl falls with distance[/b]\r\n     This logical parameter allows the explosion level to decrease with distance\r\n [b]Expl.lvl falls with angle[/b]\r\n     This logical parameter allows the explosion level to decrease with angle\r\n\r\n [b]Coef. Expl. Lvl fall with distance[/b]\r\n     This coefficient is the cosine of the specified number, and affects how much Expl.Lvl drops with distance\r\n [b]Coef. Expl. Lvl angle fall[/b]\r\n     This coefficient is the multiplier by which the drop in armor penetration due to the slope of the armor is multiplied.\r\n [b]Shell normalization[/b]\r\n     The entered parameter is the angle by which the projectile rotates when penetrating towards the armor.\r\n\r\n [b]Ignore durab. lvl. (X) and less(Not finished)[/b]\r\n     This value is the shape of what strength, inclusive, the projectile will ignore and fly through\r\n [b]Penetration(Not finished)[/b]\r\n     The indicated value is how many blocks the projectile is capable of penetrating (do not forget about the loss of explosion Lvl)\r\n\r\n[hr][/hr]\r\n[h3]Shrapnels[/h3]\r\n\r\n[b]Spawn shrapnels after expl.[/b]\r\nThis Boolean parameter enables or disables the creation of fragments after an explosion\r\n[b]Rot. shr. against the surface[/b]\r\nThis logical parameter causes the fragments to fly in the opposite direction from the surface.\r\n[b]Smart shrapnel rotation[/b]\r\nThis logical parameter makes it so that fragments bounce off on all surfaces except blocks, and fly inside when they see blocks\r\n\r\n[b]Shrapnels count[/b]\r\nNumber of spawned fragments\r\n[b]Shrapnels speed(m/s)[/b]\r\nFragment speed (with slight spread)\r\n\r\n[b]Shrapnels damage[/b]\r\nDamage to unit or character from a fragment\r\n[b]Shrapnels spread(degrees)[/b]\r\nScattering of fragments, without turning on the \"Rot. shr. against the surface\" it is better to set the spread to 360\r\n\r\n[b]Exp. lvl. before shrapnels spawn[/b]\r\nThe explosion level of the explosion before the fragments spawn (the effect is determined depending on the radius)\r\n[b]Exp. rad. before shrapnels spawn[/b]\r\nExplosion radius of the explosion before the fragments spawn (the effect is determined depending on the radius)\r\n\r\n[b]Min. proj. speed to spawn shrap.[/b]\r\nMinimum projectile speed for fragment spawning\r\n[b]Min. proj. speed to penetration.[/b]\r\nMinimum projectile speed to penetrate\r\n\r\n[hr][/hr]\r\n[b]All questions about mod - Discord: heterty[/b][/i]\r\n[b]Funding - Project Overloaded.\r\nDiscord: alevirex[/b]\r\n[b]Discord Server:\r\nhttps://discord.gg/m5KkGqYxpX\r\n[/b]",
 		"fileId": 3061776084,
 		"localId": "090bc798-aca2-44e6-b57c-76c0a6986e32",
 		"name": "Cannons Pack Ricochets and Penetrations",
@@ -32583,9 +32583,9 @@
 		"version": 1
 	},
 	"97d4261d-b6bb-4b02-af07-3afd4969adb8": {
-		"allow_add_mods": false,
+		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "A sort of modpack for some tweaks that Kerman likes.",
+		"description": "A sort of modpack for some tweaks that Kerman likes.\n\n* Support for Modded Craftbot Recipies\n* No Garment Boxes\n* Clams destructible with force.\n* Lootcrates destructible with force.\n* Beehive destructible with force.\n* Multi-player bed patch\n* Multi-tile raid/big base fix\n* Invariant protection for abused functions.",
 		"fileId": 3107362467,
 		"localId": "97d4261d-b6bb-4b02-af07-3afd4969adb8",
 		"name": "Kerman's Tweaks",
@@ -32639,6 +32639,26 @@
 		"fileId": 3110483114,
 		"localId": "7f6be7f4-b4c3-40d0-9d61-4f682453def7",
 		"name": "ScrapMechanic-Editor",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"9acc4a8e-436c-495a-950c-60c3e2fcca86": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "VLAD BLOCKS  ADD MOD GAMING ULTRA SKILL GAMEPLAY",
+		"fileId": 3110518829,
+		"localId": "9acc4a8e-436c-495a-950c-60c3e2fcca86",
+		"name": "VLAD GAY BLOCKS",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"29497fa3-a3fb-4b20-a80d-6f5508ccb4a5": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod adds a base fly block. add it to a creation and watch it be static in place until you remove the block :D!",
+		"fileId": 3110662882,
+		"localId": "29497fa3-a3fb-4b20-a80d-6f5508ccb4a5",
+		"name": "1234",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
