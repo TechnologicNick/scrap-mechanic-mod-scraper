@@ -65070,7 +65070,6 @@
 			"f3a2d5e3-70c9-4d76-bdb5-f5ccd2403a25",
 			"c83e0e11-6ac1-48fb-a2c6-256f8128b4a6",
 			"6f7bd3f2-1be2-47ad-a778-5be60778cfb2",
-			"50569acb-7911-4fb5-b738-8e5296a6eadf",
 			"fb43bd75-7e24-4054-bb65-ce247fb3400b",
 			"9b046798-22c6-4de9-9117-fefa10b15c00",
 			"7936702f-092a-4b02-9794-f51abbb42a9f",
@@ -65080,8 +65079,6 @@
 			"f9c63827-0e63-4ed0-b377-5c2d18d8e3e4",
 			"eb60707f-f3b2-4381-bc75-a794a9dc70b8",
 			"13d52b7b-6159-4925-a9f1-7e88c9a4ceb0",
-			"b33253db-67e3-45f8-9a3f-4c16a3ea3fdd",
-			"ef241100-53f7-440d-9576-d3c6ef25e7fb",
 			"773d90ee-2f5e-4415-998c-90f4cfe12a77",
 			"f33d5c9a-61f2-418c-9e78-9230794001b0",
 			"5dfeacad-524f-4913-9490-5cae6265dedc"
@@ -65092,6 +65089,11 @@
 			"5123feac-7a92-45bd-8935-d1342d27cb04",
 			"a33417df-19f3-4fef-8595-0efc6ae15e5b",
 			"d4bf6cb5-17af-491b-abbc-f6492ae5e03c"
+		],
+		"$CONTENT_3aeb81c2-71b9-45a1-9479-1f48f1e8ff21/Objects/Database/ShapeSets/skins.json": [
+			"b33253db-67e3-45f8-9a3f-4c16a3ea3fdd",
+			"ef241100-53f7-440d-9576-d3c6ef25e7fb",
+			"50569acb-7911-4fb5-b738-8e5296a6eadf"
 		],
 		"$CONTENT_3aeb81c2-71b9-45a1-9479-1f48f1e8ff21/Objects/Database/ShapeSets/tools.json": [
 			"abb7eb4d-67d1-400d-a1e6-48e3ae50b0e7",
@@ -86855,7 +86857,8 @@
 			"c8a7484e-d3f8-48af-bc08-38fc8c21a6ce",
 			"a18ecb6f-fce3-4a58-b6c0-76f7e8694c63",
 			"df702327-fd6d-4b5e-b80e-cdea22b4fbe8",
-			"e5eb50df-b3ba-402c-b583-84a1b3b91b60"
+			"e5eb50df-b3ba-402c-b583-84a1b3b91b60",
+			"b9b19dda-93c2-4f97-bad5-f1df479927fe"
 		]
 	},
 	"1b8f0cf0-e874-44f1-9bc7-a8e31ffefc0b": {
