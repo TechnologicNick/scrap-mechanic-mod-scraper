@@ -32721,5 +32721,15 @@
 		"name": "Simple Gyro",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"00e6b4ca-6fe5-469c-9d60-f821f23dd5de": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Beta version",
+		"fileId": 3114431069,
+		"localId": "00e6b4ca-6fe5-469c-9d60-f821f23dd5de",
+		"name": "SCRAP THUNDER",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
