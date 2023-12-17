@@ -32467,7 +32467,7 @@
 	"ec79826f-ceab-4295-b662-8a8fbd5508d8": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "PVP Universal funciona em qualquer* modo de jogo\n\nPor: DR Pixel Plays\nTradução: IceNunes",
+		"description": "PVP Universal funciona em qualquer* modo de jogo\r\n\r\n- Vida máxima aumentada pra 125;\r\n- Adicionei mais mensagens de morte.\r\n\r\nPor: DR Pixel Plays\r\nTradução: IceNunes",
 		"fileId": 3097956939,
 		"localId": "ec79826f-ceab-4295-b662-8a8fbd5508d8",
 		"name": "PVP Universal PT-BR",
@@ -32729,6 +32729,16 @@
 		"fileId": 3114431069,
 		"localId": "00e6b4ca-6fe5-469c-9d60-f821f23dd5de",
 		"name": "SCRAP THUNDER",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"757437ea-c37c-4809-b6b6-fc50341423d7": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 3115559184,
+		"localId": "757437ea-c37c-4809-b6b6-fc50341423d7",
+		"name": "Tapebot parts mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
