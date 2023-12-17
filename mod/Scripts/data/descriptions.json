@@ -32741,5 +32741,27 @@
 		"name": "Tapebot parts mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"863c6aa8-903e-4fde-9ed9-764beed9e9eb": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 3034798971,
+				"localId": "ec93cac2-081d-4f9e-ac1b-6c0015908463",
+				"name": "Chapter2Mod"
+			},
+			{
+				"fileId": 3031285513,
+				"localId": "b24ea7d6-c16b-4c55-89a4-3cadce7b42a2",
+				"name": "Chapter2Assets"
+			}
+		],
+		"description": "Hi Mechanics!\r\nYou waited so long, and here it is: Chapter 2, but remember this is still in alpha and may have a few bugs.. Unfortunately, we are not confident the wait was worth it, as this is only a minor extension to the survival release.\r\n\r\nAdded bots:\r\ncablebot\r\ngreen tapebot\r\nyellow tapebot\r\nred totebot\r\nyellow totebot\r\nblue totebot\r\nscrapbot\r\n\r\nAdded Commands:\r\n/cheats (enables cheats)\r\n\r\nAdded Spawns:\r\n/spawn tr/totered/red\r\n/spawn ty/toteyellow/yellow\r\n/spawn tb/toteblue/blue\r\n/spawn cable/cablebot\r\n/spawn gtb/greentapebot\r\n/spawn ytb/yellowtapebot\r\n/spawn s/scrapbot\r\n\r\nBOT SPAWNS ARE BROKEN FOR RN:\r\nLIST OF UUIDS (/spawn UUID):\r\nyellow tapebot - 3e2615f0-5b24-4018-8a08-f747d9aa26f2\r\ngreen tapebot - df6a0f59-ace4-4409-ad83-435b0705747a\r\nred totebot - e192191e-79aa-4532-ae05-2dd223ed123b\r\nyellow totebot - e2adab02-4ff3-4580-9522-319239b3c7e2\r\nblue totebot - e6380572-7261-4c12-9cad-807e8d495b95\r\nscrapbot - 2aef5a4b-8369-470e-9aaf-1552e190c4a8\r\ntrashbot [wip] - 07bf7bd1-478b-44f8-b1d3-c96a9fbe7ffc\r\ncablebot - 99c9633a-0d8d-4c78-b028-741158819aa7\r\nminiwoc - 89644b11-ba79-44f0-a35c-6d2218726674\r\n\r\n\r\n\r\n\r\nScrapyard added (findable on map, just look for it).\r\nAdded correct lighting to trader.\r\nAdded custom crafting and trades.\r\nAdded totebot in mechanic station, and broken tube out the front.\r\nNew bots now spawn on some* tiles.\r\nAdded Desert Ravine cliff type thing\r\n\r\nAdded custom cookbot recipes:\r\nAdded sunshake\r\nAdded cooked steak\r\nAdded sawbot and recipes, unlocked in mechanic station or inventory.\r\n\r\nblocks and parts:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3034798971\r\n\r\nLast Updated: 07 Oct @ 11:39am\r\n\r\n© All custom content copyright of Noiro1, all rights reserved.\r\nYou may not make edits or re-uploads without obtaining my permission, and it must give credit to the original mod via description or thumbnail.\r\n\r\nExceptions due to possibility of unintended copyright infringement:\r\nAxolot's base game code",
+		"fileId": 3035489578,
+		"localId": "863c6aa8-903e-4fde-9ed9-764beed9e9eb",
+		"name": "Survival 2nd Chapter",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
