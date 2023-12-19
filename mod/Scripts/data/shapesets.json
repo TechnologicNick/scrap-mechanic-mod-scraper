@@ -92937,5 +92937,10 @@
 			"a8a746a9-de82-4a47-bbe4-6bd2d930f00b",
 			"0ff9ca68-1e6d-4818-8982-9890266c1aeb"
 		]
+	},
+	"1b931a0b-721d-4379-a800-3c8b13a3be07": {
+		"$CONTENT_1b931a0b-721d-4379-a800-3c8b13a3be07/Objects/Database/ShapeSets/example.shapeset": [
+			"db66f0b1-0c50-4b74-bdc7-771374204b1f"
+		]
 	}
 }
