@@ -679,5 +679,45 @@
 			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
 			"009fe136-aeee-45c4-9135-006b786cfc59"
 		]
+	},
+	"e05e0ad2-0a5f-46f9-98ab-b26c0a844922": {
+		"$CONTENT_e05e0ad2-0a5f-46f9-98ab-b26c0a844922/ScriptableObjects/ScriptableObjectSets/sob_managers.sobset": [
+			"83b0cc7e-b164-47b8-a83c-0d33ba5f72ec",
+			"c6988ecb-0fc1-4d45-afde-dc583b8b75ee",
+			"64def973-2204-4379-bdd1-20ed323c4e19",
+			"abd9840e-12f0-4c3e-be9f-fa0c0c8fe5f5",
+			"6873d664-6190-4d13-a00d-e1588ff347af",
+			"36d4b5a4-326f-41bd-8e3d-251a22539d1f"
+		],
+		"$CONTENT_e05e0ad2-0a5f-46f9-98ab-b26c0a844922/ScriptableObjects/ScriptableObjectSets/sob_quests.sobset": [
+			"8be0279e-28b6-4aab-b620-586f50162c6e",
+			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
+			"e9a630d8-301b-4779-b131-3bc1969d0e1b",
+			"0f3fc2a9-4c9d-4837-a92f-d8ae1195a672",
+			"20d98ec9-c07d-4d47-b674-2aea9291dacf",
+			"503faebe-77d3-4233-b4b2-d0cc69c41d3b",
+			"8a1a5a59-535c-4ab8-a429-9d922effc329",
+			"426a79b1-53d4-4b58-8a44-be7fb6197371",
+			"009fe136-aeee-45c4-9135-006b786cfc59",
+			"4e8067e6-c969-4614-aa73-2ac6cdb8b25c",
+			"0a1d60ea-1704-4a27-a036-23ed79842544",
+			"533cd6ab-87de-434e-9e54-70d91d4bacb3",
+			"6a35d3e4-7d2a-46bd-b676-fe764f455445",
+			"6a4f7778-f1a8-4e6f-bbd7-6fef99e6edb1",
+			"d180bdf6-90c2-434b-861b-e564a9a73367",
+			"c293699e-3289-4b99-a955-247f8a25de6e",
+			"5021ac33-e8c9-4836-a250-5c88583ad751",
+			"0d4a8e90-29a2-4884-93be-cade7de81f8f",
+			"1d673a8e-ccf2-40ce-8e49-9fa73fa4c5b2",
+			"1d1a6910-2b65-46f3-9c49-642159221f6e",
+			"1f400231-b388-43ec-b8ba-166b1b18d1f3",
+			"3a1a2566-384c-47d4-833b-429c06a3a4d2",
+			"5182f97b-06c6-46b9-9507-27975749a38e",
+			"e1baaa24-7276-4595-bb2c-8841d8df3251",
+			"31ba5ea9-7a6f-4c71-af02-6d6d6b4adb2e",
+			"c97e4e48-1012-484b-9ba7-6242ec189b9b",
+			"a5227d38-5e34-405a-b1bd-f0e630662e66",
+			"8522865d-8300-428a-b39d-be1b87a45a3e"
+		]
 	}
 }
