@@ -93485,5 +93485,11 @@
 			"00a17c0d-989c-4945-af53-11adea575a47",
 			"28e08406-428b-4524-9828-ee93952f36cf"
 		]
+	},
+	"0084490e-ed39-4ac9-9047-d59c3e641f75": {
+		"$CONTENT_0084490e-ed39-4ac9-9047-d59c3e641f75/Objects/Database/ShapeSets/example.shapeset": [
+			"55c37e8f-dd51-425f-a446-8bb014f19890",
+			"4adb11bc-aeb6-40f2-86e1-d2369b324939"
+		]
 	}
 }
