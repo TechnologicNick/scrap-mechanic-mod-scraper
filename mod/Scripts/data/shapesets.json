@@ -93491,5 +93491,15 @@
 			"55c37e8f-dd51-425f-a446-8bb014f19890",
 			"4adb11bc-aeb6-40f2-86e1-d2369b324939"
 		]
+	},
+	"7bfc417a-e8ac-4904-b21a-3866cc1511ab": {
+		"$CONTENT_7bfc417a-e8ac-4904-b21a-3866cc1511ab/Objects/Database/ShapeSets/teleporter.shapeset": [
+			"4d6de726-a676-4389-b5d8-15a2d8d3878d"
+		]
+	},
+	"61e1b5c7-502e-4ea8-9e8b-e9f9680a4c75": {
+		"$CONTENT_61e1b5c7-502e-4ea8-9e8b-e9f9680a4c75/Objects/Database/ShapeSets/parts.json": [
+			"2884d524-dcbb-11ec-9d64-0242ac120002"
+		]
 	}
 }
