@@ -84675,6 +84675,7 @@
 	"7be17c48-af75-4b9d-b823-19a5aa72cfa0": {
 		"$CONTENT_7be17c48-af75-4b9d-b823-19a5aa72cfa0/Objects/Database/ShapeSets/example.shapeset": [
 			"b364008e-aaae-4dac-98cb-72ae6fb95fe8",
+			"d4e00dfd-f8ee-4ca5-bc9d-dddc89e1c09d",
 			"21b665b6-d37d-4e3a-824c-7546dab68f46",
 			"393946c7-dca2-40f5-a8a0-3163be64fd0e",
 			"f83fa83d-1e3f-4b8a-b919-2576f33fcbce",
@@ -93440,6 +93441,7 @@
 			"59f6951a-a450-42bf-ad03-54567cb70245",
 			"c96ab903-f238-4bae-a614-28a758716d00",
 			"256fde90-4225-4c22-b107-fcaabe2bec9c",
+			"de7eea5b-9262-476b-a5bb-238d0e91f81f",
 			"c4a2ffa8-c245-41fb-9496-966c6ee4648b"
 		],
 		"$CONTENT_e05e0ad2-0a5f-46f9-98ab-b26c0a844922/Objects/Database/ShapeSets/wateringcan.shapeset": [
@@ -93478,6 +93480,16 @@
 			"9d3405a1-245e-4ca4-817b-9cd8565de662",
 			"7de42327-2c52-4ed6-88d3-fe4e1003b507",
 			"f9cb2932-cabd-4562-b564-0bb5aa8fb993"
+		],
+		"$CONTENT_e05e0ad2-0a5f-46f9-98ab-b26c0a844922/Objects/Database/ShapeSets/crates.shapeset": [
+			"0bc74539-df8a-47c7-aad8-d55d809a01e4",
+			"e77d9577-589a-446b-96c1-f6d0d7495489",
+			"99477093-e819-4199-b62a-fda6143aae89",
+			"c10a77d5-3357-4cb4-8113-a2cbe69c7ff2",
+			"bc69cb3b-7e0c-4c36-805d-f8d89fcfced3",
+			"9cd8288c-5a19-479f-af47-9eb55230ade2",
+			"628fd350-577d-413f-82a8-7f08a83de3d8",
+			"1dcd74ca-39ba-4b00-a36a-3381b25055f4"
 		]
 	},
 	"6cf41b04-0d55-4f45-a731-a4619e8b2b95": {
