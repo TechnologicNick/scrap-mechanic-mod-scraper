@@ -84676,6 +84676,10 @@
 		"$CONTENT_7be17c48-af75-4b9d-b823-19a5aa72cfa0/Objects/Database/ShapeSets/example.shapeset": [
 			"b364008e-aaae-4dac-98cb-72ae6fb95fe8",
 			"d4e00dfd-f8ee-4ca5-bc9d-dddc89e1c09d",
+			"5d9ed844-4658-4e5b-bd05-71a8d444fff3",
+			"0916268d-56f0-4608-8c04-5af12c912ec1",
+			"af8670f2-b821-4218-ae94-162c74f5eaa0",
+			"51a289a9-84c6-4cfa-b820-760405e32cc5",
 			"21b665b6-d37d-4e3a-824c-7546dab68f46",
 			"393946c7-dca2-40f5-a8a0-3163be64fd0e",
 			"f83fa83d-1e3f-4b8a-b919-2576f33fcbce",
@@ -93516,5 +93520,10 @@
 	},
 	"7fb98c8e-18ae-4cf8-aea5-cc376f0ca540": {
 		"$CONTENT_7fb98c8e-18ae-4cf8-aea5-cc376f0ca540/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"67966ead-e036-40ab-856d-2b0708c31001": {
+		"$CONTENT_67966ead-e036-40ab-856d-2b0708c31001/Objects/Database/ShapeSets/light_detector.shapeset": [
+			"c34f2f27-71fe-4547-9b16-19af6130c253"
+		]
 	}
 }
