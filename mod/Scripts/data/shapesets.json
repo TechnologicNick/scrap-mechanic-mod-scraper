@@ -21689,6 +21689,12 @@
 			"c5c6cbbb-d1b9-4b9b-a6a8-c9574a99afd0",
 			"7494c46b-fc2e-409c-90f6-ba8405868c54",
 			"6fb17309-3fdd-4816-a409-6859feb03857",
+			"e7935061-3e19-4129-a3e7-42550465fe0e",
+			"b765b0d3-8518-49f0-87f8-77d4da53b83a",
+			"caf1f617-9ba8-47c4-a58f-836916b2c979",
+			"9e90262a-ab17-400d-8257-5ffce0333634",
+			"d51d19a1-3c6d-475a-ba7d-16e372b968ae",
+			"4f1e613d-b0f2-4a3f-b2b6-28b9ae9a8d12",
 			"032bec59-c935-4c1c-9143-48dea700019b",
 			"2cbe06d9-0c7c-463f-a2e6-54b447721e58",
 			"292d19b3-4f4e-4e9a-8d43-1f81a348664a",
@@ -21701,6 +21707,9 @@
 			"f7ffc260-18e8-4789-8afe-1200ffcfe21c",
 			"be7afaaa-37f2-4912-8b55-101d889d3cea",
 			"6e936c5f-ac7b-4a79-a909-448aeb10f130",
+			"dce52850-834b-4a74-ad99-ae625b2a6d8f",
+			"1ff20e05-c4d7-4178-9a1d-5a41de8eec1f",
+			"ccccc76d-ab9a-44cb-8746-38b3d7bb13a7",
 			"f018a51c-4d84-42bd-b3a8-e1c42b97c480",
 			"231bd1d3-08f6-4d01-85aa-0721cf7084c8",
 			"01a89e44-8cde-4478-b5fa-cd32f395882f",
@@ -39079,7 +39088,8 @@
 			"cdbc2c57-8ed0-4f97-8217-40df22dca9ab",
 			"bbe2989a-b58b-4786-aff1-f63b5d88b20c",
 			"88bf60e7-e3da-487a-ad17-d18d7491676c",
-			"229c4d84-43d8-4c7f-abd8-142056df8dbf"
+			"229c4d84-43d8-4c7f-abd8-142056df8dbf",
+			"e2a2cdb1-d894-417e-b277-8f5bc5e1ca6c"
 		],
 		"$CONTENT_d9fe4eec-1449-4a84-bf99-4478a7c6dd1c/Objects/Database/ShapeSets/outfitpackage.json": [
 			"63695efd-0862-49f2-ace6-4d1758147fae",
@@ -67535,7 +67545,8 @@
 			"cdbc2c57-8ed0-4f97-8217-40df22dca9ab",
 			"bbe2989a-b58b-4786-aff1-f63b5d88b20c",
 			"88bf60e7-e3da-487a-ad17-d18d7491676c",
-			"229c4d84-43d8-4c7f-abd8-142056df8dbf"
+			"229c4d84-43d8-4c7f-abd8-142056df8dbf",
+			"e2a2cdb1-d894-417e-b277-8f5bc5e1ca6c"
 		]
 	},
 	"884e88ba-5951-4160-9467-c1a9ad4cd097": {
@@ -84688,6 +84699,8 @@
 			"0916268d-56f0-4608-8c04-5af12c912ec1",
 			"af8670f2-b821-4218-ae94-162c74f5eaa0",
 			"51a289a9-84c6-4cfa-b820-760405e32cc5",
+			"ca065df0-d5c6-4910-9337-03263d41c0ae",
+			"817e9ad9-4a97-4c89-9867-329e3a67c1a4",
 			"21b665b6-d37d-4e3a-824c-7546dab68f46",
 			"393946c7-dca2-40f5-a8a0-3163be64fd0e",
 			"f83fa83d-1e3f-4b8a-b919-2576f33fcbce",
@@ -93533,5 +93546,8 @@
 		"$CONTENT_67966ead-e036-40ab-856d-2b0708c31001/Objects/Database/ShapeSets/light_detector.shapeset": [
 			"c34f2f27-71fe-4547-9b16-19af6130c253"
 		]
+	},
+	"04925448-0b5f-499b-9bac-8c3195b26cbe": {
+		"$CONTENT_04925448-0b5f-499b-9bac-8c3195b26cbe/Objects/Database/ShapeSets/example.shapeset": []
 	}
 }
