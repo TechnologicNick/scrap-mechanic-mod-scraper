@@ -32920,5 +32920,38 @@
 		"name": "00Hustle MOD",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"f3999a70-6b44-406e-a086-eefa8f3c4938": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "This mod doesn't have a description",
+		"fileId": 3032744814,
+		"localId": "f3999a70-6b44-406e-a086-eefa8f3c4938",
+		"name": "DLC 3u I like trains",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"909070aa-088c-446c-8b1c-dfcf0c529ed4": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "KUR",
+		"fileId": 3123908240,
+		"localId": "909070aa-088c-446c-8b1c-dfcf0c529ed4",
+		"name": "PKP Train Parts and Infrastructure",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"ba19d63e-bd98-4a48-b235-91e10de6cd50": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "This mod doesn't have a description",
+		"fileId": 3123918756,
+		"localId": "ba19d63e-bd98-4a48-b235-91e10de6cd50",
+		"name": "Visible unvisible block",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
