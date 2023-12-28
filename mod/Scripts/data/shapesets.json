@@ -81380,6 +81380,11 @@
 		"$CONTENT_30a2450e-570f-4c22-91d3-ae9b11ecc636/Objects/Database/ShapeSets/Models.json": [
 			"ec9cff36-74bc-43bf-96fd-99cded599ec8"
 		],
+		"$CONTENT_30a2450e-570f-4c22-91d3-ae9b11ecc636/Objects/Database/ShapeSets/Narrow_Big_Wheel.json": [
+			"680562ae-44a8-4ce0-b6a2-cbf1d8e4ed84",
+			"fa3dcf3d-a57d-4103-8956-154e46827fc1",
+			"6d37a5c9-a12f-4c28-aaf8-772cfca6623c"
+		],
 		"$CONTENT_30a2450e-570f-4c22-91d3-ae9b11ecc636/Objects/Database/ShapeSets/OP_Parts.json": [
 			"c1963b97-f3c2-4deb-838b-389ffbca495d",
 			"fe6900c1-d79a-418a-9508-17c5a083b91b",
