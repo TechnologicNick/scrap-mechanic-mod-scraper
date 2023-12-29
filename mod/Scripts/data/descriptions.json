@@ -32980,5 +32980,15 @@
 		"name": "DPKits",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"dd935d65-acba-4c89-b100-ac9d2727a830": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "some of Lord Pain's modded parts that i use but with fixed textures and different versions of a few parts\n\npainstakingly remade everything in a seperate mod (in the mod tool), very boring\n\nhuge thanks to Lord Pain for giving me permission to make this and making all this in the first place :)\n\nif theres some parts missing, comment and ill get around to it at some point",
+		"fileId": 3018184763,
+		"localId": "dd935d65-acba-4c89-b100-ac9d2727a830",
+		"name": "Lord Pain's Mods Fixed",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
