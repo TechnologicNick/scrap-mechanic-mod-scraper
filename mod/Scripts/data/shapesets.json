@@ -66890,6 +66890,38 @@
 			"2c6fc96c-8c54-42bc-b6e6-d5a5101d3f5a",
 			"3de920dc-4a53-4be7-930f-6cee04e4626f",
 			"170708a6-3e42-4892-8d5f-f7c411fbfd97"
+		],
+		"$CONTENT_a1198287-4426-433c-9f1c-e76769d7631f/Objects/Database/ShapeSets/aviation.shapeset": [
+			"19097373-8a77-4b2b-8a36-f3068d2c5602",
+			"b9171ecb-a305-4c3d-8371-01aea3a4f613",
+			"53e155be-7d27-4e73-8bc2-71c4d12345c9",
+			"1375a0db-4031-40ca-80da-e6b20005f811",
+			"6a2b909c-ef08-4ca9-b695-1447bd0793e2",
+			"6b0ad8ef-4e28-4c2f-bb19-b37b0dd91665",
+			"71d8cac0-29d5-4631-bbdc-b0210d83841a",
+			"868f5317-6eac-4aa5-901f-8e3f6f31916b",
+			"9bafa17c-a40c-4377-81b9-69e275dca210",
+			"5332c689-0c4f-4613-bee8-355e72956057",
+			"f3762601-b9a5-4508-b54f-e566f0ddd119",
+			"566f301a-2884-41b1-8824-559ea6b05c86",
+			"5fa6b9d8-4ca6-4d6b-acfc-c43a88ac32aa",
+			"2e934a95-9f4b-46a1-bb01-6c6397eba26b",
+			"74d2e97b-869b-4253-9d59-ef47b3244eb8",
+			"0c89555a-505c-47ba-a263-252ac8236ecb",
+			"2d31eb6e-a8a5-4940-9c37-fff0b04d6ba3",
+			"492c7c60-5f32-4388-9b2c-5b9bd1e4f841",
+			"7d9de4c2-36ba-497a-b8bb-69e2ee7a17d8",
+			"32761975-8e89-4253-b029-8c18d6f98401",
+			"009fa503-7c43-448c-9c3f-7209abda8d86",
+			"b9d80012-ebd5-4490-98da-c5d99a16d30c",
+			"946bf5f0-3f21-4fe3-aba3-7bbcabe5c24d",
+			"8d8c4409-0ec4-4507-8545-e08f1cf47eaa",
+			"529ed991-92f2-4633-acb7-f95f21cb415d",
+			"9ba4d229-c7d3-4b7e-87eb-5ad553ac80bd",
+			"55fece46-f9f3-4fcf-b362-edcdbf32a82f",
+			"95237faf-f5b8-4b4e-acee-01aa93ff36b3",
+			"890518d1-060d-4294-bd12-67035d18fce4",
+			"48aa6c38-70be-448e-897b-c59dcff2338a"
 		]
 	},
 	"49a34fe6-5ace-4125-8204-60fc086e3840": {
@@ -96174,5 +96206,8 @@
 			"e165fd07-6336-46db-91b2-09e05f2e924e",
 			"8ea5765a-158c-48ac-9154-a9050741e454"
 		]
+	},
+	"fd5e47ca-a1c0-4c9c-a382-2eab4f8d388a": {
+		"$CONTENT_fd5e47ca-a1c0-4c9c-a382-2eab4f8d388a/Objects/Database/ShapeSets/example.shapeset": []
 	}
 }

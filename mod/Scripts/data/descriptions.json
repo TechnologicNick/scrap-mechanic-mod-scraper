@@ -31447,7 +31447,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "--- Better Placement ---\n\nThis mod contains a more flexible way of placing things (no blocks / joints for now) in Scrap Mechanic.\n\n-- How to use --\n\n1 - Hold the Better Placement Tool, press R\n\n2 - Hold the part you want to place, look where you want to place it\n\n3 - Select the Rotation Axis by Looking at different parts of the gizmo, Press Q (rotation key) to Rotate.\nPress R (reload key) to lock the gizmo to that spot.\n\n4 - Press and hold the primary mouse button for the positioning gizmo to show up. Press and release to just build there.\n\n5 - Move the part visualization to your desired spot by moving the cursor and pressing Q to use the vertical axis\n\n6 - Release the primary mouse button\n\n-- Settings --\n\nHold the Better Placement Tool, press Q (rotation key)\n\n-- Notes --\n\nIf you start the placement on a body (e.g. a frame) and move it over to another body (e.g. a wheel), the part will still attach to the first body (the frame). \n\nIf you build the part so that it isn't attached to the original body, it will disconnect when the body is put on a lift.\n\nThis mod is inspired by Tweakeroo's Flexible Block Placement, but the logic has been adapted to be more suitable to Scrap Mechanic.",
+		"description": "--- Better Placement ---\r\n\r\nThis mod contains a more flexible way of placing things (no blocks / joints for now) in Scrap Mechanic.\r\n\r\n-- How to use --\r\n\r\n1 - Hold the Better Placement Tool, press R to turn it on.\r\n\r\n2 - Hold the part you want to place, look where you want to place it\r\n\r\n3 - Select the Rotation Axis by Looking at different parts of the gizmo, Press Q (rotation key) to Rotate.\r\nPress R (reload key) to lock the gizmo to that spot.\r\n\r\n4 - Press and hold (For the Click & Drag setting) or Press {For the Click Twice setting) the primary mouse button for the positioning gizmo to show up.\r\n\r\n5 - Move the part visualization to your desired spot by moving the cursor and pressing Q to use the vertical axis\r\n\r\n6 - Release the primary mouse button (For the Click & Drag setting) or click it again (For the Click Twice setting)\r\n\r\n-- Settings --\r\n\r\nHold the Better Placement Tool, press Q (rotation key)\r\n\r\n-- Notes --\r\n\r\nIf you start the placement on a body (e.g. a frame) and move it over to another body (e.g. a wheel), the part will still attach to the first body (the frame). \r\n\r\nIf you build the part so that it isn't attached to the original body, it will disconnect when the body is put on a lift.\r\n\r\nAs of now, the mod only supports placing parts on parts/blocks/terrain.\r\n\r\nThis mod is inspired by Tweakeroo's Flexible Block Placement, but the logic has been adapted to be more suitable to Scrap Mechanic.",
 		"fileId": 3026384153,
 		"localId": "e0cf7499-3250-4361-9b00-ec0c09601b24",
 		"name": "Better Placement",
@@ -32988,6 +32988,16 @@
 		"fileId": 3018184763,
 		"localId": "dd935d65-acba-4c89-b100-ac9d2727a830",
 		"name": "Lord Pain's Mods Fixed",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"fd5e47ca-a1c0-4c9c-a382-2eab4f8d388a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Block Stroika Maskine",
+		"fileId": 3126493999,
+		"localId": "fd5e47ca-a1c0-4c9c-a382-2eab4f8d388a",
+		"name": "легкий блок",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
