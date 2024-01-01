@@ -31426,7 +31426,7 @@
 	"81ba61be-a052-4b42-8123-ce6fc4f88969": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Craftable component kits\n3x Refinery\nFast hand refine\nBot drop increase",
+		"description": "Trade for component kits, broccoli and pineapple\r\n3x Refinery\r\nFast hand refine\r\nBot drop increase",
 		"fileId": 3025718337,
 		"localId": "81ba61be-a052-4b42-8123-ce6fc4f88969",
 		"name": "Cock",
@@ -33008,6 +33008,36 @@
 		"fileId": 3126889270,
 		"localId": "64c9857a-dce9-4384-a1d3-efe45d7ab22f",
 		"name": "Useful Blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"7c771882-cd02-4297-9938-6dce024d7556": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "weird terrain overhaul lol",
+		"fileId": 3128310035,
+		"localId": "7c771882-cd02-4297-9938-6dce024d7556",
+		"name": "Creative Terrain Overhaul",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"7f4aac9d-3e7c-45ba-b25c-cf412cf7d2e9": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "A MOD for Xelaria, adding a 17 block wide thruster effect, called the Novius Thruster Effect",
+		"fileId": 3128339184,
+		"localId": "7f4aac9d-3e7c-45ba-b25c-cf412cf7d2e9",
+		"name": "Xelaria's Wide Thruster Effect",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1590ed4a-4cdf-4749-aded-fc398712a3cc": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "farmerparts",
+		"fileId": 3128396834,
+		"localId": "1590ed4a-4cdf-4749-aded-fc398712a3cc",
+		"name": "farmerparts",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
