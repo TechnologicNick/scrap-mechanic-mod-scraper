@@ -29503,7 +29503,7 @@
 	"a1198287-4426-433c-9f1c-e76769d7631f": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod adds health blocks. If you aim at a block, you will see its health.\n\n\nmod, scrap mechanic, block, hp, health",
+		"description": "РУС: Этот мод добавляет блоки здоровья. Если вы наведете прицел на блок, то увидите его здоровье.\nЧтобы цвет отображения хп был правильным, нужно сохранить постройку и поставить её заново.\n\nENG: This mod adds health blocks. If you aim at a block, you will see its health.\nTo get the colour of the hp display correct, you need to save the build and put it back up again.\n\n\n\nmod, scrap mechanic, block, hp, health",
 		"fileId": 2960975405,
 		"localId": "a1198287-4426-433c-9f1c-e76769d7631f",
 		"name": "Blocks With Health",
@@ -30897,7 +30897,7 @@
 		"description": "[h1]Importent[/h1]\r\n[h1]SUB TO THE REQUIED MODS.[/h1]\r\n( not add them to your world. )\r\n\r\nThis is a Full Survival Sky World. \r\nNo Ground!\r\nIf you know \"Sky Block\" from Minecraft then you will understand what this Gamemode is.\r\nAll Resources Spawn Randomly on the Floating Islands around you.\r\n\r\nFeatures:\r\n- Farming on the Floating Islands\r\n- Raids on the Floating Islands\r\n- Adjusted recipe for the Craftbot and Trader\r\n- \"/cheat\" command to enable cheats\r\n- \"/fly\" command to fly around when cheats are active\r\n\r\nPlanned Feature ( wip )\r\n- More Islands\r\n- More Recipe Balances\r\n\r\n[h1] IN CASE YOU JUST FALL INTO THE VOID [/h1]\r\n[h1] SUB THE REQUIED MODS! [/h1]\r\n( not add them to your world. )\r\n\r\n\r\nPlease Let me know in my Discord if i need to Change Something.\r\nHave Fun!\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 3006236236,
 		"localId": "a4063cc2-d4d9-492f-987a-0c9e7810c3cf",
-		"name": "Sky World",
+		"name": "Sky Mechanic",
 		"type": "Custom Game",
 		"version": 0
 	},
@@ -32904,7 +32904,7 @@
 	"ccad80d4-e3c0-4a0f-9ff1-3e552783c062": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "SIGMA!!!!!\nHe's real sigma.\n\nUpdate!\nBlocks Added:\nGigachad Sigma Block x4\nGigachad Sigma Block x8\n\nThis is my first mod. I did it for fun, but there are a couple of interesting points.",
+		"description": "SIGMA!!!!!\nHe's real sigma.\n\nNEW UPDATE!!!\nPart's added:\n- Sigma Cube\n- Gigachad Sigma Cube\n- Survival Recipes (maybe)\n\nUpdate!\nBlocks Added:\nGigachad Sigma Block x4\nGigachad Sigma Block x8\n\nThis is my first mod :P",
 		"fileId": 3122644340,
 		"localId": "ccad80d4-e3c0-4a0f-9ff1-3e552783c062",
 		"name": "Sigma Mod",
@@ -33038,6 +33038,16 @@
 		"fileId": 3128396834,
 		"localId": "1590ed4a-4cdf-4749-aded-fc398712a3cc",
 		"name": "farmerparts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"55f31406-c587-4a13-a070-d99123e2a376": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Adds a block made out of warehouse keys + concrete 3 + ember + chemicals. \n\nAdds missing medium pipes. 1 unit diameter ones.\n- 3b,4,4b, 5,6 connections + a straight pipe length of 2.",
+		"fileId": 3128548083,
+		"localId": "55f31406-c587-4a13-a070-d99123e2a376",
+		"name": "Vanilla pipes extension + warehouse key block",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
