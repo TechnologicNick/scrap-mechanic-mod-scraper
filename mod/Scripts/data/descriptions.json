@@ -29024,7 +29024,7 @@
 	"62d29f6c-e1e1-49d4-9b04-9bb9607a4d78": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[Eng]\r\nthis mod is a fork of the \"Entrance Doors Pack\" from the author of \"ikey07\".\r\nhere the doors are script blocks, they can control the bearings themselves!\r\nand they can also be privatized so that only you can open them!\r\n\r\nthere are 3 private modes:\r\n  public,\r\n  private,\r\n  privatized (anyone can open, but only you can change the private mode).\r\n\r\n[Rus]\r\nданный мод являетья форком \"Entrance Doors Pack\" от автора \"ikey07\".\r\nтут двери это скриптовые блоки, они могут сами управлять подшибниками!\r\nа еще их можно заприватить, чтобы только вы могли их открыть!\r\n\r\nимееться 3 режима привата:\r\n  публичный,\r\n  приватный,\r\n  приватизированый(кто угодно сможет открывать, но только вы сможете изменить режим привата).",
+		"description": "[Eng]\nhere the doors are script blocks, they can control the bearings themselves!\nand they can also be privatized so that only you can open them!\n\nthere are 3 private modes available:\n  public,\n  private,\n  privatized (anyone can open it, but only you can change the private mode).\n\n[Rus]\nтут двери это скриптовые блоки, они могут сами управлять подшипниками!\nа еще их можно заприватить, чтобы только вы могли их открыть!\n\nимееться 3 режима привата:\n  публичный,\n  приватный,\n  приватизированый(кто угодно сможет открывать, но только вы сможете изменить режим привата).",
 		"fileId": 2943598723,
 		"localId": "62d29f6c-e1e1-49d4-9b04-9bb9607a4d78",
 		"name": "Scriptable Doors",
