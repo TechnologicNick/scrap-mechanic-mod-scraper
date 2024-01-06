@@ -31447,7 +31447,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "--- Better Placement ---\r\n\r\nThis mod contains a more flexible way of placing things (no blocks / joints for now) in Scrap Mechanic.\r\n\r\n-- How to use --\r\n\r\n1 - Hold the Better Placement Tool, press R to turn it on.\r\n\r\n2 - Hold the part you want to place, look where you want to place it\r\n\r\n3 - Select the Rotation Axis by Looking at different parts of the gizmo, Press Q (rotation key) to Rotate.\r\nPress R (reload key) to lock the gizmo to that spot.\r\n\r\n4 - Press and hold (For the Click & Drag setting) or Press {For the Click Twice setting) the primary mouse button for the positioning gizmo to show up.\r\n\r\n5 - Move the part visualization to your desired spot by moving the cursor and pressing Q to use the vertical axis\r\n\r\n6 - Release the primary mouse button (For the Click & Drag setting) or click it again (For the Click Twice setting)\r\n\r\n-- Settings --\r\n\r\nHold the Better Placement Tool, press Q (rotation key)\r\n\r\n-- Notes --\r\n\r\nIf you start the placement on a body (e.g. a frame) and move it over to another body (e.g. a wheel), the part will still attach to the first body (the frame). \r\n\r\nIf you build the part so that it isn't attached to the original body, it will disconnect when the body is put on a lift.\r\n\r\nAs of now, the mod only supports placing parts on parts/blocks/terrain.\r\n\r\nThis mod is inspired by Tweakeroo's Flexible Block Placement, but the logic has been adapted to be more suitable to Scrap Mechanic.",
+		"description": "# Better Placement\r\nA collection of building-related tools.\r\n## BetterPlacementTool\r\n### How to use\r\n1. Hold the Better Placement Tool, press R to turn it on.\r\n2. Hold the part you want to place, look where you want to place it\r\n3. Select the Rotation Axis by looking at different parts of the gizmo, Press Q (rotation key) to Rotate.\r\n  Press R (reload key) to lock the gizmo to that spot.\r\n4. Press and hold (For the Click & Drag setting) or Press {For the Click Twice setting) the primary mouse button for the positioning gizmo to show up.\r\n5. Move the part visualization to your desired spot by moving the cursor and pressing Q to use the vertical axis\r\n6. Release the primary mouse button (For the Click & Drag setting) or click it again (For the Click Twice setting)\r\n### Settings\r\n- Hold the Better Placement Tool, press Q (rotation key)\r\n### Notes\r\n- If you start the placement on a body (e.g. a frame) and move it over to another body (e.g. a wheel), the part will still attach to the first body (the frame).\r\n- If you build the part so that it isn't attached to the original body, it will disconnect when the body is put on a lift.\r\n- As of now, the mod only supports placing parts on parts/blocks/terrain.\r\n### Credits\r\nTweakeroo's Flexible Block Placement (concept)\r\n\r\n## SelectionTool\r\n### How to use\r\n1. Look at the block you want to manipulate\r\n2. Use the primary mouse button to 'lock' the selection\r\n3. Press and hold F (force build key) to open the pie menu\r\n4. Select the wanted action, release F\r\n5. Follow instructions\r\n\r\n### Settings\r\nTBD\r\n\r\n\r\n!!! This mod almost certainly doesn't work in multiplayer !!!",
 		"fileId": 3026384153,
 		"localId": "e0cf7499-3250-4361-9b00-ec0c09601b24",
 		"name": "Better Placement",
@@ -33087,5 +33087,15 @@
 		"name": "mehantropy",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"a4194b4f-083d-4a4b-953a-43a7991aea20": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "In dev, will be extended",
+		"fileId": 3131864422,
+		"localId": "a4194b4f-083d-4a4b-953a-43a7991aea20",
+		"name": "INZHIR parts [Alpha]",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
