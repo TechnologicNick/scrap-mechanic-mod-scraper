@@ -2469,7 +2469,12 @@
 		]
 	},
 	"f255f376-65c0-481b-ab35-ce3827fde287": {},
-	"7923f928-6c3c-4af7-a6c5-90ce27a753e7": {},
+	"7923f928-6c3c-4af7-a6c5-90ce27a753e7": {
+		"$CONTENT_7923f928-6c3c-4af7-a6c5-90ce27a753e7/Tools/Database/ToolSets/example.toolset": [
+			"5935cf84-ed91-11ec-8ea0-0242ac120002",
+			"a22ed440-f3bf-11ec-b939-0242ac120002"
+		]
+	},
 	"9838cd1a-207a-49e8-bdc5-8ce609e5ac44": {
 		"$CONTENT_9838cd1a-207a-49e8-bdc5-8ce609e5ac44/Tools/Database/ToolSets/example.toolset": [
 			"c2341997-9993-4324-b53d-12108146a750",

@@ -29379,7 +29379,14 @@
 	"8ba4dc4b-dbcc-47a4-8cdb-638fd609b9bc": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Adds a couple of armor blocks:\r\nSide armor (4 durability)\r\nFront armor (5 durability)\r\nAircraft armor (2 durability, 1 density)\r\nI made them to fit (more or less) polygons textures. This is my first mod, so textures arent the best.",
+		"dependencies": [
+			{
+				"fileId": 1759377518,
+				"localId": "2b09183f-5ecb-4dac-93a0-99bd0baa6e55",
+				"name": "ModDatabase"
+			}
+		],
+		"description": "Adds a couple of armor blocks:\r\nSide armor (3 durability)\r\nFront armor (5 durability)\r\nAircraft armor (2 durability, 1 density)\r\nI made them to fit (more or less) polygons textures. This is my first mod, so textures arent the best.",
 		"fileId": 2956989226,
 		"localId": "8ba4dc4b-dbcc-47a4-8cdb-638fd609b9bc",
 		"name": "TankArmor",
