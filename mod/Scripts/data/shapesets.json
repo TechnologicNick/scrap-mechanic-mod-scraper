@@ -94702,5 +94702,15 @@
 			"44d8c77b-4022-4e65-ad32-d9ab01134328",
 			"ab0e4467-59be-4b3b-8a6b-835690953d92"
 		]
+	},
+	"b4436cf1-fe23-45e7-8306-235b8cf63dd7": {
+		"$CONTENT_b4436cf1-fe23-45e7-8306-235b8cf63dd7/Objects/Database/ShapeSets/Lights.json": [
+			"c410dbe1-e4a6-4f2e-8ec7-02e144d423f9",
+			"ed024d96-69d4-4d09-b96a-38de4abba23f",
+			"c629182d-649d-48cf-a3b5-4fa073a77121",
+			"b1fe3ded-d734-4c2b-afb8-0d96fc098466",
+			"647c3cfe-da0b-4bd1-ba13-70cb8efe3b87",
+			"19829edb-443b-433e-a220-17e80eedd318"
+		]
 	}
 }
