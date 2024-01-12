@@ -4170,5 +4170,10 @@
 	"2bf64a75-79e3-4263-8197-7159b27ec2c2": {
 		"$CONTENT_2bf64a75-79e3-4263-8197-7159b27ec2c2/Tools/Database/ToolSets/example.toolset": []
 	},
-	"b4436cf1-fe23-45e7-8306-235b8cf63dd7": {}
+	"b4436cf1-fe23-45e7-8306-235b8cf63dd7": {},
+	"5918f3e8-12fc-49b5-b7ce-5694e69752cb": {
+		"$CONTENT_5918f3e8-12fc-49b5-b7ce-5694e69752cb/Tools/Database/ToolSets/main.toolset": [
+			"4739aa90-94b0-46e2-aca0-ab5bf4b850b0"
+		]
+	}
 }
