@@ -94706,7 +94706,13 @@
 			"3e7258ac-bd84-4628-b4fc-6a54d72eee2e",
 			"f7515842-0193-4144-9977-87d9fafec3b6",
 			"f90874e7-5a72-4dcc-bed3-39b530123905",
-			"97203b60-3a5c-47a4-854d-27369dc14b20"
+			"97203b60-3a5c-47a4-854d-27369dc14b20",
+			"7653a272-cd81-406b-ab98-36b6d315f49e",
+			"0a02e9f4-3aaa-4318-b4d9-c62873e11b04",
+			"a3bae086-1332-438c-a1c5-e567f8b2f732",
+			"5ec7f0a3-7870-4424-af01-4472f0e07078",
+			"b1a8844a-4c5f-4bc0-a970-a3daa4717fff",
+			"bf313b6b-e955-4021-827d-1d1f755f5518"
 		]
 	},
 	"b4436cf1-fe23-45e7-8306-235b8cf63dd7": {
@@ -94724,6 +94730,11 @@
 		"$CONTENT_e375ddb4-2f9c-44e4-8043-ce84e104f6cd/Objects/Database/ShapeSets/example.shapeset": [
 			"8d3b98de-c981-4f05-abfe-d22ee4781d33",
 			"24001201-40dd-4950-b99f-17d878a9e07b"
+		]
+	},
+	"64f51e7e-487a-452f-8811-ef64adb5ae7b": {
+		"$CONTENT_64f51e7e-487a-452f-8811-ef64adb5ae7b/Objects/Database/ShapeSets/SolarPanel.shapeset": [
+			"c3c9d039-46d4-4f70-a0d1-dd07b9de485e"
 		]
 	}
 }
