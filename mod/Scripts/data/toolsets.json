@@ -4177,5 +4177,8 @@
 		]
 	},
 	"e375ddb4-2f9c-44e4-8043-ce84e104f6cd": {},
-	"64f51e7e-487a-452f-8811-ef64adb5ae7b": {}
+	"64f51e7e-487a-452f-8811-ef64adb5ae7b": {},
+	"66207467-8f35-462b-8429-3add52b51ced": {
+		"$CONTENT_66207467-8f35-462b-8429-3add52b51ced/Tools/Database/ToolSets/example.toolset": []
+	}
 }

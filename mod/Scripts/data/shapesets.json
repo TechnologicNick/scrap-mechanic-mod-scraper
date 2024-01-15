@@ -94736,5 +94736,8 @@
 		"$CONTENT_64f51e7e-487a-452f-8811-ef64adb5ae7b/Objects/Database/ShapeSets/SolarPanel.shapeset": [
 			"c3c9d039-46d4-4f70-a0d1-dd07b9de485e"
 		]
+	},
+	"66207467-8f35-462b-8429-3add52b51ced": {
+		"$CONTENT_66207467-8f35-462b-8429-3add52b51ced/Objects/Database/ShapeSets/example.shapeset": []
 	}
 }
