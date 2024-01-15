@@ -33111,7 +33111,7 @@
 	"a4194b4f-083d-4a4b-953a-43a7991aea20": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "In dev, will be extended\n\n[b]Contains now:[/b]\n- I.M.P van wheel\n- Classic car wheel\n- Retro steering wheel (button)\n- Truck steering wheel (button)\n- Crossed arrow sign\n- ZIL truck wheel (1x5)\n\n\n\n\n[u]All models made by me[/u]\n\n\n\n\n(You can suggest your ideas though)",
+		"description": "In dev, will be extended\n\n[b]Contains now:[/b]\n- I.M.P van wheel\n- Classic car wheel\n- Retro steering wheel (button)\n- Truck steering wheel (button)\n- Crossed arrow sign\n- Lounge/waiting seat (seat lol)\n- ZIL truck wheel (1x5)\n\n\n\n\n[u]All models made by me[/u]\n\n\n\n\n(You can suggest your ideas though)",
 		"fileId": 3131864422,
 		"localId": "a4194b4f-083d-4a4b-953a-43a7991aea20",
 		"name": "INZHIR parts [Alpha]",
@@ -33185,6 +33185,16 @@
 		"fileId": 3139466710,
 		"localId": "66207467-8f35-462b-8429-3add52b51ced",
 		"name": "lol",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"60b93ee2-1cc4-4363-8d5d-d4e0afcb3407": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "added:\r\n- blueprint tool (wip)\r\n- 2 public words Flat and Terrain\r\n- huge worlds\r\n- private worlds\r\n- self wired gates\r\n- old seats\r\n- old thrusters\r\n- lmb and rbm to beable to be on the 9 and 10 buttons\r\n- upgrade seats in creative mode\r\n- added duck unit\r\n- added night and day\r\n- added pitch fork cleint mod",
+		"fileId": 2806990774,
+		"localId": "60b93ee2-1cc4-4363-8d5d-d4e0afcb3407",
+		"name": "hack",
 		"type": "Custom Game",
 		"version": 0
 	}
