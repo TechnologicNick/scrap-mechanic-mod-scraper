@@ -81606,16 +81606,16 @@
 			"c36fa6c2-a268-4279-985f-2f6362c21297"
 		],
 		"$CONTENT_30a2450e-570f-4c22-91d3-ae9b11ecc636/Objects/Database/ShapeSets/Stair_Wedge_Col.json": [
-			"78b580a8-f6b8-44fe-9189-21591324a9fb",
-			"4efbecca-e84f-47e6-b565-1695c11c24a3",
-			"83af14b1-a277-40b2-ba4b-c6e756b503e2",
-			"dd920bfd-d529-4053-9ea7-5fcb86a2e9f9",
-			"e2427ff1-e241-4a9c-be57-0db4abe28a99",
 			"d7b7ba5d-28b4-4499-b0cb-6231ee24cce0",
 			"efe0f110-3985-4053-ba06-761b2698e2ea",
 			"0081dc62-37e0-499d-a681-1f6df436efe1",
 			"4b4a1768-4e49-48ef-8cb5-afdb9369cb13",
-			"72559f27-0022-41d3-9962-daba9591523c"
+			"72559f27-0022-41d3-9962-daba9591523c",
+			"78b580a8-f6b8-44fe-9189-21591324a9fb",
+			"4efbecca-e84f-47e6-b565-1695c11c24a3",
+			"83af14b1-a277-40b2-ba4b-c6e756b503e2",
+			"dd920bfd-d529-4053-9ea7-5fcb86a2e9f9",
+			"e2427ff1-e241-4a9c-be57-0db4abe28a99"
 		],
 		"$CONTENT_30a2450e-570f-4c22-91d3-ae9b11ecc636/Objects/Database/ShapeSets/Staircase_Wedge.json": [
 			"d908d840-b665-40b5-93f5-f2a10abfd881",
@@ -85048,6 +85048,7 @@
 			"34a1a11c-8610-47f5-bbce-2b6c26576a93",
 			"98103b7a-78c6-44d7-8006-fc187e02e482",
 			"1f23617f-3145-485b-9d35-75e78de3e1fe",
+			"3431152c-d0b6-461c-80bc-eb83bbfd871d",
 			"21b665b6-d37d-4e3a-824c-7546dab68f46",
 			"393946c7-dca2-40f5-a8a0-3163be64fd0e",
 			"f83fa83d-1e3f-4b8a-b919-2576f33fcbce",
@@ -87208,13 +87209,7 @@
 			"4b514157-3c3c-4d19-b2cd-cef575003f13"
 		]
 	},
-	"fbfcef91-23a3-4b27-877b-fc380a5bea19": {
-		"$CONTENT_fbfcef91-23a3-4b27-877b-fc380a5bea19/Objects/Database/ShapeSets/example.shapeset": [
-			"720f4d4d-d24e-49e5-b4ec-766752fc976a",
-			"ba91ce11-a455-4fa3-b898-b905149917e0",
-			"d8f9a24f-3f90-4b02-8525-b354db4ae8a8"
-		]
-	},
+	"fbfcef91-23a3-4b27-877b-fc380a5bea19": {},
 	"9cd527fc-c8a2-4557-a74e-e2adf2926851": {
 		"$CONTENT_9cd527fc-c8a2-4557-a74e-e2adf2926851/Objects/Database/ShapeSets/example.shapeset": [
 			"089e50f6-e3ec-481f-8fef-0d5a7fd84adf"
