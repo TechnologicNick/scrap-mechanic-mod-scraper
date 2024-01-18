@@ -4195,5 +4195,11 @@
 			"55abf9f8-5fd5-44c9-bd1e-207ca3bb9864",
 			"9d4d51b5-f3a5-407f-a030-138cdcf30b4e"
 		]
+	},
+	"00e683fe-d365-434f-aa33-71552113fe4f": {},
+	"4f42ed1d-9621-4c0a-86a0-b4fd15dd375b": {
+		"$CONTENT_4f42ed1d-9621-4c0a-86a0-b4fd15dd375b/Tools/Database/ToolSets/vanila.toolset": [
+			"a6113860-f4d4-42df-b8f9-129efdbaf777"
+		]
 	}
 }
