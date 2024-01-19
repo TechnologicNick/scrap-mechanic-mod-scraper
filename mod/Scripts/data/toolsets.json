@@ -4201,5 +4201,10 @@
 		"$CONTENT_4f42ed1d-9621-4c0a-86a0-b4fd15dd375b/Tools/Database/ToolSets/vanila.toolset": [
 			"a6113860-f4d4-42df-b8f9-129efdbaf777"
 		]
+	},
+	"c87ba7aa-cb69-4ada-bcd4-e447f2f3144a": {
+		"$CONTENT_c87ba7aa-cb69-4ada-bcd4-e447f2f3144a/Tools/Database/ToolSets/toolgun.toolset": [
+			"da19d58a-f532-4bdb-840b-d317f8807768"
+		]
 	}
 }

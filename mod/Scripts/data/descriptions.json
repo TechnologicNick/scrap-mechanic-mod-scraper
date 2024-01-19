@@ -27368,7 +27368,7 @@
 	"b34d8a4a-6b26-45f4-857b-5dcd322e2e52": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds a Handheld Vacuum Gun. \r\n\r\nLeft Click = Collect.\r\nIt will collect all Blocks, Parts, Plants, Harvestables, Water, Chemicals and Oil and and and and things infront of you.\r\nWorks in Warehouses too!\r\n\r\nRight Click = Plant Seeds and Water Soil.\r\nIt will search for the closest Empty Soil and it will use Seeds from your Inventory ( order, top left to bottom right )\r\nIt will water soil without water too if you have water in your inventory.\r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This mod adds a Handheld Vacuum Gun. \r\n\r\nLeft Click = Collect.\r\nIt will collect all Crates, Blocks, Parts, Plants, Harvestables, Water, Chemicals and Oil and and and and things infront of you.\r\nWorks in Warehouses too!\r\n\r\nRight Click = Plant Seeds and Water Soil or Shoot Crates into the Trader ( right in his face ;) )\r\nIt will search for the closest Empty Soil and it will use Seeds from your Inventory ( order, top left to bottom right )\r\nIt will water soil without water too if you have water in your inventory.\r\n\r\nQ = Change Filter Mode. White and Black List mode\r\n\r\nR = Open Filter Inventory\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2897133124,
 		"localId": "b34d8a4a-6b26-45f4-857b-5dcd322e2e52",
 		"name": "Vacuum Gun",
@@ -32956,7 +32956,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "A mod that adds railway infrastructure in Poland and parts useful in rolling stock. \r\n\r\nPlease stop using my old mod\r\n\r\nConcrete Tracks : https://steamcommunity.com/sharedfiles/filedetails/?id=3125039347\r\nWooden Tracks : https://steamcommunity.com/sharedfiles/filedetails/?id=3123939313\r\n\r\nLocomotives :\r\n- EU07 https://steamcommunity.com/sharedfiles/filedetails/?id=3126913004\r\n- EN57 https://steamcommunity.com/sharedfiles/filedetails/?id=2928233168\r\n- ET22, EP09, SM42 https://steamcommunity.com/sharedfiles/filedetails/?id=3126026997\r\n\r\nWagons :\r\n- Passenger https://steamcommunity.com/sharedfiles/filedetails/?id=3126146627\r\n- Cargo https://steamcommunity.com/sharedfiles/filedetails/?id=3126143262\r\n\r\n\r\n\r\nDołącz na serwer VOXEL.CORP official server https://discord.gg/vnHUD7GcCT",
+		"description": "A mod that adds railway infrastructure in Poland and parts useful in rolling stock. \r\n\r\nPlease stop using my old mod\r\n\r\nConcrete Tracks : https://steamcommunity.com/sharedfiles/filedetails/?id=3125039347\r\nWooden Tracks : https://steamcommunity.com/sharedfiles/filedetails/?id=3123939313\r\nWooden 3u Tracks : https://steamcommunity.com/sharedfiles/filedetails/?id=3133266513\r\n\r\nLocomotives :\r\n- EU07 https://steamcommunity.com/sharedfiles/filedetails/?id=3126913004\r\n- Tem2 - https://steamcommunity.com/sharedfiles/filedetails/?id=3133398706\r\n- Steam Locomotives - soon\r\n- EN57 https://steamcommunity.com/sharedfiles/filedetails/?id=2928233168\r\n- ET22, EP09, SM42 https://steamcommunity.com/sharedfiles/filedetails/?id=3126026997\r\n\r\nWagons :\r\n- Passenger https://steamcommunity.com/sharedfiles/filedetails/?id=3126146627\r\n- Cargo https://steamcommunity.com/sharedfiles/filedetails/?id=3126143262\r\n\r\n\r\n\r\nDołącz na serwer VOXEL.CORP official server https://discord.gg/vnHUD7GcCT",
 		"fileId": 3123908240,
 		"localId": "909070aa-088c-446c-8b1c-dfcf0c529ed4",
 		"name": "PKP Train Parts and Infrastructure",
@@ -33245,5 +33245,15 @@
 		"name": "Improved Bedwars Custom Game",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"c87ba7aa-cb69-4ada-bcd4-e447f2f3144a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "For mod makers to take screenshots of their mod quite easily.",
+		"fileId": 3142357271,
+		"localId": "c87ba7aa-cb69-4ada-bcd4-e447f2f3144a",
+		"name": "GUI Hider Tool",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
