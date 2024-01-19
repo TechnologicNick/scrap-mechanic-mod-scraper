@@ -4206,5 +4206,11 @@
 		"$CONTENT_c87ba7aa-cb69-4ada-bcd4-e447f2f3144a/Tools/Database/ToolSets/toolgun.toolset": [
 			"da19d58a-f532-4bdb-840b-d317f8807768"
 		]
+	},
+	"82ae50c6-5166-4746-ad84-0df5ed39535c": {},
+	"c5b55f38-c973-47bb-addd-51024916d208": {
+		"$CONTENT_c5b55f38-c973-47bb-addd-51024916d208/Tools/Database/ToolSets/tool.toolset": [
+			"035d0b4c-e39f-4fb7-8274-a17c75e7ab0a"
+		]
 	}
 }
