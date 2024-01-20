@@ -31912,12 +31912,12 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "The modpack is funny\n\nThe mod was created for personal use.\nIn this mod you will find various parts, from the wheels to the old mechanic.\nThere are crafting recipes for custom game.\nLanguages:\n- Russian\n- English\n\nTags: wheels, mechanic, blocks, interactive parts, ball, scrap, landfills, farmer, old bolts, springs, bombs, guns.",
+		"description": "☻Модпак забавный☻\r\n\r\nМод был создан для личного использования.\r\nВ этом моде вы найдете различные детали, от колес до старого механика.\r\nЕсть рецепты крафтов для custom game.\r\nЯзыки:\r\n- Русский\r\n- Английский\r\n\r\nТеги: колёса, механик, блоки, интерактивные детали, мяч, лом, полигоны, фермер, старые боты, пружины, бомбы, пушки, флаги, картины, линзы.",
 		"fileId": 3049604044,
 		"localId": "3a8d7f21-c853-48ec-b916-f055cb403cd1",
 		"name": "The Modpack is Funny",
 		"type": "Blocks and Parts",
-		"version": 1.1
+		"version": 1.4
 	},
 	"dcfe3d42-ed03-4025-ba8e-04a5c4875e28": {
 		"allow_add_mods": true,
@@ -33242,7 +33242,7 @@
 		"description": "An increase in maps and parts available\n\nfeel free to send in some maps for me to place into the mod after review\n\nalso includes new thumbnails for custom games to remove boring old same screen every time",
 		"fileId": 3141974855,
 		"localId": "4f42ed1d-9621-4c0a-86a0-b4fd15dd375b",
-		"name": "Improved Bedwars Custom Game",
+		"name": "Bedwars Advanced",
 		"type": "Custom Game",
 		"version": 0
 	},
@@ -33273,6 +33273,16 @@
 		"fileId": 3142502309,
 		"localId": "c5b55f38-c973-47bb-addd-51024916d208",
 		"name": "Pocket Dimension Bag",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"669c8973-4e8f-4f3b-9ede-fce6e1f358e1": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This Mod Adds Inventory Backpacks.\r\nEach Backpack has 30 Slots.\r\nTake them in your Hand and press Left Click to Open the Inventory.\r\nIf you Drop that Backpack out of your Inventory, all items will go in your Main Inventory \r\nor if not enough Space they drop on the Ground.\r\nYou can Have so Many Backpacks in your Inventory as you like.\r\nThey come in 5 Colors (for now)\r\n\r\nCrafting Recipes Included if you use the Custom Recipe Loader Craftbot\r\n\r\nThey Work in every Custom Gamemode and Creative\r\n\r\n [h1]DO NOT PUT A FILLED BACKPACK IN A OTHER BACKPACK OR CHESTS OR CONTAINER, THIS WILL DELETE ALL ITS CONTENTS IN IT![/h1]\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"fileId": 3142707115,
+		"localId": "669c8973-4e8f-4f3b-9ede-fce6e1f358e1",
+		"name": "Inventory Backpacks",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

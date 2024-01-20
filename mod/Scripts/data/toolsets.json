@@ -4212,5 +4212,14 @@
 		"$CONTENT_c5b55f38-c973-47bb-addd-51024916d208/Tools/Database/ToolSets/tool.toolset": [
 			"035d0b4c-e39f-4fb7-8274-a17c75e7ab0a"
 		]
+	},
+	"669c8973-4e8f-4f3b-9ede-fce6e1f358e1": {
+		"$CONTENT_669c8973-4e8f-4f3b-9ede-fce6e1f358e1/Tools/Database/ToolSets/InventoryBackpacks.toolset": [
+			"5faa992f-b1a4-45e7-80e4-f6010650a6b7",
+			"753b327d-52c3-4ad4-bf6d-40c88f4c21f9",
+			"4ca793b3-0858-4536-a9ca-18a62e486351",
+			"c827756c-369b-44ed-b522-93c96dc64ce4",
+			"966d7a01-54d1-4879-9814-31d0b89619f8"
+		]
 	}
 }
