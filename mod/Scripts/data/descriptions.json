@@ -33219,7 +33219,7 @@
 				"name": "Challenge Pack Database"
 			}
 		],
-		"description": "This is a custom game. Its just like scrap mechanic. You should have no difficulty navigating the menus or using this mod. \r\n\r\nThis mod is a 1:1 clone of challenge mode, but runs as a custom game mode. In the menu book, the host will be able to access the following settings:\r\n[*] Hide all name tags \r\n[*] Hiders see name tags (seekers dont)\r\n[*] Full health\r\n[*] Half health\r\n[*] 1 Shot Kill\r\n[*] Spectate when dead\r\n[*] No items (seeker has spud gun)\r\n[*] Inactivity VFX\r\n[*] Fall damage\r\n[*] Player list to toggle between [b]Spectate | Hider | Seeker[/b]\r\n\r\nThe host is the only person with the \"menu book\". DO NOT drop it on the ground! You'll be stuck without it until you reload the entire save file.",
+		"description": "This is a custom game. Its just like challenge mode. You can load any challenges available on the workshop.\r\n\r\nThis mod is a 1:1 clone of challenge mode, but runs as a custom game mode. In the menu book, the host will be able to access the following settings:\r\n[list]\r\n[*] Hide all name tags \r\n[*] Hiders see name tags (seekers dont)\r\n[*] Full health\r\n[*] Half health\r\n[*] 1 Shot Kill\r\n[*] Spectate when dead\r\n[*] Skybox (input field coming soon)\r\n[*] Inactivity VFX (particle for when you sit still too long)\r\n[*] Fall damage / Collision damage\r\n[*] Player list to toggle between [b]Spectate | Hider | Seeker[/b]\r\n[/list]\r\nNot implemented yet:\r\n[list]\r\n[*] Inactivity VFX\r\n[/list]\r\n\r\nALSO, the 3d model for switches has been replaced with buttons, and there is no longer a press animation\r\n\r\nBugs with LOW priority, are likely going to have zero effect on gameplay, usability, or other important aspects of the game. FIXED bugs are bugs currently in game, but are fixed in the dev version. Known bugs are:\r\n[list]\r\n[*]  [b]LOW PRIORITY[/b]\r\n[list]\r\n[*] [FIXED] Extra empty player exists the menu world\r\n[*] [FIXED] Sometimes clients are loaded into a separate menu world\r\n[/list]\r\n[*]  [b]MEDIUM PRIORITY[/b]\r\n[list]\r\n[*] Currently able to select multiple health modes (1 shot + full health)\r\n[/list]\r\n\r\nThe host is the only person with the \"menu book\". DO NOT drop it on the ground! You'll be stuck without it until you reload the entire save file.\r\n\r\nWant to learn more about the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3141237343]Challenge Database[/url]?",
 		"fileId": 3141117447,
 		"localId": "a65c170c-ede3-4757-9f1a-586eabf1a2bc",
 		"name": "Hide and Seek for Challenges",
@@ -33299,7 +33299,7 @@
 	"3ef2751c-fe9e-4950-8a07-313b8b29feff": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Meme blocks!",
+		"description": "Meme blocks!\r\nhttps://youtu.be/IHwN3xOI9jc?si=97zxooIO0nhjC3Vt",
 		"fileId": 3144377075,
 		"localId": "3ef2751c-fe9e-4950-8a07-313b8b29feff",
 		"name": "Memes Mod",
@@ -33313,6 +33313,16 @@
 		"fileId": 3144586294,
 		"localId": "e8d9c47d-8029-4441-b662-95ef4ccd55be",
 		"name": "Radio Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"848468a4-769d-4737-a1c4-8c7770092ce9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Created sealed compartments that water can flood into!\n\nHaving water in compartments makes the creation heavier and the character will swim aswell!\n\nPerformance can be poor when calucating compartments.",
+		"fileId": 3145004641,
+		"localId": "848468a4-769d-4737-a1c4-8c7770092ce9",
+		"name": "WaterTight",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
