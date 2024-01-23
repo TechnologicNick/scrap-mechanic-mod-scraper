@@ -96261,5 +96261,12 @@
 			"f5926117-dd91-4909-8a3f-83ae595c1871",
 			"851d6511-f64e-4647-b6d1-b0850a7702a0"
 		]
+	},
+	"8b3531fc-2e3a-441d-a692-2a315f7c3a04": {
+		"$CONTENT_8b3531fc-2e3a-441d-a692-2a315f7c3a04/Objects/Database/ShapeSets/Winch.shapeset": [
+			"e5ed2389-7cf0-466d-b360-f292e1bb7371",
+			"89cac4e5-c82b-4233-823d-bf975551048b",
+			"baa285bf-97be-4315-bf10-4fd68fedcd08"
+		]
 	}
 }
