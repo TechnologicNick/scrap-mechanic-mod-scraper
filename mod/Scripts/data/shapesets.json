@@ -96011,8 +96011,10 @@
 		]
 	},
 	"e8d9c47d-8029-4441-b662-95ef4ccd55be": {
-		"$CONTENT_e8d9c47d-8029-4441-b662-95ef4ccd55be/Objects/Database/ShapeSets/example.shapeset": [
-			"d0ad87eb-22ef-41fb-8c39-002e7507d7e3"
+		"$CONTENT_e8d9c47d-8029-4441-b662-95ef4ccd55be/Objects/Database/ShapeSets/shapesets.shapeset": [
+			"d0ad87eb-22ef-41fb-8c39-002e7507d7e3",
+			"99ae2a73-b28d-4b7c-a558-104ed1b59b1d",
+			"a287092e-06c4-4dcf-8166-2224c251f47c"
 		]
 	},
 	"848468a4-769d-4737-a1c4-8c7770092ce9": {
