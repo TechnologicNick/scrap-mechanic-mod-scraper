@@ -96032,5 +96032,11 @@
 		"$CONTENT_380d4f22-c62c-4cc6-b144-0a1d653294b0/Objects/Database/ShapeSets/example.shapeset": [
 			"528fed1d-038a-4c15-b424-4587a721cba6"
 		]
+	},
+	"5a776f82-911c-4652-bc51-8c964959443f": {
+		"$CONTENT_5a776f82-911c-4652-bc51-8c964959443f/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"964703ab-6ce2-491f-8164-4d589910307a": {
+		"$CONTENT_964703ab-6ce2-491f-8164-4d589910307a/Objects/Database/ShapeSets/example.shapeset": []
 	}
 }
