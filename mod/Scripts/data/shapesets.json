@@ -96040,5 +96040,10 @@
 	},
 	"964703ab-6ce2-491f-8164-4d589910307a": {
 		"$CONTENT_964703ab-6ce2-491f-8164-4d589910307a/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"bc89abfe-ed39-46a5-b71b-e9c4ab1af9fe": {
+		"$CONTENT_bc89abfe-ed39-46a5-b71b-e9c4ab1af9fe/Objects/Database/ShapeSets/example.shapeset": [
+			"9e1a10d3-1184-4a53-8808-8c30d45d4a90"
+		]
 	}
 }
