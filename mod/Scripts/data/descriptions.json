@@ -27760,7 +27760,7 @@
 	"c42fe0d2-e46d-48df-ad86-68ae4175e274": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This Mod Adds a Simple way to Toggle the Gravity on or off.\r\nYou can connect a logic input like a switch to it to turn it on or off. without unlimited items so not in creative you need to connect a Batterie Container too\r\n.\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This Mod Adds a Simple way to Toggle the Gravity on or off.\r\nYou can connect a logic input like a switch to it to turn it on or off. without unlimited items so not in creative you need to connect a Batterie Container too\r\n.\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2908895063,
 		"localId": "c42fe0d2-e46d-48df-ad86-68ae4175e274",
 		"name": "Antigrav",
@@ -33310,7 +33310,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "The custom radio is a small modification that adds a new radio where you can listen to various new tracks added by the developer.\n\nHow does it work? First, you need to install the [url=https://github.com/QuestionableM/SM-DLL-Injector/releases/]SM-DLL injector[/url] and the [url=https://github.com/QuestionableM/SM-CustomAudioExtension/releases]SM-Custom Audio[/url] extension. Later activate this mod in the game world and enjoy the music!\n\nWhy is this mod better than the usual bank file replacement? The bank files contain all the audio files of the game, and some mods may have older versions of the bank files that lack any sound. My mod does not force you to restart the game every time to replace one bank with another, but, on the contrary, simplifies the process of listening to tracks in Scrap Mechanic.\n\nWhat tracks are available? This is a beta version of the mod, which is included in the usual radio from games, [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2644149017]Phonk Radio from Havoc and Monday[/url], [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2476541477]Russian Hardbass Radio from E (RU)[/url], Neon Genesis Evangelion from Shiro SAGISU, as well as I'm alive from Kamazz (RU). You can also add your tracks via mod files. I will simplify this process in the future, but for now you can suggest tracks to add in the comments!\n\nWhat is planned in the future? I'm going to implement a regular interface similar to a music player, where you can pause tracks, view statistics, and more.",
+		"description": "The custom radio is a small modification that adds a new radio where you can listen to various new tracks added by the developer.\n\nHow does it work? First, you need to install the [url=https://github.com/QuestionableM/SM-DLL-Injector/releases/]SM-DLL injector[/url] and the [url=https://github.com/QuestionableM/SM-CustomAudioExtension/releases]SM-Custom Audio[/url] extension. Later activate this mod in the game world and enjoy the music!\n\nWhy is this mod better than the usual bank file replacement? The bank files contain all the audio files of the game, and some mods may have older versions of the bank files that lack any sound. My mod does not force you to restart the game every time to replace one bank with another, but, on the contrary, simplifies the process of listening to tracks in Scrap Mechanic.\n\nWhat tracks are available? This is a beta version of the mod, which includes:\n[list]\n[*] Scrap Mechanic - Radio\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2644149017]Phonk Radio - Havoc и Monday[/url]\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2476541477]Russian Hardbass Radio - E (RU)[/url]\n[*] [url=https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion]Neon Genesis Evangelion - Shiro SAGISU[/url]\n[*] [*] [url=https://www.youtube.com/@Kamazz/]I'm alive - Kamazz (RU)[/url]\n[*] [url=https://en.wikipedia.org/wiki/Korol_i_Shut]Compilation No. 1 - Korol i Shut (RU)[/url]\n[/list]\nYou can also add your tracks via mod files. I will simplify this process in the future, but for now you can suggest tracks to add in the comments!\n\nWhat is planned in the future? I'm going to implement a regular interface similar to a music player, where you can pause tracks, view statistics, and more.",
 		"fileId": 3144586294,
 		"localId": "e8d9c47d-8029-4441-b662-95ef4ccd55be",
 		"name": "Radio Mod",
@@ -33381,12 +33381,42 @@
 	},
 	"67278c40-239e-41a0-b06b-c0b8938b8268": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"dependencies": null,
-		"description": "DISCLAIMER: This mod is 99% not mine. I only changed the friction value of the ball, so it can be used as a wheel, here's the original mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2133923600\n\nA message for original challenge ball's author:\nIf you want me to take this mod down because of plagiarism, I'm more than willing to do so, just add me from an account that is the creator of the original \"challenge ball\". If you don't see a problem in my mod's existance also message me so I can remove this useless description, thanks!",
+		"description": "DISCLAIMER: This mod is 90% not mine. I only increased the friction and added an item icon, here's the original mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2133923600\r\n\r\nA message for original challenge ball's author:\r\nIf you want me to take this mod down because of plagiarism, I'm more than willing to do so, just add me from an account that is the creator of the original \"challenge ball\". If you don't see a problem in my mod's existance also message me so I can remove this useless description, thanks!",
 		"fileId": 3148181894,
 		"localId": "67278c40-239e-41a0-b06b-c0b8938b8268",
 		"name": "Challenge ball 2",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1f64255d-5ecb-4537-8ed8-e3d0a3fa1f60": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Modded Frictionless Crane Wheels\nThis mod adds a frictionless crane wheels.",
+		"fileId": 3148341486,
+		"localId": "1f64255d-5ecb-4537-8ed8-e3d0a3fa1f60",
+		"name": "Modded Frictionless Crane Wheels",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"9550b625-a616-42d7-95c0-0c4e3b1ea605": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds a Smooth and soft block to the game",
+		"fileId": 3148401109,
+		"localId": "9550b625-a616-42d7-95c0-0c4e3b1ea605",
+		"name": "Soft and Smooth block",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"c63c867d-02f1-46dc-9002-d2614a3dedf1": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds some random stuff i mad \n1 component kit gas engine\n2 circuit board electric engine\n",
+		"fileId": 3148543964,
+		"localId": "c63c867d-02f1-46dc-9002-d2614a3dedf1",
+		"name": "Dragos'es random stuff lol",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
