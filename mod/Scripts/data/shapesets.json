@@ -96074,7 +96074,14 @@
 	"c63c867d-02f1-46dc-9002-d2614a3dedf1": {
 		"$CONTENT_c63c867d-02f1-46dc-9002-d2614a3dedf1/Objects/Database/ShapeSets/example.shapeset": [
 			"aa8481b2-2501-4a7e-bc99-bfca973c4812",
-			"235f5beb-cb7f-4e73-bd63-a1725f1d5453"
+			"235f5beb-cb7f-4e73-bd63-a1725f1d5453",
+			"1c9d22d7-9ec9-48ed-9302-269cc91a0750",
+			"7a59f551-b473-4af6-b308-8b1e71b42a31"
+		]
+	},
+	"2288eaff-655d-4b09-951f-1ba0dc14d177": {
+		"$CONTENT_2288eaff-655d-4b09-951f-1ba0dc14d177/Objects/Database/ShapeSets/shapes.shapeset": [
+			"9f0f56e8-2c31-4d83-996c-d00a9b296c3f"
 		]
 	}
 }
