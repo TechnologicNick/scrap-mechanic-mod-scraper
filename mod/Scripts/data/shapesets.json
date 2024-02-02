@@ -81416,6 +81416,7 @@
 			"b5e2ca69-0b3e-4a79-b46b-e4e56a9760b8",
 			"5efe3568-4b64-41ed-ae8b-a461855ca9ab",
 			"3a02bf91-47f2-408b-ad3d-9d761c2769d1",
+			"ba2458f4-5168-4e21-8ca9-621d0afbcb22",
 			"aba3f8c1-047b-41bb-b0c0-b4c8be2f44e5",
 			"c8ce8213-1210-4918-a688-86bc24a49438",
 			"31388be4-f83c-4a3a-9ef6-5a52a8c87364",
@@ -81439,11 +81440,6 @@
 			"666b9b79-8516-43e7-a9f2-52bacf7c1ba4",
 			"9c4ced7f-f563-42c7-b2bb-cc6908f50c27",
 			"14091c8c-205e-4ce5-9ae8-e316df211cef"
-		],
-		"$CONTENT_30a2450e-570f-4c22-91d3-ae9b11ecc636/Objects/Database/ShapeSets/Little_Wheel.json": [
-			"d32c30a6-b599-4b37-a5da-9cc09e0b0532",
-			"fb08a9fc-ba0b-43c0-b1ed-acb38f4d28ca",
-			"29fc7e00-f049-43d8-9a18-1b3ae765db13"
 		],
 		"$CONTENT_30a2450e-570f-4c22-91d3-ae9b11ecc636/Objects/Database/ShapeSets/Machine_Gun_Ammunition.json": [
 			"6e9ad77b-dfa1-4655-9ded-c218217b4bd4",
@@ -81488,7 +81484,10 @@
 		],
 		"$CONTENT_30a2450e-570f-4c22-91d3-ae9b11ecc636/Objects/Database/ShapeSets/Parts.json": [
 			"417baf2c-e109-4b6c-ad36-493f516ab2d5",
+			"c0d725db-d08f-493d-b060-a6573c7970e4",
+			"8daa0684-ed0d-4fa5-a23c-8ea944169e26",
 			"26cca404-1a34-4f2b-9d9d-41c2a2177d2c",
+			"a2104fcd-3bf7-47f6-87c1-13d6d7f4f278",
 			"dd7467ff-454e-46ef-8dc7-695b6ac1f054"
 		],
 		"$CONTENT_30a2450e-570f-4c22-91d3-ae9b11ecc636/Objects/Database/ShapeSets/Pillow.json": [
@@ -81686,15 +81685,10 @@
 			"b296f7fd-f31d-479f-90bf-a14d0632d61f",
 			"7ee1227d-3eaf-411f-93d2-0beeb369662e"
 		],
-		"$CONTENT_30a2450e-570f-4c22-91d3-ae9b11ecc636/Objects/Database/ShapeSets/Tank_Tracks.json": [
-			"8a1e52a7-396d-40d8-9400-4a708d2c4118",
-			"060f7880-cac2-44e6-b1eb-f44d060dd861",
-			"7f743d26-67c7-45c8-993e-d3c1db39743f",
-			"8886762a-1da6-4b9e-b77c-7a1c2ec68d34",
-			"e36643db-9726-4861-923b-53a634d2b4e5",
-			"69cf2930-c504-4cf9-b610-8192d153746b",
-			"55528460-e18e-41eb-8ce1-8caf607c528d",
-			"9af754b5-731d-4fc4-81c6-11a297300779"
+		"$CONTENT_30a2450e-570f-4c22-91d3-ae9b11ecc636/Objects/Database/ShapeSets/Tiny_Wheel.json": [
+			"d32c30a6-b599-4b37-a5da-9cc09e0b0532",
+			"fb08a9fc-ba0b-43c0-b1ed-acb38f4d28ca",
+			"29fc7e00-f049-43d8-9a18-1b3ae765db13"
 		],
 		"$CONTENT_30a2450e-570f-4c22-91d3-ae9b11ecc636/Objects/Database/ShapeSets/Warehouse_Spotlight.json": [
 			"3cfe08eb-a963-44fd-b964-ec692f3ab191",
@@ -96140,11 +96134,17 @@
 	"2374d26c-e464-4e83-9b5f-514e84e03d36": {
 		"$CONTENT_2374d26c-e464-4e83-9b5f-514e84e03d36/Objects/Database/ShapeSets/blocks.json": [
 			"b2006030-3f5f-496e-a707-80c8a81f6ae2",
+			"b973e0e3-ab33-4027-b293-0d7f4121027b",
 			"40ebbb38-263d-4a00-8fda-8a316d5f611c",
+			"74335e38-2254-4a37-8193-28504c8568b6",
 			"9cb8b7c1-8587-4868-8124-78db439ca7cb",
+			"87672c86-7c3b-41e2-805b-7ec3ce7927a6",
 			"f7fdda1c-9f7b-476c-85f7-d54fb665ebcf",
+			"2781d73d-27dc-4934-8ceb-ab1aac974459",
 			"e167516a-a882-45ec-ac56-769e87597713",
-			"8a278651-3dcb-4078-b33e-d8a8078262d8"
+			"857673e4-beb6-4c89-bc22-d36e16d66531",
+			"8a278651-3dcb-4078-b33e-d8a8078262d8",
+			"f9a516d6-31a9-4b37-b25f-a286dd3ecdaa"
 		]
 	},
 	"1ef74156-76f0-4fc5-a73f-a4c1d4e2ecbc": {
@@ -96153,6 +96153,16 @@
 	"5044687b-ba23-4300-a802-8c28fd164315": {
 		"$CONTENT_5044687b-ba23-4300-a802-8c28fd164315/Objects/Database/ShapeSets/interactive.json": [
 			"d16f897d-fa8d-4282-b17d-e343fc8c4647"
+		]
+	},
+	"46bb04c8-d813-4eb8-98c1-e8936a6bed67": {
+		"$CONTENT_46bb04c8-d813-4eb8-98c1-e8936a6bed67/Objects/Database/ShapeSets/framed_parts.shapeset": [
+			"55ef1b40-0d8d-4efa-88b0-8aa4d68e57df",
+			"072de716-c9a1-4e8a-ae6c-54fbbf88fb20",
+			"b58af598-5c06-40d2-932d-18ed16c2d2cd",
+			"0113beb7-aa08-4c4f-82e5-fcd87913ef91",
+			"5950fc4f-15ed-4844-9eaf-3fb797131d94",
+			"8535ee54-ea8e-4295-a217-5b4d34586b35"
 		]
 	}
 }
