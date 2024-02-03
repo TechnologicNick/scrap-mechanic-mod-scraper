@@ -27487,7 +27487,7 @@
 	"d69c811d-76bc-4b7d-af00-2e674c7c52fe": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "allows you to see zero width blocks\r\n\r\nZero width block, or zwb, is a block that are scaled down to have a width of 0 on any side. These blocks are heavily used in compact creations and allow for absolute no collision pass-throughs. These blocks can not be seen in game so this tool fixes that\r\n\r\nadded compatability to the joint mod!.",
+		"description": "allows you to see zero width blocks\n\nZero width block, or zwb, is a block that are scaled down to have a width of 0 on any side. These blocks are heavily used in compact creations and allow for absolute no collision pass-throughs. These blocks can not be seen in game so this tool fixes that\n\ndo /toggleViewer to toggle zwbs\n\nadded compatability to the joint mod!.",
 		"fileId": 2885937214,
 		"localId": "d69c811d-76bc-4b7d-af00-2e674c7c52fe",
 		"name": "zwb viwer",
