@@ -96164,5 +96164,13 @@
 			"5950fc4f-15ed-4844-9eaf-3fb797131d94",
 			"8535ee54-ea8e-4295-a217-5b4d34586b35"
 		]
+	},
+	"412ff066-5adb-4504-be3c-4a21e9d12e83": {
+		"$CONTENT_412ff066-5adb-4504-be3c-4a21e9d12e83/Objects/Database/ShapeSets/motion_mod.shapeset": [
+			"fd131b19-5864-4d52-8ae2-6001d76bea24",
+			"35263e77-f849-44d3-acc0-603cf74d53d4",
+			"1a6dc581-5820-4bd2-b3dd-b98a340fd176",
+			"600bbd25-f168-4ceb-9f17-a9b4ab3f7968"
+		]
 	}
 }
