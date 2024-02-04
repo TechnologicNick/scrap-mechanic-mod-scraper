@@ -29655,9 +29655,13 @@
 			{
 				"fileId": 2851026417,
 				"localId": "35bd8b52-4dcf-40b5-9b22-dad88a750e23"
+			},
+			{
+				"fileId": 3150883473,
+				"localId": "1ef74156-76f0-4fc5-a73f-a4c1d4e2ecbc"
 			}
 		],
-		"description": "parts and tools created that may be useful or fun.\n\n[h1]current parts:[/h1]\n[list]\n[*] [b]Shape Placer[/b]\n     press Q to toggle between shape types.\n[*] [b]creation Summoner[/b]\n     allows you to save creations from the void or just from far away.\n[*] [b]Duplicator Tool[/b]\n     This tool allows you to select multiple bodies and duplicate/mirror them.\n[*] [b]Player Teleporter[/b]\n     this tool allows you to teleport around the map just by looking at where you want to go.\n[*] [b]Better Lift[/b]\n     This tool Replaces your current Lift to have infinate reach, use [F] and [R] to extend lift past noraml limits.\n[*] [b]Admin Tool[/b]\n     complex featues, visit [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2022198450]this page[/url] for description.\n[*] [b]Player Kicker[/b]\n     Allows you to people from your world.\n[*] [b]World Cleaner[/b]\n     Allows you to clear parts from the world.\n[*] [b]Free Camera[/b]\n     complex featues, visit [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2022198450]this page[/url] for description.\n[*] [b]Permission Manager[/b]\n     Allows you to configure permission for other players to use.\n[*] [b]Clear Tool[/b]\n     Allows you to Clear the world with set filters.\n[*] [b]Raw Block Editor[/b]\n     Allows you to edit the raw data of a shape and update it in real time.\n[/list]\n[h1]discord.gg/6r46PkYr9s[/h1]\n\nhave ideas for new tools or features? post in comments. or talk directly to me in the discord.",
+		"description": "parts and tools created that may be useful or fun.\n\n[h1]current parts:[/h1]\n[list]\n[*] [b]Shape Placer[/b]\n     Press Q to toggle between shape types.\n[*] [b]creation Summoner[/b]\n     Allows you to save creations from the void or just from far away.\n[*] [b]Duplicator Tool[/b]\n     This tool allows you to select multiple bodies and duplicate/mirror them.\n[*] [b]Player Teleporter[/b]\n     This tool allows you to teleport around the map just by looking at where you want to go.\n[*] [b]Better Lift[/b]\n     This tool Replaces your current Lift to have infinate reach, use [F] and [R] to extend lift past noraml limits.\n[*] [b]Admin Tool[/b]\n     complex featues, visit [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2022198450]this page[/url] for description.\n[*] [b]Player Kicker[/b]\n     Allows you to people from your world.\n[*] [b]World Cleaner[/b]\n     Allows you to clear parts from the world.\n[*] [b]Free Camera[/b]\n     complex featues, visit [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2022198450]this page[/url] for description.\n[*] [b]Permission Manager[/b]\n     Allows you to configure permission for other players to use.\n[*] [b]Clear Tool[/b]\n     Allows you to Clear the world with set filters.\n[*] [b]Raw Block Editor[/b]\n     Allows you to edit the raw data of a shape and update it in real time.\n[*] [b]Stop Watch[/b]\n     Track how fast you are with this stop watch timer, lmb-drag to create a line, rmb to delete line, force build to reset timer, Q to change lap-timer type.\n[/list]\n[h1]discord.gg/6r46PkYr9s[/h1]\n\nhave ideas for new tools or features? post in comments. or talk directly to me in the discord.",
 		"fileId": 2963923303,
 		"localId": "cb283672-5b5b-4038-ade9-2d0df4962ff4",
 		"name": "unknown tools",
@@ -31978,6 +31982,13 @@
 	"d37ba63a-bf0c-49bb-b9cb-a1214decae82": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 1759377518,
+				"localId": "2b09183f-5ecb-4dac-93a0-99bd0baa6e55",
+				"name": "ModDatabase"
+			}
+		],
 		"description": "Panels From Portal 2",
 		"fileId": 3057765862,
 		"localId": "d37ba63a-bf0c-49bb-b9cb-a1214decae82",
