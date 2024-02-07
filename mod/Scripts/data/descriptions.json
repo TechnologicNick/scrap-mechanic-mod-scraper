@@ -33524,5 +33524,22 @@
 		"name": "Controllers (SComputers addon)",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"b7a9231a-9e30-41ea-a09c-7d30fde81c68": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3113900342,
+				"localId": "e05e0ad2-0a5f-46f9-98ab-b26c0a844922",
+				"name": "Crashlander: Square One"
+			}
+		],
+		"description": "A mod that adds functionality to the water dispenser from the game.\n\nHold a mug upto it and press 'E' to fill it up with purified water.\n\nYou also need to fill it with normal water for it to work.\n\nCan be crafted in the Workbench.\n\n[h1]NOTE: This mod will only work in Crashlander [/h1]",
+		"fileId": 3155921818,
+		"localId": "b7a9231a-9e30-41ea-a09c-7d30fde81c68",
+		"name": "Purified Water Dispenser for Crashlander",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
