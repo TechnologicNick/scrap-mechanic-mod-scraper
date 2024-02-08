@@ -32911,7 +32911,7 @@
 	"e0148858-7695-4d99-97cc-83bff6099864": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod doesn't have a description",
+		"description": "This Mod adds from my Main Fant Mod the Autocrafter as Standalone mod.\r\n\r\nFeatures:\r\n[*] Crafting without Removing the Recipe when no Materials. It will try to Craft until it has Enough materials again.\r\n[*] Recycling of Block and Parts ( 100% materials back )\r\n[*] No Queue, instat you Type in the Amount you want. ( -1 = Infinity )\r\n[*] Upgrade and Downgrade of Parts\r\n[*] With Logic connections enable and disable functions\r\n[*] Recipe SEARCHBAR\r\n[*] Recipe Shortcut Buttons. Change them how you like by Entering a Searchword and press on a Shorcut Button\r\n\r\nBecause it is Seperated out of my Main Mod, it Knows only the Vanilla Recipes.\r\nNo Modded Recipes will be Listed in it.\r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 3121678775,
 		"localId": "e0148858-7695-4d99-97cc-83bff6099864",
 		"name": "Fants Autocrafter",
