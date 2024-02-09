@@ -81462,6 +81462,11 @@
 			"c829000d-4d97-4622-89f6-7b41b483b272",
 			"e18a9b36-546b-43a4-ab94-213151dd5421"
 		],
+		"$CONTENT_30a2450e-570f-4c22-91d3-ae9b11ecc636/Objects/Database/ShapeSets/Middle_Wheel_With_Hole.json": [
+			"ef398e72-280e-4eab-8b5b-d24d638d7321",
+			"df69d22b-3584-471f-9a5c-85f929badd61",
+			"3898704f-7499-485e-bbe7-198bc8cae5e6"
+		],
 		"$CONTENT_30a2450e-570f-4c22-91d3-ae9b11ecc636/Objects/Database/ShapeSets/Models.json": [
 			"ec9cff36-74bc-43bf-96fd-99cded599ec8",
 			"e31cdb18-7a17-47f8-b4c1-94157cfe7598",
@@ -96270,5 +96275,6 @@
 		"$CONTENT_b7a9231a-9e30-41ea-a09c-7d30fde81c68/Objects/Database/ShapeSets/example.shapeset": [
 			"d7eef7a8-c652-4117-b9c6-26ea7d5caa15"
 		]
-	}
+	},
+	"4d7755b8-223d-4fd2-85a2-3b8345df32dd": {}
 }

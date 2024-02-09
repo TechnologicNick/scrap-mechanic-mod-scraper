@@ -4265,5 +4265,10 @@
 	"dfd73d7b-7531-448b-bb86-d2925dc54fd2": {},
 	"7aa85c33-00d3-4e37-9bec-eaed21aa2f2b": {},
 	"3c68ae1c-2d18-4ab8-84d4-dded0f5cb9c2": {},
-	"b7a9231a-9e30-41ea-a09c-7d30fde81c68": {}
+	"b7a9231a-9e30-41ea-a09c-7d30fde81c68": {},
+	"4d7755b8-223d-4fd2-85a2-3b8345df32dd": {
+		"$CONTENT_4d7755b8-223d-4fd2-85a2-3b8345df32dd/Tools/Database/ToolSets/SoilOnBlocks.toolset": [
+			"303fc93e-c228-489f-9bf4-0fe61ce10b39"
+		]
+	}
 }

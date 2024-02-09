@@ -31177,7 +31177,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "This mod is for my blitz, Modern War.",
+		"description": "This mod is for my blitz, Modern War.\n\n",
 		"fileId": 3017655626,
 		"localId": "30a2450e-570f-4c22-91d3-ae9b11ecc636",
 		"name": "Modern War Parts",
@@ -33539,6 +33539,16 @@
 		"fileId": 3155921818,
 		"localId": "b7a9231a-9e30-41ea-a09c-7d30fde81c68",
 		"name": "Purified Water Dispenser for Crashlander",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"4d7755b8-223d-4fd2-85a2-3b8345df32dd": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This Mod is a Passive mod that makes Soils Placeable on Static Creations like Bases and such.",
+		"fileId": 3157053905,
+		"localId": "4d7755b8-223d-4fd2-85a2-3b8345df32dd",
+		"name": "Soil On Blocks",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
