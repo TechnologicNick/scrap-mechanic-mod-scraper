@@ -4270,5 +4270,9 @@
 		"$CONTENT_4d7755b8-223d-4fd2-85a2-3b8345df32dd/Tools/Database/ToolSets/SoilOnBlocks.toolset": [
 			"303fc93e-c228-489f-9bf4-0fe61ce10b39"
 		]
+	},
+	"8528c2f6-0e93-4f31-8bd1-005563cee443": {},
+	"b693d5e6-7e0f-4998-96df-078f5e449601": {
+		"$CONTENT_b693d5e6-7e0f-4998-96df-078f5e449601/Tools/Database/ToolSets/example.toolset": []
 	}
 }

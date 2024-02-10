@@ -33545,11 +33545,31 @@
 	"4d7755b8-223d-4fd2-85a2-3b8345df32dd": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This Mod is a Passive mod that makes Soils Placeable on Static Creations like Bases and such.",
+		"description": "This Mod is a Passive mod that makes Soils Placeable on Static Creations like Bases and such.\r\nWorks in all Custom Gamemodes that use the Vanilla SoilBag.lua\r\nJust add this mod to your World Mods and you will be able to Place on Static Grids.\r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 3157053905,
 		"localId": "4d7755b8-223d-4fd2-85a2-3b8345df32dd",
 		"name": "Soil On Blocks",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"8528c2f6-0e93-4f31-8bd1-005563cee443": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds lucky blocks that give you random items!\n\nGives you 2-4 completley random blocks/parts when opened. Get anything from a stack of scrap wood to whatever \"obj_harvest_trees_leafy03_p09\" is.\n\nFeel free to give suggestions if you have any :D\n\nCraftbot recipes currently un-checked but will work when the mod database updates (will be within 12 hours of uploading)",
+		"fileId": 3157088038,
+		"localId": "8528c2f6-0e93-4f31-8bd1-005563cee443",
+		"name": "Lucky Blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b693d5e6-7e0f-4998-96df-078f5e449601": {
+		"allow_add_mods": false,
+		"custom_icons": false,
+		"description": "This custom game allows you to unlock all the clothes in the game in a couple of minutes.\ndressbot is accelerated, and does everything in one go.\nendless clothes and cotton appear in the inventory.\nthis option is great for those who do not want to sweat getting clothes or play only in the creative.",
+		"fileId": 3157384106,
+		"localId": "b693d5e6-7e0f-4998-96df-078f5e449601",
+		"name": "The Garment Cracker",
+		"type": "Custom Game",
+		"version": 0
 	}
 }

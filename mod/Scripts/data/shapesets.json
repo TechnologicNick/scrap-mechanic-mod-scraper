@@ -96276,5 +96276,16 @@
 			"d7eef7a8-c652-4117-b9c6-26ea7d5caa15"
 		]
 	},
-	"4d7755b8-223d-4fd2-85a2-3b8345df32dd": {}
+	"4d7755b8-223d-4fd2-85a2-3b8345df32dd": {},
+	"8528c2f6-0e93-4f31-8bd1-005563cee443": {
+		"$CONTENT_8528c2f6-0e93-4f31-8bd1-005563cee443/Objects/Database/ShapeSets/parts.json": [
+			"4e5caeb0-737d-4eed-9e39-f0902fe18e55"
+		]
+	},
+	"b693d5e6-7e0f-4998-96df-078f5e449601": {
+		"$CONTENT_b693d5e6-7e0f-4998-96df-078f5e449601/Objects/Database/ShapeSets/blocks.shapeset": [
+			"767a3121-2c31-473c-a5ab-27e188fdd55a",
+			"509572b1-d61a-4dd8-a31a-741c22ac34f5"
+		]
+	}
 }
