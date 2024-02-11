@@ -96287,5 +96287,13 @@
 			"767a3121-2c31-473c-a5ab-27e188fdd55a",
 			"509572b1-d61a-4dd8-a31a-741c22ac34f5"
 		]
+	},
+	"b21ee650-eff6-4a0e-9b42-1bb754d89b59": {
+		"$CONTENT_b21ee650-eff6-4a0e-9b42-1bb754d89b59/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"2cef70cf-eb0c-45f9-b47b-3e4433305adb": {
+		"$CONTENT_2cef70cf-eb0c-45f9-b47b-3e4433305adb/Objects/Database/ShapeSets/parts.json": [
+			"8be74c83-2aa7-40b6-a609-3d4ba37a60cc"
+		]
 	}
 }
