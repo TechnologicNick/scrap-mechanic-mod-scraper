@@ -96295,5 +96295,12 @@
 		"$CONTENT_2cef70cf-eb0c-45f9-b47b-3e4433305adb/Objects/Database/ShapeSets/parts.json": [
 			"8be74c83-2aa7-40b6-a609-3d4ba37a60cc"
 		]
+	},
+	"9cd13033-be5a-4399-8952-9946d54657a5": {
+		"$CONTENT_9cd13033-be5a-4399-8952-9946d54657a5/Objects/Database/ShapeSets/example.shapeset": [
+			"789ff6bc-bd3e-4ca2-8b18-8cced924b741",
+			"b064215a-6422-4a2c-80eb-1d2c634eedf2",
+			"714624d6-44e3-4779-9d76-ff4b9e69c915"
+		]
 	}
 }
