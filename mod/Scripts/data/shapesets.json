@@ -96268,6 +96268,10 @@
 			"769ea2b9-ea8b-4569-a77d-69d9060fcbcf",
 			"d67bbd52-4764-4e83-8e04-19f872958194",
 			"50560fd5-4b78-46df-a5db-2c4be10941d1",
+			"0386a24f-208b-4173-b077-e74cf0a48a29",
+			"37660963-af8f-4b40-bd60-2bd37ca71fbd",
+			"3ae1ac50-fedd-4229-a09a-f29844475944",
+			"75e7fa69-6f3f-4c03-b3f3-d0c58e05d803",
 			"ef489e2f-e31f-4c35-9a6b-1bf2bc0d23e3"
 		]
 	},
@@ -96301,6 +96305,32 @@
 			"789ff6bc-bd3e-4ca2-8b18-8cced924b741",
 			"b064215a-6422-4a2c-80eb-1d2c634eedf2",
 			"714624d6-44e3-4779-9d76-ff4b9e69c915"
+		]
+	},
+	"fb432916-c955-4333-92b8-d1a53f44b8cb": {
+		"$CONTENT_fb432916-c955-4333-92b8-d1a53f44b8cb/Objects/Database/ShapeSets/example.shapeset": [
+			"8a1653a4-e674-40a8-b36b-e6f00021971f",
+			"6653d295-77e4-4a55-83d4-5f590b6ce926",
+			"906a8634-c7d3-4cb3-9e67-cb8f15896190",
+			"6ca3b15f-e9ed-497c-9efe-4b3005f5b930",
+			"ed759746-19fa-4915-81a7-024539e5612d",
+			"fd35e8d1-3eea-4faa-bc46-91f6b64d40d2",
+			"0267929d-97a5-4c07-951f-fa56ab51f3c5",
+			"50b2eac2-3968-4043-9151-160ce3c7cbfb",
+			"bc5ca456-c00a-42f0-a437-c165760ce87b",
+			"686b8cc3-c852-46a4-9984-db4fcb2d0214",
+			"7b3e1c32-1a50-4a59-99f7-be549cb2efe1",
+			"caf89ee2-cfae-4dda-abe6-9adbafebb900"
+		]
+	},
+	"511b2df1-96dc-41ad-b1ce-ca2a44722575": {
+		"$CONTENT_511b2df1-96dc-41ad-b1ce-ca2a44722575/Objects/Database/ShapeSets/example.shapeset": [
+			"71a05939-8411-409d-9da0-23db1b19d818"
+		]
+	},
+	"cdc5cca9-9173-476b-bf76-4d0497ec7dec": {
+		"$CONTENT_cdc5cca9-9173-476b-bf76-4d0497ec7dec/Objects/Database/ShapeSets/parts.json": [
+			"971bc7c6-933d-4e0a-9e93-4911cedb7cc3"
 		]
 	}
 }
