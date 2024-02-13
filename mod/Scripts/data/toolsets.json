@@ -4286,5 +4286,10 @@
 		"$CONTENT_cdc5cca9-9173-476b-bf76-4d0497ec7dec/Tools/Database/ToolSets/thetools.toolset": [
 			"8b4da293-43c3-4d62-a15f-801dd6890d44"
 		]
+	},
+	"88ba8635-775e-4759-9a69-3df71f653f19": {
+		"$CONTENT_88ba8635-775e-4759-9a69-3df71f653f19/Tools/Database/ToolSets/example.toolset": [
+			"7de81ee1-888e-472a-8d37-4945aeb0b1c2"
+		]
 	}
 }

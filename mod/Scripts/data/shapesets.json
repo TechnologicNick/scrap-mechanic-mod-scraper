@@ -96335,5 +96335,48 @@
 		"$CONTENT_cdc5cca9-9173-476b-bf76-4d0497ec7dec/Objects/Database/ShapeSets/parts.json": [
 			"971bc7c6-933d-4e0a-9e93-4911cedb7cc3"
 		]
+	},
+	"88ba8635-775e-4759-9a69-3df71f653f19": {
+		"$CONTENT_88ba8635-775e-4759-9a69-3df71f653f19/Objects/Database/ShapeSets/breeches.jsonc": [
+			"bb19cdbf-865e-401c-9c5e-f111bad25839",
+			"bb19cdbf-865e-401c-9c5e-f111bad25842",
+			"bb19cccc-865e-401c-9c5e-f111bad25843",
+			"bb19cdbf-865e-401c-9c5e-f111bad25840",
+			"bb19cdbf-865e-401c-9c5e-f111bad25843",
+			"bb19cdbf-865e-401c-9c5e-f111bad25844",
+			"bb19cdbf-865e-401c-9c5e-f111bad25841"
+		],
+		"$CONTENT_88ba8635-775e-4759-9a69-3df71f653f19/Objects/Database/ShapeSets/shells.jsonc": [
+			"ec19cdbf-865e-401c-9c5e-f111bad25840",
+			"ec19cdbf-865e-401c-9c5e-f111bad25841",
+			"ec18cdbf-865e-122c-9c5e-f111bad25840",
+			"ec18cdbf-865e-122c-9c5e-f111bad25841"
+		],
+		"$CONTENT_88ba8635-775e-4759-9a69-3df71f653f19/Objects/Database/ShapeSets/bullets.jsonc": [
+			"ec19cdbf-865e-401c-9c5e-f122bed25800",
+			"ec19cdbf-865e-401c-9c5e-f122bed25801",
+			"ec19cdbf-865e-122c-9c5e-f122bed25800",
+			"ec19cdbf-865e-122c-9c5e-f122bed25801",
+			"ec19cdbf-865e-401c-9c5e-f122bed25802",
+			"ec19cdbf-865e-401c-9c5e-f122bed25803",
+			"ec19cdbf-865e-401c-9c5e-f122bed25804"
+		],
+		"$CONTENT_88ba8635-775e-4759-9a69-3df71f653f19/Objects/Database/ShapeSets/cartridges.jsonc": [
+			"cc19cdbf-865e-401c-9c5e-f111ccc25800",
+			"cc19cdbf-865e-122c-9c5e-f111ccc25800",
+			"cc19cdbf-865e-401c-9c5e-f111ccc25801",
+			"ec19cdbf-865e-401c-9c5e-f111ccc25801",
+			"ec19cdbf-865e-401c-9c5e-f111ccc25802",
+			"ec19cdbf-865e-401c-9c5e-f111ccc25803"
+		],
+		"$CONTENT_88ba8635-775e-4759-9a69-3df71f653f19/Objects/Database/ShapeSets/other.jsonc": [
+			"55a069ad-4512-421d-b46b-7d14fb7f3b00",
+			"55a069ad-4512-421d-b46b-7d14fb7f3b01",
+			"66a069ab-4512-421d-b46b-7d14fb7f3b22",
+			"66a069ab-4512-421d-b46b-7d14fb7f3b23",
+			"66a069ab-4512-421d-b46b-7d14fb7f3b55",
+			"66a069ab-4512-421d-b46b-7d14fb7f3d07",
+			"66a069ab-4512-421d-b46b-7d14fb7f3d08"
+		]
 	}
 }
