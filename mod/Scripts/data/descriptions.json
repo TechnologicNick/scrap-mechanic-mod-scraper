@@ -15398,10 +15398,10 @@
 	"9b2bfa2b-11dd-4e3a-821d-a91201409cac": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "reltSurvival is a fork of lemonSurvival. Ditching the regular craftbot in favor of 7 smaller specialized craftbots\r\n\r\nCraftbots include:\r\n\r\n\r\n[h1] Mobile craftbot [/h1]\r\nUsed to start your journey, has all the essentials which will you rely on till the end of the game. Can make the Advanced craftbot\r\n\r\n\r\n[h1] Advanced craftbot [/h1]\r\nNow we're getting to the real deal here. Being able to make complex parts and higher level materials is this bots specialty. Can upgrade blocks, make explosives, sensors, big wheels, and other craftbots which are:\r\n\r\n\r\n[h1] Processing craftbot [/h1]\r\nNeed some concrete? In craving for some plastic? Maybe even some spaceship blocks? This bot is here for you, processing basic materials into complex building blocks.\r\n\r\n\r\n[h1] Resource craftbot [/h1]\r\nAfter a getting an inventory full of corn and honey combs, this bot will take these not-so-useful resources and refine them into super useful glue! Not only that, it can also make gasoline, batteries, glowsticks, paint ammo, soil, fertilizer and chemicals.\r\n\r\n\r\n[h1] Decoration craftbot [/h1]\r\nWhoa whoa thats a lot of parts. This bot can make a whopping 238 different bits and bobs just for you, so you can fix that one shelf that just doesnt look right...\r\n\r\n\r\n[h1] Container craftbot [/h1]\r\nUh-oh you ran out of inventory space during a long scavenging run? Fear not, this bot can make storage devices to dump all that weight into.\r\n\r\n\r\n[h1] And finally,  the one and only [/h1]\r\n\r\n[h1] Recycle craftbot! [/h1]\r\nThose pesky totebot heads cluttering up space and lagging out your game? Well not anymore! Recycle them with this craftbot into some useful scrap metal and circuit boards. But dont be so eager, this bot requires plastic which a starting mechanic wouldnt be able to get that quickly.\r\n\r\n\r\n[h1] Additional features [/h1]\r\nExploding trees to get ember trees\r\nFarming clams by hitting them with blocks\r\n\r\n\r\n[spoiler]Hmm, is it just me, or do these craftbots remind me of something? Nah its probably a lack of 3d modeling and texturing skills.[/spoiler]\r\n\r\n[b] Credit: [/b]\r\nlemonSurvival: https://steamcommunity.com/workshop/filedetails/?id=2823686440\r\nCraftbot+: https://steamcommunity.com/sharedfiles/filedetails/?id=2118868098",
+		"description": "Deconstructria is a survival custom game. It ditches the mechanic station to allow you to set a base anywhere you want.\r\n\r\n\r\n[b] Credit: [/b]\r\nlemonSurvival: https://steamcommunity.com/workshop/filedetails/?id=2823686440\r\nCraftbot+: https://steamcommunity.com/sharedfiles/filedetails/?id=2118868098",
 		"fileId": 2829305628,
 		"localId": "9b2bfa2b-11dd-4e3a-821d-a91201409cac",
-		"name": "reltSurvival - lemonSurvival fork",
+		"name": "Deconstructria",
 		"type": "Custom Game",
 		"version": 0
 	},
@@ -33625,7 +33625,7 @@
 	"cdc5cca9-9173-476b-bf76-4d0497ec7dec": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "allows you to debug lua scripts for mods right inside the game\nin general, the scrap mechanic API is implemented almost completely\nthe method that is not available in the standard API is also implemented: load\n\ncurrently not implemented yet:\nnetwork.setClientData\neffects that bind to interactable",
+		"description": "allows you to debug lua scripts for mods right inside the game\nin general, the scrap mechanic API is implemented almost completely\nthe method that is not available in the standard API is also implemented: load\n\ncurrently not implemented yet:\neffects that bind to interactable",
 		"fileId": 3158829147,
 		"localId": "cdc5cca9-9173-476b-bf76-4d0497ec7dec",
 		"name": "dynamic code executor",
@@ -33639,6 +33639,16 @@
 		"fileId": 3016503198,
 		"localId": "88ba8635-775e-4759-9a69-3df71f653f19",
 		"name": "Tank Parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"59ce48e3-1f35-4463-a96e-b510dd509ffe": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[Eng]\nIt contains various beautiful building blocks, especially blocks of tiles.\nplease note that \"4k\" is just the name of the mod, and not all textures in it have this resolution\n\n[Rus]\nсодержит различные красивые строительные блоки, в особенности блоки плиток.\nобратите внимание, что \"4k\" это всего лишь названия мода, и не все текстуры в нем имеют такое разрешение",
+		"fileId": 3160009784,
+		"localId": "59ce48e3-1f35-4463-a96e-b510dd509ffe",
+		"name": "4k blocks",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
