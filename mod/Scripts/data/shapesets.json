@@ -96413,5 +96413,12 @@
 			"78459c1b-ebc6-4f6c-943f-4a21127110a5",
 			"12decfc8-183c-4207-ae0a-945ce36b5792"
 		]
+	},
+	"43f2e45f-57ec-4c60-8432-c9cc7a1cfde5": {
+		"$CONTENT_43f2e45f-57ec-4c60-8432-c9cc7a1cfde5/Objects/Database/ShapeSets/Parts.shapeset": [
+			"faf49ff4-0c23-4e57-8923-ebe351d56077",
+			"97465c7d-97bf-4a52-a4f8-e91a778e4a7b",
+			"1295e2d5-b2e3-4b0f-83e6-b8eee1afae80"
+		]
 	}
 }
