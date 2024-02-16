@@ -33317,7 +33317,7 @@
 	"848468a4-769d-4737-a1c4-8c7770092ce9": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Created sealed compartments that water can flood into!\n\nHaving water in compartments makes the creation heavier and the character will swim aswell!\n\nPerformance can be poor when calucating compartments.",
+		"description": "Created sealed compartments that water can flood into!\r\n\r\nHaving water in compartments makes the creation heavier and the character will swim aswell!\r\n\r\nPerformance can be poor when calucating compartments.\r\n\r\nExample creation:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/3152195934",
 		"fileId": 3145004641,
 		"localId": "848468a4-769d-4737-a1c4-8c7770092ce9",
 		"name": "WaterTight",
