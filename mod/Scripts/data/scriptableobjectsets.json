@@ -751,5 +751,10 @@
 	},
 	"b21ee650-eff6-4a0e-9b42-1bb754d89b59": {
 		"$CONTENT_b21ee650-eff6-4a0e-9b42-1bb754d89b59/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"f006b9ad-8599-4e77-a5b7-f77587c4b280": {
+		"$CONTENT_f006b9ad-8599-4e77-a5b7-f77587c4b280/ScriptableObjects/ScriptableObjectSets/sob_managers.sobset": [
+			"abd9840e-12f0-4c3e-be9f-fa0c0c8fe5f5"
+		]
 	}
 }
