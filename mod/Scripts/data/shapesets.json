@@ -96596,7 +96596,22 @@
 	},
 	"f006b9ad-8599-4e77-a5b7-f77587c4b280": {
 		"$CONTENT_f006b9ad-8599-4e77-a5b7-f77587c4b280/Objects/Database/ShapeSets/pipes.json": [
-			"ff705117-e12d-434d-9530-daf21cc18775"
+			"a4f150c0-389f-4ff9-b759-13bf61a09067"
+		]
+	},
+	"971191f0-1a93-4916-aca2-aa990b2a74b4": {
+		"$CONTENT_971191f0-1a93-4916-aca2-aa990b2a74b4/Objects/Database/ShapeSets/parts.json": [
+			"684202e3-32aa-4cd1-adc0-dcfc47b72c6d",
+			"684202e3-32aa-4cd1-adc0-dcfc47b72c5d",
+			"684202e3-32aa-4cd1-adc0-dcfc47b72c1d",
+			"684202e3-32aa-4cd1-adc0-dcfc47b72c2d",
+			"684202e3-32aa-4cd1-adc0-dcfc47b72c3d",
+			"684202e3-32aa-4cd1-adc0-dcfc47b72c4d"
+		]
+	},
+	"2bc87a92-3a0c-4263-b8ec-0a42d318918e": {
+		"$CONTENT_2bc87a92-3a0c-4263-b8ec-0a42d318918e/Objects/Database/ShapeSets/challenge_ball_small.shapeset": [
+			"64c3efd9-24bd-4117-b805-56b87f92c56b"
 		]
 	}
 }
