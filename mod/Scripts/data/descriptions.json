@@ -33561,7 +33561,7 @@
 				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
 			}
 		],
-		"description": "Adds lucky blocks that give you random items!\n\nSimply add to a custom world and craft with x10 metal 2 to begin gambling. Gives you 2-4 completley random blocks/parts when opened. Get anything from a stack of scrap wood to whatever the heck \"obj_harvest_trees_leafy03_p09\" is.\n\nThis mod adds recipes with the \"Modded Craftbot Recipes\" mod, so make sure to have that installed.\n\nFeel free to give suggestions if you have any :D",
+		"description": "[h1]Adds lucky blocks that give you random items![/h1] \nSimply add to a custom world and craft with x10 metal 2 to begin gambling. Gives you 2-4 completley random blocks/parts when opened. Get anything from a stack of scrap wood to whatever the heck \"obj_harvest_trees_leafy03_p09\" is.\n\nCan now be smashed with your hammer!\n\n[h2]Required Mods[/h2]\n[h3]Modded Craftbot Recipes[/h3]\nThis mod adds recipes with the '[b]Modded Craftbot Recipes[/b]' mod, so make sure to have that installed.\n\n[h3]ModDatabase[/h3]\nAlso you need the mod '[b]ModDatabase[/b]' now! Unless you don't want to have modded item drops.\n\nFeel free to give suggestions if you have any :D",
 		"fileId": 3157088038,
 		"localId": "8528c2f6-0e93-4f31-8bd1-005563cee443",
 		"name": "Lucky Blocks",
@@ -33725,6 +33725,16 @@
 		"fileId": 3164493379,
 		"localId": "c7946792-fad5-451e-b7d3-f710b35c7c82",
 		"name": "collision debuger",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"253267c8-814d-46dc-ae52-55cc9dd1d55c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "this mod is first mod im trying to make just testing ",
+		"fileId": 3164731139,
+		"localId": "253267c8-814d-46dc-ae52-55cc9dd1d55c",
+		"name": "my 2nd first mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
