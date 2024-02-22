@@ -33740,5 +33740,25 @@
 		"name": "my 2nd first mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"0d292a00-633a-4fa2-958a-0ea2cfd7f787": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds the pre survival parts (Level 12345 parts) back into the game.\n\nThis mod uses the same UUID's for the parts as they are in game. So you can even spawn creations without this mod enabled.\n\nThe engines and thrusters do not use fuel.\n\n[i]If you like this mod, please consider giving it a like and a favourite![/i]",
+		"fileId": 3165829494,
+		"localId": "0d292a00-633a-4fa2-958a-0ea2cfd7f787",
+		"name": "Pre - Survival Parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"780b7cb8-eff3-4d50-80ec-1a5d03a6e927": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Jelly :)",
+		"fileId": 3165897274,
+		"localId": "780b7cb8-eff3-4d50-80ec-1a5d03a6e927",
+		"name": "Jelly Mod",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
