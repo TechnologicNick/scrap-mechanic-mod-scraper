@@ -3648,12 +3648,14 @@
 		"version": 0
 	},
 	"df774868-5728-48f4-adbd-1d1c6851fe7a": {
-		"description": "Mods with hitboxes smaller than their visual size.\n\nCurrent wheels:\n4x3(4x2)\n4x2(4x1)\n3x2(3x1)\n5x2(5x1)\n5x3(5x2)\n7x3(7x2)\n7x4(7x3)",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Wheels with hitboxes smaller than their visual size.\n\nCurrent wheels:\n3x2(3x1)\n4x2(4x1)\n4x3(4x2)\n5x2(5x1)\n5x3(5x2)\n7x3(7x2)\n7x4(7x3)\n\nEach of these wheels come in both the large and small model variants.",
 		"fileId": 1760072066,
 		"localId": "df774868-5728-48f4-adbd-1d1c6851fe7a",
 		"name": "Low Collision Wheels",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"c23469a8-4caa-4fdf-96e6-8ca9feee6c61": {
 		"allow_add_mods": true,
@@ -15398,7 +15400,7 @@
 	"9b2bfa2b-11dd-4e3a-821d-a91201409cac": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Deconstructria is a survival custom game.\r\nFeatures:\r\n\r\n* 7 craftbots instead of a big one\r\n* Mechanic station is no longer required to progress\r\n* A bunch of new basic components which you craft things out of (Chips, Resistors, Capacitors, etc.)\r\n* A unique recycler bot. Other mods have a normal craftbot, this one gives you loot based on your item.\r\n* 2 new loot crate types to make ruin looting spicier.\r\n* Faster refine\r\n* One more inventory row to account for more items\r\n* Farmable glue clams (use a piston to smash them)\r\n* Ember from normal trees (explode them)\r\n* Arc Sensor which senses in a configurable semi circle rather than a straight line\r\n* Hybrid engine with configurable power and speed, requires both gas and battery containers\r\n* Diesel engine with higher power than a gas engine\r\n* Diesel container with 10 slots\r\n* Oil from rocks\r\n* Farmbot is killable with the hammer\r\n* Small container with 20 slots and 3 connectors\r\n* Big chest now holds 40 slots\r\n* Solar panels which generate power for an electric engine or battery\r\n* Rechargable batteries\r\n* Water sieves\r\n\r\nMany more to come!\r\n\r\n\r\n\r\n[b] Credit: [/b]\r\nlemonSurvival: https://steamcommunity.com/workshop/filedetails/?id=2823686440\r\nCraftbot+: https://steamcommunity.com/sharedfiles/filedetails/?id=2118868098",
+		"description": "Deconstructria is a survival custom game.\r\nFeatures:\r\n\r\n* 8 craftbots instead of a big one\r\n* Mechanic station is no longer required to progress\r\n* A bunch of new basic components which you craft things out of (Chips, Resistors, Capacitors, etc.)\r\n* A unique recycler bot. Other mods have a normal craftbot, this one gives you loot based on your item.\r\n* 2 new loot crate types to make ruin looting spicier.\r\n* Faster refine\r\n* One more inventory row to account for more items\r\n* Farmable glue clams (use a piston to smash them)\r\n* Ember from normal trees (explode them)\r\n* Arc Sensor which senses in a configurable semi circle rather than a straight line\r\n* Hybrid engine with configurable power and speed, requires both gas and battery containers\r\n* Diesel engine with higher power than a gas engine\r\n* Diesel container with 10 slots\r\n* Oil from rocks\r\n* Farmbot is killable with the hammer\r\n* Small container with 20 slots and 3 connectors\r\n* Big chest now holds 40 slots\r\n* Solar panels which generate power for an electric engine or battery\r\n* Rechargable batteries\r\n* Water sieve\r\n* Propeller. The best thing I've ever added I think.\r\n* Scrapyard. Has randomly generated scrap along with pre-made ones\r\n* Removed packing station and hideout\r\n* Weapon craftbot\r\n\r\nMany more to come!\r\n\r\n\r\n\r\n[b] Credit: [/b]\r\nlemonSurvival: https://steamcommunity.com/workshop/filedetails/?id=2823686440\r\nCraftbot+: https://steamcommunity.com/sharedfiles/filedetails/?id=2118868098",
 		"fileId": 2829305628,
 		"localId": "9b2bfa2b-11dd-4e3a-821d-a91201409cac",
 		"name": "Deconstructria",
@@ -28454,6 +28456,7 @@
 	"56bb0c35-ad87-4899-b332-b37f9e7175c9": {
 		"allow_add_mods": true,
 		"custom_icons": true,
+		"dependencies": null,
 		"description": "This mod adds switches and buttons with arrow icons, so that you don't get your directions mixed up! For ScrapMan, kAN, Moonbo, and many other of their friends.",
 		"fileId": 2925040864,
 		"localId": "56bb0c35-ad87-4899-b332-b37f9e7175c9",
@@ -29798,7 +29801,7 @@
 	"d4990b04-28d8-4bc5-90a8-d9096a07c723": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod is UPDATED!\nVersion 1:\nCommand block.\n\nVersion 2:\nadded repeating and impulse command blocks. any tan command blocks were converted to repeating command blocks as they were repeating to begin with.",
+		"description": "This mod is UPDATED!\nVersion 1:\nCommand block.\n\nVersion 2:\nadded repeating and impulse command blocks. any tan command blocks were converted to repeating command blocks as they were repeating to begin with.\n\nVersion 3:\nremoved \"ModDatabase v2\"",
 		"fileId": 2967737396,
 		"localId": "d4990b04-28d8-4bc5-90a8-d9096a07c723",
 		"name": "Command Block",
