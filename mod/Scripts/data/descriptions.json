@@ -14577,11 +14577,12 @@
 		"version": 0
 	},
 	"79b4dd13-5d17-4ceb-9f57-f30f61b36e06": {
+		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod changes the spudgun's projectiles to all the available projectiles in the game currently. Press R when you are in-game to cycle through the projectiles.\n\nThis custom game also has dev mode included.\n\nHave fun!",
+		"description": "[h1]Download the blocks and parts version of the mod[url https://steamcommunity.com/sharedfiles/filedetails/?id=2816254606] Here[/url][/h1]\r\n\r\nThis mod changes the spudgun's projectiles to all the available projectiles in the game currently. Press R when you are in-game to cycle through the projectiles.\r\n\r\nThis custom game also has dev mode included.\r\n\r\nHave fun!",
 		"fileId": 2807057603,
 		"localId": "79b4dd13-5d17-4ceb-9f57-f30f61b36e06",
-		"name": "Modded Spudgun",
+		"name": "Modded Spudgun [Custom Game]",
 		"type": "Custom Game",
 		"version": 0
 	},
@@ -33768,6 +33769,22 @@
 		"fileId": 3165910962,
 		"localId": "b23dcdb6-e90b-44cb-a15b-ba620fa5c16a",
 		"name": "Spudgun template",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"98e6d032-2dc7-4f4b-91ab-7aaecc5b1bff": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3106598997,
+				"localId": "a2425879-2256-4b93-b0b8-f4f78b0ee144"
+			}
+		],
+		"description": "This mod doesn't have a description",
+		"fileId": 3166431265,
+		"localId": "98e6d032-2dc7-4f4b-91ab-7aaecc5b1bff",
+		"name": "creation respawner",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

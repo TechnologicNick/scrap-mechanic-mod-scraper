@@ -4314,5 +4314,10 @@
 		"$CONTENT_b23dcdb6-e90b-44cb-a15b-ba620fa5c16a/Tools/Database/ToolSets/Spudgun.json": [
 			"116a3aae-c750-4101-876f-b5a41926c657"
 		]
+	},
+	"98e6d032-2dc7-4f4b-91ab-7aaecc5b1bff": {
+		"$CONTENT_98e6d032-2dc7-4f4b-91ab-7aaecc5b1bff/Tools/Database/ToolSets/example.toolset": [
+			"1ef82d2a-2fa7-4cc4-bb3f-6eaf607586c2"
+		]
 	}
 }
