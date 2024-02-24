@@ -4089,6 +4089,15 @@
 	"311a531d-ebff-4b61-966a-9ae02f5af5d0": {},
 	"1b931a0b-721d-4379-a800-3c8b13a3be07": {},
 	"e05e0ad2-0a5f-46f9-98ab-b26c0a844922": {
+		"$CONTENT_e05e0ad2-0a5f-46f9-98ab-b26c0a844922/Tools/Database/ToolSets/overrides.toolset": [
+			"262aa73a-ca62-4d27-8c96-c3566352bd8a",
+			"2bff990a-0e74-43c7-b7dc-889b3a086fa3",
+			"68f10c3f-509a-43bb-9396-28602e156717",
+			"3ef5412a-7044-45ae-9592-9ce86bd99081",
+			"52c1d933-5ba0-47da-b107-477b6c211a5d",
+			"8f190ce2-3a59-423e-8483-a7aa67bd5bc0",
+			"59a3469c-d7cd-4784-aa5b-316749abc2b6"
+		],
 		"$CONTENT_e05e0ad2-0a5f-46f9-98ab-b26c0a844922/Tools/Database/ToolSets/survival.toolset": [
 			"dd7d7a2c-1ef7-4a75-bcf8-6d271a8dd950",
 			"fe53a95e-a438-4a37-8027-41ca2100936f",
@@ -4102,21 +4111,14 @@
 			"43957878-e9d8-47c9-ad2e-10cfd5079733",
 			"25ad8917-4f54-4ea8-be05-e46d036a4fff",
 			"ae00b1c5-9e69-4855-ad60-72125b91c13a",
-			"262aa73a-ca62-4d27-8c96-c3566352bd8a",
-			"2bff990a-0e74-43c7-b7dc-889b3a086fa3",
-			"68f10c3f-509a-43bb-9396-28602e156717",
-			"3ef5412a-7044-45ae-9592-9ce86bd99081",
-			"52c1d933-5ba0-47da-b107-477b6c211a5d",
-			"8f190ce2-3a59-423e-8483-a7aa67bd5bc0",
 			"75bf9b3c-0a55-4654-bdfb-b0cdac9fb3ac",
 			"80fef859-c2bc-4148-a6be-4b917f2dd313",
-			"59a3469c-d7cd-4784-aa5b-316749abc2b6"
+			"3a225d01-a4cb-4249-9aed-1e8c3479cb64"
 		],
 		"$CONTENT_e05e0ad2-0a5f-46f9-98ab-b26c0a844922/Tools/Database/ToolSets/spudguns.toolset": [
 			"c5ea0c2f-185b-48d6-b4df-45c386a575cc",
 			"f6250bf4-9726-406f-a29a-945c06e460e5",
-			"9fde0601-c2ba-4c70-8d5c-2a7a9fdd122b",
-			"3a225d01-a4cb-4249-9aed-1e8c3479cb64"
+			"9fde0601-c2ba-4c70-8d5c-2a7a9fdd122b"
 		]
 	},
 	"6cf41b04-0d55-4f45-a731-a4619e8b2b95": {},
