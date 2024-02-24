@@ -4321,5 +4321,10 @@
 		"$CONTENT_98e6d032-2dc7-4f4b-91ab-7aaecc5b1bff/Tools/Database/ToolSets/example.toolset": [
 			"1ef82d2a-2fa7-4cc4-bb3f-6eaf607586c2"
 		]
+	},
+	"0bc6b5bf-4b6a-4b2c-82cf-3ddab399eb35": {
+		"$CONTENT_0bc6b5bf-4b6a-4b2c-82cf-3ddab399eb35/Tools/Database/ToolSets/example.toolset": [
+			"8a5c1844-defd-4b90-8a14-c9783dfc1524"
+		]
 	}
 }
