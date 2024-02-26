@@ -3924,7 +3924,8 @@
 	},
 	"db8418b6-2e46-4f01-90f5-58b4973e7587": {
 		"$CONTENT_db8418b6-2e46-4f01-90f5-58b4973e7587/Tools/Database/ToolSets/PrimaryToolSet.toolset": [
-			"ba43916b-1dcb-4a67-9350-c4a4966a1b74"
+			"ba43916b-1dcb-4a67-9350-c4a4966a1b74",
+			"02c64eee-6d75-4498-840c-3f0d85b164bf"
 		]
 	},
 	"29e7f7d2-7fd2-4b55-9bec-119d65cf8d70": {
