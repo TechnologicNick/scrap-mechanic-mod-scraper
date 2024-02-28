@@ -33695,7 +33695,7 @@
 	"f006b9ad-8599-4e77-a5b7-f77587c4b280": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Surreality is a survival custom game focused on being as vanilla like as possible\n\nAdds new features:\n- Seed and fertilizer container\n- Craftable staircase wedge\n- Stacking: (10): Pipes, Pistons, Sensors, Wheels, Lights\n- Stacking: (5): Engines, Seats, Containers, Fridge, Chests, Industrials\n- Weather\n\nCredits:\nCrashlander",
+		"description": "Surreality is a survival custom game focused on being as vanilla like as possible\n\nAdds new features:\n- Pipes: Tee, Cross, 6-Way, 5-Way, 4-Way, 3-Way\n- Seed and fertilizer container\n- Craftable staircase wedge\n- Stacking: (10): Pipes, Pistons, Sensors, Wheels, Lights\n- Stacking: (5): Engines, Seats, Containers, Fridge, Chests, Industrials\n- Weather\n\nCredits:\nCrashlander",
 		"fileId": 3163547347,
 		"localId": "f006b9ad-8599-4e77-a5b7-f77587c4b280",
 		"name": "Surreality",
@@ -33705,7 +33705,7 @@
 	"971191f0-1a93-4916-aca2-aa990b2a74b4": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Switches and Trainguides (For now)\r\n\r\nConnect the switch parts to logic and theyll magically change direction.\r\nIf this seems familiar to anyone thats because these exact switches are in another mod where i made these for - This is just the standalone version of it.",
+		"description": "Switches and Trainguides (For now)\n\nConnect the switch parts to logic and theyll magically change direction.\nIf this seems familiar to anyone thats because these exact switches are in another mod where i made these for - This is just the standalone version of it.\n\nPrepared Blueprints are now available under Required Items\n\nUpdate 1;\n- Switches can now be toggled by simply interacting with them\n- Added Long Switches (with fitting Terrain assets in my Train assets pack)",
 		"fileId": 3164212160,
 		"localId": "971191f0-1a93-4916-aca2-aa990b2a74b4",
 		"name": "Train Stuff (Toggleable Parts)",
@@ -33805,6 +33805,37 @@
 		"fileId": 3169217068,
 		"localId": "1a62de19-040b-430f-a51a-556456656589",
 		"name": "Sights Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"27655c1c-19ac-48f9-9ecd-7109faf43a33": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "My take on the number logic stuff.\r\n\r\nThis mod adds the Operator Block which allows you to write any function, and other parts.\r\nIf you need help with these parts some of them have an info menu you can open with U.\r\n\r\nCompatible with modpack logic.",
+		"fileId": 3167308238,
+		"localId": "27655c1c-19ac-48f9-9ecd-7109faf43a33",
+		"name": "Random Robot's Number Logic",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6ce20eff-b335-4b15-8511-52b2a8a9c28f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A crashlander-compatible version of Low Cost Thruster by Dampfwatze, with thrusters balanced to my liking. For information about the mod, please check out the original mod.",
+		"fileId": 3169345236,
+		"localId": "6ce20eff-b335-4b15-8511-52b2a8a9c28f",
+		"name": "better thruster for crashlander",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"8b3a3225-fdb3-406b-8910-753dbf0798ed": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "This mod doesn't have a description",
+		"fileId": 3169528984,
+		"localId": "8b3a3225-fdb3-406b-8910-753dbf0798ed",
+		"name": "Decorative Mods",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
