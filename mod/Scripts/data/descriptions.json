@@ -33821,7 +33821,7 @@
 	"6ce20eff-b335-4b15-8511-52b2a8a9c28f": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "A crashlander-compatible version of Low Cost Thruster by Dampfwatze, with thrusters balanced to my liking. For information about the mod, please check out the original mod.",
+		"description": "",
 		"fileId": 3169345236,
 		"localId": "6ce20eff-b335-4b15-8511-52b2a8a9c28f",
 		"name": "better thruster for crashlander",
@@ -33848,5 +33848,25 @@
 		"name": "MoLoggers",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"69bb0c88-5c4b-48fb-8e68-2a52657d29a4": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Electric engines with more torque",
+		"fileId": 3163462853,
+		"localId": "69bb0c88-5c4b-48fb-8e68-2a52657d29a4",
+		"name": "Electric Engines Levels 6+",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1a834ec0-f695-4328-b9d0-f2255df641bc": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Mod that makes the game's world extremely big (but not infinite) the size is somewhere around 20000 tiles",
+		"fileId": 3169932282,
+		"localId": "1a834ec0-f695-4328-b9d0-f2255df641bc",
+		"name": "Infinite Creative World",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
