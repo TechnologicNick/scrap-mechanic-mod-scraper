@@ -13122,7 +13122,7 @@
 	"7fadde68-1b72-4f26-b392-46f8d9be5c3e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod changes the spudgun's projectiles to all the available projectiles in the game currently. Press the reload key to open up the GUI for the gun.\n\nHave fun!",
+		"description": "This mod changes the spudgun's projectiles to all the available projectiles in the game currently. Press the reload key to open up the GUI for the gun.\n\nHave fun!\n\nNote: This modded spudgun does not use any ammo at all, so using it in survival with limited inventory should not be a problem.",
 		"fileId": 2816254606,
 		"localId": "7fadde68-1b72-4f26-b392-46f8d9be5c3e",
 		"name": "Modded Spudgun [Blocks and Parts]",
@@ -33946,6 +33946,16 @@
 		"fileId": 3173066118,
 		"localId": "6bed5518-3b8a-4cb8-8041-5172d3dcdffa",
 		"name": "Everything is craftable",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"24250aa8-0b6d-4b99-9d23-9e5eb085a914": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This is a Evil Survival Challange to Hurt the Player",
+		"fileId": 3173515967,
+		"localId": "24250aa8-0b6d-4b99-9d23-9e5eb085a914",
+		"name": "Evil Survival Challange",
 		"type": "Custom Game",
 		"version": 0
 	}
