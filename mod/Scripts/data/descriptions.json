@@ -29637,24 +29637,19 @@
 		"custom_icons": false,
 		"dependencies": [
 			{
-				"fileId": 2963669827,
-				"localId": "c070161a-e8e0-4593-8e63-30799b7f6904",
-				"name": "Duplicator Tool"
-			},
-			{
-				"fileId": 2916542549,
-				"localId": "b03e83bd-6cfc-47d3-bfcb-3c5a437f107b",
-				"name": "Player Teleporter"
-			},
-			{
 				"fileId": 2844836154,
 				"localId": "61dfaa2e-041d-4e6b-82a1-54185a7d0cfe",
 				"name": "Better Lift"
 			},
 			{
-				"fileId": 2022198450,
-				"localId": "d14c9984-f872-411b-8e0e-993e829e9bbb",
-				"name": "OP Tools"
+				"fileId": 3175074477,
+				"localId": "ad999bac-a054-4ea3-8b8e-37d6d4d916e9",
+				"name": "custom starter hotbar"
+			},
+			{
+				"fileId": 3150883473,
+				"localId": "1ef74156-76f0-4fc5-a73f-a4c1d4e2ecbc",
+				"name": "timer"
 			},
 			{
 				"fileId": 2885937214,
@@ -29667,14 +29662,29 @@
 				"name": "raw block editor [BETA]"
 			},
 			{
-				"fileId": 3150883473,
-				"localId": "1ef74156-76f0-4fc5-a73f-a4c1d4e2ecbc",
-				"name": "timer"
+				"fileId": 2022198450,
+				"localId": "d14c9984-f872-411b-8e0e-993e829e9bbb",
+				"name": "OP Tools"
 			},
 			{
 				"fileId": 2121803790,
 				"localId": "4649a444-621f-4595-90ba-908ae8301445",
 				"name": "Advanced X-O-Meter"
+			},
+			{
+				"fileId": 3150883473,
+				"localId": "1ef74156-76f0-4fc5-a73f-a4c1d4e2ecbc",
+				"name": "timer"
+			},
+			{
+				"fileId": 3166431265,
+				"localId": "98e6d032-2dc7-4f4b-91ab-7aaecc5b1bff",
+				"name": "creation respawner"
+			},
+			{
+				"fileId": 2963669827,
+				"localId": "c070161a-e8e0-4593-8e63-30799b7f6904",
+				"name": "Duplicator Tool"
 			}
 		],
 		"description": "parts and tools created that may be useful or fun.\n\n[h1]current parts:[/h1]\n[list]\n[*] [b]Shape Placer[/b]\n     Press Q to toggle between shape types.\n[*] [b]creation Summoner[/b]\n     Allows you to save creations from the void or just from far away.\n[*] [b]Duplicator Tool[/b]\n     This tool allows you to select multiple bodies and duplicate/mirror them.\n[*] [b]Player Teleporter[/b]\n     This tool allows you to teleport around the map just by looking at where you want to go.\n[*] [b]Better Lift[/b]\n     This tool Replaces your current Lift to have infinate reach, use [F] and [R] to extend lift past noraml limits.\n[*] [b]Admin Tool[/b]\n     complex featues, visit [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2022198450]this page[/url] for description.\n[*] [b]Player Kicker[/b]\n     Allows you to people from your world.\n[*] [b]World Cleaner[/b]\n     Allows you to clear parts from the world.\n[*] [b]Free Camera[/b]\n     complex featues, visit [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2022198450]this page[/url] for description.\n[*] [b]Permission Manager[/b]\n     Allows you to configure permission for other players to use.\n[*] [b]Clear Tool[/b]\n     Allows you to Clear the world with set filters.\n[*] [b]Raw Block Editor[/b]\n     Allows you to edit the raw data of a shape and update it in real time.\n[*] [b]Stop Watch[/b]\n     Track how fast you are with this stop watch timer, lmb-drag to create a line, rmb to delete line, force build to reset timer, Q to change lap-timer type.\n[*] [b]Advanced X-O-Meter[/b]\n     x-o meter from The Modpack, all credit goes to Brent Batch and the rest of The Modpack team.\n[/list]\n[h1]discord.gg/6r46PkYr9s[/h1]\n\nhave ideas for new tools or features? post in comments. or talk directly to me in the discord.",
@@ -33124,7 +33134,7 @@
 	"a4194b4f-083d-4a4b-953a-43a7991aea20": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "In dev, will be extended\r\n\r\n[b]Contains now:[/b]\r\n- I.M.P van wheel\r\n- Classic car wheel\r\n- Retro steering wheel (button)\r\n- Truck steering wheel (button)\r\n- Crossed arrow sign\r\n- Taxi sign\r\n- 70's Car mirror (left&right)\r\n- Trash bin (chrome&black)\r\n- Lounge/waiting seat (seat lol)\r\n- ZIL truck wheel (1x5)\r\n\r\n\r\n\r\n\r\n[u]All models made by me[/u]\r\n\r\n\r\n\r\n\r\n(You can suggest your ideas though)",
+		"description": "In dev, will be extended\r\n\r\n[b]Contains now:[/b]\r\n- I.M.P van wheel\r\n- Classic car wheel\r\n- ZIL truck wheel (1x5)\r\n- Retro steering wheel (button)\r\n- Truck steering wheel (button)\r\n- Taxi sign\r\n- 70's Car mirror (left&right)\r\n- Car antenna\r\n- Crossed arrow sign\r\n- Trash bin (chrome&black)\r\n- Lounge/waiting seat (seat lol)\r\n- Some panel variates\r\n[u]All of these are colorable[/u]\r\n\r\n\r\n\r\n\r\n[u]All models made by INZHIR[/u]\r\n\r\n\r\n\r\n\r\n(You can suggest your ideas though)",
 		"fileId": 3131864422,
 		"localId": "a4194b4f-083d-4a4b-953a-43a7991aea20",
 		"name": "INZHIR parts [Beta]",
@@ -33970,5 +33980,25 @@
 		"name": "Evil Survival Challange",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"53a95df2-440a-4b45-8f3e-0716defbcfc8": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Use with caution! This mod is originally designed for tank battles in temporary worlds.\nOnce loaded in the world, the connections will be hidden by default. Even with the mod disabled connections will remain hidden.\n\nHow it works?\nConnections are revealed when the player holds the Connection Tool at an reachable distance from the creation! Note that connection visibility can only be controlled by the server, so revealed connections will be visible for everyone.",
+		"fileId": 3174805443,
+		"localId": "53a95df2-440a-4b45-8f3e-0716defbcfc8",
+		"name": "No Connect Tool Spying",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"ad999bac-a054-4ea3-8b8e-37d6d4d916e9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "automatically sets the user's hotbar on join.\n\nuse /savehotbar to set it\n\nworks across any world as long as it has this mod added to its mod list.",
+		"fileId": 3175074477,
+		"localId": "ad999bac-a054-4ea3-8b8e-37d6d4d916e9",
+		"name": "custom starter hotbar",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
