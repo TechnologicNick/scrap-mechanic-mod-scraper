@@ -33692,10 +33692,11 @@
 	"43f2e45f-57ec-4c60-8432-c9cc7a1cfde5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Adds fun things as a test",
+		"dependencies": null,
+		"description": "Adds a bunch of useful utilities, including:\r\n1. 2 Fuel Converters which allow you to convert gasoline into batteries and vice versa in a 10:8 ratio\r\n\r\n2. Dodge Explosion block which spawns a random explosion every x seconds in y area. [Stats are adjustable in dodge_explo.lua file]\r\n\r\n3. A battery generator that just generates batteries.\r\n\r\n4. Most importantly, a type of uv grow bed. Basically a grow bed which allows you grow crops without crops and provides portability. Requires electricity [batteries] to function. Connect to a battery container with at least one battery and grow your desired crop. Level 2 costs 5 component kits and unlocks fertilizer recipes with additional reduced grow time. there are three versions of the grow bed:\r\na. Without fertilizer recipes\r\nb. With fertilizer recipes\r\nc. With fertilizer recipes and piped [Not yet craftable in survival]\r\n\r\nBoth the Fuel converters and two versions of the grow bed are obtainable in survival, Thanks to Modded Craftbot Recipes.",
 		"fileId": 3158847150,
 		"localId": "43f2e45f-57ec-4c60-8432-c9cc7a1cfde5",
-		"name": "Fun Things",
+		"name": "Useful Utilities",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -33851,7 +33852,7 @@
 		"description": "",
 		"fileId": 3169345236,
 		"localId": "6ce20eff-b335-4b15-8511-52b2a8a9c28f",
-		"name": "better thruster for crashlander",
+		"name": "nothing interesting",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -34003,6 +34004,16 @@
 		"fileId": 3175074477,
 		"localId": "ad999bac-a054-4ea3-8b8e-37d6d4d916e9",
 		"name": "custom starter hotbar",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"fe5d21c6-58a8-40d3-8506-ad34d1d9e8ea": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "allows you not to fly away from your flying ship or tank if you not on the seat.\nplease note that you can move in a moving vehicle only using a sprint.",
+		"fileId": 3176450068,
+		"localId": "fe5d21c6-58a8-40d3-8506-ad34d1d9e8ea",
+		"name": "realistic interactions in motion",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
