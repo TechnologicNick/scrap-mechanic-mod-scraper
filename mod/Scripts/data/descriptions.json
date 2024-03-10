@@ -33742,11 +33742,12 @@
 	},
 	"2bc87a92-3a0c-4263-b8ec-0a42d318918e": {
 		"allow_add_mods": true,
+		"creatorId": "76561198196308206",
 		"custom_icons": false,
-		"description": "Shrunken Challenge ball. Down from 5x5x5 to 2x2x2",
+		"description": "Shrunken Challenge Parts. Only available for creative mode.",
 		"fileId": 3164251507,
 		"localId": "2bc87a92-3a0c-4263-b8ec-0a42d318918e",
-		"name": "small challenge ball",
+		"name": "Small Challenge Parts",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
