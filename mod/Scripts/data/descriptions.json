@@ -32390,6 +32390,11 @@
 		"custom_icons": false,
 		"dependencies": [
 			{
+				"fileId": 3160009784,
+				"localId": "59ce48e3-1f35-4463-a96e-b510dd509ffe",
+				"name": "4k blocks"
+			},
+			{
 				"fileId": 2957640756,
 				"localId": "6bc49594-9348-4970-871e-4b3fb98feb56",
 				"name": "Advanced Challenge Parts"
