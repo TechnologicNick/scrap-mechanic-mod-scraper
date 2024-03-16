@@ -30000,12 +30000,12 @@
 	"51ee9a4c-967b-46f5-b1b4-333ed02a1831": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod adds 9 Liftable Packing Crates to creative mode that were previously only available in survival mode.\n\nThese Packing Crates can be used on the lift, unlike their survival-mode counterparts. This should make them more useful when prototyping creations with them.\n\nIncluded Parts:\n- Banana Crate\n- Blueberry Crate\n- Broccoli Crate\n- Orange Crate\n- Pineapple Crate\n- Carrot Crate\n- Redbeet Crate\n- Tomato Crate\n- WOC Crate (moo)\n\nUpdate 1.15 [7/10/23]dmy\n- Cleaned up files\n- Crates have their own UUID now\n\nUpdate 1.10 (10/9/23)dmy\n- Now liftable\n- Crates now have inventory descriptions\n\nThis mod will not receive updates to add new content.",
+		"description": "This mod adds 9 Liftable Packing Crates to creative mode that were previously only available in survival mode.\n\nThese Packing Crates can be used on the lift, unlike their survival-mode counterparts. This should make them more useful when prototyping creations with them.\n\nIncluded Parts:\n- Banana Crate\n- Blueberry Crate\n- Broccoli Crate\n- Orange Crate\n- Pineapple Crate\n- Carrot Crate\n- Redbeet Crate\n- Tomato Crate\n- WOC Crate (moo)\n\nUpdate 1.20 (16/03/24)\n- Players can now interact with crates [E - Use] to destroy them with ease\n- Crate Descriptions have been updated\n\nUpdate 1.15 (7/10/23)\n- Cleaned up files\n- Crates have their own UUIDs now\n\nUpdate 1.10 (10/9/23)\n- Now liftable\n- Crates now have inventory descriptions",
 		"fileId": 2973487498,
 		"localId": "51ee9a4c-967b-46f5-b1b4-333ed02a1831",
 		"name": "Packing Crates in Creative",
 		"type": "Blocks and Parts",
-		"version": 1.1
+		"version": 1.2
 	},
 	"ce9b5b4a-04b6-4e7a-9dd0-23bbcdc99114": {
 		"allow_add_mods": true,
@@ -34060,6 +34060,16 @@
 		"fileId": 3185873460,
 		"localId": "ce19e09c-26d2-4734-bfdb-f1da98c37c8c",
 		"name": "PR&FH Mod (GEAR)",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"da121064-3469-408c-941b-75d2371a125d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod will allow you to make Component Kits and Circuit Boards craftable in survival using the modded craftbot recipes game mode\nIt also adds a spooky scary purple caution block that doesn't show up in inventory so the tool can identify it.",
+		"fileId": 3187151940,
+		"localId": "da121064-3469-408c-941b-75d2371a125d",
+		"name": "Craftable Kits",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
