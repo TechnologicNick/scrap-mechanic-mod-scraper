@@ -34042,5 +34042,15 @@
 		"name": "wr",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"a99716ca-719d-4891-b1d2-f1978e954a05": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This radio runs on betterAPI and can play music via a direct link.\nunfortunately, you cannot insert a link from youtube or something like that here,\nbut you can place your .mp3/.wav file on any hosting (for example, github) and insert a direct (raw) link to the file.\ndirect links to streaming Internet radio stations will also work (however, connecting to a streaming radio station can take a long time and not the first time).",
+		"fileId": 3185287679,
+		"localId": "a99716ca-719d-4891-b1d2-f1978e954a05",
+		"name": "online boombox [betterAPI]",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
