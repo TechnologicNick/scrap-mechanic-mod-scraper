@@ -33986,7 +33986,7 @@
 	"24250aa8-0b6d-4b99-9d23-9e5eb085a914": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This is a Evil Survival Challange to Hurt the Player",
+		"description": "This is a Evil Survival Challenge to Hurt the Player\r\n\r\n- Any Damage will Kill Instant the Player.\r\n- Only 5 Inventory Slots.\r\n- No Health Regenerating from Food.\r\n- 2x Faster Hunger and Thrist",
 		"fileId": 3173515967,
 		"localId": "24250aa8-0b6d-4b99-9d23-9e5eb085a914",
 		"name": "Evil Survival Challange",
@@ -34050,6 +34050,16 @@
 		"fileId": 3185287679,
 		"localId": "a99716ca-719d-4891-b1d2-f1978e954a05",
 		"name": "online boombox [betterAPI]",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"ce19e09c-26d2-4734-bfdb-f1da98c37c8c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3185873460,
+		"localId": "ce19e09c-26d2-4734-bfdb-f1da98c37c8c",
+		"name": "PR&FH Mod (GEAR)",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
