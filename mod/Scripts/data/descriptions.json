@@ -29250,7 +29250,7 @@
 	"c76c1b15-b535-4aa0-9113-65965c78f148": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This Mod add Parts from my Main Mod ( Fant Mod ) as Seperated Mod usable in Creative.\r\n\r\n-Gearbox\r\n-3 sizes of Ballwheels\r\n-6 sizes of Waterwheels ( paddle )\r\n-Different Wheels and Offrad Wheels\r\n-Chemical Lift Engine ( like a Hot air ballon )\r\n-3 sizes of Pontons ( adjustable bouyancy )\r\n-4 different Propeller ( fixed size )\r\n-2 Adjustable Propeller\r\n-1x2 Thuster\r\n-2 different Water Thruster ( for heavy ships, the power of them scales with the mass, more mass more power )\r\n-many different Wing parts ( they have nothing todo with the Wings mod, its a completly different code )\r\n-2 Custom Engines with Gear Change, Brake and Clutch\r\n \r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This Mod add Parts from my Main Mod ( Fant Mod ) as Seperated Mod usable in Creative.\r\n\r\n-Gearbox\r\n-3 sizes of Ballwheels\r\n-6 sizes of Waterwheels ( paddle )\r\n-Different Wheels and Offrad Wheels\r\n-Chemical Lift Engine ( like a Hot air ballon )\r\n-3 sizes of Pontons ( adjustable bouyancy )\r\n-4 different Propeller ( fixed size )\r\n-2 Adjustable Propeller\r\n-1x2 Thuster\r\n-2 different Water Thruster ( for heavy ships, the power of them scales with the mass, more mass more power )\r\n-many different Wing parts ( they have nothing todo with the Wings mod, its a completly different code )\r\n-2 Custom Engines with Gear Change, Brake and Clutch\r\n \r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2949730799,
 		"localId": "c76c1b15-b535-4aa0-9113-65965c78f148",
 		"name": "Fants Propulsion Stuff",
@@ -34090,6 +34090,16 @@
 		"fileId": 3190199816,
 		"localId": "862cc8db-9b52-4ffa-b149-52d1795f5034",
 		"name": "Le Gyro et Le Gimbal",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"cd85eacc-f183-4da6-b8fd-d096ee1cb18e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "You can make mods more easier and much quicker. It'll make some things more better and efficient.",
+		"fileId": 3172185380,
+		"localId": "cd85eacc-f183-4da6-b8fd-d096ee1cb18e",
+		"name": "Mod Utility Tools",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
