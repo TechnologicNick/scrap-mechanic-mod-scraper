@@ -31933,12 +31933,12 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "☻Модпак забавный☻\r\n\r\nМод был создан для личного использования.\r\nВ этом моде вы найдете различные детали, от колес до старого механика.\r\nЕсть рецепты крафтов для custom game.\r\nЯзыки:\r\n- Русский\r\n- Английский\r\n\r\nТеги: колёса, механик, блоки, интерактивные детали, мяч, лом, полигоны, фермер, старые боты, пружины, бомбы, пушки, флаги, картины, линзы.",
+		"description": "☻Модпак забавный☻\r\n\r\nВ этом моде вы найдете различные детали, от колес до старого механика.\r\nЕсть рецепты крафтов для custom game.\r\nЯзыки:\r\n- Русский\r\n- Английский\r\n\r\nТеги: колёса, механик, блоки, интерактивные детали, мяч, лом, полигоны, фермер, старые боты, пружины, бомбы, пушки, флаги, картины, линзы.\r\n\r\nВсе изображения сделаны с настройками графики по умолчанию.",
 		"fileId": 3049604044,
 		"localId": "3a8d7f21-c853-48ec-b916-f055cb403cd1",
 		"name": "The Modpack is Funny",
 		"type": "Blocks and Parts",
-		"version": 1.4
+		"version": 1.41
 	},
 	"dcfe3d42-ed03-4025-ba8e-04a5c4875e28": {
 		"allow_add_mods": true,
@@ -34086,7 +34086,7 @@
 	"862cc8db-9b52-4ffa-b149-52d1795f5034": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "a cool mod\n",
+		"description": "This my first mod :), this mod adds 2 new parts that is used with the Modpack Continuation number logic, the first part is a gyroscope that can control the angular velocity of your creation with number input and adapt his force to the mass and the inertia of the creation. The second is a small gimbal thruster where you can adjust the direction that the thruster point with number input, orange input is the power of the gimbal, red is pitch and green is yaw.",
 		"fileId": 3190199816,
 		"localId": "862cc8db-9b52-4ffa-b149-52d1795f5034",
 		"name": "Le Gyro et Le Gimbal",
