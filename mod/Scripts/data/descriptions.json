@@ -33845,7 +33845,7 @@
 	"27655c1c-19ac-48f9-9ecd-7109faf43a33": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "My take on the number logic stuff.\r\n\r\nThis mod adds the Operator Block which allows you to write any function, and other parts.\r\nIf you need help with these parts some of them have an info menu you can open with U.\r\n\r\nCompatible with modpack logic.",
+		"description": "My take on the number logic stuff.\r\n\r\nThis mod adds the Operator Block which allows you to write any function, and other parts.\r\nSome of the parts contain an info menu which you can open by tinkering with them.\r\n\r\nCompatible with The Modpack number logic.\r\n\r\nExample creations:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=3169460072\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3169460275\r\n\r\n\r\n\r\nDo NOT reupload the mod or use any of it's contents without permission.",
 		"fileId": 3167308238,
 		"localId": "27655c1c-19ac-48f9-9ecd-7109faf43a33",
 		"name": "Random Robot's Number Logic",
@@ -34128,6 +34128,17 @@
 		"fileId": 3196505012,
 		"localId": "2723b328-96ed-4bb5-ab50-1bf0821b1232",
 		"name": "WHHHHHHYYYYYYYY NO FUCKIN WORK",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"bde4331a-dcbb-42d4-b8c3-9f6d2f2417c3": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "Not a very necessary mod\r\n\r\n[HOW TO INSTALL]\r\n\r\nGoto C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\3201443037\r\nCopy Data and Survival folder\r\nGoto C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\r\nPaste previously copied folders\r\n\r\nIf you install this mod on top of other mods for clothes, there will be problems \r\n",
+		"fileId": 3201443037,
+		"localId": "bde4331a-dcbb-42d4-b8c3-9f6d2f2417c3",
+		"name": "AA",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
