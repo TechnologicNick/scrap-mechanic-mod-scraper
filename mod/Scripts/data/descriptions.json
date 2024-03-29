@@ -30819,7 +30819,7 @@
 	"756d4f03-2e86-4f5b-a425-20259568eff3": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Надоело искать нужный предмет среди заполненного модами инвентаря? Это можно решить. \r\nПросто посмотрите на нужный блок и введите команду [b]/get[/b] в чат и он моментально появится в активном слоте хотбара.\r\n\r\n[h1] Информация о моде [/h1]\r\n[olist]\r\n    [*]Этот мод добавляет функцию получения нужного блока, не заходя в инвентарь. (как средняя кнопка мыши в Minecraft'е)\r\n    [*] [b]Почему не средняя кнопка мыши? В API этой игры нет поддержки биндов для модов. Если в будущем\r\nдобавят их поддержку, то я обязательно переделаю мод, пока только так. [/b]\r\n[/olist]\r\n\r\n[h1] Баги [/h1]\r\n[olist]\r\n    [*]Мод не работает в режиме выживания, но работает с другими кастомками. (список ниже)\r\n[/olist]\r\n\r\n[h1] Поддерживаемые кастомки [/h1]\r\n[olist]\r\n    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3113900342] Crashlander: Square One [/url]\r\n    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2820096455] Fant Mod 2 Custom Gamemode [/url] (Не работает с двумя последними рядами слотов в инвентаре)\r\n[/olist]\r\n\r\nПожалуйста, поставьте лайк этому моду и добавьте его себе в избранное, чтобы поддержать мою работу!",
+		"description": "Надоело искать нужный предмет среди заполненного модами инвентаря? Это можно решить. \r\nПросто посмотрите на нужный блок и введите команду [b]/get[/b] в чат и он моментально появится в активном слоте хотбара.\r\n\r\n[h1] Информация о моде [/h1]\r\n[olist]\r\n    [*]Этот мод добавляет функцию получения нужного блока, не заходя в инвентарь. (как средняя кнопка мыши в Minecraft'е)\r\n    [*][b]Почему не средняя кнопка мыши? В API этой игры нет поддержки биндов для модов. Если в будущем\r\nдобавят их поддержку, то я обязательно переделаю мод, пока только так. [/b]\r\n    [*]Дополнительные страницы хотбара можно выбирать, если ввести их номер в команде: [b]/get 1/2/3[/b] (можно не указывать, по умолчанию будет 1-я страница)\r\n[/olist]\r\n\r\n[h1] Баги [/h1]\r\n[olist]\r\n    [*]Мод не работает в режиме выживания, но работает с другими кастомками. (список ниже)\r\n[/olist]\r\n\r\n[h1] Поддерживаемые кастомки [/h1]\r\n[olist]\r\n    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3113900342] Crashlander: Square One [/url]\r\n    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2820096455] Fant Mod 2 Custom Gamemode [/url] (Не работает с двумя последними рядами слотов в инвентаре)\r\n[/olist]\r\n\r\nПожалуйста, поставьте лайк этому моду и добавьте его себе в избранное, чтобы поддержать мою работу!",
 		"fileId": 3002663600,
 		"localId": "756d4f03-2e86-4f5b-a425-20259568eff3",
 		"name": "Pickable Shapes",
@@ -33729,7 +33729,7 @@
 	"f006b9ad-8599-4e77-a5b7-f77587c4b280": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Surreality is a survival custom game focused on being as vanilla like as possible\n\nAdds new features:\n- Pipes: Tee, Cross, 6-Way, 5-Way, 4-Way, 3-Way\n- Seed and fertilizer container\n- Craftable staircase wedge\n- Stacking: (10): Pipes, Pistons, Sensors, Wheels, Lights, Small decorations\n- Stacking: (5): Engines, Seats, Containers, Fridge, Chests, Explosives, Scrap parts, Decorations, Mountable tools\n- Large Wheel (7x3)\n- Weather *from Crashlander\n\nBug fixes:\n- Raid not popping up for host when joined",
+		"description": "Surreality is a survival custom game focused on being as vanilla like as possible\n\nAdds new features:\n- Pipes: Tee, Cross, 6-Way, 5-Way, 4-Way, 3-Way\n- Seed and fertilizer container\n- Craftable staircase wedge\n- Stacking: (10): Pipes, Pistons, Sensors, Wheels, Lights, Small decorations\n- Stacking: (5): Engines, Seats, Containers, Fridge, Chests, Explosives, Scrap parts, Decorations, Mountable tools\n- Large Wheel (7x3)\n- Mod support from Modded Craftbot Recipes (requires being subscribed to Mod Database)\n- Weather *from Crashlander\n\nBug fixes:\n- Raid not popping up for host when joined",
 		"fileId": 3163547347,
 		"localId": "f006b9ad-8599-4e77-a5b7-f77587c4b280",
 		"name": "Surreality",
@@ -34161,6 +34161,16 @@
 		"fileId": 3202456108,
 		"localId": "2a79c687-5ebd-4ae9-9d1b-8ee3c41b8e16",
 		"name": "Amazing Blocks [weights]",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"fb140f4f-c0a9-4bac-948b-f7aa642da697": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3202823066,
+		"localId": "fb140f4f-c0a9-4bac-948b-f7aa642da697",
+		"name": "Health Display",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
