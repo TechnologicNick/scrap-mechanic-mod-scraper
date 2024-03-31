@@ -34067,7 +34067,7 @@
 	"da121064-3469-408c-941b-75d2371a125d": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod will allow you to make Component Kits and Circuit Boards craftable in survival using the modded craftbot recipes game mode\nIt also adds a spooky scary purple caution block that doesn't show up in inventory so the tool can identify it.",
+		"description": "This mod will allow you to make Component Kits and Circuit Boards craftable in survival using the modded craftbot recipes game mode\nIt also adds a spooky scary purple caution block that doesn't show up in inventory so the tool can identify it.\n\nCrafted with Oil, Scrap Metal/Metal 1, and Chemicals",
 		"fileId": 3187151940,
 		"localId": "da121064-3469-408c-941b-75d2371a125d",
 		"name": "Craftable Kits",
@@ -34098,7 +34098,7 @@
 	"cd85eacc-f183-4da6-b8fd-d096ee1cb18e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "You can make mods more easier and much quicker. It'll make some things more better and efficient.",
+		"description": "For mod makers, You can make mods more easier and much quicker. It'll make some things more better and efficient. \r\n\r\nHere are the items:\r\n[list]\r\n[*]Mod Editor - The orange handbook that would be a modder's favorite tool for naming items and crafting recipes.\r\n\r\n[*]Super Interactor - A modder's debugging tool. You can use this to reconfigure some things into your mod.\r\n\r\n[*]Sledge Destroyer - A sledge hammer that's capable of destroying anything.\r\n\r\n[*]The Manipulator - The tool that can serve as commands. In fact, ALL tools requires admin access (Not necessarily for this tool, but non-admins have access to a few commands), and this tool lets the host set temporary admin powers.\r\n\r\n[*]Creation Binder - You can pick up creations and carry a creation around. In case if the creation you're carrying acting so crazy because of your mod item, then this is for you.\r\n\r\n[*]Quantom Chest - This chest allows you to access containers set by the Super Interactor.\r\n[/list]",
 		"fileId": 3172185380,
 		"localId": "cd85eacc-f183-4da6-b8fd-d096ee1cb18e",
 		"name": "Mod Utility Tools",
@@ -34181,6 +34181,16 @@
 		"fileId": 3206566892,
 		"localId": "5ac29353-ca01-43da-9652-8bdbd44e9fb2",
 		"name": "Russian Fire Alarm (NO WORK)",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"2529c853-4ecc-43d2-a017-599af6ec750f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1]теперь fant mod и на русском языке[/h1]\r\n\r\n[b]пока что готово 75%\r\n\r\n\r\nкак установить? [/b]\r\n\r\n[u]легко![/u] (если вы устанавливали fant mod)\r\n\r\n1.откройте папку workshop → content → 387990 → 3206763676\r\n\r\nк примеру: \"[u]D:\\SteamLibrary\\steamapps\\workshop\\content\\387990\\3206763676[/u]\"\r\nлибо:         \"[u]C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\3206763676[/u]\"\r\n\r\n2.скопируйте папку survival и вставьте её в папку scrap mechanic\r\n\r\n3.соглашаемся с заменой файлов✓\r\n\r\n4.всё готово\r\n\r\n5.если что-то не получается, то напишите\r\n\r\n6.поблагодарить автора",
+		"fileId": 3206763676,
+		"localId": "2529c853-4ecc-43d2-a017-599af6ec750f",
+		"name": "русификатор для fant mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
