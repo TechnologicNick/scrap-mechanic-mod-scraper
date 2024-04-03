@@ -4404,5 +4404,8 @@
 	"aa819b34-8932-49a8-8f87-7a80aeb81645": {},
 	"ceea7f2b-cbbf-4759-85b4-d96c5ae35d91": {},
 	"bc08f1f9-14ea-4aa4-be6f-a4548ab3d678": {},
-	"9460fc5a-e652-4027-a5e1-3f2bb2cab422": {}
+	"9460fc5a-e652-4027-a5e1-3f2bb2cab422": {},
+	"19f32a12-80d0-49e0-ba41-72f0f31e0692": {
+		"$CONTENT_19f32a12-80d0-49e0-ba41-72f0f31e0692/Tools/Database/ToolSets/example.toolset": []
+	}
 }
