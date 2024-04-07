@@ -2609,7 +2609,8 @@
 	"b8b0ab82-44bb-4f00-84f5-6cfbd9bbd070": {},
 	"b34d8a4a-6b26-45f4-857b-5dcd322e2e52": {
 		"$CONTENT_b34d8a4a-6b26-45f4-857b-5dcd322e2e52/Tools/Database/ToolSets/VacuumGun.toolset": [
-			"bcd62b41-db3a-46ba-80fb-ba1cf7475e1a"
+			"bcd62b41-db3a-46ba-80fb-ba1cf7475e1a",
+			"b1b4f050-bda2-4d10-9569-b9e189c33971"
 		]
 	},
 	"91c4e621-c1f6-4966-b658-7009277442a2": {},
@@ -4409,5 +4410,12 @@
 		"$CONTENT_19f32a12-80d0-49e0-ba41-72f0f31e0692/Tools/Database/ToolSets/example.toolset": []
 	},
 	"6f26a972-993a-4998-9146-5fb4950804f9": {},
-	"16477968-8fa7-4d8b-821e-cc557402ffab": {}
+	"16477968-8fa7-4d8b-821e-cc557402ffab": {},
+	"03fb0cf4-b07f-47ec-9b6e-504a802c1d41": {},
+	"7ac8cfb8-0d95-471a-9e34-04e7e854a16a": {
+		"$CONTENT_7ac8cfb8-0d95-471a-9e34-04e7e854a16a/Tools/Database/ToolSets/RegrowingTrees.toolset": [
+			"701128f2-14bb-47df-9e3e-9bf29662dbc7"
+		]
+	},
+	"a8b08226-151a-44a0-868c-7d550390d228": {}
 }
