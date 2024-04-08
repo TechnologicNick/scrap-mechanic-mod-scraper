@@ -2256,7 +2256,8 @@
 			"ef2e37c6-e68d-4718-a1eb-f4676fb33db0",
 			"94d570ef-d10e-4754-aedf-fd8a99cb87ff",
 			"78d04945-558e-45c4-8d20-a38de1325cd9",
-			"f562d905-4d47-470e-95e8-009693572998"
+			"f562d905-4d47-470e-95e8-009693572998",
+			"a8688e8c-1b2b-4a30-a735-cde1a285bb3d"
 		]
 	},
 	"ffd76ed8-50d1-489a-952b-657baf4df019": {
@@ -3017,7 +3018,8 @@
 	"3607044c-bdca-417a-b1ae-d191e62c1795": {},
 	"c5454ea4-7709-4261-aed2-1360ec1944af": {
 		"$CONTENT_c5454ea4-7709-4261-aed2-1360ec1944af/Tools/Database/ToolSets/Jetpack.toolset": [
-			"1ce96057-1d6b-4be3-b39c-cec48699e32c"
+			"1ce96057-1d6b-4be3-b39c-cec48699e32c",
+			"777710e0-7a44-4d2a-ad6c-f9e114be0b25"
 		]
 	},
 	"0a923245-6f73-45c3-97e3-f0efd19e3d49": {},
