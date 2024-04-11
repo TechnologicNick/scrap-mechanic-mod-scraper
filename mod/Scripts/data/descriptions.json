@@ -17055,7 +17055,7 @@
 	"35bd8b52-4dcf-40b5-9b22-dad88a750e23": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "first edition: Aug 19, 2022\r\nmake it better all the time!\r\n\r\nplease post any bugs in he comments",
+		"description": "first edition: Aug 19, 2022\r\nmake it better all the time!\r\n\r\nplease post any bugs in the comments",
 		"fileId": 2851026417,
 		"localId": "35bd8b52-4dcf-40b5-9b22-dad88a750e23",
 		"name": "raw block editor [BETA]",
@@ -34315,6 +34315,26 @@
 		"fileId": 3218567037,
 		"localId": "a5be5d51-6059-4b40-92d3-64c4b3191da9",
 		"name": "WW2 Helmets",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"80923ad0-c2c6-4928-84de-eba71b94d0bc": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "File Switch Mod\n\nUses Values from 10k's harvest boost\n\nBuffs loot from:\nregular & epic lootcrates\ntotebots, haybots, tapebots, and farmbots\nwocs and glowbugs\nfiling cabinents in offices in warehouses\n\nNO BUFFS for corn, beeswax, flowers, clams, ember trees, oil (only because I want to get back to playing :P )\n\nAdditionally reduces Refinery refine time",
+		"fileId": 3218920917,
+		"localId": "80923ad0-c2c6-4928-84de-eba71b94d0bc",
+		"name": "Simple Resources Buff - File Switch - Magic",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"4ae7b3c0-5d47-4cd3-be05-1610d56e91ce": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod show the tile borders.\r\nJust hold it in hand and you will be able to see the boarders of the tiles.\r\nvery useful for Farm making.\r\nTo prevent getting mutliple Raid counters or in case you want to get them.\r\n\r\nHave fun with it.\r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"fileId": 3218992556,
+		"localId": "4ae7b3c0-5d47-4cd3-be05-1610d56e91ce",
+		"name": "Tile Grid Visualizer",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

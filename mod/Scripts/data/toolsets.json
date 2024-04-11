@@ -4421,5 +4421,12 @@
 	},
 	"a8b08226-151a-44a0-868c-7d550390d228": {},
 	"a24e1bfe-7492-4b19-808a-c3773e449970": {},
-	"a5be5d51-6059-4b40-92d3-64c4b3191da9": {}
+	"a5be5d51-6059-4b40-92d3-64c4b3191da9": {},
+	"80923ad0-c2c6-4928-84de-eba71b94d0bc": {},
+	"4ae7b3c0-5d47-4cd3-be05-1610d56e91ce": {
+		"$CONTENT_4ae7b3c0-5d47-4cd3-be05-1610d56e91ce/Tools/Database/ToolSets/TileGridVisualizer.toolset": [
+			"9fe20dfa-3986-41f9-9578-e0df5c5dfd68",
+			"1e070b23-b7d6-48f7-871b-dc1598dc6e87"
+		]
+	}
 }
