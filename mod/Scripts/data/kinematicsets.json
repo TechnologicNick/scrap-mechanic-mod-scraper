@@ -644,5 +644,10 @@
 	},
 	"bc643a44-a343-4c97-8213-f649ae5cd0b1": {
 		"$CONTENT_bc643a44-a343-4c97-8213-f649ae5cd0b1/Kinematics/Database/KinematicSets/example.kinematicset": []
+	},
+	"a05e0ad2-0a5f-46f9-98ab-b26c0a844922": {
+		"$CONTENT_a05e0ad2-0a5f-46f9-98ab-b26c0a844922/Kinematics/Database/KinematicSets/example.kinematicset": [
+			"2caa113b-b47b-4151-ae9b-d90369c4d3a0"
+		]
 	}
 }

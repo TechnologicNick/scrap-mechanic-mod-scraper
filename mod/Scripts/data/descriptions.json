@@ -34188,8 +34188,8 @@
 	"2529c853-4ecc-43d2-a017-599af6ec750f": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]теперь fant mod и на русском языке[/h1]\r\n\r\n[b]пока что готово 75%\r\n\r\n\r\nкак установить? [/b]\r\n\r\n[u]легко![/u] (если вы устанавливали fant mod)\r\n\r\n1.откройте папку workshop → content → 387990 → 3206763676\r\n\r\nк примеру: \"[u]D:\\SteamLibrary\\steamapps\\workshop\\content\\387990\\3206763676[/u]\"\r\nлибо:         \"[u]C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\3206763676[/u]\"\r\n\r\n2.скопируйте папку survival и вставьте её в папку scrap mechanic\r\n\r\n3.соглашаемся с заменой файлов✓\r\n\r\n4.всё готово\r\n\r\n5.если что-то не получается, то напишите\r\n\r\n6.поблагодарить автора",
-		"fileId": 3206763676,
+		"description": "Я сделал полный русский перевод для fant mod 27.1.\r\n\r\nУстановка:\r\n\r\nПросто зайдите .../Steam/steamapps/workshop/content/387990/3218396374, выберите папку \"Survival\" и поместите её в файлы игры .../Steam/steamapps/common/Scrap Mechanic\r\n\r\nНаслаждайтесь: D",
+		"fileId": 3218396374,
 		"localId": "2529c853-4ecc-43d2-a017-599af6ec750f",
 		"name": "русификатор для fant mod",
 		"type": "Blocks and Parts",
@@ -34355,6 +34355,16 @@
 		"fileId": 3221600368,
 		"localId": "bc643a44-a343-4c97-8213-f649ae5cd0b1",
 		"name": "Devy's Lava + Lemon",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"a05e0ad2-0a5f-46f9-98ab-b26c0a844922": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This Mod is Crashlander but in a creative world.\n\nYou can import creations from this to Crashlander",
+		"fileId": 3215521632,
+		"localId": "a05e0ad2-0a5f-46f9-98ab-b26c0a844922",
+		"name": "Crashlander: Creative",
 		"type": "Custom Game",
 		"version": 0
 	}
