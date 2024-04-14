@@ -788,5 +788,12 @@
 	},
 	"19f32a12-80d0-49e0-ba41-72f0f31e0692": {
 		"$CONTENT_19f32a12-80d0-49e0-ba41-72f0f31e0692/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"bc643a44-a343-4c97-8213-f649ae5cd0b1": {
+		"$CONTENT_bc643a44-a343-4c97-8213-f649ae5cd0b1/ScriptableObjects/ScriptableObjectSets/sob_quests.sobset": [
+			"8be0279e-28b6-4aab-b620-586f50162c6e",
+			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
+			"009fe136-aeee-45c4-9135-006b786cfc59"
+		]
 	}
 }
