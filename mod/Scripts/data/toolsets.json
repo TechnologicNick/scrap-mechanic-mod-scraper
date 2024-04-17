@@ -4478,5 +4478,10 @@
 			"1c2c4d52-0b02-4d37-a3e8-313ba8f2487b"
 		]
 	},
-	"55b2d765-488c-4862-93d6-4ef869fa0de9": {}
+	"55b2d765-488c-4862-93d6-4ef869fa0de9": {},
+	"26b2f950-82f5-48f8-b0e4-8ca1d27ecfb4": {
+		"$CONTENT_26b2f950-82f5-48f8-b0e4-8ca1d27ecfb4/Tools/Database/ToolSets/Custom Loot.toolset": [
+			"cc40b45c-871c-4aa4-892b-2fab5881a364"
+		]
+	}
 }
