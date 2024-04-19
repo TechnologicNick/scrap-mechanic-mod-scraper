@@ -34448,5 +34448,25 @@
 		"name": "Musical Holographic Statues [Better API]",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"5ad0cf67-726e-401e-909c-5caf6b321ff0": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Lil ill mod",
+		"fileId": 3174118424,
+		"localId": "5ad0cf67-726e-401e-909c-5caf6b321ff0",
+		"name": "SS112TT",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"ecc32287-401d-4c2e-8645-4b538abbf323": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Установка:\n\nПросто перейдіть у .../Steam/steamapps/workshop/content/387990/2847719819, виберіть три папки \"Survival\", \"Data\" та \"ChallengeData\", помістіть ці папки до файлів гри в .../Steam/steamapps/common/Scrap Mechanic\n\nнасолоджуйтесь :D",
+		"fileId": 3226055097,
+		"localId": "ecc32287-401d-4c2e-8645-4b538abbf323",
+		"name": "Українізатор",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

@@ -4484,5 +4484,9 @@
 			"cc40b45c-871c-4aa4-892b-2fab5881a364"
 		]
 	},
-	"27776f90-6938-4201-986a-ada58e989ac1": {}
+	"27776f90-6938-4201-986a-ada58e989ac1": {},
+	"5ad0cf67-726e-401e-909c-5caf6b321ff0": {
+		"$CONTENT_5ad0cf67-726e-401e-909c-5caf6b321ff0/Tools/Database/ToolSets/example.toolset": []
+	},
+	"ecc32287-401d-4c2e-8645-4b538abbf323": {}
 }
