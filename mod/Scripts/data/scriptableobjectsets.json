@@ -854,5 +854,16 @@
 	},
 	"5ad0cf67-726e-401e-909c-5caf6b321ff0": {
 		"$CONTENT_5ad0cf67-726e-401e-909c-5caf6b321ff0/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"c203b845-2c07-4e8d-beb9-e45a8781dacd": {
+		"$CONTENT_c203b845-2c07-4e8d-beb9-e45a8781dacd/ScriptableObjects/ScriptableObjectSets/sob_managers.sobset": [
+			"83b0cc7e-b164-47b8-a83c-0d33ba5f72ec",
+			"c6988ecb-0fc1-4d45-afde-dc583b8b75ee"
+		],
+		"$CONTENT_c203b845-2c07-4e8d-beb9-e45a8781dacd/ScriptableObjects/ScriptableObjectSets/sob_quests.sobset": [
+			"8be0279e-28b6-4aab-b620-586f50162c6e",
+			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
+			"009fe136-aeee-45c4-9135-006b786cfc59"
+		]
 	}
 }
