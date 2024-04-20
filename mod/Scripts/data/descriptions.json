@@ -30056,7 +30056,7 @@
 	"6a7ce970-c6c3-439e-8343-b64ceef8d1f5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Automate process of making logic creations with... Logic creations?\n\nThanks to Some1Something for idea, bean bongo for help and HerrVincling for code\n\nincludes:\nBlock placer\nLogic placer\nMounted Paint gun\nMounted connection tool\nMounted connection remover\nLogic changer\nController Controller\nand more!",
+		"description": "Automate process of making logic creations with... Logic creations?\r\n\r\nThanks to Some1Something for idea, bean bongo for help and HerrVincling for code\r\n\r\nincludes:\r\nBlock placer\r\nLogic placer\r\nMounted Paint gun\r\nMounted connection tool\r\nMounted connection remover\r\nLogic changer\r\nController Controller\r\nand more!",
 		"fileId": 2974862494,
 		"localId": "6a7ce970-c6c3-439e-8343-b64ceef8d1f5",
 		"name": "AutoFactory",
