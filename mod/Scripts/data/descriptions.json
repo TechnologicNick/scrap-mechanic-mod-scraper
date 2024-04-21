@@ -34505,5 +34505,15 @@
 		"name": "forcefield generator fuck your self",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"c8ab4785-1273-4af2-98b2-5cecec8dbd4f": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod adds from my Fant Mod the Sun Shake Machine changes into a Seperate Mod. It makes the Sun Shake Machines useable as a Storage that can Display all Items that are in it.",
+		"fileId": 3228431919,
+		"localId": "c8ab4785-1273-4af2-98b2-5cecec8dbd4f",
+		"name": "Sun Shake Machine Plus",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
