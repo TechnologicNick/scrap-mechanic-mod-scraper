@@ -17062,7 +17062,7 @@
 	"35bd8b52-4dcf-40b5-9b22-dad88a750e23": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "first edition: Aug 19, 2022\r\nmake it better all the time!\r\n\r\nplease post any bugs in the comments",
+		"description": "first edition: Aug 19, 2022\nmake it better all the time!\n\nplease post any bugs in the comments",
 		"fileId": 2851026417,
 		"localId": "35bd8b52-4dcf-40b5-9b22-dad88a750e23",
 		"name": "raw block editor [BETA]",
@@ -30816,6 +30816,13 @@
 	"2c6b578e-170a-402a-b57b-1d7523faf296": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 1759377518,
+				"localId": "2b09183f-5ecb-4dac-93a0-99bd0baa6e55",
+				"name": "ModDatabase"
+			}
+		],
 		"description": "This mod doesn't have a description",
 		"fileId": 3002609790,
 		"localId": "2c6b578e-170a-402a-b57b-1d7523faf296",
@@ -34405,7 +34412,7 @@
 				"name": "Enable Survival Player Harvestables"
 			}
 		],
-		"description": "This mod enables survival functionality in creative.(Haven't tested in custom game modes)\n\nThe mod offers a few chat commands to customize your experience.\n[b]Host only commands[/b]\n[list]\n[*]/pvp - Enables player vs player mode, players can hurt each other\n[*]/healthRegeneration - Toggles health regeneration\n[*]/hunger - Toggles hunger\n[*]/thirst - Toggles thirst\n[*]/breathLoss - Toggles breath loss underwater\n[*]/respawnStats - Sets start HP, thirst and hunger\n[*]/creativeInventory - Toggles the creative inventory\n[*]/collisionTumble - Toggles whether you can tumble from collisions\n[*]/collisionDamage - Toggles whether you can take damage from collisions\n[*]/godMode - Toggles god mode\n[*]/savePreset - Saves the current settings by name\n[*]/loadPreset - Loads settings by the preset name\n[*]/dropItems - Whether players drop death bags after dying\n[*]/ammoConsumption - Toggles whether weapons consume ammunition\n[*]/createTeam - Creates a team with a name and colour(optional)\n[*]/friendlyFire - Toggles friendly fire\n[/list]\n\n[b]Commands usable by everyone[/b]\n[list]\n[*]/setSpawnPoint - Sets your spawn point(takes priority over beds)\n[*]/clearSpawnPoint - Clears your spawn point\n[*]/setTeam - Sets your team\n[*]/listTeams - Lists all the current teams in the chat\n[*]/displayNames - Sets the name display mode(1 - all / 2 - teammates only / 3 - none)\n[/list]",
+		"description": "This mod enables survival functionality in creative.(Haven't tested in custom game modes)\n\nThe mod offers a few chat commands to customize your experience.\n[b]Host only commands[/b]\n[list]\n[*]/pvp - Enables player vs player mode, players can hurt each other\n[*]/healthregeneration - Toggles health regeneration\n[*]/hunger - Toggles hunger\n[*]/thirst - Toggles thirst\n[*]/breathloss - Toggles breath loss underwater\n[*]/respawnstats - Sets start HP, thirst and hunger\n[*]/creativeinventory - Toggles the creative inventory\n[*]/collisiontumble - Toggles whether you can tumble from collisions\n[*]/collisiondamage - Toggles whether you can take damage from collisions\n[*]/gomMode - Toggles god mode\n[*]/savepreset - Saves the current settings by name\n[*]/loadpreset - Loads settings by the preset name\n[*]/dropitems - Whether players drop death bags after dying\n[*]/ammoconsumption - Toggles whether weapons consume ammunition\n[*]/createteam - Creates a team with a name and colour(optional)\n[*]/deleteteam - Deletes a team\n[*]/friendlyfire - Toggles friendly fire\n[/list]\n[*]/setrespawncooldown - Sets the respawn cooldown\n\n[b]Commands usable by everyone[/b]\n[list]\n[*]/setspawnpoint - Sets your spawn point(takes priority over beds)\n[*]/clearspawnpoint - Clears your spawn point\n[*]/setteam - Sets your team\n[*]/clearteam - Clears your team\n[*]/listteams - Lists all the current teams in the chat\n[*]/displaynames - Sets the name display mode(1 - all / 2 - teammates only / 3 - none)\n[/list]",
 		"fileId": 3216708262,
 		"localId": "a929f1de-4824-456c-b3ac-da6c47a4b4a2",
 		"name": "Enable Survival Player",
@@ -34463,7 +34470,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"description": "Установка:\r\n\r\nПросто перейдіть у .../Steam/steamapps/workshop/content/387990/3226055097, виберіть три папки \"Survival\", \"Data\" та \"ChallengeData\", помістіть ці папки до файлів гри в .../Steam/steamapps/common/Scrap Mechanic\r\n\r\nнасолоджуйтесь :D",
-		"fileId": 3226055097,
+		"fileId": 3228464037,
 		"localId": "ecc32287-401d-4c2e-8645-4b538abbf323",
 		"name": "Українізатор",
 		"type": "Blocks and Parts",
@@ -34513,6 +34520,16 @@
 		"fileId": 3228431919,
 		"localId": "c8ab4785-1273-4af2-98b2-5cecec8dbd4f",
 		"name": "Sun Shake Machine Plus",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"191a4993-4408-4982-b601-0920b3377f72": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Перевод Fant Mod на українську.\nДля праці встановіть українізатор та увімкніть цей мод поверх Fant моду.\n\nApproved by 00Fant",
+		"fileId": 3228714174,
+		"localId": "191a4993-4408-4982-b601-0920b3377f72",
+		"name": "Ukrainian language to fant mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
