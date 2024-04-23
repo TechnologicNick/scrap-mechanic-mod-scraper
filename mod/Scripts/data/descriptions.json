@@ -33033,10 +33033,10 @@
 				"name": "Manned Turret Kinematic"
 			}
 		],
-		"description": "[h1]Introducing... the [b]Manned Turret![/b][/h1]\n\nThis player controlled turret is capable of many things:\n[list]\n[*]Taking down bots with potatoes/AA rounds\n[*]Watering soil plots\n[*]Lighting up an area\n[*]Rapidly disassembling anything using the Explosive rounds\n[/list]\n\nBe careful though, it's not invincible!\n\n[h1]And all of this is available in survival, thanks to [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Questionable Mark's Modded Craftbot Recipes[/url]![/h1]\n\n[h1]Credits[/h1]\n[list]\n    [*][b]Vajdani[/b] - Scripting\n    [*][b]Illumina[/b] - Models, textures, thumbnail\n[/list]\n\nHave fun!",
+		"description": "[h1]Introducing... the [b]Manned Turrets![/b][/h1]\nThese player controlled turrets are capable of many things:\n[list]\n[*]Taking down bots with potatoes/AA rounds/Ratshot\n[*]Watering soil plots\n[*]Lighting up an area\n[*]Rapidly disassembling anything with Explosive Rounds/Guided Missiles/Air Strikes\n[*]Rapidly relocating yourself\n[*]Bringing along the nuclear winter with mounted nukes\n[/list]\n\nBe careful though, they're not invincible!\n\n[h1]All of this is available in survival, thanks to [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Questionable Mark's Modded Craftbot Recipes[/url]![/h1]\n\n[h1]Credits[/h1]\n[list]\n[*][b]Vajdani[/b] - Scripting\n[*][b]Illumina[/b] - Models, textures, thumbnail\n[*][b][url=https://steamcommunity.com/id/QuestionMarko]Questionable Mark[/url][/b] - Nuke explosion effect from the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1904783067]Cannons Pack[/url]\n[/list]\n\nHave fun!",
 		"fileId": 3107290429,
 		"localId": "f51045bd-3f94-476a-8053-55ba172d19a5",
-		"name": "Manned Turret",
+		"name": "Manned Turret Pack",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
