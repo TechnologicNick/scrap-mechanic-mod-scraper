@@ -33462,7 +33462,8 @@
 	"c63c867d-02f1-46dc-9002-d2614a3dedf1": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "this is some random stuff i made\n1 component kit gas engine\n2 cricuitboard electric engine\n3duck driver seat\n4 corn chest\n5 AntiGrav Duck\n6 compresed beeswax",
+		"dependencies": null,
+		"description": "this is some random stuff i made\nrequires a costom game with moddatabase like fant 2 costom gamemode NOT SPONSORED\n1 component kit gas engine\n2 cricuitboard electric engine\n3duck driver seat\n4 corn chest\n5 AntiGrav Duck\n6 compresed beeswax",
 		"fileId": 3148543964,
 		"localId": "c63c867d-02f1-46dc-9002-d2614a3dedf1",
 		"name": "Dragos'es random stuff lol",
