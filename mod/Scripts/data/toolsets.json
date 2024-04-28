@@ -4313,7 +4313,8 @@
 	"59ce48e3-1f35-4463-a96e-b510dd509ffe": {},
 	"43f2e45f-57ec-4c60-8432-c9cc7a1cfde5": {
 		"$CONTENT_43f2e45f-57ec-4c60-8432-c9cc7a1cfde5/Tools/Database/ToolSets/tools.toolset": [
-			"87f8f12e-8c14-43c0-9009-6734ff7545e5"
+			"87f8f12e-8c14-43c0-9009-6734ff7545e5",
+			"f719361d-695c-45fa-a2ed-f05367770da1"
 		]
 	},
 	"a8595795-92b0-402b-9e54-ec67f9d09b45": {},
