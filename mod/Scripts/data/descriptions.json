@@ -32994,7 +32994,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "This mod doesn't have a description",
+		"description": "PUBLIC BETA\r\n\r\nmod in early development",
 		"fileId": 3032744814,
 		"localId": "f3999a70-6b44-406e-a086-eefa8f3c4938",
 		"name": "DLC 3u I like trains",
@@ -34504,7 +34504,7 @@
 	"be6329a8-3968-40b8-8f2c-2c2628db5cbb": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mos adds a scythe which swipes units.",
+		"description": "This mos adds a scythe which swipes units. the scythe can destroy Durability 2 rating objects.",
 		"fileId": 3226684988,
 		"localId": "be6329a8-3968-40b8-8f2c-2c2628db5cbb",
 		"name": "Scythe mod",
