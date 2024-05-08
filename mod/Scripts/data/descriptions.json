@@ -33745,7 +33745,7 @@
 	"f006b9ad-8599-4e77-a5b7-f77587c4b280": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Surreality is a survival custom game focused on being as vanilla like as possible\n\nAdds new features:\n- Pipes: Tee, Cross, 6-Way, 5-Way, 4-Way, 3-Way\n- Seed and fertilizer container\n- Craftable staircase wedge\n- Stacking: (10): Pipes, Pistons, Sensors, Wheels, Lights, Small decorations\n- Stacking: (5): Engines, Seats, Containers, Fridge, Chests, Explosives, Scrap parts, Decorations, Mountable tools\n- Large Wheel (7x3)\n- Mod support from Modded Craftbot Recipes (requires being subscribed to Mod Database)\n- Weather *from Crashlander\n\nBug fixes:\n- Raid not popping up for host when joined",
+		"description": "Surreality is a survival custom game focused on being as vanilla like as possible\n\nAdds new features:\n- Pipes: Tee, Cross, 6-Way, 5-Way, 4-Way, 3-Way\n- Seed and fertilizer container\n- Craftable staircase wedge\n- Stacking: (10): Pipes, Pistons, Sensors, Wheels, Lights, Small decorations\n- Stacking: (5): Engines, Seats, Containers, Fridge, Chests, Explosives, Scrap parts, Decorations, Mountable tools\n- Large Wheel (7x3)\n- Mod support from Modded Craftbot Recipes (requires being subscribed to Mod Database)\n- Hides unnecessary units of time from the raid countdown\n- Weather *from Crashlander\n\nBug fixes:\n- Raid not popping up for host when joined",
 		"fileId": 3163547347,
 		"localId": "f006b9ad-8599-4e77-a5b7-f77587c4b280",
 		"name": "Surreality",
