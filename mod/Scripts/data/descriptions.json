@@ -34677,5 +34677,15 @@
 		"name": "QuickSwap",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"c4c91015-4871-4c14-a4de-656ee8a3b704": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Route 41 is a fork of Drive made by Woukie and ExpertSalad (https://steamcommunity.com/workshop/filedetails/?id=3238463364)\n\nSome changes from the original include: Food, Thirst, Enemies, Respawn beds, No lift\n\nYou, a very long road, and scarce resources.",
+		"fileId": 3242884541,
+		"localId": "c4c91015-4871-4c14-a4de-656ee8a3b704",
+		"name": "Route 41",
+		"type": "Custom Game",
+		"version": 0.12
 	}
 }
