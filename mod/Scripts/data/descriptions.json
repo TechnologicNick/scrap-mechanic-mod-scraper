@@ -34671,7 +34671,7 @@
 	"29523fce-666c-4ac5-96c4-387833483a8a": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h3]Lets you swap/spawn creations on the fly like in Trailmakers![/h3]\r\n\r\nWhile this is a [b]Blocks and Parts[/b] mod, there isn’t actually a modded part available when you load the mod.\r\n\r\nInstead, the mod works for all existing vanilla seats and driver’s seats (all levels), including the scrap versions. It however, does not work for bathtub, toilet, and office chair.\r\n\r\nWatch the video for a guide on how to use it or type [i]/qshelp[/i] in the in-game chat.\r\n\r\nPlease report any bugs you encounter in [url=https://steamcommunity.com/sharedfiles/filedetails/discussions/3083974695]Discussions[/url].\r\n\r\n",
+		"description": "[h3]Lets you swap/spawn creations on-the-fly like in Trailmakers![/h3]\r\n\r\nWhile this is a [b]Blocks and Parts[/b] mod, there isn’t actually a modded part available when you load the mod.\r\n\r\nInstead, the mod works for all existing vanilla seats and driver’s seats (all levels), including the scrap versions. It however, does not work for bathtub, toilet, and office chair.\r\n\r\nWatch the video for a guide on how to use it or type [i]/qshelp[/i] in the in-game chat.\r\n\r\nPlease report any bugs you encounter in [url=https://steamcommunity.com/workshop/filedetails/discussion/3242683188/4364628251568150785/]Discussions[/url].\r\n\r\n",
 		"fileId": 3242683188,
 		"localId": "29523fce-666c-4ac5-96c4-387833483a8a",
 		"name": "QuickSwap",
@@ -34681,11 +34681,21 @@
 	"c4c91015-4871-4c14-a4de-656ee8a3b704": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Route 41 is a fork of Drive made by Woukie and ExpertSalad (https://steamcommunity.com/workshop/filedetails/?id=3238463364)\n\nSome changes from the original include: Food, Thirst, Enemies, Respawn beds, No lift\n\nYou, a very long road, and scarce resources.",
+		"description": "Route 41 is a fork of Drive made by Woukie and ExpertSalad: https://steamcommunity.com/workshop/filedetails/?id=3238463364\n\nSome changes from the original include: Food, Thirst, Enemies, Respawn beds, No lift\n\nYou, a very long road, and scarce resources.",
 		"fileId": 3242884541,
 		"localId": "c4c91015-4871-4c14-a4de-656ee8a3b704",
 		"name": "Route 41",
 		"type": "Custom Game",
 		"version": 0.12
+	},
+	"082ec74b-7733-400d-88d5-1e145eb278e6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "THIS IS THE EXPERIMENTAL BRANCH FROM THE GITHUB. I DID NOT MAKE THIS. ALLL CREDIT GOES TO THE ORIGINAL CREATORS.\n\nThe purpose of the game is to drive...\n\nIt sounds so boring that only people with holes in their brains would play this.\n\nWe made it because we got frustrated at The Long Drives crappy multiplayer.\n\nCheck the GitHub at https://github.com/FoilFields/Drive",
+		"fileId": 3243384984,
+		"localId": "082ec74b-7733-400d-88d5-1e145eb278e6",
+		"name": "Drive - EXPERIMENTAL",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
