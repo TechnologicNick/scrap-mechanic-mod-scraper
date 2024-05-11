@@ -1041,5 +1041,8 @@
 		"$CONTENT_082ec74b-7733-400d-88d5-1e145eb278e6/Characters/Database/CharacterSets/replacement.characterset": [
 			"00000000-0000-0000-0000-000000000000"
 		]
+	},
+	"7403cc48-7181-4ffb-9dcc-32e5da729c5d": {
+		"$CONTENT_7403cc48-7181-4ffb-9dcc-32e5da729c5d/Characters/Database/CharacterSets/example.characterset": []
 	}
 }
