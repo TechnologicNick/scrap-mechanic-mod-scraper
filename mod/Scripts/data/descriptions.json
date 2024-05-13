@@ -7395,12 +7395,14 @@
 		"version": 0
 	},
 	"25e99f15-641e-4ad4-8780-c2270ba216d5": {
+		"allow_add_mods": true,
+		"custom_icons": true,
 		"description": "This mod doesn't have a description",
 		"fileId": 2409592489,
 		"localId": "25e99f15-641e-4ad4-8780-c2270ba216d5",
 		"name": "Subway Content",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"04710287-5ce0-499b-b52c-1b96b1dacf0b": {
 		"description": "This mod changes the default radio music to Renai Circulation. It's important.\n\nSe no\nDemo sonnan ja dame\nMou sonnan ja hora\nKokoro wa shinka suru yo\nMotto motto\n\n\n\nScrap Mechanic Workshop ID: 387990\n\nMod ID: 2409977667",
@@ -27334,7 +27336,7 @@
 	"cd752167-5853-4e0f-a6fa-598f62263863": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds the Automatic Farmbox from the Main Mod Fant Mod as a Seperate Part Mod. \r\n\r\n-You can Plant any Seed in it.\r\n-Its Movable!\r\n\r\nIt will look for seeds, water or fertilizer in its own inventory.\r\nIf needed it will consume automaticly the certain item and puts it on the Soil.\r\nIf the Plant is fully Grown, it will Automaticly Harvest it and replant if possible.\r\nYou can connect a Switch to the Automatic Farmbox to turn it On or Off.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.",
+		"description": "This mod adds the Automatic Farmbox from the Main Mod Fant Mod as a Seperate Part Mod. \r\n\r\n-You can Plant any Seed in it.\r\n-Its Movable!\r\n\r\nIt will look for seeds, water or fertilizer in its own inventory.\r\nIf needed it will consume automaticly the certain item and puts it on the Soil.\r\nIf the Plant is fully Grown, it will Automaticly Harvest it and replant if possible.\r\nYou can connect a Switch to the Automatic Farmbox to turn it On or Off.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2895881598,
 		"localId": "cd752167-5853-4e0f-a6fa-598f62263863",
 		"name": "Automatic Farmbox",
@@ -30579,7 +30581,8 @@
 	"c8ffdf84-1316-47d3-8b1e-99c66f808a80": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "its blocks from my project for armor to tanks\n\n(c)Коля",
+		"dependencies": null,
+		"description": "stolen mod parts and my parts to unification\n\n(c)Коля",
 		"fileId": 2996675778,
 		"localId": "c8ffdf84-1316-47d3-8b1e-99c66f808a80",
 		"name": "Mst",
@@ -34708,5 +34711,15 @@
 		"name": "Sphere Earther",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"b80b9c0c-a731-470f-b54f-c7d65880d7af": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "if the sledge hammer is in hand press R <reload> to open the emergency craft menu",
+		"fileId": 3245028526,
+		"localId": "b80b9c0c-a731-470f-b54f-c7d65880d7af",
+		"name": "liftcraft",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
