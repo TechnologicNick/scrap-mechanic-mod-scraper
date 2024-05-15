@@ -1499,7 +1499,9 @@
 		"$CONTENT_aa0d1105-7dc6-41f3-97af-8065d6d1d0df/Tools/Database/ToolSets/example.toolset": []
 	},
 	"7ac05a15-f6ef-4ce6-9968-044c42a4db33": {
-		"$CONTENT_7ac05a15-f6ef-4ce6-9968-044c42a4db33/Tools/Database/ToolSets/example.toolset": []
+		"$CONTENT_7ac05a15-f6ef-4ce6-9968-044c42a4db33/Tools/Database/ToolSets/tools.toolset": [
+			"1283a301-9830-4140-bb68-1fe546402d81"
+		]
 	},
 	"e4684074-8884-41a0-853c-0d441a31eff3": {},
 	"2cde51e4-5e84-4ca5-a0ff-da5f371fcc23": {},
