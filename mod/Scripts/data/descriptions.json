@@ -33165,7 +33165,7 @@
 	"a4194b4f-083d-4a4b-953a-43a7991aea20": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "In dev, will be extended\r\n\r\n[b]Contains now:[/b]\r\n- I.M.P van wheel\r\n- Classic car wheel\r\n- ZIL truck wheel (1x5)\r\n- Retro steering wheel (button)\r\n- Truck steering wheel (button)\r\n- Taxi sign\r\n- 70's Car mirror (left&right)\r\n- Car antenna\r\n- Crossed arrow sign\r\n- Trash bin (chrome&black)\r\n- Lounge/waiting seat (seat lol)\r\n- Some panel variates\r\n[u]All of these are colorable[/u]\r\n\r\n\r\n\r\n\r\n[u]All models made by INZHIR[/u]\r\n\r\n\r\n\r\n\r\n(You can suggest your ideas though)",
+		"description": "In dev, will be extended\r\n\r\n[b]Contains now:[/b]\r\n- I.M.P van wheel\r\n- Classic car wheel\r\n- ZIL truck wheel (1x5)\r\n- Retro steering wheel (button)\r\n- Truck steering wheel (button)\r\n- Taxi sign\r\n- 70's Car mirror (left&right)\r\n- Car antenna\r\n- Crossed arrow sign\r\n- Trash bin (chrome&black)\r\n- Lounge/waiting seat (seat lol)\r\n- Some panel variates\r\n- Gravestones\r\n[u]All of these are colorable[/u]\r\n\r\n\r\n\r\n\r\n[u]All models made by INZHIR[/u]\r\n\r\n\r\n\r\n\r\n(You can suggest your ideas though)",
 		"fileId": 3131864422,
 		"localId": "a4194b4f-083d-4a4b-953a-43a7991aea20",
 		"name": "INZHIR parts [Beta]",
@@ -33719,7 +33719,13 @@
 	"43f2e45f-57ec-4c60-8432-c9cc7a1cfde5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": null,
+		"dependencies": [
+			{
+				"fileId": 3245275413,
+				"localId": "2ad00552-4ee1-4639-a8c0-54cefb5eb52c",
+				"name": "Harvestables as Shapes"
+			}
+		],
 		"description": "Adds a bunch of useful utilities, including:\r\n1. 2 Fuel Converters which allow you to convert gasoline into batteries and vice versa in a 10:8 ratio\r\n\r\n2. Explosion Spawner block which spawns a random explosion every x seconds in y area. [Stats are adjustable by pressing 'U' while looking at the part]\r\n\r\n3. New command: /flymode. Sets flying mode. The speed while flying and sprinting can be adjusted with /flymode <speed> (speed must be a number).\r\n\r\n4. A unit spawner gun. it shoots bots/animals instead of projectiles. velocity, color of the unit and type of unit can be customized by pressing 'R' while holding the gun.\r\n\r\n5. Most importantly, a type of uv grow bed. Basically a grow bed which allows you grow crops without raids and provides portability. Requires electricity [batteries] to function. Connect to a battery container with at least one battery and grow your desired crop. Level 2 costs 5 component kits and unlocks fertilizer recipes with additional reduced grow time. there are three versions of the grow bed:\r\na. Without fertilizer recipes\r\nb. With fertilizer recipes\r\nc. With fertilizer recipes and piped\r\n\r\n6. Two new parts used for crafting: a baby woc obtained from the trader for 2 pineapple and 2 orange crates, and a glow bug egg also obtained from the trader for 2 broccoli and 2 blueberry crates\r\n\r\n7. Two new interactables: Portable woc and Portable glow bug. both are craftable and require parts mentioned above.\r\nPortable woc can produce milk at a rate of 1 milk per 4 corn and 4 water. Portable glow bug can produce glow at a rate of 1 glow per 20 cardboard block and 10 water.\r\n\r\n8. Conveyor part: pushes objects and characters in the direction of its arrow.\r\n\r\n9. Test part purely for testing purposes\r\n\r\nBoth the Fuel converters and piped, all versions of the grow bed, baby woc and glow bug egg, Portable woc and glow bug are obtainable in survival and any custom survival game with Modded Craftbot Recipes support, Thanks to Modded Craftbot Recipes.\r\n\r\n[h1]Credits[/h1]\r\nPart of this mod was inspired and assisted by Raft Mechanic: Tools and Parts for Creative and their creator(s). Link to that mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2824149581",
 		"fileId": 3158847150,
 		"localId": "43f2e45f-57ec-4c60-8432-c9cc7a1cfde5",
