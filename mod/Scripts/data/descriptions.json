@@ -30838,7 +30838,7 @@
 	"756d4f03-2e86-4f5b-a425-20259568eff3": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "",
+		"description": "[b]Better API is OPTIONAL. It's only needed to add support for middle mouse button.[/b]\n\nTired of searching for the right item in an inventory full of various mods? There's a solution for you.\nJust look at the required block and enter the [b]/get[/b] command into the chat and it will instantly appear in the active hotbar slot.\n\n[h1] FAQ [/h1]\n[olist]\n    [*]This mod adds the function of obtaining the required block without using the inventory (like the middle mouse button in Minecraft).\n    [*]Why not the middle mouse button? Scrap Mechanic API doesn't support keybindings for mods, but if they add support for them in the future, I'll definitely implement it. Use Better API, if you need that feature.\n    [*]Additional hotbar pages can be selected by entering their number in the command: [b]/get 1/2/3[/b]. (first page by default, optional argument)\n[/olist]\n\n[h1] Skill Issues [/h1]\n[olist]\n    [*]This mod doesn't work in Survival Mode, but works with other Custom Games.\n    [*]Mod may stop working if another player connected.\n[/olist]\n\nPlease consider leaving a like and adding the mod to your favorites to support my work!",
 		"fileId": 3002663600,
 		"localId": "756d4f03-2e86-4f5b-a425-20259568eff3",
 		"name": "Middle Mouse Feature from Minecraft",
@@ -34767,6 +34767,16 @@
 		"fileId": 3245907500,
 		"localId": "99e8e635-94c3-479b-b8c6-a0915b0928f1",
 		"name": "prova 43",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"06288670-9ea4-408c-a24d-351fe62f0e43": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Add a Ammo Storage to your game",
+		"fileId": 3250092213,
+		"localId": "06288670-9ea4-408c-a24d-351fe62f0e43",
+		"name": "SomeThing",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
