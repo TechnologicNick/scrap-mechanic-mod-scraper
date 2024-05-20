@@ -30585,7 +30585,7 @@
 		"custom_icons": false,
 		"dependencies": null,
 		"description": "stolen mod parts and my parts to unification\n\n(c)Коля",
-		"fileId": 2996675778,
+		"fileId": 3250705089,
 		"localId": "c8ffdf84-1316-47d3-8b1e-99c66f808a80",
 		"name": "Mst",
 		"type": "Blocks and Parts",
@@ -34777,6 +34777,16 @@
 		"fileId": 3250092213,
 		"localId": "06288670-9ea4-408c-a24d-351fe62f0e43",
 		"name": "SomeThing",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"270e37ca-db39-4193-9a2c-527308248607": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3072439944,
+		"localId": "270e37ca-db39-4193-9a2c-527308248607",
+		"name": "Precolored Plastic",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
