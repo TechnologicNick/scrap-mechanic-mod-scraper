@@ -34565,7 +34565,7 @@
 	"b0325af1-ad6c-4bbb-92b0-14794ffcc8d5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "this mod add 2 blocks, one can be a good thing for ships, and other is good for reduce friction increasing the durability",
 		"fileId": 3230258666,
 		"localId": "b0325af1-ad6c-4bbb-92b0-14794ffcc8d5",
 		"name": "No Bouncy Light Weight Block",
@@ -34733,7 +34733,7 @@
 	"52389bc5-01dd-4b07-9ed3-df7f1cba6a64": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod add a photon emitter sphere 1x1 and 2x2.\n\nIn the future the Laser Beam will stop on obstacle surface.\n\nNow with Craft recipe:\n\n- Photon Emitter 1x1:\n - x50 MetalBlock 2\n - x10 Armored Glass Block\n - x100 Batteries\n - x5 Paint Ammo\n - x1 Electric Engine\n\n- Photon Emitter 2x2:\n - x70 Metal Block 2\n - x15 Armored Glass Block\n - x150 Batteries\n - x7 Paint Ammo\n - x1 Electric Engine\n\nSounds of emmitters incoming\n\nShape preview fixed",
+		"description": "This mod add a photon emitter sphere 1x1 and 2x2.\r\n\r\nIn the future the Laser Beam will stop on obstacle surface.\r\n\r\nNow with Craft recipe:\r\n\r\n- Photon Emitter 1x1:\r\n - x50 MetalBlock 2\r\n - x10 Armored Glass Block\r\n - x100 Batteries\r\n - x5 Paint Ammo\r\n - x1 Electric Engine\r\n\r\n- Photon Emitter 2x2:\r\n - x70 Metal Block 2\r\n - x15 Armored Glass Block\r\n - x150 Batteries\r\n - x7 Paint Ammo\r\n - x1 Electric Engine\r\n\r\nSounds of emmitters incoming\r\n\r\nShape preview fixed\r\n\r\nLeave a comment for any suggestion or question",
 		"fileId": 3246059365,
 		"localId": "52389bc5-01dd-4b07-9ed3-df7f1cba6a64",
 		"name": "Photon Emitter",
@@ -34797,6 +34797,36 @@
 		"fileId": 3250723408,
 		"localId": "5ccad62e-fb54-4976-94ea-48320c068b7d",
 		"name": "Simple Video Camera",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d20e742c-0039-444a-aa3f-0a67e80ed229": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3252182027,
+		"localId": "d20e742c-0039-444a-aa3f-0a67e80ed229",
+		"name": "scripting",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"684f53b9-ed37-4d51-937e-007f74fbba6b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3252183102,
+		"localId": "684f53b9-ed37-4d51-937e-007f74fbba6b",
+		"name": "my first mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b6b0961f-32cf-4933-83bf-2996c4437e87": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3252183785,
+		"localId": "b6b0961f-32cf-4933-83bf-2996c4437e87",
+		"name": "Fishie",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
