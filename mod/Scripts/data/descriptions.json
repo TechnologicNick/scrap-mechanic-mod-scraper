@@ -34829,5 +34829,15 @@
 		"name": "Fishie",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"e6c8065d-9389-424a-9d1d-d0a4b86a03a5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "The modpack's smart sensor, but wide!\n\nUse an orange input to offset the detection beam (see through walls!)\nUse magenta number input to set the search density!\nUse violet number input to set the search range!\nUse blue number input to set the search angle! Use red number input to show particles!\"\nUse yellow input to enable vertical!\n\nCredit to The Modpack Continued which this is based on (specifically the smart sensor) if you wish to merge this in feel free and let me know!\n\nIf anyone has any issues let me know!",
+		"fileId": 3252442731,
+		"localId": "e6c8065d-9389-424a-9d1d-d0a4b86a03a5",
+		"name": "Wide Sensor",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
