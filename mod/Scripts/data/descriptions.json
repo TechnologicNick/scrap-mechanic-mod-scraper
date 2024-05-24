@@ -34839,5 +34839,15 @@
 		"name": "Wide Sensor",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"59f9ebb5-2d9f-4ea8-9dee-90f39061f483": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3252848033,
+		"localId": "59f9ebb5-2d9f-4ea8-9dee-90f39061f483",
+		"name": "Block variations",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
