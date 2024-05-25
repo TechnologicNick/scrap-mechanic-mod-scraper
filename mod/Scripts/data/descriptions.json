@@ -34733,7 +34733,7 @@
 	"52389bc5-01dd-4b07-9ed3-df7f1cba6a64": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod add a photon emitter sphere 1x1 and 2x2.\r\n\r\nIn the future the Laser Beam will stop on obstacle surface.\r\n\r\nNow with Craft recipe:\r\n\r\n- Photon Emitter 1x1:\r\n - x50 MetalBlock 2\r\n - x10 Armored Glass Block\r\n - x100 Batteries\r\n - x5 Paint Ammo\r\n - x1 Electric Engine\r\n\r\n- Photon Emitter 2x2:\r\n - x70 Metal Block 2\r\n - x15 Armored Glass Block\r\n - x150 Batteries\r\n - x7 Paint Ammo\r\n - x1 Electric Engine\r\n\r\nSounds of emmitters incoming\r\n\r\nShape preview fixed\r\n\r\nLeave a comment for any suggestion or question",
+		"description": "This mod add a photon emitter sphere 1x1 and 2x2.\n\nNOW LASERS STOP ON OBSTACLE\n\nNow with Craft recipe:\n\n- Photon Emitter 1x1:\n - x50 MetalBlock 2\n - x10 Armored Glass Block\n - x100 Batteries\n - x5 Paint Ammo\n - x1 Electric Engine\n\n- Photon Emitter 2x2:\n - x70 Metal Block 2\n - x15 Armored Glass Block\n - x150 Batteries\n - x7 Paint Ammo\n - x1 Electric Engine\n\nComing Soon:\n - Photon Emitters Sounds\n - Mining Photon Emitter\n\nLeave a comment for any suggestion or question",
 		"fileId": 3246059365,
 		"localId": "52389bc5-01dd-4b07-9ed3-df7f1cba6a64",
 		"name": "Photon Emitter",
