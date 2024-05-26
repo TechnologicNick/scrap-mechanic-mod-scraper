@@ -27767,7 +27767,7 @@
 	"c42fe0d2-e46d-48df-ad86-68ae4175e274": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This Mod Adds a Simple way to Toggle the Gravity on or off.\r\nYou can connect a logic input like a switch to it to turn it on or off. without unlimited items so not in creative you need to connect a Batterie Container too\r\n.\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This Mod Adds a Simple way to Toggle the Gravity on or off.\r\nYou can connect a logic input like a switch to it to turn it on or off. without unlimited items so not in creative you need to connect a Batterie Container too\r\n.\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2908895063,
 		"localId": "c42fe0d2-e46d-48df-ad86-68ae4175e274",
 		"name": "Antigrav",
@@ -31953,12 +31953,12 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "☻Модпак забавный☻\r\n\r\nМод представляет из себя набор различных деталей, как декоративных картинок и полигонов, так и  модифицированных колёс со всеми функциями газового двигателя и инструментов, не говоря уже о механике в виде моба.\r\n\r\nЕсть рецепты крафтов для custom game.\r\n\r\nЯзыки:\r\n- Русский\r\n- Английский\r\n- Китайский\r\n\r\nТеги: колёса, механик, блоки, интерактивные детали, мяч, лом, полигоны, фермер, старые болты, пружины, бомбы, пушки, флаги, картины, линзы.\r\n\r\nВсе изображения сделаны с настройками графики по умолчанию.\r\n\r\nВсе обновления расписаны в верхней вкладке \"Обновления\".",
+		"description": "[h1]☻Модпак забавный☻[/h1]\r\n\r\nМод представляет из себя набор различных деталей, как декоративных картинок и полигонов, так и  модифицированных колёс со всеми функциями газового двигателя и инструментов, не говоря уже о механике в виде NPC-персонажа.\r\n\r\n[h1]Рецепты крафтов[/h1]\r\n[code]Есть рецепты крафтов для custom game.[/code]\r\n[h1]Языки[/h1]\r\n[code]- Русский\r\n- Английский\r\n- Китайский[/code]\r\n[h1]Обновления[/h1]\r\n[code]Все обновления расписаны в верхней вкладке \"Обновления\".[/code]\r\n[h1]Изображения[/h1]\r\n[code]Все изображения сделаны с настройками графики по умолчанию.[/code]\r\n[h1]Теги[/h1] [code]колёса, механик, блоки, интерактивные детали, мяч, лом, полигоны, фермер, старые боты, пружины, бомбы, пушки, флаги, картины, линзы.[/code]",
 		"fileId": 3049604044,
 		"localId": "3a8d7f21-c853-48ec-b916-f055cb403cd1",
 		"name": "The Modpack is Funny",
 		"type": "Blocks and Parts",
-		"version": 1.5
+		"version": 1.6
 	},
 	"dcfe3d42-ed03-4025-ba8e-04a5c4875e28": {
 		"allow_add_mods": true,
@@ -34833,7 +34833,7 @@
 	"e6c8065d-9389-424a-9d1d-d0a4b86a03a5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "The modpack's smart sensor, but wide!\n\nUse an orange input to offset the detection beam (see through walls!)\nUse magenta number input to set the search density!\nUse violet number input to set the search range!\nUse blue number input to set the search angle! Use red number input to show particles!\"\nUse yellow input to enable vertical!\n\nCredit to The Modpack Continued which this is based on (specifically the smart sensor) if you wish to merge this in feel free and let me know!\n\nIf anyone has any issues let me know!",
+		"description": "The modpack's smart sensor, but wide!\n\nUse an orange input to offset the detection beam (see through walls!)\nUse magenta number input to set the search density!\nUse violet number input to set the search range!\nUse blue number input to set the search angle! Use red number input to show particles!\"\n\nCredit to The Modpack Continued which this is based on (specifically the smart sensor) if you wish to merge this in feel free and let me know!\n\nIf anyone has any issues let me know!",
 		"fileId": 3252442731,
 		"localId": "e6c8065d-9389-424a-9d1d-d0a4b86a03a5",
 		"name": "Wide Sensor",
@@ -34847,6 +34847,16 @@
 		"fileId": 3252848033,
 		"localId": "59f9ebb5-2d9f-4ea8-9dee-90f39061f483",
 		"name": "Block variations",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"578d7090-92f3-42b5-a099-d20f7eb9ddbc": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3254165141,
+		"localId": "578d7090-92f3-42b5-a099-d20f7eb9ddbc",
+		"name": "thruster",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
