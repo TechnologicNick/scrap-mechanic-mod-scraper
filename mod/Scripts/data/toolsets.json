@@ -4619,5 +4619,14 @@
 	"59f9ebb5-2d9f-4ea8-9dee-90f39061f483": {},
 	"578d7090-92f3-42b5-a099-d20f7eb9ddbc": {},
 	"ca77f299-9000-4a25-bf3e-b03c71491943": {},
-	"50113e3d-280d-48dd-85b1-11dc2df8234c": {}
+	"50113e3d-280d-48dd-85b1-11dc2df8234c": {},
+	"7d88a8d7-8978-493c-a87c-b345d751976a": {},
+	"f5923059-34a0-49a5-b7a7-7efc18afd89a": {
+		"$CONTENT_f5923059-34a0-49a5-b7a7-7efc18afd89a/Tools/Database/ToolSets/Minecraft_Tools.toolset": [
+			"e30344a0-0011-4ff0-9a40-fae30a758112",
+			"c582bce5-4a48-4a56-9bda-a4b89e7627f3",
+			"034cc9d5-907d-4e1a-9c5c-7c6ff8663623",
+			"94703993-5db1-450e-88a8-941b8aa557ab"
+		]
+	}
 }
