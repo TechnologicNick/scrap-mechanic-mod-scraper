@@ -34733,7 +34733,7 @@
 	"52389bc5-01dd-4b07-9ed3-df7f1cba6a64": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod add a photon emitter sphere 1x1 and 2x2.\r\n\r\nNOW BEAMS STOP ON OBSTACLE\r\n\r\nNow with Craft recipe:\r\n\r\n- Photon Emitter 1x1:\r\n - x50 MetalBlock 2\r\n - x10 Armored Glass Block\r\n - x100 Batteries\r\n - x5 Paint Ammo\r\n - x1 Electric Engine\r\n\r\n- Photon Emitter 2x2:\r\n - x70 Metal Block 2\r\n - x15 Armored Glass Block\r\n - x150 Batteries\r\n - x7 Paint Ammo\r\n - x1 Electric Engine\r\n\r\nComing Soon:\r\n - Photon Emitters Sounds\r\n - Mining Photon Emitter\r\n\r\nLeave a comment for any suggestion or question",
+		"description": "This mod add:\r\n - Photon Emitter 1x1 and 2x2\r\n - Photon Miner 1x1 and 2x2\r\n - Emitter Body 1x1 and 2x2\r\n - Emitter Ring 1x1 and 2x2\r\n - Emitter Lens 1x1 and 2x2\r\n - Photon Core\r\n\r\nNEW SMOOTH SHAPES\r\n\r\nNOW BEAMS STOP ON OBSTACLE\r\n\r\nCraft secipes supported in Fant Mod 2 Custom Game\r\n\r\nComing Soon:\r\n - Scrap Photon Emitter\r\n - Photon Emitters and Miners Sounds\r\n - Photon Miners ray length extedner with gui (I'll try to do it but I don't know if I can)\r\n\r\nLeave a comment for any suggestion or question\r\n\r\nWARNING!!!\r\nThe Photon Core is a very delicate and extremely volatile component. For some reason it resists explosions and spud gun hits, but if you try to drop it from more than 5 blocks in the air, expect to find your base blown to atoms. It is an essential component for crafting 1x1 and 2x2 Photon Emitters. That said, I take no responsibility for improper use of the component so BEWARE",
 		"fileId": 3246059365,
 		"localId": "52389bc5-01dd-4b07-9ed3-df7f1cba6a64",
 		"name": "Photon Emitter",
@@ -34917,6 +34917,16 @@
 		"fileId": 3256642505,
 		"localId": "ffa01e01-62e3-4da9-b0cd-f11fd7a9f4b9",
 		"name": "AmmoBoxes",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"8bb77aad-e4b8-40ac-a6c8-4281df3d2c6e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "I created this because i cant find unbreakable and low dense block, but i create too heavy block for making vechicles or something",
+		"fileId": 3257692819,
+		"localId": "8bb77aad-e4b8-40ac-a6c8-4281df3d2c6e",
+		"name": "Unbreakable block",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
