@@ -34969,5 +34969,25 @@
 		"name": "Expanded Hotbar Seats",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"79f8e5c7-6cb1-4887-be4e-5104e6cdf7ab": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Superflat world for now",
+		"fileId": 3258835136,
+		"localId": "79f8e5c7-6cb1-4887-be4e-5104e6cdf7ab",
+		"name": "Minecraft World Generation",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"c89cb417-da16-477c-ad89-d9020797499f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "W.I.P.\nIn Future:\n- Grass bales\n- Hay bales\n- Silage bales\n- Wood bales\n- Cotton Bales\n- Round Bales\nIncluded:\n- Square Straw Bale",
+		"fileId": 3258849621,
+		"localId": "c89cb417-da16-477c-ad89-d9020797499f",
+		"name": "Bales",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
