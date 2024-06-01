@@ -34863,7 +34863,7 @@
 	"ca77f299-9000-4a25-bf3e-b03c71491943": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "🌟 Ultimate Real-Scale Blocks Mod for Scrap Mechanic! 🌟\r\n\r\n🚀 Dive into a game-changing experience with our Real-Scale Minecraft Blocks Mod! This isn't just any mod — it's your gateway to revolutionizing how you play Scrap Mechanic. 🛠️\r\n\r\n💡 Features include:\r\n\r\nTrue-to-Life Scale Blocks: Feel the real size! From dirt to diamond, every block is scaled to perfection, giving you the most immersive building experience ever.\r\n\r\nGlowing Glowstone: Illuminate your builds with realistic light intensity from our glowstone blocks. It's not just about looks; it's about function!\r\n\r\nExplosive TNT Action: Ready for a blast? Our TNT blocks don't just sit pretty — they explode with a bang, adding a whole new level of fun (and danger) to your gameplay!\r\n\r\n🌐 Whether you're building a sprawling cityscape or a complex maze of traps, these blocks add depth, realism, and a touch of your favorite blocky game to Scrap Mechanic.\r\n\r\n✨ Why settle for less when you can build with the best? Upgrade your game today and transform the way you craft, build, and survive in Scrap Mechanic.\r\n\r\n👉 Download now and start a new dimension of creativity! Trust us, you don’t want to miss this. Your epic builds await!\r\n\r\n",
+		"description": "CHECK OUT FANTS MC TOOLS MOD: https://steamcommunity.com/workshop/filedetails/?id=3255533909\r\n\r\n🤯 Scrap Mechanic Minecraft Mod: GET READY FOR INSANITY! 🤯\r\n🚀 Brace Yourself for the Ultimate Crossover! 🚀\r\n\r\n🌟 Welcome to the Mod of Mods! 🌟 Are you ready to have your mind BLOWN?! This ain't your grandma's Scrap Mechanic! We've crammed it full of Minecraft goodness and sprinkled it with meme magic. Get in here and experience the CRAZIEST mashup of all time! 🤪\r\n\r\n🔧 WHAT'S IN THE BOX?!\r\n\r\nREAL Minecraft Blocks: That's right, we got the WHOLE collection! From dirt to diamond, it's all here, and it's BIGGER and BETTER than ever! 📦\r\n\r\nGLORIOUS Glowstone: Light up your life with glowstone blocks that SHINE brighter than your future! 🌟\r\n\r\nBOOM! Explosive TNT: Need we say more? Blow stuff up just because you can! 💥💣\r\n\r\nCreepers & Redstone & More, Oh My!: We've got all your faves, ready to party in Scrap Mechanic style! 🎉\r\n\r\n🛠️ WHY YOU NEED THIS MOD:\r\n\r\nUnleash CHAOS: Mix Minecraft's blocky charm with Scrap Mechanic's brain-bending mechanics. IT'S MADNESS! 😵\r\n\r\nEpic MEME Builds: Build colossal meme-tastic structures with precision tools and wacky blocks. Dank AF! 🏗️💯\r\n\r\nGAME-CHANGING Gameplay: Add a new dimension to your Scrap Mechanic escapades. Why not?! 🤷\u200d♂️\r\n\r\n🎮 Join the Meme Brigade!\r\n\r\nDon't miss out on the wildest mod of the century! Download the Scrap Mechanic Minecraft Mod NOW and become the LEGEND you were born to be! This mod is so lit, it's like playing Minecraft while riding a unicycle on a tightrope made of bacon. 🍖🔥\r\n\r\n👉 SMASH that 'Subscribe' button! Dive into the meme-iest, brain-rottingest, block-buildingest adventure EVER! LET'S GOOOOOO! 🚀",
 		"fileId": 3254768997,
 		"localId": "ca77f299-9000-4a25-bf3e-b03c71491943",
 		"name": "Minecraft",
@@ -34937,6 +34937,36 @@
 		"fileId": 3258135202,
 		"localId": "1e484c1b-9ec9-4fef-b123-4be0690b419c",
 		"name": "Bowling Floor",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"14715865-97ee-4537-9568-14cfde34ebb0": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "The only reason I made this is so that it has custom icon so it is easier to see in the inventory.",
+		"fileId": 3257284050,
+		"localId": "14715865-97ee-4537-9568-14cfde34ebb0",
+		"name": "Pre Survival Parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"0379fdcb-d705-45c6-af65-48cb8e1c8e2c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "256 slot inventory\nitem overstack\nfaster refine speed",
+		"fileId": 3258208911,
+		"localId": "0379fdcb-d705-45c6-af65-48cb8e1c8e2c",
+		"name": "my QOL",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"824fc2ab-6c21-4b80-9489-bf3fdd102d35": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds 4 new seats that have 3 usable hotbars!\nYou can assign switches/buttons to the hotbars by colouring them accordingly:\n[list]\n[*]White: 1st hotbar\n[*]Light Grey: 2nd hotbar\n[*]Dark Grey: 3rd hotbar\n[/list]",
+		"fileId": 3258518901,
+		"localId": "824fc2ab-6c21-4b80-9489-bf3fdd102d35",
+		"name": "Expanded Hotbar Seats",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
