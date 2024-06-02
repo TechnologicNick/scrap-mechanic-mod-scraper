@@ -28218,8 +28218,6 @@
 		"version": 1
 	},
 	"0a923245-6f73-45c3-97e3-f0efd19e3d49": {
-		"allow_add_mods": true,
-		"custom_icons": false,
 		"description": "Includes random parts and random things for NorthernLightz_'s projects.\n",
 		"fileId": 2918061523,
 		"localId": "0a923245-6f73-45c3-97e3-f0efd19e3d49",
@@ -30838,7 +30836,7 @@
 	"756d4f03-2e86-4f5b-a425-20259568eff3": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[b]Better API is OPTIONAL. It's only needed to add support for middle mouse button.[/b]\n\nTired of searching for the right item in an inventory full of various mods? There's a solution for you.\nJust look at the required block and enter the [b]/get[/b] command into the chat and it will instantly appear in the active hotbar slot.\n\n[h1] FAQ [/h1]\n[olist]\n    [*]This mod adds the function of obtaining the required block without using the inventory (like the middle mouse button in Minecraft).\n    [*]Why not the middle mouse button? Scrap Mechanic API doesn't support keybindings for mods, but if they add support for them in the future, I'll definitely implement it. Use Better API, if you need that feature.\n    [*]Additional hotbar pages can be selected by entering their number in the command: [b]/get 1/2/3[/b]. (first page by default, optional argument)\n[/olist]\n\n[h1] Skill Issues [/h1]\n[olist]\n    [*]This mod doesn't work in Survival Mode, but works with other Custom Games.\n    [*]Mod may stop working if another player connected.\n[/olist]\n\nPlease consider leaving a like and adding the mod to your favorites to support my work!",
+		"description": "",
 		"fileId": 3002663600,
 		"localId": "756d4f03-2e86-4f5b-a425-20259568eff3",
 		"name": "Middle Mouse Feature from Minecraft",
@@ -34953,7 +34951,7 @@
 	"0379fdcb-d705-45c6-af65-48cb8e1c8e2c": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "256 slot inventory\nitem overstack\nfaster refine speed",
+		"description": "256 slot inventory\nitem overstack\n0.01 sec refine",
 		"fileId": 3258208911,
 		"localId": "0379fdcb-d705-45c6-af65-48cb8e1c8e2c",
 		"name": "my QOL",
@@ -34963,7 +34961,7 @@
 	"824fc2ab-6c21-4b80-9489-bf3fdd102d35": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod adds 4 new seats that have 3 usable hotbars!\nYou can assign switches/buttons to the hotbars by colouring them accordingly:\n[list]\n[*]White: 1st hotbar\n[*]Light Grey: 2nd hotbar\n[*]Dark Grey: 3rd hotbar\n[/list]",
+		"description": "This mod adds 4 new seats that have 3 usable hotbars!\r\nYou can assign switches/buttons to the hotbars by colouring them accordingly:\r\n[list]\r\n[*]White: 1st hotbar\r\n[*]Light Grey: 2nd hotbar\r\n[*]Dark Grey: 3rd hotbar\r\n[/list]\r\nYou can press your jump key(Space by default) to switch between hotbars.",
 		"fileId": 3258518901,
 		"localId": "824fc2ab-6c21-4b80-9489-bf3fdd102d35",
 		"name": "Expanded Hotbar Seats",
