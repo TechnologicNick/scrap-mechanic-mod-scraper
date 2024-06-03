@@ -29700,6 +29700,11 @@
 				"fileId": 2916542549,
 				"localId": "b03e83bd-6cfc-47d3-bfcb-3c5a437f107b",
 				"name": "Player Teleporter"
+			},
+			{
+				"fileId": 3257284050,
+				"localId": "14715865-97ee-4537-9568-14cfde34ebb0",
+				"name": "Pre Survival Parts"
 			}
 		],
 		"description": "parts and tools created that may be useful or fun.\n\n[h1]current parts:[/h1]\n[list]\n[*] [b]creation Summoner[/b]\n     Allows you to save creations from the void or just from far away.\n[*] [b]Duplicator Tool[/b]\n     This tool allows you to select multiple bodies and duplicate/mirror them.\n[*] [b]Player Teleporter[/b]\n     This tool allows you to teleport around the map just by looking at where you want to go.\n[*] [b]Better Lift[/b]\n     This tool Replaces your current Lift to have infinite reach, use [F] and [R] to extend lift past normal limits.\n[*] [b]Admin Tool[/b]\n     complex features, visit [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2022198450]this page[/url] for description.\n[*] [b]Player Kicker[/b]\n     Allows you to people from your world.\n[*] [b]World Cleaner[/b]\n     Allows you to clear parts from the world.\n[*] [b]Free Camera[/b]\n     complex features, visit [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2022198450]this page[/url] for description.\n[*] [b]Permission Manager[/b]\n     Allows you to configure permission for other players to use.\n[*] [b]Raw Block Editor[/b]\n     Allows you to edit the raw data of a shape and update it in real time.\n[*] [b]Stop Watch[/b]\n     Track how fast you are with this stop watch timer, lmb-drag to create a line, rmb to delete line, force build to reset timer, Q to change lap-timer type.\n[*] [b]Advanced X-O-Meter[/b]\n     x-o meter from The Modpack, all credit goes to Brent Batch and the rest of The Modpack team.\n[*] [b]Center Of Mass[/b]\n     shows the center of mass of the creation it is on, accounts for it's self.\n[/list]\n[h1]discord.gg/6r46PkYr9s[/h1]\n\nhave ideas for new tools or features? post in comments. or talk directly to me in the discord.",
