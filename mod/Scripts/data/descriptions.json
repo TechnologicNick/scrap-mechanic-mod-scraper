@@ -34038,7 +34038,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"description": "automatically sets the user's hotbar on join.\n\nuse /savehotbar to set it\n\nworks across any world as long as it has this mod added to its mod list.",
-		"fileId": 3175074477,
+		"fileId": 3261470009,
 		"localId": "ad999bac-a054-4ea3-8b8e-37d6d4d916e9",
 		"name": "custom starter hotbar",
 		"type": "Blocks and Parts",
@@ -34992,5 +34992,15 @@
 		"name": "Bales",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"a28f3718-3f7f-46bc-8388-8c1c0b5309b1": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Slightly revised version of MelOnE's original which was released with no restrictions - as is this version. \nA few more green patches have been added to the start area as well as some useful items near the mechanic station. It's still mostly desert though so don't expect miracles! ",
+		"fileId": 3261345262,
+		"localId": "a28f3718-3f7f-46bc-8388-8c1c0b5309b1",
+		"name": "Desert 2",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
