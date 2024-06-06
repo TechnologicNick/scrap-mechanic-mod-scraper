@@ -3317,7 +3317,8 @@
 	"cb283672-5b5b-4038-ade9-2d0df4962ff4": {
 		"$CONTENT_cb283672-5b5b-4038-ade9-2d0df4962ff4/Tools/Database/ToolSets/example.toolset": [
 			"9daba7ae-8846-488b-8737-cd4e4b0c6862",
-			"e814e257-8c95-4d4d-aa5e-4ac316e87cd0"
+			"e814e257-8c95-4d4d-aa5e-4ac316e87cd0",
+			"c6df545b-2184-4b00-bc97-59f04c51007b"
 		]
 	},
 	"42bc054b-7602-46fc-9bf1-ef3ffc33a9b0": {},
@@ -4645,5 +4646,6 @@
 	"c89cb417-da16-477c-ad89-d9020797499f": {},
 	"a28f3718-3f7f-46bc-8388-8c1c0b5309b1": {
 		"$CONTENT_a28f3718-3f7f-46bc-8388-8c1c0b5309b1/Tools/Database/ToolSets/example.toolset": []
-	}
+	},
+	"ba443bc7-9e15-447c-9a0b-3003d02e5fe3": {}
 }
