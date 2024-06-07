@@ -35007,5 +35007,25 @@
 		"name": "AEGIS Logic Stuff",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"6f81dd7b-9bc9-45e7-9bba-29e09931b8a9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This is a “fork” or tweak of the original Drive mod for Scrap Mechanic.\r\nI called it Drive Enchanted Edition.\r\n\r\nWhat has been changed:\r\n1. MANY MANY Many different improvements in item spawning. For example, more gasoline now spawns.\r\n2. I removed the elevator from inventory, but added a duck. (equivalent isn't it?)\r\n3. Restored thirst and hunger.\r\n4. Now you can plant vegetable gardens, everything for this is there, you just need to find:\r\nBucket, water, water tanks, seeds and a bag of soil, plus a water cannon (for advanced mechanics).\r\n5. The chance of welding and spray gun spawning from boxes has been increased, and an electric motor can also be found.\r\n6. Increased spawning of rare locations (ships, for example)\r\n7. Added spawning of some new items, which you will play and find out! :)\r\n8. Now the beds work, but if you didn’t sleep and died, then there will be a GAMEOVER! (thanks QM)\r\n9. Cows have been added to the starting location so you don’t get bored :D\r\n10. All tiles on the road have been redone: random spawning of enemies, more detail, and more.\r\n11. The bug with the crash after teleportation may have been fixed, test it! (thanks QM)\r\n12. The \"Bunker\" location has been improved: more detail, enemy spawning, item balancing.\r\nNEW! 13: Bugs with respawning on the bed and raid after teleport have been fixed. (thanks QM)\r\nNEW! 14: The “Starting House” location has been improved: more detail, enemy spawning, item balancing.\r\n\r\nOriginal mod:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3238463364\r\nUnfortunately, the original mod was overwritten by mine. But you can always download the original from github:\r\nhttps://github.com/FoilFields/Drive\r\n\r\nP.S. I just started to understand the creation of mods, so don’t judge strictly, I do what I can.\r\nWrite bugs and suggestions in the comments.\r\n\r\nThank you so much for your help with bug fixes and more - Questionable Mark.\r\n\r\n===================\r\n\r\nЭто \"форк\" или твик оригинального мода Drive для Scrap Mechanic.\r\nЯ назвал его Drive Enchanted Edition.\r\n\r\nЧто было изменено:\r\n1. МНОГО МНОго Много различных улучшений в спауне предметов. Например, теперь спаунится больше бензина.\r\n2. Убрал из инвентаря лифт, зато добавил уточку. (равноценно не правда ли?)\r\n3. Вернул жажду и голод.\r\n4. Теперь можно сажать огороды, все для этого есть, нужно только найти:\r\nВедро, вода, баки с водой, семена и мешок с землей, а также водная пушка (для продвинутых механиков).\r\n5. Повышен шанс спауна сварки и краскопульта из ящиков, а также можно найти электрический мотор.\r\n6. Повышен спаун редких локаций (корабля, например)\r\n7. Добавлен спаун некоторых новых предметов, каких - поиграете и узнаете! :)\r\n8. Теперь работают кровати, но если не поспал и умер, то будет GAMEOVER! (спасибо QM)\r\n9. На стартовую локацию добавлены коровы, чтобы не было вам скучно :D\r\n10. Переделаны все тайлы на дороге: рандомный спаун врагов, больше детализации и другое.\r\n11. Возможно пофикшен баг с вылетом после телепортации, тестируйте! (спасибо QM)\r\n12. Доработана локация \"Бункер\": больше детализации, спаун врагов, балансировка предметов.\r\nНОВОЕ! 13: Пофикшены баги с возраждением на кровати и рейдом после телепорта. (спасибо QM)\r\nНОВОЕ! 14: Доработана локация \"Стартовый дом\": больше детализации, спаун врагов, балансировка предметов.\r\n\r\nОригинальный мод:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3238463364\r\nК сожаление, оригинальный мод затерся моим. Но всегда можно скачать оригинал с github'a:\r\nhttps://github.com/FoilFields/Drive\r\n\r\nP.S. Я только начал разбираться в создании модов, поэтому строго не судите, делаю что могу.\r\nБаги и пожелания пишите в комментариях.\r\n\r\nОгромное спасибо за помощь в баг фиксах и не только - Questionable Mark.",
+		"fileId": 3260534142,
+		"localId": "6f81dd7b-9bc9-45e7-9bba-29e09931b8a9",
+		"name": "Drive Enchanted Edition by Cloudiam",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"521f1071-9423-4e62-b11b-1d64a5178989": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3262578848,
+		"localId": "521f1071-9423-4e62-b11b-1d64a5178989",
+		"name": "8841",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
