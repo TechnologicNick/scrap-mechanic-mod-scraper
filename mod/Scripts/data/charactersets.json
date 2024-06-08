@@ -1058,5 +1058,15 @@
 		"$CONTENT_6f81dd7b-9bc9-45e7-9bba-29e09931b8a9/Characters/Database/CharacterSets/replacement.characterset": [
 			"00000000-0000-0000-0000-000000000000"
 		]
+	},
+	"01a8078f-46d0-495b-87ab-5b53e74d6ef9": {
+		"$CONTENT_01a8078f-46d0-495b-87ab-5b53e74d6ef9/Characters/Database/CharacterSets/replacement.characterset": [
+			"00000000-0000-0000-0000-000000000000"
+		]
+	},
+	"08560312-2329-4f21-ae71-d5ce9259e16f": {
+		"$CONTENT_08560312-2329-4f21-ae71-d5ce9259e16f/Characters/Database/CharacterSets/replacement.characterset": [
+			"00000000-0000-0000-0000-000000000000"
+		]
 	}
 }
