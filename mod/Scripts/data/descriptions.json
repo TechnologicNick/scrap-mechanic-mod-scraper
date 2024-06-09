@@ -35075,5 +35075,15 @@
 		"name": "masasin",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"249e5b3c-88e7-4336-b398-864841fecdd2": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Этот мод добавит вам ящики фруктов и овощей из выживания!",
+		"fileId": 3264001421,
+		"localId": "249e5b3c-88e7-4336-b398-864841fecdd2",
+		"name": "Survival Crates",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
