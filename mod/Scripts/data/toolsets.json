@@ -4562,7 +4562,10 @@
 	},
 	"be6329a8-3968-40b8-8f2c-2c2628db5cbb": {
 		"$CONTENT_be6329a8-3968-40b8-8f2c-2c2628db5cbb/Tools/Database/ToolSets/weapons.toolset": [
-			"6296da60-708b-44e1-bec0-76edf276113b"
+			"6296da60-708b-44e1-bec0-76edf276113b",
+			"66bd9c12-6981-4c72-bb84-3aa234f7c653",
+			"a39b0899-ebfd-42ff-8a60-21a8edf374d6",
+			"860949ac-8212-4cf8-9b62-fd6ca4e759cc"
 		]
 	},
 	"eb9f9ede-dfd4-41b6-af6a-1e6a2d392ee6": {},
