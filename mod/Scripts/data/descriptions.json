@@ -35125,5 +35125,15 @@
 		"name": "Starry Night",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"4bc108d2-3584-4a17-af0d-6a4928df6ba7": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 3268198520,
+		"localId": "4bc108d2-3584-4a17-af0d-6a4928df6ba7",
+		"name": "Ender Chest",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
