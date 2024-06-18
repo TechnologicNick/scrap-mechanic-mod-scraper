@@ -35124,10 +35124,10 @@
 	"cbd3fcbf-06da-4e0b-bb98-99bffeea63e1": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This Mod is used for replacing blocks!  Mod is still in beta so it might break some creations, make sure to save creations and maybe even worlds when using this. (joints and such will break when replacing top block.)\n\nif there are some issues or ideas that i should add to the mod, tell me down below!\n\np.s. art made by my good friend https://steamcommunity.com/id/rocord\nand idea was given to me by https://steamcommunity.com/profiles/76561198310801818/\n\n[img]https://image.retrodogo.net/u/Xdn2cM.gif[/img]",
+		"description": "This Mod is used for replacing blocks!  Mod is still in beta so it might break some creations, make sure to save creations and maybe even worlds when using this. (joints and such will break when replacing bottom part/block.)\n\nif there are some issues or ideas that i should add to the mod, tell me down below!\n\np.s. art made by my good friend https://steamcommunity.com/id/rocord\nand idea was given to me by https://steamcommunity.com/profiles/76561198310801818/\n\n[img]https://image.retrodogo.net/u/Xdn2cM.gif[/img]",
 		"fileId": 3268921033,
 		"localId": "cbd3fcbf-06da-4e0b-bb98-99bffeea63e1",
-		"name": "Material Replacer",
+		"name": "Universal Replacer",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -35174,7 +35174,7 @@
 	"df423ad6-8b36-4203-88aa-53cc482ecae2": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This is my own World Cleaner mod that was made with some code from World Cleaner ⁴\n\nWill be making more improvements with the mod once it gets some issues or ideas! (if you have any, post it down below!)\n\np.s. art made by my good friend https://steamcommunity.com/id/rocord",
+		"description": "This is my own World Cleaner mod that was made with some code from World Cleaner ⁴\r\n\r\nWill be making more improvements with the mod once it gets some issues or ideas! (if you have any, post it down below!)\r\n\r\np.s. art made by my good friend https://steamcommunity.com/id/rocord",
 		"fileId": 3269588266,
 		"localId": "df423ad6-8b36-4203-88aa-53cc482ecae2",
 		"name": "World Cleaner ⁵",
