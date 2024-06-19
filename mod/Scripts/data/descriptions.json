@@ -35226,5 +35226,15 @@
 		"name": "Explosive Wheels Mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"e7b98039-7c48-4200-88f9-f36b40126dab": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Replaces the in-game radio with 1988 album \"Zadyma\" by late Polish actor and comedian Janusz Rewiński.\nMust be installed manually.\n\n[h1] Install instructions: [/h1]\n1. Head into the mod's folder (C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\387990\\3270297474)\n2. Go inside the Effects folder, followed by Audio and Banks.\n3. Copy the 'Master Bank.bank' file into C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\\Data\\Audio\\Banks\n4. Done!",
+		"fileId": 3270826668,
+		"localId": "e7b98039-7c48-4200-88f9-f36b40126dab",
+		"name": "Janusz Rewiński - Zadyma (Radio)",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
