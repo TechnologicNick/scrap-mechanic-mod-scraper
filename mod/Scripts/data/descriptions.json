@@ -34706,7 +34706,7 @@
 	"52389bc5-01dd-4b07-9ed3-df7f1cba6a64": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod add:\r\n - Photon Emitter 1x1 and 2x2\r\n - Photon Miner 1x1 and 2x2\r\n - Emitter Body 1x1 and 2x2\r\n - Emitter Ring 1x1 and 2x2\r\n - Emitter Lens 1x1 and 2x2\r\n - Photon Core\r\n\r\nNEW SMOOTH SHAPES\r\n\r\nNOW BEAMS STOP ON OBSTACLE\r\n\r\nNEW PART: Atomic Container... (necessary part to craft the scrap photon cannon)\r\n\r\nCraft secipes supported in Fant Mod 2 Custom Game\r\n\r\nComing Soon:\r\n - Scrap Photon Cannon\r\n - Photon Miners ray length extender with gui (I'll try to do it but I don't know if I can)\r\n\r\nLeave a comment for any suggestion or question\r\n\r\nWARNING!!!\r\nThe Photon Core is a very delicate and extremely volatile component. For some reason it resists explosions and spud gun hits, but if you try to drop it from more than 5 blocks in the air, expect to find your base blown to atoms. It is an essential component for crafting 1x1 and 2x2 Photon Emitters. That said, I take no responsibility for improper use of the component so BEWARE",
+		"description": "This mod add:\r\n - Photon Emitter 1x1 and 2x2\r\n - Photon Miner 1x1 and 2x2\r\n - Emitter Body 1x1 and 2x2\r\n - Emitter Ring 1x1 and 2x2\r\n - Emitter Lens 1x1 and 2x2\r\n - Photon Core\r\n\r\nNEW SMOOTH SHAPES\r\n\r\nNOW BEAMS STOP ON OBSTACLE\r\n\r\nNEW PART: Atomic Container... (necessary part to craft the scrap photon cannon)\r\n\r\nCraft secipes supported in Fant Mod 2 Custom Game\r\n\r\nFor any suggestion or bug report, please use the right Discussion tab and leave a comment if you have any question\r\n\r\nWARNING!!!\r\nThe Photon Core is a very delicate and extremely volatile component. For some reason it resists explosions and spud gun hits, but if you try to drop it from more than 5 blocks in the air, expect to find your base blown to atoms. It is an essential component for crafting 1x1 and 2x2 Photon Emitters. That said, I take no responsibility for improper use of the component so BEWARE",
 		"fileId": 3246059365,
 		"localId": "52389bc5-01dd-4b07-9ed3-df7f1cba6a64",
 		"name": "Photon Emitter",
@@ -35124,7 +35124,7 @@
 	"cbd3fcbf-06da-4e0b-bb98-99bffeea63e1": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This Mod is used for replacing blocks!  Mod is still in beta so it might break some creations, make sure to save creations and maybe even worlds when using this. (joints and such will break when replacing bottom part/block.)\n\nif there are some issues or ideas that i should add to the mod, tell me down below!\n\np.s. art made by my good friend https://steamcommunity.com/id/rocord\nand idea was given to me by https://steamcommunity.com/profiles/76561198310801818/\n\n[img]https://image.retrodogo.net/u/Xdn2cM.gif[/img]",
+		"description": "This Mod is used for replacing parts and blocks!  Mod is still in beta so it might break some creations, make sure to save creations and maybe even worlds when using this. (joints and such will break when replacing parts or blocks.)\n\nif there are some issues or ideas that i should add to the mod, tell me down below!\n\np.s. art made by my good friend https://steamcommunity.com/id/rocord\nand idea was given to me by https://steamcommunity.com/profiles/76561198310801818/\n\n[img]https://image.retrodogo.net/u/Xdn2cM.gif[/img]",
 		"fileId": 3268921033,
 		"localId": "cbd3fcbf-06da-4e0b-bb98-99bffeea63e1",
 		"name": "Universal Replacer",
@@ -35194,6 +35194,36 @@
 		"fileId": 3269912087,
 		"localId": "632be32f-6ebd-414e-a061-d45906ae4dc6",
 		"name": "ScrapComputers",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"4dc9208c-c8f5-435c-940e-36cd6b1533d2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Replaces the in-game radio with the soundtrack of 2011 animated film \"Rio\".\nMust be installed manually.\n\n# Install instructions:\n1. Head into the mod's folder (C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\387990\\3270297474)\n2. Go inside the Effects folder, followed by Audio and Banks.\n3. Copy the 'Master Bank.bank' file into C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\\Data\\Audio\\Banks\n4. Done!",
+		"fileId": 3270297474,
+		"localId": "4dc9208c-c8f5-435c-940e-36cd6b1533d2",
+		"name": "Rio OST Radio",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d10d6ff7-fd1b-42d4-9480-94ca8057883f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds funky blocks",
+		"fileId": 3270390670,
+		"localId": "d10d6ff7-fd1b-42d4-9480-94ca8057883f",
+		"name": "MiniMod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"99d9e709-8e53-4007-8aad-a05b7696e16f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds the Explosive Wheels from ScrapMan's old video\n https://www.youtube.com/watch?v=CxHXTLpN3UU",
+		"fileId": 3270570752,
+		"localId": "99d9e709-8e53-4007-8aad-a05b7696e16f",
+		"name": "Explosive Wheels Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
