@@ -35246,5 +35246,25 @@
 		"name": "Polygons",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"bb266438-5f88-4e5e-8c76-48d119b95b09": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description\n\ninfinite durability 1 blocks&parts and:\n\"Small Explosive Canister\"\n\"Large Explosive Canister\"\n\"Connect Tool\"\n\"Sledgehammer\"\n\"Sledgehammer\" survival\n\"Weld Tool\"\n\"Paint Tool\"\n\"Spudling Gun\"\n\"Spud Gun\"\n\"Spud Shotgun\"\n",
+		"fileId": 3173209925,
+		"localId": "bb266438-5f88-4e5e-8c76-48d119b95b09",
+		"name": "Infinite Items for Limited inventory",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"68edddd8-9d84-4cbc-89ed-a89acb0a665f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "1x1 Seat \nit looks like a sensor ",
+		"fileId": 3272447669,
+		"localId": "68edddd8-9d84-4cbc-89ed-a89acb0a665f",
+		"name": "1x1 Seat",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
