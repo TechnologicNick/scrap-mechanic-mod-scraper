@@ -1068,5 +1068,8 @@
 		"$CONTENT_08560312-2329-4f21-ae71-d5ce9259e16f/Characters/Database/CharacterSets/replacement.characterset": [
 			"00000000-0000-0000-0000-000000000000"
 		]
+	},
+	"45aba7cf-243d-42e6-acf7-3b5ac527e31f": {
+		"$CONTENT_45aba7cf-243d-42e6-acf7-3b5ac527e31f/Characters/Database/CharacterSets/example.characterset": []
 	}
 }
