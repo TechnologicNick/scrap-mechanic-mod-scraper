@@ -35124,7 +35124,7 @@
 	"cbd3fcbf-06da-4e0b-bb98-99bffeea63e1": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This Mod is used for replacing parts and blocks!  Mod is still in beta so it might break some creations, make sure to save creations and maybe even worlds when using this. (joints and such will break when replacing parts or blocks.)\n\nif there are some issues or ideas that i should add to the mod, tell me down below!\n\np.s. art made by my good friend https://steamcommunity.com/id/rocord\nand idea was given to me by https://steamcommunity.com/profiles/76561198310801818/\n\n[img]https://image.retrodogo.net/u/Xdn2cM.gif[/img]",
+		"description": "FIXED JOINT BREAKING ISSUE!!\n\nThis Mod is used for replacing parts and blocks!  Mod is still in beta so it might break some creations, make sure to save creations and maybe even worlds when using this.\n\nif there are some issues or ideas that i should add to the mod, tell me down below!\n\np.s. art made by my good friend https://steamcommunity.com/id/rocord\nand idea was given to me by https://steamcommunity.com/profiles/76561198310801818/\n\n[img]https://image.retrodogo.net/u/Xdn2cM.gif[/img]",
 		"fileId": 3268921033,
 		"localId": "cbd3fcbf-06da-4e0b-bb98-99bffeea63e1",
 		"name": "Universal Replacer",
@@ -35280,7 +35280,7 @@
 	"dfabfb77-42cd-4dc5-a998-b3a67dbe4c5a": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod adds custom black holes and stuff that do different things!",
+		"description": "This mod adds custom black holes and stuff that do different things!\n\nCurrently there is only one, will make more in the near future. (if anyone knows how to make guis, message me. ill let ya help me, and be credited!)\n\np.s. art made by my good friend https://steamcommunity.com/id/rocord",
 		"fileId": 3272866012,
 		"localId": "dfabfb77-42cd-4dc5-a998-b3a67dbe4c5a",
 		"name": "The Blackholes Mod",
