@@ -17066,7 +17066,7 @@
 	"35bd8b52-4dcf-40b5-9b22-dad88a750e23": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "first edition: Aug 19, 2022\nmaking it better all the time!\n\nplease post any bugs in the comments\n\nLMB: edit\nLMB & hold: edit multiple\nRMB & hold: pause selection\nRotation(Q): toggle fly\n    scroll(while flying): change flight speed\nForce Build(F): repeat the last change on looking shape",
+		"description": "[h1]First Edition: August 19, 2022[/h1]\r\n\r\n[h2]Making it better all the time![/h2]\r\n\r\n[i]Please post any bugs in the comments or ask questions on our [url=https://discord.gg/6r46PkYr9s]Discord.[/url][/i]\r\n\r\n[list]\r\n    [*][b]LMB[/b] [i](Primary)[/i]: select and edit\r\n    [*][b]RMB[/b] [i](Secondary)[/i]: select\r\n    [*][b]Double RMB[/b] [i](Secondary)[/i]: select body (or select joints of parent body if double-clicking a joint)\r\n    [*][b]Q[/b] [i](Next Rotation)[/i]: toggle fly\r\n    [*][b]F[/b] [i](Force Build)[/i]: repeat the last change on the selected shape\r\n    [*][b]R[/b] [i](Reload)[/i]: open settings, including different directional settings, tool color, and fly type (\"dive\" or not)\r\n[/list]\r\n\r\nFeel free to ask if you need further assistance!",
 		"fileId": 2851026417,
 		"localId": "35bd8b52-4dcf-40b5-9b22-dad88a750e23",
 		"name": "raw block editor [BETA]",
