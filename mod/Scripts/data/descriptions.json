@@ -17066,10 +17066,10 @@
 	"35bd8b52-4dcf-40b5-9b22-dad88a750e23": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]First Edition: August 19, 2022[/h1]\r\n\r\n[h2]Making it better all the time![/h2]\r\n\r\n[i]Please post any bugs in the comments or ask questions on our [url=https://discord.gg/6r46PkYr9s]Discord.[/url][/i]\r\n\r\n[list]\r\n    [*][b]LMB[/b] [i](Primary)[/i]: select and edit\r\n    [*][b]RMB[/b] [i](Secondary)[/i]: select\r\n    [*][b]Double RMB[/b] [i](Secondary)[/i]: select body (or select joints of parent body if double-clicking a joint)\r\n    [*][b]Q[/b] [i](Next Rotation)[/i]: toggle fly\r\n    [*][b]F[/b] [i](Force Build)[/i]: repeat the last change on the selected shape\r\n    [*][b]R[/b] [i](Reload)[/i]: open settings, including different directional settings, tool color, and fly type (\"dive\" or not)\r\n[/list]\r\n\r\nFeel free to ask if you need further assistance!",
+		"description": "[h1]First Edition: August 19, 2022[/h1]\r\n\r\n[h2]Making it better all the time![/h2]\r\n\r\nTired of editing blueprint files manually? Want a more convenient way to edit while in-game? Our tool is the ultimate solution for all your block modification needs. Easily move parts to optimize your creation with intuitive arrow controls. This user-friendly tool displays only the JSON data of the shapes you've selected, allowing for quick edits without the hassle of scrolling through hundreds of lines in a file.\r\n\r\nAdditionally, the tool beautifies the JSON and adds color to it with syntax highlighting. This means that the data is neatly organized and color-coded, making it much easier to read and understand, even if you don't have any programming experience.\r\n\r\n[i]Please post any bugs in the comments or ask questions on our [url=https://discord.gg/6r46PkYr9s]Discord.[/url][/i]\r\n\r\n[list]\r\n    [*][b]LMB[/b] [i](Primary)[/i]: select and edit\r\n    [*][b]RMB[/b] [i](Secondary)[/i]: select\r\n    [*][b]Double RMB[/b] [i](Secondary)[/i]: select body (or select joints of parent body if double-clicking a joint)\r\n    [*][b]Q[/b] [i](Next Rotation)[/i]: toggle fly\r\n    [*][b]F[/b] [i](Force Build)[/i]: repeat the last change on the selected shape\r\n    [*][b]R[/b] [i](Reload)[/i]: open settings, including different directional settings, tool color, and fly type (\"dive\" or not)\r\n[/list]\r\n\r\nFeel free to ask if you need further assistance!",
 		"fileId": 2851026417,
 		"localId": "35bd8b52-4dcf-40b5-9b22-dad88a750e23",
-		"name": "raw block editor [BETA]",
+		"name": "Raw Block Editor | Blueprint Editor",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -35284,6 +35284,16 @@
 		"fileId": 3272866012,
 		"localId": "dfabfb77-42cd-4dc5-a998-b3a67dbe4c5a",
 		"name": "The Blackholes Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f531a8f0-1395-4e51-a746-507ea1abac50": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Replaces the textures for Metal Block 3 with a variation of the Metal Block 2 texture without reflections",
+		"fileId": 3274227813,
+		"localId": "f531a8f0-1395-4e51-a746-507ea1abac50",
+		"name": "Metal 3 texture replacement",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
