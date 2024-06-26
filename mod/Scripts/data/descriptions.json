@@ -35296,5 +35296,15 @@
 		"name": "Metal 3 texture replacement",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"2021b67f-b214-4508-ab47-1155b7a96b25": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds in parts that allow for a \"Combustion Piston Engine.\" When activated, a force is applied to both sides of the piston/slider.\r\n\r\nUse the \"pipe force\" parts on each end of the slider. The side with the kink in it should be the side connected to the slider. Hook the two pipe force parts up as you would the piston in a normal engine. Some piston stretch is required, as when the slider is compressed too much, it can cause problems.\r\n\r\nFun mod to play around with, comes with 8 creations I have made personally, 6 engines, a car, and a tractor.",
+		"fileId": 3275255833,
+		"localId": "2021b67f-b214-4508-ab47-1155b7a96b25",
+		"name": "Combustion Piston Engine",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
