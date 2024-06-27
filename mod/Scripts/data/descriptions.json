@@ -35306,5 +35306,15 @@
 		"name": "Combustion Piston Engine",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"e9cee78a-e168-4dc7-b61f-a1db3c8d11a6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "addon in Crashlander: Square One",
+		"fileId": 3275848896,
+		"localId": "e9cee78a-e168-4dc7-b61f-a1db3c8d11a6",
+		"name": "cso_addon",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
