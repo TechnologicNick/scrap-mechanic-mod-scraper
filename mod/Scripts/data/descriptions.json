@@ -35310,6 +35310,7 @@
 	"e9cee78a-e168-4dc7-b61f-a1db3c8d11a6": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": null,
 		"description": "addon in Crashlander: Square One",
 		"fileId": 3275848896,
 		"localId": "e9cee78a-e168-4dc7-b61f-a1db3c8d11a6",
