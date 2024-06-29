@@ -35311,10 +35311,20 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "addon in Crashlander: Square One",
+		"description": "EN (translated through a translator):\nAttention!!! \nthis mod can break the balance of the game, etc., I advise you to use this mod after playing without it to \n\nit is advised to put all the mods in the world so that everything is\n\nRUS:\nВнимание!!! \nэтот мод может сломать баланс игры и т д, советую использовать этот мод после игры в без него чтобы \n\nсоветуется ставить все моды в мир чтобы всё было\n\naddon for Crashlander: Square One\n\nон добавляет рецепты для предметов, которые не крафтится\n\nтакже добавляет рецепты которые с помощью их можно сделать предмет более выгодно\n\n",
 		"fileId": 3275848896,
 		"localId": "e9cee78a-e168-4dc7-b61f-a1db3c8d11a6",
 		"name": "cso_addon",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"be56d808-b4b0-4761-84af-dd32d18e43ba": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Kinda glitchy but working",
+		"fileId": 3277235220,
+		"localId": "be56d808-b4b0-4761-84af-dd32d18e43ba",
+		"name": "Random mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
