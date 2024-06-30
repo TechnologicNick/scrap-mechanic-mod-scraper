@@ -31874,6 +31874,7 @@
 	"6745add8-bc60-4519-87a2-e28ec2fc80b7": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": null,
 		"description": "This mod doesn't have a description",
 		"fileId": 3047740258,
 		"localId": "6745add8-bc60-4519-87a2-e28ec2fc80b7",
