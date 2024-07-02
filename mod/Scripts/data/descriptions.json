@@ -13398,10 +13398,17 @@
 	"b4fd3581-4f15-4624-8bc8-f2fef59000ea": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Attempt at reimplementing the Mod Recipes Gamemode as a part mod",
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
+				"name": "ModDatabase"
+			}
+		],
+		"description": "Adds support for Modded crafting recipes in any Custom Gamemode that doesn't also modify the craftbot\r\n\r\nHow to make your mod compatible with this custom game:\r\nStep 1: Add a folder named \"CraftingRecipes\" into your root mod folder\r\nStep 2: Add a file named \"craftbot.json\", \"hideout.json\" or \"workbench.json\" into the \"CraftingRecipes\" folder\r\nStep 3: Add your own crafting recipes into \"craftbot.json\" file\r\nStep 4: Enjoy!\r\n\r\nIf you're a modder and want to actually test the crafting recipes in your mod, you might have to contact @technologicnick on Discord so that the mod database will be updated!\r\n\r\nThe original Custom Gamemode version is preferrable if custom recipes are all you want: https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681\r\nThe original Custom Gamemode version was made by Questionable Mark and Dart Frog",
 		"fileId": 2821810119,
 		"localId": "b4fd3581-4f15-4624-8bc8-f2fef59000ea",
-		"name": "Mod Recipe Craftbot Partmod",
+		"name": "Modded Craftbot Recipes - Partmod",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -35367,6 +35374,26 @@
 		"fileId": 3279468791,
 		"localId": "f17ab605-9b7b-483a-9681-e7c7e822eed5",
 		"name": "test",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"63169046-8358-4798-8fe3-6aa5660b3261": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3134989550,
+		"localId": "63169046-8358-4798-8fe3-6aa5660b3261",
+		"name": "123",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"3bcf0e39-f5d9-480e-87ad-37c4cd8cbaf7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3275664104,
+		"localId": "3bcf0e39-f5d9-480e-87ad-37c4cd8cbaf7",
+		"name": "TankArmor",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
