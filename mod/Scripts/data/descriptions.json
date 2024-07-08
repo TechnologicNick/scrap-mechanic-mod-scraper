@@ -32688,9 +32688,9 @@
 	},
 	"7f6be7f4-b4c3-40d0-9d61-4f682453def7": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"dependencies": null,
-		"description": "This \"MOD\" will not add any items/tools/Blocks. This mod will log your and your friend's data (Game Data) and sends it over to The Editor that is a unity based application, I'm gonna implement fun and serious functions! Please don't hesitate to ask or dm me :D",
+		"description": "This \"MOD\" will not add any items/tools/Blocks. This mod will log your and your friend's data (Game Data) and sends it over to The Editor that is a unity based application, I'm gonna implement fun and serious functions! Please don't hesitate to ask or dm me :D\n\nDonwload the editor from GHub: https://github.com/antalervin19/ScrapMechanicEditor/releases/tag/beta",
 		"fileId": 3218400092,
 		"localId": "7f6be7f4-b4c3-40d0-9d61-4f682453def7",
 		"name": "ScrapMechanic-Editor",
