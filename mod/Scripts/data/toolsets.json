@@ -3918,7 +3918,11 @@
 	"7be17c48-af75-4b9d-b823-19a5aa72cfa0": {},
 	"5ba38b5f-9f35-4a36-9a8e-82112a41d04f": {},
 	"090bc798-aca2-44e6-b57c-76c0a6986e32": {},
-	"8ec0b0e1-b0ab-4f34-ae1c-59ad47c6e5ec": {},
+	"8ec0b0e1-b0ab-4f34-ae1c-59ad47c6e5ec": {
+		"$CONTENT_8ec0b0e1-b0ab-4f34-ae1c-59ad47c6e5ec/Tools/Database/ToolSets/Effect.toolset": [
+			"26ac534c-1f93-45d9-865d-c39beed2ce0c"
+		]
+	},
 	"9ee487a6-e79a-44b6-9ff3-61b30ffce099": {},
 	"d2791e65-79a8-4662-91e1-c11c26a1cd7c": {},
 	"4fdd0d99-1875-42f2-87bd-64b4ee2d6dd5": {},
