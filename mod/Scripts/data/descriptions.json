@@ -35451,10 +35451,20 @@
 	"a00b887c-c19e-44dd-9653-4c264fe247c6": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "Blocks With Health Plus it's a Blocks With Health DLC\r\n\r\n\r\nThis DLC can't work without original Mod\r\n\r\nDiscord (RUS): https://t.ly/8P4tc",
 		"fileId": 3284091016,
 		"localId": "a00b887c-c19e-44dd-9653-4c264fe247c6",
 		"name": "Blocks With Health Plus",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d431740f-decf-4c70-902e-2dd7919a6be5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3282580349,
+		"localId": "d431740f-decf-4c70-902e-2dd7919a6be5",
+		"name": "Tank Polygons",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
