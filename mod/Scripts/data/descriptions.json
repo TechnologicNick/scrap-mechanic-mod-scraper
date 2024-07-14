@@ -30760,7 +30760,7 @@
 	"758be396-082c-423e-bf81-498ce08bc847": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This Mod add a Logic Block that Allows you to Copy and Spawn Creations with Logic Triggering.\r\nTo Copy a Creation, bring the Logic Creation Spawner Close to the Creation you want to Copy \r\nand Press (E) On the Logic Creation Spawner.\r\nConnect a Button or any Logic to the Logic Creation Spawner.\r\nIf you Trigger the Input it will Spawn the Creation.\r\n\r\nBe Careful to not Spam your world full with Creations!\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This Mod add a Logic Block that Allows you to Copy and Spawn Creations with Logic Triggering.\r\nTo Copy a Creation, bring the Logic Creation Spawner Close to the Creation you want to Copy \r\nand Press (E) On the Logic Creation Spawner.\r\nConnect a Button or any Logic (!Default Color!) to the Logic Creation Spawner.\r\nIf you Trigger the Input it will Spawn the Creation.\r\nIf you connect a Button (Logic) (Any Other Color then Default!) to it, it will Copy the Creation Infront of it.\r\n\r\nBe Careful to not Spam your world full with Creations!\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 3002059458,
 		"localId": "758be396-082c-423e-bf81-498ce08bc847",
 		"name": "Fants Logic Creation Spawner",
@@ -35485,6 +35485,16 @@
 		"fileId": 3287971764,
 		"localId": "a06344a9-fd97-4d96-aed5-5c6f82819e2f",
 		"name": "tes1",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"cb849fee-a737-4ced-a2fd-b004bfd9f1bd": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "感谢：哪吒\n此mod用来压制戴维秽土转生",
+		"fileId": 3288341160,
+		"localId": "cb849fee-a737-4ced-a2fd-b004bfd9f1bd",
+		"name": "[NeonGel]-Anti-Legend Administrator",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
