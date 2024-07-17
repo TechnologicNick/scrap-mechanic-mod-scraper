@@ -39094,5 +39094,25 @@
 		"name": "[NeonGel]-黑名单",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"db2a5906-7c8c-40f1-8523-8061932234ba": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "More block scrap mechanic 1",
+		"fileId": 3291020732,
+		"localId": "db2a5906-7c8c-40f1-8523-8061932234ba",
+		"name": "More block",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f9e6dc5a-911f-4297-9970-884e7e75a091": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[hr][/hr]\n[b]The mod[b] adds various vanilla polygons with different strengths, which is extremely useful when creating vehicles.\n[hr][/hr]\nOriginal author of mod: Heterty",
+		"fileId": 3291051853,
+		"localId": "f9e6dc5a-911f-4297-9970-884e7e75a091",
+		"name": "VP+ ADDON",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
