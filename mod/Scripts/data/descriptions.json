@@ -33240,9 +33240,9 @@
 		"custom_icons": false,
 		"dependencies": [
 			{
-				"fileId": 2916542549,
-				"localId": "b03e83bd-6cfc-47d3-bfcb-3c5a437f107b",
-				"name": "Player Teleporter"
+				"fileId": 3290334190,
+				"localId": "35bd8b52-4dcf-40b5-9b22-dad88a750e23",
+				"name": "Block Editor | Blueprint Editor"
 			},
 			{
 				"fileId": 2844836154,
@@ -33250,24 +33250,9 @@
 				"name": "Better Lift"
 			},
 			{
-				"fileId": 2963669827,
-				"localId": "c070161a-e8e0-4593-8e63-30799b7f6904",
-				"name": "Duplicator Tool"
-			},
-			{
-				"fileId": 2121803790,
-				"localId": "4649a444-621f-4595-90ba-908ae8301445",
-				"name": "Advanced X-O-Meter"
-			},
-			{
-				"fileId": 2022198450,
-				"localId": "d14c9984-f872-411b-8e0e-993e829e9bbb",
-				"name": "OP Tools"
-			},
-			{
-				"fileId": 3290334190,
-				"localId": "35bd8b52-4dcf-40b5-9b22-dad88a750e23",
-				"name": "raw block editor [BETA]"
+				"fileId": 3262102035,
+				"localId": "14715865-97ee-4537-9568-14cfde34ebb0",
+				"name": "Pre Survival Parts"
 			}
 		],
 		"description": "parts and tools created that may be useful or fun.\n\n[h1]current parts:[/h1]\n[list]\n[*] [b]creation Summoner[/b]\n     Allows you to save creations from the void or just from far away.\n[*] [b]Duplicator Tool[/b]\n     This tool allows you to select multiple bodies and duplicate/mirror them.\n[*] [b]Player Teleporter[/b]\n     This tool allows you to teleport around the map just by looking at where you want to go.\n[*] [b]Better Lift[/b]\n     This tool Replaces your current Lift to have infinite reach, use [F] and [R] to extend lift past normal limits.\n[*] [b]Admin Tool[/b]\n     complex features, visit [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2022198450]this page[/url] for description.\n[*] [b]Player Kicker[/b]\n     Allows you to people from your world.\n[*] [b]World Cleaner[/b]\n     Allows you to clear parts from the world.\n[*] [b]Free Camera[/b]\n     complex features, visit [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2022198450]this page[/url] for description.\n[*] [b]Permission Manager[/b]\n     Allows you to configure permission for other players to use.\n[*] [b]Raw Block Editor[/b]\n     Allows you to edit the raw data of a shape and update it in real time.\n[*] [b]Stop Watch[/b]\n     Track how fast you are with this stop watch timer, lmb-drag to create a line, rmb to delete line, force build to reset timer, Q to change lap-timer type.\n[*] [b]Advanced X-O-Meter[/b]\n     x-o meter from The Modpack, all credit goes to Brent Batch and the rest of The Modpack team.\n[*] [b]Center Of Mass[/b]\n     shows the center of mass of the creation it is on, accounts for it's self.\n[/list]\n[h1]discord.gg/6r46PkYr9s[/h1]\n\nhave ideas for new tools or features? post in comments. or talk directly to me in the discord.",
@@ -35530,7 +35515,7 @@
 	"dcfe3d42-ed03-4025-ba8e-04a5c4875e28": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod aims to bring back defunct/depricated item recipes to the fant mod CG and add some items that cant normally be recycled/crafted\r\n\r\n\r\nas of today this addon adds...\r\n...back the recipe for the old non-modular tank tracks with the original cost from when they were first introduced/showcased on fants YT channel, old tracks showcase video: https://youtu.be/200BOZ94COA\r\n\r\n...a recipe to craft/recycle the farmbot drill (personal main use is for recycling, follows the same cost scaling the grinders use)\r\n\r\n...a lot of decorational items listed in change logs (any future added items will be listed there)\r\n\r\nif you have any recipes you want added and the cost for said item, let me know on fants discord @ Linus\r\n\r\nfant mod discord link\r\nhttps://discord.gg/Z2qty5E",
+		"description": "This mod aims to bring back defunct/depricated and other vanilla/fant mod item recipes to the fant mod CG and add some items that cant normally be recycled/crafted\r\n\r\n\r\nas of today this addon adds...\r\n...back the recipe for the old non-modular tank tracks with the original cost from when they were first introduced/showcased on fants YT channel, old tracks showcase video: https://youtu.be/200BOZ94COA\r\n\r\n...a recipe to craft/recycle the farmbot drill (personal main use is for recycling, follows the same cost scaling the grinders use)\r\n\r\n...a lot of decorational items listed in change logs (any future added items will be listed there)\r\n\r\nif you have any recipes you want added and the cost for said item, let me know on fants discord @ Linus\r\n\r\nfant mod discord link\r\nhttps://discord.gg/Z2qty5E",
 		"fileId": 3050306813,
 		"localId": "dcfe3d42-ed03-4025-ba8e-04a5c4875e28",
 		"name": "Linus Additional Fant Mod Recipes",
