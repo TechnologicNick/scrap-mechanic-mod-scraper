@@ -17073,7 +17073,7 @@
 	"35bd8b52-4dcf-40b5-9b22-dad88a750e23": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]First Edition: August 19, 2022[/h1]\r\n\r\n[h2]Making it better all the time![/h2]\r\n\r\nTired of editing blueprint files manually? Want a more convenient way to edit while in-game? Our tool is the ultimate solution for all your block modification needs. Easily move parts to optimize your creation with intuitive arrow controls. This user-friendly tool displays only the JSON data of the shapes you've selected, allowing for quick edits without the hassle of scrolling through hundreds of lines in a file.\r\n\r\nAdditionally, the tool beautifies the JSON and adds color to it with syntax highlighting. This means that the data is neatly organized and color-coded, making it much easier to read and understand, even if you don't have any programming experience.\r\n\r\n[i]Please post any bugs in the comments or ask questions on our [url=https://discord.gg/6r46PkYr9s]Discord.[/url][/i]\r\n\r\n[list]\r\n    [*][b]LMB[/b] [i](Primary)[/i]: select and edit\r\n    [*][b]RMB[/b] [i](Secondary)[/i]: select\r\n    [*][b]Double RMB[/b] [i](Secondary)[/i]: select body (or select joints of parent body if double-clicking a joint)\r\n    [*][b]Q[/b] [i](Next Rotation)[/i]: toggle fly\r\n    [*][b]F[/b] [i](Force Build)[/i]: repeat the last change on the selected shape\r\n    [*][b]R[/b] [i](Reload)[/i]: open settings, including different directional settings, tool color, and fly type (\"dive\" or not)\r\n[/list]\r\n\r\nFeel free to ask if you need further assistance!",
+		"description": "[h1]First Edition: August 19, 2022[/h1]\r\n\r\n[h2]Making it better all the time![/h2]\r\n\r\nTired of editing blueprint files manually? Want a more convenient way to edit while in-game? Our tool is the ultimate solution for all your block modification needs. Easily move parts to optimize your creation with intuitive arrow controls. This user-friendly tool displays only the JSON data of the shapes you've selected, allowing for quick edits without the hassle of scrolling through hundreds of lines in a file.\r\n\r\nAdditionally, the tool beautifies the JSON and adds color to it with syntax highlighting. This means that the data is neatly organized and color-coded, making it much easier to read and understand, even if you don't have any programming experience.\r\n\r\n[i]Please post any bugs in our [url=https://discord.gg/6r46PkYr9s]Discord.[/url][/i]\r\n\r\n[list]\r\n    [*][b]LMB[/b] [i](Primary)[/i]: select and edit\r\n    [*][b]RMB[/b] [i](Secondary)[/i]: select\r\n    [*][b]Double RMB[/b] [i](Secondary)[/i]: select body (or select joints of parent body if double-clicking a joint)\r\n    [*][b]Q[/b] [i](Next Rotation)[/i]: toggle fly\r\n    [*][b]F[/b] [i](Force Build)[/i]: repeat the last change on the selected shape\r\n    [*][b]R[/b] [i](Reload)[/i]: open settings, including different directional settings, tool color, and fly type (\"dive\" or not)\r\n[/list]\r\n\r\nFeel free to ask if you need further assistance!",
 		"fileId": 3290334190,
 		"localId": "35bd8b52-4dcf-40b5-9b22-dad88a750e23",
 		"name": "Block Editor | Blueprint Editor",
@@ -33240,14 +33240,34 @@
 		"custom_icons": false,
 		"dependencies": [
 			{
-				"fileId": 3290334190,
-				"localId": "35bd8b52-4dcf-40b5-9b22-dad88a750e23",
-				"name": "Block Editor | Blueprint Editor"
+				"fileId": 2916542549,
+				"localId": "b03e83bd-6cfc-47d3-bfcb-3c5a437f107b",
+				"name": "Player Teleporter"
 			},
 			{
 				"fileId": 2844836154,
 				"localId": "61dfaa2e-041d-4e6b-82a1-54185a7d0cfe",
 				"name": "Better Lift"
+			},
+			{
+				"fileId": 2963669827,
+				"localId": "c070161a-e8e0-4593-8e63-30799b7f6904",
+				"name": "Duplicator Tool"
+			},
+			{
+				"fileId": 2121803790,
+				"localId": "4649a444-621f-4595-90ba-908ae8301445",
+				"name": "Advanced X-O-Meter"
+			},
+			{
+				"fileId": 2022198450,
+				"localId": "d14c9984-f872-411b-8e0e-993e829e9bbb",
+				"name": "OP Tools"
+			},
+			{
+				"fileId": 3290334190,
+				"localId": "35bd8b52-4dcf-40b5-9b22-dad88a750e23",
+				"name": "raw block editor [BETA]"
 			},
 			{
 				"fileId": 3262102035,
@@ -39115,6 +39135,16 @@
 		"fileId": 3291210029,
 		"localId": "01f09096-f588-417f-be38-c5b131b0463a",
 		"name": "mario utility pack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"fab1f4f0-3467-4901-8688-f027a902d1d5": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Teleport around or onto creations! Can be used to help retrieve creations.",
+		"fileId": 3292328781,
+		"localId": "fab1f4f0-3467-4901-8688-f027a902d1d5",
+		"name": "Noclip",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

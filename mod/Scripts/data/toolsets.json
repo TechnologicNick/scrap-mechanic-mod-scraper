@@ -1249,7 +1249,8 @@
 	"1c626c90-466c-47ec-8927-baf0fa1e7599": {
 		"$CONTENT_1c626c90-466c-47ec-8927-baf0fa1e7599/Tools/Database/ToolSets/MAGguns.toolset": [
 			"1cd32f21-5fe1-4bae-865b-c0c5440253e5",
-			"1cd32f21-5fe1-4bae-865b-c0c5440253e6"
+			"1cd32f21-5fe1-4bae-865b-c0c5440253e6",
+			"1cd32f21-5fe1-4bae-865b-c0c5440253e7"
 		]
 	},
 	"669efa52-be61-4c5a-8d0f-693f89a59179": {},
@@ -4765,5 +4766,10 @@
 	"db2a5906-7c8c-40f1-8523-8061932234ba": {},
 	"f9e6dc5a-911f-4297-9970-884e7e75a091": {},
 	"e635598d-ac72-49eb-993c-24ff4dac6e4c": {},
-	"01f09096-f588-417f-be38-c5b131b0463a": {}
+	"01f09096-f588-417f-be38-c5b131b0463a": {},
+	"fab1f4f0-3467-4901-8688-f027a902d1d5": {
+		"$CONTENT_fab1f4f0-3467-4901-8688-f027a902d1d5/Tools/Database/ToolSets/tools.toolset": [
+			"b86f3605-5d2e-4a3e-ad9d-160eccb8ae31"
+		]
+	}
 }
