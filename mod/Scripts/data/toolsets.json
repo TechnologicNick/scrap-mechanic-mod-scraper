@@ -4804,5 +4804,13 @@
 		"$CONTENT_2ab6eb84-2cff-4200-af1d-3091a0b8393a/Tools/Database/ToolSets/thetools.toolset": [
 			"750e224c-d504-4641-ba09-9c0a698781c6"
 		]
-	}
+	},
+	"1d30e24d-2246-4987-9ab3-ce9ba453f062": {
+		"$CONTENT_1d30e24d-2246-4987-9ab3-ce9ba453f062/Tools/Database/ToolSets/MAGguns.toolset": [
+			"1cd32f21-5fe1-4bae-865b-c0c5440253e5",
+			"1cd32f21-5fe1-4bae-865b-c0c5440253e6",
+			"1cd32f21-5fe1-4bae-865b-c0c5440253e7"
+		]
+	},
+	"31141ad6-38a2-4fa5-be55-6d4d9ec59853": {}
 }

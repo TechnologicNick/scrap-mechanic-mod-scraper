@@ -34415,7 +34415,7 @@
 	"756d4f03-2e86-4f5b-a425-20259568eff3": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "",
+		"description": "Tired of searching for the right item in an inventory full of various mods? There's a solution for you.\nJust look at the required block and enter the [b]/get[/b] command into the chat and it will instantly appear in your active hotbar slot.\n\n[h1] Why not the middle mouse button? Scrap Mechanic API doesn't support keybindings for mods, but if they add support for them in the future, I'll definitely implement it. [/h1]\n\n[code] [h1] [b]FAQ[/b] [/h1]\n[olist]\n    [*]This mod adds the function of obtaining the required block without opening the inventory (like the middle mouse button in Minecraft).\n    [*]Additional hotbar pages can be selected by entering their number in the command: [b]/get 1/2/3[/b]. (1-st page by default)\n[/olist] [/code]\n\n[code] [h1] [b]Skill Issues[/b] [/h1]\n[olist]\n    [*]This mod doesn't work in vanilla Survival Mode, but works with other Custom Games.\n[/olist] [/code]\n\nPlease consider leaving a like and adding the mod to your favorites to support my work!",
 		"fileId": 3002663600,
 		"localId": "756d4f03-2e86-4f5b-a425-20259568eff3",
 		"name": "Middle Mouse Feature from Minecraft",
@@ -36763,10 +36763,10 @@
 	"2bf64a75-79e3-4263-8197-7159b27ec2c2": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "рп для крупных серверов\nмой личный дс сервер https://discord.gg/KfGwykekYb",
+		"description": "выжилавока с элементами анархии и капитализма для крупных серверов\r\nмой личный дс сервер https://discord.gg/KfGwykekYb",
 		"fileId": 3134861654,
 		"localId": "2bf64a75-79e3-4263-8197-7159b27ec2c2",
-		"name": "DENSKIY RP SERVER",
+		"name": "Crazy adventures",
 		"type": "Custom Game",
 		"version": 0
 	},
@@ -39168,7 +39168,7 @@
 	"a043c98b-94be-460f-8e73-e56e260648db": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Butterstick's mod is currently in development. \n\n the current features are: \n -A new Cherry tree biome\n -new block, Gearbox\n\n thats it lol! im planning on adding more but for now there is just a new biome, I am open to ideas and will give you credit for them!",
+		"description": "Butterstick's mod is currently in development. \n\n the current features are: \n - A new Cherry tree biome\n - Gearbox\n - Generator\n\n thats it lol! im planning on adding more but for now there is just a new biome, I am open to ideas and will give you credit for them!",
 		"fileId": 3292723455,
 		"localId": "a043c98b-94be-460f-8e73-e56e260648db",
 		"name": "Butterstick's mod",
@@ -39245,6 +39245,27 @@
 		"fileId": 3293308025,
 		"localId": "2ab6eb84-2cff-4200-af1d-3091a0b8393a",
 		"name": "stretchable display [SComputers addon]",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1d30e24d-2246-4987-9ab3-ce9ba453f062": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "注意！！！\r\n这个模组与本体用的相同uuid，无法同时启动\r\n这是从我的徽标实验室分离出来的子模组，仅包含了自定义贴画工具\r\n但是自定义贴花是共享的啦",
+		"fileId": 3292301413,
+		"localId": "1d30e24d-2246-4987-9ab3-ce9ba453f062",
+		"name": "Logo Mod 徽标模组",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"31141ad6-38a2-4fa5-be55-6d4d9ec59853": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "penoplex",
+		"fileId": 3293672190,
+		"localId": "31141ad6-38a2-4fa5-be55-6d4d9ec59853",
+		"name": "penoplex",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
