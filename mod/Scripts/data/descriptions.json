@@ -39288,5 +39288,15 @@
 		"name": "mirror",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"8828fd53-d497-4a66-80ce-b31b9f072096": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This Mod Replaces a handful of sounds, aswell as the music played on the Radio, making your game more intense!\n\nEffect Changes:\nnew spudgun sfx by Holesmak\nnew spud shotgun sfx by Holesmak\nnew spudling gun sfx by Holesmak\nnew explosion sfx by Holesmak\n\nRadio changes\n\nThe Drive by Kevin macleod\nCrossing the chasm by Kevin Macleod\nPrelude and Action by Kevin Macleod\nIn a Heartbeat by Kevin Macleod\nCurse of the Scarab by Kevin Macleod\nMovement Propasition by Kevin Macleod\nVolatile Reaction by Kevin Macleod\n\nAdditional Notes\n\nAs many of you know Kevin Macleods music is all under creative commons.\n\nSo you can use these songs in any youtube video without worry so long as credit is provided (to Kevin Macleod of course).",
+		"fileId": 3295272450,
+		"localId": "8828fd53-d497-4a66-80ce-b31b9f072096",
+		"name": "The Intense Sound pack",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
