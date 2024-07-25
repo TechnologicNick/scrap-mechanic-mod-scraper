@@ -32832,13 +32832,7 @@
 	"3aeb81c2-71b9-45a1-9479-1f48f1e8ff21": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"dependencies": [
-			{
-				"fileId": 3202981462,
-				"localId": "e8298053-4412-48e8-aff1-4271d1b07584",
-				"name": "display framework [canvas api]"
-			}
-		],
+		"dependencies": null,
 		"description": "this fork of ScriptableComputer\r\nfork creation was approved by the authors of the mod\r\nfor the mod to work correctly, there SHOULD BE NO \"ScriptableComputer\" and/or \"SCI\" in the world\r\n\r\nluaInLua bug fixes:\r\n* most of the luaInLua bugs have been fixed\r\n* local variables now work fine\r\n* the arguments of the functions now also work fine\r\n\r\nadvantages of SComputers compared to any other computer mods:\r\n* bug fixes (critical filesystem bugs, bugs causing lags, bugs breaking code, and many other extremely unpleasant bugs have been fixed in SComputers)\r\n* compatibility (this mod is fully compatible with the original and with SCI and may also be compatible with other mods in the future)\r\n* responsive support (you can always write a comment to the mod and I will answer it, you can also write to me in the discord \"smlogic\")\r\n* optimization (displays in SComputers lag much less than in the original)\r\n* the presence of require and built-in libraries (image, midi, vdisplay, base64, utf8, ramfs, etc)\r\n* code examples (code examples in mod will help you figure it out a bit)\r\n* security (from SComputers it is much more difficult to cause bugsplat, game freezes, lags)\r\n* availability of new components\r\n* regular updates (about 4 updates per week)\r\n* support for crafting recipes\r\n* radars are seen a robots/wocs/worms\r\n* ability to use dlm/fullLuaEnv to load code (instead of luaInLua) which will allow you to receive normal error reports\r\n\r\ncurrent documentation is \"temporary\"\r\nbecause the scrapmechanictool site has closed\r\nalso, the SComputers documentation describes only what SComputers adds\r\nyou will still need to study the documentation of the parent mod (ScriptableComputer) to have an idea of how the mod works\r\n\r\nSComputers documentation: https://github.com/igorkll/SComputers_docs/blob/main/SComputers/Info.md\r\nParent Mod documentation(ScriptableComputer): https://steamcommunity.com/sharedfiles/filedetails/?id=2831560152\r\n\r\nTags:\r\nScriptableComputer, Lua, Programming, Displays, Screens, Coding, DLM, LUA, fork.",
 		"fileId": 2949350596,
 		"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
@@ -39119,7 +39113,7 @@
 	"f9e6dc5a-911f-4297-9970-884e7e75a091": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[hr][/hr]\n[b]The mod[b] adds various vanilla polygons with different strengths, which is extremely useful when creating vehicles.\n[hr][/hr]\nOriginal author of mod: Heterty",
+		"description": "[hr][/hr]\r\n[b]Мод[b] добавляет вариации ванильных полигонов и труб с разной прочностью, что очень полезно при строительстве техники.\r\n[hr][/hr]\r\nАвтор оригинального мода: Heterty\r\nМодифицировал: даун полный",
 		"fileId": 3291051853,
 		"localId": "f9e6dc5a-911f-4297-9970-884e7e75a091",
 		"name": "VP+ ADDON",
@@ -39178,7 +39172,7 @@
 	"6bbd35f8-18ab-4486-85e7-0bb8680b0a5c": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h3]After years of hard work, we proudly present...[/h3]\r\n[h1]One of the [b]BEST[/b] Ink Cartriges out there![/h1]\r\nThis one isn't your regular TriInk Color Ammo, this one can be any color!\r\n[hr][/hr]\r\n\r\nA Hex (any color) Paint Tool modification. To open the Hex color menu, press your Reload key (by default R, the key that plays the Paint Tool reload animation) while holding the Paint Tool.\r\n[hr][/hr]\r\n[h1]Important![/h1]\r\n[list]\r\n[*]This is [b]NOT[/b] a file mod!\r\n[*]Do [b]NOT[/b] use a custom color while having the same color as the background selected in the vanilla Paint Tool Gui!\r\n[*]May sometimes miss a paint.\r\n[*]Multiplayer is little wonky.\r\n[/list]\r\n[hr][/hr]\r\n[h1]Features[/h1]\r\n[list]\r\n[*]Any color painting!\r\n[*]Works on Joints! (Bearings, Suspensions)\r\n[*]Color Picking!\r\n[*]Colored parts can be spawned in Vanilla!\r\n[/list]\r\n[hr][/hr]\r\n[h2]Support:[/h2]\r\n[*]Rate, Favorite, Share and Award!\r\n[img]https://steamusercontent-a.akamaihd.net/ugc/933807031682165938/34CBC07D7ED73B6282B3F7AF2E3D47BB462BF9B1/[/img]",
+		"description": "[h3]After years of hard work, we proudly present...[/h3]\r\n[h1]One of the [b]BEST[/b] Ink Cartriges out there![/h1]\r\nThis one isn't your regular TriInk Color Ammo, this one can be any color!\r\n[hr][/hr]\r\n\r\nA Hex (any color) Paint Tool modification. To open the Hex color menu, press your Reload key (by default R, the key that plays the Paint Tool reload animation) while holding the Paint Tool.\r\n\r\n[hr][/hr]\r\n[h1]Important![/h1]\r\n[list]\r\n[*]This is [b]NOT[/b] a file mod!\r\n[*]Do [b]NOT[/b] use a custom color while having the same color as the background selected in the vanilla Paint Tool Gui!\r\n[*]May sometimes miss a paint.\r\n[*]Multiplayer is little wonky.\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h1]Features[/h1]\r\n[list]\r\n[*]Any color painting!\r\n[*]Works on Joints! (Bearings, Suspensions)\r\n[*]Color Picking!\r\n[*]Colored parts can be spawned in Vanilla!\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h2]Alternative:[/h2]\r\n[url=https://github.com/QuestionableM/SM-BetterPaintTool]Better Paint Tool DLL mod[/url]\r\n\r\n[hr][/hr]\r\n[h2]Support:[/h2]\r\n[*]Rate, Favorite, Share and Award!\r\n[img]https://steamusercontent-a.akamaihd.net/ugc/933807031682165938/34CBC07D7ED73B6282B3F7AF2E3D47BB462BF9B1/[/img]",
 		"fileId": 3292728216,
 		"localId": "6bbd35f8-18ab-4486-85e7-0bb8680b0a5c",
 		"name": "HexInk Color Ammo (Hex Paint Tool)",
