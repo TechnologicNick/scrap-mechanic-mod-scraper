@@ -33708,7 +33708,7 @@
 	"630b3c35-59b4-4094-a4fb-2c2b333f0a55": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Military Outfit Mod 4\n(\"Corporation VS Outlaws\" Update)\n\nFor everyone who asked to make a custom game - this is technically not possible\nДля всех кто просил сделать кастом гейм - это технически не возможно\n\n\nENG\nHOW TO INSTALL:\n1.\nGoto:\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2976697730\n\n2.\ncopy ALL FOLDERS into and REPLACE the existing Folders.\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\"\n\n3.\nDONE\n\nYou need epic garment box to unlock Military Outfit.\nYou also can get the \"Backpacks Remover\" from common garment box.\n-------------------------------------------------------------------------------\nRUS\nКАК УСТАНОВИТЬ:\n1.\nПерейдите в:\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2976697730\n2.\nКопируйте все папки в \"...\\Steam\\SteamApps\\common\\Scrap Mechanic\" и нажмите \"заменить все файлы\",\n3. \nГотово\n\nЧто бы разблокировать Военную одежду вам нужны Желтые Ящики с одеждой.\nВы также можете получить \"Удалитель Рюкзаков\" из Зелёного Ящика с одеждой.\n\nSpecial Thanks to TechnologicNick for help\n\nDiscord: https://discord.gg/TJePhfsgzR",
+		"description": "Military Outfit Mod 5.0\n(Corporation VS Outlaws [Full Update])\n\nFor everyone who asked to make a custom game - this is technically not possible\nДля всех кто просил сделать кастом гейм - это технически не возможно\n\n\nENG\nHOW TO INSTALL:\n1.\nGoto:\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2976697730\n\n2.\ncopy ALL FOLDERS into and REPLACE the existing Folders.\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\"\n\n3.\nDONE\n\nYou need epic garment box to unlock Military Outfit.\nYou also can get the \"Backpacks Remover\" from common garment box.\n-------------------------------------------------------------------------------\nRUS\nКАК УСТАНОВИТЬ:\n1.\nПерейдите в:\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2976697730\n2.\nКопируйте все папки в \"...\\Steam\\SteamApps\\common\\Scrap Mechanic\" и нажмите \"заменить все файлы\",\n3. \nГотово\n\nЧто бы разблокировать Военную одежду вам нужны Желтые Ящики с одеждой.\nВы также можете получить \"Удалитель Рюкзаков\" из Зелёного Ящика с одеждой.\n\nSpecial Thanks to TechnologicNick for help\n\nDiscord: https://discord.gg/TJePhfsgzR",
 		"fileId": 2976697730,
 		"localId": "630b3c35-59b4-4094-a4fb-2c2b333f0a55",
 		"name": "Military Outfit Mod",
@@ -39308,5 +39308,15 @@
 		"name": "new bitch",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"4395ac3c-cba1-4e9a-b7f6-d8b79ffc0e07": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h3]Straightforward mod that automatically despawn creations to reduce lag.[/h3]\r\n\r\nThere are a few options to play with.\r\n\r\nType [i]/despawner[/i] in the in-game chat to display the settings GUI.\r\nSettings persist but the Despawner must be enabled the first time loading up a world with the mod.\r\n\r\nAlternatively, if you are more of a command line person, you can also modify the settings with the following commands:\r\n[list]\r\n[*][i]/despawnstatic[/i]\r\n[*][i]/despawnseats[/i]\r\n[*][i]/despawndelay[/i]\r\n[*][i]/despawneffects[/i]\r\n[*][i]/despawnenable[/i]\r\n[/list]",
+		"fileId": 3297496121,
+		"localId": "4395ac3c-cba1-4e9a-b7f6-d8b79ffc0e07",
+		"name": "Despawner Mod",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

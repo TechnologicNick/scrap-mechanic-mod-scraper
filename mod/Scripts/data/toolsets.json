@@ -4823,5 +4823,10 @@
 	"8828fd53-d497-4a66-80ce-b31b9f072096": {},
 	"ee3a4ec2-d6d8-4651-8f68-2d6292f9fab9": {
 		"$CONTENT_ee3a4ec2-d6d8-4651-8f68-2d6292f9fab9/Tools/Database/ToolSets/example.toolset": []
+	},
+	"4395ac3c-cba1-4e9a-b7f6-d8b79ffc0e07": {
+		"$CONTENT_4395ac3c-cba1-4e9a-b7f6-d8b79ffc0e07/Tools/Database/ToolSets/tools.toolset": [
+			"e6755678-3213-4f13-9720-df4f189c55fe"
+		]
 	}
 }
