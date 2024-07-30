@@ -39271,7 +39271,7 @@
 	},
 	"5f263fd3-a2c8-40cf-8174-7c50068be626": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "Adds an aluminum block.\n\nSo far, it's beta",
 		"fileId": 3294385571,
 		"localId": "5f263fd3-a2c8-40cf-8174-7c50068be626",
