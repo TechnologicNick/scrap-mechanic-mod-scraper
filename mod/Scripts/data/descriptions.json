@@ -39338,5 +39338,15 @@
 		"name": "Post apocaliptic sound pack",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"16d52133-dcb4-41a1-86ee-d3b23b7a295d": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "A specially converted canister from the \"1x1x1 Explosive Canister\" mod for buildings from KB3 (that is, my buildings), having a lower explosion level",
+		"fileId": 3300281729,
+		"localId": "16d52133-dcb4-41a1-86ee-d3b23b7a295d",
+		"name": "Canister 1x1x1 By KB3",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
