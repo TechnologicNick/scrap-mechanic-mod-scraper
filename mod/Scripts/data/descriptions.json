@@ -35531,7 +35531,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "[h1]☻Модпак забавный☻[/h1]\r\n\r\nМод представляет из себя набор различных деталей, как декоративных картинок и полигонов, так и  модифицированных колёс со всеми функциями газового двигателя и инструментов, не говоря уже о механике в виде NPC-персонажа.\r\n\r\n[h1]Рецепты крафтов[/h1]\r\n[code]Есть рецепты крафтов для custom game.[/code]\r\n[h1]Языки[/h1]\r\n[code]- Русский\r\n- Английский\r\n- Китайский[/code]\r\n[h1]Обновления[/h1]\r\n[code]Все обновления расписаны в верхней вкладке \"Обновления\".[/code]\r\n[h1]Изображения[/h1]\r\n[code]Все изображения сделаны с настройками графики по умолчанию.[/code]\r\n[h1]Теги[/h1] [code]колёса, механик, блоки, интерактивные детали, мяч, лом, полигоны, фермер, старые боты, пружины, бомбы, пушки, флаги, картины, линзы.[/code]",
+		"description": "[h1]☻Модпак забавный☻[/h1]\r\n\r\nМод представляет из себя набор различных деталей, как декоративных картинок и полигонов, так и  модифицированных колёс со всеми функциями газового двигателя и инструментов, не говоря уже о механике в виде NPC-персонажа.\r\n\r\n[h1]Рецепты крафтов[/h1]\r\n[code]Есть рецепты крафтов для custom game.[/code]\r\n[h1]Языки[/h1]\r\n[code]- Русский\r\n- Английский\r\n- Китайский[/code]\r\n[h1]Обновления[/h1]\r\n[code]Все обновления расписаны в верхней вкладке \"Обновления\".[/code]\r\n[h1]Изображения[/h1]\r\n[code]Все изображения сделаны с настройками графики по умолчанию.[/code]\r\n[h1]Теги[/h1] [code]колёса, механик, блоки, интерактивные детали, мяч, лом, полигоны, фермер, старые боты, пружины, бомбы, пушки, флаги, картины, линзы, виллы, клетка, детали роботов. [/code]",
 		"fileId": 3049604044,
 		"localId": "3a8d7f21-c853-48ec-b916-f055cb403cd1",
 		"name": "The Modpack is Funny",
@@ -39312,10 +39312,30 @@
 	"4395ac3c-cba1-4e9a-b7f6-d8b79ffc0e07": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h3]Straightforward mod that automatically despawn creations to reduce lag.[/h3]\r\n\r\nThere are a few options to play with.\r\n\r\nType [i]/despawner[/i] in the in-game chat to display the settings GUI.\r\nSettings persist but the Despawner must be enabled the first time loading up a world with the mod.\r\n\r\nAlternatively, if you are more of a command line person, you can also modify the settings with the following commands:\r\n[list]\r\n[*][i]/despawnstatic[/i]\r\n[*][i]/despawnseats[/i]\r\n[*][i]/despawndelay[/i]\r\n[*][i]/despawneffects[/i]\r\n[*][i]/despawnenable[/i]\r\n[/list]",
+		"description": "[h3]Straightforward mod that automatically despawn creations to reduce lag.[/h3]\r\n\r\nThere are a few options to play with.\r\n\r\nType [i]/despawner[/i] in the in-game chat to display the settings GUI.\r\nSettings persist but the Despawner must be enabled the first time loading up a world with the mod.\r\n\r\nAlternatively, if you are more of a command line person, you can also modify the settings with the following commands:\r\n[list]\r\n[*][i]/despawnstatic[/i]\r\n[*][i]/despawnseats[/i]\r\n[*][i]/despawndelay[/i]\r\n[*][i]/despawneffects[/i]\r\n[*][i]/despawnenable[/i]\r\n[/list]\r\n\r\n[b]WARNING![/b] If you have unsaved creations in your world that you intend to keep, [b]SAVE THEM[/b] before enabling the mod. You should always be saving your creations anyway—it's just good practice. If your creation despawns, congratulations, the mod is doing exactly what it's supposed to do.\r\n",
 		"fileId": 3297496121,
 		"localId": "4395ac3c-cba1-4e9a-b7f6-d8b79ffc0e07",
 		"name": "Despawner Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"72277769-306c-4dc5-aea6-59f82a2921c8": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3296926746,
+		"localId": "72277769-306c-4dc5-aea6-59f82a2921c8",
+		"name": "new shit",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"c96be42c-4969-4cb9-9240-b5febe2eef4f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This Mod Replaces a handful of sounds, Ambience and adds a new radio track\r\n\r\nHow to Install:\r\n\r\nStep 1. Go to your steam library → right click on the icon → select manage → browse local files\r\n\r\nYou should appear at C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\r\n\r\nStep 2. Navigate backwards to the steamapps folder\r\n\r\nYou should appear at C:\\Program Files (x86)\\Steam\\steamapps\r\n\r\nStep 3. Navigate to the workshop → content → 387990 → 3299930163\r\n\r\nYou should appear at C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990/3299930163\r\n\r\nStep 4. Copy the Data folder → navigate back to the Scrap mechanic folder\r\n\r\nYou should appear at C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\r\n\r\nStep 5. Paste the Data folder and when prompted select 'Replace contents'\r\n\r\nStep 6. Close and re open Scrap mechanic and enjoy your new ambience, sound effects and Radio Music\r\n\r\nAmbience Changes:\r\n\r\nMetallic Monks by Mark Morgan\r\n\r\nWhat Remains by Inon Zur\r\n\r\nEffect Changes:\r\n\r\nnew spudgun sfx by Holesmak\r\nnew spud shotgun sfx by Holesmak\r\nnew spudling gun sfx by Holesmak\r\nnew explosion sfx by Holesmak\r\n\r\nRadio changes:\r\n\r\nI don't want to set the world on fire by The Ink Spots\r\nMaybe by The Ink Spots\r\nA kiss to build a dream on by Louis Armstrong",
+		"fileId": 3299930163,
+		"localId": "c96be42c-4969-4cb9-9240-b5febe2eef4f",
+		"name": "Post apocaliptic sound pack",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
