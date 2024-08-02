@@ -4840,5 +4840,18 @@
 		"$CONTENT_64c8443e-a01c-470b-b049-69401fba810c/Tools/Database/ToolSets/example.toolset": [
 			"5cc12f03-275e-4c8e-b013-79fc0f913e1b"
 		]
+	},
+	"bf031590-df19-456b-8c9c-e079c27d282b": {
+		"$CONTENT_bf031590-df19-456b-8c9c-e079c27d282b/Tools/Database/ToolSets/neon.toolset": [
+			"835b273c-2890-461e-a155-7be02cc68dd0",
+			"9db70981-05f2-408b-92d8-feb7d99fda63",
+			"d91ab4a3-f990-424f-ab1b-d703773e004a",
+			"0bb83ea7-4494-4e21-a5a0-05bd9ae42440"
+		]
+	},
+	"f1d1fde6-9af9-437e-8086-bd6a987b00d7": {
+		"$CONTENT_f1d1fde6-9af9-437e-8086-bd6a987b00d7/Tools/Database/ToolSets/tools.toolset": [
+			"6a6c8b03-887a-44e2-bb24-eba3a348232f"
+		]
 	}
 }
