@@ -37602,7 +37602,7 @@
 	"53a95df2-440a-4b45-8f3e-0716defbcfc8": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]Use with caution![/h1]\r\nThis mod is originally designed for tank battles in temporary worlds.\r\nOnce loaded in the world, the connections will be hidden by default. [b]Even with the mod disabled connections will remain hidden[/b].\r\n\r\n[h1]How it works?[/h1]\r\nConnections are revealed when the player holds the Connection Tool at an reachable distance from the creation! Note that revealed connections are visible for everyone.",
+		"description": "[h1]Use with caution![/h1]\nThis mod is originally designed for tank battles in temporary worlds.\nOnce loaded in the world, the connections will be hidden by default. [b]Even without the mod disabled connections will remain hidden[/b].\n\n[h1]How it works?[/h1]\nConnections are revealed when the player holds the Connection Tool at an reachable distance from the creation! Note that revealed connections are visible for everyone.",
 		"fileId": 3174805443,
 		"localId": "53a95df2-440a-4b45-8f3e-0716defbcfc8",
 		"name": "No Connect Tool Spying",
@@ -39422,11 +39422,22 @@
 	},
 	"3a936dda-6987-4393-a3dc-755d3b5f6059": {
 		"allow_add_mods": true,
-		"custom_icons": true,
-		"description": "This mod is made for ropeways, here you can find parts you cant find in other mods!\r\n(to fully make a chairlift you need s43 Tech for the top part)\r\nAlso if you want to add seats or precise collisions you need to use invisible blocks (there arent on this mod)",
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "This mod is made for ropeways, here you can find parts you cant find in other mods!\r\n(to fully make a chairlift you need s43 Tech for the top part)\r\nAlso if you want to add seats or precise collisions you need to use invisible blocks (there arent on this mod)\r\n\r\nTags: cable car, chairlift, ski lift, snow, doppelmayr, mgd, cld",
 		"fileId": 3302011224,
 		"localId": "3a936dda-6987-4393-a3dc-755d3b5f6059",
 		"name": "VortexRopeways Tech",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"ddf48f02-d773-4ff0-b959-3bc451a7a0de": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Introducing SM: WAILA - the Scrap Mechanic mod to tell you exactly what you're looking at!\n\nSM: WAILA adds a handy hud element that shows info about the object you're looking at. \n\nInspired by the WAILA, Jade and HWYLA Minecraft mods.",
+		"fileId": 3302195129,
+		"localId": "ddf48f02-d773-4ff0-b959-3bc451a7a0de",
+		"name": "SMWAILA",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
