@@ -34805,7 +34805,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "This mod is for my blitz, Modern War.\\nIt can also be used for regular use\r\n\r\nDiscord server link: https://discord.gg/tmXXT2sxMp \r\n\r\nThe mod is not created for public use. You can use it, but it's better to be on our discord server then. In case there are any problems in the form of deleting the block that you used and because of this, the building will no longer spawn, so that we can help you.\r\n\r\nМод не создан для общественного использования. Вы можете его использовать, но лучше тогда быть на нашем дискорд сервере. В случае если будут какие-то проблемы в виде удаления блока который вы использовали и из-за этого постройка больше не спавнится, чтоб мы могли вам помочь.",
+		"description": "This mod is for my blitz, Modern War. It can also be used for regular use\r\n\r\nDiscord server link: https://discord.gg/tmXXT2sxMp \r\n\r\nThe mod is not created for public use. You can use it, but it's better to be on our discord server then. In case there are any problems in the form of deleting the block that you used and because of this, the building will no longer spawn, so that we can help you.\r\n\r\nМод не создан для общественного использования. Вы можете его использовать, но лучше тогда быть на нашем дискорд сервере. В случае если будут какие-то проблемы в виде удаления блока который вы использовали и из-за этого постройка больше не спавнится, чтоб мы могли вам помочь. Ну и просто могли делать баг-фикс.",
 		"fileId": 3017655626,
 		"localId": "30a2450e-570f-4c22-91d3-ae9b11ecc636",
 		"name": "Modern War Parts",
@@ -39458,6 +39458,16 @@
 		"fileId": 3299278045,
 		"localId": "825b13d8-11a7-474c-97a6-1052a78c6e1e",
 		"name": "LeafFunction",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"69545d9c-68a5-4756-bf86-4c098c87f2cf": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h3]Fix for vanilla explosives glitching through objects[/h3]\r\n\r\nDo you enjoy vanilla tank battles but find that Scrap Mechanic's physics sometimes let you down? High-speed launches of vanilla explosives can cause them to glitch through objects and fail to explode as expected. This mod fixes that issue. Additionally, explosives launched at characters (players or bots) will now explode correctly.\r\n\r\nThe mod patches the original vanilla explosives, meaning no new modded parts are introduced. This allows the mod to be enabled or disabled without any conflicts.\r\n\r\nThe fix retains a small portion of the original glitch to allow explosives to exit a creation without self-detonating. Achieving and balancing this was challenging and remains somewhat [i]experimental[/i]. Feedback on this aspect is especially appreciated. Small explosives will not explode within approximately 16 blocks (twice their destruction radius) from the launch point, and large explosives will not explode within approximately 32 blocks.",
+		"fileId": 3300248019,
+		"localId": "69545d9c-68a5-4756-bf86-4c098c87f2cf",
+		"name": "Explosives Fix",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
