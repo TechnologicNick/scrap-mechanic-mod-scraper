@@ -4868,5 +4868,10 @@
 		"$CONTENT_69545d9c-68a5-4756-bf86-4c098c87f2cf/Tools/Database/ToolSets/tools.toolset": [
 			"9e34785e-da21-4dd3-beea-bebd3df29877"
 		]
+	},
+	"3d7639d8-2ea7-4615-97e9-1191818fb7cf": {
+		"$CONTENT_3d7639d8-2ea7-4615-97e9-1191818fb7cf/Tools/Database/ToolSets/pick.toolset": [
+			"9885b0eb-f0b0-47e9-890a-ae07dca7388a"
+		]
 	}
 }
