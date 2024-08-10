@@ -39521,5 +39521,25 @@
 		"name": "Zero Width Block Viewer",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"6e1c9fcc-db70-462c-9898-19e151dd9e9b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "WIP custom game for quality of life changes including increased loot drops and working import/export command.",
+		"fileId": 3306092467,
+		"localId": "6e1c9fcc-db70-462c-9898-19e151dd9e9b",
+		"name": "HeathMod1",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"494d5897-f09d-4cbb-853a-3ef5b2d0af8a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Mini craft bot like in lemon survival \n\n(CREDITS TO waterlemon aka Owner of lemon survival. - Model)",
+		"fileId": 3306303208,
+		"localId": "494d5897-f09d-4cbb-853a-3ef5b2d0af8a",
+		"name": "Mobile Craftbot",
+		"type": "Custom Game",
+		"version": 0
 	}
 }

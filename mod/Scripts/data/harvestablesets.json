@@ -2196,5 +2196,11 @@
 			"779b5e09-7ce7-4a16-9817-02f5cb8e11f6",
 			"4d923a91-0c98-40f9-ae3f-ef386362ab1c"
 		]
+	},
+	"6e1c9fcc-db70-462c-9898-19e151dd9e9b": {
+		"$CONTENT_6e1c9fcc-db70-462c-9898-19e151dd9e9b/Harvestables/Database/HarvestableSets/example.harvestableset": []
+	},
+	"494d5897-f09d-4cbb-853a-3ef5b2d0af8a": {
+		"$CONTENT_494d5897-f09d-4cbb-853a-3ef5b2d0af8a/Harvestables/Database/HarvestableSets/example.harvestableset": []
 	}
 }

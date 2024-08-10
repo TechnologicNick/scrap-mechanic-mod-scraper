@@ -1077,5 +1077,11 @@
 	},
 	"ee3a4ec2-d6d8-4651-8f68-2d6292f9fab9": {
 		"$CONTENT_ee3a4ec2-d6d8-4651-8f68-2d6292f9fab9/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"6e1c9fcc-db70-462c-9898-19e151dd9e9b": {
+		"$CONTENT_6e1c9fcc-db70-462c-9898-19e151dd9e9b/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"494d5897-f09d-4cbb-853a-3ef5b2d0af8a": {
+		"$CONTENT_494d5897-f09d-4cbb-853a-3ef5b2d0af8a/Characters/Database/CharacterSets/example.characterset": []
 	}
 }

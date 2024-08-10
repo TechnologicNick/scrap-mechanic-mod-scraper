@@ -900,5 +900,11 @@
 	"a043c98b-94be-460f-8e73-e56e260648db": {
 		"$CONTENT_a043c98b-94be-460f-8e73-e56e260648db/ScriptableObjects/ScriptableObjectSets/example.sobset": []
 	},
-	"ee3a4ec2-d6d8-4651-8f68-2d6292f9fab9": {}
+	"ee3a4ec2-d6d8-4651-8f68-2d6292f9fab9": {},
+	"6e1c9fcc-db70-462c-9898-19e151dd9e9b": {
+		"$CONTENT_6e1c9fcc-db70-462c-9898-19e151dd9e9b/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"494d5897-f09d-4cbb-853a-3ef5b2d0af8a": {
+		"$CONTENT_494d5897-f09d-4cbb-853a-3ef5b2d0af8a/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	}
 }
