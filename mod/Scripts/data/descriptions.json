@@ -39490,5 +39490,36 @@
 		"name": "Half-Life 1 Announcement System",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"b4999998-bde7-411a-a261-0c51174f50c1": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "There are some cool blocks and parts!",
+		"fileId": 3305719277,
+		"localId": "b4999998-bde7-411a-a261-0c51174f50c1",
+		"name": "Mima's blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"529bf087-9834-4ca2-ad77-384ae425fe98": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "This mod doesn't have a description",
+		"fileId": 3305719948,
+		"localId": "529bf087-9834-4ca2-ad77-384ae425fe98",
+		"name": "artmod01",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"77099040-adb8-40be-915f-e98271d8ca59": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod makes normally invisible zero width blocks visible, this makes its much easier to edit and tweak your blueprint edited builds.\r\n\r\n[h1]What's a Zero Width Block?[/h1]\r\n\r\nZero width blocks, or sometimes referred to in the community as zwb's or 0wb's are normal blocks that have been blueprint edited such that one dimension of the block is a 0, this creates a flat panel sometimes with and without collision and they are normally invisible.\r\n\r\n[h1]Commands:[/h1]\r\n\r\n\"/toggleViewer\" - This command toggles the visibility of the zero width blocks.\r\n\r\n[i]If there are any bugs, feel free to let me know in the comments, a like and favourite would also be greatly appreciated![/i]",
+		"fileId": 3305867921,
+		"localId": "77099040-adb8-40be-915f-e98271d8ca59",
+		"name": "Zero Width Block Viewer",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

@@ -4878,5 +4878,12 @@
 		"$CONTENT_b3950b93-268c-48e1-b696-48be1f4c46b6/Tools/Database/ToolSets/PA_system.toolset": [
 			"89421265-032c-4ede-81ef-f9e658e1f305"
 		]
+	},
+	"b4999998-bde7-411a-a261-0c51174f50c1": {},
+	"529bf087-9834-4ca2-ad77-384ae425fe98": {},
+	"77099040-adb8-40be-915f-e98271d8ca59": {
+		"$CONTENT_77099040-adb8-40be-915f-e98271d8ca59/Tools/Database/ToolSets/NewToolSet1.json": [
+			"4e18892e-9d3f-4ba3-a2f3-2cd3bdbf57e8"
+		]
 	}
 }
