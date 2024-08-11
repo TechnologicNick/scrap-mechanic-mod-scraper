@@ -36723,7 +36723,7 @@
 				"name": "SComputers [Fork]"
 			}
 		],
-		"description": "[Eng]\nSComputers power toys is an addon for SComputers that adds small radars with the characteristics of the largest.\nVarious new details will be added to this addon soon.\n\n[Rus]\nSComputers power toys - это дополнение для SComputers, которое добавляет маленькие радары с характеристиками самых больших.\nВ ближайшее время в это дополнение будут добавлены различные новые детали.",
+		"description": "[Eng]\nSComputers power toys is an add-on for SComputers that adds various unbalanced items to the game.\n\n[Rus]\nSComputers power toys - это дополнение для SComputers, которые добавляет в игру различные имбалансные предметы.",
 		"fileId": 3131135318,
 		"localId": "759d156c-b59c-4db8-9d64-3eef7a91d33c",
 		"name": "SComputers addon - power toys",
@@ -39541,5 +39541,15 @@
 		"name": "Mobile Craftbot",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"83bdd244-1352-4046-871c-5b9f4ac7b22b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3305923327,
+		"localId": "83bdd244-1352-4046-871c-5b9f4ac7b22b",
+		"name": "Block",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
