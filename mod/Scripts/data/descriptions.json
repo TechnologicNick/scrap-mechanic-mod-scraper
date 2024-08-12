@@ -35065,7 +35065,7 @@
 	"81ba61be-a052-4b42-8123-ce6fc4f88969": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Trade for component kits, broccoli and pineapple\r\n3x Refinery\r\nFast hand refine\r\nBot drop increase",
+		"description": "Added 1x2 Wedge Crafting Recipe\r\nTrade for component kits, broccoli and pineapple\r\n3x Refinery\r\nFast hand refine\r\nBot drop increase\r\nWings mod support",
 		"fileId": 3025718337,
 		"localId": "81ba61be-a052-4b42-8123-ce6fc4f88969",
 		"name": "Cock",
@@ -35796,7 +35796,7 @@
 	"db8418b6-2e46-4f01-90f5-58b4973e7587": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod aims to add more advanced variations of the vanilla tools for Creative.\n\nMod Plan:\n\n1. Advanced Paint Tool (added)\n2. Advanced Connection Tool (added)\nMore TBD",
+		"description": "This mod aims to add more advanced variations of the vanilla tools for Creative.\r\n\r\nThe following tools are currently at your disposal:\r\n\r\n1. Advanced Paint Tool\r\n2. Advanced Connection Tool\r\n\r\nThe following tools are planned to be added in the future:\r\n\r\n1. Part Manipulator - a tool that allows to manipulate specific parts on a shape (remove, change settings etc.)\r\n2. ...",
 		"fileId": 3078604380,
 		"localId": "db8418b6-2e46-4f01-90f5-58b4973e7587",
 		"name": "Creative Tools",
