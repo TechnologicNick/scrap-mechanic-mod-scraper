@@ -34774,7 +34774,14 @@
 	"94ba28d1-f51d-4152-a39f-549929d28987": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Adds a part to detect more conveniently the color in front of a sensor.\nPressing 'U' (or whatever is your upgrade key) while looking at it will make it take the color of the part the sensor that is hooked into it is looking at, given that it is actually looking at one.",
+		"dependencies": [
+			{
+				"fileId": 1759377518,
+				"localId": "2b09183f-5ecb-4dac-93a0-99bd0baa6e55",
+				"name": "ModDatabase"
+			}
+		],
+		"description": "Adds a part to detect more conveniently multiple colors in front of a sensor.\nPressing 'U' (or whatever is your upgrade key) while looking at it will make it take the color of the part the sensor that is hooked into it is looking at, given that it is actually looking at one.",
 		"fileId": 3016360848,
 		"localId": "94ba28d1-f51d-4152-a39f-549929d28987",
 		"name": "Color Sensor",
