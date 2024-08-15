@@ -4891,5 +4891,10 @@
 	},
 	"494d5897-f09d-4cbb-853a-3ef5b2d0af8a": {},
 	"83bdd244-1352-4046-871c-5b9f4ac7b22b": {},
-	"737513dc-25ab-4e1f-a78e-cb39ba848c8f": {}
+	"737513dc-25ab-4e1f-a78e-cb39ba848c8f": {},
+	"ecdf1eb6-eb77-4149-ae7e-4f0f835c30e8": {
+		"$CONTENT_ecdf1eb6-eb77-4149-ae7e-4f0f835c30e8/Tools/Database/ToolSets/LegendTools.toolset": [
+			"7e577af9-94d9-4857-b3ef-ec7552c93753"
+		]
+	}
 }
