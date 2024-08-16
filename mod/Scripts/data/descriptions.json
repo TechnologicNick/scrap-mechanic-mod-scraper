@@ -12924,6 +12924,7 @@
 		"version": 0
 	},
 	"a7575f82-ffea-411e-b5a1-5d18586663c3": {
+		"allow_add_mods": true,
 		"custom_icons": false,
 		"description": "The mod that has the parts that you never knew you needed...",
 		"fileId": 2810106154,
@@ -29912,7 +29913,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "This mod adds Sunshakes, of all colors and kinds. Use these for building creations.\n\nThe FlyShake toggles between flying and not flying. (SPEED EFFECTS WILL RESET)\n\nThe SpeedShake, SlowShake, and TurboShake all change the speed of the player.\n\nThe ResetShake will reset speed effects.\n\nThe speed Sunshakes apply if you are flying or not, but the speed will reset if you switch to not flying or if you start flying.",
+		"description": "TOOL OVERHAUL UPDATE:\nMade all the shakes useable without having to place them down, but you can still place them down and use them as normal.\n\n\n\nThis mod adds Sunshakes, of all colors and kinds. Use these for building creations.\n\nThe FlyShake toggles between flying and not flying. (SPEED EFFECTS WILL RESET)\n\nThe SpeedShake, SlowShake, and TurboShake all change the speed of the player.\n\nThe ResetShake will reset speed effects.\n\nThe speed Sunshakes apply if you are flying or not, but the speed will reset if you switch to not flying or if you start flying.",
 		"fileId": 2865678708,
 		"localId": "e18c61d3-befb-44e5-bbae-d57bfec0f7f5",
 		"name": "Super Sunshakes",
@@ -39573,10 +39574,31 @@
 	"ecdf1eb6-eb77-4149-ae7e-4f0f835c30e8": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h1]【当前版本】[/h1]\r\nNew Legend Mod [b]4.0.1[/b]\r\n\r\n[h1]【关于Mod】[/h1]\r\n欢迎各位机械师订阅由 [b]中国[/b] 玩家团队：[b]传奇建造队[/b] 制作的传奇Mod。这是一个综合性Mod可以满足日常建造的绝大部分需要。本Mod包含：材质方块、各种几何体、各种可互动零件、各种车辆轮胎、载具零件、威力强大的武器、各种装饰、自然景物装饰、建筑零件 和独特的传奇零件。现已支持英文物品描述！\r\n\r\n[h1]【特别感谢】[/h1]\r\n感谢Modpack作者Durf对Mod体积优化的建议！\r\n以及MJM Mod提供的开源座椅脚本!\r\n\r\n[h1]【支持语言】[/h1]\r\n[list]\r\n[*]简体中文 Chinese\r\n[*]英语 English\r\n[/list]\r\n\r\n[h1]【其他Mod以及自定义游戏】[/h1]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1392113882] 可破坏版传奇Mod [/url]【已停用】\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3111285012] 传奇生存自定义游戏 [/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2716762412] 传奇地形资产Mod [/url]\r\n\r\n[h1]【我们的QQ交流群】[/h1]\r\n传奇建造队交流一群 537532878\r\n传奇建造队交流二群 158484814\r\n传奇建造队交流三群 633703984",
+		"dependencies": null,
+		"description": "[h1]【Current Version】[/h1]\nNew Legend Mod [b]4.0.1[/b]\n\n[h1]【About the Mod】[/h1]\nWelcome, Mechanics, to subscribe to the Legendary Mod created by the [b]Chinese[/b] player team: [b]Legendary Construction Team[/b]. This is a comprehensive mod that can meet most of your daily building needs. This mod includes: textured blocks, various geometric shapes, various interactive parts, various vehicle tires, vehicle parts, powerful weapons, various decorations, natural scenery decorations, building parts, and unique legendary parts. Now supports English item descriptions!\n\n[h1]【Special Thanks】[/h1]\nThanks to Modpack author Durf for the suggestions on mod size optimization!\nAlso, thanks to MJM Mod for providing the open-source seat script!\n\n[h1]【Supported Languages】[/h1]\n[list]\n[*]Simplified Chinese\n[*]English\n[/list]\n\n[h1]【Other Mods and Custom Games】[/h1]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1392113882] Destructible Version of the Legendary Mod [/url] [Deactivated]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3111285012] Legendary Survival Custom Game [/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2716762412] Legendary Terrain Asset Mod [/url]\n\n[h1]【Our QQ Groups】[/h1]\nLegendary Construction Team Group 1: 537532878\nLegendary Construction Team Group 2: 158484814\nLegendary Construction Team Group 3: 633703984\n\n[quote=APxiaosong]\n[b]Known Issues in Version 4.0.1[/b]\n[olist]\n[*]Some newly added items do not have English names or descriptions\n[*]The UI for some newly added items is only in Chinese\n[*]Only the host can open the engine UI\n[*]Blueprints are saved in the host's files\n[*]Non-host players cannot select or generate blueprints\n[/olist]\n[/quote]",
 		"fileId": 3309460746,
 		"localId": "ecdf1eb6-eb77-4149-ae7e-4f0f835c30e8",
 		"name": "New Legend Mod Continuation",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"849d23f4-9f8a-483a-904d-7beb3cb71195": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "что бы все работало, нужно иметь \"нормальную\" дистанцию прорисовки, в настройках.\nмир полностью покрыт тьмой, будьте аккуратны, вы попали в аномальную зона.\nспециальный заповедник Дена, куда он скинул и будет скидывать своих тварей, \nимменно он навел тьму на простую планету. Как будто сама его тень упала на материк",
+		"fileId": 3309642573,
+		"localId": "849d23f4-9f8a-483a-904d-7beb3cb71195",
+		"name": "horror forest",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"f471581b-95cb-42ce-8841-5a239b545ce7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "",
+		"fileId": 3309737368,
+		"localId": "f471581b-95cb-42ce-8841-5a239b545ce7",
+		"name": "STI",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

@@ -2433,7 +2433,15 @@
 		]
 	},
 	"f3750f04-7d44-4914-a547-8fd24aa359aa": {},
-	"e18c61d3-befb-44e5-bbae-d57bfec0f7f5": {},
+	"e18c61d3-befb-44e5-bbae-d57bfec0f7f5": {
+		"$CONTENT_e18c61d3-befb-44e5-bbae-d57bfec0f7f5/Tools/Database/ToolSets/shakeTools.toolset": [
+			"40f50d24-7454-4a69-8bb3-1254ac4fba96",
+			"92c4ea3e-7f5b-449f-a925-675b154e40b2",
+			"7a2e89fb-7b08-4320-ac68-a632ae0e7f9c",
+			"d25a7b71-d250-4f57-b7ca-3806b05a1e46",
+			"33bc7095-1468-4b6e-8894-185ac1f2ae82"
+		]
+	},
 	"47172996-eb42-480d-8abe-0447a8cddd01": {},
 	"f7c241d1-8f48-4352-90e1-f734bc07fc31": {},
 	"f982dce7-be33-47d7-be49-c86481b87907": {
@@ -4896,5 +4904,12 @@
 		"$CONTENT_ecdf1eb6-eb77-4149-ae7e-4f0f835c30e8/Tools/Database/ToolSets/LegendTools.toolset": [
 			"7e577af9-94d9-4857-b3ef-ec7552c93753"
 		]
-	}
+	},
+	"849d23f4-9f8a-483a-904d-7beb3cb71195": {
+		"$CONTENT_849d23f4-9f8a-483a-904d-7beb3cb71195/Tools/Database/ToolSets/thetools.toolset": [
+			"2d40546a-7ffa-48bd-9cb9-84d7d03c4cd0",
+			"b9fb729d-48a7-4db5-bcf5-ecccc9a64a1a"
+		]
+	},
+	"f471581b-95cb-42ce-8841-5a239b545ce7": {}
 }
