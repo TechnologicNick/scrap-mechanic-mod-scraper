@@ -4912,5 +4912,10 @@
 		]
 	},
 	"f471581b-95cb-42ce-8841-5a239b545ce7": {},
-	"77d35f7c-a9d2-4213-b9b0-9b4f81d74277": {}
+	"77d35f7c-a9d2-4213-b9b0-9b4f81d74277": {},
+	"c252f7ee-6210-4368-bcaa-ce641d329490": {
+		"$CONTENT_c252f7ee-6210-4368-bcaa-ce641d329490/Tools/Database/ToolSets/tools.toolset": [
+			"61da1ef3-e78f-44f3-bcf2-806cf9d74486"
+		]
+	}
 }

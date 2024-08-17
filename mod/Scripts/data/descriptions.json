@@ -39611,5 +39611,15 @@
 		"name": "Blocks for Legend Mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"c252f7ee-6210-4368-bcaa-ce641d329490": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds new commands that allow you to create and load backups of all creations in your world.\n\nIn short, you can create a backup, change all creations in your world, and then restore them to how they were when you made the backup!\n\n[h2]Examples:[/h2]\nEver wanted to play spleef with your friends, but don't want to clean up, load the blueprint on the lift, and then weld it again every single time you want to reset it?\nSimply use the [b]/backup [name][/b] command to create a backup with the given name and use [b]/load [name][/b] when you want to load it again.\n\nWe all felt the urge to blow up a big creation we were building that's welded to the ground, but were too lazy to detach it and save it on the lift or create a copy of the save file.\nWith this mod you can simply [b]/backup [name][/b], blow it up, and once you are satisfied just [b]/load [name][/b]!\n\n[h2]Commands:[/h2]\n- [b]/backup [name][/b] - Creates a named backup of all creations in the world. [i](e.g. /backup myBackup)[/i]\n- [b]/load [name][/b] - Loads the backup with the given name. [i](e.g. /load myBackup)[/i]\n- [b]/revertload[/b] - Reverts the last load.\n\n[hr]\n[h3]Creations in the thumbnail:[/h3]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2026269994]Scrap Transporter[/url] by [url=https://steamcommunity.com/id/Red-Builds]The Red Builder[/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2835755056]Ability to read[/url] by [url=https://steamcommunity.com/id/Vajdani]Vajdani[/url]",
+		"fileId": 3310337503,
+		"localId": "c252f7ee-6210-4368-bcaa-ce641d329490",
+		"name": "Backup Command",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
