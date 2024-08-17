@@ -4917,5 +4917,8 @@
 		"$CONTENT_c252f7ee-6210-4368-bcaa-ce641d329490/Tools/Database/ToolSets/tools.toolset": [
 			"61da1ef3-e78f-44f3-bcf2-806cf9d74486"
 		]
+	},
+	"1e4c13ef-a2d2-48b2-95a3-d57f42973443": {
+		"$CONTENT_1e4c13ef-a2d2-48b2-95a3-d57f42973443/Tools/Database/ToolSets/example.toolset": []
 	}
 }

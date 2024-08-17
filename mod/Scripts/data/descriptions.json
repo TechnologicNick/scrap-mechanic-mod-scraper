@@ -39605,7 +39605,7 @@
 	"77d35f7c-a9d2-4213-b9b0-9b4f81d74277": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Blocks for Legend Mod",
+		"description": "So far, the mod includes:\n\n- Blocks from the first (1) to the tenth (10) strength with minimal friction (with strength, weight increases and buoyancy decreases);\n\n- Model T-34-85 according to drawings from the Internet.\n\nThe mod is constantly improving and I am training my skills to create models. Thank you for using my mod <3",
 		"fileId": 3309693142,
 		"localId": "77d35f7c-a9d2-4213-b9b0-9b4f81d74277",
 		"name": "Blocks for Legend Mod",
@@ -39621,5 +39621,15 @@
 		"name": "Backup Command",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"1e4c13ef-a2d2-48b2-95a3-d57f42973443": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": " finaly i fixed it. Have you wanted more then survival additions but there was no mod adding that well now there is let me intreduse you to more_survival_additions. This mod add new tiles, golf assets and more in the future. no modded craftbot yet.",
+		"fileId": 3310840049,
+		"localId": "1e4c13ef-a2d2-48b2-95a3-d57f42973443",
+		"name": "more_survival_additions",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
