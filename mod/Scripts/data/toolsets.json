@@ -4923,5 +4923,11 @@
 	},
 	"878d4517-c560-443e-84fb-a615766e1863": {
 		"$CONTENT_878d4517-c560-443e-84fb-a615766e1863/Tools/Database/ToolSets/example.toolset": []
+	},
+	"64a2ec9b-a44c-49ba-ae40-7ee2bb6929af": {
+		"$CONTENT_64a2ec9b-a44c-49ba-ae40-7ee2bb6929af/Tools/Database/ToolSets/flares.toolset": [
+			"1cd32f21-5fe1-7bae-865b-c0c5440253e5",
+			"1cd32f21-5fe1-7bae-865b-c0c5440253e6"
+		]
 	}
 }
