@@ -39575,7 +39575,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "[h1]【Current Version】[/h1]\nNew Legend Mod [b]4.0.1[/b]\n\n[h1]【About the Mod】[/h1]\nWelcome, Mechanics, to subscribe to the Legendary Mod created by the [b]Chinese[/b] player team: [b]Legendary Construction Team[/b]. This is a comprehensive mod that can meet most of your daily building needs. This mod includes: textured blocks, various geometric shapes, various interactive parts, various vehicle tires, vehicle parts, powerful weapons, various decorations, natural scenery decorations, building parts, and unique legendary parts. Now supports English item descriptions!\n\n[h1]【Special Thanks】[/h1]\nThanks to Modpack author Durf for the suggestions on mod size optimization!\nAlso, thanks to MJM Mod for providing the open-source seat script!\n\n[h1]【Supported Languages】[/h1]\n[list]\n[*]Simplified Chinese\n[*]English\n[/list]\n\n[h1]【Other Mods and Custom Games】[/h1]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1392113882] Destructible Version of the Legendary Mod [/url] [Deactivated]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3111285012] Legendary Survival Custom Game [/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2716762412] Legendary Terrain Asset Mod [/url]\n\n[h1]【Our QQ Groups】[/h1]\nLegendary Construction Team Group 1: 537532878\nLegendary Construction Team Group 2: 158484814\nLegendary Construction Team Group 3: 633703984\n\n[quote=APxiaosong]\n[b]Known Issues in Version 4.0.1[/b]\n[olist]\n[*]Some newly added items do not have English names or descriptions\n[*]The UI for some newly added items is only in Chinese\n[*]Only the host can open the engine UI\n[*]Blueprints are saved in the host's files\n[*]Non-host players cannot select or generate blueprints\n[/olist]\n[/quote]",
+		"description": "[h1]【Current Version】[/h1]\nNew Legend Mod [b]4.0.2[/b]\n\n[h1]【About the Mod】[/h1]\nThis Mod is the continuation version of the New Legend Mod, so all blueprints created with the New Legend Mod can be opened and used in this Mod. The Mod is still in its early stages, so please actively report any bugs you find.\n[hr][/hr]\nWelcome to all mechanics! Subscribe to the legendary Mod created by the [b]Chinese[/b] player team: [b]Legendary Construction Team[/b]. This is a comprehensive Mod that can meet most of your daily building needs. This Mod includes: material blocks, various geometric shapes, various interactive parts, various vehicle tires, vehicle parts, powerful weapons, various decorations, natural scenery decorations, building parts, and unique legendary parts. English item descriptions are now supported!\n\n[h1]【Special Thanks】[/h1]\nThanks to Modpack author Durf for suggestions on Mod size optimization!\nAnd to MJM Mod for providing the open-source seat script!\n\n[h1]【Supported Languages】[/h1]\n[list]\n[*]Simplified Chinese\n[*]English\n[/list]\n\n[h1]【Other Mods and Custom Games】[/h1]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1392113882] Destructible Version of the Legend Mod [/url]【Discontinued】\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3111285012] Legendary Survival Custom Game [/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2716762412] Legendary Terrain Asset Mod [/url]\n\n[h1]【Our QQ Groups】[/h1]\nLegendary Construction Team Exchange Group 1: 537532878  \nLegendary Construction Team Exchange Group 2: 158484814  \nLegendary Construction Team Exchange Group 3: 633703984\n\n[quote=APxiaosong]\n[b]Unresolved bugs in version 4.0.2[/b]\n[olist]\n[*]Some of the newly added items do not have English names or descriptions\n[*]Blueprints are saved in the host's file\n[*]Non-host players cannot select blueprints to spawn\n[/olist]\n[/quote]\n",
 		"fileId": 3309460746,
 		"localId": "ecdf1eb6-eb77-4149-ae7e-4f0f835c30e8",
 		"name": "New Legend Mod Continuation",
@@ -39605,7 +39605,7 @@
 	"77d35f7c-a9d2-4213-b9b0-9b4f81d74277": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "So far, the mod includes:\n\n- Blocks from the first (1) to the tenth (10) strength with minimal friction (with strength, weight increases and buoyancy decreases);\n\n- Model T-34-85 according to drawings from the Internet.\n\nThe mod is constantly improving and I am training my skills to create models. Thank you for using my mod <3",
+		"description": "Пока что мод включает в себя:\r\n\r\n- Блоки от первой (1) до десятой (10) прочности с минимальным трением (с прочностью повышается вес и уменьшается плавучесть);\r\n\r\n- Модель T-34-85 по чертежам из интернета.\r\n\r\nМод постоянно улучшается а я тренирую свои умения создавать модели. Спасибо что используете мой мод <3",
 		"fileId": 3309693142,
 		"localId": "77d35f7c-a9d2-4213-b9b0-9b4f81d74277",
 		"name": "Blocks for Legend Mod",
@@ -39629,6 +39629,16 @@
 		"fileId": 3310840049,
 		"localId": "1e4c13ef-a2d2-48b2-95a3-d57f42973443",
 		"name": "more_survival_additions",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"878d4517-c560-443e-84fb-a615766e1863": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "TEST",
+		"fileId": 3311105465,
+		"localId": "878d4517-c560-443e-84fb-a615766e1863",
+		"name": "TESTSHARE",
 		"type": "Custom Game",
 		"version": 0
 	}
