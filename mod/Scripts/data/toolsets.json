@@ -4927,7 +4927,13 @@
 	"64a2ec9b-a44c-49ba-ae40-7ee2bb6929af": {
 		"$CONTENT_64a2ec9b-a44c-49ba-ae40-7ee2bb6929af/Tools/Database/ToolSets/flares.toolset": [
 			"1cd32f21-5fe1-7bae-865b-c0c5440253e5",
-			"1cd32f21-5fe1-7bae-865b-c0c5440253e6"
+			"1cd32f21-5fe1-7bae-865b-c0c5440253e6",
+			"1cd32f21-5fe1-7bae-865b-c0c5440253e7"
 		]
-	}
+	},
+	"d19a2bc2-27e0-41ea-bfce-000398e10de6": {},
+	"b9c3d27d-b691-450c-850b-3c6dc279f3b7": {},
+	"9ce62933-0e32-4b8e-94e9-425878a87036": {},
+	"be5dd74d-1183-402e-834f-637858096c64": {},
+	"8160a293-653a-41f7-b8b5-69467c22fdda": {}
 }
