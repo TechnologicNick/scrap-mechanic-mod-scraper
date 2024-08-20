@@ -38268,7 +38268,7 @@
 	"29523fce-666c-4ac5-96c4-387833483a8a": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h3]Lets you swap/spawn creations on-the-fly like in Trailmakers![/h3]\r\n\r\nWhile this is a [b]Blocks and Parts[/b] mod, there isn’t actually a modded part available when you load the mod.\r\n\r\nInstead, the mod works for all existing vanilla seats and driver’s seats (all levels), including the scrap versions. It however, does not work for bathtub, toilet, and office chair.\r\n\r\nWatch the video for a guide on how to use it or type [i]/qshelp[/i] in the in-game chat.\r\n\r\nPlease report any bugs you encounter in [url=https://steamcommunity.com/workshop/filedetails/discussion/3242683188/4364628251568150785/]Discussions[/url].\r\n\r\n",
+		"description": "[h3]Lets you swap/spawn creations on-the-fly like in Trailmakers![/h3]\r\n\r\n\r\n[u][b]Update 09/08/2024[/b][/u][list]\r\n[*]Now compatible with Creative Survival custom game (fix may work for other custom games as well)\r\n[/list]\r\n\r\n\r\nWhile this is a [b]Blocks and Parts[/b] mod, there isn’t actually a modded part available when you load the mod.\r\n\r\nInstead, the mod works for all existing vanilla seats and driver’s seats (all levels), including the scrap versions. It however, does not work for bathtub, toilet, and office chair.\r\n\r\nWatch the video for a guide on how to use it or type [i]/qshelp[/i] in the in-game chat.\r\n\r\nPlease report any bugs you encounter in [url=https://steamcommunity.com/workshop/filedetails/discussion/3242683188/4364628251568150785/]Discussions[/url].\r\n\r\n",
 		"fileId": 3242683188,
 		"localId": "29523fce-666c-4ac5-96c4-387833483a8a",
 		"name": "QuickSwap",
@@ -39605,7 +39605,7 @@
 	"77d35f7c-a9d2-4213-b9b0-9b4f81d74277": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Пока что мод включает в себя:\r\n\r\n- Блоки от первой (1) до десятой (10) прочности с минимальным трением (с прочностью повышается вес и уменьшается плавучесть);\r\n\r\n- Модель T-34-85 (эксперемент)\r\n\r\n- Модель СУ-122\r\n\r\nМод постоянно улучшается а я тренирую свои умения создавать модели. Спасибо что используете мой мод <3",
+		"description": "Пока что мод включает в себя:\r\n\r\n- Блоки от первой (1) до десятой (10) прочности с минимальным трением (с прочностью повышается вес и уменьшается плавучесть)\r\n\r\n-Скосы от первой (1) до десятой (10) прочности с минимальным трением (с прочностью повышается вес и уменьшается плавучесть)\r\n\r\n- Модель T-34-85 (эксперемент)\r\n\r\n- Модель СУ-122\r\n\r\nМод постоянно улучшается а я тренирую свои умения создавать модели. Спасибо что используете мой мод <3",
 		"fileId": 3309693142,
 		"localId": "77d35f7c-a9d2-4213-b9b0-9b4f81d74277",
 		"name": "Blocks for Legend Mod",
