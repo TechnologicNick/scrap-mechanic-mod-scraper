@@ -35646,7 +35646,7 @@
 	"53976b51-7e17-446b-a2a7-b31143175766": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Just Strange and Absurd Weapons\n\nWeapons:\n-Tree\n-Traffic Sign\n-Cranehammer\n\nNew Weapons Soon!\n\n\nDiscord: https://discord.gg/TJePhfsgzR",
+		"description": "Just Strange and Absurd Weapons\r\n\r\nWeapons:\r\n-Tree\r\n-Traffic Sign\r\n-Cranehammer\r\n-Magic Book\r\n\r\nNew Weapons Soon!\r\n\r\n\r\nDiscord: https://discord.gg/TJePhfsgzR",
 		"fileId": 3059132456,
 		"localId": "53976b51-7e17-446b-a2a7-b31143175766",
 		"name": "Romytrix's Weapons Pack",
@@ -39739,6 +39739,16 @@
 		"fileId": 3313921429,
 		"localId": "eebc80d1-f6e4-478d-93bf-6e2ad3eb0ffa",
 		"name": "Ducks Galore",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"3014aacc-83cd-45fc-8dea-d161b42862b6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3314121123,
+		"localId": "3014aacc-83cd-45fc-8dea-d161b42862b6",
+		"name": "Floating Metal",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
