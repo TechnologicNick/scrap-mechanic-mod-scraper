@@ -35249,7 +35249,7 @@
 		"description": "[Eng]\nAdds cameras to the game with the ability to set a password and connect to them via a monitor.\nyou can even control the creation through the camera!\nthere are no visual distortions when the camera is moving.\nthe cameras can be connected directly or wirelessly.\n\n[Rus]\nДобавляет в игру камеры с возможностью установки пароля и подключения к ним через манитор.\nчерез камеру можно даже управлять постройкой!\nпри движении камеры визуальных искажений не возникает.\nкамеры могут быть подключены напрямую или по беспроводной сети.",
 		"fileId": 3034272798,
 		"localId": "d3e4964b-e971-42df-b67e-d988d1b054cc",
-		"name": "Wired & Wireless Сameras",
+		"name": "Wired & Wireless Cameras",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -36031,6 +36031,16 @@
 				"name": "Game Control Tool"
 			},
 			{
+				"fileId": 3225242710,
+				"localId": "27776f90-6938-4201-986a-ada58e989ac1",
+				"name": "Musical Holographic Statues [Better API]"
+			},
+			{
+				"fileId": 3185287679,
+				"localId": "a99716ca-719d-4891-b1d2-f1978e954a05",
+				"name": "online boombox [betterAPI]"
+			},
+			{
 				"fileId": 3088831605,
 				"localId": "bd8ce29f-bcf3-4e5a-98bb-1a4539a4bb04",
 				"name": "Pocket Universe"
@@ -36044,6 +36054,11 @@
 				"fileId": 2936300656,
 				"localId": "88ec0c71-8b66-42e3-9bc2-491825df53ca",
 				"name": "Robotization"
+			},
+			{
+				"fileId": 3131135318,
+				"localId": "759d156c-b59c-4db8-9d64-3eef7a91d33c",
+				"name": "SComputers addon - power toys"
 			},
 			{
 				"fileId": 2949350596,
@@ -36061,9 +36076,14 @@
 				"name": "sound mod"
 			},
 			{
+				"fileId": 3293308025,
+				"localId": "2ab6eb84-2cff-4200-af1d-3091a0b8393a",
+				"name": "stretchable display [SComputers addon]"
+			},
+			{
 				"fileId": 3034272798,
 				"localId": "d3e4964b-e971-42df-b67e-d988d1b054cc",
-				"name": "Wired & Wireless Сameras"
+				"name": "Wired & Wireless Cameras"
 			}
 		],
 		"description": "this is just a collection of all my actual mods.\ninstall it if you are bored with the game and don't know what to do.",
@@ -39605,7 +39625,7 @@
 	"77d35f7c-a9d2-4213-b9b0-9b4f81d74277": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Пока что мод включает в себя:\r\n\r\n- Блоки от первой (1) до десятой (10) прочности с минимальным трением (с прочностью повышается вес и уменьшается плавучесть)\r\n\r\n-Скосы от первой (1) до десятой (10) прочности с минимальным трением (с прочностью повышается вес и уменьшается плавучесть)\r\n\r\n- Модель T-34-85 (эксперемент)\r\n\r\n- Модель СУ-122\r\n\r\nМод постоянно улучшается а я тренирую свои умения создавать модели. Спасибо что используете мой мод <3",
+		"description": "Пока что мод включает в себя:\n\n- Блоки от первой (1) до десятой (10) прочности с минимальным трением (с прочностью повышается вес и уменьшается плавучесть)\n\n-Скосы от первой (1) до десятой (10) прочности с минимальным трением (с прочностью повышается вес и уменьшается плавучесть)\n\n- Модель T-34-85 (эксперемент)\n\n- Модель СУ-122\n\n- Модель Tiger Н1\n\n- Модель T-44\n\nМод постоянно улучшается а я тренирую свои умения создавать модели. Спасибо что используете мой мод <3",
 		"fileId": 3309693142,
 		"localId": "77d35f7c-a9d2-4213-b9b0-9b4f81d74277",
 		"name": "Blocks for Legend Mod",
@@ -39709,6 +39729,16 @@
 		"fileId": 3312373135,
 		"localId": "2514bebf-db4a-4d53-b2ba-57a6b291226b",
 		"name": "Seats++",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"eebc80d1-f6e4-478d-93bf-6e2ad3eb0ffa": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds Three new Ducks",
+		"fileId": 3313921429,
+		"localId": "eebc80d1-f6e4-478d-93bf-6e2ad3eb0ffa",
+		"name": "Ducks Galore",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
