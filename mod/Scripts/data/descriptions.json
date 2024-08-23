@@ -14264,7 +14264,7 @@
 	"6fa94e82-bb42-4f13-a761-e612d9479568": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[b]This is a mod for general scripted mod parts used in Bunic builds, feel free to use any parts in your builds, but please let us know of any bugs![/b]\n\n[u]This mod currently contains:[/u]\n-Particle Maker; this part creates a selected particle a selected offset in the direction of the arrow\n-Screen Shaker; this part shakes the screen at a selected intensity\n-Player Join Indicator; this part gives out a short pulse when a player joins the world (this is useful if something needs to be reset every time a new player joins)\n-Player Teleporter; this part teleports players within a select zone to a select location\n-Player Presence Sensor; this part gives an output when a select number of players is in a select zone\n-Animator; used for translating motion capture data into animations for in-game figures\n-Screen Fader; fades the screen to or from black at set speed\n-Cutscene Creator; used to create and play simple cutscenes\n-Forced Player Teleporter; teleports players in aselect zone to a set position, but can force players out of seats\n\n[h2]Parts were not designed with user friendliness in mind since they were created for one purpose only, sorry if some parts are hard to use.[/h2]",
+		"description": "[b]This is a mod for general scripted mod parts used in Bunic builds, feel free to use any parts in your builds, but please let us know of any bugs![/b]\n\n[u]This mod currently contains:[/u]\n-Particle Maker; this part creates a selected particle a selected offset in the direction of the arrow\n-Screen Shaker; this part shakes the screen at a selected intensity\n-Player Join Indicator; this part gives out a short pulse when a player joins the world (this is useful if something needs to be reset every time a new player joins)\n-Player Teleporter; this part teleports players within a select zone to a select location\n-Player Presence Sensor; this part gives an output when a select number of players is in a select zone\n-Animator; used for translating motion capture data into animations for in-game figures\n-Screen Fader; fades the screen to or from black at set speed\n-Cutscene Creator; used to create and play simple cutscenes\n-Forced Player Teleporter; teleports players in a select zone to a set position, but can force players out of seats\n-Advanced Manual Animator; used to manually animate a collection of outputs\n-Active Relay; a buffer between animators and their outputs\n\n[h2]Parts were not designed with user friendliness in mind since they were created for one purpose only, sorry if some parts are hard to use.[/h2]",
 		"fileId": 2584428107,
 		"localId": "6fa94e82-bb42-4f13-a761-e612d9479568",
 		"name": "Scripted Bunic Parts",
@@ -37630,7 +37630,7 @@
 	"53a95df2-440a-4b45-8f3e-0716defbcfc8": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]Use with caution![/h1]\r\nThis mod is originally designed for tank battles in temporary worlds.\r\nOnce loaded in the world, the connections will be hidden by default. [b]Even without the mod disabled connections will remain hidden[/b].\r\n\r\n[h1]How it works?[/h1]\r\nConnections are revealed when the player holds the Connection Tool at an reachable distance from the creation! Note that revealed connections are visible for everyone.",
+		"description": "[h1]Use with caution![/h1]\r\nThis mod is originally designed for tank battles in temporary worlds.\r\nOnce loaded in the world, the connections will be hidden by default. [b]Even with the mod disabled connections will remain hidden[/b].\r\n\r\n[h1]How it works?[/h1]\r\nConnections are revealed when the player holds the Connection Tool at an reachable distance from the creation. Note that revealed connections are visible for everyone!",
 		"fileId": 3174805443,
 		"localId": "53a95df2-440a-4b45-8f3e-0716defbcfc8",
 		"name": "No Connect Tool Spying",
@@ -39645,7 +39645,7 @@
 	"1e4c13ef-a2d2-48b2-95a3-d57f42973443": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": " finaly i fixed it. Have you wanted more then survival additions but there was no mod adding that well now there is let me intreduse you to more_survival_additions. This mod add new tiles, golf assets and more in the future. no modded craftbot yet.",
+		"description": " finaly i fixed it. Have you wanted more then survival additions but there was no mod adding that well now there is let me intreduse you to more_survival_additions. This mod add new tiles, golf assets and more in the future. no modded craftbot yet. and a new biome desert is repleced with scrap yard now this is just a test  dont recomend making whole journey yet updated mine,desroyed warehouse and ship wreck. Tell me in the comments what i should add/remove not garuanted that i will have scarpyard for very long just a test plus i fixed the cliff thingy i just removed the flatten node in the tiles if the dev wanted to know.",
 		"fileId": 3310840049,
 		"localId": "1e4c13ef-a2d2-48b2-95a3-d57f42973443",
 		"name": "more_survival_additions",
@@ -39749,6 +39749,26 @@
 		"fileId": 3314121123,
 		"localId": "3014aacc-83cd-45fc-8dea-d161b42862b6",
 		"name": "Floating Metal",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6e47e1da-f0a7-4f8c-80bc-b6f7f547cb6c": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Hi! this is the new version of Survival Less Cost. Currently in testing, you can help me to improve the game before i update the main mod. Thanks :)\nFor now, not all features are implemented (because i forgor). If there is any issues/bugs or ideas dont be shy to share with us !",
+		"fileId": 3311951479,
+		"localId": "6e47e1da-f0a7-4f8c-80bc-b6f7f547cb6c",
+		"name": "Survival Less Cost DEV",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"add7ffdc-5327-47a1-acae-b13ec77b942a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "kaban\n",
+		"fileId": 3314519368,
+		"localId": "add7ffdc-5327-47a1-acae-b13ec77b942a",
+		"name": "kaban",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
