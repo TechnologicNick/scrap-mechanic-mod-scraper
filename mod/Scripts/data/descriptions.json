@@ -39584,7 +39584,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "This mod doesn't have a description",
+		"description": "RU: Всё сделанное в этом моде не моё.\r\nЭто два других автора.\r\nПрошу отнестись с пониманием.\r\n\r\nCпасибо этим авторам за хорошое время и за всё остальное...\r\n\r\nENG: Everything done in this mod is not mine.\r\nThese are two other authors.\r\nPlease be understanding.\r\n\r\nThanks to these authors for the good time and for everything else...\r\n\r\n#SaveSM\r\n",
 		"fileId": 3135640509,
 		"localId": "737513dc-25ab-4e1f-a78e-cb39ba848c8f",
 		"name": "Klimma Mod 2",
@@ -39754,8 +39754,8 @@
 	},
 	"6e47e1da-f0a7-4f8c-80bc-b6f7f547cb6c": {
 		"allow_add_mods": true,
-		"custom_icons": true,
-		"description": "Hi! this is the new version of Survival Less Cost. Currently in testing, you can help me to improve the game before i update the main mod. Thanks :)\nFor now, not all features are implemented (because i forgor). If there is any issues/bugs or ideas dont be shy to share with us !",
+		"custom_icons": false,
+		"description": "Hi! this is the new version of Survival Less Cost. Currently in testing, you can help me to improve the game before i update the main mod.\r\nFor now, not all features are implemented. If there is any issues/bugs or ideas you have you can share it \r\n\r\nYou can try the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816326647] Default mod here [/url]",
 		"fileId": 3311951479,
 		"localId": "6e47e1da-f0a7-4f8c-80bc-b6f7f547cb6c",
 		"name": "Survival Less Cost DEV",
@@ -39769,6 +39769,16 @@
 		"fileId": 3314519368,
 		"localId": "add7ffdc-5327-47a1-acae-b13ec77b942a",
 		"name": "kaban",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"e8916414-70b6-4eb5-a851-65fcbdd2beb0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[Eng]\nmeasures how good your creation is. 0 is perfect, 250 is very bad\n\n[Rus]\nизмеряет насколько хороша ваша постройка. 0 идиально, 250 - полная херня",
+		"fileId": 3315537442,
+		"localId": "e8916414-70b6-4eb5-a851-65fcbdd2beb0",
+		"name": "polnaya huinyameter",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
