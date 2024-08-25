@@ -1682,12 +1682,14 @@
 		"version": 0
 	},
 	"a1335bb7-4d89-49f5-9e45-f9fbf6f5ceec": {
-		"description": "",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h1][b]!WARNING![/b][/h1][quote]\r\nThe mechaGRIP Parts mod is not completely finished.\r\n[/quote]\r\n[b][h1]Update Info:[/h1][/b][quote]\r\nCurrent: v1.8\r\nInstallment: 1\r\n>> Added new half block combinations. For full update notes check the changelog.\r\n[/quote]\r\n[url=https://github.com/Dott-GRIP/mechaGRIP-Mods/blob/master/Parts%20Mod/changelog.txt]Changelog[/url]\r\n[b][h1]Current Mod Progress:[/h1][/b][quote]\r\nVersion 1.8.1\r\nVersion Update Date: 4/28/2020 7:25 pm UTC\r\nTotal Size: 18.3mb (no longer includes cache size)\r\nTotal Texture Count: 9\r\nTotal Part Count: 234\r\nTotal Interactive Count: 1\r\nTotal Block Count: 1\r\n[/quote]",
 		"fileId": 1368787603,
 		"localId": "a1335bb7-4d89-49f5-9e45-f9fbf6f5ceec",
 		"name": "mechaGRIP Parts",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"e96c4c8a-bfe2-4730-acd9-e667b7d8b857": {
 		"description": "[b]Discontinued[/b]\n\n[b]This mod was originaly going to be made for Camodo's micro city but you can use it as you wish.[/b]\n\n[b]This mod contains 12 parts:[/b]\n• 4x Micro Mechanic's including Driver's seat versions\n• 2x Micro Bob (based of bob from Brick Rigs) including a Driver's seat version\n• Micro Nascar\n• 2x 1x1 Engine - Transparent\n• Small Square Light\n\nThe Nascar is drivable, its pretty simple to make but heres a pre-built version for your convenience:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1380981564\n\n[b]All meshes are made by me. Invisable character script from the Modpack.[/b]\n[b]No more parts will be coming soon so don't be patient![/b]\n\n[b]Please be sure to hit that \"thumbs up\" button if you like the mod.[/b] 👍\n\nDon't Have fun and don't enjoy! :(\n\n\nBy Jotrain Gamer",
@@ -35544,7 +35546,7 @@
 		"localId": "3a8d7f21-c853-48ec-b916-f055cb403cd1",
 		"name": "The Modpack is Funny",
 		"type": "Blocks and Parts",
-		"version": 1.6
+		"version": 1.8
 	},
 	"dcfe3d42-ed03-4025-ba8e-04a5c4875e28": {
 		"allow_add_mods": true,
@@ -39625,7 +39627,7 @@
 	"77d35f7c-a9d2-4213-b9b0-9b4f81d74277": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Пока что мод включает в себя:\n\n- Блоки от первой (1) до десятой (10) прочности с минимальным трением (с прочностью повышается вес и уменьшается плавучесть)\n\n-Скосы от первой (1) до десятой (10) прочности с минимальным трением (с прочностью повышается вес и уменьшается плавучесть)\n\n- Модель T-34-85 (эксперемент)\n\n- Модель СУ-122\n\n- Модель Tiger Н1\n\n- Модель T-44\n\nМод постоянно улучшается а я тренирую свои умения создавать модели. Спасибо что используете мой мод <3",
+		"description": "Пока что мод включает в себя:\n\n- Блоки от первой (1) до десятой (10) прочности с минимальным трением (с прочностью повышается вес и уменьшается плавучесть)\n\n-Скосы от первой (1) до десятой (10) прочности с минимальным трением (с прочностью повышается вес и уменьшается плавучесть)\n\n- Модель T-34-85 (эксперемент)\n\n- Модель СУ-122\n\n- Модель Tiger Н1\n\n- Модель T-44\n\n- Модель Panter 1\n\nМод постоянно улучшается а я тренирую свои умения создавать модели. Спасибо что используете мой мод <3",
 		"fileId": 3309693142,
 		"localId": "77d35f7c-a9d2-4213-b9b0-9b4f81d74277",
 		"name": "Blocks for Legend Mod",
@@ -39665,7 +39667,7 @@
 	"64a2ec9b-a44c-49ba-ae40-7ee2bb6929af": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "简单投掷物",
+		"description": "简单投掷物\r\n深岩银河的荧光棒、战斧、酒杯！",
 		"fileId": 3311451726,
 		"localId": "64a2ec9b-a44c-49ba-ae40-7ee2bb6929af",
 		"name": "Simple Throwable Item简单投掷物",
@@ -39755,7 +39757,7 @@
 	"6e47e1da-f0a7-4f8c-80bc-b6f7f547cb6c": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Hi! this is the new version of Survival Less Cost. Currently in testing, you can help me to improve the game before i update the main mod.\r\nFor now, not all features are implemented. If there is any issues/bugs or ideas you have you can share it \r\n\r\nYou can try the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816326647] Default mod here [/url]",
+		"description": "Hi! this is the new version of Survival Less Cost. Currently in testing, you can help me to improve the game before i update the main mod.\r\nFor now, not all features are implemented. If there is any issues/bugs or ideas you have you can share it \r\n\r\nMenu patched\r\n\r\nYou can try the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816326647] Default mod here [/url]",
 		"fileId": 3311951479,
 		"localId": "6e47e1da-f0a7-4f8c-80bc-b6f7f547cb6c",
 		"name": "Survival Less Cost DEV",
@@ -39779,6 +39781,16 @@
 		"fileId": 3315537442,
 		"localId": "e8916414-70b6-4eb5-a851-65fcbdd2beb0",
 		"name": "polnaya huinyameter",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f19f9dda-2d9d-4b89-b81e-1eabdab9c68d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "UK Railway mod adds British railway signals into Scrap Mechanic.\n\nNote that it is my first mod to this game.\n\n**SIGNAL AND SIGNS PACK**\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3316197832\n**SIGNAL AND SIGNS PACK**\n\nEnjoy!",
+		"fileId": 3316205855,
+		"localId": "f19f9dda-2d9d-4b89-b81e-1eabdab9c68d",
+		"name": "UK Railway",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
