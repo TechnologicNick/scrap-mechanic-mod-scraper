@@ -39793,5 +39793,55 @@
 		"name": "UK Railway",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"46c198a0-b3e1-4187-8faa-97489c91d96b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "this is a file mod",
+		"fileId": 3317497668,
+		"localId": "46c198a0-b3e1-4187-8faa-97489c91d96b",
+		"name": "widerwinshield",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"38ccf293-0012-4681-8168-e31a53dc541b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "this is a file mod",
+		"fileId": 3317548434,
+		"localId": "38ccf293-0012-4681-8168-e31a53dc541b",
+		"name": "roof",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1941a5dc-fff3-4ef6-8c7a-56c85795fe30": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3317633404,
+		"localId": "1941a5dc-fff3-4ef6-8c7a-56c85795fe30",
+		"name": "door",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"4b1ad458-78cf-42f8-b44e-41abde66f54d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3317703789,
+		"localId": "4b1ad458-78cf-42f8-b44e-41abde66f54d",
+		"name": "thin medium window",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"be465454-0387-4a6d-b3a6-534183262605": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3317704557,
+		"localId": "be465454-0387-4a6d-b3a6-534183262605",
+		"name": "thin small glass",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
