@@ -39597,7 +39597,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "[h1]【Current Version】[/h1]\nNew Legend Mod [b]4.0.2[/b]\n\n[h1]【About the Mod】[/h1]\nThis Mod is the continuation version of the New Legend Mod, so all blueprints created with the New Legend Mod can be opened and used in this Mod. The Mod is still in its early stages, so please actively report any bugs you find.\n[hr][/hr]\nWelcome to all mechanics! Subscribe to the legendary Mod created by the [b]Chinese[/b] player team: [b]Legendary Construction Team[/b]. This is a comprehensive Mod that can meet most of your daily building needs. This Mod includes: material blocks, various geometric shapes, various interactive parts, various vehicle tires, vehicle parts, powerful weapons, various decorations, natural scenery decorations, building parts, and unique legendary parts. English item descriptions are now supported!\n\n[h1]【Special Thanks】[/h1]\nThanks to Modpack author Durf for suggestions on Mod size optimization!\nAnd to MJM Mod for providing the open-source seat script!\n\n[h1]【Supported Languages】[/h1]\n[list]\n[*]Simplified Chinese\n[*]English\n[/list]\n\n[h1]【Other Mods and Custom Games】[/h1]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1392113882] Destructible Version of the Legend Mod [/url]【Discontinued】\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3111285012] Legendary Survival Custom Game [/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2716762412] Legendary Terrain Asset Mod [/url]\n\n[h1]【Our QQ Groups】[/h1]\nLegendary Construction Team Exchange Group 1: 537532878  \nLegendary Construction Team Exchange Group 2: 158484814  \nLegendary Construction Team Exchange Group 3: 633703984\n\n[quote=APxiaosong]\n[b]Unresolved bugs in version 4.0.2[/b]\n[olist]\n[*]Some of the newly added items do not have English names or descriptions\n[*]Blueprints are saved in the host's file\n[*]Non-host players cannot select blueprints to spawn\n[/olist]\n[/quote]\n",
+		"description": "[h1]【当前版本】[/h1]\r\nNew Legend Mod [b]4.0.3[/b]\r\n\r\n[h1]【关于Mod】[/h1]\r\n该Mod为New Legend Mod的Continuation版本，因此使用New Legend Mod制作的蓝图均可在本Mod中打开和使用。该Mod暂时还处于初期阶段，如果发现了漏洞还请积极报告出来。\r\n[hr][/hr]\r\n欢迎各位机械师订阅由 [b]中国[/b] 玩家团队：[b]传奇建造队[/b] 制作的传奇Mod。这是一个综合性Mod可以满足日常建造的绝大部分需要。本Mod包含：材质方块、各种几何体、各种可互动零件、各种车辆轮胎、载具零件、威力强大的武器、各种装饰、自然景物装饰、建筑零件 和独特的传奇零件。现已支持英文物品描述！\r\n\r\n[h1]【特别感谢】[/h1]\r\n感谢Modpack作者Durf对Mod体积优化的建议！\r\n以及MJM Mod提供的开源座椅脚本!\r\n\r\n[h1]【支持语言】[/h1]\r\n[list]\r\n[*]简体中文 Chinese\r\n[*]英语 English\r\n[/list]\r\n\r\n[h1]【其他Mod以及自定义游戏】[/h1]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1392113882] 可破坏版传奇Mod [/url]【已停用】\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3111285012] 传奇生存自定义游戏 [/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2716762412] 传奇地形资产Mod [/url]\r\n\r\n[h1]【我们的QQ交流群】[/h1]\r\n传奇建造队交流一群 537532878\r\n传奇建造队交流二群 158484814\r\n传奇建造队交流三群 633703984\r\n\r\n[quote=APxiaosong]\r\n[b]4.0.3版本暂未修复的漏洞[/b]\r\n[olist]\r\n[*]摄像头直接连接座椅无法使用Fov调节，需要先连接无线使用再接座椅\r\n[*]坦克瞄准镜未被遥控兼容（未添加UUID）\r\n[*]高级轴承活塞控制器有效值是0到99999，虽然可以填入999999但重进游戏/重拿蓝图会被清零\r\n[/olist]\r\n[/quote]",
 		"fileId": 3309460746,
 		"localId": "ecdf1eb6-eb77-4149-ae7e-4f0f835c30e8",
 		"name": "New Legend Mod Continuation",
@@ -39872,6 +39872,46 @@
 		"fileId": 3318226235,
 		"localId": "c0af0072-913f-4deb-ae86-7477aac44261",
 		"name": "more blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"9f954002-7325-4496-b32c-a07610649920": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Survival, but with blueprints and dev mode enabled. Comes with objective markers.",
+		"fileId": 3317471914,
+		"localId": "9f954002-7325-4496-b32c-a07610649920",
+		"name": "Creative Survival",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"4ad8c0da-7521-47ec-8ef9-628b45b1b7b9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Cool mood",
+		"fileId": 3319245232,
+		"localId": "4ad8c0da-7521-47ec-8ef9-628b45b1b7b9",
+		"name": "invisible Block",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"020e1036-ff34-4d3c-8ab2-bae0a0af7fe4": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "some blocks",
+		"fileId": 3319245235,
+		"localId": "020e1036-ff34-4d3c-8ab2-bae0a0af7fe4",
+		"name": "heavy ahh cardboard",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"08e58b0c-0ce9-4467-aaaf-db2e98330fb8": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "more block\njust you see!\nv2.0",
+		"fileId": 3319278578,
+		"localId": "08e58b0c-0ce9-4467-aaaf-db2e98330fb8",
+		"name": "++blocks",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
