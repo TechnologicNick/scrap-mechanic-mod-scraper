@@ -34418,7 +34418,13 @@
 	"756d4f03-2e86-4f5b-a425-20259568eff3": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Tired of searching for the right item in an inventory full of various mods? There's a solution for you.\nJust look at the required block and enter the [b]/get[/b] command into the chat and it will instantly appear in your active hotbar slot.\n\n[h1] Why not the middle mouse button? Scrap Mechanic API doesn't support keybindings for mods, but if they add support for them in the future, I'll definitely implement it. [/h1]\n\n[code] [h1] [b]FAQ[/b] [/h1]\n[olist]\n    [*]This mod adds the function of obtaining the required block without opening the inventory (like the middle mouse button in Minecraft).\n    [*]Additional hotbar pages can be selected by entering their number in the command: [b]/get 1/2/3[/b]. (1-st page by default)\n[/olist] [/code]\n\n[code] [h1] [b]Skill Issues[/b] [/h1]\n[olist]\n    [*]This mod doesn't work in vanilla Survival Mode, but works with other Custom Games.\n[/olist] [/code]\n\nPlease consider leaving a like and adding the mod to your favorites to support my work!",
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
+			}
+		],
+		"description": "Tired of searching for the right item in an inventory full of various mods? There's a solution for you.\nJust look at the required block and enter the [b]/get[/b] command into the chat and it will instantly appear in your active hotbar slot.\n\n[h1] Why not the middle mouse button? Scrap Mechanic API doesn't support keybindings for mods, but if they add support for them in the future, I'll definitely implement it. [/h1]\n\n[code] [h1] [b]FAQ[/b] [/h1]\n[olist]\n    [*]This mod adds the function of obtaining the required block without opening the inventory (like the middle mouse button in Minecraft).\n    [*]Additional hotbar pages can be selected by entering their number in the command: [b]get 1/2/3[/b]. (1-st page by default)\n[/olist] [/code]\n\n[code] [h1] [b]Skill Issues[/b] [/h1]\n[olist]\n    [*]This mod doesn't work in vanilla Survival Mode, but works with other Custom Games.\n[/olist] [/code]\n\nPlease consider leaving a like and adding the mod to your favorites to support my work!\n",
 		"fileId": 3002663600,
 		"localId": "756d4f03-2e86-4f5b-a425-20259568eff3",
 		"name": "Middle Mouse Feature from Minecraft",
@@ -39757,7 +39763,8 @@
 	"6e47e1da-f0a7-4f8c-80bc-b6f7f547cb6c": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Hi! this is the new version of Survival Less Cost. Currently in testing, you can help me to improve the game before i update the main mod.\r\nFor now, not all features are implemented. If there is any issues/bugs or ideas you have you can share it \r\n\r\nMenu patched\r\n/gdev to turn on/off dev mode\r\n\r\nYou can try the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816326647] Default mod here [/url]",
+		"dependencies": null,
+		"description": "Hi! this is the new version of Survival Less Cost. Currently in testing, you can help me to improve the game before i update the main mod.\r\nFor now, not all features are implemented. If there is any issues/bugs or ideas you have you can share it \r\n\r\nMenu patched\r\n/die now available\r\n\r\nYou can try the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816326647] Default mod here [/url]",
 		"fileId": 3311951479,
 		"localId": "6e47e1da-f0a7-4f8c-80bc-b6f7f547cb6c",
 		"name": "Survival Less Cost DEV",
@@ -39914,5 +39921,25 @@
 		"name": "++blocks",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"792c2d62-522c-4283-a658-249bc14ac08a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 1368787603,
+		"localId": "792c2d62-522c-4283-a658-249bc14ac08a",
+		"name": "MG Parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"62bf677a-9eed-4a4e-b637-1d7bca07544e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "crafts",
+		"fileId": 3318884865,
+		"localId": "62bf677a-9eed-4a4e-b637-1d7bca07544e",
+		"name": "bedwars factory",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
