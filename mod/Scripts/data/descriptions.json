@@ -34418,13 +34418,7 @@
 	"756d4f03-2e86-4f5b-a425-20259568eff3": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2504530003,
-				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
-			}
-		],
-		"description": "Tired of searching for the right item in an inventory full of various mods? There's a solution for you.\nJust look at the required block and enter the [b]/get[/b] command into the chat and it will instantly appear in your active hotbar slot.\n\n[h1] Why not the middle mouse button? Scrap Mechanic API doesn't support keybindings for mods, but if they add support for them in the future, I'll definitely implement it. [/h1]\n\n[code] [h1] [b]FAQ[/b] [/h1]\n[olist]\n    [*]This mod adds the function of obtaining the required block without opening the inventory (like the middle mouse button in Minecraft).\n    [*]Additional hotbar pages can be selected by entering their number in the command: [b]get 1/2/3[/b]. (1-st page by default)\n[/olist] [/code]\n\n[code] [h1] [b]Skill Issues[/b] [/h1]\n[olist]\n    [*]This mod doesn't work in vanilla Survival Mode, but works with other Custom Games.\n[/olist] [/code]\n\nPlease consider leaving a like and adding the mod to your favorites to support my work!\n",
+		"description": "Tired of searching for the right item in an inventory full of various mods? There's a solution for you.\nJust look at the required block and enter the [b]/get[/b] command into the chat and it will instantly appear in your active hotbar slot.\n\n[h1] Why not the middle mouse button? Scrap Mechanic API doesn't support keybindings for mods, but if they add support for them in the future, I'll definitely implement it. [/h1]\n\n[code] [h1] [b]FAQ[/b] [/h1]\n[olist]\n    [*]This mod adds the function of obtaining the required block without opening the inventory (like the middle mouse button in Minecraft).\n    [*]Additional hotbar pages can be selected by entering their number in the command: [b]/get 1/2/3[/b]. (1-st page by default)\n[/olist] [/code]\n\n[code] [h1] [b]Skill Issues[/b] [/h1]\n[olist]\n    [*]This mod doesn't work in vanilla Survival Mode, but works with other Custom Games.\n[/olist] [/code]\n\nPlease consider leaving a like and adding the mod to your favorites to support my work!",
 		"fileId": 3002663600,
 		"localId": "756d4f03-2e86-4f5b-a425-20259568eff3",
 		"name": "Middle Mouse Feature from Minecraft",
@@ -37739,7 +37733,7 @@
 	"cd85eacc-f183-4da6-b8fd-d096ee1cb18e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "For mod makers, You can make mods more easier and much quicker. It'll make some things more better and efficient. \r\n\r\nHere are the items:\r\n[list]\r\n[*]Mod Editor - The orange handbook that would be a modder's favorite tool for naming items and crafting recipes.\r\n\r\n[*]Super Interactor - A modder's debugging tool. You can use this to reconfigure some things into your mod.\r\n\r\n[*]Sledge Destroyer - A sledge hammer that's capable of destroying anything.\r\n\r\n[*]The Manipulator - The tool that can serve as commands. In fact, ALL tools requires admin access (Not necessarily for this tool, but non-admins have access to a few commands), and this tool lets the host set temporary admin powers.\r\n\r\n[*]Creation Binder - You can pick up creations and carry a creation around. In case if the creation you're carrying acting so crazy because of your mod item, then this is for you.\r\n\r\n[*]Quantom Chest - This chest allows you to access containers set by the Super Interactor.\r\n[/list]",
+		"description": "For mod makers, You can make mods more easier and much quicker. It'll make some things more better and efficient. \n\nHere are the items:\n[list]\n[*]Mod Editor - The orange handbook that would be a modder's favorite tool for naming items and crafting recipes.\n\n[*]Super Interactor - A modder's debugging tool. You can use this to reconfigure some things into your mod.\n\n[*]Sledge Destroyer - A sledge hammer that's capable of destroying anything.\n\n[*]The Manipulator - The tool that can serve as commands. In fact, ALL tools requires admin access (Not necessarily for this tool, but non-admins have access to a few commands), and this tool lets the host set temporary admin powers.\n\n[*]Creation Binder - You can pick up creations and carry a creation around. In case if the creation you're carrying acting so crazy because of your mod item, then this is for you.\n\n[*]Quantom Chest - This chest allows you to access containers set by the Super Interactor.\n[/list]",
 		"fileId": 3172185380,
 		"localId": "cd85eacc-f183-4da6-b8fd-d096ee1cb18e",
 		"name": "Mod Utility Tools",
@@ -39941,5 +39935,15 @@
 		"name": "bedwars factory",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"9a70af57-f82b-4daa-9acd-7bdcc9a1eb79": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3319738533,
+		"localId": "9a70af57-f82b-4daa-9acd-7bdcc9a1eb79",
+		"name": "More Part",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
