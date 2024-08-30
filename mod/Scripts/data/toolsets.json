@@ -4922,11 +4922,14 @@
 	},
 	"64a2ec9b-a44c-49ba-ae40-7ee2bb6929af": {
 		"$CONTENT_64a2ec9b-a44c-49ba-ae40-7ee2bb6929af/Tools/Database/ToolSets/flares.toolset": [
+			"1cd32f21-5fe1-7bae-865b-c0c5440253e7",
 			"1cd32f21-5fe1-7bae-865b-c0c5440253e5",
 			"1cd32f21-5fe1-7bae-865b-c0c5440253e6",
-			"1cd32f21-5fe1-7bae-865b-c0c5440253e7",
 			"1cd32f21-5fe1-7bae-865b-c0c5440253e8",
-			"1cd32f21-5fe1-7bae-865b-c0c5440253e9"
+			"1cd32f21-5fe1-7bae-865b-c0c5440253e9",
+			"1cd32f21-5fe1-7bae-865b-c0c544020000",
+			"1cd32f21-5fe1-7bae-865b-c0c5440253ea",
+			"1cd32f21-5fe1-7bae-865b-c0c5440253eb"
 		]
 	},
 	"d19a2bc2-27e0-41ea-bfce-000398e10de6": {},
