@@ -39617,7 +39617,7 @@
 	"f471581b-95cb-42ce-8841-5a239b545ce7": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "",
+		"description": "1x1 贴纸",
 		"fileId": 3309737368,
 		"localId": "f471581b-95cb-42ce-8841-5a239b545ce7",
 		"name": "STI",
@@ -39928,8 +39928,8 @@
 	},
 	"62bf677a-9eed-4a4e-b637-1d7bca07544e": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "original https://steamcommunity.com/sharedfiles/filedetails/?id=2870930089&searchtext=bed",
+		"custom_icons": true,
+		"description": "original https://steamcommunity.com/sharedfiles/filedetails/?id=2870930089&searchtext=bed\r\nupdates [eng]\r\n+4 new maps\r\n+new crafts\r\nобновы [рус]\r\n+4 новых карты\r\n+новые крафты",
 		"fileId": 3318884865,
 		"localId": "62bf677a-9eed-4a4e-b637-1d7bca07544e",
 		"name": "bedwars factory",
