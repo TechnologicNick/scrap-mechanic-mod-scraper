@@ -39984,7 +39984,7 @@
 	"6b7b8243-71c8-4613-8328-93e923a1537f": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "A small mod adding some blocks from the RBMK-1000 nuclear reactor.\n\nFeel free to comment if you want something to be added!",
+		"description": "A small mod adding some blocks from the RBMK-1000 nuclear reactor.\n\nFeel free to comment if you want something to be added!\n\n\n\nThe current list of blocks is:\n\nGraphite Block\n\nFuel Rod Cover\n\nControl Rod Cover in 4 colors.",
 		"fileId": 3323302575,
 		"localId": "6b7b8243-71c8-4613-8328-93e923a1537f",
 		"name": "RBMK-1000 Reactor Parts",
