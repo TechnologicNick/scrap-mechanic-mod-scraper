@@ -39990,5 +39990,13 @@
 		"name": "RBMK-1000 Reactor Parts",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"a37163d0-d09f-4df3-b630-2c3f11239aca": {
+		"description": "This mod doesn't have a description",
+		"fileId": 3323979746,
+		"localId": "a37163d0-d09f-4df3-b630-2c3f11239aca",
+		"name": "Nicos Mod",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
