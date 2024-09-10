@@ -34418,13 +34418,8 @@
 	"756d4f03-2e86-4f5b-a425-20259568eff3": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2504530003,
-				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
-			}
-		],
-		"description": "Tired of searching for the right item in an inventory full of various mods? There's a solution for you.\nJust look at the required block and enter the [b]/get[/b] command into the chat and it will instantly appear in your active hotbar slot.\n\n[h1] Why not the middle mouse button? Scrap Mechanic API doesn't support keybindings for mods, but if they add support for them in the future, I'll definitely implement it. [/h1]\n\n[code] [h1] [b]FAQ[/b] [/h1]\n[olist]\n    [*]This mod adds the function of obtaining the required block without opening the inventory (like the middle mouse button in Minecraft).\n    [*]Additional hotbar pages can be selected by entering their number in the command: [b]get 1/2/3[/b]. (1-st page by default)\n[/olist] [/code]\n\n[code] [h1] [b]Skill Issues[/b] [/h1]\n[olist]\n    [*]This mod doesn't work in vanilla Survival Mode, but works with other Custom Games.\n[/olist] [/code]\n\nPlease consider leaving a like and adding the mod to your favorites to support my work!\n",
+		"dependencies": [],
+		"description": "Tired of searching for the required block in an inventory full of mods? There's a solution for you.\r\nJust look at the required block and enter [b]/get[/b] command into the chat and it will appear in your active hotbar slot.\r\n\r\n[h1] Note: You can make a macro on the middle mouse button to automate command. [/h1]\r\n\r\n[code] [h1] [b]FAQ[/b] [/h1]\r\n[olist]\r\n    [*]This mod adds the feature of obtaining the required block without opening the inventory (similar to the middle mouse button in Minecraft).\r\n    [*]Additional hotbar pages can be selected by entering their number in the command: /get [b]1/2/3[/b].\r\n[/olist] [/code]\r\n\r\n[code] [h1] [b]Known Issues[/b] [/h1]\r\n[olist]\r\n    [*]This mod doesn't work in vanilla Survival Mode, but works with other Custom Games.\r\n[/olist] [/code]\r\n\r\nPlease consider leaving a like and adding the mod to your favorites to support my work!\r\n",
 		"fileId": 3002663600,
 		"localId": "756d4f03-2e86-4f5b-a425-20259568eff3",
 		"name": "Middle Mouse Feature from Minecraft",
@@ -39658,7 +39653,7 @@
 	"1e4c13ef-a2d2-48b2-95a3-d57f42973443": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": " finaly i fixed it. Have you wanted more then survival additions but there was no mod adding that well now there is let me intreduse you to more_survival_additions. This mod add new tiles, golf assets and more in the future. no modded craftbot yet. and a new biome desert is repleced with scrap yard now this is just a test  dont recomend making whole journey yet updated mine,desroyed warehouse and ship wreck. Tell me in the comments what i should add/remove not garuanted that i will have scarpyard for very long just a test plus i fixed the cliff thingy i just removed the flatten node in the tiles if the dev wanted to know.",
+		"description": " finaly i fixed it. Have you wanted more then survival additions but there was no mod adding that well now there is let me intreduse you to more_survival_additions. This mod add new tiles, golf assets and more in the future. no modded craftbot yet. and a new biome desert is repleced with scrap yard now this is just a small project but i will update the mod sometimes  recomend making journey next update when i finish the mod. updated Basement,maze and ship wreck. Basement is swaped with ruinruble. maze with a golf place.\n\nI also added collectables golf balls from scrap mechanic golf and swaped maze with a golf place there you kan find the first golf ball. The balls are skatterd around ruincity,Meteor,Maze and the last ones is a secret.\n\n I can officaly tell you that scarpyard is a part of the mod. I fixed the cliff thingy I just removed the flatten node in the tiles if the dev wanted to know. Tell me in the comments what i should add/remove and tell me bugs,gltiches and errors",
 		"fileId": 3310840049,
 		"localId": "1e4c13ef-a2d2-48b2-95a3-d57f42973443",
 		"name": "more_survival_additions",
@@ -39940,13 +39935,7 @@
 	"62bf677a-9eed-4a4e-b637-1d7bca07544e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 3322258670,
-				"localId": "15bf7df8-24cd-4b36-9286-9df75097edf1",
-				"name": "bomb 1x1 exclusive"
-			}
-		],
+		"dependencies": null,
 		"description": "original https://steamcommunity.com/sharedfiles/filedetails/?id=2870930089&searchtext=bed\r\nupdates [eng]\r\n+4 new maps\r\n+new crafts\r\nобновы [рус]\r\n+4 новых карты\r\n+новые крафты",
 		"fileId": 3318884865,
 		"localId": "62bf677a-9eed-4a4e-b637-1d7bca07544e",
