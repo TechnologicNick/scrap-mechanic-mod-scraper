@@ -4983,7 +4983,9 @@
 	"792c2d62-522c-4283-a658-249bc14ac08a": {},
 	"62bf677a-9eed-4a4e-b637-1d7bca07544e": {
 		"$CONTENT_62bf677a-9eed-4a4e-b637-1d7bca07544e/Tools/Database/ToolSets/tools.toolset": [
-			"e202d6a5-6def-440f-aaa1-e2d890d1deed"
+			"e202d6a5-6def-440f-aaa1-e2d890d1deed",
+			"b70f7c98-8f4b-4824-9a6f-7a7c93b1a84c",
+			"a6113860-f4d4-42df-b8f9-129efdbaf777"
 		],
 		"$CONTENT_62bf677a-9eed-4a4e-b637-1d7bca07544e/Tools/Database/ToolSets/fireaxe.toolset": [
 			"e75ccce6-813f-4c4b-ba17-ae275472a386"
