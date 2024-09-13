@@ -36757,7 +36757,7 @@
 		"description": "[Eng]\nSComputers power toys is an add-on for SComputers that adds various unbalanced items to the game.\n\n[Rus]\nSComputers power toys - это дополнение для SComputers, которые добавляет в игру различные имбалансные предметы.",
 		"fileId": 3131135318,
 		"localId": "759d156c-b59c-4db8-9d64-3eef7a91d33c",
-		"name": "SComputers addon - power toys",
+		"name": "power toys [SComputers addon]",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -40059,6 +40059,23 @@
 		"fileId": 3327429421,
 		"localId": "59ba623f-db54-46d1-8199-cfc3556fc1cf",
 		"name": "Fants Weight",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"4709ffab-26ed-43b0-97d2-a60ac85a942f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2949350596,
+				"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
+				"name": "SComputers [Fork]"
+			}
+		],
+		"description": "saves data to the world and not to a block.\nthis approach allows you to save much more data.\nfiles are saved after re-entering the world, but if you move the creation to another world, there will be a different set of files.\nhowever, within the same world, you can save your creation to blueprint and load it from blueprint, everything will be fine in the files.\nonly the UUID of the file system that is stored inside the world is stored inside the block itself.\nif you try to spawn two disks with the same UUID from the same blueprint, then all subsequent disks will change their UUID to a random one and copy the file system to a new UUID to avoid disk conflict.\nhowever, you will not be able to use these disks to transfer files through the workshop.",
+		"fileId": 3329906376,
+		"localId": "4709ffab-26ed-43b0-97d2-a60ac85a942f",
+		"name": "world disks [SComputers addon]",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
