@@ -40078,5 +40078,15 @@
 		"name": "world disks [SComputers addon]",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"ffa1992a-5df3-456d-923d-a7e88ba61c0f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Additional Parts by Ziom",
+		"fileId": 3307318391,
+		"localId": "ffa1992a-5df3-456d-923d-a7e88ba61c0f",
+		"name": "Futrzanki",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
