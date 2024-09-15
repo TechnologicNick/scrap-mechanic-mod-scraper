@@ -211,7 +211,10 @@
 	"94c0daa1-3663-4114-9601-adc48df6715a": {},
 	"35e245c2-fede-4500-8211-b605ed329cfb": {},
 	"ecf6ca62-2989-455c-a9c6-be32f3ab0976": {
-		"$CONTENT_ecf6ca62-2989-455c-a9c6-be32f3ab0976/Harvestables/Database/HarvestableSets/example.harvestableset": []
+		"$CONTENT_ecf6ca62-2989-455c-a9c6-be32f3ab0976/Harvestables/Database/HarvestableSets/lootcrates.harvestableset": [
+			"b8eb68ca-25a0-47aa-8745-12f2dd13d873",
+			"a6b9fa26-df80-4f5b-9679-418f4567e5ca"
+		]
 	},
 	"a86ddb9a-afb4-4fd8-a6a5-67e23c0f8a65": {},
 	"42b97fa0-de8f-40ac-aaee-f4feeb580997": {
