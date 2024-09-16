@@ -40045,7 +40045,7 @@
 	"c71d4e4e-60ef-4540-9d36-344f4813fe51": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Simple mod that adds 3 recipes that allow you to turn raw stone into metal/scrap metal\r\n\r\nStone (5) --> Cracked Concrete (10)\r\n\r\nCracked Concrete (40) + Water (10) + Chemicals (20) --> Scrap Metal (10)\r\n\r\nCracked Concrete (40) + Water (5) + Chemicals (10) + Ember (1) --> Metal (5)\r\n\r\nI've tried to make it balanced but it's still propably op xd",
+		"description": "Simple mod that adds 3 recipes that allow you to turn raw stone into metal/scrap metal\r\n\r\nStone (5) --> Rubble (10)\r\n\r\nRubble (40) + Water (10) + Chemicals (20) --> Scrap Metal (10)\r\n\r\nRubble (40) + Water (5) + Chemicals (10) + Ember (1) --> Metal (5)\r\n\r\nI've tried to make it balanced but it's still propably op xd\r\n\r\nIf it doesn't show in Craftbot, you need to add recipes manualy to \"...Survival/Mod name\\CraftingRecipes\\craftbot.json\" from \"...\\Steam\\steamapps\\workshop\\content\\387990\\3327376996\\CraftingRecipes\\craftbot.json\" at bottom of the file. There are planty guides on internet how to do it if you struggle :3",
 		"fileId": 3327376996,
 		"localId": "c71d4e4e-60ef-4540-9d36-344f4813fe51",
 		"name": "Stone to Metal Recipes",
