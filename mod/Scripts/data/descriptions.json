@@ -40045,7 +40045,7 @@
 	"c71d4e4e-60ef-4540-9d36-344f4813fe51": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Refining stone to metal recipes",
+		"description": "Simple mod that adds 3 recipes that allow you to turn raw stone into metal/scrap metal\r\n\r\nStone (5) --> Cracked Concrete (10)\r\n\r\nCracked Concrete (40) + Water (10) + Chemicals (20) --> Scrap Metal (10)\r\n\r\nCracked Concrete (40) + Water (5) + Chemicals (10) + Ember (1) --> Metal (5)\r\n\r\nI've tried to make it balanced but it's still propably op xd",
 		"fileId": 3327376996,
 		"localId": "c71d4e4e-60ef-4540-9d36-344f4813fe51",
 		"name": "Stone to Metal Recipes",
