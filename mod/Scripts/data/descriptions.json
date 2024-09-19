@@ -38826,7 +38826,7 @@
 				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
 			}
 		],
-		"description": "[h2]One of the GREATEST Computer Mods out there![/h2]\n\n[hr][/hr]\nScrapComputers is an awesome Computer mod for Scrap Mechanic. There are so many possibilities that you can't even think of! Want to emulate a MOS 6502 CPU? You can do that! Create a Piston Engine Dyno? Why not!\n\n[b]Benefits of using our Computer Mod over others:[/b]\n[list]\n  [*]Easy-To-Use Interface.\n  [*]Everything is documented. (Everything!)\n  [*]Best Display Optimization out there.\n  [*]Fast Lua Virtual Machine (Custom LuaVM)\n[/list]\n\n[b][url=https://scrapcomputers.pages.dev/]Documentation Website[/url][/b]\n\n[quote] If you have spotted any bugs in ScrapComputers, please report it in the comments or in this [url=https://discord.gg/6r46PkYr9s] Discord Server[/url]. Thank you![/quote]",
+		"description": "[h2]One of the GREATEST Computer Mods out there![/h2]\r\n\r\n[hr][/hr]\r\nScrapComputers is an awesome Computer mod for Scrap Mechanic. There are so many possibilities that you can't even think of! Want to emulate a MOS 6502 CPU? You can do that! Create a Piston Engine Dyno? Why not!\r\n\r\n[b]Benefits of using our Computer Mod over others:[/b]\r\n[list]\r\n  [*]Easy-To-Use Interface.\r\n  [*]Everything is documented. (Everything!)\r\n  [*]Best Display Optimization out there.\r\n  [*]Fast Lua Virtual Machine (Custom LuaVM)\r\n[/list]\r\n\r\n[b][url=https://scrapcomputers.saddeststoryevertold.ru/]Documentation Website[/url][/b]\r\n\r\n[quote] If you have spotted any bugs in ScrapComputers, please report it in the comments or in this [url=https://discord.gg/6r46PkYr9s] Discord Server[/url]. Thank you![/quote]",
 		"fileId": 3269912087,
 		"localId": "632be32f-6ebd-414e-a061-d45906ae4dc6",
 		"name": "ScrapComputers",
@@ -39194,7 +39194,7 @@
 				"localId": "632be32f-6ebd-414e-a061-d45906ae4dc6"
 			}
 		],
-		"description": "[h1] This mod adds some new items to the game, which you can use with ScrapComputers! (not all items, of course) [/h1]\r\n\r\n[h2] This mod contains: [/h2]\r\n[list]\r\n    [*][b] MFD's buttons* [/b] – Turns your display into a multifunctional display (MFD). Create a real fighter pilot cockpit for yourself :)\r\n    [*][b] Small, Medium and Large Inventories [/b] – You can store various items in them.\r\n    [*][b] Paintable signs [/b] – Draw pixel arts with paintable signs. Available in two versions: one with Paint Tool support and one without.\r\n    [*]And more coming soon...\r\n[/list]\r\n\r\n[h2] Planned to add: [/h2]\r\n[list]\r\n    [*][b] Lockable button* [/b]\r\n    [*][b] Throttle lever* [/b]\r\n    [*][b] Encoder* [/b]\r\n    [*][b] Key button* [/b]\r\n    [*][b] Keycards (aka NFC)* [/b]\r\n    [*][b] Clock* [/b]\r\n    [*][b] Dial* [/b]\r\n    [*][b] Gauge display* [/b]\r\n[/list]\r\n\r\n[i]* – supports ScrapComputers [/i]\r\n[b] Leave your ideas in the comments on what you would like to add to this mod. [/b]\r\n\r\n[url=https://scrapcomputers.saddeststoryevertold.ru/en/] Documentation [/url]\r\n\r\n[h1] Contributors: [/h1]\r\n[list][*]MistGo – LUA Scripts, 3D Models.[*]vPlay (aka oxotaenjoyer) – chief beer analyst\r\n[/list]\r\n\r\nPlease consider leaving a like and adding this mod and the original mod to your favorites to support us! Thank you!\r\n",
+		"description": "[h1] This mod adds some new items to the game, which you can use with ScrapComputers! (not all items, of course) [/h1]\r\n\r\n[h2] This mod contains: [/h2]\r\n[list]\r\n    [*][b] MFD's* [/b] – Turns your display into a multifunctional display (MFD). Create a real fighter pilot cockpit for yourself :)\r\n    [*][b] Small, Medium and Large Inventories [/b] – You can store various items in them.\r\n    [*]And more coming soon...\r\n[/list]\r\n\r\n[h2] Planned to add: [/h2]\r\n[list]\r\n    [*][b] Throttle lever* [/b]\r\n    [*][b] Dial* [/b]\r\n    [*][b] Gauge display* [/b]\r\n[/list]\r\n\r\n[i]* – supports ScrapComputers [/i]\r\n\r\n[url=https://scrapcomputers.saddeststoryevertold.ru/] ENG Documentation [/url]\r\n[url=https://scrapcomputers.saddeststoryevertold.ru/ru/] RU Documentation [/url]\r\n\r\nPlease consider leaving a like and adding this mod and the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3269912087] ScrapComputers [/url] to your favorites to support us! Thank you!\r\n",
 		"fileId": 3292464916,
 		"localId": "db159a98-ca42-407a-aa22-f862ba4b3749",
 		"name": "Scrapworks – ScrapComputers Addon",
@@ -40096,6 +40096,26 @@
 		"fileId": 3330973286,
 		"localId": "da0de740-71da-40f1-9a9c-58d0b816535f",
 		"name": "Explosive Blocks And Parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"98305958-2a88-4e07-8365-410950ffdecd": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 3333517353,
+		"localId": "98305958-2a88-4e07-8365-410950ffdecd",
+		"name": "Linked Vanilla Fuel Tanks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"2ce62905-0549-4887-9d09-0a97f3f0a904": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3333536896,
+		"localId": "2ce62905-0549-4887-9d09-0a97f3f0a904",
+		"name": "AnreeNeos Biketank",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

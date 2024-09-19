@@ -5021,5 +5021,11 @@
 	"59ba623f-db54-46d1-8199-cfc3556fc1cf": {},
 	"4709ffab-26ed-43b0-97d2-a60ac85a942f": {},
 	"ffa1992a-5df3-456d-923d-a7e88ba61c0f": {},
-	"da0de740-71da-40f1-9a9c-58d0b816535f": {}
+	"da0de740-71da-40f1-9a9c-58d0b816535f": {},
+	"98305958-2a88-4e07-8365-410950ffdecd": {
+		"$CONTENT_98305958-2a88-4e07-8365-410950ffdecd/Tools/Database/ToolSets/LVFT.toolset": [
+			"59e8049b-a0f2-4aac-83a8-ed72cd8eff40"
+		]
+	},
+	"2ce62905-0549-4887-9d09-0a97f3f0a904": {}
 }
