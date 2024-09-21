@@ -5027,5 +5027,11 @@
 			"59e8049b-a0f2-4aac-83a8-ed72cd8eff40"
 		]
 	},
-	"2ce62905-0549-4887-9d09-0a97f3f0a904": {}
+	"2ce62905-0549-4887-9d09-0a97f3f0a904": {},
+	"e0eadd62-dac7-4f41-82ce-400781563df5": {},
+	"24f037d7-ede5-4fa8-9c85-411ada3edea6": {
+		"$CONTENT_24f037d7-ede5-4fa8-9c85-411ada3edea6/Tools/Database/ToolSets/fvr.toolset": [
+			"e69a8715-5666-4c46-9cec-03b66b344b3c"
+		]
+	}
 }
