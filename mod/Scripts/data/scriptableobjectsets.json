@@ -924,5 +924,8 @@
 			"cb5871ae-c677-4480-94e9-31d16899d093"
 		]
 	},
-	"506bb974-03de-4f25-a7f7-f16dbd9f4311": {}
+	"506bb974-03de-4f25-a7f7-f16dbd9f4311": {},
+	"6be7c4b1-5d41-4d64-883d-79d64e60d64c": {
+		"$CONTENT_6be7c4b1-5d41-4d64-883d-79d64e60d64c/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	}
 }

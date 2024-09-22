@@ -40148,5 +40148,15 @@
 		"name": "OLD but REFRESHED GUI (before 0.3.5)",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"6be7c4b1-5d41-4d64-883d-79d64e60d64c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "gives you creative settings and more",
+		"fileId": 3335438399,
+		"localId": "6be7c4b1-5d41-4d64-883d-79d64e60d64c",
+		"name": "creative",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
