@@ -34419,7 +34419,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": [],
-		"description": "Tired of searching for the required block in an inventory full of mods? There's a solution for you.\r\nJust look at the required block and enter [b]/get[/b] command into the chat and it will appear in your active hotbar slot.\r\n\r\n[h1] Note: You can make a macro on the middle mouse button to automate command. [/h1]\r\n\r\n[code] [h1] [b]FAQ[/b] [/h1]\r\n[olist]\r\n    [*]This mod adds the feature of obtaining the required block without opening the inventory (similar to the middle mouse button in Minecraft).\r\n    [*]Additional hotbar pages can be selected by entering their number in the command: /get [b]1/2/3[/b].\r\n[/olist] [/code]\r\n\r\n[code] [h1] [b]Known Issues[/b] [/h1]\r\n[olist]\r\n    [*]This mod doesn't work in vanilla Survival Mode, but works with other Custom Games.\r\n[/olist] [/code]\r\n\r\nPlease consider leaving a like and adding the mod to your favorites to support my work!\r\n",
+		"description": "Tired of searching for the required block in an inventory full of mods? There's a solution for you.\nJust look at the required block and enter [b]/get[/b] command into the chat and it will appear in your active hotbar slot.\n\n[h1] Note: You can make a macro on the middle mouse button to automate command. [/h1]\n\n[code] [h1] [b]FAQ[/b] [/h1]\n[olist]\n    [*]This mod adds the feature of obtaining the required block without opening the inventory (similar to the middle mouse button in Minecraft).\n    [*]Additional hotbar pages can be selected by entering their number in the command. Example: /get [b]2[/b].\n[/olist] [/code]\n\n[code] [h1] [b]Known Issues[/b] [/h1]\n[olist]\n    [*]This mod doesn't work in vanilla Survival Mode.\n[/olist] [/code]\n\nPlease consider leaving a like and adding the mod to your favorites to support my work!\n",
 		"fileId": 3002663600,
 		"localId": "756d4f03-2e86-4f5b-a425-20259568eff3",
 		"name": "Middle Mouse Feature from Minecraft",
@@ -40166,6 +40166,26 @@
 		"fileId": 3332962807,
 		"localId": "f4092252-3b8a-4924-b1f5-080c92130eb9",
 		"name": "Animation Test",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"06a6c298-82af-4982-ae00-eb01b72d9a9d": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 3336388383,
+		"localId": "06a6c298-82af-4982-ae00-eb01b72d9a9d",
+		"name": "More Camera Zoom",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"5e2e42ae-33f0-41f9-adbd-dce5a51274cd": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "contains three blocks for displaying messages to all players.\nyou enter the message yourself, which will be displayed when a logical signal is given.\n\ntypes of output blocks:\n* alert (displays a message from the top of the screen)\n* chat\n* console (outputs a message to the game's debugging console (launch option -dev))",
+		"fileId": 3336418301,
+		"localId": "5e2e42ae-33f0-41f9-adbd-dce5a51274cd",
+		"name": "alert mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

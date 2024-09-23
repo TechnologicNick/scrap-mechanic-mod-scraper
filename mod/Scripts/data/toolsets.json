@@ -5037,5 +5037,11 @@
 	"6be7c4b1-5d41-4d64-883d-79d64e60d64c": {
 		"$CONTENT_6be7c4b1-5d41-4d64-883d-79d64e60d64c/Tools/Database/ToolSets/example.toolset": []
 	},
-	"f4092252-3b8a-4924-b1f5-080c92130eb9": {}
+	"f4092252-3b8a-4924-b1f5-080c92130eb9": {},
+	"06a6c298-82af-4982-ae00-eb01b72d9a9d": {
+		"$CONTENT_06a6c298-82af-4982-ae00-eb01b72d9a9d/Tools/Database/ToolSets/MCZ.toolset": [
+			"ac06ecfc-71ce-4c91-ba85-e09300b3b6aa"
+		]
+	},
+	"5e2e42ae-33f0-41f9-adbd-dce5a51274cd": {}
 }
