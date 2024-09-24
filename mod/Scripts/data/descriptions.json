@@ -33711,7 +33711,7 @@
 	"630b3c35-59b4-4094-a4fb-2c2b333f0a55": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Military Outfit Mod 5.0\n(Corporation VS Outlaws [Full Update])\n\nFor everyone who asked to make a custom game - this is technically not possible\nДля всех кто просил сделать кастом гейм - это технически не возможно\n\n\nENG\nHOW TO INSTALL:\n1.\nGoto:\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2976697730\n\n2.\ncopy ALL FOLDERS into and REPLACE the existing Folders.\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\"\n\n3.\nDONE\n\nYou need epic garment box to unlock Military Outfit.\nYou also can get the \"Backpacks Remover\" from common garment box.\n-------------------------------------------------------------------------------\nRUS\nКАК УСТАНОВИТЬ:\n1.\nПерейдите в:\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2976697730\n2.\nКопируйте все папки в \"...\\Steam\\SteamApps\\common\\Scrap Mechanic\" и нажмите \"заменить все файлы\",\n3. \nГотово\n\nЧто бы разблокировать Военную одежду вам нужны Желтые Ящики с одеждой.\nВы также можете получить \"Удалитель Рюкзаков\" из Зелёного Ящика с одеждой.\n\nSpecial Thanks to TechnologicNick for help\n\nDiscord: https://discord.gg/TJePhfsgzR",
+		"description": "Military Outfit Mod 5.1\n(Tiny Bug Fix)\n\nFor everyone who asked to make a custom game - this is technically not possible\nДля всех кто просил сделать кастом гейм - это технически не возможно\n\n\nENG\nHOW TO INSTALL:\n1.\nGoto:\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2976697730\n\n2.\ncopy ALL FOLDERS into and REPLACE the existing Folders.\n\"...\\Steam\\SteamApps\\common\\Scrap Mechanic\"\n\n3.\nDONE\n\nYou need epic garment box to unlock Military Outfit.\nYou also can get the \"Backpacks Remover\" from common garment box.\n-------------------------------------------------------------------------------\nRUS\nКАК УСТАНОВИТЬ:\n1.\nПерейдите в:\n...\\Steam\\SteamApps\\workshop\\content\\387990\\2976697730\n2.\nКопируйте все папки в \"...\\Steam\\SteamApps\\common\\Scrap Mechanic\" и нажмите \"заменить все файлы\",\n3. \nГотово\n\nЧто бы разблокировать Военную одежду вам нужны Желтые Ящики с одеждой.\nВы также можете получить \"Удалитель Рюкзаков\" из Зелёного Ящика с одеждой.\n\nSpecial Thanks to TechnologicNick for help\n\nDiscord: https://discord.gg/TJePhfsgzR",
 		"fileId": 2976697730,
 		"localId": "630b3c35-59b4-4094-a4fb-2c2b333f0a55",
 		"name": "Military Outfit Mod",
@@ -40186,6 +40186,26 @@
 		"fileId": 3336418301,
 		"localId": "5e2e42ae-33f0-41f9-adbd-dce5a51274cd",
 		"name": "alert mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d3c33029-c391-4901-8c37-585c61a8c2a7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "How to use mod\n\nConnect controller then run \"funnysmcontroller.py\" in files then have fun!",
+		"fileId": 3334013968,
+		"localId": "d3c33029-c391-4901-8c37-585c61a8c2a7",
+		"name": "Xbox Controller Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"65f13599-6f66-4fca-a7e3-5f355ea2557e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A very lightweight delag mod for people looking to host scrap mechanic with a lot of people.",
+		"fileId": 3336876759,
+		"localId": "65f13599-6f66-4fca-a7e3-5f355ea2557e",
+		"name": "AutoClear",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

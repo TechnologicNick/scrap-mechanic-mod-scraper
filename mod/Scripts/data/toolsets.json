@@ -5043,5 +5043,11 @@
 			"ac06ecfc-71ce-4c91-ba85-e09300b3b6aa"
 		]
 	},
-	"5e2e42ae-33f0-41f9-adbd-dce5a51274cd": {}
+	"5e2e42ae-33f0-41f9-adbd-dce5a51274cd": {},
+	"d3c33029-c391-4901-8c37-585c61a8c2a7": {},
+	"65f13599-6f66-4fca-a7e3-5f355ea2557e": {
+		"$CONTENT_65f13599-6f66-4fca-a7e3-5f355ea2557e/Tools/Database/ToolSets/tools.toolset": [
+			"00837cb6-7d59-4c70-921f-f5a3521d5d89"
+		]
+	}
 }
