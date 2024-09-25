@@ -5049,5 +5049,10 @@
 		"$CONTENT_65f13599-6f66-4fca-a7e3-5f355ea2557e/Tools/Database/ToolSets/tools.toolset": [
 			"00837cb6-7d59-4c70-921f-f5a3521d5d89"
 		]
+	},
+	"05dca1a3-84d0-443b-a9ae-f1fa8d70f0d1": {
+		"$CONTENT_05dca1a3-84d0-443b-a9ae-f1fa8d70f0d1/Tools/Database/ToolSets/example.toolset": [
+			"5256fbb3-d7ec-43f4-947b-e59564359e47"
+		]
 	}
 }
