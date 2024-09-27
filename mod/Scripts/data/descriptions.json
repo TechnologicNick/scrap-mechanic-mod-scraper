@@ -34419,7 +34419,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": [],
-		"description": "Tired of searching for the required block in an inventory full of mods? There's a solution for you.\nJust look at the required block and enter [b]/get[/b] command into the chat and it will appear in your active hotbar slot.\n\n[h1] Note: You can make a macro on the middle mouse button to automate command. [/h1]\n\n[code] [h1] [b]FAQ[/b] [/h1]\n[olist]\n    [*]This mod adds the feature of obtaining the required block without opening the inventory (similar to the middle mouse button in Minecraft).\n    [*]Additional hotbar pages can be selected by entering their number in the command. Example: /get [b]2[/b].\n[/olist] [/code]\n\n[code] [h1] [b]Known Issues[/b] [/h1]\n[olist]\n    [*]This mod doesn't work in vanilla Survival Mode.\n[/olist] [/code]\n\nPlease consider leaving a like and adding the mod to your favorites to support my work!\n",
+		"description": "Tired of searching for the required block in an inventory full of mods? There's a solution for you.\r\nJust look at the required block and enter [b]/get[/b] command into the chat and it will appear in your active hotbar slot.\r\n\r\n[code] [h1] [b]FAQ[/b] [/h1]\r\n[olist]\r\n    [*]This mod adds the feature of obtaining the required block without opening the inventory (like in Minecraft).\r\n    [*]Additional hotbar pages can be selected by entering their number in the command. Example: /get [b]2[/b].\r\n[/olist] [/code]\r\n\r\nPlease consider leaving a like and adding the mod to your favorites to support my work!",
 		"fileId": 3002663600,
 		"localId": "756d4f03-2e86-4f5b-a425-20259568eff3",
 		"name": "Middle Mouse Feature from Minecraft",
@@ -40236,6 +40236,16 @@
 		"fileId": 3337744906,
 		"localId": "f8df5c4b-a095-469b-9369-c7eb593f6f52",
 		"name": "Carry++",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"02e89d51-e329-4315-8c61-9bf2bf835699": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3338099245,
+		"localId": "02e89d51-e329-4315-8c61-9bf2bf835699",
+		"name": "PVA Addition - TheHell",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
