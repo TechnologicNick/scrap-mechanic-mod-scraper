@@ -16392,8 +16392,8 @@
 	"61dfaa2e-041d-4e6b-82a1-54185a7d0cfe": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "allows you to place the lift ANYWHERE\r\ninfinite reach (not length!)\r\n\r\ncant use a creation with keybinds:\r\nforce build button: go down\r\nreload button: go up\r\n\r\n[h1]discord.gg/6r46PkYr9s[/h1]",
-		"fileId": 2844836154,
+		"description": "allows you to place the lift ANYWHERE\ninfinite reach (not length!)\n\ncant use a creation with keybinds:\nforce build button: go down\nreload button: go up\n\n[h1]discord.gg/6r46PkYr9s[/h1]\n\nI hate the devs",
+		"fileId": 3340222404,
 		"localId": "61dfaa2e-041d-4e6b-82a1-54185a7d0cfe",
 		"name": "Better Lift",
 		"type": "Blocks and Parts",
@@ -40232,7 +40232,7 @@
 	"f8df5c4b-a095-469b-9369-c7eb593f6f52": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h2]Expands the Carry Tool and lets you  carry Any Item![/h2]\r\nMove your parts without any data loss! Anywhere!\r\n\r\n[hr][/hr]\r\n[h1]Important![/h1]\r\n[list]\r\n[*]This is [b]NOT[/b] a file mod!\r\n[*]Do [b]NOT[/b] exit the save while carrying an interactable, it will lose its data!\r\n[*]This mod is compatible with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3113900342]Crashlander[/url] and most Gamemodes.\r\n[*]This mod adds one new tool (Carry-All) which can be crafter in the Craftbot (and the Workbench in Crashlander) in Compatible custom games.\r\n[*]If you use this mod in your blueprint and publish it, people without this mod [b]WILL[/b] be able to spawn it in and enjoy the blueprint fully!\r\n[*]Parts may sometimes change color, if that ever happens just repaint it, it's a weird issue i can't seem to be able to fix.\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h2]Support:[/h2]\r\n[*]Rate, Favorite, Share and Award!\r\n[img]https://fagiano0.github.io/CrashlanderAPI/images/workshop/ratefavourite.gif[/img]",
+		"description": "[h2]Expands the Carry Tool and lets you  carry Any Item![/h2]\r\nMove your parts without any data loss! Anywhere!\r\n\r\n[hr][/hr]\r\n[h1]Important![/h1]\r\n[list]\r\n[*]This is [b]NOT[/b] a file mod!\r\n[*]Do [b]NOT[/b] exit the save while carrying an interactable, it will lose its data!\r\n[*]This mod is compatible with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3113900342]Crashlander[/url] and most Gamemodes.\r\n[*]This mod adds one new tool (Carry-All) which can be crafted in the Craftbot (and the Workbench in Crashlander) in Compatible custom games.\r\n[*]If you use this mod in your blueprint and publish it, people without this mod [b]WILL[/b] be able to spawn it in and enjoy the blueprint fully!\r\n[*]Parts may sometimes change color, if that ever happens just repaint it, it's a weird issue i can't seem to be able to fix.\r\n[*]Placing carried interactables onto a creation that was on the Lift will make it detach from it (probably won't fix)\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h2]Support:[/h2]\r\n[*]Rate, Favorite, Share and Award!\r\n[img]https://fagiano0.github.io/CrashlanderAPI/images/workshop/ratefavourite.gif[/img]",
 		"fileId": 3337744906,
 		"localId": "f8df5c4b-a095-469b-9369-c7eb593f6f52",
 		"name": "Carry++",
@@ -40242,10 +40242,20 @@
 	"02e89d51-e329-4315-8c61-9bf2bf835699": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "This mod add parts from the B27 set. \r\n\r\nYou need the 'PVA - Player Visual Attachments' mod by Fant to attach the parts to your character: https://steamcommunity.com/sharedfiles/filedetails/?id=2954491805\r\n\r\nYou don't want to bother yourself putting every parts in place correctly ? Here is the link to the .json : https://drive.google.com/file/d/1Eb_OzzhoPTWbiwvH4gdedGJuybQpzVc4/view?usp=sharing , \r\nto install it just drag it to ...\\Steam\\steamapps\\workshop\\content\\387990\\2954491805\\Scripts\\Outfits\\\r\n\r\nHave fun !\r\n",
 		"fileId": 3338099245,
 		"localId": "02e89d51-e329-4315-8c61-9bf2bf835699",
 		"name": "PVA Addition - TheHell",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"0d079c85-2b7a-4424-8d1b-5a9da6a4d59e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3340095265,
+		"localId": "0d079c85-2b7a-4424-8d1b-5a9da6a4d59e",
+		"name": "Logic Gate Visibility Fix",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

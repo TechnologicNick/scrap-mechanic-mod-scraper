@@ -5062,5 +5062,11 @@
 			"ac7a14cf-1507-47b1-ae1f-52a74cbd3423"
 		]
 	},
-	"02e89d51-e329-4315-8c61-9bf2bf835699": {}
+	"02e89d51-e329-4315-8c61-9bf2bf835699": {
+		"$CONTENT_02e89d51-e329-4315-8c61-9bf2bf835699/Tools/Database/ToolSets/thehell_tools.toolset": [
+			"9fd1dd08-c1b7-4c78-8f06-590dc3265001",
+			"9fd1dd08-c1b7-4c78-8f06-590dc3265002"
+		]
+	},
+	"0d079c85-2b7a-4424-8d1b-5a9da6a4d59e": {}
 }
