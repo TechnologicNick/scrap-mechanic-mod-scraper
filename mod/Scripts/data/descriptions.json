@@ -12330,7 +12330,9 @@
 		"version": 0
 	},
 	"b86ab123-dc3b-49be-a90a-3c7505c5690f": {
-		"description": "Core Attack - Spawns Wave of Robots that try to Attack it. You must Defeat it. Made by 00Fant\r\n\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Core Attack - Spawns Wave of Robots that try to Attack it. You must Defeat it. Made by 00Fant\r\n\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2787218743,
 		"localId": "b86ab123-dc3b-49be-a90a-3c7505c5690f",
 		"name": "Core Attack",
