@@ -40244,7 +40244,7 @@
 	"02e89d51-e329-4315-8c61-9bf2bf835699": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod add parts from the B27 set. \r\n\r\nYou need the 'PVA - Player Visual Attachments' mod by Fant to attach the parts to your character: https://steamcommunity.com/sharedfiles/filedetails/?id=2954491805\r\n\r\nYou don't want to bother yourself putting every parts in place correctly ? Here is the link to the .json : https://drive.google.com/file/d/1Eb_OzzhoPTWbiwvH4gdedGJuybQpzVc4/view?usp=sharing , \r\nto install it just drag it to ...\\Steam\\steamapps\\workshop\\content\\387990\\2954491805\\Scripts\\Outfits\\\r\n\r\nHave fun !\r\n",
+		"description": "This mod add parts from the B27 set. \r\n\r\nYou need the 'PVA - Player Visual Attachments' mod by Fant to attach the parts to your character: https://steamcommunity.com/sharedfiles/filedetails/?id=2954491805\r\n\r\nYou don't want to bother yourself putting every parts in place correctly ? Here is the link to the .json : https://drive.google.com/file/d/1Eb_OzzhoPTWbiwvH4gdedGJuybQpzVc4/view?usp=sharing , \r\nto install it just drag it to ...\\Steam\\steamapps\\workshop\\content\\387990\\2954491805\\Scripts\\Outfits\\\r\n\r\n(I will check all your suggestions but i can't guarantee i'll add those)\r\n\r\nHave fun !\r\n",
 		"fileId": 3338099245,
 		"localId": "02e89d51-e329-4315-8c61-9bf2bf835699",
 		"name": "PVA Addition - TheHell",
