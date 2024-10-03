@@ -39472,6 +39472,7 @@
 	"ddf48f02-d773-4ff0-b959-3bc451a7a0de": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": null,
 		"description": "Introducing SM: WAILA - the Scrap Mechanic mod to tell you exactly what you're looking at!\n\nSM: WAILA adds a handy hud element that shows info about the object you're looking at. \n\nInspired by the WAILA, Jade and HWYLA Minecraft mods.",
 		"fileId": 3302195129,
 		"localId": "ddf48f02-d773-4ff0-b959-3bc451a7a0de",
