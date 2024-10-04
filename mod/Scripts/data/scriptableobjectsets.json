@@ -927,5 +927,25 @@
 	"506bb974-03de-4f25-a7f7-f16dbd9f4311": {},
 	"6be7c4b1-5d41-4d64-883d-79d64e60d64c": {
 		"$CONTENT_6be7c4b1-5d41-4d64-883d-79d64e60d64c/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"1fcebf9f-669b-4e55-9b51-9bec113f9216": {
+		"$CONTENT_1fcebf9f-669b-4e55-9b51-9bec113f9216/ScriptableObjects/ScriptableObjectSets/managers.sobset": [
+			"c46b4d61-9f79-4f1c-b5d4-5ec4fff2c7b0",
+			"e97b0595-7912-425b-8a60-ea6dbfba4b39",
+			"26ec01d5-6fc8-4088-b06b-25d30dd44309",
+			"6e7f54bb-e54d-46df-920a-bd225d0a9430",
+			"64987a78-5b2b-4267-aeed-3d98dddcf12e",
+			"2474d490-4530-4ff8-9436-ba716a0c665e",
+			"35492036-d286-4b0f-a17c-efa228875c0d",
+			"d0bed7e0-7065-40a5-b246-9f7356856037",
+			"963f193f-cce8-4ed0-a04d-530fd70b230f",
+			"60702ca7-2d19-4d08-81e6-7a3ded53e338",
+			"e4bc2df0-a163-4de5-87e4-119abd5409a4"
+		],
+		"$CONTENT_1fcebf9f-669b-4e55-9b51-9bec113f9216/ScriptableObjects/ScriptableObjectSets/interfaces.sobset": [
+			"aa53c54c-0760-4270-bd77-f54d0c271d19",
+			"e9461cff-2b3e-4351-b5f6-ff67778a4c88",
+			"b0972d5e-f131-4aac-94d8-39ce331fe225"
+		]
 	}
 }
