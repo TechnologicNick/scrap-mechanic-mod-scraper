@@ -365,7 +365,9 @@
 	},
 	"3883e7e9-9073-4258-a916-60d9c783f6e5": {},
 	"0473c5c6-b676-4155-a68f-3386011e762c": {
-		"$CONTENT_0473c5c6-b676-4155-a68f-3386011e762c/Kinematics/Database/KinematicSets/example.kinematicset": []
+		"$CONTENT_0473c5c6-b676-4155-a68f-3386011e762c/Kinematics/Database/KinematicSets/bots.kinematicset": [
+			"d26ff7b3-4162-4c89-9978-447aafca5ad6"
+		]
 	},
 	"cf531dc0-4702-4668-8bae-66d0d2b93b7a": {
 		"$CONTENT_cf531dc0-4702-4668-8bae-66d0d2b93b7a/Kinematics/Database/KinematicSets/example.kinematicset": []

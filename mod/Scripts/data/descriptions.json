@@ -30341,7 +30341,7 @@
 	"0473c5c6-b676-4155-a68f-3386011e762c": {
 		"allow_add_mods": false,
 		"custom_icons": true,
-		"description": "[h1] Bomber Mechanic [/h1]\r\nThis Mod is Based on Bombermen. \r\n\r\nIts a Round Based Deathmatch.\r\nEach Round is 90 seconds until only 1 is Alive.\r\nA New Round Starts after 7 seconds Automaticly.\r\n\r\nWeapons: \r\n-Bomb\r\n\r\nPowerUp: \r\n-Bomb Amount to place\r\n-Bomb Explosion Size\r\n\r\nMap:\r\n-Walls\r\n-Floors\r\n-Breakable Walls\r\n\r\n[h1]The Mod is still Work in Progress.\r\nMore Powerups and Maps will be made and added over time. [/h1]\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nSo Check Allways for Updates ;)\r\n\r\nHave Fun and Enjoy!\r\n\r\nMod made by 00Fant\r\n\r\n( no permission to you anything out of this mod in other mods )",
+		"description": "[h1] Bomber Mechanic [/h1]\r\nThis Mod is Based on Bombermen. \r\n\r\nIts a Round Based Deathmatch.\r\nEach Round is 90 seconds until only 1 is Alive.\r\nA New Round Starts after 7 seconds Automaticly.\r\n\r\nWeapons: \r\n-Bomb\r\n\r\nPowerUp: \r\n-Bomb Amount to place\r\n-Bomb Explosion Size\r\n-Walk Speed\r\n\r\nMap:\r\n-Walls\r\n-Floors\r\n-Breakable Walls\r\n\r\n[h1]The Mod is still Work in Progress. Bug Reports Please via Discord. Thanks.\r\nMore Powerups and Maps will be made and added over time. [/h1]\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nSo Check Allways for Updates ;)\r\n\r\nHave Fun and Enjoy!\r\n\r\nMod made by 00Fant\r\n\r\n( no permission to you anything out of this mod in other mods )\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2877514137,
 		"localId": "0473c5c6-b676-4155-a68f-3386011e762c",
 		"name": "Bomber Mechanic",
@@ -40289,6 +40289,26 @@
 		"fileId": 3343713906,
 		"localId": "c4eb2e4a-cc8a-4d83-91bd-056c91ce86bd",
 		"name": "woodwall",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"70d2d009-8661-434e-a1e7-dadfd97c6b85": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "",
+		"fileId": 3323025332,
+		"localId": "70d2d009-8661-434e-a1e7-dadfd97c6b85",
+		"name": "70d2d009-8661-434e-a1e7-dadfd97c6b85",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"193dfb6d-623c-49e6-b912-610c1dcbcf20": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "MGP-Addon - дополнение к моду The Machine Guns Pack для игры Scrap Mechanic. Были изменены значения пробития и урона оружия.\nМод отредактирован для личного использования.\n\nАвторы оригинального мода: https://steamcommunity.com/profiles/76561198239793064\n\t\t\t   https://steamcommunity.com/profiles/76561198280635682\n\t\t\t   https://steamcommunity.com/id/QuestionMarko\n\nОригинальный мод: https://steamcommunity.com/sharedfiles/filedetails/?id=1903792337&searchtext=gun\n\nМодифицировал: https://steamcommunity.com/profiles/76561199086371589/",
+		"fileId": 3344043817,
+		"localId": "193dfb6d-623c-49e6-b912-610c1dcbcf20",
+		"name": "MGP-Addon",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
