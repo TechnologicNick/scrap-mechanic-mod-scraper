@@ -40337,5 +40337,15 @@
 		"name": "Explosion Engine",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"63797673-2a4c-413a-917c-edf1d09bc9d9": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 3344671725,
+		"localId": "63797673-2a4c-413a-917c-edf1d09bc9d9",
+		"name": "Bearing Lock Logic",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
