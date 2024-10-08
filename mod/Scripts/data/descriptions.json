@@ -32249,7 +32249,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "Some Hockey Staff, Blocks And Tools.",
+		"description": "Some Hockey Staff, Blocks And Tools.\r\n\r\nПоддержать: \r\nhttps://steamcommunity.com/tradeoffer/new/?partner=1038422518&token=VkJ3DIlR",
 		"fileId": 2930898960,
 		"localId": "39271480-1090-48cc-9bf0-8e65a4cdf8f5",
 		"name": "Hockey",
@@ -37337,7 +37337,7 @@
 				"name": "Harvestables as Shapes"
 			}
 		],
-		"description": "Adds a bunch of useful utilities, including:\r\n1. 2 Fuel Converters which allow you to convert gasoline into batteries and vice versa in a 10:8 ratio\r\n\r\n2. Explosion Spawner block which spawns a random explosion every x seconds in y area. [Stats are adjustable by pressing 'U' while looking at the part]\r\n\r\n3. New command: /flymode. Sets flying mode. The speed while flying and sprinting can be adjusted with /flymode <speed> (speed must be a number).\r\n\r\n4. A unit spawner gun. it shoots bots/animals instead of projectiles. velocity, color of the unit and type of unit can be customized by pressing 'R' while holding the gun.\r\n\r\n5. Most importantly, a type of uv grow bed. Basically a grow bed which allows you grow crops without raids and provides portability. Requires electricity [batteries] to function. Connect to a battery container with at least one battery and grow your desired crop. Level 2 unlocks fertilizer recipes with additional reduced grow time. there are three versions of the grow bed:\r\na. Without fertilizer recipes\r\nb. With fertilizer recipes\r\nc. With fertilizer recipes and piped\r\n\r\n6. Two new parts used for crafting: a baby woc obtained from the trader for 2 pineapple and 2 orange crates, and a glow bug egg also obtained from the trader for 2 broccoli and 2 blueberry crates\r\n\r\n7. Two new interactables: Portable woc and Portable glow bug. both are craftable and require parts mentioned above.\r\nPortable woc can produce milk at a rate of 1 milk per 4 corn and 4 water. Portable glow bug can produce glow at a rate of 1 glow per 20 cardboard block and 10 water.\r\n\r\n8. Conveyor part: pushes objects and characters in the direction of its arrow.\r\n\r\n9. Test part purely for testing purposes\r\n\r\nBoth the Fuel converters and piped, all versions of the grow bed, baby woc and glow bug egg, Portable woc and glow bug are obtainable in survival and any custom survival game with Modded Craftbot Recipes support, Thanks to Modded Craftbot Recipes.\r\n\r\n[h1]Credits[/h1]\r\nPart of this mod was inspired and assisted by [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824149581]Raft Mechanic: Tools and Parts for Creative[/url][/b] and their creator(s).",
+		"description": "New Description soon.\r\n\r\n[h1]Credits[/h1]\r\nPart of this mod was inspired and assisted by [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824149581]Raft Mechanic: Tools and Parts for Creative[/url][/b] and their creator(s).",
 		"fileId": 3158847150,
 		"localId": "43f2e45f-57ec-4c60-8432-c9cc7a1cfde5",
 		"name": "Useful Utilities",
@@ -40341,10 +40341,37 @@
 	"63797673-2a4c-413a-917c-edf1d09bc9d9": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod doesn't have a description",
+		"description": "This mod adds a logic block that allows you to Lock bearings. To prevent that they can freely spin.\r\nConnect a logic input and bearings to it and if you turn the logic input on it will lock the bearings.\r\n\r\nHave fun with it.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 3344671725,
 		"localId": "63797673-2a4c-413a-917c-edf1d09bc9d9",
 		"name": "Bearing Lock Logic",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"38ebd2d6-9d74-4add-82f7-c01d242e7611": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "da",
+		"fileId": 3344757191,
+		"localId": "38ebd2d6-9d74-4add-82f7-c01d242e7611",
+		"name": "Bomb D-E",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f734e2ed-be6b-4898-9fa2-dcffdf25efe7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2949350596,
+				"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
+				"name": "SComputers [Fork]"
+			}
+		],
+		"description": "more displays for SComputers. there is a wide range of aspect ratios and resolutions from 80x60 to 4k 21x9",
+		"fileId": 3344779247,
+		"localId": "f734e2ed-be6b-4898-9fa2-dcffdf25efe7",
+		"name": "more displays [SComputers addon]",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
