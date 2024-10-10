@@ -40374,5 +40374,15 @@
 		"name": "more displays [SComputers addon]",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"06ff07f9-8348-44b1-b0e6-f6a53ec63083": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "The propane bottle of the explosive canisters.\n\n1x1x2 size.\n\nSuggestions for this part are welcomed.",
+		"fileId": 3346211576,
+		"localId": "06ff07f9-8348-44b1-b0e6-f6a53ec63083",
+		"name": "Tiny Explosive Container",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
