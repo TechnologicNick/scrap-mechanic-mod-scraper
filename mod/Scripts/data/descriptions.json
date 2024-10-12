@@ -36579,7 +36579,7 @@
 	"e0148858-7695-4d99-97cc-83bff6099864": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This Mod adds from my Main Fant Mod the Autocrafter as Standalone mod.\r\n\r\nFeatures:\r\n[*] Crafting without Removing the Recipe when no Materials. It will try to Craft until it has Enough materials again.\r\n[*] Recycling of Block and Parts ( 100% materials back )\r\n[*] No Queue, instat you Type in the Amount you want. ( -1 = Infinity )\r\n[*] Upgrade and Downgrade of Parts\r\n[*] With Logic connections enable and disable functions\r\n[*] Recipe SEARCHBAR\r\n[*] Recipe Shortcut Buttons. Change them how you like by Entering a Searchword and press on a Shorcut Button\r\n\r\nBecause it is Seperated out of my Main Mod, it Knows only the Vanilla Recipes.\r\nNo Modded Recipes will be Listed in it.\r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This Mod adds from my Main Fant Mod the Autocrafter as Standalone mod.\r\n\r\nFeatures:\r\n[*] Crafting without Removing the Recipe when no Materials. It will try to Craft until it has Enough materials again.\r\n[*] Recycling of Block and Parts ( 100% materials back )\r\n[*] No Queue, instat you Type in the Amount you want. ( -1 = Infinity )\r\n[*] Upgrade and Downgrade of Parts\r\n[*] With Logic connections enable and disable functions\r\n[*] Recipe SEARCHBAR\r\n[*] Recipe Shortcut Buttons. Change them how you like by Entering a Searchword and press on a Shorcut Button\r\n\r\nBecause it is Seperated out of my Main Mod, it Knows only the Vanilla Recipes.\r\nNo Modded Recipes will be Listed in it.\r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 3121678775,
 		"localId": "e0148858-7695-4d99-97cc-83bff6099864",
 		"name": "Fants Autocrafter",
@@ -37337,7 +37337,7 @@
 				"name": "Harvestables as Shapes"
 			}
 		],
-		"description": "New Description soon.\r\n\r\n[h1]Credits[/h1]\r\nPart of this mod was inspired and assisted by [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824149581]Raft Mechanic: Tools and Parts for Creative[/url][/b] and their creator(s).",
+		"description": "[h2]-- Features of this mod --[/h2]\r\n\r\n[img]https://i.imgur.com/VW18t5r.jpg[/img]\r\n\r\n[b]Grow Container[/b]\r\nIntroducing a new, portable and nomad-friendly interactable: Grow Container. If you ever wanted to farm without the tension of raids, or do not have enough edibles to survive, then this new interactable is for you. This advanced soil box of technology will enable a mechanic to grow crops and plants on the go at the cost of batteries. You can place this on your vehicle or on top of your base. It does NOT trigger raids but rather consumes batteries to operate. The interactable comes in three tiers or levels:\r\n[olist]\r\n   [*]Grow Container tier 1\r\n   [list]\r\n      [*]Can grow all crops including corn, pigment flower and cotton\r\n      [*]Has average consumption efficiency\r\n      [*]Has average durability\r\n      [*]Grows crops at an average speed\r\n      [*]Cannot grow fertilized crops\r\n      [*]Cannot be automated\r\n   [/list]\r\n   [*]Grow Container tier 2\r\n   [list]\r\n      [*]Can grow all crops including corn, pigment flower and cotton\r\n      [*]Has good consumption efficiency\r\n      [*]Has better durability\r\n      [*]Grows crops at a slightly faster speed\r\n      [*]Can grow fertilized crops\r\n      [*]Cannot be automated\r\n   [/list]\r\n   [*]Grow Container tier 3\r\n   [list]\r\n      [*]Can grow all crops including corn, pigment flower and cotton\r\n      [*]Has good consumption efficiency\r\n      [*]Has good durability\r\n      [*]Grows crops at an even faster speed\r\n      [*]Can grow fertilized crops\r\n      [*]Can be automated\r\n   [/list]\r\n[/olist]\r\n[b]Note:[/b] To upgrade the tier, a separate GUI will be opened after pressing the upgrade button on the main GUI which will state all the requirements for the upgrade.\r\n\r\n[img]https://i.imgur.com/NNw4uUj.jpg[/img]\r\n\r\n[b]Unit Spawner Gun[/b]\r\nEver wanted to out lag out your world by spawning hundreds of bots, but couldn't do it easily? Well now you can with this new 'gun'. This gun literally shoots units, be it animals or bots. The features of this new tool include:\r\n[list]\r\n   [*]Works in multiplayer\r\n   [*]Can shoot all in-game vanilla units\r\n   [*]The velocity of the units shot can be adjusted\r\n   [*]The colour of the unit can be customized\r\n   [*]The shoot cooldown of the gun be changed\r\n   [*]Auto gun mode which enables continuous fire\r\n   [*]The spread of the shot can be modified\r\n   [*]The number of units spawned per shot can be altered\r\n   [*]Can even shoot units from other mods\r\n[/list]\r\n\r\n[h2]Survival Support[/h2]\r\nThis mod is fully compatible with [b][url=https://steamcommunity.com/workshop/filedetails/?id=2816900681]Modded Craftbot Recipes[/url][/b] and any other related custom gamemodes.\r\n\r\nThis mod is also compatible with [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3113900342]Crashlander: Square One[/url][/b].\r\n\r\nThis mod requires [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3245275413]Harvestables as Shapes[/url][/b] and has custom loot hence also requiring [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3224128169]Custom Loot[/url][/b].\r\n\r\n[h1]Credits[/h1]\r\nPart of this mod was inspired and assisted by [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824149581]Raft Mechanic: Tools and Parts for Creative[/url][/b] and their creator(s).",
 		"fileId": 3158847150,
 		"localId": "43f2e45f-57ec-4c60-8432-c9cc7a1cfde5",
 		"name": "Useful Utilities",
@@ -40382,6 +40382,26 @@
 		"fileId": 3346211576,
 		"localId": "06ff07f9-8348-44b1-b0e6-f6a53ec63083",
 		"name": "Tiny Explosive Container",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"e19b9e37-c4ce-4a5a-8c01-4da10acb12d5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "",
+		"fileId": 3346827440,
+		"localId": "e19b9e37-c4ce-4a5a-8c01-4da10acb12d5",
+		"name": "Finn's Survival Additions",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"4fea3652-3dfc-4e15-8ed0-034e8698186e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "bomb 1x1",
+		"fileId": 3346956403,
+		"localId": "4fea3652-3dfc-4e15-8ed0-034e8698186e",
+		"name": "bomb 1x1",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
