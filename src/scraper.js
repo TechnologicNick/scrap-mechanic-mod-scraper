@@ -122,6 +122,11 @@ module.exports = class Scraper {
                     desc.fileId = fileId;
                 }
 
+                if (localId === "__proto__") {
+                    console.log("[Error] Detected attempted prototype pollution in localId field of publishedfileid", fileId);
+                    continue;
+                }
+
                 if (this.dbDescriptions.data[localId] && this.dbDescriptions.data[localId]?.fileId !== fileId) {
                     const existingFileId = this.dbDescriptions.data[localId].fileId;
                     const currentFileId = fileId;
