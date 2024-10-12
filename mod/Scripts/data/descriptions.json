@@ -40404,5 +40404,62 @@
 		"name": "bomb 1x1",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"27124be9-668e-45e6-ba2a-b429fb46c2ea": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This empty world was grass",
+		"fileId": 3340772504,
+		"localId": "27124be9-668e-45e6-ba2a-b429fb46c2ea",
+		"name": "emptyworld",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"fdcff979-d92b-457f-be7d-9617438759d0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "commands in survival",
+		"fileId": 3340775305,
+		"localId": "fdcff979-d92b-457f-be7d-9617438759d0",
+		"name": "Custom game survival",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"a545205b-9fef-488f-aa12-3ccda0ff90f2": {
+		"allow_add_mods": false,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3202981462,
+				"localId": "e8298053-4412-48e8-aff1-4271d1b07584",
+				"name": "display framework [canvas api]"
+			},
+			{
+				"fileId": 3344779247,
+				"localId": "f734e2ed-be6b-4898-9fa2-dcffdf25efe7",
+				"name": "more displays [SComputers addon]"
+			},
+			{
+				"fileId": 3009550168,
+				"localId": "c9017daa-0898-445d-b1c7-03d42b5ec396",
+				"name": "SComputers Integrable [Fork]"
+			},
+			{
+				"fileId": 2949350596,
+				"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
+				"name": "SComputers [Fork]"
+			},
+			{
+				"fileId": 3293308025,
+				"localId": "2ab6eb84-2cff-4200-af1d-3091a0b8393a",
+				"name": "stretchable display [SComputers addon]"
+			}
+		],
+		"description": "examples of code and projects for programmers and engineers who lack the capabilities of a vanilla game",
+		"fileId": 3347355023,
+		"localId": "a545205b-9fef-488f-aa12-3ccda0ff90f2",
+		"name": "engineering landfill",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
