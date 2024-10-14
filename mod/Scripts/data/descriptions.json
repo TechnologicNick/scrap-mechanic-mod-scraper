@@ -29917,7 +29917,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "TOOL OVERHAUL UPDATE:\nMade all the shakes useable without having to place them down, but you can still place them down and use them as normal.\n\n\n\nThis mod adds Sunshakes, of all colors and kinds. Use these for building creations.\n\nThe FlyShake toggles between flying and not flying. (SPEED EFFECTS WILL RESET)\n\nThe SpeedShake, SlowShake, and TurboShake all change the speed of the player.\n\nThe ResetShake will reset speed effects.\n\nThe speed Sunshakes apply if you are flying or not, but the speed will reset if you switch to not flying or if you start flying.",
+		"description": "TOOL OVERHAUL UPDATE:\nTOOLS UPDATE:\nMade all the shakes useable without having to place them down with tools, but you can still place them down and use them as normal. Tool visuals still a WIP.\n\n\n\nThis mod adds Sunshakes, of all colors and kinds. Use these for building creations.\n\nThe FlyShake toggles between flying and not flying. (SPEED EFFECTS WILL RESET)\n\nThe SpeedShake, SlowShake, and TurboShake all change the speed of the player.\n\nThe ResetShake will reset speed effects.\n\nThe speed Sunshakes apply if you are flying or not, but the speed will reset if you switch to not flying or if you start flying.",
 		"fileId": 2865678708,
 		"localId": "e18c61d3-befb-44e5-bbae-d57bfec0f7f5",
 		"name": "Super Sunshakes",
@@ -40461,5 +40461,25 @@
 		"name": "engineering landfill",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"56082bdf-4f94-4dfe-8c36-b23312437479": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "кастом гейм который состоит из одной только пустоши, создан в целях покататься и просто устроить сражения, если что тут есть PVP, и вы так же можете прописывать команды!",
+		"fileId": 3348129583,
+		"localId": "56082bdf-4f94-4dfe-8c36-b23312437479",
+		"name": "rusty dusty",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"54861b19-c757-49a8-94a5-216b1575e29c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "ну типо знаки там",
+		"fileId": 3348239215,
+		"localId": "54861b19-c757-49a8-94a5-216b1575e29c",
+		"name": "city blocks and parts",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
