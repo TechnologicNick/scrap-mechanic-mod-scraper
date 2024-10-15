@@ -40465,7 +40465,7 @@
 	"56082bdf-4f94-4dfe-8c36-b23312437479": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "кастом гейм который состоит из одной только пустоши, создан в целях покататься и просто устроить сражения, если что тут есть PVP, и вы так же можете прописывать команды!",
+		"description": "кастом гейм который состоит из одной только пустоши, создан в целях покататься и просто устроить сражения, если что тут есть PVP, и вы так же можете прописывать команды!\r\nсолнце делал Донити, спасибо огромное ему и спасибо за солнце.\r\n\r\nмой дс сервер: https://discord.gg/AN9zEtkMVg Денфолд",
 		"fileId": 3348129583,
 		"localId": "56082bdf-4f94-4dfe-8c36-b23312437479",
 		"name": "rusty dusty",
@@ -40479,6 +40479,16 @@
 		"fileId": 3348239215,
 		"localId": "54861b19-c757-49a8-94a5-216b1575e29c",
 		"name": "city blocks and parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"20c50b84-67e3-4d13-b304-80b5f68ae740": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Logo block Game ExplorersX Channel",
+		"fileId": 3348986569,
+		"localId": "20c50b84-67e3-4d13-b304-80b5f68ae740",
+		"name": "GameExplorersX Block",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
