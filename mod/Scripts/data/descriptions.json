@@ -37679,7 +37679,7 @@
 	"a99716ca-719d-4891-b1d2-f1978e954a05": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This radio runs on betterAPI and can play music via a direct link.\nunfortunately, you cannot insert a link from youtube or something like that here,\nbut you can place your .mp3/.wav file on any hosting (for example, github) and insert a direct (raw) link to the file.\ndirect links to streaming Internet radio stations will also work (however, connecting to a streaming radio station can take a long time and not the first time).",
+		"description": "This radio runs on betterAPI and can play music via a direct link.\nunfortunately, you cannot insert a link from youtube or something like that here,\nbut you can place your .mp3/.wav file on any hosting (for example, github) and insert a direct (raw) link to the file.\ndirect links to streaming Internet radio stations will also work (however, connecting to a streaming radio station can take a long time and not the first time).\n\nSComputers api:\ncomponent name - onlineBoombox\nonlineBoombox.play()\nonlineBoombox.stop()\nonlineBoombox.setVolume(value:number(0-1))\nonlineBoombox.setMute(state:boolean)\nonlineBoombox.setUrl(url:string)",
 		"fileId": 3185287679,
 		"localId": "a99716ca-719d-4891-b1d2-f1978e954a05",
 		"name": "online boombox [betterAPI]",
@@ -40489,7 +40489,7 @@
 	"edaaf67d-ef5e-43c7-a3f1-68a89088caa6": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "QOL mod\nPress Q while holding the pipe to extend it.\n\nJoin the discord server: https://discord.gg/5zzqMJ5d",
+		"description": "QOL mod\r\nPress Q while holding the pipe to extend it.\r\nWhen you build there is no modded parts, so its all vanilla when you build with this mod.\r\n\r\nJoin the discord server: https://discord.gg/5zzqMJ5d",
 		"fileId": 3350118278,
 		"localId": "edaaf67d-ef5e-43c7-a3f1-68a89088caa6",
 		"name": "Expanded Pipes",
@@ -40513,6 +40513,16 @@
 		"fileId": 3350837541,
 		"localId": "11b038b5-55e6-44a4-83a6-0a754565f3d6",
 		"name": "Microblocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"ea6ad5ea-14ff-44bf-95ea-58ace307826d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3351333183,
+		"localId": "ea6ad5ea-14ff-44bf-95ea-58ace307826d",
+		"name": "Sol_Myer Mod 2",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
