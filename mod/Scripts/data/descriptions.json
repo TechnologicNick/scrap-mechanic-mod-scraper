@@ -38082,7 +38082,7 @@
 	},
 	"5ad0cf67-726e-401e-909c-5caf6b321ff0": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"description": "",
 		"fileId": 3174118424,
 		"localId": "5ad0cf67-726e-401e-909c-5caf6b321ff0",
