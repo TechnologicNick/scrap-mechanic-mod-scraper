@@ -40535,5 +40535,15 @@
 		"name": "More Containers",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"dae960eb-fe5c-4181-9d42-e815982911a1": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "this mod allows you to emulate your favorite games from the NES platform right inside Scrap Mechanic!\nthis is a real emulator running inside the game, you can even connect a second controller and play with your friends!\njust connect the console to the display and the joysticks to the console. insert the cartridge and play the NES right inside Scrap Mechanic!\nthe list of games will be updated, as well as in the future there will be support for add-ons for additional cartridges\naudio emulation is not supported at the moment, but it will be supported in the future.\nyou can connect the joystick to the seat to open it while in the seat.\n\ncontrols:\nwasd - crosshair\nenter - start\ni - select\no - B\np - A\n\nunfortunately, the mod causes the STRONGEST LAGS!!! on my computer, if you do not modify luajit in the game, then when the console is running, the game outputs 5 FPS and the console is running slow. if you install betterAPI, the game outputs ~ 20 FPS and the console works at an acceptable speed.\nthe mod itself does not use betterAPI at all, but betterAPI greatly speeds up the execution of any lua code in the game.\ni wish the developers of ScrapMechanic health and patience, and FINALLY MAKE A MULTITHREADED API FOR LUA!!\nthe emulator always works on the server side so that the game is synchronous for all players, so it is better that the host has a powerful processor. for the mod to work well, you need a single stream (high frequency)",
+		"fileId": 3353025650,
+		"localId": "dae960eb-fe5c-4181-9d42-e815982911a1",
+		"name": "NES Emulator",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
