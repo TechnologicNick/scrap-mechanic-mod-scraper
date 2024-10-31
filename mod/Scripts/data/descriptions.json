@@ -37371,7 +37371,7 @@
 	"971191f0-1a93-4916-aca2-aa990b2a74b4": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Switches and Trainguides (For now)\n\nConnect the switch parts to logic and theyll magically change direction.\nIf this seems familiar to anyone thats because these exact switches are in another mod where i made these for - This is just the standalone version of it.\n\nPrepared Blueprints are now available under Required Items\n\nUpdate 1;\n- Switches can now be toggled by simply interacting with them\n- Added Long Switches (with fitting Terrain assets in my Train assets pack)",
+		"description": "Switches and Trainguides (For now)\n\nConnect the switch parts to logic and theyll magically change direction.\nIf this seems familiar to anyone thats because these exact switches are in another mod where i made these for - This is just the standalone version of it.\n\nPrepared Blueprints are now available under Required Items\n\nUpdate 1;\n- Switches can now be toggled by simply interacting with them\n- Added Long Switches (with fitting Terrain assets in my Train assets pack)\n\nUpdate 2;\n- Switches now give out the state in Logic form :)\n\nUpdate 3:\nAdded Conical Train Wheels and Flanges",
 		"fileId": 3164212160,
 		"localId": "971191f0-1a93-4916-aca2-aa990b2a74b4",
 		"name": "Train Stuff (Toggleable Parts)",
