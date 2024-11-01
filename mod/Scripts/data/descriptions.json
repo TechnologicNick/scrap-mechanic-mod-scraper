@@ -40576,5 +40576,15 @@
 		"name": "Powerful thrusters",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"de73619b-c341-408a-984a-c81ad6e23b31": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "remake of one block from sci-fi mod, just for my tanks",
+		"fileId": 3355894744,
+		"localId": "de73619b-c341-408a-984a-c81ad6e23b31",
+		"name": "engino-MJM REUPLOAD",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
