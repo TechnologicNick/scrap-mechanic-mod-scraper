@@ -3915,16 +3915,16 @@
 	},
 	"b2efd9e5-7eff-4ebb-9f13-701c4190eb15": {},
 	"3a8d7f21-c853-48ec-b916-f055cb403cd1": {
-		"$CONTENT_3a8d7f21-c853-48ec-b916-f055cb403cd1/Tools/Database/ToolSets/deprecated.toolset": [
+		"$CONTENT_3a8d7f21-c853-48ec-b916-f055cb403cd1/Tools/Database/ToolSets/Sledgehammers.toolset": [
+			"949be483-a288-41fd-ba8a-9629709a2820",
+			"789467be-ab37-46df-9ac4-75bafe573adf"
+		],
+		"$CONTENT_3a8d7f21-c853-48ec-b916-f055cb403cd1/Tools/Database/ToolSets/Rifles.toolset": [
 			"cfe97df5-a5f9-4b6d-8df6-092e1ac595eb",
 			"ed30762f-37b3-4a07-b8b6-99781fa3caf8",
 			"ad141ecb-1ac9-4d50-bc75-497831c78035",
 			"cb94c479-5e51-4b98-85cc-e40a2f896cbf",
 			"a97a883d-89e0-401e-8539-2e8a1225b7fb"
-		],
-		"$CONTENT_3a8d7f21-c853-48ec-b916-f055cb403cd1/Tools/Database/ToolSets/tools.toolset": [
-			"949be483-a288-41fd-ba8a-9629709a2820",
-			"789467be-ab37-46df-9ac4-75bafe573adf"
 		]
 	},
 	"dcfe3d42-ed03-4025-ba8e-04a5c4875e28": {},
