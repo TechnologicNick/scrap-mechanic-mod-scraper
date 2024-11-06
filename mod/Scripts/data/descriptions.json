@@ -39973,7 +39973,7 @@
 	"a18eec9b-9379-41a3-b3d7-1013e25992ea": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "This mod add more Guns for Scrap Mechanic",
 		"fileId": 3322578054,
 		"localId": "a18eec9b-9379-41a3-b3d7-1013e25992ea",
 		"name": "rrr",
@@ -40620,6 +40620,13 @@
 	"043d1f27-0f14-42a9-b636-748b54fc6ecc": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2949350596,
+				"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
+				"name": "SComputers [Fork]"
+			}
+		],
 		"description": "a set of different decorative gizmos for SComputers!",
 		"fileId": 3360519967,
 		"localId": "043d1f27-0f14-42a9-b636-748b54fc6ecc",

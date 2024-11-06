@@ -5011,7 +5011,11 @@
 	"9a70af57-f82b-4daa-9acd-7bdcc9a1eb79": {},
 	"80b11da0-6114-4a70-9e05-e68c289e1656": {},
 	"18876dd2-9c87-4494-9278-a04329e79530": {},
-	"a18eec9b-9379-41a3-b3d7-1013e25992ea": {},
+	"a18eec9b-9379-41a3-b3d7-1013e25992ea": {
+		"$CONTENT_a18eec9b-9379-41a3-b3d7-1013e25992ea/Tools/Database/ToolSets/NewToolSet1.toolset": [
+			"5a67d71f-6cdd-4709-a8ee-ba0e86dfe0b4"
+		]
+	},
 	"6b7b8243-71c8-4613-8328-93e923a1537f": {},
 	"a37163d0-d09f-4df3-b630-2c3f11239aca": {},
 	"bce131f5-0f04-4e03-81d8-0e9812cb805a": {},
