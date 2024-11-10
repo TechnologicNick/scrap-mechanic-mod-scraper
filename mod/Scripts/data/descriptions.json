@@ -35538,7 +35538,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "[h1]☻Модпак забавный☻[/h1]\r\n\r\nЭтот мод включает множество элементов: от декоративных изображений и полигонов до модифицированных колёс, которые обладают всеми функциями газового двигателя и инструментов. Кроме того, в моде есть механик, представленный в виде NPC-персонажа.\r\n\r\n[h1]Рецепты крафтов[/h1]\r\n[code](В версии V-1.93a доступны только некоторые рецепты)Есть рецепты крафтов для custom game.[/code]\r\n[h1]Языки[/h1]\r\n[code]- Русский\r\n- Английский\r\n- Китайский[/code]\r\n[h1]Обновления[/h1]\r\n[code]Все обновления можно найти в верхней вкладке «Обновления».[/code]\r\n[h1]Изображения[/h1]\r\n[code]Все изображения сделаны с максимальными настройками графики.[/code]\r\n[h1]Теги[/h1] [code]Колёса, механик, блоки, интерактивные детали, мяч, лом, полигоны, фермер, старые боты, пружины, бомбы, пушки, флаги, картины, линзы, виллы, клетка, крылья, лестница, пропеллер, детали роботов. [/code]",
+		"description": "[h1]☻The modpack is funny☻[/h1]\n\nThis mod includes many elements: from decorative images and polygons to modified wheels that have all the functions of a gas engine and tools. In addition, there is a mechanic in the mod, presented in the form of an NPC character.\n\n[h1]Crafting Recipes[/h1]\n[code]There are crafting recipes for custom game.[/code]\n[h1]Languages[/h1]\n[code]- Russian\n- English\n- Chinese[/code]\n[h1]Updates[/h1]\n[code]All updates can be found in the top \"Updates\" tab.[/code]\n[h1]Images[/h1]\n[code]All images are made with maximum graphics settings.[/code]\n[h1]Tags[/h1] [code]Wheels, mechanic, blocks, interactive parts, ball, scrap, polygons, farmer, old bots, springs, bombs, guns, flags, paintings, lenses, villas, cage, wings, ladder, propeller, robot parts. [/code]",
 		"fileId": 3049604044,
 		"localId": "3a8d7f21-c853-48ec-b916-f055cb403cd1",
 		"name": "The Modpack is Funny",
@@ -39184,12 +39184,7 @@
 	"db159a98-ca42-407a-aa22-f862ba4b3749": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 3362098376,
-				"localId": "7b929f99-9d45-4e92-a4ad-d98a613be3bd"
-			}
-		],
+		"dependencies": [],
 		"description": "[h1] This mod adds some new items to the game, which you can use with ScrapComputers! [/h1]\r\n\r\n[h2] This mod contains: [/h2]\r\n[list]\r\n    [*][b] MFD's* [/b] – Turns your display into a multifunctional display (MFD). Create a real fighter pilot cockpit for yourself :)\r\n    [*][b] Small, Medium and Large Inventories [/b] – You can store various items in them.\r\n    [*][b] Paintable Signs [/b] – Create your own pixelarts.\r\n    [*]And more coming soon...\r\n[/list]\r\n\r\n[h2] Planned to add: [/h2]\r\n[list]\r\n    [*][b] Throttle lever* [/b]\r\n    [*][b] Dial* [/b]\r\n    [*][b] Gauge display* [/b]\r\n[/list]\r\n\r\n[i]* – Lua [/i]\r\n\r\nPlease consider leaving a like and adding this mod and the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3269912087] ScrapComputers [/url] to your favorites to support us! Thank you!\r\n",
 		"fileId": 3292464916,
 		"localId": "db159a98-ca42-407a-aa22-f862ba4b3749",
@@ -40589,8 +40584,8 @@
 	},
 	"697b6db6-d0ec-4579-b528-d1bddca1d086": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "In this Custom Game, you can now delete those harvestables and get a farming item called \"Spawners\".\n\nWhen you place any spawners, it'll start with an hour penalty. When you upgrade, it'll get max penalty. When everything's collected, then you'll wait one hour before you can collect from this again!",
+		"custom_icons": true,
+		"description": "In this Custom Game, you can now delete those harvestables and get a farming item called \"Spawners\". As long as those harvestables are healthy like the clam in the preview thumbnail, it's the only way to pick up those specific Spawners.\n\nWhen you place any spawners, it'll start with an hour penalty. When you upgrade or change the balance slider, it'll get max time. When everything's collected, then you'll wait max time before you can collect from this again! To upgrade, you'll have to merge the quantity of the same Spawner. You'll get the equivalent quantity of resources multiplied by tiers each Spawners have, \n\nThe following initial spawners are:\n* Beeswax\n* Corn\n* Cotton\n* Glue Clam\n* Oil\n* Pigment Flower\n\n[b]November 9: 13 NEW Spawners![/b]\nThe original 6 are the initial spawners that you can convert into Empty Spawners, then those spawners can be converted to any of those new spawners for a price:\n* Banana\n* Blueberry\n* Brocoli\n* Carrot\n* Concrete\n* Ember\n* Metal\n* Orange\n* Pineapple\n* Potato\n* Redbeet\n* Tomato\n* Wood",
 		"fileId": 3359342608,
 		"localId": "697b6db6-d0ec-4579-b528-d1bddca1d086",
 		"name": "Resource Obsessed",
