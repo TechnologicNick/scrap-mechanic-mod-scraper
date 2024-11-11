@@ -5014,7 +5014,9 @@
 	"18876dd2-9c87-4494-9278-a04329e79530": {},
 	"a18eec9b-9379-41a3-b3d7-1013e25992ea": {
 		"$CONTENT_a18eec9b-9379-41a3-b3d7-1013e25992ea/Tools/Database/ToolSets/NewToolSet1.toolset": [
-			"5a67d71f-6cdd-4709-a8ee-ba0e86dfe0b4"
+			"5a67d71f-6cdd-4709-a8ee-ba0e86dfe0b4",
+			"f8953ff9-4b36-4f27-8d37-d3af070d1a28",
+			"6fe58c43-ee94-4d1c-8ffb-3e80de45a9c9"
 		]
 	},
 	"6b7b8243-71c8-4613-8328-93e923a1537f": {},
