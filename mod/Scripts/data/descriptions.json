@@ -37730,7 +37730,7 @@
 	"cd85eacc-f183-4da6-b8fd-d096ee1cb18e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "For mod makers, You can make mods more easier and much quicker. It'll make some things more better and efficient. \n\nHere are the items:\n[list]\n[*]Mod Editor - The orange handbook that would be a modder's favorite tool for naming items and crafting recipes.\n\n[*]Super Interactor - A modder's debugging tool. You can use this to reconfigure some things into your mod.\n\n[*]Sledge Destroyer - A sledge hammer that's capable of destroying anything.\n\n[*]The Manipulator - The tool that can serve as commands. In fact, ALL tools requires admin access (Not necessarily for this tool, but non-admins have access to a few commands), and this tool lets the host set temporary admin powers.\n\n[*]Creation Binder - You can pick up creations and carry a creation around. In case if the creation you're carrying acting so crazy because of your mod item, then this is for you.\n\n[*]Quantom Chest - This chest allows you to access containers set by the Super Interactor.\n[/list]",
+		"description": "For mod makers, You can make mods more easier and much quicker. It'll make some things more better and efficient. \r\n\r\nHere are the items:\r\n[list]\r\n[*]Mod Editor - The orange handbook that would be a modder's favorite tool for naming items and crafting recipes.\r\n\r\n[*]Super Interactor - A modder's debugging tool. You can use this to reconfigure some things into your mod.\r\n\r\n[*]Sledge Destroyer - A sledge hammer that's capable of destroying anything.\r\n\r\n[*]The Manipulator - The tool that can serve as commands. In fact, ALL tools requires admin access (Not necessarily for this tool, but non-admins have access to a few commands), and this tool lets the host set temporary admin powers.\r\n\r\n[*]Creation Binder - You can pick up creations and carry a creation around. In case if the creation you're carrying acting so crazy because of your mod item, then this is for you.\r\n\r\n[*]Quantom Chest - This chest allows you to access containers set by the Super Interactor.\r\n[/list]",
 		"fileId": 3172185380,
 		"localId": "cd85eacc-f183-4da6-b8fd-d096ee1cb18e",
 		"name": "Mod Utility Tools",
@@ -40454,7 +40454,7 @@
 	"56082bdf-4f94-4dfe-8c36-b23312437479": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "кастом гейм который состоит из одной только пустоши, создан в целях покататься и просто устроить сражения, если что тут есть PVP, и вы так же можете прописывать команды!\r\nсолнце делал Донити, спасибо огромное ему и спасибо за солнце.\r\n\r\nмой дс сервер: https://discord.gg/AN9zEtkMVg Денфолд",
+		"description": "кастом гейм который состоит из одной только пустоши, создан в целях покататься и просто устроить сражения, если что тут есть PVP, и вы так же можете прописывать команды!\r\nсолнце делал Донити, спасибо огромное ему и спасибо за солнце.\r\n/fbak - включает и выключает зависимость топлива у любых потребителей.\r\n/clear - чистит весь мир\r\n\r\nмой дс сервер: https://discord.gg/AN9zEtkMVg Денфолд",
 		"fileId": 3348129583,
 		"localId": "56082bdf-4f94-4dfe-8c36-b23312437479",
 		"name": "rusty dusty",
