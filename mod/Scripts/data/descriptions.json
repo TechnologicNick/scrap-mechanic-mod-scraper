@@ -40688,5 +40688,15 @@
 		"name": "New bombs!",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"1fe09615-8220-4d57-bdb8-25cd5e61fe25": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Yes, it's just a normal survival game.",
+		"fileId": 3365140103,
+		"localId": "1fe09615-8220-4d57-bdb8-25cd5e61fe25",
+		"name": "Normal Custom Game",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
