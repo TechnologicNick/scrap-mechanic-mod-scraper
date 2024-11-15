@@ -40632,7 +40632,8 @@
 	"f4a4efc7-f61a-4ec9-bd38-31d3732db4ce": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "My first mod\n\nthis is incredibly simple to make and i urge you to go make your own mod cause its incredible how much is possible without any knowledge of modding at all. anyways, i'm posting this so that my friends could join my world",
+		"dependencies": null,
+		"description": "My first mod\n\nthis is incredibly simple to make and i urge you to go make your own mod cause its incredible how much is possible without any knowledge of modding at all. anyways, i'm posting this so that my friends can join my worlds\n",
 		"fileId": 3361157917,
 		"localId": "f4a4efc7-f61a-4ec9-bd38-31d3732db4ce",
 		"name": "supa dupa blocks",
@@ -40698,5 +40699,25 @@
 		"name": "Normal Custom Game",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"492226e4-3bcd-4f19-845c-db6083da40b5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Show's Vanilla hiden parts",
+		"fileId": 3365886622,
+		"localId": "492226e4-3bcd-4f19-845c-db6083da40b5",
+		"name": "Hiden Parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"73ec46e5-2281-4627-8f06-be9869bbd525": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Add's Chelange Parts\nIcon's Broken, sorry.",
+		"fileId": 3365922977,
+		"localId": "73ec46e5-2281-4627-8f06-be9869bbd525",
+		"name": "Chelange Parts",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
