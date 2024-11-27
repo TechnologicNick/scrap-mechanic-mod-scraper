@@ -5208,5 +5208,11 @@
 		"$CONTENT_5987f269-86b1-4859-be6b-8b17e520ae3c/Tools/Database/ToolSets/example.toolset": [
 			"fa120b3d-54e1-4d13-b3c0-37736ca7fa02"
 		]
-	}
+	},
+	"0bba8195-5c3d-49b3-b655-8a763bb307ea": {
+		"$CONTENT_0bba8195-5c3d-49b3-b655-8a763bb307ea/Tools/Database/ToolSets/example.toolset": [
+			"fa120b3d-54e1-4d13-b3c0-37736ca7fa02"
+		]
+	},
+	"1d42c34f-760d-40d1-ae0e-c814ac774f82": {}
 }

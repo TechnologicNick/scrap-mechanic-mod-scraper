@@ -40845,5 +40845,25 @@
 		"name": "TBE-IEL Explosive Fix",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"0bba8195-5c3d-49b3-b655-8a763bb307ea": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "THAT ONE BOUNCED\\nCurrent mod features: \n-Implemented ricochet for all explosives (large factor for large can and small factor for small can)\n-Removed penetration and added guaranteed surface explosion for large canisters when there is no ricochet\n-Kept penetration for small canisters\n-Reduced likelyhood of ammo detonation depending on vehicle mass (heavier is less likely)\n-Implemented variation in ignited ammunition fuse timedepending on vehicle mass (heavier has longer fuse)\n-Added ricochet effects and sound\n-Paint scratching on ricochet\n-Penetration hole",
+		"fileId": 3372432992,
+		"localId": "0bba8195-5c3d-49b3-b655-8a763bb307ea",
+		"name": "TBE-IEL Explosive Changes",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1d42c34f-760d-40d1-ae0e-c814ac774f82": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "# Scrapfarer\n\nGet to the end and find the treasure! Most testers NEVER EVEN GOT CLOSE. First person to send me a legit screenshot of the giant duck AND the treasure chest in THE SAME IMAGE will forever have their username inscribed in the waterfall cave. (first to leave a comment on here anyways)\n\nIt's a whole new game, good luck :)\n\nWorks in multiplayer as well, bit buggy though, put bugs on the github.\n\n[MODDERS] If you fork the mod, make sure to change the mod id. And add something cool don't just re-upload it. https://github.com/Woukie/Scrapfarer\n\nRussian translation: https://www.youtube.com/watch?v=-2LaVuvCj-I\n\nThis is my last mod.",
+		"fileId": 3372521814,
+		"localId": "1d42c34f-760d-40d1-ae0e-c814ac774f82",
+		"name": "Scrapfarer",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
