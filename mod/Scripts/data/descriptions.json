@@ -40859,10 +40859,20 @@
 	"1d42c34f-760d-40d1-ae0e-c814ac774f82": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "# Scrapfarer\n\nGet to the end and find the treasure! Most testers NEVER EVEN GOT CLOSE. First person to send me a legit screenshot of the giant duck AND the treasure chest in THE SAME IMAGE will forever have their username inscribed in the waterfall cave. (first to leave a comment on here anyways)\n\nIt's a whole new game, good luck :)\n\nWorks in multiplayer as well, bit buggy though, put bugs on the github.\n\n[MODDERS] If you fork the mod, make sure to change the mod id. And add something cool don't just re-upload it. https://github.com/Woukie/Scrapfarer\n\nRussian translation: https://www.youtube.com/watch?v=-2LaVuvCj-I\n\nThis is my last mod.",
+		"description": "[h1] Scrapfarer [/h1]\n\nGet to the end and find the treasure! Most testers never got close, so if anyone legitimately finishes the game I commend you.\n\nIt's a whole new game, good luck :)\n\n[hr][/hr]\n\nWorks in multiplayer as well, bit buggy though, put bugs on the [url=https://github.com/Woukie/Scrapfarer]GitHub[/url] .\n\n[MODDERS] If you fork the mod, make sure to change the mod id. And add something cool don't just re-upload it.\n\n[url=https://www.youtube.com/watch?v=-2LaVuvCj-I]Russian translation[/url]\n\n[hr][/hr]\n\nThis is my last mod.",
 		"fileId": 3372521814,
 		"localId": "1d42c34f-760d-40d1-ae0e-c814ac774f82",
 		"name": "Scrapfarer",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"4c31d039-90cb-48c6-ba8e-15c9f4684525": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Just survival. This was done because you can activate creative mods in custom games, so now you can go crazy installing mods in survival mode!",
+		"fileId": 3372633653,
+		"localId": "4c31d039-90cb-48c6-ba8e-15c9f4684525",
+		"name": "literally just survival",
 		"type": "Custom Game",
 		"version": 0
 	}
