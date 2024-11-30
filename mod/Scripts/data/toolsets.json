@@ -5220,5 +5220,8 @@
 		"$CONTENT_4c31d039-90cb-48c6-ba8e-15c9f4684525/Tools/Database/ToolSets/example.toolset": []
 	},
 	"54b709af-c32f-42a2-a148-ccd1d93eeb29": {},
-	"64d80010-7a3e-467f-a54d-f52e9a5fc57b": {}
+	"64d80010-7a3e-467f-a54d-f52e9a5fc57b": {},
+	"fee21868-ca59-44ab-81b5-695522cf23e8": {
+		"$CONTENT_fee21868-ca59-44ab-81b5-695522cf23e8/Tools/Database/ToolSets/example.toolset": []
+	}
 }
