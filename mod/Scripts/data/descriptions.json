@@ -34421,8 +34421,13 @@
 	"756d4f03-2e86-4f5b-a425-20259568eff3": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [],
-		"description": "Tired of searching for the required block in an inventory full of mods? There's a solution for you.\r\nJust look at the required block and enter [b]/get[/b] command into the chat and it will appear in your active hotbar slot.\r\n\r\n[code] [h1] [b]FAQ[/b] [/h1]\r\n[olist]\r\n    [*]This mod adds the feature of obtaining the required block without opening the inventory (like in Minecraft).\r\n    [*]Additional hotbar pages can be selected by entering their number in the command. Example: /get [b]2[/b].\r\n[/olist] [/code]\r\n\r\nPlease consider leaving a like and adding the mod to your favorites to support my work!",
+		"dependencies": [
+			{
+				"fileId": 3375908403,
+				"localId": "693bd8ad-904b-4b8d-91c9-d9e60b435b62"
+			}
+		],
+		"description": "Надоело искать нужный блок среди заполненного модами инвентаря? Это можно решить.\r\nПросто посмотрите на нужный блок и введите команду [b]/get[/b] в чат и он появится у вас в активном слоте хотбара.\r\n\r\n[code] [h1] [b]FAQ[/b] [/h1]\r\n[olist]\r\n    [*]Этот мод добавляет фичу получения нужного блока, не заходя в инвентарь (как в Майнкрафте).\r\n    [*]Дополнительные страницы хотбара можно выбирать, добавив номер к команде. Пример: /get [b]2[/b].\r\n[/olist] [/code]\r\n\r\nПожалуйста, поставьте лайк на мод и добавьте его себе в избранное, чтобы поддержать мою работу.",
 		"fileId": 3002663600,
 		"localId": "756d4f03-2e86-4f5b-a425-20259568eff3",
 		"name": "Middle Mouse Feature from Minecraft",
@@ -39185,7 +39190,12 @@
 	"db159a98-ca42-407a-aa22-f862ba4b3749": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [],
+		"dependencies": [
+			{
+				"fileId": 3375908403,
+				"localId": "693bd8ad-904b-4b8d-91c9-d9e60b435b62"
+			}
+		],
 		"description": "[h1] This mod adds some new items to the game, which you can use with ScrapComputers! [/h1]\r\n\r\n[h2] This mod contains: [/h2]\r\n[list]\r\n    [*][b] MFD's* [/b] – Turns your display into a multifunctional display (MFD). Create a real fighter pilot cockpit for yourself :)\r\n    [*][b] Small, Medium and Large Inventories [/b] – You can store various items in them.\r\n    [*][b] Paintable Signs [/b] – Create your own pixelarts.\r\n    [*]And more coming soon...\r\n[/list]\r\n\r\n[h2] Planned to add: [/h2]\r\n[list]\r\n    [*][b] Throttle lever* [/b]\r\n    [*][b] Dial* [/b]\r\n    [*][b] Gauge display* [/b]\r\n[/list]\r\n\r\n[i]* – Lua [/i]\r\n\r\nPlease consider leaving a like and adding this mod and the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3269912087] ScrapComputers [/url] to your favorites to support us! Thank you!\r\n",
 		"fileId": 3292464916,
 		"localId": "db159a98-ca42-407a-aa22-f862ba4b3749",
@@ -39726,7 +39736,7 @@
 	"2514bebf-db4a-4d53-b2ba-57a6b291226b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h2]Expands Seats with more Features![/h2]\r\nControl order changing, Control notes and colors, In-Seat interaction (Cockpit Clicker) and a Metric/Imperial Speedometer!\r\n\r\n[hr][/hr]\r\n[h1]Important![/h1]\r\n[list]\r\n[*]This is [b]NOT[/b] a file mod!\r\n[*]This mod is compatible with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3113900342]Crashlander[/url] (Singleplayer only, Multiplayer is broken for some reason and i can't fix it), [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3242683188]QuickSwap[/url] and most Gamemodes.\r\n[*]This mod doesn't add any new parts (but does override the old creative seats), it just and [b]only adds functionality to vanilla seats, saddles and their driver variants.[/b]\r\n[*]If you use this mod in your blueprint and publish it, people without this mod [b]WILL[/b] be able to spawn it in, [b]but wont be able to experience these new features[/b], if they enable the mod after spawning in the blueprint, all the settings will take an effect!\r\n[*]When using Creative Seats, they need to be respawned in order to have the functions, else they will work like before (excluding the broken character ragdoll)\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h2]Support:[/h2]\r\n[*]Rate, Favorite, Share and Award!\r\n[img]https://fagiano0.github.io/CrashlanderAPI/images/workshop/ratefavourite.gif[/img]",
+		"description": "[h2]Expands Seats with more Features![/h2]\r\nControl order changing, Control notes and colors, In-Seat interaction (Cockpit Clicker), more zoom and a Metric/Imperial Speedometer!\r\n\r\n[hr][/hr]\r\n[h1]Important![/h1]\r\n[list]\r\n[*]This is [b]NOT[/b] a file mod!\r\n[*]This mod is compatible with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3113900342]Crashlander[/url] (Singleplayer only, Multiplayer is broken for some reason and i can't fix it), [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3242683188]QuickSwap[/url] and most Gamemodes.\r\n[*]This mod doesn't add any new parts (but does override the old creative seats), it [b] adds functionality to vanilla seats, saddles and their driver variants.[/b]\r\n[*]If you use this mod in your blueprint and publish it, people without this mod [b]WILL[/b] be able to spawn it in, [b]but wont be able to experience these new features[/b], if they enable the mod after spawning in the blueprint, all the settings will take an effect!\r\n[*]When using Creative Seats, they need to be respawned in order to have the functions, else they will work like before (excluding the broken character ragdoll)\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h1]Features[/h1]\r\n[list]\r\n[*]New settings UI for Vanilla Seats:\r\n\t[list]\r\n\t[*]Control order changing\r\n\t[*]Control notes and colors\r\n\t[*]In-Seat interaction (Cockpit Clicker)\r\n\t[*]Turn off Jump Exit (Jumping will trigger button in 3rd slot instead)\r\n\t[*]Zoom++ (More zoom steps)\r\n\t[*]Metric/Imperial Speedometer\r\n\t[/list]\r\n[*]Compatible with old Creative (or Level 12345) Seats\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h2]Support:[/h2]\r\n[*]Rate, Favorite, Share and Award!\r\n[img]https://fagiano0.github.io/CrashlanderAPI/images/workshop/ratefavourite.gif[/img]",
 		"fileId": 3312373135,
 		"localId": "2514bebf-db4a-4d53-b2ba-57a6b291226b",
 		"name": "Seats++",
