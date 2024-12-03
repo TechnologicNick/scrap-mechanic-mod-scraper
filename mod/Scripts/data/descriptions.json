@@ -40937,5 +40937,15 @@
 		"name": "Middle Mouse Feature from Minecraft",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"46a378ec-d7b2-490a-a85a-cd0163a5ff0b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A modded part that allows you to weld creations together without using the weld tool.\r\n\r\nPlease watch the video for examples and usage instructions.\r\n\r\n[b]WARNING![/b] If you are welding with multiple auto welders simultaneously (per creation), there's a small possibility that the game will completely lag out and the world becoming unplayable.",
+		"fileId": 3333695062,
+		"localId": "46a378ec-d7b2-490a-a85a-cd0163a5ff0b",
+		"name": "Auto Welder",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
