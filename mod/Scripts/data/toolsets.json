@@ -5224,5 +5224,11 @@
 	"64d80010-7a3e-467f-a54d-f52e9a5fc57b": {},
 	"fee21868-ca59-44ab-81b5-695522cf23e8": {
 		"$CONTENT_fee21868-ca59-44ab-81b5-695522cf23e8/Tools/Database/ToolSets/example.toolset": []
+	},
+	"c7dbccff-e806-4887-a974-9f853ff06524": {},
+	"a694680f-2adb-4cf8-a5d4-b0c60bc8ad2c": {
+		"$CONTENT_a694680f-2adb-4cf8-a5d4-b0c60bc8ad2c/Tools/Database/ToolSets/main.toolset": [
+			"0193889d-2604-74a1-871d-283b611b0ff9"
+		]
 	}
 }
