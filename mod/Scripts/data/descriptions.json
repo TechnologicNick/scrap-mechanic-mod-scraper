@@ -40958,5 +40958,15 @@
 		"name": "Vanilla Wedge Recipes",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"400d2904-2acd-4c6f-9320-a3fb595b6670": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3379198688,
+		"localId": "400d2904-2acd-4c6f-9320-a3fb595b6670",
+		"name": "0.7.0 Parts Collision Fix",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
