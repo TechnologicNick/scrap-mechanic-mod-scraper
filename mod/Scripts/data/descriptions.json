@@ -40932,7 +40932,7 @@
 	"46a378ec-d7b2-490a-a85a-cd0163a5ff0b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "A modded part that allows you to weld creations together without using the weld tool.\r\n\r\nPlease watch the video for examples and usage instructions.\r\n\r\n[b]WARNING![/b] If you are welding with multiple auto welders simultaneously (per creation), there's a small possibility that the game will completely lag out and the world becoming unplayable.\r\n\r\n[h1]Update![/h1]\r\nThe mod has been updated to account for draggable wedges. Let me know if you encounter any other issues.",
+		"description": "A modded part that allows you to weld (and unweld) creations together without using the weld tool.\r\n\r\nPlease watch the video for examples and usage instructions.\r\n\r\nThis mod is in the ModDatabase. \r\nCustom game modes (such as Modded Craftbot Recipes) that make use of the database will have access to the recipe.\r\n\r\n[b]WARNING![/b] If you are welding with multiple auto welders simultaneously (per creation), there's a small possibility that the game will completely lag out and the world becoming unplayable.\r\n\r\n[h1]Update![/h1]\r\nThe latest patch has caused some inconsistencies with the mod. Please be patient while I attempt to fix it.",
 		"fileId": 3333695062,
 		"localId": "46a378ec-d7b2-490a-a85a-cd0163a5ff0b",
 		"name": "Auto Welder",
