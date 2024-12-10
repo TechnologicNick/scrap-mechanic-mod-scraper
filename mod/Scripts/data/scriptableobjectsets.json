@@ -978,5 +978,12 @@
 	},
 	"fee21868-ca59-44ab-81b5-695522cf23e8": {
 		"$CONTENT_fee21868-ca59-44ab-81b5-695522cf23e8/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"8ac1e7f3-2b43-4e64-b0af-f72a22e18d02": {
+		"$CONTENT_8ac1e7f3-2b43-4e64-b0af-f72a22e18d02/ScriptableObjects/ScriptableObjectSets/sob_quests.sobset": [
+			"8be0279e-28b6-4aab-b620-586f50162c6e",
+			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
+			"009fe136-aeee-45c4-9135-006b786cfc59"
+		]
 	}
 }
