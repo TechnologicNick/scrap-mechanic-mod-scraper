@@ -5194,7 +5194,22 @@
 	"1fe09615-8220-4d57-bdb8-25cd5e61fe25": {
 		"$CONTENT_1fe09615-8220-4d57-bdb8-25cd5e61fe25/Tools/Database/ToolSets/example.toolset": []
 	},
-	"492226e4-3bcd-4f19-845c-db6083da40b5": {},
+	"492226e4-3bcd-4f19-845c-db6083da40b5": {
+		"$CONTENT_492226e4-3bcd-4f19-845c-db6083da40b5/Tools/Database/ToolSets/flares.toolset": [
+			"43562d7c-d1a8-4cea-98e0-ad791320729b",
+			"478f7c93-699d-47b4-8e3e-296971067ef4",
+			"fa1b499e-c40e-4e55-9f73-27ae1cba6c15",
+			"f26a26bf-b9be-4e59-83e4-da2e9e6dd285",
+			"2bff990a-0e74-43c7-b7dc-889b3a086fa3",
+			"87cf94fa-a52a-47bd-8d62-47a2e10fe2af",
+			"3ef5412a-7044-45ae-9592-9ce86bd99081",
+			"59a3469c-d7cd-4784-aa5b-316749abc2b6",
+			"a6143860-f4d4-42df-b8f9-129efdbaf787",
+			"52c1d933-5ba0-47da-b107-477b6c211a5d",
+			"9506abb9-e415-4229-a824-28a479cca788",
+			"262aa73a-ca62-4d27-8c96-c3566352bd8a"
+		]
+	},
 	"73ec46e5-2281-4627-8f06-be9869bbd525": {},
 	"4c018f05-2aba-4b70-afc7-02f1ca037b9f": {},
 	"2448d793-5635-4aed-9186-ec1d32b7406e": {
@@ -5244,5 +5259,7 @@
 			"a22ed440-f3bf-11ec-b939-0242ac120002",
 			"a6113860-f4d4-42df-b8f9-129efdbaf777"
 		]
-	}
+	},
+	"2a3f0304-fff1-45a7-b509-48627c556a7f": {},
+	"ef16a537-c2ea-4cca-b9b5-ac72c804a3c4": {}
 }
