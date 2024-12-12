@@ -3267,6 +3267,9 @@
 	"92816666-c290-4813-adcd-42368ffa0ac2": {
 		"$CONTENT_92816666-c290-4813-adcd-42368ffa0ac2/Tools/Database/ToolSets/MjmModBase.toolset": [
 			"11679830-b06d-4352-9923-dc73527dad04"
+		],
+		"$CONTENT_92816666-c290-4813-adcd-42368ffa0ac2/Tools/Database/ToolSets/MjmSeatTool.toolset": [
+			"d7d8af50-0059-4b71-82b7-cb90653930f2"
 		]
 	},
 	"c76c1b15-b535-4aa0-9113-65965c78f148": {},
@@ -5319,5 +5322,8 @@
 			"9d5f610b-0aec-4ead-8b03-14eb2ec1e876",
 			"a37ad687-30e4-405a-89b5-c12b2f3a2f02"
 		]
-	}
+	},
+	"91740ec5-3f8b-4b0c-b8b2-1b10e0099016": {},
+	"164fa840-9d2e-4496-a23d-ca88db1e5c28": {},
+	"950d89b6-2aa5-4dfb-b6f3-ada2d7cb5a0d": {}
 }

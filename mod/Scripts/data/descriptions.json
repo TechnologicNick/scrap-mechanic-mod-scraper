@@ -9182,12 +9182,15 @@
 		"type": "Blocks and Parts"
 	},
 	"5f4e3f9f-d25e-46f4-86b5-d93809470fb9": {
-		"description": "Feel free to learn from, remix, or copy any of my mod parts. \nJust want to use the parts? Subscribe!\nLearning to script but can't model? Feel free to use one!\nWant to make your own model but not rewrite the functionality of one of my parts? Use the script!\nDon't know how to mod but want to copy paste just the parts you want into your own special blend? Go for it!\nJust looking for how I did something? Feel free to poke around, but I've been learning LUA and the Scrap Mechanic API as I go, so my solutions may not be the best solutions.\n",
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "This mod is now legacy support for my old parts so older creations can still be loaded.\n\nMy current mod is [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2949501397]\"Seats and Tech Mod\"[/url]\n\nSome parts in this mod still work, and some are broken or outdated code. I will probably still update some of the parts over time and move them into the other mod. For example I'd still liek to make an updated version of the tank tracks eventually.\n\nParts that appear as just a glowing cube are simply here so old creations can be loaded on the lift. Those parts should be removed and the creation re-saved with a different part.\nFor example I found that having 5 versions of every seat for upgrade levels was too much clutter, so I removed all level 1-4 seats from my other mod and put them here as just glowing cubes so they can be identifed and replaced with the proper seat.",
 		"fileId": 905650948,
 		"localId": "5f4e3f9f-d25e-46f4-86b5-d93809470fb9",
-		"name": "MJM Mod",
+		"name": "MJM Legacy Parts",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"238f734e-9096-4129-93a1-e61ecbf24eab": {
 		"creatorId": "76561197997069296",
@@ -29926,10 +29929,10 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "Previous patch notes in the changelog tab at the top, beside comments.\r\n\r\nCommands Update (Nov 7th, 2024, 1.3)\r\nAdded a few commands. More information below.\r\nAdded a failsafe for picking up chests with items or other objects that you would \"carry\" instead of hold in hotbar. Before, you would be stuck in fly mode. Now, it automatically disables fly mode for you.\r\n\r\n\r\nSuper Sunshakes! Of all colors! Speed up, slow down, and FLY!\r\n\r\nHow to use:\r\nPut the shakes in your hotbar. Click while holding to drink. Hold F to place down part. You can use the part and it will apply effects as well.\r\n\r\nFlyShake - Toggle fly mode.\r\nSpeedShake - Speed up to 4x normal speed.\r\nSlowShake - Slow down to half speed.\r\nResetShake - Return speed back to normal.\r\nTurboShake - Supercharge speed to 10x normal.\r\n\r\nWhen toggling fly mode, your speed effects reset.\r\n\r\nThere are also a few commands you can use instead:\r\n/fly - Toggles fly mode.\r\n/speed (multipier) - Sets your speed multiplier to the inputted number. Decimals do work. 1 for default, 2 for double, 3 triple, etc. Setting it negative reverses your movement!\r\n/shakeAlertText (true/false) - Toggles the text that appears on the top of your screen when using shakes or commands. Saves between worlds.",
+		"description": "[i]Previous patch notes in the changelog tab at the top, beside comments.[/i]\r\n\r\n[b]edit: this update below isnt out yet. There were some multiplayer problems, but I don't want to redo description later.[/b]\r\n[b]A bit of everything update:[/b] [i](Dec 10th, 2024, 1.4)[/i]\r\nNew command added - Look below\r\nSpeed is now preserved when toggling fly mode.\r\nShakes now share one common script - Internal change, doesn't affect normal game.\r\nDiving - Up/Down speed is now affected by the speed shakes.\r\nPreserved fly and speed - Fly mode and speed factor are both now preserved when leaving and rejoining a world.\r\nUpdated alert text to make more sense - Before, going from Turbo to Speed said you gained speed, when that wasn't true. See the updated alert text here:\r\n\r\nIncrease speed:\r\n\"fly\" : \"Your inner woc defies gravity...\"\r\n\"speed\" : \"The SpeedShake™ charges up the inner Woc inside you...\",\r\n\"slow\" : \"The SlowShake™ charges your up your inner woc, but it still isn't strong...\",\r\n\"turbo\" : \"The TurboShake™ charges up your inner Woc to extreme levels...\",\r\n\r\nDecrease speed:\r\n\"fly\" : \"Your inner woc obeys Newton...\",\r\n\"speed\" : \"The SpeedShake™ calms your inner woc down, but not fully...\",\r\n\"slow\" : \"The SlowShake™ discharges your inner Woc beyond comprehension...\",\r\n\"turbo\" : \"The TurboShake™ dampens your inner woc, but it is still highly active...\",\r\n\r\nOther:\r\n\"reset\" : \"The ResetShake™ returns your inner Woc to normal levels...\"\r\n\"blank\" : \"Nothing happens....\" (this is when you use a shake twice in a row)\r\n\r\n\r\n[hr][/hr] \r\n\r\n[h1]Super Sunshakes! Of all colors! Speed up, slow down, and FLY![/h1]\r\n\r\nHow to use:\r\nPut the shakes in your hotbar. Click while holding to drink. Hold F to place down part. You can use the shake and it will apply effects as well.\r\n\r\nFlyShake - Toggle fly mode.\r\nSpeedShake - Speed up to 4x normal speed.\r\nSlowShake - Slow down to half speed.\r\nResetShake - Return speed back to normal.\r\nTurboShake - Supercharge speed to 10x normal.\r\n\r\n[i]Note: When toggling fly mode, your speed effects reset.[/i]\r\n\r\n\r\n\r\nThere are also a few commands you can use instead:\r\n[b]/fly[/b] - Toggles fly mode.\r\n[b]/speed[/b] (multipier) - Sets your speed multiplier to the inputted number. Decimals do work. 1 for default, 2 for double, 3 triple, etc. Setting it negative reverses your movement!\r\n[b]/shakeAlertText[/b] (true/false) - Toggles the text that appears on the top of your screen when using shakes or commands. Saves between worlds.\r\n[b]/flyMode[/b] (normal/swim/dive) - Normal is what you usually want, with up/down speed affected. Swim is what was before this update, without any particles, good for recording. Dive is glitchy but it is there, idk what it really does.",
 		"fileId": 2865678708,
 		"localId": "e18c61d3-befb-44e5-bbae-d57bfec0f7f5",
-		"name": "Super Sunshakes",
+		"name": "Super Sunshakes Fly Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -32858,7 +32861,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "Custom seats and other parts.",
+		"description": "Custom seats and other parts.\n\nI have removed some part that wre adding too much clutter such as level 1-4 versions of upgradable parts. I updated the recipes to just craft the fully functional versions and added the uuids to my old mod, which is now for legacy support of loading old creations in order to replace old parts.\n\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=905650948]\"MJM Legacy Parts\"[/url]\n\nSome of my old parts in my legacy mod may also get updated eventually and moved into this mod. ",
 		"fileId": 2949501397,
 		"localId": "92816666-c290-4813-adcd-42368ffa0ac2",
 		"name": "Seats and Tech Mod",
@@ -40647,7 +40650,7 @@
 	"5b4628d4-6f47-4aad-9416-a88b55a15411": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "This mod have a description",
 		"fileId": 3360181611,
 		"localId": "5b4628d4-6f47-4aad-9416-a88b55a15411",
 		"name": "Wedgiks Random Stuff",
@@ -41028,5 +41031,35 @@
 		"name": "ompaloopadubityduFUCKYOU",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"91740ec5-3f8b-4b0c-b8b2-1b10e0099016": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod allows you to change the texture of plastic blocks and plastic wedges.\nThe texture is now smoother without the small holes in the base texture in the game.\n\nPlastic wedges are frameless with this mod, so I suggest you use the “Wedges WITHOUT Frames” mod with my mod, so all wedges are frameless.",
+		"fileId": 3382525308,
+		"localId": "91740ec5-3f8b-4b0c-b8b2-1b10e0099016",
+		"name": "Retextured Plastic blocks and wegdes",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"164fa840-9d2e-4496-a23d-ca88db1e5c28": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3382593430,
+		"localId": "164fa840-9d2e-4496-a23d-ca88db1e5c28",
+		"name": "dropper exclusive",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"950d89b6-2aa5-4dfb-b6f3-ada2d7cb5a0d": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 3382686433,
+		"localId": "950d89b6-2aa5-4dfb-b6f3-ada2d7cb5a0d",
+		"name": "DTMC Armor Blocks",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
