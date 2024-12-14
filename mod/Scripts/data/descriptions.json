@@ -37364,7 +37364,7 @@
 	"28c6992d-59c3-4d1f-814d-25a672c7fde4": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Idk\r\nhttps://github.com/Martian-Technologies/Kinect-Mod\r\nthis github to download kinect side\r\n",
+		"description": "Idk\nhttps://github.com/Martian-Technologies/Kinect-Mod\nthis github to download kinect side\n\nNEW UPDATE!!!!\n\nSo i fixed a major bugggggggg  (single line of code) yayyyy anddddddd alsooooooo andddddddd exe is embedded, if you dont trust it you can still build yourself from the github",
 		"fileId": 2967783993,
 		"localId": "28c6992d-59c3-4d1f-814d-25a672c7fde4",
 		"name": "Kinect Mod",
@@ -41079,6 +41079,16 @@
 		"fileId": 3383061044,
 		"localId": "aaca4fe4-6183-46c8-a94e-3768bd97d046",
 		"name": "Round corner",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f5645abd-ae6a-4ae3-8773-17ac9e9c3ba6": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "reupload of mod",
+		"fileId": 3383754304,
+		"localId": "f5645abd-ae6a-4ae3-8773-17ac9e9c3ba6",
+		"name": "SciFi reupload",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
