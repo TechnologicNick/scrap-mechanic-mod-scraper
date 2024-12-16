@@ -5252,7 +5252,11 @@
 			"0193889d-2604-74a1-871d-283b611b0ff9"
 		]
 	},
-	"46a378ec-d7b2-490a-a85a-cd0163a5ff0b": {},
+	"46a378ec-d7b2-490a-a85a-cd0163a5ff0b": {
+		"$CONTENT_46a378ec-d7b2-490a-a85a-cd0163a5ff0b/Tools/Database/ToolSets/tools.toolset": [
+			"cefcc0a5-d1d1-41f2-9dff-faa5d480939e"
+		]
+	},
 	"245b2932-3a4a-4a8f-87be-d5eeacc3dc42": {},
 	"a7b02e26-2173-42c4-a8f5-34c4f3173691": {},
 	"400d2904-2acd-4c6f-9320-a3fb595b6670": {},
