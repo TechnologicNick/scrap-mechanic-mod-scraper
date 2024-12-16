@@ -5337,5 +5337,10 @@
 			"966266e5-8578-4cee-9c05-4ef491838c3b",
 			"c07aefc9-3a97-4e82-b082-18a33abb7155"
 		]
+	},
+	"ea6797b5-86f6-419c-9e7e-ea6eeef0d58b": {
+		"$CONTENT_ea6797b5-86f6-419c-9e7e-ea6eeef0d58b/Tools/Database/ToolSets/NewToolSet1.json": [
+			"8622fefe-f57a-4096-8300-bca19bb4e053"
+		]
 	}
 }
