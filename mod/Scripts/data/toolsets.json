@@ -5346,5 +5346,12 @@
 		"$CONTENT_ea6797b5-86f6-419c-9e7e-ea6eeef0d58b/Tools/Database/ToolSets/NewToolSet1.json": [
 			"8622fefe-f57a-4096-8300-bca19bb4e053"
 		]
+	},
+	"7ff669a9-a279-437d-a5c0-8de49a8a1234": {},
+	"170dd23d-9782-4674-9a26-8df37af67070": {
+		"$CONTENT_170dd23d-9782-4674-9a26-8df37af67070/Tools/Database/ToolSets/map.toolset": [
+			"2cf6dae6-15a0-4b36-b07a-8ffe10781d27",
+			"03284900-3aff-481f-b797-b0441482574e"
+		]
 	}
 }
