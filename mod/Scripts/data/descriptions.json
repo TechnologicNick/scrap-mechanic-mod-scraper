@@ -40294,7 +40294,7 @@
 		"description": "compatible with Trembusek Train Assets Pack",
 		"fileId": 3323025332,
 		"localId": "70d2d009-8661-434e-a1e7-dadfd97c6b85",
-		"name": "70d2d009-8661-434e-a1e7-dadfd97c6b85",
+		"name": "zeni",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -41135,7 +41135,7 @@
 	"7ff669a9-a279-437d-a5c0-8de49a8a1234": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "",
+		"description": "Assortment of different poland-themed decorational parts, including road infrastructure (with road signs!), railway infrastructure, power lines, furniture parts, light fixtures, and many more! This mod will also still be updated to expand its variety and add new parts!\n\nIf you have any questions or reports feel free to write in comments below, or come to our modding server at: https://discord.gg/zAc8QXawZ8",
 		"fileId": 3268557035,
 		"localId": "7ff669a9-a279-437d-a5c0-8de49a8a1234",
 		"name": "Polish Decor Pack",
