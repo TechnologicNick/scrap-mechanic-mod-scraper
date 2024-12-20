@@ -6864,12 +6864,14 @@
 		"version": 0
 	},
 	"42e3c2b7-80cf-4532-b487-4d675c377d5e": {
-		"description": "GKW SM dr1dr2 wersja 8 [11.12]",
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Mod ten dodaje bloki budowlane, przede wszystkim wzory charakterystycznych dla lat PRLu.\r\n\r\nDODANE RZECZY\r\n(w toku)",
 		"fileId": 2267902943,
 		"localId": "42e3c2b7-80cf-4532-b487-4d675c377d5e",
-		"name": "GKW SM mod",
+		"name": "PRL mod",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"be0c515c-755b-4781-84a8-c251002592b1": {
 		"description": "a WIP mod to add ropes and tow hooks. also im crap at coding.",
@@ -35694,7 +35696,7 @@
 				"localId": "c0344d93-7492-46c8-88be-a61699e57041"
 			}
 		],
-		"description": "[i][h1]Cannons Pack Ricochets and Penetrations Addon.[/h1]\r\n\r\n[hr][/hr]\r\n[b]THE MOD ADDES THREE NEW GUNS, BUT YOU MUST INSTALL THE REGULAR CANNONS PACK\r\n\r\nМОД ДОБАВЛЯЕТ ТРИ НОВЫЕ ПУШКИ, НО ОБЯЗАТЕЛЬНО УСТАНОВИТЬ ОБЫЧНЫЙ КЭНОНС ПАК[/b]\r\n\r\n[hr][/hr]\r\n[b]Videos in Russian about this mod:(u can use subtitles)[/b]\r\n\r\nhttps://youtu.be/3U-BDA4Cpbo\r\nhttps://youtu.be/h25sNP1Jy_A\r\n\r\n[hr][/hr]\r\n[h3] Ricochet Developers: [/h3]\r\n  [b]Scripts:[/b]\r\n    [u]Heterty[/u](All new scripts, Rus/Eng/Ger translation, General development, etc.)\r\n    [u]Questionable Mark[/u](Help with Raycasts, made a base for mod)\r\n\r\n  [b]Logic:[/b]\r\n    [u]Sporling, Alevirex[/u](Partially maths formulas)\r\n\r\n  [b]Other:[/b]\r\n    [u]Driver[/u](Polish translation)\r\n\r\n[hr][/hr]\r\n[h3] Penetrations and shrapnels developers: [/h3]\r\n\r\n[b]All:[/b]\r\n[u]Heterty[/u]\r\n\r\n3d models of shrapnels was taken from the Machine Gun Pack mod\r\n\r\n[hr][/hr]\r\n[h3]Info:[/h3]\r\n   [b]Minimum projectile force to ricochet - 76 m/s(don't forget about speed loss)[/b]\r\n\r\n[b]Ricochet Chance(0-1)[/b]\r\n     A [u]given number[/u] makes the chance of a ricochet which depends on the angle and randomness.\r\n[b]Ricochet Angle[/b]\r\n     Minimum ricochet angle [u](large)[/u]\r\n\r\n [b]Expl.lvl falls with distance[/b]\r\n     This logical parameter allows the explosion level to decrease with distance\r\n [b]Expl.lvl falls with angle[/b]\r\n     This logical parameter allows the explosion level to decrease with angle\r\n\r\n [b]Coef. Expl. Lvl fall with distance[/b]\r\n     This coefficient is the cosine of the specified number, and affects how much Expl.Lvl drops with distance\r\n [b]Coef. Expl. Lvl angle fall[/b]\r\n     This coefficient is the multiplier by which the drop in armor penetration due to the slope of the armor is multiplied.\r\n [b]Shell normalization[/b]\r\n     The entered parameter is the angle by which the projectile rotates when penetrating towards the armor.\r\n\r\n [b]Penetration[/b]\r\n     The indicated value is how many blocks the projectile is capable of penetrating (do not forget about the loss of explosion Lvl)\r\n\r\n[hr][/hr]\r\n[h3]Shrapnels[/h3]\r\n\r\n[b]Spawn shrapnels after expl.[/b]\r\nThis Boolean parameter enables or disables the creation of fragments after an explosion\r\n[b]Smart shrapnel rotation[/b]\r\nThis logical parameter makes it so that fragments bounce off on all surfaces except blocks, and fly inside when they see blocks\r\n\r\n[b]Shrapnels count[/b]\r\nNumber of spawned fragments\r\n[b]Shrapnels speed(m/s)[/b]\r\nFragment speed (with slight spread)\r\n\r\n[b]Shrapnels damage[/b]\r\nDamage to unit or character from a fragment\r\n[b]Shrapnels spread(degrees)[/b]\r\nScattering of fragments, without turning on the \"Rot. shr. against the surface\" it is better to set the spread to 360\r\n\r\n[b]Exp. lvl. before shrapnels spawn[/b]\r\nThe explosion level of the explosion before the fragments spawn (the effect is determined depending on the radius)\r\n[b]Exp. rad. before shrapnels spawn[/b]\r\nExplosion radius of the explosion before the fragments spawn (the effect is determined depending on the radius)\r\n\r\n[b]Min. proj. speed to spawn shrap.[/b]\r\nMinimum projectile speed for fragment spawning\r\n[b]Min. proj. speed to penetration.[/b]\r\nMinimum projectile speed to penetrate\r\n\r\n[hr][/hr]\r\n[b]All questions about mod - Discord: heterty[/b][/i]\r\n[b]Funding - Project Overloaded.\r\nDiscord: alevirex[/b]\r\n[b]Discord Server:\r\nhttps://discord.gg/m5KkGqYxpX\r\n[/b]",
+		"description": "[i][h1]Cannons Pack Ricochets and Penetrations Addon.[/h1]\r\n\r\n[hr][/hr]\r\n[b]THE MOD ADDES THREE NEW GUNS, BUT YOU MUST INSTALL THE REGULAR CANNONS PACK\r\n\r\nМОД ДОБАВЛЯЕТ ТРИ НОВЫЕ ПУШКИ, НО ОБЯЗАТЕЛЬНО УСТАНОВИТЬ ОБЫЧНЫЙ КЭНОНС ПАК[/b]\r\n\r\n[hr][/hr]\r\n[b]Videos in Russian about this mod:(u can use subtitles)[/b]\r\n\r\nhttps://youtu.be/3U-BDA4Cpbo\r\nhttps://youtu.be/h25sNP1Jy_A\r\n\r\n[hr][/hr]\r\n[h3] Ricochet Developers: [/h3]\r\n  [b]Scripts:[/b]\r\n    [u]Heterty[/u](All new scripts, Rus/Eng/Ger translation, General development, etc.)\r\n    [u]Questionable Mark[/u](Help with Raycasts, made a base for mod)\r\n\r\n  [b]Other:[/b]\r\n    [u]Driver[/u](Polish translation)\r\n\r\n[hr][/hr]\r\n[h3] Penetrations and shrapnels developers: [/h3]\r\n\r\n[b]All:[/b]\r\n[u]Heterty[/u]\r\n\r\n3d models of shrapnels was taken from the Machine Gun Pack mod\r\n\r\n[hr][/hr]\r\n[h3]Info:[/h3]\r\n   [b]Minimum projectile force to ricochet - 76 m/s(don't forget about speed loss)[/b]\r\n\r\n[b]Ricochet Chance(0-1)[/b]\r\n     A [u]given number[/u] makes the chance of a ricochet which depends on the angle and randomness.\r\n[b]Ricochet Angle[/b]\r\n     Minimum ricochet angle [u](large)[/u]\r\n\r\n [b]Expl.lvl falls with distance[/b](Toggle)\r\n     This logical parameter allows the explosion level to decrease with distance\r\n [b]Expl.lvl falls with angle[/b](Toggle)\r\n     This logical parameter allows the explosion level to decrease with angle\r\n [b]HEAT mode(new)[/b]\r\n     If enabled, the release of fragments or explosion will occur immediately after passing the first line of blocks/elements(max. 3 blocks before spawn fragments)\r\n\r\n [b]Expl.lvl. dist. fall start[/b]\r\n     Start value of distance that lower explosion lvl.\r\n [b]Expl.lvl. dist. fall end[/b]\r\n     End value of distance that lower explosion lvl.\r\n [b]How it works?[/b]\r\n Example: start value = 50, end value = 1000 (way of fall = 950)\r\n If shell's way length equals to 475, then explosion lvl. sets to 1/2 of self.\r\n \r\n [b]Expl.lvl. angle fall(multiplier)[/b]\r\n     More value - smaller expl.lvl. fall with angle\r\n     Smaller value - more expl.lvl. fall with angle\r\n [b]Shell normalization[/b]\r\n     The entered parameter is the angle by which the projectile rotates when penetrating towards the armor.\r\n\r\n [b]Penetration[/b]\r\n     The indicated value is how many blocks the projectile is capable of penetrating (do not forget about the loss of explosion Lvl)\r\n[b]Ignore to penet. expl.lvl.[/b]\r\n     Minimal shape's durability level to decrease penetration\r\n\r\n[hr][/hr]\r\n[h3]Shrapnels[/h3]\r\n\r\n[b]Spawn shrapnels after expl.[/b]\r\nThis Boolean parameter enables or disables the creation of fragments after an explosion\r\n[b]Smart shrapnel rotation[/b]\r\nThis logical parameter makes it so that fragments bounce off on all surfaces except blocks, and fly inside when they see blocks\r\n\r\n[b]Shrapnels count[/b]\r\nNumber of spawned fragments\r\n[b]Shrapnels speed(m/s)[/b]\r\nFragment speed (with slight spread)\r\n\r\n[b]Shrapnels damage[/b]\r\nDamage to unit or character from a fragment\r\n[b]Shrapnels spread(degrees)[/b]\r\nScattering of fragments, without turning on the \"Rot. shr. against the surface\" it is better to set the spread to 360\r\n\r\n[b]Exp. lvl. before shrapnels spawn[/b]\r\nThe explosion level of the explosion before the fragments spawn (the effect is determined depending on the radius)\r\n[b]Exp. rad. before shrapnels spawn[/b]\r\nExplosion radius of the explosion before the fragments spawn (the effect is determined depending on the radius)\r\n\r\n[b]Min. proj. speed to spawn shrap.[/b]\r\nMinimum projectile speed for fragment spawning\r\n[b]Min. proj. speed to penetration.[/b]\r\nMinimum projectile speed to penetrate\r\n\r\n[hr][/hr]\r\n[b]All questions about mod - Discord: heterty[/b][/i]\r\n\r\n[b]Send bugs to Discord Server:\r\nhttps://discord.gg/m5KkGqYxpX\r\n[/b]\r\n\r\n[b]Funding - Project Overloaded.\r\nDiscord: alevirex[/b]",
 		"fileId": 3061776084,
 		"localId": "090bc798-aca2-44e6-b57c-76c0a6986e32",
 		"name": "Cannons Pack Ricochets and Penetrations",
@@ -41149,6 +41151,36 @@
 		"fileId": 3385576414,
 		"localId": "170dd23d-9782-4674-9a26-8df37af67070",
 		"name": "Fants Map",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"7a10d694-cc65-413b-a090-c2f69572d3c9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Discord server link: https://discord.gg/tmXXT2sxMp\n\n-EN-\n\nThis mod was created for the Modern War Project. It is available to the public to make it easier to find in the workshop. You can use it without any problems, but you should join our Discord community to stay updated on all mod updates, where parts you used may be removed or changed, and we can help you.\n\n-RU-\n\nДанный мод создан для проекта Modern War Project. Он выложен в общий доступ с целью более легкого нахождения в мастерской. Вы можете использовать его без каких-либо проблем, но вам стоит присоединиться к нашему Discord-сообществу, чтобы быть в курсе всех обновлений мода, где могут быть удалены или убраны детали, которые вы использовали, и мы могли бы вам помочь.\n\nСсылка на наш Discord сервер: https://discord.gg/tmXXT2sxMp",
+		"fileId": 3306388787,
+		"localId": "7a10d694-cc65-413b-a090-c2f69572d3c9",
+		"name": "MWP+ Optimized",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"aedf1412-25ea-46a8-8479-6b19fe0458f0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A [strike]reuploaded[/strike] remastered version of DPP's Scrap Factory custom game. Create drops with droppers, increase their value with upgraders, sell them with furnaces and power your factory with generators. Also includes various decorative blocks and parts.\n\nThis project is a work in progress and is not complete!",
+		"fileId": 3386736983,
+		"localId": "aedf1412-25ea-46a8-8479-6b19fe0458f0",
+		"name": "Scrap Factory Remastered",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"f8354857-01d2-43f2-aebf-89def8c6e5b0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "EN:\r\nThis mod spawns a player character that does nothing really. You can mess around with him though.\r\n\r\nPL:\r\nRespi ci ziutka (charakter gracza który nic nie robi i możesz z nim robić co chcesz)",
+		"fileId": 3386823469,
+		"localId": "f8354857-01d2-43f2-aebf-89def8c6e5b0",
+		"name": "Ziutek mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

@@ -2490,5 +2490,8 @@
 		"$CONTENT_de6279c1-9c85-457e-a8f5-8a0a9bd8ca7c/Harvestables/Database/HarvestableSets/hvs_questitems.harvestableset": [
 			"7745d036-ed25-4559-9eb2-47b6da8d007e"
 		]
+	},
+	"aedf1412-25ea-46a8-8479-6b19fe0458f0": {
+		"$CONTENT_aedf1412-25ea-46a8-8479-6b19fe0458f0/Harvestables/Database/HarvestableSets/example.harvestableset": []
 	}
 }
