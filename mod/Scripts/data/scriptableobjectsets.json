@@ -1016,5 +1016,12 @@
 			"e9461cff-2b3e-4351-b5f6-ff67778a4c88",
 			"b0972d5e-f131-4aac-94d8-39ce331fe225"
 		]
+	},
+	"9fd1207c-8a9d-4266-bba3-2c52419e8418": {
+		"$CONTENT_9fd1207c-8a9d-4266-bba3-2c52419e8418/ScriptableObjects/ScriptableObjectSets/sob_quests.sobset": [
+			"8be0279e-28b6-4aab-b620-586f50162c6e",
+			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
+			"009fe136-aeee-45c4-9135-006b786cfc59"
+		]
 	}
 }

@@ -4170,7 +4170,8 @@
 			"ae00b1c5-9e69-4855-ad60-72125b91c13a",
 			"75bf9b3c-0a55-4654-bdfb-b0cdac9fb3ac",
 			"80fef859-c2bc-4148-a6be-4b917f2dd313",
-			"3a225d01-a4cb-4249-9aed-1e8c3479cb64"
+			"3a225d01-a4cb-4249-9aed-1e8c3479cb64",
+			"6dc0c77e-80af-4d45-8b6b-1e4a095f5fa7"
 		],
 		"$CONTENT_e05e0ad2-0a5f-46f9-98ab-b26c0a844922/Tools/Database/ToolSets/spudguns.toolset": [
 			"c5ea0c2f-185b-48d6-b4df-45c386a575cc",
@@ -5371,5 +5372,13 @@
 	"f8354857-01d2-43f2-aebf-89def8c6e5b0": {},
 	"494436e4-3bcd-4f19-845c-db6083da40b5": {},
 	"98c56927-77a1-46d5-8ac7-069645d5815a": {},
-	"4718c313-21b5-438d-9b73-be41319168de": {}
+	"4718c313-21b5-438d-9b73-be41319168de": {},
+	"56be42e0-148c-49f1-b700-10ae1055da8d": {},
+	"d231a9d6-7e85-422d-afd1-6fc340f2a1b3": {},
+	"9fd1207c-8a9d-4266-bba3-2c52419e8418": {
+		"$CONTENT_9fd1207c-8a9d-4266-bba3-2c52419e8418/Tools/Database/ToolSets/example.toolset": [
+			"5935cf84-ed91-11ec-8ea0-0242ac120002",
+			"a22ed440-f3bf-11ec-b939-0242ac120002"
+		]
+	}
 }
