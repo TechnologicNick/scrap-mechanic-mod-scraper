@@ -41277,7 +41277,7 @@
 	"51b51b9a-d01b-4300-94ac-c60c654d289b": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Reimplements sm.debugDraw and more!\n\nAll new functions can be found in the [b]debugDraw.lua[/b] located in the script folder of the mod\n\nAlso adds 3 new commands!\n[list]\n    [*]/cleardebug remove all debug draw objects\n    [*]/displaytriggers display all new areatriggers\n    [*]/characterdebug display the characters AIState debug text\n[/list]\n\nThis mod has absolutely not been tested so it has bugs for sure!",
+		"description": "Reimplements sm.debugDraw and more!\r\n\r\nAll new functions can be found in the [b]debugDraw.lua[/b] located in the script folder of the mod\r\n\r\nAlso adds 3 new commands!\r\n[list]\r\n    [*]/cleardebug remove all debug draw objects\r\n    [*]/displaytriggers display all new areatriggers\r\n    [*]/characterdebug display the characters AIState debug text\r\n[/list]\r\n\r\nThis mod has absolutely not been tested so it has bugs for sure!",
 		"fileId": 3390916442,
 		"localId": "51b51b9a-d01b-4300-94ac-c60c654d289b",
 		"name": "Debug Draw Reimplemented",
