@@ -41283,5 +41283,15 @@
 		"name": "Debug Draw Reimplemented",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"0497e8ec-1d3e-4bed-a62a-77bafe435ad6": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "A small content survival mod!",
+		"fileId": 3393691817,
+		"localId": "0497e8ec-1d3e-4bed-a62a-77bafe435ad6",
+		"name": "ZeusMod",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
