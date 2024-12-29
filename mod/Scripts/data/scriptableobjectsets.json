@@ -1023,5 +1023,10 @@
 			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
 			"009fe136-aeee-45c4-9135-006b786cfc59"
 		]
+	},
+	"8d0aaeb3-9ea2-415f-a015-7c3b061420b3": {
+		"$CONTENT_8d0aaeb3-9ea2-415f-a015-7c3b061420b3/ScriptableObjects/ScriptableObjectSets/managers.sobset": [
+			"cb5871ae-c677-4480-94e9-31d16899d093"
+		]
 	}
 }
