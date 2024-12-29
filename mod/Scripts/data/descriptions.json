@@ -41097,7 +41097,7 @@
 	"c1297e18-ac4f-415d-b423-494038b12bef": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Controller input for scrap mechanic\n\nRun the python file inside the script folder, its called like controllerinput server or smth.\n\nthis patch fixed a bunch of bugs added some cool formatting and colours, better tooltips, and hopefully fixed multiplayer and perchance added hats",
+		"description": "Controller input for scrap mechanic\nANDDDDDD \nVOICE RECOGNITON!!!!!!\ncheck inside the mod folder, 2969326320\nfor all the python files, the voice recognition needs to be changed in the files for what keywords in recognises\n\nADDITONALLYYYYYYY MIDI SUPPORT!!!!!!\n\nThis ones a bit more complex, after you run the midi control copy file, itll ask if you want to use the binds from bind.txt, say 'n', then press the keys on your midi device then boom your done\n\nthen kill the terminal, and run the file again, this time say yes\n \nthats midi!!!\nRun the python file inside the script folder, its called like controllerinput server or smth.\n\nthis patch fixed a bunch of bugs added some cool formatting and colours, better tooltips, and hopefully fixed multiplayer and perchance added hats",
 		"fileId": 2969326320,
 		"localId": "c1297e18-ac4f-415d-b423-494038b12bef",
 		"name": "Controller Input Mod",
@@ -41287,7 +41287,7 @@
 	"0497e8ec-1d3e-4bed-a62a-77bafe435ad6": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "A small content survival mod!",
+		"description": "A small content survival mod!\n\nCurrently adds:\n\n    * Alien Metal (Block)\n\n    * Alien Metal (Wedge)\n\n    * Nano-carbon Steel (Block)\n\n    * Nano-carbon Steel (Wedge)\n    \n    * Diamond Gem (Resource]\n\n    *More parts soon to come...\n\nAlien Metal Stats:\n\n    * Buoyancy (5)\n    * Density (2)\n    * Durability (7)\n    * Friction (4)\n\nNano-carbon Steel Stats:\n\n    * Buoyancy (3)\n    * Density (6)\n    * Durability (12)\n    * Friction (6)\n\n[Zeus Mod recipes in survival require the Custom Game Mode \"Modded Craftbot Recipes\" By Questionable Mark or \"Fant Mod Custom Gamemode\" By 00Fant.]",
 		"fileId": 3393691817,
 		"localId": "0497e8ec-1d3e-4bed-a62a-77bafe435ad6",
 		"name": "ZeusMod",
@@ -41303,5 +41303,16 @@
 		"name": "Tweaked Bedwars Custom Game",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"e2008ae9-c7c1-4c32-9334-dbf75c438c18": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "This mod doesn't have a description",
+		"fileId": 3113785146,
+		"localId": "e2008ae9-c7c1-4c32-9334-dbf75c438c18",
+		"name": "armor",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
