@@ -1028,5 +1028,8 @@
 		"$CONTENT_8d0aaeb3-9ea2-415f-a015-7c3b061420b3/ScriptableObjects/ScriptableObjectSets/managers.sobset": [
 			"cb5871ae-c677-4480-94e9-31d16899d093"
 		]
+	},
+	"c42ac446-901e-431a-82dd-994eceb26e05": {
+		"$CONTENT_c42ac446-901e-431a-82dd-994eceb26e05/ScriptableObjects/ScriptableObjectSets/example.sobset": []
 	}
 }
