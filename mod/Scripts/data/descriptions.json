@@ -41359,5 +41359,25 @@
 		"name": "Vanilla Wedge for Survival ( filemod )",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"6a1e521f-1f4b-4d86-b5f3-6b0ef0fab98d": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Useful tools",
+		"fileId": 3396809964,
+		"localId": "6a1e521f-1f4b-4d86-b5f3-6b0ef0fab98d",
+		"name": "recovery tools",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"0b377dca-4e92-406e-9c32-a918e5efb96e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3398123944,
+		"localId": "0b377dca-4e92-406e-9c32-a918e5efb96e",
+		"name": "light blue block",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
