@@ -11872,12 +11872,14 @@
 		"version": 1
 	},
 	"67145ee8-9f40-4f28-a6b7-6c398869f830": {
-		"description": "Place the activator block somewhere in the world to get the physics work",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h1]The development is frozen right now, but it will be continued in the future![/h1]\r\n\r\n[h1]To make the mod work you need to place the activator block somewhere in the world[/h1]\r\n[b]This mod is computationally expensive. This means that this mod can and will at some point lag your game[/b]\r\n\r\n[h1]Settings[/h1]\r\nWhen you press E on the activator block, you will see the settings menu. Here you can:\r\n[olist]\r\n[*]Change presets\r\n[*]Make your own preset, save, load and apply it to server\r\n[*]Break the game\r\n[/olist]\r\n[quote][list]\r\n[*][b]Destruction Level:[/b] Change the preset to one of the following: extreme, hard, default, medium, low\r\n[*][b]Use Angular Velocity:[/b] Change how spinning objects react. If they are spinning fast enough, they [i]will not break[/i]\r\n[*][b]Use Shape Durability:[/b] When two creations collide, the damage will depend on a durability of the blocks\r\n[*][b]Acceleration Insensitivity:[/b] How much change in acceleration must the creation experience before the destruction is applied\r\n[*][b]Special force Threshold:[/b] Main settings. Min - minimum force (acceleration*mass) object must experience to start breaking [i]blocks[/i]. Max - Maximum force object can withstand before it will start exploding ([b]Use Explosions[/b] must be turned on). Max Part Stability Force - Maximum force object can withstand before parts will start breaking.\r\n[*][b]Collision Factor:[/b] Multiplier for radius of damage caused by creation to creation collision\r\n[*][b]Acceleration Limit Factor:[/b] Sort of threshold. When it's set to 0 or less, only decelerating objects will break\r\n[*][b]Halfwork:[/b] Optimization feature. When it's on, collisions will be calculated every second tick\r\n[*][b]Dynamic Work Factor:[/b] When it's on, script will decide how many physical shapes it will check based on creations mass\r\n[*][b]Manual Work Factor:[/b] When not 0, it will decide how many shapes the script will check. [i]If it's set not to 0, the Dynamic Work Factor will be ignored[/i]\r\n[*][b]Create Debris:[/b] Self explanatory\r\n[*][b]Autoclean Debris:[/b] Self explanatory\r\n[*][b]Autoclean Lone Shapes:[/b] Self explanatory\r\n[*][b]Directional Destruction:[/b] Destruction using raycasts (allows for local destruction and destruction between creations). None - disabled, Addition - merged with standard (random) destruction, Only - use only raycasts for destruction\r\n[*][b]Use Explosions:[/b] When creation's force is more than [b]Max force[/b], the creation will explode\r\n[*][b]Apply Current Settings:[/b] Apply current preset\r\n[*][b]Reset Settings:[/b] Resets current settings without applying\r\n[*][b]Save Settings to Preset:[/b] Saves current preset to your mod folder\r\n[*][b]Load Custom Preset:[/b] Load your saved preset without applying it\r\n[*][b]Preset Name:[/b] Change your custom preset name. [i]To apply it you must save your preset![/i]\r\n[*][b]Preset Creator:[/b] Not a setting, will display creator's name of the current preset\r\n[*][b]Receive Client Data:[/b] [i]Only for host.[/i] Whether players can apply settings or not\r\n[/list][/quote]\r\n\r\n[h1]Change logs[/h1]\r\n[code]\r\nv1\r\nUpdate: 25.02.2022\r\nFeature - The lighter the body, the harder it would break. Piston engines are now more stable\r\nFeature - Instead of deleting, parts may be detached and then deleted after 10 seconds\r\nFeature - Parts that fell underground will be deleted\r\nFix - Script works correctly after restart\r\n\r\nv2\r\nUpdate: 06.03.2022\r\nRework - Detached or single parts will be deleted up to 30 seconds. Parts that fell underground will no longer be deleted\r\n\r\nv3.0.0\r\nUpdate: 15.05.2022\r\nSCRIPT OVERHAUL\r\nFeature - GUI and settings\r\nFeature - Explosions on high velocity impacts\r\nFeature - Creation to Creation collision damage (kinda wonky at the moment)\r\nFeature - Added Work Factor to reduce amount of the code executions\r\nFix - Propellers and piston engines are now stable (can be changed in settings)\r\n\r\nAnd much more...\r\n\r\nv3.0.1\r\nUpdate: 15.05.2022\r\nHotfix - Something fixed in script for gui\r\n\r\nv3.0.2\r\nUpdate: 15.05.2022\r\nHotfix - Fixed compatibility with Scrap Mechanic version 0.5.1\r\n\r\nv3.0.3\r\nUpdate: 19.05.2022\r\nRework - New presets\r\nRework - New activator block model\r\nFeature - Directional Destruction modes: None - disabled, Addition - merged with standard (random) destruction, Only - use only local destructions\r\n--\r\n[b]Fix - Bridges won't destroy your world anymore[/b] (Explosions are now fixed)\r\n[i]Temorary ruined compatibility with Scrap Mechanic version 0.5.1 again[/i]\r\n\r\nv3.0.4\r\nUpdate: 19.05.2022\r\nHotfix - Fixed compatibility with Scrap Mechanic version 0.5.1 again\r\n\r\nv3.0.5\r\nUpdate: 20.05.2022\r\nFeature - Added destruction deactivators\r\n\r\nv3.0.6\r\nUpdate: 21.05.2022\r\nHotfix - Something fixed in script for physics\r\n\r\n[/code]\r\n\r\n[h1]Involved bros:[/h1]\r\n[list]\r\n[*][url=https://steamcommunity.com/profiles/76561198316509338]dushaman[/url] - Assisted in math\r\n[*][url=https://steamcommunity.com/profiles/76561198149160400]twardowsky[/url] - General mod idea\r\n[/list]",
 		"fileId": 2754786413,
 		"localId": "67145ee8-9f40-4f28-a6b7-6c398869f830",
 		"name": "Collision destruction Physics",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"fdabdaaf-e484-4271-a162-acd63b5b91f5": {
 		"description": "This mod doesn't have a description",
@@ -41302,10 +41304,10 @@
 	"8d0aaeb3-9ea2-415f-a015-7c3b061420b3": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Tweaked version of the Improved Bedwars Custom Game.\n\nCommands:\n- /kill Makes you respawn in 15 seconds (to avoid soft lockings). Also logs this action into the global chat.\n- /day: works just like in creative!\n- /night: works just like in creative!\n\nShop additions:\n- Gas Container\n- Off-Road Suspension\n- Square Mesh Block\n- Large Rectangular Window\n\nShop changes:\n- Framework block costs 99 glow\n\nFuture plans:\n- All maps contain lights for night mode\n- Lights and lamps for the shop\n- More maps\n- Third currency + TEAM UPGRADES\n\n\nOriginal custom game: https://steamcommunity.com/sharedfiles/filedetails/?id=2870930089\nOriginal improved game: https://steamcommunity.com/sharedfiles/filedetails/?id=2996323205",
+		"description": "Tweaked version of the Improved Bedwars Custom Game.\r\n\r\nCommands:\r\n- /tp Teleport players and tp to players\r\n- /friendlyfire You can toggle friendly fire (on by default)\r\n- /kill Makes you respawn in 15 seconds (to avoid soft lockings). Also logs this action into the global chat.\r\n- /day: works just like in creative!\r\n- /night: works just like in creative!\r\n\r\nShop additions:\r\n- Gas Container\r\n- Off-Road Suspension\r\n- Square Mesh Block\r\n- Large Rectangular Window\r\n\r\nShop changes:\r\n- Framework block costs 99 glow\r\n\r\nFixes:\r\n- Unused beds now break when the game starts\r\n\r\nFuture plans:\r\n- All maps contain lights for night mode\r\n- Lights and lamps for the shop\r\n- More maps\r\n- Third currency + TEAM UPGRADES\r\n\r\n\r\nOriginal custom game: https://steamcommunity.com/sharedfiles/filedetails/?id=2870930089\r\nOriginal improved game: https://steamcommunity.com/sharedfiles/filedetails/?id=2996323205",
 		"fileId": 3394564302,
 		"localId": "8d0aaeb3-9ea2-415f-a015-7c3b061420b3",
-		"name": "Tweaked Bedwars Custom Game v1.1",
+		"name": "Tweaked Bedwars Custom Game v2",
 		"type": "Custom Game",
 		"version": 0
 	},
@@ -41323,7 +41325,7 @@
 	"278b6d73-5a76-4c6a-8cac-ca77be63b24d": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "THIS MOD IS UNOFFICIAL\nTHIS MOD WAS ORIGINALLY FOR SURVIVAL MODE BUT I PORTED IT TO CREATIVE.\nNONE OF THIS CODE IS MINE.\nI DONE VERY SMALL CHANGES TO REMOVE OBJECTS THAT WERE ALREADY IN THE GAME.\n\nORIGINAL CRASHLANDER-",
+		"description": "THIS MOD IS UNOFFICIAL.\r\nTHIS MOD WAS ORIGINALLY FOR THE CUSTOM GAME MODE BUT I PORTED IT TO CREATIVE.\r\nNONE OF THIS CODE IS MINE.\r\nI DONE VERY SMALL CHANGES TO REMOVE OBJECTS THAT WERE ALREADY IN THE GAME.\r\n\r\nORIGINAL CRASHLANDER-\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3113900342",
 		"fileId": 3395802744,
 		"localId": "278b6d73-5a76-4c6a-8cac-ca77be63b24d",
 		"name": "CrashLanders Creative Mod (UNOFFICIAL)",
@@ -41377,6 +41379,26 @@
 		"fileId": 3398123944,
 		"localId": "0b377dca-4e92-406e-9c32-a918e5efb96e",
 		"name": "light blue block",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"251c6fb8-13a9-450e-92bc-7bdb5fffea73": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A fork of Scrap Factory by DPP changing a few things that i don't like\n\nGithub: https://github.com/Barteeq123/Scrap-Factory-But-Better",
+		"fileId": 3398995115,
+		"localId": "251c6fb8-13a9-450e-92bc-7bdb5fffea73",
+		"name": "Scrap Factory But Better",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"4f391f6f-5d96-4aa1-804b-476401ec3462": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Random Blocks!",
+		"fileId": 3399082305,
+		"localId": "4f391f6f-5d96-4aa1-804b-476401ec3462",
+		"name": "Jennys Blocks!",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
