@@ -40100,7 +40100,7 @@
 	"da0de740-71da-40f1-9a9c-58d0b816535f": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "An Explosive Mod\n\nMod Contains:\n\nExplosive Big Wheel\n\nSmall Explosive Wheel\n\n\n\nNew Parts Coming Soon:\n\n\nAll Explosive Blocks\n\nSome Explosive Parts",
+		"description": "Mod Contains:\r\n\r\nExplosive Big Wheel\r\n\r\nExplosive Small Wheel\r\n\r\nExplosive Duck\r\n\r\nNew Parts Coming Soon:\r\n\r\n\r\nAll Explosive Blocks\r\n\r\nSome Explosive Parts\r\n\r\n\r\nUPDATE LOG:\r\nV 0.1 - Added Explosive Big Wheel and Explosive Small Wheel\r\nV 0.2 - Changed Wheel Textures and Added Explosive Duck",
 		"fileId": 3330973286,
 		"localId": "da0de740-71da-40f1-9a9c-58d0b816535f",
 		"name": "Explosive Blocks And Parts",
