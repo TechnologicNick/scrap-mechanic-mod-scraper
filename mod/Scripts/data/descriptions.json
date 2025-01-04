@@ -11334,12 +11334,14 @@
 		"version": 0
 	},
 	"43451d07-e2e1-4b77-be6a-0f8aa2707455": {
-		"description": "This mod is SUS",
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod is SUS\n-Updat new omaga 03.01.2025: susshake barrel",
 		"fileId": 2656289082,
 		"localId": "43451d07-e2e1-4b77-be6a-0f8aa2707455",
 		"name": "SUS shake",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"01298dad-b146-4946-bc4b-c82ad5d55ee5": {
 		"description": "More Blocks is a mod that adds 10 Blocks. \n 1x Paintable Block \n 1x Boat Block \n 1x Paintable Glass \n 1x Heavy Armored Glass Block \n 5x Sci-Fi Blocks",
@@ -31913,13 +31915,6 @@
 	"55735746-8682-4fd8-a91e-f480241e984d": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2945713875,
-				"localId": "8a98d059-e8b2-4c4d-bc87-02be20411962",
-				"name": "STD"
-			}
-		],
 		"description": "This mod adds a placeable, fully functional ball joint!\r\n\r\nA ball joint allows an attached part to swing and rotate freely in any direction.\r\n\r\nNote that there are some limitations, as the implementation is not quite \"official\":\r\n\r\n- The placed joint is invisible\r\n- To erase the joint, you have to destroy the block it's attached to\r\n- You cannot weld on the joint\r\n- The joint might be \"unstable\" (aka cause crashes sometimes) as it's technically not an official implementation",
 		"fileId": 2923011179,
 		"localId": "55735746-8682-4fd8-a91e-f480241e984d",
@@ -41399,6 +41394,16 @@
 		"fileId": 3399082305,
 		"localId": "4f391f6f-5d96-4aa1-804b-476401ec3462",
 		"name": "Jennys Blocks!",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b1f7a432-4f4d-4eec-b9f6-aea263c5cccc": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Lord Pain's Additional Pipes mod reskinned for modern Scrap Mechanic",
+		"fileId": 3399775217,
+		"localId": "b1f7a432-4f4d-4eec-b9f6-aea263c5cccc",
+		"name": "LP's Additional Pipes Reskin",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
