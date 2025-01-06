@@ -38176,7 +38176,7 @@
 	"b0325af1-ad6c-4bbb-92b0-14794ffcc8d5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "this mod add 2 blocks, one can be a good thing for ships, and other is good for reduce friction increasing the durability",
+		"description": "this mod add 3 blocks, one can be a good thing for ships, one is very good for survival walls and other is good for reduce friction increasing the durability",
 		"fileId": 3230258666,
 		"localId": "b0325af1-ad6c-4bbb-92b0-14794ffcc8d5",
 		"name": "No Bouncy Light Weight Block",
@@ -41424,6 +41424,16 @@
 		"fileId": 3400718355,
 		"localId": "9e0a2445-60d5-4652-a1ef-57fc9d5bd335",
 		"name": "Cardboard War Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"77775746-8682-4fd8-a91e-f480241e984d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod is based off of MrCrackx02's ball joint mod. All credit for the functionality of the mod goes to him.\n\nLink to original mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2923011179&\n\nReskinned to fit with pipes, and ball joints can be welded from every side, to allow ball joints to start out at 90 degrees.",
+		"fileId": 3401452869,
+		"localId": "77775746-8682-4fd8-a91e-f480241e984d",
+		"name": "MrCrackx02's Ball Joint Revamp",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
