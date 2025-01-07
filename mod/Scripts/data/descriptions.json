@@ -15126,7 +15126,7 @@
 				"name": "ModDatabase"
 			}
 		],
-		"description": "This mod allows you to play Survival mode with mods, while also being able to craft the modded parts in the craftbot!\r\n\r\n[h1]How to make your mod compatible with this custom game[/h1]\r\n[b]Step 1[/b]: Add a folder named \"CraftingRecipes\" into your root mod folder\r\n[b]Step 2[/b]: Add a file named \"craftbot.json\", \"hideout.json\" or \"workbench.json\" into the \"CraftingRecipes\" folder\r\n[b]Step 3[/b]: Add your own crafting recipes into \"craftbot.json\" file\r\n[b]Step 4[/b]: Enjoy!\r\n\r\nYou can find a more detailed guide on the [b][url=https://github.com/QuestionableM/Modded-Craftbot-Recipes/blob/main/README.md]github[/url][/b] page of this custom game.\r\n\r\n[h1]Important[/h1]\r\nIf you're a modder and want to actually test the crafting recipes in your mod, it has to exist in the mod database. The mod database updates every 12 hours. Feel free to ask [b]TechnologicNick#4045[/b] to run the update task manually.\r\n\r\nYou can also ask more questions in our [b][url=https://discord.gg/SVEFyus]Discord[/url][/b] server.\r\n\r\n[h1]Other info[/h1]\r\n[code]\r\n[h1][b]Compatible mods[/b][/h1]\r\n[list]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2813939549]Funky Guns Pack [FGP][/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2448492759]The Modpack Continuation[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=905650948]MJM Mod[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1390938191]Wings Mod[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2608079677]Lucky Block Mod[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2481146118]Leaked Blocks and Parts[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824149581]Raft Mechanic: Tools & Parts For Creative[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2813593777]Fireaxe[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2826205992]Sticky Wheels[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2832061929]Audio Player[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2838794640]Tools And Characters As Parts[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2844505707]Remote Controlled Ball[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2946267664]Christmas Tree Drill[/url][/b]\r\n[/list]\r\n\r\nMore coming in the future!\r\n[/code]\r\n\r\nPreview was made by [url=https://steamcommunity.com/profiles/76561198318189561]Dart Frog[/url]",
+		"description": "This mod allows you to play Survival mode with mods, while also being able to craft the modded parts in the craftbot!\r\n\r\n[h1]How to make your mod compatible with this custom game[/h1]\r\n[b]Step 1[/b]: Add a folder named \"CraftingRecipes\" into your root mod folder\r\n[b]Step 2[/b]: Add a file named \"craftbot.json\", \"hideout.json\" or \"workbench.json\" into the \"CraftingRecipes\" folder\r\n[b]Step 3[/b]: Add your own crafting recipes into \"craftbot.json\" file\r\n[b]Step 4[/b]: Enjoy!\r\n\r\nYou can find a more detailed guide on the [b][url=https://github.com/QuestionableM/Modded-Craftbot-Recipes/blob/main/README.md]github[/url][/b] page of this custom game.\r\n\r\n[h1]Important[/h1]\r\nIf you're a modder and want to actually test the crafting recipes in your mod, it has to exist in the mod database. The mod database updates every 12 hours. Feel free to ask [b]TechnologicNick#4045[/b] to run the update task manually.\r\n\r\nYou can also ask more questions in our [b][url=https://discord.gg/SVEFyus]Discord[/url][/b] server.\r\n\r\n[h1]Other info[/h1]\r\n[code]\r\n[h1][b]Compatible mods[/b][/h1]\r\n[list]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2813939549]Funky Guns Pack [FGP][/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2448492759]The Modpack Continuation[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=905650948]MJM Mod[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1390938191]Wings Mod[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2608079677]Lucky Block Mod[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2481146118]Leaked Blocks and Parts[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824149581]Raft Mechanic: Tools & Parts For Creative[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2813593777]Fireaxe[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2826205992]Sticky Wheels[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2832061929]Audio Player[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2838794640]Tools And Characters As Parts[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2844505707]Remote Controlled Ball[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2946267664]Christmas Tree Drill[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2821299827]The Modpack : Survival edition (WIP)\r\n[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3158847150]Useful Utilities[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3337744906]Carry++[/url][/b]\r\n[*] [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3107290429]Manned Turret Pack[/url][/b]\r\n[/list]\r\n\r\nMore coming in the future!\r\n[/code]\r\n\r\nPreview was made by [url=https://steamcommunity.com/profiles/76561198318189561]Dart Frog[/url]",
 		"fileId": 2816900681,
 		"localId": "838b62eb-ea80-42ce-948c-031c230a4b54",
 		"name": "Modded Craftbot Recipes",
@@ -41444,6 +41444,48 @@
 		"fileId": 3401699789,
 		"localId": "f3e63e80-52f7-4a20-ab52-49730047ef9b",
 		"name": "AxolotWebsiteParts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"92818888-c290-4813-adcd-42368ffa0ac2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3401452869,
+				"localId": "77775746-8682-4fd8-a91e-f480241e984d",
+				"name": "MrCrackx02's Ball Joint Revamp"
+			},
+			{
+				"fileId": 3399775217,
+				"localId": "b1f7a432-4f4d-4eec-b9f6-aea263c5cccc",
+				"name": "LP's Additional Pipes Reskin"
+			},
+			{
+				"fileId": 2547767969,
+				"localId": "b2c30a07-a781-4c56-8ca3-d03fe95544ad",
+				"name": "Offset Pipes"
+			},
+			{
+				"fileId": 2547860987,
+				"localId": "09a6179c-9ee9-4507-8977-9c4901eda0cc",
+				"name": "Mechanical Parts"
+			}
+		],
+		"description": "Compatible with Crashlander and Modded Craftbot Recipes. Recipes for Mechanical Parts, Offset Pipes, LP's Additional Pipes Revamped, and MrCrackx02's Ball Joint Revamped.",
+		"fileId": 3401650010,
+		"localId": "92818888-c290-4813-adcd-42368ffa0ac2",
+		"name": "SeveringHams' Mechanical Recipe Pack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"bdb47058-e4c9-4183-a5cc-d10b1985c292": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "перевод блока Ascii на русский язык (кириллица)",
+		"fileId": 3402221918,
+		"localId": "bdb47058-e4c9-4183-a5cc-d10b1985c292",
+		"name": "Cyrillic ascii block",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
