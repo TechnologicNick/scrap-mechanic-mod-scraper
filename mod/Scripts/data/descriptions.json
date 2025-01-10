@@ -41498,5 +41498,15 @@
 		"name": "Ragdoll collision sound",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"bdf4ad49-d3f7-404a-9d10-72905c650fda": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds Metal 4 and Metal 5 blocks.\n\nThe new blocks are similar to metal 3. Metal 4 gives 9 durability and Metal 5 gives 10 durability. They follow the same changes from metal 2 to metal 3.\n\nThe CraftingRecipe files are there, I don't know when they'll be read by ModDatabase.",
+		"fileId": 3404298426,
+		"localId": "bdf4ad49-d3f7-404a-9d10-72905c650fda",
+		"name": "Metal Plus",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
