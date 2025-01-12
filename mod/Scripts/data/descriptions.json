@@ -41532,7 +41532,7 @@
 	"83f0303a-9437-4dee-a42a-fcdfcab30ca2": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "MT-Pipes\nby: MaxTechnik\n\nThe mod adds new pipes that work like Vacuum Pipes but have normal pipe models.\n\nThis is still alpha!",
+		"description": "MT-Pipes\nby: MaxTechnik\n\nThe mod adds new pipes that work like Vacuum Pipes but have normal pipe models.\n\nCrafting recipes are included!",
 		"fileId": 3405509759,
 		"localId": "83f0303a-9437-4dee-a42a-fcdfcab30ca2",
 		"name": "MT-Pipes",
