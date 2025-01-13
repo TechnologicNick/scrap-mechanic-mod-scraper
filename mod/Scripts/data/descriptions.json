@@ -40942,7 +40942,7 @@
 	"46a378ec-d7b2-490a-a85a-cd0163a5ff0b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "A modded part that allows you to weld (and unweld) creations together without using the weld tool.\r\n\r\n[b]Please watch the video for examples and usage instructions.[/b]\r\n\r\n[hr][/hr]\r\n[h1]Updates[/h1]\r\n[list]\r\n[*]16/12/2024 - There was a bug where if you deleted an auto welder while it is welded to another creation leaves an indestructible invisible block. This has been fixed.\r\n[*]10/12/2024 - Duplication bug potentially fixed. I'm leaving it in the \"Known Issues\" section below just in case.\r\n[*]06/12/2024 - Now works with latest draggable wedges update.\r\n[/list]\r\n\r\n[h1]Example Creations[/h1]\r\n[list]\r\n[*]Picker & Docker: https://steamcommunity.com/sharedfiles/filedetails/?id=3379870791\r\n[*]Pole Climber: https://steamcommunity.com/sharedfiles/filedetails/?id=3379871133\r\n[*]Cube Assembler: https://steamcommunity.com/sharedfiles/filedetails/?id=3379875001\r\n[/list]\r\n\r\n[h1]Survival Mode Compatibility[/h1]\r\nThis mod is in the ModDatabase. \r\nCustom game modes (such as Modded Craftbot Recipes) that make use of the database will have access to the recipe.\r\nAlso note that the mod was not created with Survival Mode in mind, so some survival exclusive interactables (such as beds) may not work as intended currently.\r\n\r\n[h1]Known Issues[/h1]\r\n[i]*Should not happen anymore, left here for posterity*[/i]\r\nOn rare occasions, creations become duplicated on welding.\r\nThe issue is worse when welding with multiple auto welders simultaneously (per creation) as the creations may get duplicated infinitely.\r\nThis issue is somewhat alleviated with the new physics update, but I am actively trying to iron this out.\r\nThe challenge is that the issue is rare enough that it is difficult for me to reproduce consistently, hence making it hard to debug.\r\nIf anyone is able to reliably trigger this bug, please let me know as that would greatly aid in solving this issue.",
+		"description": "A modded part that allows you to weld (and unweld) creations together without using the weld tool.\r\n\r\n[b]Please watch the video for examples and usage instructions.[/b]\r\n\r\n[hr][/hr]\r\n[h1]Updates[/h1]\r\n[list]\r\n[*]16/12/2024 - In survival mode, a bed (that's part of a creation with an auto welder) that has been set as a spawn point will be unset when a weld occurs. This has been fixed and spawn points correctly transfer over to welded creations.\r\n[*]16/12/2024 - Deleting an auto welder while it is welded to another creation leaves an invisible indestructible block. This has been fixed and creations will now properly detach.\r\n[*]10/12/2024 - Duplication bug potentially fixed. I'm leaving it in the \"Known Issues\" section below just in case.\r\n[*]06/12/2024 - Now works with latest draggable wedges update.\r\n[/list]\r\n\r\n[h1]Example Creations[/h1]\r\n[list]\r\n[*]Picker & Docker: https://steamcommunity.com/sharedfiles/filedetails/?id=3379870791\r\n[*]Pole Climber: https://steamcommunity.com/sharedfiles/filedetails/?id=3379871133\r\n[*]Cube Assembler: https://steamcommunity.com/sharedfiles/filedetails/?id=3379875001\r\n[/list]\r\n\r\n[h1]Survival Mode Compatibility[/h1]\r\nThis mod is in the ModDatabase. \r\nCustom game modes (such as Modded Craftbot Recipes) that make use of the database will have access to the recipe.\r\n\r\n[h1]Known Issues[/h1]\r\n[list]\r\n[*]Downgrading a creation with an auto welder from version 0.7.0 (Physics & Wedge Update) or later to an earlier version will corrupt the position data of blocks.\r\n[*]On rare occasions, creations become duplicated on welding. [i]*This has been fixed but left here for posterity*[/i]\r\n[/list]\r\n",
 		"fileId": 3333695062,
 		"localId": "46a378ec-d7b2-490a-a85a-cd0163a5ff0b",
 		"name": "Auto Welder",
@@ -41536,6 +41536,36 @@
 		"fileId": 3405509759,
 		"localId": "83f0303a-9437-4dee-a42a-fcdfcab30ca2",
 		"name": "MT-Pipes",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"7b131dee-e95c-444f-a273-ebf59921de1d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "this mod is being updated and is underdone, so be patient ",
+		"fileId": 3406574693,
+		"localId": "7b131dee-e95c-444f-a273-ebf59921de1d",
+		"name": "Backrooms Block And Cieling",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b7971726-c230-4833-94c1-fd434d9f4ac3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Testing Custom Audio Extension",
+		"fileId": 3406718630,
+		"localId": "b7971726-c230-4833-94c1-fd434d9f4ac3",
+		"name": "CME_TEST",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"0b35632f-133a-4bb8-8042-9712a50c102e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3406739857,
+		"localId": "0b35632f-133a-4bb8-8042-9712a50c102e",
+		"name": "B&P Test",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
