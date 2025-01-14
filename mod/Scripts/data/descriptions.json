@@ -40295,7 +40295,7 @@
 	"70d2d009-8661-434e-a1e7-dadfd97c6b85": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "compatible with Trembusek Train Assets Pack",
+		"description": "",
 		"fileId": 3323025332,
 		"localId": "70d2d009-8661-434e-a1e7-dadfd97c6b85",
 		"name": "zeni",
@@ -40931,7 +40931,12 @@
 	"a694680f-2adb-4cf8-a5d4-b0c60bc8ad2c": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [],
+		"dependencies": [
+			{
+				"fileId": 3407041587,
+				"localId": "612637e4-555a-4d86-a8f3-79623218e6e4"
+			}
+		],
 		"description": "[h1]Build much faster with this mod![/h1]\r\nNo need to open your inventory and search for the blocks anymore. Just press the [b]reload button[/b] (R by default) and the block will instantly appear in your [b]active hotbar slot[/b].\r\n\r\n[h2]You can bind the reload action to the middle mouse button, which will make it much more convenient.[/h2]\r\n\r\n[h1] [b]Important[/b] [/h1]\r\n[list]\r\n    [*]This is [b]NOT[/b] a file mod! You simply download it, enable it, and it works.\r\n    [*]This mod may [b]NOT SUPPORT[/b] some Custom Games.\r\n[/list]\r\n\r\n[h2]Please, rate my mod, add it to your favorites and award it. Thank you![/h2]",
 		"fileId": 3376671009,
 		"localId": "a694680f-2adb-4cf8-a5d4-b0c60bc8ad2c",
