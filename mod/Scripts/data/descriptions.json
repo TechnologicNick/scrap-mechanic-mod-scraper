@@ -41661,5 +41661,15 @@
 		"name": "Glitch Welder Continuation",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"07747048-b284-4a21-a7be-2262a4283343": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h1] ITS A TEST MOD. NOT REALY USEABLE!  [/h1]\r\n\r\nThis mod adds a Smooth Wheel. \r\nI tryed here to simulate the Wheelcollision to prevent that collision bumping like with normal wheels. \r\nthis mod is HEAVY WIP and not done by far. \r\nYou can try it out but make sure you use it carefuly. \r\nIts still janky and not finished.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"fileId": 3216334893,
+		"localId": "07747048-b284-4a21-a7be-2262a4283343",
+		"name": "Fants Smooth Wheel",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
