@@ -445,13 +445,15 @@
 		"version": "0.0"
 	},
 	"eed49613-474d-4f74-a0b0-37ce99c07026": {
+		"allow_add_mods": true,
 		"creatorId": "76561198014346778",
+		"custom_icons": true,
 		"description": "#FFFFFFOfficial ModPack:\n\nThis is the Modpack Invisible.\nIt contains a basic set of interactive parts, but all parts are invisible!\nMore invisible parts will be added in the future ;)\n\nThis is HALF of the experience! Check out The Modpack Visible!\n\nShow us your support and leave a thumbs up! :D\n\n\nLanguage Support:\n- English: Default",
-		"fileId": 1125043182,
+		"fileId": 3408126997,
 		"localId": "eed49613-474d-4f74-a0b0-37ce99c07026",
 		"name": "The Modpack Invisible",
 		"type": "Blocks and Parts",
-		"version": "0.0"
+		"version": 1
 	},
 	"6439a93d-305b-472d-a495-c60799076756": {
 		"creatorId": "76561198218642855",
@@ -8515,19 +8517,21 @@
 		"version": 1
 	},
 	"26ef623b-97d2-49ba-9a10-8898c1a94e9a": {
+		"allow_add_mods": true,
 		"creatorId": "76561198014346778",
-		"description": "[h1][url=https://www.youtube.com/ScrapMechanicMods][img]https://scrapmechanicmods.com/src/assets/img/smm_bearing_32.png[/img][/url] [url=https://www.youtube.com/ScrapMechanicMods]Scrap Mechanic Mods[/url]: [b]The Modpack[/b] 0.5.1[/h1]\nThis is the main Modpack and contains many of the most common parts.\nNow updated to work in 0.5.1 creative mode!\nThe team will be moving onto other mods now, and perhaps some new survival mods 😮\n\n\nLike the mods?\n[img]https://i.imgur.com/p7Fv1Z6.gif[/img]\nDon't forget to leave a thumbs up! 😉\n\nLanguage Support:[code]\n🇧🇷 Brazilian........[unavailable]\n🇨🇳 Chinese..........Maomaogege\n🇫🇷 French...........[incomplete]\n🇺🇸 English..........Durf\n🇩🇪 German...........Snowy & Sheggy\n🇮🇹 Italian..........Malbyx\n🇯🇵 Japanese.........Google Translate / Durf\n🇰🇷 Korean...........[unavailable]\n🇵🇱 Polish...........[unavailable]\n🇷🇺 Russian..........Question Mark\n🇪🇸 Spanish..........Google Translate / Durf\n\nTranslators:\nhttps://steamcommunity.com/id/snowy-t-webs/\nhttps://steamcommunity.com/id/sheggies/\nhttps://steamcommunity.com/id/malbyx/\nhttps://steamcommunity.com/id/QuestionMarko/\n[/code]\n\nOther parts will be available in other categories:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=896541375\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=892871567\n\nIf you see the error \"Mods Missing\" try using The Modpack Legacy Support:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=895738008\n\n[img]https://cdn.discordapp.com/emojis/394340649803186177.gif[/img] [img]https://cdn.discordapp.com/emojis/469432472564662292.png[/img]",
-		"fileId": 881254777,
-		"localId": "26ef623b-97d2-49ba-9a10-8898c1a94e9a",
-		"name": "The Modpack",
-		"type": "Blocks and Parts",
-		"version": 0,
+		"custom_icons": true,
 		"dependencies": [
 			{
 				"fileId": 2448492759,
 				"localId": "b7443f95-67b7-4f1e-82f4-9bef0c62c4b3"
 			}
-		]
+		],
+		"description": "[h1][url=https://www.youtube.com/ScrapMechanicMods][img]https://scrapmechanicmods.com/src/assets/img/smm_bearing_32.png[/img][/url] [url=https://www.youtube.com/ScrapMechanicMods]Scrap Mechanic Mods[/url]: [b]The Modpack[/b] 0.5.1[/h1]\nThis is the main Modpack and contains many of the most common parts.\nNow updated to work in 0.5.1 creative mode!\nThe team will be moving onto other mods now, and perhaps some new survival mods 😮\n\n\nLike the mods?\n[img]https://i.imgur.com/p7Fv1Z6.gif[/img]\nDon't forget to leave a thumbs up! 😉\n\nLanguage Support:[code]\n🇧🇷 Brazilian........[unavailable]\n🇨🇳 Chinese..........Maomaogege\n🇫🇷 French...........[incomplete]\n🇺🇸 English..........Durf\n🇩🇪 German...........Snowy & Sheggy\n🇮🇹 Italian..........Malbyx\n🇯🇵 Japanese.........Google Translate / Durf\n🇰🇷 Korean...........[unavailable]\n🇵🇱 Polish...........[unavailable]\n🇷🇺 Russian..........Question Mark\n🇪🇸 Spanish..........Google Translate / Durf\n\nTranslators:\nhttps://steamcommunity.com/id/snowy-t-webs/\nhttps://steamcommunity.com/id/sheggies/\nhttps://steamcommunity.com/id/malbyx/\nhttps://steamcommunity.com/id/QuestionMarko/\n[/code]\n\nOther parts will be available in other categories:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=896541375\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=892871567\n\nIf you see the error \"Mods Missing\" try using The Modpack Legacy Support:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=895738008\n\n[img]https://cdn.discordapp.com/emojis/394340649803186177.gif[/img] [img]https://cdn.discordapp.com/emojis/469432472564662292.png[/img]",
+		"fileId": 3408132841,
+		"localId": "26ef623b-97d2-49ba-9a10-8898c1a94e9a",
+		"name": "The Modpack",
+		"type": "Blocks and Parts",
+		"version": 1
 	},
 	"fa5206bc-7919-4741-b76a-2226395619b1": {
 		"creatorId": "76561198018592532",
@@ -8856,10 +8860,11 @@
 	"8072a6a5-9152-42af-8ca5-420d969c636f": {
 		"creatorId": "76561198014346778",
 		"description": "Official ModPack:\n\nThis is the Modpack Polygons.\nIt contains wedges, curves, transitions, surface panels, and wing parts.\nOther parts will be available in other categories.\n\nLike the mods?\nDon't forget to leave a thumbs up! ;)\n\nThis mod is a collaboration of the ModPack Team:\nDurf, MJM Builds, Brent Batch, Lord Pain, TechnologicNick, Grego, ShinevisionSV\n\nLanguage Support:\n- English: Default\n- French: Emeric Bréhaut",
-		"fileId": 892871567,
+		"fileId": 3408131183,
 		"localId": "8072a6a5-9152-42af-8ca5-420d969c636f",
 		"name": "The Modpack Polygons",
-		"type": "Blocks and Parts"
+		"type": "Blocks and Parts",
+		"version": 1
 	},
 	"e8b50c3c-7bb4-4f07-aff8-a60868d89284": {
 		"creatorId": "76561198274208591",
@@ -8960,10 +8965,11 @@
 	"cafa82ac-0810-4390-a6e7-b34d73373b3e": {
 		"creatorId": "76561198014346778",
 		"description": "Official ModPack:\n\nThis is the Modpack Polygons: Glass edition.\nIt contains everything from \"The Modpack Polygons\", but now in Glass!\n\n\nLike the mods?\nShow us your support: thumbs up + favorite! ;)\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support:\n- English: Default\n- French: Emeric Bréhaut",
-		"fileId": 896709871,
+		"fileId": 3408130252,
 		"localId": "cafa82ac-0810-4390-a6e7-b34d73373b3e",
 		"name": "The Modpack Polygons Glass",
-		"type": "Blocks and Parts"
+		"type": "Blocks and Parts",
+		"version": 1
 	},
 	"ee14eedb-f308-4565-a08b-ba42346c6979": {
 		"creatorId": "76561198182248401",
@@ -8976,10 +8982,11 @@
 	"362779a3-7e8e-4432-a83b-ca8909d81f82": {
 		"creatorId": "76561198014346778",
 		"description": "Official ModPack:\n\nThis is the Modpack Polygons: Ultra-Lightweight edition.\nIt contains everything from \"The Modpack Polygons\", but now Ultra Lightweight!\n\n\nLike the mods?\nShow us your support: thumbs up + favorite! ;)\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support:\n- English: Default\n- French: Emeric Bréhaut",
-		"fileId": 897461693,
+		"fileId": 3408131813,
 		"localId": "362779a3-7e8e-4432-a83b-ca8909d81f82",
 		"name": "The Modpack Polygons UltraLight",
-		"type": "Blocks and Parts"
+		"type": "Blocks and Parts",
+		"version": 1
 	},
 	"5b6b96e5-34fe-4bc8-b0f7-032d645bf438": {
 		"creatorId": "76561198318189561",
@@ -9981,10 +9988,11 @@
 	},
 	"47ddf902-b0b8-41c7-8f0c-aff1e61e4309": {
 		"description": "[url=https://www.youtube.com/ScrapMechanicMods][img]https://cdn.discordapp.com/emojis/469432471524605952.png[/img][/url]\n[h1][url=https://www.youtube.com/ScrapMechanicMods]Scrap Mechanic Mods[/url]: [b]The Modpack BETA[/b][/h1]\nThis is the Modpack BETA and contains FUN and EXPERIMENTAL parts. Water block! Sports Balls! And more!\nTest the latest innovations in modding technology!\nParts from this pack may move to other Modpacks if they pass beta testing 🤔\n\nCreated by:\n[b]Durf, Brent Batch, MJM, TechnologicNick, Lord Pain[/b], Grego, Shinevision\n\nLike the mods?\n[img]https://i.imgur.com/p7Fv1Z6.gif[/img]\nDon't forget to leave a thumbs up! 😉\n\n[img]https://cdn.discordapp.com/emojis/394340649803186177.gif[/img] [img]https://cdn.discordapp.com/emojis/469432472564662292.png[/img]",
-		"fileId": 896541375,
+		"fileId": 3408129053,
 		"localId": "47ddf902-b0b8-41c7-8f0c-aff1e61e4309",
 		"name": "The Modpack BETA",
-		"type": "Blocks and Parts"
+		"type": "Blocks and Parts",
+		"version": 1
 	},
 	"be955343-1850-4776-b7fc-1c089e26f03f": {
 		"creatorId": "76561198081248744",
@@ -41611,6 +41619,46 @@
 		"fileId": 3407578766,
 		"localId": "bbf2cac0-76bf-4aec-b9b2-3bbdd9e0cc63",
 		"name": "Minerbot",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"66282389-85d3-4a11-abbd-19cb0fc79941": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod adds Sword Parts that destroy on Collision any other Block and Part.\r\n\r\nThis mod is made as a Reward for the winner  \"sprindator\" of the Flying Miner Challange.\r\n\r\n\r\nHave fun with it.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"fileId": 3407943575,
+		"localId": "66282389-85d3-4a11-abbd-19cb0fc79941",
+		"name": "Modular Sword",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"df48f9c0-cb9e-4fe3-abca-ac94f06fa8df": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Just for info the whole thing is a mess so just take it in my mind that i will have to patch up everything\n\nList of mods included:\nChallenge Parts\nThe Modpack BETA\nThe Modpack Neon\n\nThe Modpack Polygons\nThe Modpack Legacy Support\nThe Modpack Polygons Glass\nThe Modpack Polygons UltraLight\nThe Modpack Polygons Glow\nThe Modpack Polygons Chrome\nThe Modpack Polygons Mirror\nThe Modpack Polygons Bling",
+		"fileId": 3408182825,
+		"localId": "df48f9c0-cb9e-4fe3-abca-ac94f06fa8df",
+		"name": "The (Modpack) Modpack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"ae49c862-51dd-4ae7-bf74-3362f2ce7964": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1] Duck Character [/h1]\n\nThis mod adds Duck character to the game, they spawn near Wocs or in creative with capsules\n\n\n[h1] UPDATE:[/h1]\nDuck character has been updated to 0.6.5 version\n\n\n[h1] FEATURES:[/h1]\n[list]\n[*] Can be places as capsule in creative mode\n[*] They spawn around Wocs and try to stay close to them\n[*] They will follow you if you hold a corn\n[*] They will eat corn and drop a cotton\n[*] They will die after 30 in-game days if not fed\n[*] They are staying around an area they were last fed\n[*] Have full set of animations\n[/list]\n[h1] How to use it: [/h1] \n\nFOR CREATIVE:\n[b]1. Open: SM game/Data/Character/charactersets.json under \"characterSetList\": line add:[/b]\n[code]\n\"$CONTENT_04d8ff56-72db-43eb-a5be-13525349c1cf/Character/Duck/duck.json\",\n[/code]\n\nNow place a Duck capsule from Mods tab and hit it with a sledgehammer\n\n[b]Done[/b]\n\nFOR SURVIVAL:\n[b]1. Open: SM game/Survival/Character/charactersets.json under \"characterSetList\": line  add:[/b]\n[code]\n\"$CONTENT_04d8ff56-72db-43eb-a5be-13525349c1cf/Character/Duck/duck.json\",\n[/code]\n\n[b]2. Open SM game/Survival/Scripts/game/survival_spawns.lua and search for:[/b]\n[code]elseif tag == \"WOC\" then[/code]\n[b]3. Under it, add this line:[/b]\n[code]\nsm.unit.createUnit(sm.uuid.new(\"71f83419-88c0-4131-aa20-25334586fae2\"),sm.vec3.new(node.position.x+5,node.position.y,node.position.z+2),toYaw( node.rotation ) )\n[/code]\n\nYou can add multiple lines of code above to spawn a lot more Ducks\n\n[b]Done[/b]",
+		"fileId": 3408195726,
+		"localId": "ae49c862-51dd-4ae7-bf74-3362f2ce7964",
+		"name": "Red Totebot Character",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a05af9f2-860d-4529-b70b-0ad405dd4dbd": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Orignal mod made by MJM, a great modder but he lost motivation to update the glitchwelder.\nThe orignal mod overall just has a lot of issues that hasnt been fixed since the start of survival.\n\n-Place the glitch welder on a creation.\n-Paint parts light-cyan blue then 'Press [E] to use' to cut/paste.\n-Paint parts light green to paste as static in the world. (havent made this yet!)\n-Paint the glitch welder itself the color you want to spawn the parts. (Unpainted welder spawns unpainted parts).\n-Press U or the Upgrade button to re-paste the last items copied over and over. (Takes blocks from the inventory if you are in survival!)\n",
+		"fileId": 3408269388,
+		"localId": "a05af9f2-860d-4529-b70b-0ad405dd4dbd",
+		"name": "Glitch Welder Continuation",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
