@@ -436,13 +436,14 @@
 		"version": "0.0"
 	},
 	"bf3e1929-90d6-4cfa-a7ed-966ef1a7b099": {
-		"creatorId": "76561198014346778",
-		"description": "#FFFFFFOfficial ModPack:\n\nThis is the Modpack Visible.\nIt contains the same set of parts as the invisible pack, but all parts are visible!\nUse this pack to build your stuff, then disable this mod, and enable the invisible mod!\nEasily turn on/off an entire Modpack visilibility!\n\nThis is HALF of the experience! Check out The Modpack Invisible!\n\nShow us your support and leave a thumbs up! :D\n\n\nLanguage Support:\n- English: Default",
-		"fileId": 1125042023,
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Disclaimer: This is a reupload of the Modpack Visible because there was only the Invsible on the workshop\r\nI do not take any credit for this :P\r\n\r\n\r\n[h1]Original Description[/h1]\r\n\r\nThis is the Modpack Visible.\r\nIt contains the same set of parts as the invisible pack, but all parts are visible!\r\nUse this pack to build your stuff, then disable this mod, and enable the invisible mod!\r\nEasily turn on/off an entire Modpack visibility!\r\n\r\nThis is HALF of the experience! Check out The Modpack Invisible!\r\n\r\nShow us your support and leave a thumbs up! :D\r\n\r\n\r\nLanguage Support:\r\n- English: Default\r\n",
+		"fileId": 3408612446,
 		"localId": "bf3e1929-90d6-4cfa-a7ed-966ef1a7b099",
 		"name": "The Modpack Visible",
 		"type": "Blocks and Parts",
-		"version": "0.0"
+		"version": 1
 	},
 	"eed49613-474d-4f74-a0b0-37ce99c07026": {
 		"allow_add_mods": true,
@@ -1896,12 +1897,14 @@
 		"version": 0
 	},
 	"c52efc1d-0125-4d1f-991c-293e4ae96ede": {
-		"description": "Official ModPack:\n\nThis is the Modpack Polygons Cardboard!\nIt contains everything from the Modpack Polygons, but is destructible!\n\n\nCONVERT your old blueprints here: \nhttps://www.scrapmechanicmods.com/tools/DestructiblePolygons/\nAny blueprint made with original polygons can be destructible with this tool!\n\n\n\nLike the mods?\nDon't forget to leave a thumbs up! ;)\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support: Coming soon!",
-		"fileId": 1393273081,
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "I DO NOT OWN ANY OF THE MATERIAL IN THIS MOD!\nOriginal mod from Durf\n\nOfficial ModPack:\n\nThis is the Modpack Polygons Cardboard!\nIt contains everything from the Modpack Polygons, but is destructible!\n\n\nCONVERT your old blueprints here: \nhttps://www.scrapmechanicmods.com/tools/DestructiblePolygons/\nAny blueprint made with original polygons can be destructible with this tool!\n\n\n\nLike the mods?\nDon't forget to leave a thumbs up! ;)\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support: Coming soon!",
+		"fileId": 3408662990,
 		"localId": "c52efc1d-0125-4d1f-991c-293e4ae96ede",
 		"name": "The Modpack Polygons Cardboard",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"3c3e2017-b89b-49c8-b590-69d75d1d817b": {
 		"description": "This mod is no longer working and will not be worked on any longer.\n\nIt used to work like [u][url=https://www.youtube.com/watch?v=oD7o3qlA4jE]this[/url][/u].\n\n",
@@ -8939,12 +8942,15 @@
 		"type": "Blocks and Parts"
 	},
 	"b2be7b87-c100-4519-9f5d-6c265ec785ff": {
+		"allow_add_mods": true,
 		"creatorId": "76561198014346778",
-		"description": "Official ModPack:\n\nThis is the Modpack Legacy Support.\nIt contains parts that are old, discontinued, or ones that already have a duplicate part.\nThis is made so that you can load your old blueprints - DO NOT BUILD NEW CREATIONS WITH THESE PARTS - look for the better version of the same parts in other Modpacks.\n\n\n\nLAST UPDATED: 24th September 2020 (thanks to AncientEvil for the assistance with this update!)\n\nThis update was to support 0.4 changes to the part definitions so you can load these parts with older blueprints.\nIn the future, parts will be easier to manage and play with; this will eventually become obsolete.",
-		"fileId": 895738008,
+		"custom_icons": true,
+		"description": "I DO NOT OWN ANY MATERIAL IN THIS MOD!\nOriginal from Durf\n\nOfficial ModPack:\n\nThis is the Modpack Legacy Support.\nIt contains parts that are old, discontinued, or ones that already have a duplicate part.\nThis is made so that you can load your old blueprints - DO NOT BUILD NEW CREATIONS WITH THESE PARTS - look for the better version of the same parts in other Modpacks.\n\n\n\nLAST UPDATED: 24th September 2020 (thanks to AncientEvil for the assistance with this update!)\n\nThis update was to support 0.4 changes to the part definitions so you can load these parts with older blueprints.\nIn the future, parts will be easier to manage and play with; this will eventually become obsolete.",
+		"fileId": 3408650769,
 		"localId": "b2be7b87-c100-4519-9f5d-6c265ec785ff",
 		"name": "The Modpack Legacy Support",
-		"type": "Blocks and Parts"
+		"type": "Blocks and Parts",
+		"version": 1
 	},
 	"f63785bd-f8d5-42fa-a794-488e02487508": {
 		"creatorId": "76561198143541574",
@@ -9151,12 +9157,15 @@
 		"type": "Blocks and Parts"
 	},
 	"98722d77-6951-47b9-b435-4cdb0ecbf80a": {
+		"allow_add_mods": true,
 		"creatorId": "76561198014346778",
-		"description": "Official ModPack:\n\nThis is the Modpack Neon.\nIt contains neon lights that you can turn on/off!\nCreate your own neon signs!\nMore neon parts will be added in the future ;)\n\nShow us your support and leave a thumbs up! :D\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support:\n- English: Default\n- French: Emeric Bréhaut",
-		"fileId": 904706219,
+		"custom_icons": true,
+		"description": "I DO NOT OWN ANY MATERIAL IN THIS MOD!\nORIGINAL MOD FROM DRUF\n\nOfficial ModPack:\n\nThis is the Modpack Neon.\nIt contains neon lights that you can turn on/off!\nCreate your own neon signs!\nMore neon parts will be added in the future ;)\n\nShow us your support and leave a thumbs up! :D\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support:\n- English: Default\n- French: Emeric Bréhaut",
+		"fileId": 3408644887,
 		"localId": "98722d77-6951-47b9-b435-4cdb0ecbf80a",
 		"name": "The Modpack Neon",
-		"type": "Blocks and Parts"
+		"type": "Blocks and Parts",
+		"version": 1
 	},
 	"1e822b5d-9ede-4560-be58-79b7985b9fc1": {
 		"creatorId": "76561198321770283",
@@ -9542,36 +9551,44 @@
 		"type": "Blocks and Parts"
 	},
 	"cbbf7bf2-ba79-446a-be8d-4b8509f00c82": {
+		"allow_add_mods": true,
 		"creatorId": "76561198014346778",
-		"description": "Official ModPack:\n\nThis is the Modpack Polygons: Glowing edition.\nIt contains everything from \"The Modpack Polygons\", but now Glowing!\n\n\nLike the mods?\nShow us your support: thumbs up + favorite! ;)\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support:\n- English: Default\n- French: Emeric Bréhaut",
-		"fileId": 935921500,
+		"custom_icons": true,
+		"description": "I DO NOT OWN ANY MATERIAL IN THIS MOD!\nOriginal mod from Durf\n\nOfficial ModPack:\n\nThis is the Modpack Polygons: Glowing edition.\nIt contains everything from \"The Modpack Polygons\", but now Glowing!\n\n\nLike the mods?\nShow us your support: thumbs up + favorite! ;)\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support:\n- English: Default\n- French: Emeric Bréhaut",
+		"fileId": 3408643770,
 		"localId": "cbbf7bf2-ba79-446a-be8d-4b8509f00c82",
 		"name": "The Modpack Polygons Glow",
-		"type": "Blocks and Parts"
+		"type": "Blocks and Parts",
+		"version": 1
 	},
 	"172dde9e-26f7-4b85-af4d-4d332c67f4cb": {
 		"creatorId": "76561198014346778",
 		"description": "Official ModPack:\n\nThis is the Modpack Polygons: Chrome edition.\nIt contains everything from \"The Modpack Polygons\", but now in Chrome!\n\n\nLike the mods?\nShow us your support: thumbs up + favorite! ;)\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support:\n- English: Default\n- French: Emeric Bréhaut",
-		"fileId": 935922233,
+		"fileId": 3408641270,
 		"localId": "172dde9e-26f7-4b85-af4d-4d332c67f4cb",
 		"name": "The Modpack Polygons Chrome",
-		"type": "Blocks and Parts"
+		"type": "Blocks and Parts",
+		"version": 1
 	},
 	"7ed672f2-05c0-487e-9304-2550d270c519": {
 		"creatorId": "76561198014346778",
 		"description": "Official ModPack:\n\nThis is the Modpack Polygons: Mirror edition.\nIt contains everything from \"The Modpack Polygons\", but now as Mirrors!\n\n\nLike the mods?\nShow us your support: thumbs up + favorite! ;)\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support:\n- English: Default\n- French: Emeric Bréhaut",
-		"fileId": 935923186,
+		"fileId": 3408638527,
 		"localId": "7ed672f2-05c0-487e-9304-2550d270c519",
 		"name": "The Modpack Polygons Mirror",
-		"type": "Blocks and Parts"
+		"type": "Blocks and Parts",
+		"version": 1
 	},
 	"2eb97844-485d-41a6-9ac7-b889fc1103e0": {
+		"allow_add_mods": true,
 		"creatorId": "76561198014346778",
+		"custom_icons": false,
 		"description": "Official ModPack:\n\nThis is the Modpack Polygons: Bling edition.\nIt contains everything from \"The Modpack Polygons\", but now in Bling!\n\n\nLike the mods?\nShow us your support: thumbs up + favorite! ;)\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support:\n- English: Default\n- French: Emeric Bréhaut",
-		"fileId": 935923504,
+		"fileId": 3408636328,
 		"localId": "2eb97844-485d-41a6-9ac7-b889fc1103e0",
 		"name": "The Modpack Polygons Bling",
-		"type": "Blocks and Parts"
+		"type": "Blocks and Parts",
+		"version": 1
 	},
 	"99ff1bc3-0cbd-4ecc-bfcc-505a14c9001e": {
 		"creatorId": "76561198156022978",
@@ -40323,12 +40340,7 @@
 	"cec06b8d-63c5-45d0-ad0b-3501f8e2eeb0": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 3269912087,
-				"localId": "632be32f-6ebd-414e-a061-d45906ae4dc6"
-			}
-		],
+		"dependencies": [],
 		"description": "This add-on adds more displays to ScrapComputers.\n\nYou can use this mod to not only have high quality pictures, but also to break your computer!",
 		"fileId": 3317805363,
 		"localId": "cec06b8d-63c5-45d0-ad0b-3501f8e2eeb0",
@@ -40861,7 +40873,7 @@
 	"0bba8195-5c3d-49b3-b655-8a763bb307ea": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "THAT ONE BOUNCED\\nCurrent mod features: \n-Implemented ricochet for all explosives (large factor for large can and small factor for small can)\n-Removed penetration and added guaranteed surface explosion for large canisters when there is no ricochet\n-Kept penetration for small canisters\n-Reduced likelyhood of ammo detonation depending on vehicle mass (heavier is less likely)\n-Implemented variation in ignited ammunition fuse timedepending on vehicle mass (heavier has longer fuse)\n-Added ricochet effects and sound\n-Paint scratching on ricochet\n-Penetration hole",
+		"description": "THAT ONE BOUNCED\r\nCurrent mod features: \r\n-Implemented ricochet for all explosives (large factor for large can and small factor for small can)\r\n-Removed penetration and added guaranteed surface explosion for large canisters when there is no ricochet\r\n-Kept penetration for small canisters\r\n-Reduced likelyhood of ammo detonation depending on vehicle mass (heavier is less likely)\r\n-Implemented variation in ignited ammunition fuse timedepending on vehicle mass (heavier has longer fuse)\r\n-Added ricochet effects and sound\r\n-Paint scratching on ricochet\r\n-Penetration hole (has issues working throught blocks : /)",
 		"fileId": 3372432992,
 		"localId": "0bba8195-5c3d-49b3-b655-8a763bb307ea",
 		"name": "TBE-IEL Explosive Changes",
@@ -41634,8 +41646,8 @@
 	},
 	"df48f9c0-cb9e-4fe3-abca-ac94f06fa8df": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "Just for info the whole thing is a mess so just take it in my mind that i will have to patch up everything\n\nList of mods included:\nChallenge Parts\nThe Modpack BETA\nThe Modpack Neon\n\nThe Modpack Polygons\nThe Modpack Legacy Support\nThe Modpack Polygons Glass\nThe Modpack Polygons UltraLight\nThe Modpack Polygons Glow\nThe Modpack Polygons Chrome\nThe Modpack Polygons Mirror\nThe Modpack Polygons Bling",
+		"custom_icons": true,
+		"description": "For info this is a patch up of everything into one but also includes some fixes for blocks like in Modpack Beta.\n\nFun Fact: This actually can save a bit of your storage space as you don't have multiple copies of the same file for the same polygon :D\n\nFor anyone asking where is Invisible and Visible as of them using same UUID's i cant fit them into one pack :P\n\nList of mods included:\nChallenge Parts\nThe Modpack BETA\nThe Modpack Neon\nThe Modpack Legacy Support\n\nPolygons Pack 3.0 Optimized\n\nThe Modpack Polygons\nThe Modpack Polygons Glass\nThe Modpack Polygons UltraLight\nThe Modpack Polygons Glow\nThe Modpack Polygons Chrome\nThe Modpack Polygons Mirror\nThe Modpack Polygons Bling\nThe Modpack Polygons Cardboard",
 		"fileId": 3408182825,
 		"localId": "df48f9c0-cb9e-4fe3-abca-ac94f06fa8df",
 		"name": "The (Modpack) Modpack",
@@ -41669,6 +41681,26 @@
 		"fileId": 3216334893,
 		"localId": "07747048-b284-4a21-a7be-2262a4283343",
 		"name": "Fants Smooth Wheel",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"ab4d86bb-ae0c-4d73-9c26-cf520889d403": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3408700649,
+		"localId": "ab4d86bb-ae0c-4d73-9c26-cf520889d403",
+		"name": "SURVIVAL",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"47722f99-3144-4719-be5e-2974370f674e": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 3408783407,
+		"localId": "47722f99-3144-4719-be5e-2974370f674e",
+		"name": "Omnidirectional Wheels",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
