@@ -40322,7 +40322,7 @@
 	"70d2d009-8661-434e-a1e7-dadfd97c6b85": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "",
+		"description": "compatible with Trembusek Train Assets Pack",
 		"fileId": 3323025332,
 		"localId": "70d2d009-8661-434e-a1e7-dadfd97c6b85",
 		"name": "zeni",
@@ -41699,7 +41699,7 @@
 	"47722f99-3144-4719-be5e-2974370f674e": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds Omnidirectional Wheels with intigrated Engine.\r\n\r\nversion 1.0\r\n\r\nOmni Wheels can only be saved on the lift if you toggle/despawn the Wheels befor saving, otherwise the saved creation has a INVALID JOINT ERROR! \r\nIn survival you must use Fuel, you can fill the Internal Gascontainer or you can connect a Gas Tank. \r\nAlso you can connect 7 inputs / buttons, switches or logic components to it, each must have a specific color. On the Omniwheel Cube you see 6 different colors ( white, black, red, blue, yellow and green ) these are for the spin direction. Additionaly you can connect a Default Colored Input to Spawn/Despawn the Wheels to save the creation then on the lift.\r\n\r\n\r\nEXAMPLE CREATION:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=3408772439\r\n\r\nHave fun with it.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This mod adds Omnidirectional Wheels with intigrated Engine.\r\n\r\nversion 1.2\r\n\r\nOmni Wheels can only be saved on the lift if you toggle/despawn the Wheels befor saving, otherwise the saved creation has a INVALID JOINT ERROR! \r\nIn survival you must use Fuel, you can fill the Internal Gascontainer or you can connect a Gas Tank. \r\nAlso you can connect 8 inputs / buttons, switches or logic components to it, each must have a specific color. On the Omniwheel Cube you see 6 different colors ( white, black, red, blue, yellow and green ) these are for the spin direction.\r\nAlso a Purple colored Input is used for the Brake.\r\nAdditionaly you can connect a Default Colored Input to Spawn/Despawn the Wheels to save the creation then on the lift.\r\n\r\n\r\nEXAMPLE CREATION:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=3408772439\r\n\r\nHave fun with it.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 3408783407,
 		"localId": "47722f99-3144-4719-be5e-2974370f674e",
 		"name": "Omnidirectional Wheels",
