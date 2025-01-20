@@ -8945,10 +8945,9 @@
 	},
 	"b2be7b87-c100-4519-9f5d-6c265ec785ff": {
 		"allow_add_mods": true,
-		"creatorId": "76561198014346778",
-		"custom_icons": true,
-		"description": "I DO NOT OWN ANY MATERIAL IN THIS MOD!\nOriginal from Durf\n\nOfficial ModPack:\n\nThis is the Modpack Legacy Support.\nIt contains parts that are old, discontinued, or ones that already have a duplicate part.\nThis is made so that you can load your old blueprints - DO NOT BUILD NEW CREATIONS WITH THESE PARTS - look for the better version of the same parts in other Modpacks.\n\n\n\nLAST UPDATED: 24th September 2020 (thanks to AncientEvil for the assistance with this update!)\n\nThis update was to support 0.4 changes to the part definitions so you can load these parts with older blueprints.\nIn the future, parts will be easier to manage and play with; this will eventually become obsolete.",
-		"fileId": 3408650769,
+		"custom_icons": false,
+		"description": "ORIGINAL BY: Durf\nDISCLAIMER: I do not own this mod. All rights go to Durf, nick, brent, mjm, lord pain, Grego, ShinevisionSV\nTHIS IS A REUPLOAD, as Durf removed this mod from the workshop and people have asked for it to be reuploaded\n\nOfficial ModPack:\n\nThis is the Modpack Legacy Support.\nIt contains parts that are old, discontinued, or ones that already have a duplicate part.\nThis is made so that you can load your old blueprints - DO NOT BUILD NEW CREATIONS WITH THESE PARTS - look for the better version of the same parts in other Modpacks.\n\n\nShow us your support by leaving a thumbs up! :D\n\nThis mod is a collaboration of the ModPack Team:\nDurf, MJM Builds, Brent Batch, Lord Pain, TechnologicNick, Grego, ShinevisionSV\n\nLanguage Support:\n- English: Default\n- Russian: Thanks to Question mark for the translation!",
+		"fileId": 3410981238,
 		"localId": "b2be7b87-c100-4519-9f5d-6c265ec785ff",
 		"name": "The Modpack Legacy Support",
 		"type": "Blocks and Parts",
@@ -41723,6 +41722,16 @@
 		"fileId": 3410038784,
 		"localId": "c996e062-27c6-4e0d-8226-aab113344753",
 		"name": "Kabomba",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"0c456e4b-a684-4abf-8594-438126780c04": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Modifies the targets to output one tick signals when a projectile hits it as well as output the power of the last hit",
+		"fileId": 3410970415,
+		"localId": "0c456e4b-a684-4abf-8594-438126780c04",
+		"name": "Actual Working Targets",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
