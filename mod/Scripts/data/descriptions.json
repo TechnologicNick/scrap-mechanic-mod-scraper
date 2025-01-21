@@ -41811,5 +41811,15 @@
 		"name": "Actual Working Targets",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"cb9bbe15-b567-457f-a0ee-9639db81b412": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "------------------!Attension!--------------------\nThis is not my mod, this is reupload of deleted Destructible legend mod\n[h1]【当前版本】[/h1]\nNew Legend Mod [b]3.2.3[/b]\n\n[h1]【关于Mod】[/h1]\n这是普通传奇Mod的可破坏版本。用来与普通传奇Mod进行切换但是不能同时使用！你可以通过 [u]切换[/u] 这两个Mod来让传奇Mod做好的东西在 [u]可破坏[/u] 与 [u]不可破坏[/u] 的状态之间切换。在这个可破坏Mod里的零件和方块都可被土豆枪击碎。现已支持英文物品描述！\n\n[h1]【特别感谢】[/h1]\n感谢Modpack作者Durf对Mod体积优化的建议！\n以及MJM Mod提供的开源座椅脚本!\n\n[h1]【支持语言】[/h1]\n[list]\n[*]简体中文 Chinese\n[*]英语 English\n[/list]\n\n[h1]【其他Mod以及自定义游戏】[/h1]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=881252559] 不可破坏版传奇Mod [/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2815418786] 传奇生存自定义游戏 [/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2716762412] 传奇地形资产模组 [/url]\n\n[h1]【我们的视频频道】[/h1]\nB站: http://space.bilibili.com/25427038\n微博：https://weibo.com/u/5507869196\n抖音：https://v.douyin.com/JxXUuNn/\n快手：http://www.gifshow.com/s/qWgnmWqf\n\n[h1]【我们的QQ交流群】Our QQ Groups[/h1]\n传奇建造队交流一群 537532878\n传奇建造队交流二群 158484814\n传奇建造队交流三群 474178046\n传奇建造队交流四群 633703984",
+		"fileId": 3411695374,
+		"localId": "cb9bbe15-b567-457f-a0ee-9639db81b412",
+		"name": "Destructible Legend Mod (Reupload)",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
