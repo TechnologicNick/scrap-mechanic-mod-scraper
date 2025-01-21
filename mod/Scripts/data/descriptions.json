@@ -41647,7 +41647,84 @@
 	},
 	"df48f9c0-cb9e-4fe3-abca-ac94f06fa8df": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3411547191,
+				"localId": "e22c6933-c6ba-46a8-8cca-859a05555137",
+				"name": "Challenge Parts"
+			},
+			{
+				"fileId": 3411547774,
+				"localId": "278f6afe-9d5c-48a1-a421-dd0db5634106",
+				"name": "Polygons Pack 3.0 Optimized"
+			},
+			{
+				"fileId": 3411547838,
+				"localId": "26ef623b-97d2-49ba-9a10-8898c1a94e9a",
+				"name": "The Modpack"
+			},
+			{
+				"fileId": 3411547577,
+				"localId": "8072a6a5-9152-42af-8ca5-420d969c636f",
+				"name": "The Modpack Polygons"
+			},
+			{
+				"fileId": 3411547425,
+				"localId": "b2be7b87-c100-4519-9f5d-6c265ec785ff",
+				"name": "The Modpack Legacy Support"
+			},
+			{
+				"fileId": 3411547295,
+				"localId": "cafa82ac-0810-4390-a6e7-b34d73373b3e",
+				"name": "The Modpack Polygons Glass"
+			},
+			{
+				"fileId": 3411547684,
+				"localId": "362779a3-7e8e-4432-a83b-ca8909d81f82",
+				"name": "The Modpack Polygons UltraLight"
+			},
+			{
+				"fileId": 3411547465,
+				"localId": "98722d77-6951-47b9-b435-4cdb0ecbf80a",
+				"name": "The Modpack Neon"
+			},
+			{
+				"fileId": 3411547220,
+				"localId": "cbbf7bf2-ba79-446a-be8d-4b8509f00c82",
+				"name": "The Modpack Polygons Glow"
+			},
+			{
+				"fileId": 3411547885,
+				"localId": "172dde9e-26f7-4b85-af4d-4d332c67f4cb",
+				"name": "The Modpack Polygons Chrome"
+			},
+			{
+				"fileId": 3411547613,
+				"localId": "7ed672f2-05c0-487e-9304-2550d270c519",
+				"name": "The Modpack Polygons Mirror"
+			},
+			{
+				"fileId": 3411547725,
+				"localId": "2eb97844-485d-41a6-9ac7-b889fc1103e0",
+				"name": "The Modpack Polygons Bling"
+			},
+			{
+				"fileId": 3411547643,
+				"localId": "47ddf902-b0b8-41c7-8f0c-aff1e61e4309",
+				"name": "The Modpack BETA"
+			},
+			{
+				"fileId": 3411547335,
+				"localId": "c52efc1d-0125-4d1f-991c-293e4ae96ede",
+				"name": "The Modpack Polygons Cardboard"
+			},
+			{
+				"fileId": 3411547527,
+				"localId": "902251dd-c341-4a96-91f3-02b2644da996",
+				"name": "Colored Buttons and Switches"
+			}
+		],
 		"description": "For info this is a patch up of everything into one but also includes some fixes for blocks like in Modpack Beta.\n\nFun Fact: This actually can save a bit of your storage space as you don't have multiple copies of the same file for the same polygon :D\n\nFor anyone asking where is Invisible and Visible as of them using same UUID's i cant fit them into one pack :P\n\nList of mods included:\n\nChallenge Parts\nColored Buttons and Switches\n\nThe Modpack BETA\nThe Modpack Neon\nThe Modpack Legacy Support\n\nPolygons Pack 3.0 Optimized\n\nThe Modpack Polygons\nThe Modpack Polygons Glass\nThe Modpack Polygons UltraLight\nThe Modpack Polygons Glow\nThe Modpack Polygons Chrome\nThe Modpack Polygons Mirror\nThe Modpack Polygons Bling\nThe Modpack Polygons Cardboard",
 		"fileId": 3408182825,
 		"localId": "df48f9c0-cb9e-4fe3-abca-ac94f06fa8df",
