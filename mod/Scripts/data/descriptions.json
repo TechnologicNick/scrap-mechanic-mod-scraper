@@ -41831,5 +41831,15 @@
 		"name": "visible unvisible parts zeni",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"962afb13-362f-4b24-8f35-99dfdb10a7b0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3412705644,
+		"localId": "962afb13-362f-4b24-8f35-99dfdb10a7b0",
+		"name": "COLLISION",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
