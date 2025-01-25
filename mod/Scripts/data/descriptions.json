@@ -41845,10 +41845,20 @@
 	"1b3f108e-c056-4a87-80bb-a2735ac8fff9": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Mod that adds faction icons from Warhammer 40K. feel free to send suggestions in comment section",
+		"description": "Mod that adds faction icons from Warhammer 40K. feel free to send suggestions in comment section\r\n\r\nCurrently  Includes:\r\nSkull\r\nAdeptus Mechanicus Logo\r\nImperium Of Man Logo\r\nUltramarines Logo\r\nChaos Logo\r\nOrks Logo\r\n\r\nall parts can be painted\r\n\r\n𝕱𝖔𝖗 𝕿𝖍𝖊 𝕰𝖒𝖕𝖊𝖗𝖔𝖗!",
 		"fileId": 3412958757,
 		"localId": "1b3f108e-c056-4a87-80bb-a2735ac8fff9",
 		"name": "40K_Symbols",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d0ffe3fe-9b25-4e09-bed7-163623d234ce": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Welcome to the Beta Version of Space Scrapper!\n\nSpace Scrapper is an exciting custom game mode where you and your friends will embark on an interstellar adventure aboard a spaceship, exploring a dangerous and mysterious galaxy. The focus of this mod is on action and cooperation, offering a fun, thrilling experience rather than a realistic simulation.\n\nCreating this mod is a challenging and time-consuming project for us, so we’re releasing this beta version (as a Block & Parts) to share our progress and gather your feedback. We hope you’ll find it engaging and maybe even want to support us!\n\nOur goal is to fill the game with diverse and exciting encounters, such as space pirates, abandoned stations, shipwrecks, and much more. If you’d like to contribute, you can create and share your designs with us on Discord. We’d love to include community creations in our mod!\n\nFeel free to join our Discord server to:\n\nDiscuss the project\nFind friends to play with\nShare your creations\nSuggest ideas\nReport bugs\n📢 Join here: https://discord.gg/4MFd3etQTj",
+		"fileId": 3378188905,
+		"localId": "d0ffe3fe-9b25-4e09-bed7-163623d234ce",
+		"name": "Spaceship Parts",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
