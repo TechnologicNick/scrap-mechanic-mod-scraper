@@ -41845,7 +41845,7 @@
 	"1b3f108e-c056-4a87-80bb-a2735ac8fff9": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Mod that adds faction icons from Warhammer 40K. feel free to send suggestions in comment section\r\n\r\nCurrently  Includes:\r\nSkull\r\nAdeptus Mechanicus Logo\r\nImperium Of Man Logo\r\nUltramarines Logo\r\nChaos Logo\r\nOrks Logo\r\n\r\nall parts can be painted\r\n\r\n𝕱𝖔𝖗 𝕿𝖍𝖊 𝕰𝖒𝖕𝖊𝖗𝖔𝖗!",
+		"description": "Mod that adds faction icons from Warhammer 40K. feel free to send suggestions in comment section\r\n\r\nCurrently  Includes:\r\nSkull\r\nAdeptus Mechanicus Logo\r\nImperium Of Man Logo\r\nUltramarines Logo\r\nChaos Logo\r\nOrks Logo\r\n\r\n3D:\r\nOrk symbol on a pole\r\nChaos mark\r\n\r\n\r\nall parts can be painted\r\n\r\n𝕱𝖔𝖗 𝕿𝖍𝖊 𝕰𝖒𝖕𝖊𝖗𝖔𝖗!",
 		"fileId": 3412958757,
 		"localId": "1b3f108e-c056-4a87-80bb-a2735ac8fff9",
 		"name": "40K_Symbols",
@@ -41855,7 +41855,7 @@
 	"d0ffe3fe-9b25-4e09-bed7-163623d234ce": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Welcome to the Beta Version of Space Scrapper!\n\nSpace Scrapper is an exciting custom game mode where you and your friends will embark on an interstellar adventure aboard a spaceship, exploring a dangerous and mysterious galaxy. The focus of this mod is on action and cooperation, offering a fun, thrilling experience rather than a realistic simulation.\n\nCreating this mod is a challenging and time-consuming project for us, so we’re releasing this beta version (as a Block & Parts) to share our progress and gather your feedback. We hope you’ll find it engaging and maybe even want to support us!\n\nOur goal is to fill the game with diverse and exciting encounters, such as space pirates, abandoned stations, shipwrecks, and much more. If you’d like to contribute, you can create and share your designs with us on Discord. We’d love to include community creations in our mod!\n\nFeel free to join our Discord server to:\n\nDiscuss the project\nFind friends to play with\nShare your creations\nSuggest ideas\nReport bugs\n📢 Join here: https://discord.gg/4MFd3etQTj",
+		"description": "Welcome to the Beta Version of Space Scrapper!\r\n\r\nSpace Scrapper is an exciting custom game mode where you and your friends will embark on an interstellar adventure aboard a spaceship, exploring a dangerous and mysterious galaxy. The focus of this mod is on action and cooperation, offering a fun, thrilling experience rather than a realistic simulation.\r\n\r\nCreating this mod is a challenging and time-consuming project for us, so we’re releasing this beta version (as a Block & Parts) to share our progress and gather your feedback. We hope you’ll find it engaging and maybe even want to support us!\r\n\r\nOur goal is to fill the game with diverse and exciting encounters, such as space pirates, abandoned stations, shipwrecks, and much more. If you’d like to contribute, you can create and share your designs with us on Discord. We’d love to include community creations in our mod!\r\n\r\nFeel free to join our Discord server to:\r\n\r\nDiscuss the project\r\nFind friends to play with\r\nShare your creations\r\nSuggest ideas\r\nReport bugs\r\n📢 Join here: https://discord.gg/4MFd3etQTj\r\n\r\n\r\nHere is our roadmap :\r\n\r\n1. Create Block & Parts (Done)\r\n2. Create a lot of Spaceships and Station (In progress, you can help us by sending your creation on our Discord)\r\n3. Create the World (In progress)\r\n4. Release the Custom Gamemode",
 		"fileId": 3378188905,
 		"localId": "d0ffe3fe-9b25-4e09-bed7-163623d234ce",
 		"name": "Spaceship Parts",
@@ -41869,6 +41869,43 @@
 		"fileId": 3414092190,
 		"localId": "4bbae02b-4242-4b38-829c-12e7b0a4f2b7",
 		"name": "радіоо",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f1f83fe3-850c-44e2-a4e9-556511babc22": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Add challenge, creative and survival parts with one mod",
+		"fileId": 3248953785,
+		"localId": "f1f83fe3-850c-44e2-a4e9-556511babc22",
+		"name": "SurvivalAssets",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"8a7948a3-6a60-437c-8f98-16af57afcc19": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2095020580,
+				"localId": "45745876-5391-4848-a835-fcc2410d87a1",
+				"name": "Surveillance Tools"
+			}
+		],
+		"description": "Description",
+		"fileId": 3285510006,
+		"localId": "8a7948a3-6a60-437c-8f98-16af57afcc19",
+		"name": "Overload Ammunition",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"dc02b14d-f737-4f19-aba2-bb4150485249": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1] Red Totebot Character [/h1]\\r\\n\\r\\nThis mod adds Red Totebot character to the game, they spawn near Green Totebots or in creative with capsules\\r\\n\\r\\n\\r\\n[h1] FEATURES:[/h1]\\r\\n[list]\\r\\n[*] Can be placed as capsule in creative mode\\r\\n[*] They spawn around Green Totebots in Survival mode\\r\\n[*] They have 3 Propane tanks on their heads, they throw them when they are alerted or attacked.\\r\\n[*] After they drop all 3 propane tanks , they start to flee\\r\\n[*] They do not take a part in raids\\r\\n[/list]\\r\\n[h1] How to use it: [/h1] \\r\\n\\r\\nFOR CREATIVE:\\r\\n[b]1. Open: SM game/Data/Character/charactersets.json under \\\"characterSetList\\\": line add:[/b]\\r\\n[code]\\r\\n\\\"$CONTENT_ae49c862-51dd-4ae7-bf74-3362f2ce7964/Character/RedTotebot/totebot_red.json\\\",\\r\\n[/code]\\r\\n\\r\\nNow place a Red Totebot capsule from Mods tab and hit it with a sledgehammer\\r\\n\\r\\n[b]Done[/b]\\r\\n\\r\\nFOR SURVIVAL:\\r\\n[b]1. Open: SM game/Survival/Character/charactersets.json under \\\"characterSetList\\\": line  add:[/b]\\r\\n[code]\\r\\n\\\"$CONTENT_ae49c862-51dd-4ae7-bf74-3362f2ce7964/Character/RedTotebot/totebot_red.json\\\",\\r\\n[/code]\\r\\n\\r\\n[b]2. Open SM game/Survival/Scripts/game/survival_spawns.lua and search for:[/b]\\r\\n[code]elseif tag == \\\"TOTEBOT_GREEN\\\" then[/code]\\r\\n[b]3. Under it, add this line:[/b]\\r\\n[code]\\r\\nif math.random(1,2) == 1 then sm.unit.createUnit(sm.uuid.new(\\\"410a6252-8f47-4cda-b699-45fb84c36eec\\\"),sm.vec3.new(node.position.x+7,node.position.y,node.position.z+4),toYaw( node.rotation ) ) end\\r\\n[/code]\\r\\n\\r\\n[b]Done[/b]",
+		"fileId": 3414538579,
+		"localId": "dc02b14d-f737-4f19-aba2-bb4150485249",
+		"name": "Yellow Totebot Character",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
