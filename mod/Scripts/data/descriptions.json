@@ -41929,5 +41929,15 @@
 		"name": "Wraith's Premium Survival (With New Wedges and Stacks+)",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"56b0ccf8-3e9f-4ccf-b2fa-93c73a40346f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1] Please read! [/h1]\n\nBelow is a guide on how to use this mod, it is not as simple as adding it to your world and giving things the ability to spawn in with invalid joints (although that would be quite nice).\n\n[h1]How to find your blueprint file[/h1]\n\nFirst of all you need to locate the blueprint file you wish to fix, if the blueprint is stored on your lift, do the following: Go to [b]C:\\Users\\<Your User>\\AppData\\Roaming\\Axolot Games\\Scrap Mechanic\\User\\User_<SteamID>\\Blueprints[/b], this is where all your blueprints are stored. Next, you need to search for the correct folder that your blueprint file is located in, my personal method is using the search feature in a text editor like VSCode, but you can also search based on time updated etc. Once you have found the correct folder for your blueprint, go into that folder and copy the 'blueprint.json' file, this is the file you are going to put into the mod.\n\n[h1]How to move the file to the mod[/h1]\n\nOnce you have your blueprint file, you will need to locate this mod's local files. Make sure you have subscribed the mod and go to [b]<Your steam folder directory>\\Steam\\steamapps\\workshop\\content\\387990\\ [/b]. You will then see a folder called 'Put Your Blueprint File In Here!'. Do as it says and put the blueprint.json file inside that folder.\n\n[h1]How to spawn in your build[/h1]\n\nLoad up a world and type the command '/fix' followed by the name of the file you put inside the mods folder, if you haven't changed its name it should just be 'blueprint.json', so the command would be '/fix blueprint.json'. Your game may freeze for a second or two as the tool is iterating through the blueprints data, your wait time depends on how big of a build it is. Once your wait time is over your creation should spawn in the direction you are looking!\n\nIf your creation is stuck in mid-air, try to locate the logic gates that are placed nearby and delete all of them, they are supposed to get deleted to unstick the creation, but if its large, they dont get deleted.\n\n\nAny bugs or suggestion",
+		"fileId": 3415417597,
+		"localId": "56b0ccf8-3e9f-4ccf-b2fa-93c73a40346f",
+		"name": "Invalid Joint Position Fixer",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
