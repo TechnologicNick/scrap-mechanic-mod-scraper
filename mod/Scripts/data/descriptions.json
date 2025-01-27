@@ -41908,5 +41908,26 @@
 		"name": "Yellow Totebot Character",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"d7ec1508-7902-408c-9047-b2c59c8b41a5": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h1][b] NEW MOD BY FR13NDS[/b][/h1]\r\n[IMG]http://i.imgur.com/EFERX9f.gif[/IMG]\r\n\r\n[code]\r\n[RUS] Данная модификация добавляет в игру бронированные детали, которые можно устанавливать на транспорт. В моде есть различные пластины, колёса, отличающиеся как прочностью так и характеристиками.\r\nРекомендую перед использованием детали прочитать её описание. В нём указывается прочность детали. Для починки необходимо навести на деталь и нажать кнопку (E). При снижении уровня прочности детали визуально меняют своё состояние.\r\n\r\nМод был готов около года назад, выложить руки дошли только сейчас.\r\n[/code]\r\n[code]\r\n[ENG] This modification adds armored parts to the game that can be installed on vehicles. There are various plates and wheels in fashion, differing in both strength and characteristics.\r\nI recommend reading the description of the part before using it. It indicates the strength of the part. To fix it, point at the part and press the (E) button. As the strength level decreases, the parts visually change their condition.\r\n\r\nThe mod was ready about a year ago, and it's only now that we've got our hands on it.\r\n[/code]\r\n[spoiler] FR13NDS , Question Mark , better mod ever [/spoiler]\r\n[img]https://i.imgur.com/NxVEmwj.png[/img]",
+		"fileId": 3415121909,
+		"localId": "d7ec1508-7902-408c-9047-b2c59c8b41a5",
+		"name": "PROTECT PARTS MOD",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"44f84730-63ca-40f1-96ac-e371a4e3ec73": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "This mod doesn't have a description",
+		"fileId": 3415140667,
+		"localId": "44f84730-63ca-40f1-96ac-e371a4e3ec73",
+		"name": "Wraith's Premium Survival (With New Wedges and Stacks+)",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
