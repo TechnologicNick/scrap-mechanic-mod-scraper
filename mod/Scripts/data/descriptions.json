@@ -547,13 +547,15 @@
 		"version": 0
 	},
 	"f1e1e5e3-1742-4acd-98ea-52c9980668c7": {
+		"allow_add_mods": true,
 		"creatorId": "76561198152046046",
+		"custom_icons": false,
 		"description": "#FFFFFF [h1][b]OFFICIAL MOD BY FR13NDS[/b][/h1]\n [IMG]http://i.imgur.com/EFERX9f.gif[/IMG]\n [b][u]Logs:[/u][/b] \n____________________________________________________\n[b][i]FIRST UPDATE[08.08.17]\n\nALL SUPPORT RUSSIAN AND ENGLISH.\n\n[/i][/b]\nSUPPORT RUSSIAN LANGUAGE +\nSUPPORT ENGLISH LANGUAGE +\n____________________________________________________\n\n[b]Hi this is my project and I want your support! \n[spoiler] Привет! это мой проект и я надеюсь на твою поддержку![/spoiler]\n\nTHIS MOD FOR MY TEAM\n\ntags: [spoiler] 255 block's LK KATAROV 210+ block's FR13NDS [/spoiler]\n\nBlock's you can see in game)\n\nLATEST UPDATE CHECK IN \"Logs\" UP",
 		"fileId": 1130890475,
 		"localId": "f1e1e5e3-1742-4acd-98ea-52c9980668c7",
-		"name": "[FR13] TEAM BLOCK'S",
+		"name": "[FR13] LEGACY",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"bcb40915-3e22-40f0-81b9-5025e9cda354": {
 		"creatorId": "76561198259532159",
@@ -8236,8 +8238,8 @@
 	"5a17290b-d194-4dd8-9fcf-495ff9c0f3c6": {
 		"allow_add_mods": true,
 		"creatorId": "76561198152046046",
-		"custom_icons": false,
-		"description": " [h1][b]OFFICIAL [BLUE] MOD BY FR13NDS[/b][/h1]\n [IMG]http://i.imgur.com/EFERX9f.gif[/IMG]\n [b][u]Logs:[/u][/b] \n\nCloud / Клауд\n____________________________________________________\n[b][i]\n\nALL SUPPORT RUSSIAN AND ENGLISH.\n\n[/i][/b]\nSUPPORT RUSSIAN LANGUAGE +\nSUPPORT ENGLISH LANGUAGE +\n____________________________________________________\n\n[b]Hi this is my project and I want your support! \n[spoiler] Привет! это мой проект и я надеюсь на твою поддержку![/spoiler]\n\nMy mod add in game parts\n[spoiler] Мой мод добавляет 255 разнообразных предметов [/spoiler]\n\ntags: [spoiler] 255 block's LK KATAROV 210+ block's FR13NDS [/spoiler]\n\nBlock's you can see in game)\n\nLATEST UPDATE CHECK IN \"Logs\" UP",
+		"custom_icons": true,
+		"description": " [h1][b]OFFICIAL [BLUE] MOD BY FR13NDS[/b][/h1]\r\n [IMG]http://i.imgur.com/EFERX9f.gif[/IMG]\r\n [b][u]Logs:[/u][/b] \r\n\r\nCloud / Клауд\r\n[RUS] Всем привет, спустя долгое время существования игры дошли руки до обновления старых блоков, которые в настоящей версии игры уже не отвечали требованиям. Спасибо за сотрудничество всем, кто так или иначе предлагал внести изменения, что писали сюда об ошибках в других модификациях, как и везде при таком обилии модификаций они быть могут. Я не пропадал, за последнее время перелопатил старые моды и внес изменения, заменил или же удалил те или иные блоки. Если же произошло так, что ваша постройка больше недоступна из-за отсутствия какого либо блока в моде - прошу прощения заранее, это необходимый процесс допиливания и спустя время - переосмысливать.\r\nЭто первая стади обновления мода, чуть позже будут внесены окончательные изменения.\r\n\r\n[ENG] Hello everyone, after a long time of the game's existence, the hands reached the updating of old blocks, which in the current version of the game no longer met the requirements. Thank you for your cooperation to everyone who somehow suggested making changes, that they wrote here about errors in other modifications, as they can be everywhere with such an abundance of modifications. I have not disappeared, recently I have shoveled old mods and made changes, replaced or deleted certain blocks. If it so happened that your building is no longer available due to the absence of any block in fashion - I apologize in advance, this is a necessary process of finishing and after a while - rethinking. \r\nThis is the first stage of updating the mod, final changes will be made later.\r\n____________________________________________________\r\n[b][i]\r\n\r\nALL SUPPORT RUSSIAN AND ENGLISH.\r\n\r\n[/i][/b]\r\nSUPPORT RUSSIAN LANGUAGE +\r\nSUPPORT ENGLISH LANGUAGE +\r\n____________________________________________________\r\n\r\n[b]Hi this is my project and I want your support! \r\n[spoiler] Привет! это мой проект и я надеюсь на твою поддержку![/spoiler]\r\n\r\nMy mod add in game parts\r\n[spoiler] Мой мод добавляет много разнообразных предметов [/spoiler]\r\n\r\ntags: [spoiler] 255 block's LK KATAROV 210+ block's FR13NDS [/spoiler]\r\n\r\nBlocks you can see in game)\r\n\r\nLATEST UPDATE CHECK IN \"Logs\" UP",
 		"fileId": 877576189,
 		"localId": "5a17290b-d194-4dd8-9fcf-495ff9c0f3c6",
 		"name": "[FR13] [BLUE] 255 Block's",
@@ -41947,6 +41949,16 @@
 		"fileId": 3416711542,
 		"localId": "8f743495-e65a-486c-ab8f-f2006a6141e0",
 		"name": "No Escape Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"0a5915fb-c9b3-4390-af80-ddaedd4c3934": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod adds a Slippery Banana just for fun. Step on it and u slip.",
+		"fileId": 3417550733,
+		"localId": "0a5915fb-c9b3-4390-af80-ddaedd4c3934",
+		"name": "Slippery Banana",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
