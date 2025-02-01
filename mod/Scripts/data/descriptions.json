@@ -41826,7 +41826,7 @@
 	},
 	"6b4d612d-7bd8-4e04-93b5-7413bb5d833e": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "This mod doesn't have a description",
 		"fileId": 3411965320,
 		"localId": "6b4d612d-7bd8-4e04-93b5-7413bb5d833e",
@@ -41961,5 +41961,35 @@
 		"name": "Slippery Banana",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"bafd2258-8dc8-4e6d-b0ae-f4daebb5c88b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "My stuff for npcs i guess",
+		"fileId": 3417213201,
+		"localId": "bafd2258-8dc8-4e6d-b0ae-f4daebb5c88b",
+		"name": "charactermodel",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"bc57aede-cd7a-4c6a-83e3-19e92bd4bd5f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "just includes a custom model of the valhim player",
+		"fileId": 3418145331,
+		"localId": "bc57aede-cd7a-4c6a-83e3-19e92bd4bd5f",
+		"name": "Valheim Model",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b9049451-5a7b-4731-bc16-27651d781356": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "List of commands:\n/sell (item) - sells all of the item in the player's inventory\n/buy (item) (amount)[Optional] - buys specified item\n/shop - Lists all purchasable items\n/sellables - lists all sellable items",
+		"fileId": 3418287597,
+		"localId": "b9049451-5a7b-4731-bc16-27651d781356",
+		"name": "Factory game",
+		"type": "Custom Game",
+		"version": 0
 	}
 }

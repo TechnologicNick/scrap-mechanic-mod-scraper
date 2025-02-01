@@ -5572,5 +5572,10 @@
 		]
 	},
 	"8f743495-e65a-486c-ab8f-f2006a6141e0": {},
-	"0a5915fb-c9b3-4390-af80-ddaedd4c3934": {}
+	"0a5915fb-c9b3-4390-af80-ddaedd4c3934": {},
+	"bafd2258-8dc8-4e6d-b0ae-f4daebb5c88b": {},
+	"bc57aede-cd7a-4c6a-83e3-19e92bd4bd5f": {},
+	"b9049451-5a7b-4731-bc16-27651d781356": {
+		"$CONTENT_b9049451-5a7b-4731-bc16-27651d781356/Tools/Database/ToolSets/example.toolset": []
+	}
 }
