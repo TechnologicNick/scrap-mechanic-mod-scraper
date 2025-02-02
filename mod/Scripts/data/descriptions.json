@@ -41991,5 +41991,25 @@
 		"name": "Factory game",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"570da70f-dd89-4dbe-abf1-0656ff9f6195": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h1]Expands Lights with more features![/h1]\r\nTwice the light strength, a light range setting, and the ability to paint the light and it's bulb separately!\r\n\r\n[hr][/hr] \r\n[h2]Important![/h2]\r\n[list]\r\n[*]This mod offers you the option of having the [b]modded lights override the vanilla lights[/b], making it so your builds have the extra features by default, and the option of having the [b]modded lights  as their own, separate parts[/b], meaning that they will not apply to your past builds.\r\n[*][b]By default, the modded lights are unique, and do not override vanilla lights.[/b]\r\n[*]This setting can be toggled in-game, using the [b]/toggleLightsOverride[/b] chat command. You will need to [b]re-enter the world[/b] for the change to take effect.\r\n[*]The [b]drawback of the override option[/b] is that, due to how Scrap Mechanic handles overriden parts, [b]lights already placed in the world will be broken[/b]. They can be fixed by simply picking them up and putting them back down, but in warehouses for example, you wont be able to do that(since they are build protected).\r\n\r\n[*][b]If you and the person you're joining in multiplayer don't have the same override setting, funky things will start happening. You will see a warning in the chat when this happens.[/b]\r\n[*][b]If an override mismatch does occur, just type /toggleLightsOverride in the chat, and re-join the game. After that, there should be no mismatch.[/b]\r\n[*](Yes, I know, this is kinda annoying, but the game doesn't allow you to refresh a client's part collection on the fly)\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h2]Features[/h2]\r\n[list]\r\n[*]Applies to all lights:\r\n[list]\r\n[*]An extra 15 strength settings, going from a maximum of 10 to 25. This allows you to make much brighter lights\r\n[*]The ability to paint the light and its emitted light colour separately\r\n[*]Connecting a [b]Color Block[/b] from [b]The Modpack[/b] will set the light's bulb colour\r\n[/list]\r\n[*]Only applies to some lights:\r\n[list]\r\n[*]A maximum range setting, allowing you to make lights that reach really far away\r\n[/list]\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h2]Have fun![/h2]",
+		"fileId": 3418889979,
+		"localId": "570da70f-dd89-4dbe-abf1-0656ff9f6195",
+		"name": "Lights++",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"91717b52-6975-4ee2-8df7-ed2928c6fd93": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1] Blue Totebot Character [/h1]\n\nThis mod adds Blue Totebot character to the game, they spawn near GlowGorps in water or in creative with capsules\n\n\n[h1] FEATURES:[/h1]\n[list]\n[*] Can be placed as capsule in creative mode\n[*] They spawn around GlowGorps in water in Survival mode\n[*] Custom character model with new sets of anims ( spinning saw on head and opening mouth when attacking )\n[*] They do not take a part in raids\n[*] They learn which objects are dangerous a.k.a once they touch a saw blade, they will avoid it in the future\n[*] It also adds Farmbot drill head as an object in creative\n[*] Blue totebots are able to change swimming height, it adds new danger to water world\n[/list]\n[h1] How to use it: [/h1] \n\nFOR CREATIVE:\n[b]1. Open: SM game/Data/Character/charactersets.json under \"characterSetList\": line add:[/b]\n[code]\n\"$CONTENT_91717b52-6975-4ee2-8df7-ed2928c6fd93/Character/BlueTotebot/totebot_blue.json\",\n[/code]\n\n[b]Done[/b]\n\nNow place a Blue Totebot capsule from Mods tab and hit it with a sledgehammer\n\n\nFOR SURVIVAL:\n[b]1. Open: SM game/Survival/Character/charactersets.json under \"characterSetList\": line  add:[/b]\n[code]\n\"$CONTENT_91717b52-6975-4ee2-8df7-ed2928c6fd93/Character/BlueTotebot/totebot_blue.json\",\n[/code]\n\n[b]2. Open SM game/Survival/Scripts/game/survival_spawns.lua and search for:[/b]\n[code]elseif tag == \"GLOWGORP\" then[/code]\n[b]3. Under it, add this line:[/b]\n[code]\nif math.random(1,2) == 1 then sm.unit.createUnit(sm.uuid.new(\"1a49ff17-6972-4381-ad6e-ff3fd53e321c\"), sm.vec3.new(node.position.x,node.position.y,-2.2),toYaw( node.rotation ) ) end\n[/code]\n\n[b]Done[/b]\n\nUse /spawn 1a49ff17-6972-4381-ad6e-ff3fd53e321c if you want to just spawn it in survival mode",
+		"fileId": 3419184880,
+		"localId": "91717b52-6975-4ee2-8df7-ed2928c6fd93",
+		"name": "Blue Totebot Character",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
