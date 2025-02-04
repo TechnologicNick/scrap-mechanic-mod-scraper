@@ -5585,5 +5585,20 @@
 	},
 	"91717b52-6975-4ee2-8df7-ed2928c6fd93": {},
 	"f4ddfd83-45d9-4acc-8cac-f184ce0d0801": {},
-	"ab44c899-76f8-4052-a0d6-4168d44a3eaf": {}
+	"ab44c899-76f8-4052-a0d6-4168d44a3eaf": {},
+	"c6c2e714-1a27-455b-b286-c040a05065da": {
+		"$CONTENT_c6c2e714-1a27-455b-b286-c040a05065da/Tools/Database/ToolSets/spudguns.toolset": [
+			"16f2507f-041d-5b68-acc3-94295f477ae5",
+			"16f2507f-041d-5b68-acc3-94295f462ae5",
+			"16f2507f-041d-5b68-acc3-94233f462ae5",
+			"16f2507f-221d-5b68-acc3-94233f462ae5",
+			"16f2507f-231d-5b68-acc3-94233f462ae5",
+			"16f2507f-041d-5b68-acc3-94385f462ae5",
+			"16f2507f-044d-5b68-acc3-94385f462ae5",
+			"aa4eb339-af36-5989-a72c-2c8f38d57291",
+			"ac7dccac-e7bd-5108-b06c-c8ec00c1aca5",
+			"ac7dccac-e7bd-5108-b06c-c8ec22c1aca5"
+		]
+	},
+	"f49f21e6-157b-4629-8eda-8bc85a6d712a": {}
 }
