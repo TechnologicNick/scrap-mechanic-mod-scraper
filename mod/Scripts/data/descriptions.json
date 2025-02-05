@@ -40153,7 +40153,7 @@
 	"e0eadd62-dac7-4f41-82ce-400781563df5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "A simple mod that add gunpowder and a fuse combine them with a conect tool and depending on how meny you connect depends on the power and the size of the explosion ",
+		"description": "A simple mod that add gunpowder and a fuse combine them with a conect tool and depending on how meny you connect depends on the power and the size of the explosion\nplease comment any suggestions\n\n\n-update\nsome balance things with the explosion radius ",
 		"fileId": 3334096541,
 		"localId": "e0eadd62-dac7-4f41-82ce-400781563df5",
 		"name": "combine bombs",
@@ -42049,6 +42049,15 @@
 		"fileId": 3420474974,
 		"localId": "f49f21e6-157b-4629-8eda-8bc85a6d712a",
 		"name": "Better Clock",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a2190361-9ec2-495b-942f-3636d6f8770c": {
+		"custom_icons": false,
+		"description": "Decay",
+		"fileId": 3421365603,
+		"localId": "a2190361-9ec2-495b-942f-3636d6f8770c",
+		"name": "Decay",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
