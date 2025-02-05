@@ -41985,7 +41985,7 @@
 	"b9049451-5a7b-4731-bc16-27651d781356": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "List of commands:\r\n/sell (item) - sells all of the item in the player's inventory\r\n/buy (item) (amount)[Optional] - buys specified item\r\n/shop - Lists all purchasable items\r\n/sellables - lists all sellable items\r\n\r\n!WARNING: DO NOT PURCHASE OVER STACK SIZE, THERE IS A KNOWN BUG THAT IT WILL DELETE YOUR MONEY BUT NOT GIVE YOU THE ITEM IF YOU DO SO!",
+		"description": "List of commands:\r\n/sell (item) - sells all of the item in the player's inventory\r\n/buy (item) (amount)[Optional] - buys specified item\r\n/shop - Lists all purchasable items\r\n/sellables - lists all sellable items\r\n/money - view money in global bank\r\n/withdraw (amount) - withdraw money in global bank\r\n/deposit (amount) - deposit money in global bank\r\n\r\nIf you noticed your money is gone after updating, it is in the global bank and you can withdraw it",
 		"fileId": 3418287597,
 		"localId": "b9049451-5a7b-4731-bc16-27651d781356",
 		"name": "Money custom gamemode",
