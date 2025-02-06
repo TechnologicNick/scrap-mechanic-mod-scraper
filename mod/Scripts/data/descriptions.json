@@ -42054,7 +42054,7 @@
 	},
 	"a2190361-9ec2-495b-942f-3636d6f8770c": {
 		"custom_icons": false,
-		"description": "Decay",
+		"description": "[b] Warning: Do not use in an existing world - your creations will literally fall apart!! [/b]\r\n\r\nThis mod adds a form of 'decay' to all your creations - this means that, over time, all your creations will slowly lose random bits and pieces and physically fall apart, until all that's left is a pile of random components that used to make up said creation.\r\n\r\nNotes:\r\n- The behavior, speed and impact of the decay greatly depends on the creation - some will last for several minutes while others may begin falling apart after just a couple seconds!\r\n\r\n- Decay is a slow, random process. If nothing seems to be happening at first, give it a minute to get going.\r\n\r\n- Use Physics 1 for best experience (lots of loose components falling around)\r\n\r\n- For obvious reasons, do not use in existing or important worlds. Your stuff will fall apart!\r\n\r\n- Big thanks to DanzenPlays for helping me figure out the block placement code!",
 		"fileId": 3421365603,
 		"localId": "a2190361-9ec2-495b-942f-3636d6f8770c",
 		"name": "Decay",
@@ -42068,6 +42068,23 @@
 		"fileId": 3421756480,
 		"localId": "958e353c-5ab6-4bab-93ec-267c71a37c83",
 		"name": "Elektronika 7",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"e918d31f-78d5-4b77-98be-1d35980ab015": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 2843905833,
+				"localId": "a898c2c4-de95-4899-9442-697ced66b832",
+				"name": "Laser Tools"
+			}
+		],
+		"description": "This mod adds a gun which instantly disassembles any creation it's fired at, causing it to fall apart into all its separate bits and pieces!\r\n\r\nThe gun supports 2 modes:\r\n- 'Slow' mode: Applies one \"tick\" of damage for every shot fired. Loosens random pieces in the creation.\r\n- 'Instant' mode: Instantly loosens every single piece of the creation, including individual blocks, causing it to fall apart entirely.\r\n\r\nNotes:\r\n- Best used on physics 1 due to large amounts of loose objects being created.\r\n\r\n- Using \"Instant mode\" on very large creations (over ~60k blocks+parts total) can cause a game crash. I cannot fix this, as the game just cannot handle that many loose parts flying around.\r\n\r\n- Thanks to Vajdani for letting me use his Laser Tool mod's gun model and animations!",
+		"fileId": 3422000036,
+		"localId": "e918d31f-78d5-4b77-98be-1d35980ab015",
+		"name": "Disassembler",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
