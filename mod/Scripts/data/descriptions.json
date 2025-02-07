@@ -35216,7 +35216,7 @@
 	"6820e90f-842b-4c34-bad6-3c2575923845": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This Mod Adds Adjustable Weight Blocks.\r\nYou can Adjust the Weight via a Slider GUI Interface or with Logic Inputs.\r\nExample:\r\nConnect 2 Buttons, One MUST be the Default Orange Color and the Other one must be any Other Color.\r\nThe Default Colored Input Makes it Heavyer, the Other Colored Input makes it Lighter.\r\n\r\nEnjoy\r\n\r\nIdea From:\r\nlolmedlol\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This Mod Adds Adjustable Weight Blocks.\r\nYou can Adjust the Weight via a Slider GUI Interface or with Logic Inputs.\r\nExample:\r\nConnect 2 Buttons, One MUST be the Default Orange Color and the Other one must be any Other Color.\r\nThe Default Colored Input Makes it Heavyer, the Other Colored Input makes it Lighter.\r\n\r\nEnjoy\r\n\r\nIdea From:\r\nlolmedlol\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 3030992851,
 		"localId": "6820e90f-842b-4c34-bad6-3c2575923845",
 		"name": "Adjustable Weight",
@@ -42093,10 +42093,16 @@
 	"321685a6-4e87-4db4-9860-eec7f870c252": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Why not",
+		"description": "I like Ducks",
 		"fileId": 3422226997,
 		"localId": "321685a6-4e87-4db4-9860-eec7f870c252",
 		"name": "EZ4ENCE",
+		"scriptFiles": [
+			{
+				"file": "Scripts/GameScript.lua",
+				"type": "gameScript"
+			}
+		],
 		"type": "Blocks and Parts",
 		"version": 1
 	},
