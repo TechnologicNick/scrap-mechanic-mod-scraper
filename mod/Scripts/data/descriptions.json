@@ -42087,5 +42087,42 @@
 		"name": "Disassembler",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"321685a6-4e87-4db4-9860-eec7f870c252": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Why not",
+		"fileId": 3422226997,
+		"localId": "321685a6-4e87-4db4-9860-eec7f870c252",
+		"name": "EZ4ENCE",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d748244f-04c1-4d8c-8595-d27430f13d18": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3422097642,
+				"localId": "5a9f1b93-c4ab-4a4f-b72e-8eef7af2d2f0",
+				"name": "CG Object Loader"
+			}
+		],
+		"description": "Nothing to see here",
+		"fileId": 3422245647,
+		"localId": "d748244f-04c1-4d8c-8595-d27430f13d18",
+		"name": "CGOL Tester B&P",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6951ed1c-1913-4781-a8eb-fefb00165aab": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3422383947,
+		"localId": "6951ed1c-1913-4781-a8eb-fefb00165aab",
+		"name": "Money mod B&P",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

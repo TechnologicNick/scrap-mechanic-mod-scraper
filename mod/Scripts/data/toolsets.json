@@ -5613,5 +5613,13 @@
 		"$CONTENT_e918d31f-78d5-4b77-98be-1d35980ab015/Tools/Database/ToolSets/tools.toolset": [
 			"903a097b-5f6e-4c93-85c4-b997933bacf5"
 		]
+	},
+	"321685a6-4e87-4db4-9860-eec7f870c252": {},
+	"d748244f-04c1-4d8c-8595-d27430f13d18": {},
+	"6951ed1c-1913-4781-a8eb-fefb00165aab": {
+		"$CONTENT_6951ed1c-1913-4781-a8eb-fefb00165aab/Tools/Database/ToolSets/example.toolset": [
+			"55b2db04-8c88-419a-b3a6-a60253a828e1",
+			"34f1362f-4c09-4ba4-8967-eb7e1d590699"
+		]
 	}
 }
