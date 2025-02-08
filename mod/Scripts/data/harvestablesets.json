@@ -1369,10 +1369,21 @@
 			"046a8ac8-300b-4e52-91f7-0912d53b2955",
 			"f7567939-d170-437e-b5c4-352ee9d5850d",
 			"c591d94b-d7d1-4305-a9dd-76ef06d6fb49",
-			"7261bb49-9c63-4097-999a-4dcab9645eb0"
+			"7261bb49-9c63-4097-999a-4dcab9645eb0",
+			"39a5aeba-a021-4117-8cad-e08ad159281d"
 		],
 		"$CONTENT_54c88924-cba6-43a7-be21-973c6727d8ad/Harvestables/Database/HarvestableSets/plantables.harvestableset": [
 			"4d923a91-0c98-40f9-ae3f-ef386362ab1c"
+		],
+		"$CONTENT_54c88924-cba6-43a7-be21-973c6727d8ad/Harvestables/Database/HarvestableSets/burntforest.harvestableset": [
+			"9ef210c0-ea30-4442-a1fe-924b5609b0cc",
+			"2bae67d4-c8ef-4c6e-a1a7-42281d0b7489",
+			"8f7a8108-2712-47b3-bce2-f25315165094",
+			"515aed88-0594-42b6-a352-617e5f5a3e45",
+			"2d5aa53d-eb9c-478c-a70f-c57a43753814",
+			"c08b553a-a917-4e26-bbb6-7b8523789cad",
+			"d3fcfc06-a6b6-4598-99b1-9a6445b976b3",
+			"b5f90719-fbca-4c59-89c3-187cdb5553d4"
 		]
 	},
 	"c3971490-1e5e-4f21-8af1-303ae00e0eae": {
