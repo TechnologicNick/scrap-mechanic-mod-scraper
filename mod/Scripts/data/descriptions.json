@@ -37223,7 +37223,7 @@
 				"name": "SComputers [Fork]"
 			}
 		],
-		"description": "DOCS: https://github.com/TheDIMONDK/Controllers_SComputersAddon/tree/main/Docs/\r\n\r\n[EN]\r\nThis is my first experience with such mods, if you have any problems, be sure to write about them in the comments! Thanks! If you liked the addon, please rate it with a like.\r\n\r\nControllers (SComputers addon) - is a small addon for the SComputers mod [FORK], which will allow you to implement any mechanisms using programmable controllers that allow you to change the rotation angles of each bearing, and even the length of the connected pistons!\r\n\r\n[RU]\r\nЭто мой первый опыт в создании модов, если у вас возникнут проблемы - обязательно пишите о них в комментариях! Спасибо.\r\n\r\nControllers (дополнение для SComputers) - небольшой аддон для мода SComputers [FORK], который позволит вам реализовать любые механизмы с помощью программируемых контроллеров, позволяющих изменять углы поворотов каждого подшипника, и даже длину подключенных поршней! Если вам понравилось дополнение, пожалуйста, оцените его лайком.",
+		"description": "Last update: Smart Controllers!\n\nDOCS: https://github.com/TheDIMONDK/Controllers_SComputersAddon/tree/main/Docs/\n\n[EN]\nThis is my first experience with such mods, if you have any problems, be sure to write about them in the comments! Thanks! If you liked the addon, please rate it with a like.\n\nControllers (SComputers addon) - is a small addon for the SComputers mod [FORK], which will allow you to implement any mechanisms using programmable controllers that allow you to change the rotation angles of each bearing, and even the length of the connected pistons!\n\n[RU]\nЭто мой первый опыт в создании модов, если у вас возникнут проблемы - обязательно пишите о них в комментариях! Спасибо.\n\nControllers (дополнение для SComputers) - небольшой аддон для мода SComputers [FORK], который позволит вам реализовать любые механизмы с помощью программируемых контроллеров, позволяющих изменять углы поворотов каждого подшипника, и даже длину подключенных поршней! Если вам понравилось дополнение, пожалуйста, оцените его лайком.",
 		"fileId": 3154734887,
 		"localId": "3c68ae1c-2d18-4ab8-84d4-dded0f5cb9c2",
 		"name": "Controllers (SComputers addon)",
@@ -42167,6 +42167,16 @@
 		"fileId": 3423944063,
 		"localId": "7c5ae4d6-a818-49fc-9240-dca677c59368",
 		"name": "Thrust-R Ridable Thruster",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d460298c-2034-4689-b6ec-e58aef9284ed": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "this is a very experimental mod for testing a discord bot vc intergration\n",
+		"fileId": 3423904098,
+		"localId": "d460298c-2034-4689-b6ec-e58aef9284ed",
+		"name": "experimental discord vc mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
