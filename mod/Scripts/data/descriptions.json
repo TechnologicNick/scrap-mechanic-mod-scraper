@@ -33953,7 +33953,7 @@
 	"54c88924-cba6-43a7-be21-973c6727d8ad": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "this is a Custom Game Mode for an Easier Survival with some tweaks\r\n\r\nPlayer:\r\n-faster refine time\r\n\r\n\r\nLoot:\r\n-more oil x5 per collectable\r\n-more corn x3 per collectable\r\n-more clam x3 per collectable\r\n-more flowers x5 per collectable\r\n-more beeswax x4 per collectable\r\n-more cotton x5 per collectable\r\n-refining items gives 40 blocks\r\n\r\n\r\n\r\nCrafting:\r\n-Added Cheap Recipe For Component Kits\r\n-Totebot Heads Can Be Converted To circuit Board\r\n\r\n\r\n",
+		"description": "[h1]Easier Survival - Enhanced Game Mode[/h1]\n\nTired of the grind? This custom game mode tweaks survival to make things smoother and more rewarding, so you can focus on building and exploring!\n\n[h2]Player Enhancements:[/h2]• Faster refining time for a more efficient experience.\n•Double Stack Sizes\n\n[h2]Loot Boosts:[/h2]• Oil: 5x per collectable\n• Clams: 3x per collectable\n• Flowers: 5x per collectable\n• Beeswax: 4x per collectable\n• Cotton: 5x per collectable\n• Corn: 3x per collectable\n• Refining items now grants 40 blocks\n[h2]\n[/h2][h2]Crafting Improvements:[/h2]• Craftbot now crafts faster\n• New recipe for Component Kits\n• New recipe for Circuit Boards\n• Totebot Heads can be converted into Circuit Boards\n\n[h3]Enjoy a smoother, more balanced survival experience with these quality-of-life upgrades![/h3]",
 		"fileId": 2984028019,
 		"localId": "54c88924-cba6-43a7-be21-973c6727d8ad",
 		"name": "Survival Tweaks",
