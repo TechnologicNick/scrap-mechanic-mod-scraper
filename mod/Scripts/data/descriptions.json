@@ -33953,7 +33953,7 @@
 	"54c88924-cba6-43a7-be21-973c6727d8ad": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]Easier Survival - Enhanced Game Mode[/h1]\n\nTired of the grind? This custom game mode tweaks survival to make things smoother and more rewarding, so you can focus on building and exploring!\n\n[h2]Player Enhancements:[/h2]• Faster refining time for a more efficient experience.\n•Double Stack Sizes\n\n[h2]Loot Boosts:[/h2]• Oil: 5x per collectable\n• Clams: 3x per collectable\n• Flowers: 5x per collectable\n• Beeswax: 4x per collectable\n• Cotton: 5x per collectable\n• Corn: 3x per collectable\n• Refining items now grants 40 blocks\n[h2]\n[/h2][h2]Crafting Improvements:[/h2]• Craftbot now crafts faster\n• New recipe for Component Kits\n• New recipe for Circuit Boards\n• Totebot Heads can be converted into Circuit Boards\n\n[h3]Enjoy a smoother, more balanced survival experience with these quality-of-life upgrades![/h3]",
+		"description": "[h1]Easier Survival - Enhanced Game Mode[/h1]\r\n\r\nTired of the grind? This custom game mode tweaks survival to make things smoother and more rewarding, so you can focus on building and exploring!\r\n\r\n[h2]Player Enhancements:[/h2]• Faster refining time for a more efficient experience.\r\n• Double Stack Sizes\r\n\r\n[h2]Loot Boosts:[/h2]• Oil: 5x per collectable\r\n• Clams: 3x per collectable\r\n• Flowers: 5x per collectable\r\n• Beeswax: 4x per collectable\r\n• Cotton: 5x per collectable\r\n• Corn: 3x per collectable\r\n• Refining items now grants 40 blocks\r\n[h2]\r\n[/h2][h2]Crafting Improvements:[/h2]• Craftbot now crafts faster\r\n• New recipe for Component Kits\r\n• New recipe for Circuit Boards\r\n• Totebot Heads can be converted into Circuit Boards\r\n\r\n[h3]Enjoy![/h3]",
 		"fileId": 2984028019,
 		"localId": "54c88924-cba6-43a7-be21-973c6727d8ad",
 		"name": "Survival Tweaks",
@@ -42204,6 +42204,26 @@
 		"fileId": 3424878966,
 		"localId": "e6b53693-259b-4ac3-a7f8-78105f5f1c15",
 		"name": "fruit mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"3abf4d17-11cd-4d4d-b410-b4c61b400bac": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Add rockets for game.Its very cool!",
+		"fileId": 3424845976,
+		"localId": "3abf4d17-11cd-4d4d-b410-b4c61b400bac",
+		"name": "++ GameBlocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"37def63a-4774-467e-a1d8-75c64ac91fae": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Modded Concrete is out now!\n- way lighter\n- white\n- cooler\n-----------------------------\nit comes out as a random line of stuff for some reason and it shows as invisible but its not",
+		"fileId": 3426261513,
+		"localId": "37def63a-4774-467e-a1d8-75c64ac91fae",
+		"name": "Modded Concrete",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
