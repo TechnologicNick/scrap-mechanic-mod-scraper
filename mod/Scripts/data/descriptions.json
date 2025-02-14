@@ -36685,7 +36685,7 @@
 				"name": "Manned Turret Kinematic"
 			}
 		],
-		"description": "[h1]Introducing... the [b]Manned Turrets![/b][/h1]\nThese player controlled turrets are capable of many things:\n[list]\n[*]Taking down bots with potatoes/AA rounds/Ratshot\n[*]Watering soil plots\n[*]Lighting up an area\n[*]Rapidly disassembling anything with Explosive Rounds/Guided Missiles/Air Strikes\n[*]Rapidly relocating yourself\n[*]Bringing along the nuclear winter with mounted nukes\n[/list]\n\nBe careful though, they're not invincible!\n\n[h1]All of this is available in survival, thanks to [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Questionable Mark's Modded Craftbot Recipes[/url]![/h1]\n\n[h1]Credits[/h1]\n[list]\n[*][b]Vajdani[/b] - Scripting\n[*][b]Illumina[/b] - Models, textures, thumbnail\n[*][b][url=https://steamcommunity.com/id/QuestionMarko]Questionable Mark[/url][/b] - Nuke explosion effect from the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1904783067]Cannons Pack[/url]\n[/list]\n\nHave fun!",
+		"description": "[h1]Introducing... the [b]Manned Turrets![/b][/h1]\r\nThese player controlled turrets are capable of many things:\r\n[list]\r\n[*]Taking down bots with potatoes/AA rounds/Ratshot\r\n[*]Watering soil plots\r\n[*]Lighting up an area\r\n[*]Rapidly disassembling anything with Explosive Rounds/Guided Missiles/Air Strikes\r\n[*]Rapidly relocating yourself\r\n[*]Bringing along the nuclear winter with mounted nukes\r\n[/list]\r\n\r\nBe careful though, they're not invincible!\r\n\r\n[h1]All of this is available in survival, thanks to [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Questionable Mark's Modded Craftbot Recipes[/url]![/h1]\r\n\r\n[h1]Credits[/h1]\r\n[list]\r\n[*][b]Vajdani[/b] - Scripting\r\n[*][b]Illumina[/b] - Models, textures, thumbnail\r\n[*][b][url=https://steamcommunity.com/id/QuestionMarko]Questionable Mark[/url][/b] - Nuke explosion effect from the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1904783067]Cannons Pack[/url]\r\n[/list]\r\n\r\nHave fun!",
 		"fileId": 3107290429,
 		"localId": "f51045bd-3f94-476a-8053-55ba172d19a5",
 		"name": "Manned Turret Pack",
@@ -42163,7 +42163,7 @@
 	"7c5ae4d6-a818-49fc-9240-dca677c59368": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[b]If you think that sitting on a bare rocket thruster and turning it on is a good idea, then this mod is just for you![/b]\r\n\r\nThis mod adds the [b]Thrust-R Ridable Rocket Thruster[/b] - [i]just hop on and take off[/i]!\r\nWith this thruster, you can take flight faster than ever before!\r\n\r\n[b]Note[/b]: The steering control is not perfectly stable at all times and can take a minute to get used to.\r\n\r\n[h1][b] Features [/b][/h1]\r\n[list]\r\n    [*] [h3][b]A ridable rocket thruster![/b][/h3]\r\n    [*] [h3][b]Automatic Launching![/b][/h3]\r\n        No need for complicated launch sequences, just hop on and off you go!\r\n    [*] [h3][b]Automatic Ground Avoidance![/b][/h3]\r\n        When close to terrain, a hovering algorithm tries preventing ground collisions!\r\n    [*] [h3][b]Automatic Dismount Brake![/b][/h3]\r\n        When you dismount the thruster, it immediately comes to a stop, preventing it from flying away without you!\r\n    [*] [h3][b]Advanced Acceleration Control![/b][/h3]\r\n        You can choose between constant-force and smart acceleration, and adjust acceleration parameters!\r\n[/list]\r\n\r\n[h1][b] Controls [/b][/h1]\r\nThese controls are also mentioned in-game.\r\n[list]\r\n    [*] [b][W][/b]: Fly Up\r\n    [*] [b][A][/b]: Turn Left\r\n    [*] [b][S][/b]: Fly Down\r\n    [*] [b][D][/b]: Turn Right\r\n    [*] [b] To stop, just hop off! [/b]\r\n[/list]\r\n\r\n[b] Special thanks to several people in the Guild Discord server for helping me figure out the logic for the physics-based controls!\r\n",
+		"description": "[b]If you think that sitting on a bare rocket thruster and turning it on is a good idea, then this mod is just for you![/b]\r\n\r\nThis mod adds the [b]Thrust-R Ridable Rocket Thruster[/b] - [i]just hop on and take off[/i]!\r\nWith this thruster, you can take flight faster than ever before!\r\n\r\n[b]Note[/b]: The steering control is not perfectly stable at all times and can take a minute to get used to.\r\n\r\n[h1][b] Features [/b][/h1]\r\n[list]\r\n    [*] [h3][b]A ridable rocket thruster![/b][/h3]\r\n    [*] [h3][b]Automatic Launching![/b][/h3]\r\n        No need for complicated launch sequences, just hop on and off you go!\r\n    [*] [h3][b]Automatic Ground Avoidance![/b][/h3]\r\n        When close to terrain, a hovering algorithm tries preventing ground collisions!\r\n    [*] [h3][b]Automatic Dismount Brake![/b][/h3]\r\n        When you dismount the thruster, it immediately comes to a stop, preventing it from flying away without you!\r\n    [*] [h3][b]Advanced Acceleration Control![/b][/h3]\r\n        You can choose between constant-force and smart acceleration, and adjust acceleration parameters!\r\n[/list]\r\n\r\n[h1][b] Controls [/b][/h1]\r\nThese controls are also mentioned in-game.\r\n[list]\r\n    [*] [b][W][/b]: Fly Up\r\n    [*] [b][A][/b]: Turn Left\r\n    [*] [b][S][/b]: Fly Down\r\n    [*] [b][D][/b]: Turn Right\r\n    [*] [b] To stop, just hop off! [/b]\r\n[/list]\r\n\r\n[b] Special thanks to several people in the Guild Discord server for helping me figure out the logic for the physics-based controls![/b]\r\n\r\n[b] Update 1: Added a second, Racing Thruster (maximum power by default) [/b]",
 		"fileId": 3423944063,
 		"localId": "7c5ae4d6-a818-49fc-9240-dca677c59368",
 		"name": "Thrust-R Ridable Thruster",
@@ -42224,6 +42224,16 @@
 		"fileId": 3426261513,
 		"localId": "37def63a-4774-467e-a1d8-75c64ac91fae",
 		"name": "Modded Concrete",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"680c0cf6-b76c-4e2c-8303-5b7f59e6d567": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds new engines to the game to improve your gameplay experience. These engines currently do not have the default interactive ability as they have been replaced with the engine ability. This feature will be added in later versions of the mod. Updates will be made regularly.\n\nCurrent Engines Added (More To Come):\n- Small Wheel Engine\n- Big Wheel Engine\n- Controller Engine (All Variations)\n- Sport Suspension Engine (All Variations)\n- Offroad Suspension Engine (All Variations)\n- Potato Ammo Engine\n- Water Bucket Engine\n- Logic Gate Engine\n- Radio Engine",
+		"fileId": 3426663236,
+		"localId": "680c0cf6-b76c-4e2c-8303-5b7f59e6d567",
+		"name": "Hidden Engines Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
