@@ -31021,7 +31021,7 @@
 	"b34d8a4a-6b26-45f4-857b-5dcd322e2e52": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds a Handheld Vacuum Gun. \r\n\r\nLeft Click = Collect.\r\nIt will collect all Crates, Blocks, Parts, Plants, Harvestables, Water, Chemicals and Oil and and and and things infront of you.\r\nWorks in Warehouses too!\r\n\r\nRight Click = Plant Seeds and Water Soil or Shoot Crates into the Trader ( right in his face ;) )\r\nIt will search for the closest Empty Soil and it will use Seeds from your Inventory ( order, top left to bottom right )\r\nIt will water soil without water too if you have water in your inventory.\r\n\r\nQ = Change Filter Mode. White and Black List mode\r\n\r\nR = Open Filter Inventory\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This mod adds a Handheld Vacuum Gun. \r\n\r\nLeft Click = Collect.\r\nIt will collect all Crates, Blocks, Parts, Plants, Harvestables, Water, Chemicals and Oil and and and and things infront of you.\r\nWorks in Warehouses too!\r\n\r\nRight Click = Plant Seeds and Water Soil or Shoot Crates into the Trader ( right in his face ;) )\r\nIt will search for the closest Empty Soil and it will use Seeds from your Inventory ( order, top left to bottom right )\r\nIt will water soil without water too if you have water in your inventory.\r\n\r\nQ = Change Filter Mode. White and Black List mode\r\n\r\nR = Open Filter Inventory\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2897133124,
 		"localId": "b34d8a4a-6b26-45f4-857b-5dcd322e2e52",
 		"name": "Vacuum Gun",
@@ -34456,7 +34456,12 @@
 	"756d4f03-2e86-4f5b-a425-20259568eff3": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [],
+		"dependencies": [
+			{
+				"fileId": 3407041587,
+				"localId": "612637e4-555a-4d86-a8f3-79623218e6e4"
+			}
+		],
 		"description": "Tired of searching for the required block in an inventory full of mods? There's a solution for you.\nJust look at the required block and enter [b]/get[/b] command into the chat and it will appear in your active hotbar slot.\n\n[code] [h1] [b]FAQ[/b] [/h1]\n[olist]\n    [*]This mod adds the feature of obtaining the required block without opening the inventory (like in Minecraft).\n    [*]Additional hotbar pages can be selected by entering their number in the command. Example: /get [b]2[/b].\n[/olist] [/code]\n\nPlease consider leaving a like and adding the mod to your favorites to support my work!",
 		"fileId": 3002663600,
 		"localId": "756d4f03-2e86-4f5b-a425-20259568eff3",
