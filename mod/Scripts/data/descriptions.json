@@ -42251,5 +42251,36 @@
 		"name": "Old MJM(with functional parts)",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"1a01cfe7-f169-4dea-bcbf-617b24704410": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds stars to the night sky. Only works in survival mode. Manual installation required!\n\nInstallation:\n0. Subscribe to the mod\n1. Go to the mod folder (mod foldier name is 3264946699)\n2. Copy the contents of the \"StarryNight\" folder to the game folder\n3. Confirm file replacement\n4. Delete the \"Cache\" folder from the game root directory\n5. Enjoy :)\n\nTo remove the mod, use file verification via Steam. Attention! Other mods installed in a similar way may be removed!",
+		"fileId": 3430334776,
+		"localId": "1a01cfe7-f169-4dea-bcbf-617b24704410",
+		"name": "Stars at night",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"bf613c0c-621a-4c0d-9687-ed91c320cd9d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "This mod allows you to generate batteries/gasoline via the power of \"wind\". This mod introduces two new items, the Battery Synthesizer and the Gasoline Synthesizer. These can be connected to a windmill bearing to activate. If you are unsure of how to use this mod, take a look at this video: https://youtu.be/O6OQ-_uSvQ0\n\nThis mod will be in rapid development as it is still in early access. Updates will be made often, with many more features to come!\n\nI give no permission to use any of the contents from this mod somewhere else.",
+		"fileId": 3430396742,
+		"localId": "bf613c0c-621a-4c0d-9687-ed91c320cd9d",
+		"name": "Synthesizer Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"7b0d20f3-768e-4631-a4d4-7614511590da": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Compact water cannon for a compact farm.\nMade for joint use with MJM Seats and Tech Mod.\nКомпактная водяная пушка для компактной фермы. Сделано для совместного использования с местами MJM и Tech Mod.",
+		"fileId": 3430432383,
+		"localId": "7b0d20f3-768e-4631-a4d4-7614511590da",
+		"name": "Compact water cannon",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
