@@ -42266,10 +42266,10 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "This mod allows you to generate batteries/gasoline via the power of \"wind\". This mod introduces two new items, the Battery Synthesizer and the Gasoline Synthesizer. These can be connected to a windmill bearing to activate. If you are unsure of how to use this mod, take a look at this video: https://youtu.be/O6OQ-_uSvQ0\n\nThis mod will be in rapid development as it is still in early access. Updates will be made often, with many more features to come!\n\nI give no permission to use any of the contents from this mod somewhere else.",
+		"description": "This mod allows you to create batteries/gasoline via multiple different methods.\n\nThis mod introuduces new items:\n- Battery Creator (Powered by Windmill)\n- Gasoline Creator (Powered by Windmill)\n- Manual Battery Creator (Powered by Button)\n- Manual Gasoline Creator (Powered by Button)\n\nFor any help or issues experienced with this mod, feel free to message me or start a discussion :)\n\nThis mod will have many changes as it is still in early access. Updates will be made often, with many more features to come!\n\nI give no permission to use any of the contents from this mod somewhere else.",
 		"fileId": 3430396742,
 		"localId": "bf613c0c-621a-4c0d-9687-ed91c320cd9d",
-		"name": "Synthesizer Mod",
+		"name": "Custom Power Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -42282,5 +42282,15 @@
 		"name": "Compact water cannon",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"a5b0b800-a6b4-4c77-8917-452ce3d9d26c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This game mode includes the custom power parts from my standalone mod, I have just incorporated it into survival.\n\nThis mod introuduces new items:\n- Battery Creator (Powered by Windmill)\n- Gasoline Creator (Powered by Windmill)\n- Manual Battery Creator (Powered by Button)\n- Manual Gasoline Creator (Powered by Button)\n\nFor any help or issues experienced with this mod, feel free to message me or start a discussion :)\n\nThis mod will have many changes as it is still in early access. Updates will be made often, with many more features to come!\n\nI give no permission to use any of the contents from this mod somewhere else.",
+		"fileId": 3430804027,
+		"localId": "a5b0b800-a6b4-4c77-8917-452ce3d9d26c",
+		"name": "Pulse Mods Custom Power Game Mode",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
