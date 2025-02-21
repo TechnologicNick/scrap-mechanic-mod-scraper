@@ -42286,10 +42286,10 @@
 	"a5b0b800-a6b4-4c77-8917-452ce3d9d26c": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This game mode includes the custom power parts from my standalone mod, I have just incorporated it into survival.\n\nThis mod introuduces new items:\n- Battery Creator (Powered by Windmill)\n- Gasoline Creator (Powered by Windmill)\n- Manual Battery Creator (Powered by Button)\n- Manual Gasoline Creator (Powered by Button)\n\nFor any help or issues experienced with this mod, feel free to message me or start a discussion :)\n\nThis mod will have many changes as it is still in early access. Updates will be made often, with many more features to come!\n\nI give no permission to use any of the contents from this mod somewhere else.",
+		"description": "This game mode includes my standalone mod/s and some other features I have incorporated.\r\n\r\nThis game mode includes the following:\r\n- Custom Power Mod\r\n- Creative Wedges In Survival\r\n\r\nFor any help or issues experienced with this game mode, feel free to message me or start a discussion :)\r\n\r\nThis will have many changes as it is still in early access. Updates will be made often, with many more features to come!\r\n\r\nI give no permission to use any of the contents from this game mode anywhere else.",
 		"fileId": 3430804027,
 		"localId": "a5b0b800-a6b4-4c77-8917-452ce3d9d26c",
-		"name": "Pulse Mods Custom Power Game Mode",
+		"name": "Custom Parts Game Mode",
 		"type": "Custom Game",
 		"version": 0
 	}
