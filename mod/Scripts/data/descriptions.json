@@ -42275,8 +42275,9 @@
 	},
 	"7b0d20f3-768e-4631-a4d4-7614511590da": {
 		"allow_add_mods": true,
+		"creatorId": "76561198048551328",
 		"custom_icons": true,
-		"description": "Compact water cannon for a compact farm.\nMade for joint use with MJM Seats and Tech Mod.\nКомпактная водяная пушка для компактной фермы. Сделано для совместного использования с местами MJM и Tech Mod.",
+		"description": "Compact water cannon for a compact farm.\r\nMade for joint use with MJM Seats and Tech Mod.\r\nКомпактная водяная пушка для компактной фермы. \r\nСделано для совместного использования с MJM Seats and Tech Mod.\r\n\r\nДелал для себя, но подумал что кому-то ещё может пригодится.",
 		"fileId": 3430432383,
 		"localId": "7b0d20f3-768e-4631-a4d4-7614511590da",
 		"name": "Compact water cannon",
