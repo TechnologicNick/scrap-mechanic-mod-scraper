@@ -42303,5 +42303,15 @@
 		"name": "Sleep to skip the night",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"f9751813-2f28-4256-98c3-f205b8af9497": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Как использовать: Разместить блок в мире. По умолчанию день длится ~25 минут, нажимайте E и U, чтобы ускорять и замедлять течение времени.\r\n\r\nHow to use: put a block in the world. press E for speed up time and press U for slow time. ",
+		"fileId": 3432842117,
+		"localId": "f9751813-2f28-4256-98c3-f205b8af9497",
+		"name": "time control",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
