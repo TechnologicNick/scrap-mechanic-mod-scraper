@@ -37896,9 +37896,9 @@
 	},
 	"bc08f1f9-14ea-4aa4-be6f-a4548ab3d678": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"dependencies": null,
-		"description": "Данный мод является переделанной модификацией мода \"Portal Pieces Pack (broken forever)\" от The_Impiersonator:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=913395871&searchtext=Portal+Pieces+Pack\r\nВ данном моде содержаться все те же самые части(Турели, куб-компаньон, Уитли, кнопки, портальная пушка) с теми же UUID, только с исправлениями.\r\n\r\nИсправления:\r\nОтредактированные модели,\r\nИзменённые хитбоксы,\r\nКорректное размещение частей,\r\nИзменённое описание,\r\nПеревод мода на все языки доступные в \"Scrap Mechanic\",\r\nДобавлены рецепты крафта.\r\n\r\nВсе изображения сделаны с настройками графики: по-умолчанию.\r\n\r\nРешение проблемы:\r\nЕсли у вас кривые модели и слишком блестящие текстуры, то попробуйте сначала включить оригинал (перед заходом в мир) или не включать вообще, а затем включить уже этот мод.\r\n\r\nСоздатель оригинального мода:\r\nThe_Impiersonator\r\n\r\nСоздатели переделки:\r\nArtuf\r\ntransmonstr",
+		"description": "This mod is a modified modification of the mod \"Portal Pieces Pack (broken forever)\" from The_Impiersonator:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=913395871&searchtext=Portal+Pieces+Pack\nThis mod contains all the same parts (Turrets, companion cube, Whitley, buttons, portal cannon) with the same UUIDs, only with corrections.\n\nCorrections:\nEdited models,\nModified hitboxes,\nCorrect placement of parts,\nChanged description,\nTranslate the mod into all languages available in Scrap Mechanic,\nAdded crafting recipes.\n\nAll images are made with graphics settings: default.\n\nThe solution to the problem:\nIf you have curved models and too shiny textures, then try to turn on the original first (before entering the world) or not turn it on at all, and then turn on this mod already.\n\nThe creator of the original mod:\nThe_Impiersonator\n\nThe creators of the alteration:\nArtuf\ntransmonstr",
 		"fileId": 3210422067,
 		"localId": "bc08f1f9-14ea-4aa4-be6f-a4548ab3d678",
 		"name": "Portal Pieces Pack Fixed",
@@ -42331,6 +42331,16 @@
 		"fileId": 3433399892,
 		"localId": "d5dca94e-b806-46d5-84ec-bc8b56fa0f4d",
 		"name": "Protector",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b1ee4815-9da3-4850-bde8-d27e3c1b4960": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3433668381,
+		"localId": "b1ee4815-9da3-4850-bde8-d27e3c1b4960",
+		"name": "Stuff for flyer testing world",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
