@@ -42343,5 +42343,35 @@
 		"name": "Stuff for flyer testing world",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"d6f2e56c-5eb1-4a51-a73e-72301d671fa6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "lampochki dly ekranov \nlight blub for screen",
+		"fileId": 3431517493,
+		"localId": "d6f2e56c-5eb1-4a51-a73e-72301d671fa6",
+		"name": "Lampochka",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"e346c8d3-22c4-43d2-adc7-56cb8015b9f5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1]Manual installation required![/h1]\n1. Subscribe to the mod\n2. Right click on Scrap Mechanic in Steam library > Manage > Browse local files\n3. Open second explorer window in the same directory.\n4. Open [location of SteamLibrary or Steam]/steamapps/workshop/content/387990/ TODO_my_mod_id\n5. Open [b]INSTALL[b] folder and copy everything into Scrap Mechanic root directory and press [/b]replace[/b].\n6. Play the game. Engineer should dance in the Main Menu.\n\n[h1]How to uninstall:[/h1]\n1. Subscribe to the mod\n2. Right click on Scrap Mechanic in Steam library > Manage > Browse local files\n3. Open second explorer window in the same directory.\n4. Open [location of SteamLibrary or Steam]/steamapps/workshop/content/387990/ TODO_my_mod_id\n5. Open [b]UNINSTALL[b] folder and copy everything into Scrap Mechanic root directory and press [/b]replace[/b].\n6. ( optional ) Unsubscribe from the mod.\n7. Play the game as Mechanic.\n[h2]OR[/h2]\n1. Right click on Scrap Mechanic in Steam library > Properties > Verify integrity of game files\n\n\n[h2]Features:[/h2]\nDamaged backpack replaced with Nothing.\nTF2 Engineer player character \n70+ original tf2 animations ported.\nDoes not affect any gameplay features.  (no lua scripts modified)\nWorks in Survival and Creative.\nSeat ragdolls are adjusted for engineer's proportions.\n\n[h3]If you want to be a blue engineer:[/h3]\n1. Go to mod folder  TODO\n2. Rena\n\nKnown issues:\nSome animations will look very janky.\nWeldtool activated idle animation is broken and i don't know why.\nSledgehammer and other tool animations are janky, fixing that is too tedious.\n\nBike seat and Bed sitting ragdolls are broken and i couldnt fix them.\nSitting in modded seats may crash the game, please report to me if that happens.\nSitting in modded seats will make you T-pose/glitch out the ragdoll and there's no way to fix that.\n\n\n[h2]Credit:[/h2]\nValve for TF2 Engineer model and animations.\nThis mod is based on [b]ikey07[/b]'s [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2388078891]CJ Player Character[/url] mod.\n\n\n\n",
+		"fileId": 3434554877,
+		"localId": "e346c8d3-22c4-43d2-adc7-56cb8015b9f5",
+		"name": "Engineer Player Character",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"e1e89c76-f967-42c2-98db-1d48db295966": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3434764164,
+		"localId": "e1e89c76-f967-42c2-98db-1d48db295966",
+		"name": "Craftable spud container",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
