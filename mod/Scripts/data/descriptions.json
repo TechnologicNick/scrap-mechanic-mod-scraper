@@ -33953,7 +33953,7 @@
 	"54c88924-cba6-43a7-be21-973c6727d8ad": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]Easier Survival - Enhanced Game Mode[/h1]\r\n\r\nTired of the grind? This custom game mode tweaks survival to make things smoother and more rewarding, so you can focus on building and exploring!\r\n\r\n[h2]Player Enhancements:[/h2]• Faster refining time for a more efficient experience.\r\n• Double Stack Sizes\r\n\r\n[h2]Loot Boosts:[/h2]• Oil: 5x per collectable\r\n• Clams: 3x per collectable\r\n• Flowers: 5x per collectable\r\n• Beeswax: 4x per collectable\r\n• Cotton: 5x per collectable\r\n• Corn: 3x per collectable\r\n• Refining items now grants 40 blocks\r\n[h2]\r\n[/h2][h2]Crafting Improvements:[/h2]• Craftbot now crafts faster\r\n• New recipe for Component Kits\r\n• New recipe for Circuit Boards\r\n• Totebot Heads can be converted into Circuit Boards\r\n\r\n[h3]Enjoy![/h3]",
+		"description": "[h1]Easier Survival - Enhanced Game Mode[/h1]\r\n\r\nTired of the grind? This custom game mode tweaks survival to make things smoother and more rewarding, so you can focus on building and exploring!\r\n\r\n[h2]How It Works:[/h2]\r\n• When you are in the main menu press Custom Game mode on the top right Corner and then select this mod and create a new world.\r\n\r\n[h2]Player Enhancements:[/h2]• Faster Hand Refining time.\r\n• Double Stack Sizes.\r\n\r\n[h2]Crafting Improvements:[/h2]• Craftbot now crafts faster.\r\n• New recipe for Component Kits and Circuit Boards.\r\n• Totebot Heads can be converted into Multiple Circuit Boards.\r\n• Refinery Yields 50% Extra than Normal Hand Refined Amount.\r\n\r\n[h2]Loot Boosts:[/h2]• Oil: x5-10 per collectable.\r\n• Clams: x3 per collectable.\r\n• Flowers: x5 per collectable.\r\n• Beeswax: x4 per collectable.\r\n• Cotton: x5 per collectable.\r\n• Corn: x3 per collectable.\r\n• Refining items now grants 40 blocks.\r\n\r\n[h2]Farming Changes:[/h2]• Crops Give Double The Amount When Harvested.\r\n\r\n\r\n[h3]Enjoy![/h3]",
 		"fileId": 2984028019,
 		"localId": "54c88924-cba6-43a7-be21-973c6727d8ad",
 		"name": "Survival Tweaks",
@@ -39771,7 +39771,7 @@
 	"2514bebf-db4a-4d53-b2ba-57a6b291226b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h2]Expands Seats with more Features![/h2]\r\nControl order changing, Control notes and colors, In-Seat interaction (Cockpit Clicker), more zoom and a Metric/Imperial Speedometer!\r\n\r\n[hr][/hr]\r\n[h1]Important![/h1]\r\n[list]\r\n[*]This is [b]NOT[/b] a file mod!\r\n[*]This mod is compatible with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3113900342]Crashlander[/url] (Singleplayer only, Multiplayer is broken for some reason and i can't fix it), [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3242683188]QuickSwap[/url] and most Gamemodes.\r\n[*]This mod doesn't add any new parts (but does override the old creative seats), it [b] adds functionality to vanilla seats, saddles and their driver variants.[/b]\r\n[*]If you use this mod in your blueprint and publish it, people without this mod [b]WILL[/b] be able to spawn it in, [b]but wont be able to experience these new features[/b], if they enable the mod after spawning in the blueprint, all the settings will take an effect!\r\n[*]When using Creative Seats, they need to be respawned in order to have the functions, else they will work like before (excluding the broken character ragdoll)\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h1]Features[/h1]\r\n[list]\r\n[*]New settings UI for Vanilla Seats:\r\n\t[list]\r\n\t[*]Control order changing\r\n\t[*]Control notes and colors\r\n\t[*]In-Seat interaction (Cockpit Clicker)\r\n\t[*]Turn off Jump Exit (Jumping will trigger button in 3rd slot instead)\r\n\t[*]Zoom++ (More zoom steps)\r\n\t[*]Metric/Imperial Speedometer\r\n\t[/list]\r\n[*]Compatible with old Creative (or Level 12345) Seats\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h2]Support:[/h2]\r\n[*]Rate, Favorite, Share and Award!\r\n[img]https://fagiano0.github.io/CrashlanderAPI/images/workshop/ratefavourite.gif[/img]",
+		"description": "[h2]Expands Seats with more Features![/h2]\r\nControl order changing, Control notes and colors, In-Seat interaction (Cockpit Clicker), more zoom and a Metric/Imperial Speedometer!\r\n\r\n[hr][/hr]\r\n[h1]Important![/h1]\r\n[list]\r\n[*]This is [b]NOT[/b] a file mod!\r\n[*]This mod is compatible with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3113900342]Crashlander[/url] (Singleplayer only, Multiplayer is broken for some reason and i can't fix it), [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3242683188]QuickSwap[/url] and most Gamemodes.\r\n[*]This mod doesn't add any new parts (but does override the old creative seats), it [b] adds functionality to vanilla seats, saddles and their driver variants.[/b]\r\n[*]If you use this mod in your blueprint and publish it, people without this mod [b]WILL[/b] be able to spawn it in, [b]but wont be able to experience these new features[/b], if they enable the mod after spawning in the blueprint, all the settings will take an effect!\r\n[*]When using Creative Seats, they need to be respawned in order to have the functions, else they will work like before (excluding the broken character ragdoll)\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h1]Features[/h1]\r\n[list]\r\n[*]New settings UI for Vanilla Seats:\r\n\t[list]\r\n\t[*]Control order changing\r\n\t[*]Control notes and colors\r\n\t[*]In-Seat interaction (Cockpit Clicker)\r\n\t[*]Turn off Jump Exit (Jumping will trigger button in 3rd slot instead)\r\n\t[*]Zoom++ (More zoom steps, thanks to Danzen for majorly improving this feature)\r\n\t[*]Metric/Imperial Speedometer\r\n\t[/list]\r\n[*]Compatible with old Creative (or Level 12345) Seats\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h2]Support:[/h2]\r\n[*]Rate, Favorite, Share and Award!\r\n[img]https://fagiano0.github.io/CrashlanderAPI/images/workshop/ratefavourite.gif[/img]",
 		"fileId": 3312373135,
 		"localId": "2514bebf-db4a-4d53-b2ba-57a6b291226b",
 		"name": "Seats++",
@@ -42381,6 +42381,16 @@
 		"fileId": 3435022061,
 		"localId": "217d0ccc-6a53-49f6-a1ca-abb42615219c",
 		"name": "watermelonMod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1d304802-8d1d-40a8-9258-d641d5d02fc4": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod makes totebots drop their heads as items instead of physical parts.",
+		"fileId": 3435256071,
+		"localId": "1d304802-8d1d-40a8-9258-d641d5d02fc4",
+		"name": "Totebot Head Drops As Item",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
