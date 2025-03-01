@@ -42413,5 +42413,15 @@
 		"name": "Falco controllers",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"0606ca9f-9c8c-49ff-8c86-40dbefce5dc2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Get ready for an action-packed Tower Defense experience! Your mission: protect the radio antenna from waves of dangerous robots.\n\n🔧 Daytime: Collect resources, build defenses, and upgrade your base. Farming and crafting are faster and easier, so you can focus on building strong defenses.\n⚔️ Nighttime: Fight against fast, aggressive, and powerful robots that will try to break through and destroy everything in their way.\n\nIf the antenna is destroyed, you lose the battle, and the day starts again before the attack, giving you a chance to improve your defenses. The difficulty adjusts based on the number of players, making every game a real challenge.\n\nMove faster, build quicker, and fight harder—can you survive the invasion?",
+		"fileId": 3432382909,
+		"localId": "0606ca9f-9c8c-49ff-8c86-40dbefce5dc2",
+		"name": "Robot Invasion",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
