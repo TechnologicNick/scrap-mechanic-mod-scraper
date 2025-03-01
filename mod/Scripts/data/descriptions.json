@@ -1899,10 +1899,8 @@
 		"version": 0
 	},
 	"c52efc1d-0125-4d1f-991c-293e4ae96ede": {
-		"allow_add_mods": true,
-		"custom_icons": true,
-		"description": "I DO NOT OWN ANY OF THE MATERIAL IN THIS MOD!\nOriginal mod from Durf\n\nOfficial ModPack:\n\nThis is the Modpack Polygons Cardboard!\nIt contains everything from the Modpack Polygons, but is destructible!\n\n\nCONVERT your old blueprints here: \nhttps://www.scrapmechanicmods.com/tools/DestructiblePolygons/\nAny blueprint made with original polygons can be destructible with this tool!\n\n\n\nLike the mods?\nDon't forget to leave a thumbs up! ;)\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support: Coming soon!",
-		"fileId": 3408662990,
+		"description": "Official ModPack:\n\nThis is the Modpack Polygons Cardboard!\nIt contains everything from the Modpack Polygons, but is destructible!\n\n\nCONVERT your old blueprints here: \nhttps://www.scrapmechanicmods.com/tools/DestructiblePolygons/\nAny blueprint made with original polygons can be destructible with this tool!\n\n\n\nLike the mods?\nDon't forget to leave a thumbs up! ;)\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support: Coming soon!",
+		"fileId": 3408208559,
 		"localId": "c52efc1d-0125-4d1f-991c-293e4ae96ede",
 		"name": "The Modpack Polygons Cardboard",
 		"type": "Blocks and Parts",
@@ -42393,6 +42391,26 @@
 		"fileId": 3435256071,
 		"localId": "1d304802-8d1d-40a8-9258-d641d5d02fc4",
 		"name": "Totebot Head Drops As Item",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"391084de-79ff-46fe-845c-cd8a4c734a13": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "как и обещал",
+		"fileId": 3435687303,
+		"localId": "391084de-79ff-46fe-845c-cd8a4c734a13",
+		"name": "Dandonald's",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"c7cc5332-59d0-479f-9870-8238cdfebf91": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Adds adjustable controllers.",
+		"fileId": 3435786833,
+		"localId": "c7cc5332-59d0-479f-9870-8238cdfebf91",
+		"name": "Falco controllers",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
