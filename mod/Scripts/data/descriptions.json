@@ -42424,5 +42424,22 @@
 		"name": "Robot Invasion",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"2c3f361d-2ee6-42f1-b532-33a930f39fe0": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
+				"name": "ModDatabase"
+			}
+		],
+		"description": "[h3]After few months of hard work, we proudly present...[/h3]\n[h1]One of the [b]BIGGEST[/b] Survival Mods out there - ported to a Blocks & Parts mod![/h1]\nFrom Passionate and Skilled Modders, which want to support the Scrap Mechanic Community!\n\n[hr][/hr]\n[img]https://redoingmods.github.io/Resources/public/Crashlander_B&P_Logo.png[/img]\n\n[hr][/hr]\n[h1]Important![/h1]\n[list]\n[*]This is [b]NOT[/b] a file mod!\n[*][b]REQUIRES [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3113900342]Crashlander Custom Game[/url] TO BE INSTALLED ON YOUR COMPUTER![/b]\n[*][b]REQUIRES [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Modded Craftbot Recipes[/url] FOR PARTS TO BE CRAFTABLE![/b]\n[*][b]DO NOT REPORT ISSUES WHEN RUNNING A KNOWN INCOMPATIBLE CUSTOM GAME![/b] (listed below)\n[*]File mods [i]will very probably[/i] break the mod, remove them before reporting any issues!\n[*]This mod [b]DOES[/b] support multiplayer.\n[/list]\n\n[hr][/hr]\n[h1]Known Incompatible Custom Games:[/h1]\n[list]\n[*]Fant Mod Custom Game (due to the slow load times, my hooks don't work and as such the mod doesn't work at all)\n[/list]\n\n[hr][/hr]\n[h2]Links:[/h2]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3113900342]Crashlander Custom Game[/url]\n[url=https://discord.com/invite/PXzDWcM6uZ]Discord Server[/url]\n\n[hr][/hr]\n[h2]Modders:[/h2]\n[url=https://fagiano0.github.io/CrashlanderAPI/]Crashlander API Documentation[/url]\n\n[hr][/hr]\n[h2]Support:[/h2]\n[*]Rate, Favorite, Share and Award!\n[img]https://fagiano0.github.io/CrashlanderAPI/images/workshop/ratefavourite.gif[/img]",
+		"fileId": 3437123943,
+		"localId": "2c3f361d-2ee6-42f1-b532-33a930f39fe0",
+		"name": "Crashlander: Blocks & Parts",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
