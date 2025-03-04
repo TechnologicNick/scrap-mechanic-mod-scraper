@@ -42418,7 +42418,7 @@
 	"0606ca9f-9c8c-49ff-8c86-40dbefce5dc2": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Get ready for an action-packed Tower Defense experience! Your mission: protect the radio antenna from waves of dangerous robots.\n\n🔧 Daytime: Collect resources, build defenses, and upgrade your base. Farming and crafting are faster and easier, so you can focus on building strong defenses.\n⚔️ Nighttime: Fight against fast, aggressive, and powerful robots that will try to break through and destroy everything in their way.\n\nIf the antenna is destroyed, you lose the battle, and the day starts again before the attack, giving you a chance to improve your defenses. The difficulty adjusts based on the number of players, making every game a real challenge.\n\nMove faster, build quicker, and fight harder—can you survive the invasion?",
+		"description": "Get ready for an action-packed Tower Defense experience! Your mission: protect the radio antenna from waves of dangerous robots.\r\n\r\n🔧 Daytime: Collect resources, build defenses, and upgrade your base. Farming and crafting are faster and easier, so you can focus on building strong defenses.\r\n⚔️ Nighttime: Fight against fast, aggressive, and powerful robots that will try to break through and destroy everything in their way. Spoiler : They are stronger than vanilla.\r\n\r\nIf the antenna is destroyed, you lose the battle, and the day starts again before the attack, giving you a chance to improve your defenses. The difficulty adjusts based on the number of players, making every game a real challenge.\r\n\r\nMove faster, build quicker, and fight harder—can you survive the invasion?\r\n\r\n==========================================\r\nKnown issues :\r\n - The GUI of the shop is wrong and don't show your ressources, however it work well if you click on the button to buy\r\n\r\n==========================================\r\n\r\nI made this mod will learning how to make custom game, this is only a side project while developping the main mod : Space Scrapper (wich is absolutely not related).\r\nAlso I am not sure to maintain this mod too long. I'll do minimum maintenance to keep it on board, but I will not add too much new features.\r\n\r\nThat's said, I wish you to have fun !\r\n\r\nPS : Be aware, this mod is hard, keep going harder with time, and get harder when you invite friend. Have fun !",
 		"fileId": 3432382909,
 		"localId": "0606ca9f-9c8c-49ff-8c86-40dbefce5dc2",
 		"name": "Robot Invasion",
@@ -42441,5 +42441,15 @@
 		"name": "Crashlander: Blocks & Parts",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"e3d5e2bf-67c9-4391-8878-c3fa3121b68a": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "A custom game mode that will give you unlimited space for experiments!",
+		"fileId": 3437791753,
+		"localId": "e3d5e2bf-67c9-4391-8878-c3fa3121b68a",
+		"name": "Advanced Game",
+		"type": "Custom Game",
+		"version": 0
 	}
 }

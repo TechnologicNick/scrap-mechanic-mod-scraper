@@ -5782,5 +5782,8 @@
 			"3a225d01-a4cb-4249-9aed-1e8c3479cb64",
 			"6dc0c77e-80af-4d45-8b6b-1e4a095f5fa7"
 		]
+	},
+	"e3d5e2bf-67c9-4391-8878-c3fa3121b68a": {
+		"$CONTENT_e3d5e2bf-67c9-4391-8878-c3fa3121b68a/Tools/Database/ToolSets/example.toolset": []
 	}
 }
