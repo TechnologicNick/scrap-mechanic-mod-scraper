@@ -40883,7 +40883,7 @@
 	"0bba8195-5c3d-49b3-b655-8a763bb307ea": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "THAT ONE BOUNCED\r\nCurrent mod features: \r\n-Implemented ricochet for all explosives (large factor for large can and small factor for small can)\r\n-Removed penetration and added guaranteed surface explosion for large canisters when there is no ricochet\r\n-Kept penetration for small canisters\r\n-Reduced likelyhood of ammo detonation depending on vehicle mass (heavier is less likely)\r\n-Implemented variation in ignited ammunition fuse timedepending on vehicle mass (heavier has longer fuse)\r\n-Added ricochet effects and sound\r\n-Paint scratching on ricochet\r\n-Penetration hole (has issues working throught blocks : /)",
+		"description": "THAT ONE BOUNCED\nCurrent mod features: \n-Implemented ricochet for all explosives (large factor for large can and small factor for small can)\n-Removed penetration and added guaranteed surface explosion for large canisters when there is no ricochet\n-Kept penetration for small canisters\n-Reduced likelyhood of ammo detonation depending on vehicle mass (heavier is less likely)\n-Implemented variation in ignited ammunition fuse timedepending on vehicle mass (heavier has longer fuse)\n-Added ricochet effects and sound\n-Paint scratching on ricochet\n-Penetration hole (has issues working through blocks : /)",
 		"fileId": 3372432992,
 		"localId": "0bba8195-5c3d-49b3-b655-8a763bb307ea",
 		"name": "TBE-IEL Explosive Changes",
