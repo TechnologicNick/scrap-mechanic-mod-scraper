@@ -5711,7 +5711,11 @@
 		]
 	},
 	"e6b53693-259b-4ac3-a7f8-78105f5f1c15": {},
-	"3abf4d17-11cd-4d4d-b410-b4c61b400bac": {},
+	"3abf4d17-11cd-4d4d-b410-b4c61b400bac": {
+		"$CONTENT_3abf4d17-11cd-4d4d-b410-b4c61b400bac/Tools/Database/ToolSets/NewToolSet1.toolset": [
+			"2f2203c1-b27d-438b-8ca8-68bfb50c0086"
+		]
+	},
 	"37def63a-4774-467e-a1d8-75c64ac91fae": {},
 	"680c0cf6-b76c-4e2c-8303-5b7f59e6d567": {},
 	"12f176ff-c12a-43fb-b063-bc27835045c0": {},
@@ -5786,5 +5790,6 @@
 	"e3d5e2bf-67c9-4391-8878-c3fa3121b68a": {
 		"$CONTENT_e3d5e2bf-67c9-4391-8878-c3fa3121b68a/Tools/Database/ToolSets/example.toolset": []
 	},
-	"3ab25f23-e3ed-4e40-9b36-a657f5b4b2de": {}
+	"3ab25f23-e3ed-4e40-9b36-a657f5b4b2de": {},
+	"9d0e9d15-0933-4697-9013-333cfba8c028": {}
 }

@@ -42461,5 +42461,15 @@
 		"name": "Lord Sputnik's Survival Collection",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"9d0e9d15-0933-4697-9013-333cfba8c028": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Template Mod for 'ScrapMechanicModLoader'\n\nGetting Started:\n\nStep 1:\nNavigate to: Steam/steamapps/workshop/content/387990/<id>/\nYou can copy this directory to any location; this serves as the example mod directory.\n\nStep 2:\nOpen the mod.content file and set the following details:\n- Title: Required\n- Description: Optional\n- Author: Optional\n- Date: Optional\n- Version: Required\n- GameVersion: Required\n\nAfter making these changes, save and close the file.\n\nStep 3:\nOnce you've edited the mod file, you can add your custom files to the ModFiles folder (this folder will be copied to the game files).\n\nRemember to also include the original, unmodified files in the Uninstall folder. These should be the untouched versions of the files you've altered.\n\nStep 4:\nUpload the mod to the Workshop (Optional)\nIf you choose to upload your SMML-compatible mod to the Workshop, make sure to include [SMML] in the mod’s name or add 'Tags: [SMML]' as the first line in the description.\nYou can also share the mod on Github or any other file-sharing service!\n\nStep 5:\nHappy modding!\n",
+		"fileId": 3439551902,
+		"localId": "9d0e9d15-0933-4697-9013-333cfba8c028",
+		"name": "Scrap Mechanic Mod Launcher Template",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
