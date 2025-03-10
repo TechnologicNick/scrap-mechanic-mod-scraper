@@ -1222,5 +1222,8 @@
 			"9f4fde94-312f-4417-b13b-84029c5d6b52"
 		]
 	},
-	"e3d5e2bf-67c9-4391-8878-c3fa3121b68a": {}
+	"e3d5e2bf-67c9-4391-8878-c3fa3121b68a": {},
+	"084d0bf2-d443-4724-ad3f-1faf78f3fa96": {
+		"$CONTENT_084d0bf2-d443-4724-ad3f-1faf78f3fa96/Characters/Database/CharacterSets/example.characterset": []
+	}
 }

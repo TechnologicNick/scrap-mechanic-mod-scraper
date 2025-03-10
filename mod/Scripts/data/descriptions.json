@@ -42511,5 +42511,124 @@
 		"name": "Hard modpack",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"31440574-2e66-417a-b77d-b02f8f1e4306": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2916542549,
+				"localId": "b03e83bd-6cfc-47d3-bfcb-3c5a437f107b",
+				"name": "Player Teleporter"
+			},
+			{
+				"fileId": 2844836154,
+				"localId": "61dfaa2e-041d-4e6b-82a1-54185a7d0cfe",
+				"name": "Better Lift"
+			},
+			{
+				"fileId": 2963669827,
+				"localId": "c070161a-e8e0-4593-8e63-30799b7f6904",
+				"name": "Duplicator Tool"
+			},
+			{
+				"fileId": 2121803790,
+				"localId": "4649a444-621f-4595-90ba-908ae8301445",
+				"name": "Advanced X-O-Meter"
+			},
+			{
+				"fileId": 2022198450,
+				"localId": "d14c9984-f872-411b-8e0e-993e829e9bbb",
+				"name": "OP Tools"
+			},
+			{
+				"fileId": 3290334190,
+				"localId": "35bd8b52-4dcf-40b5-9b22-dad88a750e23",
+				"name": "raw block editor [BETA]"
+			},
+			{
+				"fileId": 2987476458,
+				"localId": "f9cf9fef-02f9-4029-89d7-4a8c91e2f349",
+				"name": "Bingo's Block and Part Editor"
+			},
+			{
+				"fileId": 2910423207,
+				"localId": "2bc5a271-e920-4853-a2a6-3f327ba3e971",
+				"name": "Player Name Tag Hider"
+			},
+			{
+				"fileId": 3415417597,
+				"localId": "56b0ccf8-3e9f-4ccf-b2fa-93c73a40346f",
+				"name": "Invalid Joint Position Fixer"
+			},
+			{
+				"fileId": 3363279912,
+				"localId": "281653c8-4c4e-4421-b026-958f9aec8f57",
+				"name": "Centre Of Mass Finder"
+			},
+			{
+				"fileId": 3305867921,
+				"localId": "77099040-adb8-40be-915f-e98271d8ca59",
+				"name": "Zero Width Block Viewer"
+			},
+			{
+				"fileId": 3306069786,
+				"localId": "191d6fc6-50a1-4d87-8b9d-8fe0b93e3eb8",
+				"name": "The Flattener"
+			},
+			{
+				"fileId": 3307178455,
+				"localId": "cc19ea39-7533-4273-bf67-54ef31c1de86",
+				"name": "Creation Summoner"
+			},
+			{
+				"fileId": 3312373135,
+				"localId": "2514bebf-db4a-4d53-b2ba-57a6b291226b",
+				"name": "Seats++"
+			},
+			{
+				"fileId": 3340095265,
+				"localId": "0d079c85-2b7a-4424-8d1b-5a9da6a4d59e",
+				"name": "Logic Gate Visibility Fix"
+			}
+		],
+		"description": "This is a list of all of SMTC's endorsed tool mods for advanced vanilla building, this modpack includes:\r\n[list]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2916542549] Player Teleporter [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340222404] Better Lift [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2963669827] Duplicator Tool [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2121803790] Advanced X-O-Meter [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2022198450] OP Tools [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3290334190] Raw block editor [BETA] [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2987476458] Bingo's Block and Part Editor [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2910423207] Player Name Tag Hider [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3415417597] Invalid Joint Position Fixer [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3363279912] Centre Of Mass Finder [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3305867921] Zero Width Block Viewer [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3306069786] The Flattener [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3307178455] Creation Summoner [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3312373135] Seats++ [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340095265] Logic Gate Visibility Fix[/url]\r\n[/list]\r\n\r\nWe hope you find this useful. Any suggestions, feel free to leave a comment.",
+		"fileId": 3304245465,
+		"localId": "31440574-2e66-417a-b77d-b02f8f1e4306",
+		"name": "SMTC Tool Pack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"084d0bf2-d443-4724-ad3f-1faf78f3fa96": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3177944610,
+				"localId": "e933f3f8-7c50-402f-bdc4-db931d136a6c",
+				"name": "better API [file mod]"
+			},
+			{
+				"fileId": 3185287679,
+				"localId": "a99716ca-719d-4891-b1d2-f1978e954a05",
+				"name": "online boombox [betterAPI]"
+			},
+			{
+				"fileId": 2949350596,
+				"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
+				"name": "SComputers [Fork]"
+			},
+			{
+				"fileId": 3034272798,
+				"localId": "d3e4964b-e971-42df-b67e-d988d1b054cc",
+				"name": "Wired & Wireless Cameras"
+			}
+		],
+		"description": "my server is running on this custom game. you don't need it. if you want to play on my server, then here are the invitations to the discord community: https://discord.gg/uJrsmUjaMG",
+		"fileId": 3440826317,
+		"localId": "084d0bf2-d443-4724-ad3f-1faf78f3fa96",
+		"name": "server software",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
