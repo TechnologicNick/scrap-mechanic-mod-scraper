@@ -42297,7 +42297,7 @@
 	"0890d256-0d45-43c9-aa6d-c252a046878f": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "You can now skip nights by sleeping in beds!\n\nCode Credits: Raft Mechanic",
+		"description": "This is a Blocks and Parts mod that allows you to skip the night by sleeping in beds\r\n\r\n\r\n[h1]NOTE: This is not a file mod and does not need to be installed manually! This mod will only work in [u]Survival Custom Games.[/u][/h1]\r\n\r\n[h1]Installation: [/h1]\r\nSubscribe to the mod, go to your survival custom game, select this mod from the mod browser, enable it and play!\r\n\r\nTo use this mod, i recommend a survival custom game such as [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Modded Craftbot Recipes[/url]\r\n\r\n\r\nCode Credits: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2807590049]Raft Mechanic[/url]",
 		"fileId": 3431937246,
 		"localId": "0890d256-0d45-43c9-aa6d-c252a046878f",
 		"name": "Sleep to skip the night",
@@ -42387,7 +42387,7 @@
 	"1d304802-8d1d-40a8-9258-d641d5d02fc4": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod makes totebots drop their heads as items instead of physical parts.",
+		"description": "This mod makes totebots drop their heads as items instead of physical parts.\r\n\r\n[h1]Note: This mod does not need to be manually installed! This mod will only work in [u]Survival Custom Games[/u].[/h1]\r\n\r\n[h1]Installation: Go to your survival custom game, select the mod from the mod browser, enable it and play! [/h1]\r\n\r\nTo use this mod, i recommend a survival custom game such as [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Modded Craftbot Recipes[/url]",
 		"fileId": 3435256071,
 		"localId": "1d304802-8d1d-40a8-9258-d641d5d02fc4",
 		"name": "Totebot Head Drops As Item",
@@ -42634,7 +42634,7 @@
 	"7b5bbb31-320a-47ff-acfd-11fe96095a7d": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "[h1]Customizable Survival Game Mode [/h1]\r\n• This custom game mode adds a settings menu for the host to change some values about the Survival Game\r\n\r\n[h2]Installation:[/h2]\r\n• Subscribe , And Create a new Custom Game mode World using this \"Mod\" \r\n\r\n[h2]How to use it:[/h2]\r\n• Just press R (Default) or your \"Reload Button\" To Bring up the ST Menu \r\n• Press \"Apply Settings\" when you are done changing\r\n• Reload the World For the changes to take effect (You Should Get A Warning In Game When Needed)\r\n\r\n[h2]Notes:[/h2]\r\n• This mod doesn't add any content\r\n\r\n\r\n\r\n[h1]Current Available Settings : [/h1]\r\n[b]Stack Size Multiplier :[/b] Lets you change the sizes of resources and harvestables (Doesn't change all items).\r\n\r\n[b]Resource Yield Multiplier :[/b] Lets you change how much resources are dropped / collected.\r\n\r\n[b]Refining Yield Multiplier :[/b] Changes the quantity of earned blocks when refining (with both hand and refine bot).\r\n\r\n[b]Refinery Bonus Multiplier :[/b] This multiplier is a percentage of how much extra blocks the refinery outputs .\r\n\r\n[b]Add Custom Recipes :[/b] This allows you to activate/deactivate these custom recipes down below :\r\n• Recipe to craft Component Kits Recipe.\r\n• Recipe to craft Circuit Boards Recipe.\r\n• Recipe to craft Circuit Boards using totebot Head.\r\n• Recipe to craft Plastic Blocks.\r\n\r\n[b]Use Minimal Crafting Time :[/b] Sets All Recipes Crafting timer to 3 seconds (the minimum in scrap mechanic)\r\n\r\n[h2]Extra Changes :[/h2]\r\n• Faster Hand Refining time.\r\n\r\n[h3]Enjoy![/h3]",
 		"fileId": 3441869969,
 		"localId": "7b5bbb31-320a-47ff-acfd-11fe96095a7d",
 		"name": "Survival Tweaks 2 - Customizable GM",
