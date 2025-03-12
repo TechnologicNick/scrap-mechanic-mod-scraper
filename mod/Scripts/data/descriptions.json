@@ -42650,5 +42650,15 @@
 		"name": "Vlatanium",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"4ec43201-de2f-4c87-a84a-6c91173ebae9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Manual installation required!\r\n\r\n1. Subscribe to the mod\r\n2. Right click on Scrap Mechanic in Steam library > Manage > Browse local files ( this will open game root directory )\r\n3. Open second explorer window in the same directory.\r\n4. Open mod folder [location of SteamLibrary or Steam]/steamapps/workshop/content/387990/3434554877/\r\n5. Open \"INSTALL\" folder and copy everything into Scrap Mechanic root directory and press Replace.\r\n6. Play the game. And made a beatiful challenges!.\r\n\r\nExample location of SteamLibrary or Steam (Windows):\r\nC:/Program Files (x86)/Steam/\r\nE:/SteamLibrary/\r\n\r\nIf you want to add a prefab in your chalenge you need to press \"un prefab\" button on your tile editor.\r\n\r\nAll assets from \"Creative\" and \"Survival\" game modes will be working in your chalenge {but not the moded assets}.\r\n\r\nThis mod may have many bugs.\r\n\r\nIf you dont know how to use this, just watch the https://www.youtube.com/watch?v=nv42_c9PWZI&t=1296s&ab_channel=Xeridox Guide on YouTube",
+		"fileId": 3442976496,
+		"localId": "4ec43201-de2f-4c87-a84a-6c91173ebae9",
+		"name": "ACL - Amazing Challenge Library",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
