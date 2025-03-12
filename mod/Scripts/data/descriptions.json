@@ -42624,7 +42624,7 @@
 				"name": "Wired & Wireless Cameras"
 			}
 		],
-		"description": "my server is running on this custom game. you don't need it. if you want to play on my server, then here are the invitations to the discord community: https://discord.gg/uJrsmUjaMG",
+		"description": "my server runs on this custom game. you don't need it. if you want to play on my server, here is all the information you need: https://igorkll.github.io/smserver/index.html\r\ndiscord: https://discord.gg/uJrsmUjaMG",
 		"fileId": 3440826317,
 		"localId": "084d0bf2-d443-4724-ad3f-1faf78f3fa96",
 		"name": "server software",
@@ -42640,5 +42640,15 @@
 		"name": "Survival Tweaks 2 - Customizable GM",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"f7cc58d1-ebfe-41f9-91e9-1f5cc61d0910": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds Vlatanium to the game!\nAnd some fun stuff ig...",
+		"fileId": 3442769891,
+		"localId": "f7cc58d1-ebfe-41f9-91e9-1f5cc61d0910",
+		"name": "Vlatanium",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

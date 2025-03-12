@@ -5714,6 +5714,7 @@
 	"3abf4d17-11cd-4d4d-b410-b4c61b400bac": {
 		"$CONTENT_3abf4d17-11cd-4d4d-b410-b4c61b400bac/Tools/Database/ToolSets/NewToolSet1.toolset": [
 			"2f2203c1-b27d-438b-8ca8-68bfb50c0086",
+			"c5a29364-904e-4da6-adc1-8221f13ff8a2",
 			"0041a608-9b41-4348-8cc6-5da6c644f57c",
 			"cce67b73-6ee1-4706-b10f-581b8fdbd0f5",
 			"4fdfddcf-29d2-4763-a4cb-8a7b920dcb6b"
@@ -5805,5 +5806,6 @@
 			"1ce8402c-3a96-4e33-9624-d3850b5d96e5"
 		]
 	},
-	"7b5bbb31-320a-47ff-acfd-11fe96095a7d": {}
+	"7b5bbb31-320a-47ff-acfd-11fe96095a7d": {},
+	"f7cc58d1-ebfe-41f9-91e9-1f5cc61d0910": {}
 }
