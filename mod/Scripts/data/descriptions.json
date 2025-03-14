@@ -42655,5 +42655,15 @@
 		"name": "ACL - Amazing Challenge Library",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"a069ceff-6de4-427c-bb96-f64ba902bb70": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Manipulate daytime like never before\n\nUses number inputs from The Modpack to allow for precise daytime control \n\nInput ranges from 0 to 1",
+		"fileId": 3444104828,
+		"localId": "a069ceff-6de4-427c-bb96-f64ba902bb70",
+		"name": "Number-Based Time Controller",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
