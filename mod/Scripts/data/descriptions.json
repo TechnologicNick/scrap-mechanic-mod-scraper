@@ -42699,5 +42699,25 @@
 		"name": "Skull and Bones",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"6da2534a-709e-4791-be65-7dd565fe5fe3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3073007172,
+		"localId": "6da2534a-709e-4791-be65-7dd565fe5fe3",
+		"name": "New Metals",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"4cb97082-47e2-49e5-89ba-fabfe864a65e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "ATTENTION: This modification is created for entertainment purposes and is not intended to offend anyone!\r\n\r\nThis is mod add to Scrap Mechanic a music about of PMC Wagner group.\r\n\r\nHow to download:\r\n\r\n1. Open a folder of Steam\r\n2. Go to steammaps/workshop/content/387990/3445504990/Effects/Audio/Banks\r\n3. Copy Master Bank.bank\r\n4. Open a folder of Scrap Mechanic\r\n5. Go to Data/Audio/Banks\r\n6. Paste a file from mod with overwrite.\r\n7. Enjoy!\r\n\r\nMusic:\r\nV. Tsigankova - Wagner\r\nA. Apachev - Summer and crossbows\r\nP.Plamenov - Otryadi veteranov\r\nA. Apachev - Summer and crossbows (Rock version)\r\nWagner - Hail and Rain\r\nA. Apachev x KSLV - Summer and crossbows x override (Mashup)\r\n\r\nThe creators of this modification are not the authors of the music used.",
+		"fileId": 3445504990,
+		"localId": "4cb97082-47e2-49e5-89ba-fabfe864a65e",
+		"name": "PMC Wagner group Radio",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
