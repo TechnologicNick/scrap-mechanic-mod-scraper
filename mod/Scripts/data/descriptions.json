@@ -40154,7 +40154,7 @@
 	"e0eadd62-dac7-4f41-82ce-400781563df5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "A simple mod that add gunpowder and a fuse combine them with a conect tool and depending on how meny you connect depends on the power and the size of the explosion\nplease comment any suggestions\n\n\n-update\nbetter damage levels radius ",
+		"description": "A simple mod that add gunpowder and a fuse combine them with a conect tool and depending on how meny you connect depends on the power and the size of the explosion\nplease comment any suggestions\n\n\n-update\nCrafting should work with Moded Craft Bot gamemode",
 		"fileId": 3334096541,
 		"localId": "e0eadd62-dac7-4f41-82ce-400781563df5",
 		"name": "Gunpowder and Fuse Mod",
@@ -42516,6 +42516,11 @@
 				"name": "Player Teleporter"
 			},
 			{
+				"fileId": 3443881450,
+				"localId": "4212ea90-0a36-4908-acd8-9a9b915a828e",
+				"name": "Better Lift V2"
+			},
+			{
 				"fileId": 2963669827,
 				"localId": "c070161a-e8e0-4593-8e63-30799b7f6904",
 				"name": "Duplicator Tool"
@@ -42581,7 +42586,7 @@
 				"name": "Logic Gate Visibility Fix"
 			}
 		],
-		"description": "This is a list of all of SMTC's endorsed tool mods for advanced vanilla building, this modpack includes:\r\n[list]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2916542549] Player Teleporter [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340222404] Better Lift [/url] --Temporarily removed\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2963669827] Duplicator Tool [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2121803790] Advanced X-O-Meter [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2022198450] OP Tools [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3290334190] Raw block editor [BETA] [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2987476458] Bingo's Block and Part Editor [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2910423207] Player Name Tag Hider [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3415417597] Invalid Joint Position Fixer [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3363279912] Centre Of Mass Finder [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3305867921] Zero Width Block Viewer [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3306069786] The Flattener [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3307178455] Creation Summoner [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3312373135] Seats++ [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340095265] Logic Gate Visibility Fix[/url]\r\n[/list]\r\n\r\nWe hope you find this useful. Any suggestions, feel free to leave a comment.",
+		"description": "This is a list of all of SMTC's endorsed tool mods for advanced vanilla building, this modpack includes:\r\n[list]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2916542549] Player Teleporter [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3443881450] Better Lift V2 [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2963669827] Duplicator Tool [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2121803790] Advanced X-O-Meter [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2022198450] OP Tools [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3290334190] Raw block editor [BETA] [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2987476458] Bingo's Block and Part Editor [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2910423207] Player Name Tag Hider [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3415417597] Invalid Joint Position Fixer [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3363279912] Centre Of Mass Finder [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3305867921] Zero Width Block Viewer [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3306069786] The Flattener [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3307178455] Creation Summoner [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3312373135] Seats++ [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340095265] Logic Gate Visibility Fix[/url]\r\n[/list]\r\n\r\nWe hope you find this useful. Any suggestions, feel free to leave a comment.",
 		"fileId": 3304245465,
 		"localId": "31440574-2e66-417a-b77d-b02f8f1e4306",
 		"name": "SMTC Tool Pack",
@@ -42693,7 +42698,7 @@
 	"e080d505-bf93-4ab2-b916-233484b77c90": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod doesn't have a description",
+		"description": "This mod adds a few Bone parts.\r\nwas a request from Pwrcmdr.\r\n\r\nSo have fun with it ;)",
 		"fileId": 3445172104,
 		"localId": "e080d505-bf93-4ab2-b916-233484b77c90",
 		"name": "Skull and Bones",
@@ -42717,6 +42722,36 @@
 		"fileId": 3445504990,
 		"localId": "4cb97082-47e2-49e5-89ba-fabfe864a65e",
 		"name": "PMC Wagner group Radio",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"93b8dc0c-f4cb-49ee-a6d2-70b7e5d3bffa": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "SoW V.F. Elements Mod\nVanilla Friendly Mod означает что мод использует ванильные модели и текстуры из игры.\n\n",
+		"fileId": 3445698753,
+		"localId": "93b8dc0c-f4cb-49ee-a6d2-70b7e5d3bffa",
+		"name": "SoW V.F. Elements Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"3392ad01-d35a-46b3-b96b-8736f0f79d80": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This modification adds music by the musical group Kino.\n\nHow to download:\n\n1. Open a folder of Steam\n2. Go to steammaps/workshop/content/387990/3445504990/Effects/Audio/Banks\n3. Copy Master Bank.bank\n4. Open a folder of Scrap Mechanic\n5. Go to Data/Audio/Banks\n6. Paste a file from mod with overwrite.\n7. Enjoy!\n\nMusic:\n1. Close the door behind me, I'm leaving.\n2. Want change\n3. Electrichka\n4. Gruppa Krovi (Blood Type)\n\nThe creators of this modification are not the authors of the music used.",
+		"fileId": 3445846316,
+		"localId": "3392ad01-d35a-46b3-b96b-8736f0f79d80",
+		"name": "Kino (Viktor Tsoi) Radio",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a399ce06-3b8a-433c-9c20-f72ed3927340": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This modification adds music by the musical group Gr.Ob. (Grazhdanskaya Oborona)\n\nHow to download:\n\n1. Open a folder of Steam\n2. Go to steammaps/workshop/content/387990/-/Effects/Audio/Banks\n3. Copy Master Bank.bank\n4. Open a folder of Scrap Mechanic\n5. Go to Data/Audio/Banks\n6. Paste a file from mod with overwrite.\n7. Enjoy!\n\nMusic:\n1. Everything is going according to plan\n2. City of childhood\n3. Soldiers are not born\n4. Afghan syndrome\n5. Kill\n\nThe creators of this modification are not the authors of the music used.",
+		"fileId": 3446000044,
+		"localId": "a399ce06-3b8a-433c-9c20-f72ed3927340",
+		"name": "Grazhdanskaya Oborona (Egor Letov) Radio",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
