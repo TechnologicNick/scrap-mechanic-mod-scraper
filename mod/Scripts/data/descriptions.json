@@ -30268,7 +30268,7 @@
 				"name": "ModDatabase"
 			}
 		],
-		"description": "UnknownUnit's Arsenal\r\nInclude:\r\n-Craftable Circuit Boards and Component Kits\r\n-Chem Spud Gun and Ammo\r\n-More Trading Deals\r\n\r\nDependencies:\r\n-ModDatabase (By TechnologicNick and The Guild)[https://steamcommunity.com/sharedfiles/filedetails/?id=2504530003]\r\n\r\nBig up to:\r\n-TechnologicNick and The Guild for creating ModDatabase\r\n-QuestionableM for creating Modded Craftbot Recipes [https://github.com/QuestionableM/Modded-Craftbot-Recipes]",
+		"description": "UnknownUnit's Arsenal\r\nInclude:\r\n-Craftable Circuit Boards and Component Kits\r\n-Chem Spud Gun and Ammo\r\n-Utility Gun (No ammo required)\r\n-Experimental Gun (No ammo required)\r\n-Explosive Spawner\r\n-More Trading Deals\r\n\r\nAll available in survival either through crafting og trading\r\n\r\n\r\nDependencies:\r\n-ModDatabase (By TechnologicNick and The Guild)[https://steamcommunity.com/sharedfiles/filedetails/?id=2504530003]\r\n\r\nBig up to:\r\n-TechnologicNick and The Guild for creating ModDatabase\r\n-QuestionableM for creating Modded Craftbot Recipes [https://github.com/QuestionableM/Modded-Craftbot-Recipes]",
 		"fileId": 2875099653,
 		"localId": "97fea750-1f4e-4130-94fb-05b1d9bce4ff",
 		"name": "UnknownUnitsArsenal",
@@ -42479,7 +42479,7 @@
 	"1c63a24b-a9ec-4a9e-80d7-197b73a67c0f": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Manual installation required!\r\n\r\n1. Subscribe to the mod\r\n2. Right click on Scrap Mechanic in Steam library > Manage > Browse local files ( this will open game root directory )\r\n3. Open second explorer window in the same directory.\r\n4. Open mod folder [location of SteamLibrary or Steam]/steamapps/workshop/content/387990/3434554877/\r\n5. Open \"INSTALL\" folder and copy everything into Scrap Mechanic root directory and press Replace.\r\n6. Play the game. And enjoy my mod!.\r\n\r\nExample location of SteamLibrary or Steam (Windows):\r\nC:\\Program Files (x86)\\Steam\\\r\nE:\\SteamLibrary\\",
+		"description": "Manual installation required!\r\n\r\n1. Subscribe to the mod\r\n2. Right click on Scrap Mechanic in Steam library > Manage > Browse local files ( this will open game root directory )\r\n3. Open second explorer window in the same directory.\r\n4. Open mod folder [location of SteamLibrary or Steam]\\steamapps\\workshop\\content\\387990/3442976496\r\n5. Open \"INSTALL\" folder and copy everything into Scrap Mechanic root directory and press Replace.\r\n6. Play the game. And enjoy my mod!.\r\n\r\nExample location of SteamLibrary or Steam (Windows):\r\nC:\\Program Files (x86)\\Steam\\\r\nE:\\SteamLibrary\\",
 		"fileId": 3439849417,
 		"localId": "1c63a24b-a9ec-4a9e-80d7-197b73a67c0f",
 		"name": "New handbook [BETA]",
@@ -42728,7 +42728,7 @@
 	"93b8dc0c-f4cb-49ee-a6d2-70b7e5d3bffa": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "SoW V.F. Elements Mod\nVanilla Friendly Mod означает что мод использует ванильные модели и текстуры из игры.\n\n",
+		"description": "SoW V.F. Elements Mod\r\nVanilla Friendly Mod означает что мод использует ванильные модели и текстуры из игры.\r\n\r\nЗа помощь спасибо Грому:\r\nhttps://steamcommunity.com/profiles/76561199086371589",
 		"fileId": 3445698753,
 		"localId": "93b8dc0c-f4cb-49ee-a6d2-70b7e5d3bffa",
 		"name": "SoW V.F. Elements Mod",
