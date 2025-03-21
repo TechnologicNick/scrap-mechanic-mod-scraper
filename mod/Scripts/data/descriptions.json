@@ -42209,7 +42209,7 @@
 	"3abf4d17-11cd-4d4d-b410-b4c61b400bac": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Add rockets for game.Its very cool!",
+		"description": "Add more parts and blocks for game. Its very cool!",
 		"fileId": 3424845976,
 		"localId": "3abf4d17-11cd-4d4d-b410-b4c61b400bac",
 		"name": "++ GameBlocks",
@@ -42774,10 +42774,30 @@
 	"3b6b18a1-6fa7-4501-b15f-0636ebb06f09": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Deletes any shape or body you throw at it, useful for making keycard systems where you have to remove something you cant remove due to its durability\n\nCan also be used to have fights with one another\n\nThings that im planning to add:\n- Single block mode, deletes a singular block on a body/shape",
+		"description": "Deletes any shape or body you throw at it, useful for making keycard systems where you have to remove something you cant remove due to its durability\n\nCan also be used to have fights with one another\n\nThings that im planning to add:\n- None!",
 		"fileId": 3447671369,
 		"localId": "3b6b18a1-6fa7-4501-b15f-0636ebb06f09",
 		"name": "Deleter",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a7736eb7-743c-40ff-8c6d-b9c2c7eb4246": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Мод на видимые элементы, не включать вместе с модом на невидимые элементы!",
+		"fileId": 3448318039,
+		"localId": "a7736eb7-743c-40ff-8c6d-b9c2c7eb4246",
+		"name": "SoW Visible Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"e06059e3-b6dd-4d81-b8e7-f332bc94e664": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Мод на невидимые элементы, не включать вместе с модом на видимые элементы!",
+		"fileId": 3448318467,
+		"localId": "e06059e3-b6dd-4d81-b8e7-f332bc94e664",
+		"name": "SoW Invisible Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
