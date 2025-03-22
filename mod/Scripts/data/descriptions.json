@@ -42800,5 +42800,26 @@
 		"name": "SoW Invisible Mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"d9ae9366-7719-4a2e-883e-02baf311ab00": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "armor blocks for tanks",
+		"fileId": 3449523327,
+		"localId": "d9ae9366-7719-4a2e-883e-02baf311ab00",
+		"name": "ARMOR BLOCKS",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b3ae6117-5cc0-44d1-af5b-4b5796e4c4be": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "adds custom recipes",
+		"fileId": 3449587845,
+		"localId": "b3ae6117-5cc0-44d1-af5b-4b5796e4c4be",
+		"name": "recipes and stuff",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
