@@ -32877,7 +32877,7 @@
 	},
 	"3aeb81c2-71b9-45a1-9479-1f48f1e8ff21": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"dependencies": null,
 		"description": "this fork of ScriptableComputer\nfork creation was approved by the authors of the mod\nfor the mod to work correctly, there SHOULD BE NO \"ScriptableComputer\" and/or \"SCI\" in the world\nthis mod DOES NOT VIOLATE anyone's licenses, the author of the original does not mind that I am doing a fork\nthis mod DOES NOT CONTAIN SCI and ScrapComputers code and partial compatibility is implemented using a layer\n\n[url=https://igorkll.github.io] DOCUMENTATION [/url]\n[url=https://discord.gg/uJrsmUjaMG] DISCORD SERVER [/url]\n\nadvantages of SComputers compared to any other computer mods:\n[list]\n  [*] bug fixes (critical filesystem bugs, bugs causing lags, bugs breaking code, and many other extremely unpleasant bugs have been fixed in SComputers)\n  [*] compatibility (this mod is fully compatible with the original and with SCI and may also be compatible with other mods in the future)\n  [*] responsive support (you can always write a comment to the mod and I will answer it, you can also write to me in the discord \"smlogic\")\n  [*] optimization (displays in SComputers almost do not cause lags)\n  [*] the presence of require and built-in libraries (image, midi, vdisplay, base64, utf8, ramfs, etc)\n  [*] code examples (code examples in mod will help you figure it out a bit)\n  [*] security (from SComputers it is much more difficult to cause bugsplat, game freezes, lags)\n  [*] availability of new components\n  [*] regular updates (about every month)\n  [*] support for crafting recipes\n  [*] radars are seen a robots/wocs/worms\n  [*] ability to use betterAPI to load code\n  [*] the mod has its own API for creating addons, which is described in the documentation\n  [*] fast luaVM - FiOne_lua\n[/list]\n\ntags: computer, computers, lua",
 		"fileId": 2949350596,
@@ -42291,7 +42291,7 @@
 	"0890d256-0d45-43c9-aa6d-c252a046878f": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This is a Blocks and Parts mod that allows you to skip the night by sleeping in beds\r\n\r\n\r\n[h1]NOTE: This is not a file mod and does not need to be installed manually! This mod will only work in [u]Survival Custom Games.[/u][/h1]\r\n\r\n[h1]Installation: [/h1]\r\nSubscribe to the mod, go to your survival custom game, select this mod from the mod browser, enable it and play!\r\n\r\nTo use this mod, i recommend a survival custom game such as [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Modded Craftbot Recipes[/url]\r\n\r\n\r\nCode Credits: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2807590049]Raft Mechanic[/url]",
+		"description": "This is a Blocks and Parts mod that allows you to skip the night by sleeping in beds\r\n\r\n\r\n[h1]Note: This mod will work for both [u]Survival games[/u] and [u]Survival Custom games[/u].[/h1]\r\n\r\n[h1]Installation: [/h1]\r\n     [h2][u]1. Survival Games: (Needs to be installed manually) [/u][/h2]\r\n     1. Subscribe to this mod\r\n     2. Navigate to [i]'SteamLibrary/steamapps/workshop/content/387990/3431937246'[/i]\r\n     3. Open the folder named [i]\"COPY THE CONTENT INSIDE THIS FOLDER\"[/i] and copy the contents inside it.\r\n     4. Navigate to your game's local files, [i]'SteamLibrary/steamapps/common/Scrap Mechanic'[/i] and paste the copied contents inside and make sure to replace the existing files.\r\n     5. Go to your Survival game and play!\r\n\r\n\r\n     [h2][u]2. Survival Custom Games: (Does not require manual installation)[/u][/h2]\r\n     Just go to your Survival Custom Game and enable the mod from the mod browser and play!\r\n\r\n[hr][/hr]\r\nTo use this mod, i recommend a survival custom game such as [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Modded Craftbot Recipes[/url]\r\n\r\n\r\nCode Credits: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2807590049]Raft Mechanic[/url]",
 		"fileId": 3431937246,
 		"localId": "0890d256-0d45-43c9-aa6d-c252a046878f",
 		"name": "Sleep to skip the night",
@@ -42381,7 +42381,7 @@
 	"1d304802-8d1d-40a8-9258-d641d5d02fc4": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod makes totebots drop their heads as items instead of physical parts.\r\n\r\n[h1]Note: This mod does not need to be manually installed! This mod will only work in [u]Survival Custom Games[/u].[/h1]\r\n\r\n[h1]Installation: Go to your survival custom game, select the mod from the mod browser, enable it and play! [/h1]\r\n\r\nTo use this mod, i recommend a survival custom game such as [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Modded Craftbot Recipes[/url]",
+		"description": "This mod makes totebots drop their heads as items instead of physical parts.\r\n\r\n[h1]Note: This mod will work for both [u]Survival games[/u] and [u]Survival Custom games[/u].[/h1]\r\n\r\n[h1]Installation: [/h1]\r\n     [h2][u]1. Survival Games: (Needs to be installed manually) [/u][/h2]\r\n     1. Subscribe to this mod\r\n     2. Navigate to [i]'SteamLibrary/steamapps/workshop/content/387990/3435256071'[/i]\r\n     3. Open the folder named [i]\"COPY THE CONTENT INSIDE THIS FOLDER\"[/i] and copy the contents inside it.\r\n     4. Navigate to your game's local files, [i]'SteamLibrary/steamapps/common/Scrap Mechanic'[/i] and paste the copied contents inside and make sure to replace the existing files.\r\n     5. Go to your Survival game and play!\r\n\r\n\r\n     [h2][u]2. Survival Custom Games: (Does not require manual installation)[/u][/h2]\r\n     Just go to your Survival Custom Game and enable the mod from the mod browser and play!\r\n\r\n[hr][/hr]\r\n\r\nTo use this mod, i recommend a survival custom game such as [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Modded Craftbot Recipes[/url]",
 		"fileId": 3435256071,
 		"localId": "1d304802-8d1d-40a8-9258-d641d5d02fc4",
 		"name": "Totebot Head Drops As Item",
@@ -42688,7 +42688,7 @@
 	"e5024e0f-a97c-4b80-bcb4-42bb3cc8cc1d": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod makes hand refining faster! The rate of refining is double that of vanilla.\r\n\r\n[h1]Note: This mod will work for both [u]Survival games[/u] and [u]Survival Custom games[/u].[/h1]\r\n\r\n[h1]Installation: [/h1]\r\n     [h2][u]1. Survival Games: (Needs to be installed manually) [/u][/h2]\r\n     1. Subscribe to this mod\r\n     2. Navigate to [i]'SteamLibrary/steamapps/workshop/content/387990/3444334449'[/i]\r\n     3. Open the folder named [i]\"COPY THE CONTENT INSIDE THIS FOLDER\"[/i] and copy the contents inside it.\r\n     4. Navigate to your game's local files, [i]'SteamLibrary/steamapps/common/Scrap Mechanic'[/i] and paste the copied contents inside and make sure to replace the existing files.\r\n     5. Go to your Survival game and play!\r\n\r\n\r\n     [h2][u]2. Survival Custom Games: (Does not require manual installation)[/u][/h2]\r\n     Just go to your Survival Custom Game and enable the mod from the mod browser and play!\r\n\r\n[hr][/hr]\r\n\r\nTo use this mod, i recommend a survival custom game such as [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Modded Craftbot Recipes[/url]",
+		"description": "This mod makes hand refining faster! The default rate of refining is double that of vanilla.\r\n\r\nThe refining speed can be adjusted by typing [b][i]\"/refinespeed <value in seconds>\"[/i][/b] in chat and giving it a custom value. If you dont give any value, it will reset the refining speed to the mod's default which is twice that of vanilla\r\n\r\n[h1]Note: This mod will work for both [u]Survival games[/u] and [u]Survival Custom games[/u].[/h1]\r\n\r\n[h1]Installation: [/h1]\r\n     [h2][u]1. Survival Games: (Needs to be installed manually) [/u][/h2]\r\n     1. Subscribe to this mod\r\n     2. Navigate to [i]'SteamLibrary/steamapps/workshop/content/387990/3444334449'[/i]\r\n     3. Open the folder named [i]\"COPY THE CONTENT INSIDE THIS FOLDER\"[/i] and copy the contents inside it.\r\n     4. Navigate to your game's local files, [i]'SteamLibrary/steamapps/common/Scrap Mechanic'[/i] and paste the copied contents inside and make sure to replace the existing files.\r\n     5. Go to your Survival game and play!\r\n\r\n\r\n     [h2][u]2. Survival Custom Games: (Does not require manual installation)[/u][/h2]\r\n     Just go to your Survival Custom Game and enable the mod from the mod browser and play!\r\n\r\n[hr][/hr]\r\n\r\nTo use this mod, i recommend a survival custom game such as [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Modded Craftbot Recipes[/url]",
 		"fileId": 3444334449,
 		"localId": "e5024e0f-a97c-4b80-bcb4-42bb3cc8cc1d",
 		"name": "Faster Refining Speed",
@@ -42819,6 +42819,16 @@
 		"fileId": 3449587845,
 		"localId": "b3ae6117-5cc0-44d1-af5b-4b5796e4c4be",
 		"name": "recipes and stuff",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f5318419-40e7-40b8-a858-160e76d3bae3": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Place the Block Aerodynamics part somewhere on your creation.\r\nput a block that you want to work as wing surface in the Block Aerodynamics part.\r\nthen build your wings. any block surface you placed that is max 1 block thick like 20 x 5 x 1, or 1 x 46 x 27 and so.. will count as wing.\r\n\r\nthis mod is still WIP so any reports to me via discord.\r\n\r\n\r\nHave fun with it.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"fileId": 3451226990,
+		"localId": "f5318419-40e7-40b8-a858-160e76d3bae3",
+		"name": "Block Aerodynamics",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
