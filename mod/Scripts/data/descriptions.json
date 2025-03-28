@@ -42844,7 +42844,7 @@
 	"d5f7e1ba-70f8-448a-9bcf-cef6bf523437": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h3]Lets you instantly warp a creation to a new location![/h3]\r\n\r\nThis mod does not add new parts to the game, but adds new functionalities to existing seats, saddles, and the driver variants.\r\n\r\nPlease watch the video for usage instructions.\r\n\r\nEnter [i]/quickwarp[/i] into the in-game chat to configure the controls and options for the mod.\r\n\r\nThe mod does not work on pre-survival seat variants, office chair, bathtub, or toilet.\r\nInstall and enable the optional [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3452511878]Scripted Non-Scripted Seats[/url] mod if you want those seats to also have the QuickWarp functionality. \r\n\r\n\r\n",
+		"description": "[h1]Lets you instantly warp a creation to a new location![/h1]\r\n\r\nThis mod does not add new parts to the game, but adds new functionalities to existing seats, saddles, and the driver variants.\r\n\r\nPlease watch the video for usage instructions.\r\n\r\nEnter [i]/quickwarp[/i] into the in-game chat to configure the controls and options for the mod.\r\n\r\nThe mod does not work on pre-survival seat variants, office chair, bathtub, or toilet.\r\nInstall and enable the optional [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3452511878]Scripted Non-Scripted Seats[/url] mod if you want those seats to also have the QuickWarp functionality. \r\n\r\n\r\n",
 		"fileId": 3452765170,
 		"localId": "d5f7e1ba-70f8-448a-9bcf-cef6bf523437",
 		"name": "QuickWarp",
