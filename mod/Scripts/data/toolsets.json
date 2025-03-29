@@ -5852,5 +5852,10 @@
 		"$CONTENT_d5f7e1ba-70f8-448a-9bcf-cef6bf523437/Tools/Database/ToolSets/tools.toolset": [
 			"51750303-8a09-458c-89fa-0e9d7f83fd4e"
 		]
+	},
+	"4fe50b12-57c4-482e-b44b-f9be48776128": {
+		"$CONTENT_4fe50b12-57c4-482e-b44b-f9be48776128/Tools/Database/ToolSets/NewToolSet1.toolset": [
+			"8805108f-554b-47dc-ad39-0f3be82d9433"
+		]
 	}
 }
