@@ -42913,5 +42913,15 @@
 		"name": "portal gun spud",
 		"type": "Blocks and Parts",
 		"version": 0
+	},
+	"001c0293-8d10-4376-b6c4-a3dc76ddb5e8": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3428475324,
+		"localId": "001c0293-8d10-4376-b6c4-a3dc76ddb5e8",
+		"name": "Części lokomotyw",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
