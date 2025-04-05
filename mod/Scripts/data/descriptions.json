@@ -42879,6 +42879,7 @@
 	"05eb8e92-89f0-44e1-bbf2-850c93fd4f8c": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": null,
 		"description": "",
 		"fileId": 3454266788,
 		"localId": "05eb8e92-89f0-44e1-bbf2-850c93fd4f8c",
