@@ -42934,5 +42934,15 @@
 		"name": "InfiniHealth",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"03274463-db8b-440e-8546-646706f65032": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This part can pull and push items in and out of container and will pickup item drops and drop items. \r\nWhen you place it, the side with the dark square is the (IN). \r\nThe opposite side will be the (OUT) when you want to push items into a container, \r\nit will be also the side to drop items. \r\nYou can connect with the connect tool a logic signal to it to activate or deactivate it. \r\nIt has also a Filter Option. \r\nYou can change Modes by holding the crouch key and pressing (E) or (U).If the description is to long, \r\nlook in the craftbot or on the Workshoppage of the mod.\r\n\r\nthis mod is still WIP so any reports to me via discord.\r\n\r\n\r\nHave fun with it.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"fileId": 3460866497,
+		"localId": "03274463-db8b-440e-8546-646706f65032",
+		"name": "Fants Item Transport Cubes",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
