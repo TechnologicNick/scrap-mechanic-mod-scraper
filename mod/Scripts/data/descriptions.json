@@ -42994,5 +42994,15 @@
 		"name": "server software(Fix host)",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"bab79898-82c6-47c2-af8e-af1e71d73023": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Turn your Scrap Mechanic world into an autumn forest.",
+		"fileId": 3464786182,
+		"localId": "bab79898-82c6-47c2-af8e-af1e71d73023",
+		"name": "Autumn forest world",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
