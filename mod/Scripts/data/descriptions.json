@@ -39582,7 +39582,7 @@
 	"77099040-adb8-40be-915f-e98271d8ca59": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod makes normally invisible zero width blocks visible, this makes its much easier to edit and tweak your blueprint edited builds.\r\n\r\n[h1]What's a Zero Width Block?[/h1]\r\n\r\nZero width blocks, or sometimes referred to in the community as zwb's or 0wb's are normal blocks that have been blueprint edited such that one dimension of the block is a 0, this creates a flat panel sometimes with and without collision and they are normally invisible.\r\n\r\n[h1]Commands:[/h1]\r\n\r\n\"/toggleviewer\" - This command toggles the visibility of the zero width blocks.\r\n\r\n[i]If there are any bugs, feel free to let me know in the comments, a like and favourite would also be greatly appreciated![/i]",
+		"description": "This mod makes normally invisible zero width blocks and wonky joints visible, this makes its much easier to edit and tweak your blueprint edited builds.\r\n\r\n[h1]What's a Zero Width Block?[/h1]\r\n\r\nZero width blocks, or sometimes referred to in the community as zwb's or 0wb's are normal blocks that have been blueprint edited such that one dimension of the block is a 0, this creates a flat panel sometimes with and without collision and they are normally invisible.\r\n\r\n[h1]What's a Wonky object?[/h1]\r\n\r\nThey are either shapes or joints that have been blueprint edited in such a way that their right and forward face are made to face the same direction. Doing this to joints can create some very interesting properties that can be harnessed to create some very technical builds.\r\n\r\n[h1]Commands:[/h1]\r\n\r\n\"/toggleviewer\" - This command toggles the visibility of the zero width blocks and wonky joints.\r\n\r\n[i]If there are any bugs, feel free to let me know in the comments, a like and favourite would also be greatly appreciated![/i]",
 		"fileId": 3305867921,
 		"localId": "77099040-adb8-40be-915f-e98271d8ca59",
 		"name": "Zero Width Block Viewer",
@@ -43022,6 +43022,16 @@
 		"fileId": 3466712631,
 		"localId": "7a687bfe-a2b6-4356-a2a1-5dfa1308cbf0",
 		"name": "Dumb Scrap Shaders",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"21214b3d-1183-4ffd-b7e5-395377c5408b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3459197852,
+		"localId": "21214b3d-1183-4ffd-b7e5-395377c5408b",
+		"name": "hustle mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
