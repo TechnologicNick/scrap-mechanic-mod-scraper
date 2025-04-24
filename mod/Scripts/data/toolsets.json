@@ -5908,5 +5908,9 @@
 		"$CONTENT_76b1d671-7637-4e0d-be56-d4417001041f/Tools/Database/ToolSets/tool.toolset": [
 			"99c499d5-863d-4b19-a720-4d3c19eb5206"
 		]
-	}
+	},
+	"84c6c6c8-316b-4ccc-93d0-a366cc76abb0": {
+		"$CONTENT_84c6c6c8-316b-4ccc-93d0-a366cc76abb0/Tools/Database/ToolSets/example.toolset": []
+	},
+	"2c64ec6b-b7b3-4e56-b728-3e3a7e6b54c0": {}
 }
