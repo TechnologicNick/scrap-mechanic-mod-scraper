@@ -43100,5 +43100,15 @@
 		"name": "Analogue Stuff",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"3b153721-711f-4fb2-8fb9-5e478e4efedd": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Improved Farm 2 est un mod pour améliorer vos conditions de survie via différents ajouts :\r\n- 100 blocks par ressource raffinée\r\n- 512 blocks par stacks\r\n- Réapparition du pétrole rapide (5s)\r\n- Réapparition des coquillages rapide (5s)\r\n- Nouveaux crafts (kits de composants, circuits imprimés, sunshakes ...)\r\n- Réduction du temps de craft des sandwichs",
+		"fileId": 3469977069,
+		"localId": "3b153721-711f-4fb2-8fb9-5e478e4efedd",
+		"name": "Improved Farm 2",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
