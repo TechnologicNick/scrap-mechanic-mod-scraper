@@ -816,7 +816,9 @@
 	"aee19ab9-a710-45bb-91ec-607accb9ebaa": {},
 	"23cd6b16-e1ec-40ad-8ebb-574413e6a7be": {},
 	"a0f0a533-86fa-4d57-9bca-4b3510264926": {},
-	"f43c0360-8433-4cbf-81ee-0b744c59b361": {},
+	"f43c0360-8433-4cbf-81ee-0b744c59b361": {
+		"$CONTENT_f43c0360-8433-4cbf-81ee-0b744c59b361/Tools/Database/ToolSets/example.toolset": []
+	},
 	"96082c9f-7c91-4cf6-97b6-8dd8e0712de2": {},
 	"984deb56-410e-470d-8cbe-816ef7180243": {},
 	"61d856d7-a2ae-4a56-81c6-611734e14573": {},

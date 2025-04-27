@@ -1298,5 +1298,17 @@
 			"c8bfb8f3-7efc-49ac-875a-eb85ac0614db",
 			"9f4fde94-312f-4417-b13b-84029c5d6b52"
 		]
+	},
+	"f43c0360-8433-4cbf-81ee-0b744c59b361": {
+		"$CONTENT_f43c0360-8433-4cbf-81ee-0b744c59b361/Characters/Database/CharacterSets/robots.characterset": [
+			"04761b4a-a83e-4736-b565-120bc776edb2",
+			"9dbbd2fb-7726-4e8f-8eb4-0dab228a561d",
+			"fcb2e8ce-ca94-45e4-a54b-b5acc156170b",
+			"68d3b2f3-ed4b-4967-9d22-8ee6f555df63",
+			"c3d31c47-0c9b-4b07-9bd4-8f022dc4333e",
+			"8984bdbf-521e-4eed-b3c4-2b5e287eb879",
+			"c8bfb8f3-7efc-49ac-875a-eb85ac0614db",
+			"9f4fde94-312f-4417-b13b-84029c5d6b52"
+		]
 	}
 }

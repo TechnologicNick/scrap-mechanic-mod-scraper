@@ -14251,11 +14251,13 @@
 		"version": 0
 	},
 	"f43c0360-8433-4cbf-81ee-0b744c59b361": {
-		"description": "Easier Farm is a mod to farm easier in survival mod\nThe furnitures are :\n- get 100 blocks by harvesting\n- get fuel with a vacum pump\n- fuel and respawn every 5 seconds\n- glue claim respawn every 5 seconds\n- new crafts (component kit, circuitboard, sunshakes)\n- reduce the healing food's crafing time",
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[CE MOD EST DÉPASSÉ]\r\nJe vous invite à aller installer la nouvelle version :\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3469977069\r\n\r\nEasier Farming est un mod pour améliorer a la survie\r\nLes ajouts sont :\r\n- 100 blocs par ressource raffinée\r\n- réapparition du pétrole tout les 5 secondes\r\n- les coquillages réapparaissent tout les 5 secondes\r\n- nouveaux crafts (kit de composant, circuit imprimé, sunshakes)\r\n- réduction du temps de craft des burgers et de la baguette de régénération\r\n\r\nPour l'installation, regardez la vidéo.\r\nChemin : \"Steam\\steamapps\\workshop\\content\\387990\\2226589183\"",
 		"fileId": 2226589183,
 		"localId": "f43c0360-8433-4cbf-81ee-0b744c59b361",
-		"name": "Easier Farm",
-		"type": "Terrain Assets",
+		"name": "Improved Farm",
+		"type": "Custom Game",
 		"version": 0
 	},
 	"61d856d7-a2ae-4a56-81c6-611734e14573": {
@@ -29559,6 +29561,13 @@
 	"526ed7a7-b9ff-4c9b-9167-2ed27b816195": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2819452871,
+				"localId": "1eae36e3-aaa6-46b2-b92f-57e1e7811ee3",
+				"name": "Survival Mode Assets Fix"
+			}
+		],
 		"description": "This mod adds the Survival mode parts with tweaked or fixed nuances that differ from the original game improving them in different ways, this mod can be used both in Creative mode and Survival mode.\r\n(Recommended Enable Survival Player for better experience)\r\n\r\nThe database contains exact same UUID's as in-game parts making it cross Survival Mode compaitable.\r\nNOTE: Use some parts at your own risk as they may break your world if used wrong, such as Elevator parts, Hideout parts and Dispensorbot. \r\nIf some parts can't be picked by your lift or removed, be sure to use /restrictions command in the chat.",
 		"fileId": 2858904031,
 		"localId": "526ed7a7-b9ff-4c9b-9167-2ed27b816195",
