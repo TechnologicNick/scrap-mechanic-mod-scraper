@@ -40016,7 +40016,7 @@
 	"a18eec9b-9379-41a3-b3d7-1013e25992ea": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod add more Guns for Scrap Mechanic\r\n-bag fix",
+		"description": "This mod add more Guns for Scrap Mechanic\r\n-add new wedge",
 		"fileId": 3322578054,
 		"localId": "a18eec9b-9379-41a3-b3d7-1013e25992ea",
 		"name": "rrr",
@@ -43127,6 +43127,23 @@
 		"fileId": 3471303764,
 		"localId": "a9c1a091-7804-4e96-a366-6af53eb1bba2",
 		"name": "MAFIALI vehicles",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"7a7cf469-37b4-4ea5-bbca-771e2c46258a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
+				"name": "ModDatabase"
+			}
+		],
+		"description": "[h2]No more guessing what mods a blueprint might use![/h2]\r\nA ~95% accurate mod finder, that finds just about any mod that any blueprint uses!\r\n\r\n[hr][/hr]\r\n[h1]Important![/h1]\r\n[list]\r\n[*]This is [b]NOT[/b] a file mod!\r\n[*]This mod will [b]NEVER[/b] be 100% accurate and may include mods that don't exist in some cases (due to ModDatabase not clearning those up)\r\n[*]Instructions to get the localId of a blueprint are present in the Help menu accessible from the main gui via the button next to the Check button.\r\n[*]To open the menu, use the \"/findModsForBlueprint\" command.\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h1]Features[/h1]\r\n[list]\r\n[*]Finds almost all the required mods for a blueprint with ~95% accuracy.\r\n[*]Button to get the mod download link and export all required mods.\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h2]Support:[/h2]\r\n[*]Rate, Favorite, Share and Award!\r\n[img]https://fagiano0.github.io/CrashlanderAPI/images/workshop/ratefavourite.gif[/img]",
+		"fileId": 3471774547,
+		"localId": "7a7cf469-37b4-4ea5-bbca-771e2c46258a",
+		"name": "Blueprint Mods Finder",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
