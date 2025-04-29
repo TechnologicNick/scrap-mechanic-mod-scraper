@@ -1899,8 +1899,10 @@
 		"version": 0
 	},
 	"c52efc1d-0125-4d1f-991c-293e4ae96ede": {
-		"description": "Official ModPack:\n\nThis is the Modpack Polygons Cardboard!\nIt contains everything from the Modpack Polygons, but is destructible!\n\n\nCONVERT your old blueprints here: \nhttps://www.scrapmechanicmods.com/tools/DestructiblePolygons/\nAny blueprint made with original polygons can be destructible with this tool!\n\n\n\nLike the mods?\nDon't forget to leave a thumbs up! ;)\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support: Coming soon!",
-		"fileId": 3408208559,
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Unofficial ModPack reupload:\n\nThis is the Modpack Polygons Cardboard!\nIt contains everything from the Modpack Polygons, but is destructible!\n\n\nCONVERT your old blueprints here: \nhttps://www.scrapmechanicmods.com/tools/DestructiblePolygons/\nAny blueprint made with original polygons can be destructible with this tool!\n\n\n\nLike the mods?\nDon't forget to leave a thumbs up! ;)\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support: Coming soon!",
+		"fileId": 3472149656,
 		"localId": "c52efc1d-0125-4d1f-991c-293e4ae96ede",
 		"name": "The Modpack Polygons Cardboard",
 		"type": "Blocks and Parts",
@@ -9165,8 +9167,8 @@
 		"allow_add_mods": true,
 		"creatorId": "76561198014346778",
 		"custom_icons": true,
-		"description": "I DO NOT OWN ANY MATERIAL IN THIS MOD!\nORIGINAL MOD FROM DRUF\n\nOfficial ModPack:\n\nThis is the Modpack Neon.\nIt contains neon lights that you can turn on/off!\nCreate your own neon signs!\nMore neon parts will be added in the future ;)\n\nShow us your support and leave a thumbs up! :D\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support:\n- English: Default\n- French: Emeric Bréhaut",
-		"fileId": 3408644887,
+		"description": "Unofficial ModPack reupload:\n\nThis is the Modpack Neon.\nIt contains neon lights that you can turn on/off!\nCreate your own neon signs!\nMore neon parts will be added in the future ;)\n\nShow us your support and leave a thumbs up! :D\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support:\n- English: Default\n- French: Emeric Bréhaut",
+		"fileId": 3472147653,
 		"localId": "98722d77-6951-47b9-b435-4cdb0ecbf80a",
 		"name": "The Modpack Neon",
 		"type": "Blocks and Parts",
@@ -9567,9 +9569,11 @@
 		"version": 1
 	},
 	"172dde9e-26f7-4b85-af4d-4d332c67f4cb": {
+		"allow_add_mods": true,
 		"creatorId": "76561198014346778",
-		"description": "Official ModPack:\n\nThis is the Modpack Polygons: Chrome edition.\nIt contains everything from \"The Modpack Polygons\", but now in Chrome!\n\n\nLike the mods?\nShow us your support: thumbs up + favorite! ;)\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support:\n- English: Default\n- French: Emeric Bréhaut",
-		"fileId": 3408641270,
+		"custom_icons": true,
+		"description": "Unofficial ModPack reupload:\n\nThis is the Modpack Polygons: Chrome edition.\nIt contains everything from \"The Modpack Polygons\", but now in Chrome!\n\n\nLike the mods?\nShow us your support: thumbs up + favorite! ;)\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support:\n- English: Default\n- French: Emeric Bréhaut",
+		"fileId": 3472149144,
 		"localId": "172dde9e-26f7-4b85-af4d-4d332c67f4cb",
 		"name": "The Modpack Polygons Chrome",
 		"type": "Blocks and Parts",
@@ -43116,7 +43120,7 @@
 		"description": "Improved Farm 2 est un mod pour améliorer vos conditions de survie via différents ajouts :\r\n- 100 blocks par ressource raffinée\r\n- 512 blocks par stacks\r\n- Réapparition du pétrole rapide (5s)\r\n- Réapparition des coquillages rapide (5s)\r\n- Nouveaux crafts (kits de composants, circuits imprimés, sunshakes ...)\r\n- Réduction du temps de craft des sandwichs",
 		"fileId": 3469977069,
 		"localId": "3b153721-711f-4fb2-8fb9-5e478e4efedd",
-		"name": "Improved Farm 2",
+		"name": "Improved Farm 2 [CHEATS]",
 		"type": "Custom Game",
 		"version": 0
 	},
