@@ -5869,7 +5869,8 @@
 	"0002cb02-e89c-4788-97b3-1063aae0d64d": {},
 	"05eb8e92-89f0-44e1-bbf2-850c93fd4f8c": {
 		"$CONTENT_05eb8e92-89f0-44e1-bbf2-850c93fd4f8c/Tools/Database/ToolSets/tools.toolset": [
-			"9c5078b0-49c1-4d1a-b3a4-1572d948413d"
+			"9c5078b0-49c1-4d1a-b3a4-1572d948413d",
+			"be959014-ec83-4d63-a3e6-78bbe3ef5526"
 		]
 	},
 	"23cd6e89-f0f4-4121-988a-e0208f343a21": {},
