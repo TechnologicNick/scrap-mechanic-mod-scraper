@@ -38323,8 +38323,8 @@
 	},
 	"c2e01abb-afa9-430f-b7cf-6a419d0ffedd": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"custom_icons": true,
+		"description": "This mod contains details from the root folders for the vehicle from DEVBLOG 7.\nhttps://scrapmechanic.com/news/devblog-7-is-here/ \nCrafting recipes are supported.\nAll languages available in Scrap Mechanic are supported.\nAll images are made with default graphics settings.\nAttention! If the developers add these parts from the vehicle, they will have a different UUID, which is why you will not be able to use them.",
 		"fileId": 3240356711,
 		"localId": "c2e01abb-afa9-430f-b7cf-6a419d0ffedd",
 		"name": "Cars in Survival Mode",
