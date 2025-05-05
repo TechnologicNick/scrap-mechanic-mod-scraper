@@ -43230,5 +43230,15 @@
 		"name": "April Fools' Survival Jokes",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"b4179dd9-80e5-484c-b3d0-244b3f366108": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod add more parts for rockets and planes.",
+		"fileId": 3476363116,
+		"localId": "b4179dd9-80e5-484c-b3d0-244b3f366108",
+		"name": "Rocket Parts",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
