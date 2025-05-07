@@ -1119,5 +1119,16 @@
 	},
 	"96376725-6344-43e6-b4dc-281091b4a794": {
 		"$CONTENT_96376725-6344-43e6-b4dc-281091b4a794/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"78f6b90b-198c-4707-999d-956ea94007ed": {
+		"$CONTENT_78f6b90b-198c-4707-999d-956ea94007ed/ScriptableObjects/ScriptableObjectSets/sob_managers.sobset": [
+			"83b0cc7e-b164-47b8-a83c-0d33ba5f72ec",
+			"c6988ecb-0fc1-4d45-afde-dc583b8b75ee"
+		],
+		"$CONTENT_78f6b90b-198c-4707-999d-956ea94007ed/ScriptableObjects/ScriptableObjectSets/sob_quests.sobset": [
+			"8be0279e-28b6-4aab-b620-586f50162c6e",
+			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
+			"009fe136-aeee-45c4-9135-006b786cfc59"
+		]
 	}
 }

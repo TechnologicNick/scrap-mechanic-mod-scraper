@@ -43240,5 +43240,56 @@
 		"name": "Rocket Parts",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"78f6b90b-198c-4707-999d-956ea94007ed": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Кастом гейм для моего сервера.\r\nАнархо-сервер по SM: ",
+		"fileId": 3474973533,
+		"localId": "78f6b90b-198c-4707-999d-956ea94007ed",
+		"name": "Spark Survival CG",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"0271c8f8-aecf-4909-8bb4-028abd73470a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3477016335,
+		"localId": "0271c8f8-aecf-4909-8bb4-028abd73470a",
+		"name": "[FLX] Tremendous Wheels + crafting recepies",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"e5944fdc-8f94-4994-b090-41fe211841ad": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Makes item type icons better(In my view)\nThis file mod and his client-side.\n\nHow to install?\n1.Sunscribe\n2.Browse (steam installation dir)\\steamapps\\worckshop\\content\\387990\\3477067700\n3.Move \"Data\" folder to SM installation dir and replace all\n4.Done!",
+		"fileId": 3477067700,
+		"localId": "e5944fdc-8f94-4994-b090-41fe211841ad",
+		"name": "Better Item Type Icons",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"5d955a94-d05a-4382-b6b8-a5e2e3256316": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Replace base crosshair with beter(in my view).\r\n\r\nHow to install?\r\n1.Sunscribe\r\n2.Browse (steam installation dir)\\steamapps\\worckshop\\content\\387990\\3477144600\r\n3.Move \"Data\" folder to SM installation dir and replace all\r\n4.Done!",
+		"fileId": 3477144600,
+		"localId": "5d955a94-d05a-4382-b6b8-a5e2e3256316",
+		"name": "Smaller Crusor",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a593dac3-bf08-457c-af04-937f964fcc26": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "Test Radio Mod Part 3\n\nAdd and find other mods\n\nPlease do not download this mod!",
+		"fileId": 3477152989,
+		"localId": "a593dac3-bf08-457c-af04-937f964fcc26",
+		"name": "Neon Genesis Evangelion (Radio Mod)",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
