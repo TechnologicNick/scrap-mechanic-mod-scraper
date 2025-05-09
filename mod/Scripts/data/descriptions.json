@@ -29572,7 +29572,7 @@
 				"name": "Survival Mode Assets Fix"
 			}
 		],
-		"description": "This mod adds the Survival mode parts with tweaked or fixed nuances that differ from the original game improving them in different ways, this mod can be used both in Creative mode and Survival mode.\r\n(Recommended Enable Survival Player for better experience)\r\n\r\nThe database contains exact same UUID's as in-game parts making it cross Survival Mode compaitable.\r\nNOTE: Use some parts at your own risk as they may break your world if used wrong, such as Elevator parts, Hideout parts and Dispensorbot. \r\nIf some parts can't be picked by your lift or removed, be sure to use /restrictions command in the chat.",
+		"description": "This mod adds the Survival mode parts with tweaked or fixed nuances that differ from the original game, multiple parts with different new models from both gamemodes, this mod can be used both in Creative mode and Survival mode.\r\n(Recommended Enable Survival Player for better experience in Creative mode)\r\n\r\nThe database contains exact same UUID's as in-game parts making it cross Survival Mode compaitable.\r\nNOTE: Use some parts at your own risk as they may break your world if used wrong, such as Elevator parts, Hideout parts and Dispensorbot. \r\nIf some parts can't be picked by your lift or removed, be sure to use /restrictions command in the chat.",
 		"fileId": 2858904031,
 		"localId": "526ed7a7-b9ff-4c9b-9167-2ed27b816195",
 		"name": "Survival Mode Parts Fix",
@@ -37882,7 +37882,7 @@
 	"aa819b34-8932-49a8-8f87-7a80aeb81645": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "adds a sfi shields and reactors",
+		"description": "[FROZEN] adds a sfi shields and reactors\r\nuse logic to enable it!\r\n\r\n[ЗАМОРОЖЕНО] добавляет sfi щиты, и реакторы.\r\nИспользуйте логику что-бы включить их!",
 		"fileId": 3209955486,
 		"localId": "aa819b34-8932-49a8-8f87-7a80aeb81645",
 		"name": "shields and reactors",
@@ -43295,7 +43295,7 @@
 	"01816d7d-d2c6-4b3d-b13b-c32a723e495c": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h2]Auditory expansion for the Crashlander Custom Game![/h2]\nWolves finally sound like Wolves, caves are scarier and all new OST! Experience a fully scripted and programmed radio with cameos, jokes and in-lore information!\n\n[hr][/hr]\n[img]https://redoingmods.github.io/img/logos/Crashlander_AE_Logo.png[/img]\n\n[hr][/hr]\n[h1]Important![/h1]\n[list]\n[*]This is [b]NOT[/b] a file mod!\n[*]This mod [b]ONLY WORKS[/b] with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3113900342]Crashlander [/url](version 1.2.0.6+) and [url=https://github.com/QuestionableM/SM-CustomAudioExtension]Custom Audio Extension DLL mod[/url]\n[*]To disable music, do \"/setmusicstate false\"\n[/list]\n\n[hr][/hr]\n[h1]Features:[/h1]\n[list]\n[*]Biome & area specific music, delicately picked songs from popular games such as Subnautica and Satisfactory even including custom tracks in collaboration with the ChargingTurnip!\n[*]Ovehauled radio with many more songs, lore friendly cameos, custom ads and even more! Be sure to check that one out!\n[*]Voice Acting for NPC's and the radio! (Voiced by Uriah, MrMonkeySam, mijetboi and Taurieth)\n[*]Custom animal & environmental sounds.\n[/list]\n\n[hr][/hr]\n[h1]Installation[/h1]\n1. Download this mod\n\n2. Download and install the scrap mechanic DLL injector\n2.1 https://github.com/QuestionableM/SM-DLL-Injector/releases/latest\n2.2 Click on \"DLL-Injector-Installer.exe\", this will download the exe\n2.3 Run the exe and install the injector\n\n3. Download and install the scrap mechanic custom audio extension\n3.1 https://github.com/QuestionableM/SM-CustomAudioExtension/releases/latest\n3.2 Click on \"CustomAudioExtension.dll\", this will download the dll\n3.3 Go to your steam library\n3.4 Right click Scrap Mechanic in the list\n3.5 Hover over \"Manage\"\n3.6 Click \"View local files\"\n3.7 Go into the \"Release\" folder\n3.8 Right click and create a NEW folder called \"DLLModules\"\n3.9 Move the previously downloaded \"CustomAudioExtension.dll\" into the newly created folder\n3.10 Close the file explorer\n\n4. Start up Scrap Mechanic and enable th",
+		"description": "[h2]Auditory expansion for the Crashlander Custom Game![/h2]\r\nWolves finally sound like Wolves, caves are scarier and all new OST! Experience a fully scripted and programmed radio with cameos, jokes and in-lore information!\r\n\r\n[hr][/hr]\r\n[img]https://redoingmods.github.io/img/logos/Crashlander_AE_Logo.png[/img]\r\n\r\n[hr][/hr]\r\n[h1]Important![/h1]\r\n[list]\r\n[*]This is [b]NOT[/b] a file mod!\r\n[*]This mod [b]ONLY WORKS[/b] with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3113900342]Crashlander [/url](version 1.2.0.6+) and [url=https://github.com/QuestionableM/SM-CustomAudioExtension]Custom Audio Extension DLL mod[/url]\r\n[*]To disable music, do \"/setmusicstate false\"\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h1]Features:[/h1]\r\n[list]\r\n[*]Biome & area specific music, delicately picked songs from popular games such as Subnautica and Satisfactory even including custom tracks in collaboration with the ChargingTurnip!\r\n[*]Ovehauled radio with many more songs, lore friendly cameos, custom ads and even more! Be sure to check that one out!\r\n[*]Voice Acting for NPC's and the radio! (Voiced by Uriah, MrMonkeySam, mijetboi and Taurieth)\r\n[*]Custom animal & environmental sounds.\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h1]Installation[/h1]\r\n1. Download this mod\r\n\r\n2. Download and install the scrap mechanic DLL injector\r\n2.1 https://github.com/QuestionableM/SM-DLL-Injector/releases/latest\r\n2.2 Click on \"DLL-Injector-Installer.exe\", this will download the exe\r\n2.3 Run the exe and install the injector\r\n\r\n3. Download and install the scrap mechanic custom audio extension\r\n3.1 https://github.com/QuestionableM/SM-CustomAudioExtension/releases/latest\r\n3.2 Click on \"CustomAudioExtension.dll\", this will download the dll\r\n3.3 Go to your steam library\r\n3.4 Right click Scrap Mechanic in the list\r\n3.5 Hover over \"Manage\"\r\n3.6 Click \"View local files\"\r\n3.7 Go into the \"Release\" folder\r\n3.8 Right click and create a NEW folder called \"DLLModules\"\r\n3.9 Move the previously downloaded \"CustomAudioExtension.dll\" into the newly created folder\r\n3.10 Close the file explorer\r\n\r\n4. Start up Scrap Mechanic and enable the mod on your Crashlander save\r\n\r\n[hr][/hr]\r\n[h2]Links:[/h2]\r\n[url=https://discord.com/invite/PXzDWcM6uZ]Discord Server[/url]\r\n\r\n[hr][/hr]\r\n[h2]Support:[/h2]\r\n[*]Rate, Favorite, Share and Award!\r\n[img]https://fagiano0.github.io/CrashlanderAPI/images/workshop/ratefavourite.gif[/img]",
 		"fileId": 3307372106,
 		"localId": "01816d7d-d2c6-4b3d-b13b-c32a723e495c",
 		"name": "Crashlander Audio Enhancement",
@@ -43309,6 +43309,16 @@
 		"fileId": 3475021833,
 		"localId": "9e7bc84a-c8ea-4ee2-a2e9-0ad519f06336",
 		"name": "Drag remover",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"5d955a94-d05a-4382-b6b8-a5e2e3256317": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Fun mod!\nReplace crosshair with 'z Peper'(from GIMP).\n\nHow to install?\nView on https://steamcommunity.com/sharedfiles/filedetails/?id=3477144600",
+		"fileId": 3478147946,
+		"localId": "5d955a94-d05a-4382-b6b8-a5e2e3256317",
+		"name": "Pepper - Crosshair",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
