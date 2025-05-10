@@ -39697,7 +39697,7 @@
 	"1e4c13ef-a2d2-48b2-95a3-d57f42973443": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Have you wanted more then survival additions but there was no mod adding that well now there is let me intreduse you to more_survival_additions. This mod add new tiles, golf assets and more in the future. no modded craftbot yet. and a new biome desert is repleced with scrap yard now this is just a small project but i will update the mod sometimes  recomend making journey next update when i finish the mod. updated Basement,maze and ship wreck. Basement is swaped with ruinruble. maze with a golf place. silo district is now a waterpark. Go and check out every thing to much to even tell. Im lazy.\r\n\r\nI also added collectables golf balls from scrap mechanic golf and swaped maze with a golf place there you kan find the first golf ball. The balls are skatterd around ruincity,Meteor,Maze,waterpark and any where else. Now all the golfballs are hidden and some other stuff i made and hid.\r\n\r\n I can officaly tell you that scarpyard is a part of the mod. I fixed the cliff thingy I just removed the flatten node in the tiles if the dev wanted to know. Tell me in the comments what i should add/remove, and i can add your mod to the gamejust tell me in the comments what mod i should add, i will add the credits to the one who made the mod and tell me bugs,gltiches and errors\r\n\r\ncredits to: Pixelmaker (the guy who made the original mod) \r\nMate44Mate (he made the scrapyard mod)\r\n",
+		"description": "Have you wanted more then just survival additions but there \nwas no mod adding that well now there is \nlet me intreduse you to more_survival_additions. \n\n I fixed the cliff thingy in the scrapyard mod I just removed the flatten node in the tiles if the dev wanted to know.\n Tell me in the comments what i should add/remove,\n and i can add your mod to the game just tell me in the comments what mod i should add and i will add it,\n i will add the credits to the one who made the modto. Tell me bugs,gltiches and errors\n\nUPDATE: updated the water park/mini golf course and the mini golf course (the maze)\n\ncredits to: Pixelmaker (the guy who made the original mod) \nMate44Mate (he made the scrapyard mod)\nAnd might be a little raft mechanic there so Credits to: melOnE \n",
 		"fileId": 3310840049,
 		"localId": "1e4c13ef-a2d2-48b2-95a3-d57f42973443",
 		"name": "more_survival_additions",
@@ -43319,6 +43319,23 @@
 		"fileId": 3478147946,
 		"localId": "5d955a94-d05a-4382-b6b8-a5e2e3256317",
 		"name": "Pepper - Crosshair",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"0bbee21c-3ca1-4a46-908a-4e6fdcdba229": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3177944610,
+				"localId": "e933f3f8-7c50-402f-bdc4-db931d136a6c",
+				"name": "better API [file mod]"
+			}
+		],
+		"description": "Adds in player name his ID\n\nHow to install?\n0.Install BetterAPI\n1.Sunscribe\n2.Browse (steam installation dir)\\steamapps\\worckshop\\content\\387990\\***\n3.Move \"Release\" folder to SM installation dir\n4.Done!",
+		"fileId": 3478721832,
+		"localId": "0bbee21c-3ca1-4a46-908a-4e6fdcdba229",
+		"name": "Display player ID",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
