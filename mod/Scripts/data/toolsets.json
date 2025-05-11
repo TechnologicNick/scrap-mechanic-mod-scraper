@@ -6001,5 +6001,9 @@
 		"$CONTENT_68459649-dda2-4dac-aa33-64522bf56ad5/Tools/Database/ToolSets/loader.toolset": [
 			"fbb1f750-a29a-4bb1-a9fb-56415005aaf1"
 		]
+	},
+	"e47d0474-55e1-432a-a6b7-295592d09d33": {},
+	"d810c62f-ff0c-44f9-9168-a3f27475c81a": {
+		"$CONTENT_d810c62f-ff0c-44f9-9168-a3f27475c81a/Tools/Database/ToolSets/example.toolset": []
 	}
 }

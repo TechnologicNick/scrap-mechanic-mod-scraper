@@ -43360,5 +43360,25 @@
 		"name": "Scrap Mechanic Parts Remake",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"e47d0474-55e1-432a-a6b7-295592d09d33": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This Mod Contains Code From ScrapNautica By 0x55 .\nLink: https://steamcommunity.com/sharedfiles/filedetails/?id=2808140550\n\nMod Contains:\nCrop Planter\nAir Pump (Global)\nPower Cell\nPower Adapter\nAir Pump",
+		"fileId": 3479659057,
+		"localId": "e47d0474-55e1-432a-a6b7-295592d09d33",
+		"name": "Scrapnautica Blocks And Parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d810c62f-ff0c-44f9-9168-a3f27475c81a": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This Mod Is Unofficial And Contains Code From ScrapNautica By 0x55 .\nOriginal ScrapNautica Link: https://steamcommunity.com/sharedfiles/filedetails/?id=2808140550\n\nThis Mod Adds Dev Commands To ScrapNautica\n\nCommands (From The Scrap Mechanic Fandom)\nAmmo\t/ammo [(int)quantity]\tGive ammo (default 50)\t\nSpudgun\t/spudgun\tGive the spudgun\t\nGatling\t/gatling\tGive the potato gatling gun\t\nShotgun\t/shotgun\tGive the fries shotgun\t\nSunshake\t/sunshake\tGive 1 sunshake\t\nBaguette\t/baguette\tGive 1 revival baguette\t\nKeycard\t/keycard\tGive 1 keycard\t\nPowercore\t/powercore\tGive 1 powercore\t\nComponents\t/components [(int)quantity]\tGive <quantity> components (default 10)\t\nGlowsticks\t/glowsticks [(int)quantity]\tGive <quantity> components (default 10)\tDescription is incorrect.\nGives the specified amount of Glowsticks.\nTumble\t/tumble [(bool)enable]\tSet tumble state\tPuts the Mechanic into a ragdoll state.\nGod\t/god\tMechanic characters will take no damage\tToggles godmode.\nRespawn\t/respawn\tRespawn at last bed (or at the crash site)\t\nEncrypt\t/encrypt\tRestrict interactions in all warehouses\tEnables the ability to remove globally restricted objects.\nEnables Encryptor interactions.\nDecrypt\t/decrypt\tUnrestrict interactions in all warehouses\tRemoves the ability to remove globally restricted objects.\nDisables Encryptor interactions.\nLimited\t/limited\tUse the limited inventory\tEnables the standard Survival Mode inventory.\nUnlimited\t/unlimited\tUse the unlimited inventory\tEnables an inventory similar to Creative Mode inventory, but with all Survival Mode items and objects available.\nAmbush\t/ambush [(number)magnitude] [(int)wave]\tStarts a 'random' encounter\tAn unused event where the Mechanic would be randomly attacked by a group of Robots in Survival Mode, similar to raids.\nTime of Day\t/timeofday [(number)timeOfDay]\tSets the time of the day as a fraction (0.5=mid day)\t\nTime Progress\t/timeprogress [(bool)enabled]\tEnables or disables time progress\t\nDay\t/day\tDisable time progression and set time to daytime\t\nSpawn\t/spawn [(string)unitName]\tSpawn a unit: 'woc', ",
+		"fileId": 3479665971,
+		"localId": "d810c62f-ff0c-44f9-9168-a3f27475c81a",
+		"name": "Scrapnautica With Dev Commands",
+		"type": "Custom Game",
+		"version": 0
 	}
 }

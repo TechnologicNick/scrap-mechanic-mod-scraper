@@ -1130,5 +1130,10 @@
 			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
 			"009fe136-aeee-45c4-9135-006b786cfc59"
 		]
+	},
+	"d810c62f-ff0c-44f9-9168-a3f27475c81a": {
+		"$CONTENT_d810c62f-ff0c-44f9-9168-a3f27475c81a/ScriptableObjects/ScriptableObjectSets/example.sobset": [
+			"92e440d7-89ca-4dcd-bc1e-7588e6240143"
+		]
 	}
 }
