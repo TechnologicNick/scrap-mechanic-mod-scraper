@@ -9580,9 +9580,11 @@
 		"version": 1
 	},
 	"7ed672f2-05c0-487e-9304-2550d270c519": {
+		"allow_add_mods": true,
 		"creatorId": "76561198014346778",
-		"description": "Official ModPack:\n\nThis is the Modpack Polygons: Mirror edition.\nIt contains everything from \"The Modpack Polygons\", but now as Mirrors!\n\n\nLike the mods?\nShow us your support: thumbs up + favorite! ;)\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support:\n- English: Default\n- French: Emeric Bréhaut",
-		"fileId": 3408638527,
+		"custom_icons": true,
+		"description": "THIS IS A REUPLOAD AND I DO NOT OWN ANY MATERIAL IN THIS MOD.\n\nUnofficial ModPack:\n\nThis is the Modpack Polygons: Mirror edition.\nIt contains everything from \"The Modpack Polygons\", but now as Mirrors!\n\n\nLike the mods?\nShow us your support: thumbs up + favorite! ;)\n\n\nThis mod is a collaboration of the Modding Team:\nDurf: http://youtube.com/Durf\nGrego: http://www.youtube.com/grego0\nMJM Builds: https://www.youtube.com/channel/UCOptPxI--AVMscEpvCflKxw\nShinevisionSV: http://youtube.com/ShinevisionSV\n\nLanguage Support:\n- English: Default\n- French: Emeric Bréhaut",
+		"fileId": 3479242709,
 		"localId": "7ed672f2-05c0-487e-9304-2550d270c519",
 		"name": "The Modpack Polygons Mirror",
 		"type": "Blocks and Parts",
@@ -29565,13 +29567,6 @@
 	"526ed7a7-b9ff-4c9b-9167-2ed27b816195": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2819452871,
-				"localId": "1eae36e3-aaa6-46b2-b92f-57e1e7811ee3",
-				"name": "Survival Mode Assets Fix"
-			}
-		],
 		"description": "This mod adds the Survival mode parts with tweaked or fixed nuances that differ from the original game, multiple parts with different new models from both gamemodes, this mod can be used both in Creative mode and Survival mode.\r\n(Recommended Enable Survival Player for better experience in Creative mode)\r\n\r\nThe database contains exact same UUID's as in-game parts making it cross Survival Mode compaitable.\r\nNOTE: Use some parts at your own risk as they may break your world if used wrong, such as Elevator parts, Hideout parts and Dispensorbot. \r\nIf some parts can't be picked by your lift or removed, be sure to use /restrictions command in the chat.",
 		"fileId": 2858904031,
 		"localId": "526ed7a7-b9ff-4c9b-9167-2ed27b816195",
@@ -37882,7 +37877,7 @@
 	"aa819b34-8932-49a8-8f87-7a80aeb81645": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[FROZEN] adds a sfi shields and reactors\r\nuse logic to enable it!\r\n\r\n[ЗАМОРОЖЕНО] добавляет sfi щиты, и реакторы.\r\nИспользуйте логику что-бы включить их!",
+		"description": "EN:\r\n[New update!] The mod adds a new shield block. To use it, connect a container with batteries (you can connect several) and give a logical signal. While there are batteries in the container, the shield will work consuming little energy. If you damage the shield, it will spend a lot of batteries to protect the structure. (The more damage a shell/bomb does to the shield, the more batteries will be used.) It can also be used in survival! (The 2nd block that the mod adds does not work. It will be needed in future mod updates)\r\n!!!Be careful, turning it on while attached to the ground may cause problems!!!\r\n\r\n\r\nRU:\r\n[Новое обновление!] мод добавляет новый блок щита. что бы использовать его подключите контейнер с батареями (можно подключить несколько) и подайте логический сигнал. пока в контейнере будут батареи щит будет работать потребляя мало энергии. если нанести щиту урон он потратит много батарей что-бы защитить конструкцию. (чем больше урона нанес снаряд/бомба щиту - тем больше батарей будет использовано.) так же можно использовать в выживании! (2 блок который добавляет мод не работает. он нужен будет в будующих обновлениях мода)\r\n!!!осторожно включение его прикрепленным к земле может вызвать проблемы!!!",
 		"fileId": 3209955486,
 		"localId": "aa819b34-8932-49a8-8f87-7a80aeb81645",
 		"name": "shields and reactors",
@@ -43336,6 +43331,33 @@
 		"fileId": 3478721832,
 		"localId": "0bbee21c-3ca1-4a46-908a-4e6fdcdba229",
 		"name": "Display player ID",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"947a709a-f2b7-474e-be87-3074532118e6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod is unofficial and therefor I did not make any assets in this mod.\n\n\nGet all the polygons in one easy download, It contains:\n(Original) Polygons\nCardboard Polygons\nBling Polygons\nChrome Polygons\nGlow Polygons\nMirror Polygons\nGlass Polyons\nUltralight Polygons",
+		"fileId": 3479312890,
+		"localId": "947a709a-f2b7-474e-be87-3074532118e6",
+		"name": "The Modpack Polygons Plus",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"68459649-dda2-4dac-aa33-64522bf56ad5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2819452871,
+				"localId": "1eae36e3-aaa6-46b2-b92f-57e1e7811ee3",
+				"name": "Survival Mode Assets Fix"
+			}
+		],
+		"description": "This mod adds the Survival mode parts with tweaked or fixed nuances that differ from the original game, multiple parts with different new models from both gamemodes, this mod can be used both in Creative mode and Survival mode.\r\n(Recommended Enable Survival Player for better experience in Creative mode)\r\n\r\nThe database contains exact same UUID's as in-game parts making it cross Survival Mode compaitable.\r\nNOTE: Use some parts at your own risk as they may break your world if used wrong, such as Elevator parts, Hideout parts and Dispensorbot. \r\nIf some parts can't be picked by your lift or removed, be sure to use /restrictions command in the chat.",
+		"fileId": 3479326910,
+		"localId": "68459649-dda2-4dac-aa33-64522bf56ad5",
+		"name": "Scrap Mechanic Parts Remake",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
