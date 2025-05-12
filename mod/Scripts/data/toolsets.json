@@ -6005,5 +6005,11 @@
 	"e47d0474-55e1-432a-a6b7-295592d09d33": {},
 	"d810c62f-ff0c-44f9-9168-a3f27475c81a": {
 		"$CONTENT_d810c62f-ff0c-44f9-9168-a3f27475c81a/Tools/Database/ToolSets/example.toolset": []
+	},
+	"fa3b3642-d412-4406-a25c-f65e22970260": {},
+	"a4a143b1-eaad-4dcc-b0d9-7e426ed26af4": {
+		"$CONTENT_a4a143b1-eaad-4dcc-b0d9-7e426ed26af4/Tools/Database/ToolSets/tools.toolset": [
+			"e504e7b8-6a66-4cfb-816e-b664decf9757"
+		]
 	}
 }
