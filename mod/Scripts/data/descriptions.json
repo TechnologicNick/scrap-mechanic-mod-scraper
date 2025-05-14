@@ -32885,8 +32885,8 @@
 	},
 	"3aeb81c2-71b9-45a1-9479-1f48f1e8ff21": {
 		"allow_add_mods": true,
-		"custom_icons": true,
-		"description": "this fork of ScriptableComputer\nfork creation was approved by the authors of the mod\nfor the mod to work correctly, there SHOULD BE NO \"ScriptableComputer\" and/or \"SCI\" in the world\nthis mod DOES NOT VIOLATE anyone's licenses, the author of the original does not mind that I am doing a fork\nthis mod DOES NOT CONTAIN SCI and ScrapComputers code and partial compatibility is implemented using a layer\n\n[url=https://igorkll.github.io] DOCUMENTATION [/url]\n[url=https://discord.gg/uJrsmUjaMG] DISCORD SERVER [/url]\n\nadvantages of SComputers compared to any other computer mods:\n[list]\n  [*] bug fixes (critical filesystem bugs, bugs causing lags, bugs breaking code, and many other extremely unpleasant bugs have been fixed in SComputers)\n  [*] compatibility (this mod is fully compatible with the original and with SCI and may also be compatible with other mods in the future)\n  [*] responsive support (you can always write a comment to the mod and I will answer it, you can also write to me in the discord \"smlogic\")\n  [*] optimization (displays in SComputers almost do not cause lags)\n  [*] the presence of require and built-in libraries (image, midi, vdisplay, base64, utf8, ramfs, etc)\n  [*] code examples (code examples in mod will help you figure it out a bit)\n  [*] security (from SComputers it is much more difficult to cause bugsplat, game freezes, lags)\n  [*] availability of new components\n  [*] regular updates (about every month)\n  [*] support for crafting recipes\n  [*] radars are seen a robots/wocs/worms\n  [*] ability to use betterAPI to load code\n  [*] the mod has its own API for creating addons, which is described in the documentation\n  [*] fast luaVM - FiOne_lua\n[/list]\n\ntags: computer, computers, lua",
+		"custom_icons": false,
+		"description": "this fork of ScriptableComputer\nfork creation was approved by the authors of the mod\nfor the mod to work correctly, there SHOULD BE NO \"ScriptableComputer\" and/or \"SCI\" in the world\nthis mod DOES NOT VIOLATE anyone's licenses, the author of the original does not mind that I am doing a fork\nthis mod DOES NOT CONTAIN SCI and ScrapComputers code and partial compatibility is implemented using a layer\n\n[url=https://igorkll.github.io/SComputers] DOCUMENTATION [/url]\n[url=https://discord.gg/uJrsmUjaMG] DISCORD SERVER [/url]\n\nadvantages of SComputers compared to any other computer mods:\n[list]\n  [*] bug fixes (critical filesystem bugs, bugs causing lags, bugs breaking code, and many other extremely unpleasant bugs have been fixed in SComputers)\n  [*] compatibility (this mod is fully compatible with the original and with SCI and may also be compatible with other mods in the future)\n  [*] responsive support (you can always write a comment to the mod and I will answer it, you can also write to me in the discord \"smlogic\")\n  [*] optimization (displays in SComputers almost do not cause lags)\n  [*] the presence of require and built-in libraries (image, midi, vdisplay, base64, utf8, ramfs, etc)\n  [*] code examples (code examples in mod will help you figure it out a bit)\n  [*] security (from SComputers it is much more difficult to cause bugsplat, game freezes, lags)\n  [*] availability of new components\n  [*] regular updates (about every month)\n  [*] support for crafting recipes\n  [*] radars are seen a robots/wocs/worms\n  [*] ability to use betterAPI to load code\n  [*] the mod has its own API for creating addons, which is described in the documentation\n  [*] fast luaVM - FiOne_lua\n[/list]\n\ntags: computer, computers, lua",
 		"fileId": 2949350596,
 		"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
 		"name": "SComputers [Fork]",
@@ -40921,7 +40921,7 @@
 				"name": "SComputers [Fork]"
 			}
 		],
-		"description": "this is an addon for the minimap in SComputers! in fact, this is a camera with an additional API. It also supports waypoints. survival crafting is also supported. supports isometric rendering. docs: https://igorkll.github.io/minimap_component.html",
+		"description": "this is an addon for the minimap in SComputers!\nin fact, this is a camera with an additional API.\nIt also supports waypoints.\nsurvival crafting is also supported.\nsupports isometric rendering.\ndocs: https://igorkll.github.io/SComputers/minimap_component.html",
 		"fileId": 3360952754,
 		"localId": "54b709af-c32f-42a2-a148-ccd1d93eeb29",
 		"name": "minimap component [SComputers addon]",
@@ -43249,7 +43249,7 @@
 	"0271c8f8-aecf-4909-8bb4-028abd73470a": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "this is not my mod i only modified it to allow the modded craftbot recepies mod to add these to survival(hopefully)\n\noryginal mod:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=879668288\n\nmodded craft bot recepies mod:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2816900681\n\n\nif the owner of this mod stumbles on this mod just tell me to remove it and i will but pls add crafting recepies to the oryginal",
 		"fileId": 3477016335,
 		"localId": "0271c8f8-aecf-4909-8bb4-028abd73470a",
 		"name": "[FLX] Tremendous Wheels + crafting recepies",
