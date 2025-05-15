@@ -42888,7 +42888,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "Интерактивные блоки:\n- Телепорт\n- World cleaner\n- Регулятор длины поршня\n- Самоуничтожающаяся кнопка\n- Табличка\n- Генератор 1 тика\n- Регулятор\n- Автосварка\n-- Разъеденитель\n- Генератор случайного сигнала\n- Вентилятор\n\nБлоки:\n- Урановый (очень тяжёлый) блок\n\nДругое:\n- Кружка\n- Сотейник\n- Киянка\n- Пейнтбольный маркер (или что-то похожее)",
+		"description": "Интерактивные блоки:\r\n- Телепорт\r\n- World cleaner\r\n- Регулятор длины поршня\r\n- Самоуничтожающаяся кнопка\r\n- Табличка\r\n- Генератор 1 тика\r\n- Регулятор\r\n- Автосварка\r\n-- Разъеденитель\r\n- Генератор случайного сигнала\r\n- Вентилятор\r\n\r\nБлоки:\r\n- Урановый (очень тяжёлый) блок\r\n\r\nДругое:\r\n- Кружка\r\n- Сотейник\r\n- Киянка\r\n- Пейнтбольный маркер (или что-то похожее)",
 		"fileId": 3454266788,
 		"localId": "05eb8e92-89f0-44e1-bbf2-850c93fd4f8c",
 		"name": "Dgizh",
@@ -43405,6 +43405,16 @@
 		"fileId": 3432783904,
 		"localId": "a4a143b1-eaad-4dcc-b0d9-7e426ed26af4",
 		"name": "Terrain Override Test",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"56cf5c72-e054-4d39-81d0-4b8aed148b45": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A connection labelling tool to help with builds with dense logic or number logic.\nIt is recommended to place next to your connect tool in the inventory.\n\n\nThis mod is my first ever mod and I still haven't figured everything out properly, I'm aware the dots overlap but it doesn't affect the functionality. I really hope you find this mod useful!",
+		"fileId": 3481633200,
+		"localId": "56cf5c72-e054-4d39-81d0-4b8aed148b45",
+		"name": "Connection Labels",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
