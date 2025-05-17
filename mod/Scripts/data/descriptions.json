@@ -43457,5 +43457,15 @@
 		"name": "AnyClear",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"1b565caa-b4b8-427c-90db-e82275c5228f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "It's time to update your Blender!\n\nBlender 4.4.2 addresses 8 issues present in the initial release.\n\nThis is a corrective release, meaning it doesn't contain new features, only fixes. It is highly recommended for everyone currently using Blender 4.4.1 to upgrade, since it fixes several crashes and improves functionality in many areas.\n\nRead the full list of changes on https://developer.blender.org/docs/release_notes/4.4/corrective_releases/\nFollow Blender on X for further updates. https://x.com/Blender\nThe Blender team,\n29th April 2025",
+		"fileId": 3482923821,
+		"localId": "1b565caa-b4b8-427c-90db-e82275c5228f",
+		"name": "WhatsAppVideo2025-05-12at20.4857",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
