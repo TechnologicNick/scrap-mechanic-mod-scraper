@@ -6028,5 +6028,10 @@
 	"68c7d72a-860f-4ac8-a61d-c14c09c6b275": {},
 	"1b565caa-b4b8-427c-90db-e82275c5228f": {},
 	"8de640a2-fc98-4e66-b0e7-74385833c45c": {},
-	"f55e3bd4-f614-4f07-a39f-1d5f3ec76368": {}
+	"f55e3bd4-f614-4f07-a39f-1d5f3ec76368": {},
+	"0f8af637-5772-4f06-acc3-712d1042cbcb": {
+		"$CONTENT_0f8af637-5772-4f06-acc3-712d1042cbcb/Tools/Database/ToolSets/example.toolset": [
+			"a6113860-f4d4-42df-b8f9-129efdbaf777"
+		]
+	}
 }

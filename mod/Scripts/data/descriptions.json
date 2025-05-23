@@ -43487,5 +43487,15 @@
 		"name": "message to axolot 2",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"0f8af637-5772-4f06-acc3-712d1042cbcb": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Raw Wilderness is a truly randomly generating near tileless worlds. There are no structures as beacons, no roads to guide you on, and no warehouses to raid. At least you can enjoy nature here.\n\n* The logbook has been replaced with the personal crafting system. \n* The Hideout Trader is replaced with Trader Bots. Spud guns are easy to get, by the way. The packing station doesn't exist, so crates are replaced by their golden variant of fruit or veggie. Warehouse Keycards are useful here.\n\nRaw wilderness has a natural spawning system. Every night, those evil bots will spawn, with the surface being the safest. Every day, you can catch a break for the entire duration. There's a 25% spawn rate increase per non-host player in the game\n\nCrates are common here, but smash them with delicacy, because they won't respawn, ever! The green crates are guaranteed to drop a fruit or veggie.\n\nFarming will be way less riskier, so you can no longer have to worry about those pesky raiders. It may be best to stay far away from your farming spot at night, though.",
+		"fileId": 3485998603,
+		"localId": "0f8af637-5772-4f06-acc3-712d1042cbcb",
+		"name": "Raw Wilderness",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
