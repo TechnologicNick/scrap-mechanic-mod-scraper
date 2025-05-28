@@ -43507,5 +43507,15 @@
 		"name": "Server create",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"5227de5d-12c4-4266-9ccf-ead2c14b53a5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "These grid details are useful for building maps.",
+		"fileId": 3488471374,
+		"localId": "5227de5d-12c4-4266-9ccf-ead2c14b53a5",
+		"name": "GRID BL0CKs",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
