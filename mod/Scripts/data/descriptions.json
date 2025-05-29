@@ -40419,7 +40419,7 @@
 	"e19b9e37-c4ce-4a5a-8c01-4da10acb12d5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "WIP custom game! \r\n\r\nThis currently adds only crafting recipes for wedges and component kits. More will be added in the future!\r\n\r\nComment below what you would like to have in this custom gamemode",
+		"description": "WIP custom game! \r\n\r\nThis currently adds few useful crafting recipes. More will be added in the future!\r\n\r\nComment below what you would like to have in this custom gamemode",
 		"fileId": 3346827440,
 		"localId": "e19b9e37-c4ce-4a5a-8c01-4da10acb12d5",
 		"name": "Finn's Survival Additions",
@@ -43525,6 +43525,16 @@
 		"fileId": 3489254193,
 		"localId": "1e6e02dd-cecc-425f-8ce1-240fdb65860b",
 		"name": "Restore Survival Encryptor and Protector",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"bf66fa89-4fd6-4109-9e4a-bd3e043a99bf": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3489645113,
+		"localId": "bf66fa89-4fd6-4109-9e4a-bd3e043a99bf",
+		"name": "Woc Engine",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
