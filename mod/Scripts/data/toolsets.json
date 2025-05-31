@@ -6038,5 +6038,10 @@
 	"5227de5d-12c4-4266-9ccf-ead2c14b53a5": {},
 	"1e6e02dd-cecc-425f-8ce1-240fdb65860b": {},
 	"bf66fa89-4fd6-4109-9e4a-bd3e043a99bf": {},
-	"24ad6a21-4f75-4b4d-970f-e331bff74ad7": {}
+	"24ad6a21-4f75-4b4d-970f-e331bff74ad7": {},
+	"0cabb9f9-cbb1-4139-bd73-2ea403ad1b94": {
+		"$CONTENT_0cabb9f9-cbb1-4139-bd73-2ea403ad1b94/Tools/Database/ToolSets/hooker.toolset": [
+			"c70f31cd-80f5-496d-937f-a32a3b31a549"
+		]
+	}
 }
