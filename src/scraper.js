@@ -197,7 +197,7 @@ module.exports = class Scraper {
 
                         const shapeUuids = [];
 
-                        for (const shape of [].concat(shapeset.partList ?? [], shapeset.blockList ?? [])) {
+                        for (const shape of [].concat(shapeset.partList ?? [], shapeset.blockList ?? [], shapeset.wedgeList ?? [])) {
                             // @ts-ignore
                             shapeUuids.push(shape.uuid);
                         }
