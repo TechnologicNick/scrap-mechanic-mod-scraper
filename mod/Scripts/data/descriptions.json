@@ -4879,15 +4879,12 @@
 		"version": 0
 	},
 	"e93f09be-636b-43d5-b3fc-4d7cbe65d98d": {
-		"allow_add_mods": true,
-		"custom_icons": true,
-		"dependencies": null,
-		"description": "Several kinds of segmented displays\n\n\n\n© 2022 S410 All Rights Reserved",
+		"description": "Several kinds of segmented displays",
 		"fileId": 2021400478,
 		"localId": "e93f09be-636b-43d5-b3fc-4d7cbe65d98d",
 		"name": "Segment Displays",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 0
 	},
 	"0f47d190-14fa-4c06-89d3-b8993a775202": {
 		"description": "This mod doesn't have a description",
@@ -10844,14 +10841,7 @@
 	"bd7b47d6-df36-4602-9d2a-4172cc52e502": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2945713875,
-				"localId": "e55c8705-81e3-4eb6-97ca-1ba9eeaff6b8",
-				"name": "ModDatabase v2"
-			}
-		],
-		"description": "请不要订阅并使用到自己的作品上 未来更新中将导致作品损毁\r\n请不要订阅并使用到自己的作品上 未来更新中将导致作品损毁\r\n请不要订阅并使用到自己的作品上 未来更新中将导致作品损毁\r\n\r\nPlease don't subscribe\r\nDo not use\r\nFuture updates will cause damage to the work",
+		"description": "请不用订阅并使用到自己的作品上 很有可能在未来更新中导致作品损毁\n\nPlease do not subscribe and use your own work, which may cause damage to your work in future updates",
 		"fileId": 2588867942,
 		"localId": "bd7b47d6-df36-4602-9d2a-4172cc52e502",
 		"name": "PLA HSF",
@@ -30055,8 +30045,8 @@
 				"name": "Horizon World"
 			}
 		],
-		"description": "Mogami Corp. presents:\nHorizon Servers! A custom game to host a server with all needed features and commands\n\nProject Leader and owner: Sleb\nCoding: Sleb\n\nThe world is mix of tiles by various Artists\n\nAll Tiles used:\n---------------------------------\n\nHysteria City (1.0.0)\nby pwnedpnch\n\nCity with Traintracks by sehr_witziq\nby sehr_witziq (sunny funny)\n\nHolzameise city w.i.p.tile\nby Holzameise\n\nXarocianer World Tile 2.tile\nby XarocTV\n\nHysteria City (1.0.0)\nby pwnedpnch\n\nMonorail Village\nby xX_Fighter_Xx",
-		"fileId": 2938298008,
+		"description": "Mogami Corp. presents:\nHorizon Servers! A custom game to host a server with all needed features and commands\n\nOur discord: https://discord.gg/HHmPMADuNr\n\nProject Leader and owner: pwnedpnch\nCoding: pwnedpnch, Sleb\n\nThe world is mix of tiles by various Artists\n\nAll Tiles used:\n---------------------------------\n\nHysteria City (1.0.0)\nby pwnedpnch\n\nGansdorf\nby Soviet_Goose\n\nCity with Traintracks by sehr_witziq\nby sehr_witziq (sunny funny)\n\nHolzameise city w.i.p.tile\nby Holzameise\n\nXarocianer World Tile 2.tile\nby XarocTV\n\nHysteria City (1.0.0)\nby pwnedpnch\n\nMonorail Village\nby xX_Fighter_Xx",
+		"fileId": 2860255025,
 		"localId": "048c6411-03dc-4984-818d-69387fcd2c76",
 		"name": "Horizon Servers",
 		"type": "Custom Game",
@@ -30815,7 +30805,7 @@
 	"fbe96826-cad2-4ebf-b87a-2b0ac54090d3": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "SCI adds new features what the community wanted. Is the Antenna to big? Then SCI has the Compact Antenna. Bigger Resolution's (For Displays)? The 256x256 resolution display is here. No Syntax Libary? Wel SCI has it.\r\n\r\nScriptable Computers (Original): https://steamcommunity.com/sharedfiles/filedetails/?id=2821133117&searchtext=scriptable+computers\r\n\r\nLua Documentation (Official): https://www.lua.org/docs.html\r\n\r\nSetup for Visual Studio Code.\r\n1: Go to C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2891850490\\VSCode. (Scrap Mechanic Workshop items location depends of where you installed scrap mechanic)\r\n\r\n2: Add the sci.lua to your libary (If you have the lua extention installed).\r\n3: Make a copy of template.lua, rename it. (Its fine to put it where it is)\r\n\r\nAnd begin making Computers!\r\n\r\n-------------------------------------------------------------------------------------------------\r\n\r\nCredits:\r\nDonyti_Qramixy and TheFattestCat: These are the original owners of the original mod Scriptable Computers and the creations from the thumbnail. This mod would not exist without them making the original. Link: https://steamcommunity.com/sharedfiles/filedetails/?id=2821133117&searchtext=scriptable+computers\r\n\r\nThe Guild Of Scrap Mechanic Modders (Discord, The Red Builder): They helped me of trying to add json support for the Network Port even tho i did not tell them i was doing that.\r\n\r\nGalaxyVOID (Discord): Helping me making the RAM Block thats unfortantly only for logic creations. (But can be used by the mod)",
+		"description": "NOTE: ScriptableComputers Cannot be converted to SCI Without modifing the computer code.\r\nNOTE2: Please note such as Suggestions in Steam are less checked on by the creator. (IF you want to make your suggestion, bugs or content be fast respond of the owner. Join NokoDev's Discord Server. https://discord.gg/yPVBs2usuu )\r\n\r\nSCI is a improved Version of Scriptable Computers.\r\n\r\nScriptable Computers (Original): https://steamcommunity.com/sharedfiles/filedetails/?id=2821133117&searchtext=scriptable+computers\r\n\r\nSCI adds new features what the community wanted? Is the Antenna to big? Then SCI has the Compact Antenna. Bigger Resolution's (For Displays)? The 256x256 resolution display is here. No Syntax Libary? Wel SCI has it\r\n\r\n-------------------------------------------------------------------------------------------------\r\n\r\nProblems with SCI:\r\n1: The DisplayBase is NOT modified (Meaning there is no optimization done because theres a ton of math being used there)\r\n2: Syntax libary unfortantly dosen't return the correct one like sci.getdisplay.\r\n\r\nPlans:\r\n1: Adding Custom Enviroment Var's for developers without modifing the mod.\r\n2: More Optimization\r\n3: Endless Support.\r\n4: An Actual good Guide\r\n5: 3x3 Displays.\r\n\r\n-------------------------------------------------------------------------------------------------\r\n\r\nSetup for Visual Studio Code.\r\n1: Go to C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2891850490\\VSCode. (If the path is incorrect for you. you need to search where steamapps is.)\r\n\r\n2: Add the sci.lua to your libary (If you have the lua extention installed).\r\n\r\n3: Make a copy of template.lua, rename it. (Its fine to put it where it is)\r\n\r\nAnd begin making Computers!\r\n\r\n-------------------------------------------------------------------------------------------------\r\n\r\nCredits:\r\nDonyti_Qramixy and TheFattestCat: These are the original owners of the original mod Scriptable Computers and the creations from the thumbnail. This mod would not exist without them making the original. Link: https://steamcommunity.com/sharedfiles/filedetails/?id=2821133117&searchtext=scriptable+computers\r\n\r\nThe Guild Of Scrap Mechanic Modders `(The Red Builder)`: They helped me of trying to add json support for the Network Port even tho i did not tell them i was doing that.\r\n\r\nGalaxyVOID (Discord): Helping me making the RAM Block (RAM block is only for logic creations! People who have issues with making RAM can use this block!)",
 		"fileId": 2891850490,
 		"localId": "fbe96826-cad2-4ebf-b87a-2b0ac54090d3",
 		"name": "SCI",
@@ -43570,6 +43560,27 @@
 		"fileId": 3490826344,
 		"localId": "d6499a40-4f08-46a6-8095-eaae13ebbb40",
 		"name": "Super Carton Mod By MMR",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"485d262b-917d-4357-8713-c52721f4d5b6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "# This Mod Adds:\n## Parts:\n### Concrete Copiping:\n- 2x1x3\n- 2x1x2\n### Blocks:\n- Tall Grass (Unpaintable)\n- Grass (Unpaintable)\n- Asphalt\n- Gravel\n- Sand\n- Stone\n- Dirt\n- Moss\n- Rock\n- Hay",
+		"fileId": 3493782121,
+		"localId": "485d262b-917d-4357-8713-c52721f4d5b6",
+		"name": "Infrastructure: Public Spaces [BETA]",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f4294f33-a1af-4cb4-a99d-f14f7cc0eebe": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "The Extra Blocks And Parts Mod brings a bunch of useful parts and blocks that could be handy.\n\nWhat is in the mod?\n\nBlocks:\n\n-Polycarbonate Block\n-Slime Block\n-Ice Block\n-Dry Ice Block\n-Compressed Concrete Block\n-Shattered Glass Block\n-Transparent Barrier Block\n-Anti-Gravity Block\n-Non-Removable Block\n\nParts:\n\n-Farmbot Head (Decoration)\n-Haybot Head (Decoration)\n-Haybot Pitch Fork (Decoration)\n-Clock (Decoration)\n-Red Tapebot Head (Sensor)\n-Blue Tapebot Head (Decoration)\n-Small Chest (Decoration / Storage)\n-Flat Electric Engine (Engine)\n-Haybot Core (Weak Engine)\n\n",
+		"fileId": 3493806554,
+		"localId": "f4294f33-a1af-4cb4-a99d-f14f7cc0eebe",
+		"name": "Extra Blocks & Parts",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

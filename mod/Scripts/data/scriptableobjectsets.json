@@ -1,5 +1,7 @@
 {
-	"50ee5ce2-9583-4a6e-b3da-b5c187cd798c": {},
+	"50ee5ce2-9583-4a6e-b3da-b5c187cd798c": {
+		"$CONTENT_50ee5ce2-9583-4a6e-b3da-b5c187cd798c/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
 	"6adc7c70-de63-4f47-afbf-018220f548d4": {
 		"$CONTENT_6adc7c70-de63-4f47-afbf-018220f548d4/ScriptableObjects/ScriptableObjectSets/managers.json": [
 			"5277d13a-755b-4b8b-b7ed-b8dc397c0754",
@@ -630,14 +632,7 @@
 	"defae439-d6c1-4ffe-af79-7366a844ddef": {
 		"$CONTENT_defae439-d6c1-4ffe-af79-7366a844ddef/ScriptableObjects/ScriptableObjectSets/example.sobset": []
 	},
-	"677c9cdc-4a3f-4523-9b3d-2602c834ceb7": {
-		"$CONTENT_677c9cdc-4a3f-4523-9b3d-2602c834ceb7/ScriptableObjects/ScriptableObjectSets/example.sobset": [
-			"88c4f979-0feb-44d3-8b59-51da00338430",
-			"d696f6ae-615f-499b-b22a-20e8cea14831",
-			"cd770721-1acb-400e-a175-28cd6511010f",
-			"be34f6d8-0c1e-4fc0-b243-522da04a4409"
-		]
-	},
+	"677c9cdc-4a3f-4523-9b3d-2602c834ceb7": {},
 	"925a869f-3e9f-42d5-9123-0f5648bad7c8": {
 		"$CONTENT_925a869f-3e9f-42d5-9123-0f5648bad7c8/ScriptableObjects/ScriptableObjectSets/example.sobset": []
 	},

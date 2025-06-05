@@ -1,5 +1,7 @@
 {
-	"50ee5ce2-9583-4a6e-b3da-b5c187cd798c": {},
+	"50ee5ce2-9583-4a6e-b3da-b5c187cd798c": {
+		"$CONTENT_50ee5ce2-9583-4a6e-b3da-b5c187cd798c/Kinematics/Database/KinematicSets/example.kinematicset": []
+	},
 	"6adc7c70-de63-4f47-afbf-018220f548d4": {},
 	"f25adf0c-f364-496e-9e39-03b84a9000a4": {
 		"$CONTENT_f25adf0c-f364-496e-9e39-03b84a9000a4/Kinematics/Database/KinematicSets/example.kinematicset": []
@@ -551,9 +553,7 @@
 	"defae439-d6c1-4ffe-af79-7366a844ddef": {
 		"$CONTENT_defae439-d6c1-4ffe-af79-7366a844ddef/Kinematics/Database/KinematicSets/example.kinematicset": []
 	},
-	"677c9cdc-4a3f-4523-9b3d-2602c834ceb7": {
-		"$CONTENT_677c9cdc-4a3f-4523-9b3d-2602c834ceb7/Kinematics/Database/KinematicSets/example.kinematicset": []
-	},
+	"677c9cdc-4a3f-4523-9b3d-2602c834ceb7": {},
 	"925a869f-3e9f-42d5-9123-0f5648bad7c8": {
 		"$CONTENT_925a869f-3e9f-42d5-9123-0f5648bad7c8/Kinematics/Database/KinematicSets/example.kinematicset": []
 	},
