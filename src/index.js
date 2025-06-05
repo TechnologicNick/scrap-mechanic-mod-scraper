@@ -291,7 +291,11 @@ function getSettings() {
         const presentIds = await fs.promises.readdir("/home/steam/Steam/steamapps/workshop/content/387990");
         for (const presentId of presentIds) {
             lastUpdated.items ??= {};
-            lastUpdated.items[presentId] = request.publishedfiledetails.find(d => d.publishedfileid == presentId)?.time_updated ?? null;
+            const lastUpdate = request.publishedfiledetails.find(d => d.publishedfileid == presentId)?.time_updated;
+            if (lastUpdate) {
+                // Prevent setting to null for deleted items
+                lastUpdated.items[presentId] = lastUpdate;
+            }
         }
 
         await fs.promises.writeFile("./mod/Scripts/data/last_update.json", JSON.stringify(
