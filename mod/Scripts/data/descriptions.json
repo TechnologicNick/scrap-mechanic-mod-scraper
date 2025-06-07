@@ -42921,6 +42921,7 @@
 	"001c0293-8d10-4376-b6c4-a3dc76ddb5e8": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": null,
 		"description": "This mod doesn't have a description",
 		"fileId": 3428475324,
 		"localId": "001c0293-8d10-4376-b6c4-a3dc76ddb5e8",
@@ -43581,6 +43582,16 @@
 		"fileId": 3493806554,
 		"localId": "f4294f33-a1af-4cb4-a99d-f14f7cc0eebe",
 		"name": "Extra Blocks & Parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"943b2ef2-b60a-4a0c-a245-09c6d889d972": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3494275805,
+		"localId": "943b2ef2-b60a-4a0c-a245-09c6d889d972",
+		"name": "test",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
