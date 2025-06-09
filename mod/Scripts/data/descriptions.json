@@ -43578,7 +43578,7 @@
 	"f4294f33-a1af-4cb4-a99d-f14f7cc0eebe": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "The Extra Blocks And Parts Mod brings a bunch of useful parts and blocks that could be handy.\n\nWhat is in the mod?\n\nBlocks:\n\n-Polycarbonate Block\n-Slime Block\n-Ice Block\n-Dry Ice Block\n-Compressed Concrete Block\n-Shattered Glass Block\n-Transparent Barrier Block\n-Anti-Gravity Block\n-Non-Removable Block\n\nParts:\n\n-Farmbot Head (Decoration)\n-Haybot Head (Decoration)\n-Haybot Pitch Fork (Decoration)\n-Clock (Decoration)\n-Red Tapebot Head (Sensor)\n-Blue Tapebot Head (Decoration)\n-Small Chest (Decoration / Storage)\n-Flat Electric Engine (Engine)\n-Haybot Core (Weak Engine)\n\n",
+		"description": "The Extra Blocks And Parts Mod brings a bunch of useful parts and blocks that could be handy.\n\nWhat is in the mod?\n\nBlocks:\n\n-Polycarbonate Block\n-Slime Block\n-Ice Block\n-Dry Ice Block\n-Compressed Concrete Block\n-Shattered Glass Block\n-Transparent Barrier Block\n-Anti-Gravity Block\n-Non-Removable Block\n-Coal Block\n-Rusty Block\n-Metal Brick Block\n-Dry Wood Block\n-Canvas Block\n\nParts:\n\n-Farmbot Head (Decoration)\n-Haybot Head (Decoration)\n-Haybot Pitch Fork (Decoration)\n-Clock (Decoration)\n-Red Tapebot Head (Sensor)\n-Blue Tapebot Head (Decoration)\n-Small Chest (Decoration / Storage)\n-Flat Electric Engine (Engine)\n-Haybot Core (Weak Engine)\n-Decoy Explosive (Small)\n-Decoy Explosive (Large)\n\n",
 		"fileId": 3493806554,
 		"localId": "f4294f33-a1af-4cb4-a99d-f14f7cc0eebe",
 		"name": "Extra Blocks & Parts",
