@@ -43624,5 +43624,15 @@
 		"name": "Vanilla wheels all Friction",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"ff61cf44-c859-4943-8bc4-5321900c0875": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3496356777,
+		"localId": "ff61cf44-c859-4943-8bc4-5321900c0875",
+		"name": "actual armored glass",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
