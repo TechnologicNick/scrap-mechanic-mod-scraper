@@ -43608,7 +43608,7 @@
 	"69299354-d356-4cde-bad0-0a315bf895ec": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "",
+		"description": "Не забудьте оценить мод, если хотите активную поддержку и обновления.\r\n\r\nЭтот мод добавляет в игру возможность создавать активные игровые зоны (как в королевской битве [PUBG] и подобных режимах). \r\n\r\nНастройки зоны могут быть изменены, например:\r\n. Вы можете выбрать тип перемещения зоны: расширение, сужение или статический размер (без перемещения),\r\n. Скорость перемещения,\r\n. Сторону воздействия (например, повреждение снаружи или внутри зоны), \r\n. Тип повреждения: урон или исцеление.\r\n\r\n\r\n\r\nСкрипты: AlHiMiK\r\nГрафика и Описания: Romytrix Dexol'\r\n\r\n\r\n\r\n\r\nBlueBerry Team Studio Prod.",
 		"fileId": 3494986318,
 		"localId": "69299354-d356-4cde-bad0-0a315bf895ec",
 		"name": "Universal Zone Mod",
@@ -43632,6 +43632,17 @@
 		"fileId": 3496356777,
 		"localId": "ff61cf44-c859-4943-8bc4-5321900c0875",
 		"name": "actual armored glass",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"0beeefa8-fd53-4969-a671-e0f2cc53df6a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "This mod doesn't have a description",
+		"fileId": 3496578928,
+		"localId": "0beeefa8-fd53-4969-a671-e0f2cc53df6a",
+		"name": "TEST 1",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
