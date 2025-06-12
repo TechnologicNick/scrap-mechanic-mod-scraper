@@ -43645,5 +43645,45 @@
 		"name": "TEST 1",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"f9e17931-93ca-41e9-b9fe-a3ae1d77c01a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1]Make Raids more intense! With your favorite Music![/h1]\r\n\r\n[hr][/hr]\r\n[h1]Important![/h1]\r\n[list]\r\n[*]This is [b]NOT[/b] a file mod!\r\n[*]This mod [b]DOES[/b] support multiplayer.\r\n[*]To configure the mod, use this command: [code]/musicconfig[/code]\r\n[*]By default, this mod [b]ONLY[/b] has one vanilla song, which [b]DOESN'T[/b] respect the volume slider in the raid music gui, but rather uses the music slider in the audio options.\r\n[*]To add more songs, download song packs.\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h2]Music Packs:[/h2]\r\n[code]\r\n[list]\r\n[*][h2][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3497214220]VALVe Pack (Half-Life + Team Fortress 2)[/url][/h2]\r\n[*][h2][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3497204579]Black Mesa Pack (Black Mesa + Black Mesa: Blue Shift)[/url][/h2]\r\n[*][h2][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3497222935]Murder Drones Pack[/url][/h2]\r\n[/list]\r\n[*][h2]And more potentially coming in the future![/h2]\r\n[/code]\r\n\r\n[hr][/hr]\r\n[h2]Support:[/h2]\r\n[*]Rate, Favorite, Share and Award!\r\n[img]https://fagiano0.github.io/CrashlanderAPI/images/workshop/ratefavourite.gif[/img]",
+		"fileId": 3494335601,
+		"localId": "f9e17931-93ca-41e9-b9fe-a3ae1d77c01a",
+		"name": "Custom Raid Music",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"961ea449-f668-4444-8ec8-ee44fd99f42b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3497204579,
+		"localId": "961ea449-f668-4444-8ec8-ee44fd99f42b",
+		"name": "Black Mesa Raid Music Pack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"3d769a82-376b-4162-bda3-52c06667d7eb": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3497214220,
+		"localId": "3d769a82-376b-4162-bda3-52c06667d7eb",
+		"name": "VALVe Raid Music Pack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6bcb3803-52da-4285-af1d-ba947715af12": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3497222935,
+		"localId": "6bcb3803-52da-4285-af1d-ba947715af12",
+		"name": "Murder Drones Raid Music Pack",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
