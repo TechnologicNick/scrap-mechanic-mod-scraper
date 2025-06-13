@@ -43685,5 +43685,25 @@
 		"name": "Murder Drones Raid Music Pack",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"809ddf60-781b-47ee-b1d8-d494a70e63fd": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3170411132,
+		"localId": "809ddf60-781b-47ee-b1d8-d494a70e63fd",
+		"name": "Funny Shapes Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"57d176fb-e1ab-46ed-8d96-1a7b80e199ac": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A plate with low collision on the bottom, good for hiding gears and other machnine internals within a case.",
+		"fileId": 3497934720,
+		"localId": "57d176fb-e1ab-46ed-8d96-1a7b80e199ac",
+		"name": "Low Collision Plate",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
