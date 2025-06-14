@@ -42800,7 +42800,7 @@
 	},
 	"e06059e3-b6dd-4d81-b8e7-f332bc94e664": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"description": "Мод на невидимые элементы, не включать вместе с модом на видимые элементы!",
 		"fileId": 3448318467,
 		"localId": "e06059e3-b6dd-4d81-b8e7-f332bc94e664",
