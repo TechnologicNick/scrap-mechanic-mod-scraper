@@ -43715,5 +43715,15 @@
 		"name": "scmframework demo",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"b6d1246b-f2eb-479f-8465-214d13dc3c62": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "I am not the author of the original mod, it is only customizations.",
+		"fileId": 3411923963,
+		"localId": "b6d1246b-f2eb-479f-8465-214d13dc3c62",
+		"name": "MGP+V4 SW",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
