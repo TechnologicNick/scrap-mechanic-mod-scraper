@@ -43568,7 +43568,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "[h1] This Mod Adds: [/h1]\r\n\r\n[h2] Parts: [/h2]\r\n[list]\r\n   [*] Concrete Coping Large: [i] 2×3 [/i] (Texture W.I.P.)\r\n   [*] Concrete Coping Small: [i] 2×2 [/i] (Texture W.I.P.)\r\n   [*] Concrete Tactile: [i] Blister [/i] (Texture W.I.P.)\r\n   [*] Concrete Tactile: [i] Guidance Path [/i] (Texture W.I.P.)\r\n   [*] Screw Water Turbine (Texture W.I.P.)\r\n[/list]\r\n\r\n[h2] Blocks: [/h2]\r\n[list]\r\n   [*]Grass (Unpaintable)\r\n   [*]Tall Grass (Unpaintable)\r\n   [*]Dirt\r\n   [*] Dry Mud\r\n   [*] Cracked Dry Mud\r\n   [*]Asphalt\r\n   [*]Gravel\r\n   [*]Sand\r\n   [*]Stone\r\n   [*]Moss\r\n   [*]Rock\r\n   [*]Hay\r\n[/list]\r\n\r\n- [i] Aka; Mono Mod [/i]",
+		"description": "[h1] This Mod Adds: [/h1]\r\n\r\n[h2] Parts: [/h2]\r\n[list]\r\n   [*] Concrete Coping Large: [i] 2×3 [/i] (Texture W.I.P.)\r\n   [*] Concrete Coping Small: [i] 2×2 [/i] (Texture W.I.P.)\r\n   [*] Concrete Pavement Small 2×2 (Texture W.I.P.)\r\n   [*] Concrete Tactile: [i] Blister [/i] (Texture W.I.P.)\r\n   [*] Concrete Tactile: [i] Guidance Path [/i] (Texture W.I.P.)\r\n   [*] Screw Water Turbine (Texture W.I.P.)\r\n[/list]\r\n\r\n[h2] Blocks: [/h2]\r\n[list]\r\n   [*]Grass (Unpaintable)\r\n   [*]Tall Grass (Unpaintable)\r\n   [*]Dirt\r\n   [*] Dry Mud\r\n   [*] Cracked Dry Mud\r\n   [*]Asphalt\r\n   [*]Gravel\r\n   [*]Sand\r\n   [*]Stone\r\n   [*]Moss\r\n   [*]Rock\r\n   [*]Hay\r\n[/list]\r\n\r\n- [i] Aka; Mono Mod [/i]",
 		"fileId": 3493782121,
 		"localId": "485d262b-917d-4357-8713-c52721f4d5b6",
 		"name": "Infrastructure: Public Spaces [BETA]",
@@ -43703,6 +43703,16 @@
 		"fileId": 3497934720,
 		"localId": "57d176fb-e1ab-46ed-8d96-1a7b80e199ac",
 		"name": "Low Collision Plate",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"749a7a1d-2504-459b-a80b-72fd874a198e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "this mod demonstrates the capabilities of scmframework\nthe scmframework allows you to use SComputers features inside your mods\nit's completely free and anyone can use the scmframework to create their own mods\nif you only need displays from SComputers, then you can use canvasAPI\nthe scmframework contains canvasAPI inside itself\n\nscmframework: https://igorkll.github.io/SComputers/scmframework.html\ncanvasAPI: https://igorkll.github.io/SComputers/canvasAPI.html",
+		"fileId": 3487509409,
+		"localId": "749a7a1d-2504-459b-a80b-72fd874a198e",
+		"name": "scmframework demo",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
