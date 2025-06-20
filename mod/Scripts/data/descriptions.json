@@ -43740,7 +43740,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "Adds a guidance block that can follow players or trackers.\n\n- Use logic colors to control target selection\n- White = next player, Black = previous player\n- Any other color = activate guidance\n- Trackers can be placed and followed like beacons, they always work\n\nMade by Mike\n",
+		"description": "Adds a guidance block that can follow players or trackers.\r\n\r\n- Use logic colors to control target selection\r\n- White = next player, Black = previous player\r\n- Any other color = activate guidance\r\n- Trackers can be placed and followed like beacons, they always work\r\n-Guidance Block wont track a tracket that is on the same creation\r\n\r\nThis is my first time making a actual mod, some stuff is not yet polished\r\nMade by Mike\r\n",
 		"fileId": 3502016036,
 		"localId": "f1f03f29-c1c6-40ad-bf6f-9161260298d9",
 		"name": "Guidance Module",
