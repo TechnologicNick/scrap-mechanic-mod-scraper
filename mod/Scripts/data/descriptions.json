@@ -43776,5 +43776,25 @@
 		"name": "Czech Language Mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"38ba4b12-bf2b-4e5d-a2b2-2658dd371114": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "An alternative (and better imo) PID controller for the modpack.\n\nHow to use:\n1. subscribe\n2. add the modpack and this mod to a world\n3. use it like the normal modpack PID in the mathblock\n4. profit\n\nCan be swapped in with minor adjustments (and some re-tuning)\n(this mod will overwrite the modpack's mathblock to implement the new PID. This means that a creation made with this mod WILL spawn in in a world without this mod (still with the modpack tho), it will just have a regular modpack mathblock instead but most likely be broken)\n\n!!Having this mod installed MAY break existing creations that use PIDs!! (just remove this mod to fix them again)\n\nIn/outputs:\nblack:  processvalue \nwhite:  setpoint \n\norange: kp\nred:       ki \npurple:  kd\n\n3rd row orange: P-max\n3rd row red:       I-max \n3rd row purple:  D-max\ncyan: output limit (for safety reasons to prevent your creation from flying into space)\n\nyes, i'm aware that there is no icon for this mathblock because... this fucking game... \ni'll fix that ...sometime...\n\n\n\n\nI just implemented a new PID, the credit for the rest of the code for the mathblock goes to the modpack team!",
+		"fileId": 3253580116,
+		"localId": "38ba4b12-bf2b-4e5d-a2b2-2658dd371114",
+		"name": "New PID for Modpack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"02a5bb14-d92c-4dd0-8e32-cb8543fcb676": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Just a simple mod, to make my PixelArt Generator use its full potential.\n\n3 types of blocks:\n- Corner Pixel\n- Edge Pixel\n- Center Pixel\n\nYou can bug them inside of each other to have 3x3 pixels in only one block.",
+		"fileId": 3504940194,
+		"localId": "02a5bb14-d92c-4dd0-8e32-cb8543fcb676",
+		"name": "Pixels In Block",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
