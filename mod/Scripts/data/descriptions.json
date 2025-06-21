@@ -43766,5 +43766,15 @@
 		"name": "Additional Shapes",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"3a76a986-ada3-4dac-beaa-82580d86c7e6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Český mod pro hru Scrap Mechanic.\n\nInstrukce k instalaci (a potřebné soubory) najdete ve složce modu ve Steam adresáři:\nSteam > steamapps > workshop > content > 387990 (Scrap Mechanic) > 3504474140 (složka modu).",
+		"fileId": 3504474140,
+		"localId": "3a76a986-ada3-4dac-beaa-82580d86c7e6",
+		"name": "Czech Language Mod",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
