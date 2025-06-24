@@ -43830,7 +43830,7 @@
 	"f7bc527d-20a2-42c3-9d35-b6f17ae7bf50": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Throwing bricks is fun!",
+		"description": "Ever wanted to throw bricks? Now you can!\r\n\r\nDestroy durability 1 parts, windows, trees, capsules, and more!\r\nAlternatively, damage and ragdoll your enemies! [i]Or even your friends...[/i]\r\n\r\n[h2]How to use:[/h2]\r\nLeft Click - Throw\r\nRight Click - Short Throw\r\nReload (default R) - Collect all loaded loose bricks\r\n\r\n[hr]\r\n\r\nIf you like this, feel free to like, favourite and give an award!",
 		"fileId": 3507192625,
 		"localId": "f7bc527d-20a2-42c3-9d35-b6f17ae7bf50",
 		"name": "Throw Bricks",
