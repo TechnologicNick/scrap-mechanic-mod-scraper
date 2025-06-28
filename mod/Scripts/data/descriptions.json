@@ -37101,7 +37101,7 @@
 	"1f64255d-5ecb-4537-8ed8-e3d0a3fa1f60": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "New Version: https://steamcommunity.com/sharedfiles/filedetails/?id=3381477175 (I couldnt update this one couse aparently there was no mod under this name neither a databse.) \r\nThis Mod Is Curently Unlisted\r\n\r\n\r\nNormal Friction Crane Wheel + Frictionless Crane Wheel + High Friction Crane Wheel\r\n\r\nModded Frictionless Crane Wheels.\r\nYou can use it as a train wheel, or as a roller part.\r\n\r\nTags: crane wheel friction train mod monorail frictionless part",
+		"description": "[h2]This Mod Adds:[/h2]\r\n[list]\r\n   [*] Crane Wheel. (Use The New In Game Crane Wheel Part!)\r\n   [*] Frictionless Crane Wheel\r\n   [*] High Friction Crane Wheel\r\n   [*] The Modpack: 1×1 Wheel\r\n   [*] The Modpack: 2×1 Wheel\r\n[/list]\r\n\r\n[u]You can use these as a train wheel, or as a roller part.[/u]\r\n\r\n[i]Tags: crane wheel friction train mod monorail friction less part the modpack wheel[/i]",
 		"fileId": 3148341486,
 		"localId": "1f64255d-5ecb-4537-8ed8-e3d0a3fa1f60",
 		"name": "Modded Frictionless Crane Wheels",
@@ -43910,5 +43910,15 @@
 		"name": "MoreCraft++",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"629a51e4-a0f5-407f-b157-f53caedb17c7": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "В роботе данного мода виновен: Sporling",
+		"fileId": 3462565695,
+		"localId": "629a51e4-a0f5-407f-b157-f53caedb17c7",
+		"name": "Scroll lock",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
