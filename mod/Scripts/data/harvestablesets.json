@@ -3053,5 +3053,20 @@
 			"6726c35c-f8e6-49cf-b0b6-05e7efac4115"
 		]
 	},
-	"5b6999c4-be6f-4d5b-9cd1-48499a22cf32": {}
+	"5b6999c4-be6f-4d5b-9cd1-48499a22cf32": {},
+	"57536a18-1e58-4f83-815e-96e3f82dd5c3": {
+		"$CONTENT_57536a18-1e58-4f83-815e-96e3f82dd5c3/Harvestables/Database/HarvestableSets/hvs_burntforest.json": [
+			"9ef210c0-ea30-4442-a1fe-924b5609b0cc",
+			"2bae67d4-c8ef-4c6e-a1a7-42281d0b7489",
+			"8f7a8108-2712-47b3-bce2-f25315165094",
+			"515aed88-0594-42b6-a352-617e5f5a3e45",
+			"2d5aa53d-eb9c-478c-a70f-c57a43753814",
+			"c08b553a-a917-4e26-bbb6-7b8523789cad",
+			"d3fcfc06-a6b6-4598-99b1-9a6445b976b3",
+			"b5f90719-fbca-4c59-89c3-187cdb5553d4"
+		]
+	},
+	"5ab43a9a-a61e-489c-831d-f45632843d11": {
+		"$CONTENT_5ab43a9a-a61e-489c-831d-f45632843d11/Harvestables/Database/HarvestableSets/example.harvestableset": []
+	}
 }

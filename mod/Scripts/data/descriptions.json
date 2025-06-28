@@ -43883,5 +43883,32 @@
 		"name": "Free Survival",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"57536a18-1e58-4f83-815e-96e3f82dd5c3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Makes grind easier.\n\nChanges:\n\nRafinery output increased to 20\n\n33.3% more ember drops\n20% more componet kit drops\n\nElertric engines 25% more battery-efficient\n\nLower crafting times of V/P burgers, baguetes, Glue and Paint.\n\nUpgrade Costs:\n[part]: [lvl2 +  lvl3 + lvl4 + lvl5 = sum] ([old_lvl2 + old_lvl3 + old_lvl4 + old_lvl5 = old_sum])\n\nCraftbot: 4 + 4 + 4 + 10 = 22 (5 + 5 + 5 + 20 = 35)\nDriver's seat: 1 + 1 + 2 + 2 = 6 (1 + 2 + 3 + 5 = 11)\nDriver's saddle: 1 + 1 + 2 + 2 = 6 (1 + 2 + 3 + 5 = 11)\nGas engine: 2 + 4 + 6 + 8 = 20 (4 + 6 + 8 + 10 = 28)\nElectric engine: 2 + 4 + 6 + 8 = 20 (4 + 6 + 8 + 10 = 28)\n\nAdjusted Recipes:\n[recipe] ([old_recipe]))\n\n10xMetal3 = 15xMetal2 + 2xEmber + 4xWater (10xMetal3 = 20xMetal2 + 2xEmber + 4xWater)\n1xVacuum pump = 10xMetal2 + 4xBeeswax + 5xCircuit board + 2xComponent kit (1xVacuum pump = 10xMetal2 + 5xBeeswax + 5xCircuit board + 3xComponent kit)\n1xWater cannon = 10xMetal2 + 5xBeeswax + 2xComponent kit (1xWater cannon = 10xMetal2 + 10xBeeswax + 2xComponent kit)\n1xBeacon = 20xMetal1 + 10xCircuit board + 1xGlue (1xBeacon = 10xMetal2 + 10xCircuit board + 1xRadio)\n10xBattery = 10xScrap metal + 5xGlow + 5xChemicals (5xBattery = 10xScrap metal + 5xGlow + 5xChemicals)\n5xPaint ammo = 1xPaint flower (5xPaint ammo = 5xPaint flower)\n1xGlue = 1xGlue clam (1xGlue = 3xGlue clam)\n10xFertilizer = 10xTomato seed + 10xRedbeet seed + 10xCarrot seed (5xFertilizer = 10xTomato seed + 10xRedbeet seed + 10xCarrot seed)\n1xWater container = 10xMetal1 + 8xBeeswax + 5xCircuit board + 2xGlue (1xWater container = 10xMetal1 + 10xBeeswax + 5xCircuit board + 2xGlue)\n1xWheel = 15xWood1 + 5xMetal1 + 5xBeeswax (1xWheel = 15xWood1 + 5xMetal1 + 6xBeeswax)\n1xBig wheel = 40xWood1 + 10xMetal1 + 6xBeeswax (1xBig wheel = 40xWood1 + 10xMetal1 + 8xBeeswax)",
+		"fileId": 3509817035,
+		"localId": "57536a18-1e58-4f83-815e-96e3f82dd5c3",
+		"name": "Easier Grind",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"5ab43a9a-a61e-489c-831d-f45632843d11": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3424845976,
+				"localId": "3abf4d17-11cd-4d4d-b410-b4c61b400bac",
+				"name": "++ GameBlocks"
+			}
+		],
+		"description": "This mod doesn't have a description",
+		"fileId": 3510014126,
+		"localId": "5ab43a9a-a61e-489c-831d-f45632843d11",
+		"name": "MoreCraft++",
+		"type": "Custom Game",
+		"version": 0
 	}
 }

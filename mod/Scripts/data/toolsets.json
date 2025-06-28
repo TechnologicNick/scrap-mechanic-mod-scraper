@@ -6156,5 +6156,9 @@
 	},
 	"5ca9a49e-7147-475c-82fd-37ccf15cbc9f": {},
 	"caf9d62d-8e63-403e-9d0c-6368abb78a60": {},
-	"5b6999c4-be6f-4d5b-9cd1-48499a22cf32": {}
+	"5b6999c4-be6f-4d5b-9cd1-48499a22cf32": {},
+	"57536a18-1e58-4f83-815e-96e3f82dd5c3": {},
+	"5ab43a9a-a61e-489c-831d-f45632843d11": {
+		"$CONTENT_5ab43a9a-a61e-489c-831d-f45632843d11/Tools/Database/ToolSets/example.toolset": []
+	}
 }
