@@ -41391,13 +41391,12 @@
 	"6a1e521f-1f4b-4d86-b5f3-6b0ef0fab98d": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"dependencies": null,
-		"description": "Tools:\r\n1. Recovery tool:\r\n - Crouch to toggle coordinates display\r\n - Press R for quick return to 0, 0, 0\r\n - [Work in progress] Press Q for teleportation menu (tab for teleporting to specific coordinates & tab for teleporting to other players)\r\n\r\nThere will be more tools soon",
+		"description": "Tools:\n1. Recovery tool:\n - Crouch to toggle HUD coordinates display\n - Press R for quick return to 0, 0, 0\n - Press Q for teleportation menu - teleporting to specific coordinates and teleporting to other players\n\nThere will be more tools soon",
 		"fileId": 3396809964,
 		"localId": "6a1e521f-1f4b-4d86-b5f3-6b0ef0fab98d",
 		"name": "recovery tools",
 		"type": "Blocks and Parts",
-		"version": 1.01
+		"version": 1.1
 	},
 	"0b377dca-4e92-406e-9c32-a918e5efb96e": {
 		"allow_add_mods": true,
@@ -43878,7 +43877,7 @@
 				"name": "ModDatabase"
 			}
 		],
-		"description": "In this mode, all crafting (except for forbidden and useless) vanilla game items are available, the inventory is increased to 60 cells and the crafting speed is increased",
+		"description": "Features:\n- Wedges\n- More blocks\n- Large number of crafts\n- Support for custom recipes\n- Block stacks increased to 512. Also a few other items\n- Pipes are no longer just decor!\n- Large fuel tank (it is possible to connect to pipes)\n- Energy Generator (can be connected to pipes)\n- Large engine (can be connected to the pipes)\n- Also different liquid containers (can be connected to the pipes).\n- More items for storage\n- Small changes in vanilla recipes\n- Accelerated resource purification\n- Multiplication in Refinery\n- Crafting speed increased\n",
 		"fileId": 3509195414,
 		"localId": "5b6999c4-be6f-4d5b-9cd1-48499a22cf32",
 		"name": "Free Survival",
