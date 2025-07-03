@@ -43877,7 +43877,7 @@
 				"name": "ModDatabase"
 			}
 		],
-		"description": "Features:\n- Wedges\n- More blocks\n- Large number of crafts\n- Support for custom recipes\n- Block stacks increased to 512. Also a few other items\n- Pipes are no longer just decor!\n- Large fuel tank (it is possible to connect to pipes)\n- Energy Generator (can be connected to pipes)\n- Large engine (can be connected to the pipes)\n- Also different liquid containers (can be connected to the pipes).\n- More items for storage\n- Small changes in vanilla recipes\n- Accelerated resource purification\n- Multiplication in Refinery\n- Crafting speed increased\n",
+		"description": "Features:\n- Wedges\n- More blocks\n- Large number of crafts\n- Support for custom recipes\n- Block stacks increased to 512. Also a few other items\n- Pipes are no longer just decor!\n- Large fuel tank (it is possible to connect to pipes)\n- Energy Generator (can be connected to pipes)\n- Large engine (can be connected to the pipes)\n- Also different liquid containers (can be connected to the pipes).\n- More items for storage\n- Small changes in vanilla recipes\n- Accelerated resource purification\n- Multiplication in Refinery\n- Crafting speed increased\n- Roadside structures are not useless(Now you can open the crates in the houses and there will be loot.)\n",
 		"fileId": 3509195414,
 		"localId": "5b6999c4-be6f-4d5b-9cd1-48499a22cf32",
 		"name": "Free Survival",
@@ -43940,5 +43940,25 @@
 		"name": "Robot Invasion (Easy mode)",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"6bc95c1b-eee8-4651-857c-0cd077c37545": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h1]Dance to your heart's content![/h1]\r\nThis mod adds various dance and emote animations to the player!\r\nPress Reload(Default: R) to open the dance selection menu, select your dance, and then hold Interact(Default: E) to do the dance!\r\n\r\nThe mod includes 16 dances/emotes for you to choose from.\r\n\r\n[b]This mod was originally made by [url=https://steamcommunity.com/id/ikey07]ikey07[/url], but has gone unmaintained over the years.[/b]\r\nThis fixed version isn't a file mod anymore, all you have to do is apply it to your world and enjoy!\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2468801789]The original mod.[/url]",
+		"fileId": 3514715622,
+		"localId": "6bc95c1b-eee8-4651-857c-0cd077c37545",
+		"name": "Fixed Player Emotes",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"83c8117f-20bd-4e35-bb75-b8c69480871c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1]Introducing... Ziplines![/h1]\n\nThis mod adds ziplines that can be strung between two poles, making traversal easy!\n\n[h1]Features[/h1][list][*][b]Ziplines[/b][list][*]Mechanics can interact with the cable to mount onto them[*]Creations can use the [b]Zipline Rider[/b] block to mount onto them[/list][*][b]Zipline Rider:[/b] Accepts 3 button inputs to control it[/list]",
+		"fileId": 3514826721,
+		"localId": "83c8117f-20bd-4e35-bb75-b8c69480871c",
+		"name": "Ziplines",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

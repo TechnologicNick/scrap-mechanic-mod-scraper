@@ -6184,5 +6184,16 @@
 			"59a3469c-d7cd-4784-aa5b-316749abc2b6",
 			"a6113860-f4d4-42df-b8f9-129efdbaf777"
 		]
+	},
+	"6bc95c1b-eee8-4651-857c-0cd077c37545": {
+		"$CONTENT_6bc95c1b-eee8-4651-857c-0cd077c37545/Tools/Database/ToolSets/tools.toolset": [
+			"9f482ecc-3717-45de-b204-625094b8d652"
+		]
+	},
+	"83c8117f-20bd-4e35-bb75-b8c69480871c": {
+		"$CONTENT_83c8117f-20bd-4e35-bb75-b8c69480871c/Tools/Database/ToolSets/tools.toolset": [
+			"ae92e68a-af40-4ad9-9b4d-cb4eef9d0737",
+			"d1371a1b-080e-43ee-90de-2c324ec2cac3"
+		]
 	}
 }
