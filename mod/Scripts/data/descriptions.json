@@ -39767,7 +39767,7 @@
 	"2514bebf-db4a-4d53-b2ba-57a6b291226b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h2]Expands Seats with more Features![/h2]\r\nControl order changing, Control notes and colors, In-Seat interaction (Cockpit Clicker), more zoom and a Metric/Imperial Speedometer!\r\n\r\n[hr][/hr]\r\n[h1]Important![/h1]\r\n[list]\r\n[*]This is [b]NOT[/b] a file mod!\r\n[*]This mod is compatible with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3113900342]Crashlander[/url] (Singleplayer only, Multiplayer is broken for some reason and i can't fix it), [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3242683188]QuickSwap[/url] and most Gamemodes.\r\n[*]This mod doesn't add any new parts (but does override the old creative seats), it [b] adds functionality to vanilla seats, saddles and their driver variants.[/b]\r\n[*]If you use this mod in your blueprint and publish it, people without this mod [b]WILL[/b] be able to spawn it in, [b]but wont be able to experience these new features[/b], if they enable the mod after spawning in the blueprint, all the settings will take an effect!\r\n[*]When using Creative Seats, they need to be respawned in order to have the functions, else they will work like before (excluding the broken character ragdoll)\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h1]Features[/h1]\r\n[list]\r\n[*]New settings UI for Vanilla Seats:\r\n\t[list]\r\n\t[*]Control order changing\r\n\t[*]Control notes and colors\r\n\t[*]In-Seat interaction (Cockpit Clicker)\r\n\t[*]Turn off Jump Exit (Jumping will trigger button in 3rd slot instead)\r\n\t[*]Zoom++ (More zoom steps, thanks to Danzen for majorly improving this feature)\r\n\t[*]Metric/Imperial Speedometer\r\n\t[/list]\r\n[*]Compatible with old Creative (or Level 12345) Seats\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h2]Support:[/h2]\r\n[*]Rate, Favorite, Share and Award!\r\n[img]https://fagiano0.github.io/CrashlanderAPI/images/workshop/ratefavourite.gif[/img]",
+		"description": "[h2]Expands Seats with more Features![/h2]\r\nControl order changing, Control notes and colors, In-Seat interaction (Cockpit Clicker), more zoom and a Metric/Imperial Speedometer!\r\n\r\n[hr][/hr]\r\n[h1]Important![/h1]\r\n[list]\r\n[*]This is [b]NOT[/b] a file mod!\r\n[*]This mod is compatible with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3113900342]Crashlander[/url] (Singleplayer only, Multiplayer is broken for some reason and i can't fix it), [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3242683188]QuickSwap[/url] and most Gamemodes.\r\n[*]This mod doesn't add any new parts (but does override the old creative seats), it [b] adds functionality to vanilla seats, saddles and their driver variants (+ more when using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3452511878]This Mod[/url]).[/b]\r\n[*]If you use this mod in your blueprint and publish it, people without this mod [b]WILL[/b] be able to spawn it in, [b]but won't be able to experience these new features[/b], if they enable the mod after spawning in the blueprint, all the settings will take an effect!\r\n[*]When using Creative Seats, they need to be respawned in order to have the functions, else they will work like before (excluding the broken character ragdoll)\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h1]Features[/h1]\r\n[list]\r\n[*]New settings UI for Vanilla Seats:\r\n\t[list]\r\n\t[*]Control order changing\r\n\t[*]Control notes and colors\r\n\t[*]In-Seat interaction (Cockpit Clicker)\r\n\t[*]Turn off Jump Exit (Jumping will trigger button in 3rd slot instead)\r\n\t[*]Zoom++ (More zoom steps, thanks to Danzen for majorly improving this feature)\r\n\t[*]Metric/Imperial Speedometer\r\n\t[/list]\r\n[*]Compatible with old Creative (or Level 12345) Seats\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h2]Links:[/h2]\r\n[url=https://discord.gg/DyUxeyAJRz]Our Discord Server[/url]\r\n\r\n[hr][/hr]\r\n[h2]Support:[/h2]\r\n[*]Rate, Favorite, Share and Award!\r\n[img]https://fagiano0.github.io/CrashlanderAPI/images/workshop/ratefavourite.gif[/img]",
 		"fileId": 3312373135,
 		"localId": "2514bebf-db4a-4d53-b2ba-57a6b291226b",
 		"name": "Seats++",
@@ -42333,8 +42333,9 @@
 	"d5dca94e-b806-46d5-84ec-bc8b56fa0f4d": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": null,
 		"description": "Simple building protector, like in warehouse",
-		"fileId": 3433399892,
+		"fileId": 3518602195,
 		"localId": "d5dca94e-b806-46d5-84ec-bc8b56fa0f4d",
 		"name": "Protector",
 		"type": "Blocks and Parts",
@@ -43975,7 +43976,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"description": "карта в стиле майнкрафта, но с PVP\nнаш сервер: https://discord.gg/7UeCacyjfx",
-		"fileId": 3518309143,
+		"fileId": 3519176136,
 		"localId": "b79a0ded-dbc3-48ce-b6d2-b14c72655c54",
 		"name": "minecraft castle",
 		"type": "Custom Game",
