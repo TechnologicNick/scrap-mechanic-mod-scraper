@@ -37702,7 +37702,7 @@
 	"e933f3f8-7c50-402f-bdc4-db931d136a6c": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "this API adds additional methods to the game.\nhowever, it does not provide full access to the lua API.\nthe documentation is located in a folder inside the mod: Docs/docs.md\n\nTHESE ARE NOT BUGS (yes, I'm tired of explaining this to everyone):\n1. IT IS NORMAL IF OPENED A LARGE NUMBER OF COMMAND LINES WHEN YOU START betterAPI.\n2. IF ERRORS APPEAR IN THESE COMMAND LINES, JUST IGNORE THEM! EVERYTHING IS GOING ACCORDING TO PLAN!.\n3. IT'S OK IF THE GAME RESTARTS SEVERAL TIMES AFTER INSTALLING betterAPI.\n4. IF YOU SEE COMMAND LINES, JUST COLLAPSE THEM! DO NOT CLOSE THEM, OTHERWISE THE GAME WILL CLOSE.\n\nmanual installation:\n1. close scrap mechanic\n2. subscribe to the mod\n3. open folder: Steam\\steamapps\\workshop\\content\\387990\\3177944610\\content\n4. copy all files\n5. open folder: Steam\\steamapps\\common\\Scrap Mechanic\\Release\n6. insert all the files with the replacement\n\n[url=https://igorkll.github.io/betterAPI/index.html] DOCUMENTATION [/url]\n[url=https://discord.gg/uJrsmUjaMG] DISCORD SERVER [/url]",
+		"description": "this API adds additional methods to the game.\r\nhowever, it does not provide full access to the lua API.\r\nthis mod expands the capabilities of the game API by adding additional features for use by other mods.\r\nbetterAPI has a built-in package manager with extensions. to open it, write to the chat /better\r\n\r\nmanual installation:\r\n1. close scrap mechanic\r\n2. subscribe to the mod\r\n3. open folder: Steam\\steamapps\\workshop\\content\\387990\\3177944610\\content\r\n4. copy all files\r\n5. open folder: Steam\\steamapps\\common\\Scrap Mechanic\\Release\r\n6. insert all the files with the replacement\r\n\r\n[url=https://igorkll.github.io/betterAPI/index.html] DOCUMENTATION [/url]\r\n[url=https://discord.gg/uJrsmUjaMG] DISCORD SERVER [/url]",
 		"fileId": 3177944610,
 		"localId": "e933f3f8-7c50-402f-bdc4-db931d136a6c",
 		"name": "better API [file mod]",
@@ -40963,7 +40963,7 @@
 				"localId": "612637e4-555a-4d86-a8f3-79623218e6e4"
 			}
 		],
-		"description": "[h1]Build much faster with this mod![/h1]\nNo need to open your inventory and search for the blocks anymore. Just press the [b]reload button[/b] (R by default) and the block will instantly appear in your [b]active hotbar slot[/b].\n\n[h2]You can bind the reload action to the middle mouse button, which will make it much more convenient.[/h2]\n\n[h1] [b]Important[/b] [/h1]\n[list]\n    [*]This is [b]NOT[/b] a file mod! You simply download it, enable it, and it works.\n[/list]\n\n[h2]Please, rate my mod, add it to your favorites and award it. Thank you![/h2]",
+		"description": "[h1]Build much faster with this mod![/h1]\nNo more opening your inventory and searching for the right block. Just press the [b]reload[/b] key (R by default), and the block will instantly appear in your [b]active hotbar slot[/b].\n\n[h2]I recommend binding the reload action to the middle mouse button for convenience.[/h2]\n\n[h1][b]Important[/b][/h1]\n[list]\n    [*]This is [b]NOT a file mod![/b] Just subscribe, enable it, and it works.\n    [*]This mod may [b]CONFLICT[/b] with other mods that use the reload key, and may not function correctly (for example, [url=https://steamcommunity.com/workshop/filedetails/?id=3514715622]Fixed Player Emotes[/url]).\n[/list]\n\n[h2]Please rate my mod and add it to your favorites. Thank you![/h2]",
 		"fileId": 3376671009,
 		"localId": "a694680f-2adb-4cf8-a5d4-b0c60bc8ad2c",
 		"name": "Middle Mouse Feature from Minecraft",
@@ -42772,7 +42772,7 @@
 				"localId": "632be32f-6ebd-414e-a061-d45906ae4dc6"
 			}
 		],
-		"description": "This addon adds new functions to the Computer API and modifies some components.\n\n[h1]=================== Computer API ====================[/h1]\n\n[h2] global / sc [/h2]\n[list]\n    [*] [b]sc.isExtended()[/b] – Returning [b]true[/b] if extended, [b]nil[/b] if not.\n    [*] [b]debugf( format, ... )[/b] – Logs messages in the console with different severity levels ('error', 'info', 'warning').\n    [*] [b]sc.regExists( registerName )[/b] – Checks if a register exists and returns its type: \"Input\", \"Output\", \"Input/Output\", or nil if not found.\n[/list]\n\n[h2] os [/h2]\n[list]\n    [*] [b]os.date( format, timestamp )[/b] – Returns formatted date/time based on the given format and timestamp.\n[/list]\n\n[h2] math [/h2]\n[list]\n    [*] [b]math.sign( x )[/b] – Returns [b]1[/b] if positive, [b]-1[/b] if negative, or [b]0[/b].\n    [*] [b]math.round( number, digits )[/b] – Rounds a number to the given number of decimal places.\n    [*] [b]math.isnan( x )[/b] – Checks if the value [b]x[/b] is [b]nan[/b] (Not a Number).\n[/list]\n\n[h1]================ Component Changes =================[/h1]\n\n[h2] GravityController [/h2]\n[list]\n    [*] [b]GravityController.applyImpulse( impulse, worldSpace, offset )[/b] – Applies an impulse to the object.\n    [*] [b]GravityController.applyTorque( torque, worldSpace )[/b] – Applies torque to the object.\n    [*] [b]GravityController.getWorldGravity()[/b] – Returns the current world gravity.\n    [*] [b]GravityController.getCenterOfMass( wholeCreation )[/b] – Returns the center of mass of the object. If [b]wholeCreation[/b] is [b]true[/b], returns the average center of mass for all connected bodies.\n[/list]\n\n[h2] Motor [/h2]\n[list]\n    [*] [b]Motor.getCurrentLength()[/b] – Returns the current piston length (only one piston can be connected).\n    [*] [b]Motor.getBearingsData()[/b] – Returns bearings data (angle, angularVelocity, appliedImpulse, isReversed).\n    [*] [b]Motor.getPistonsData()[/b] – Returns pistons data (length).\n[/list]\n\n[h2] Radar [/h2]\n[list]\n    [*] The max radar scan angles has been increased",
+		"description": "This addon adds new functions to the Computer API and modifies some components.\r\n\r\n[h1]=================== Computer API ====================[/h1]\r\n\r\n[h2] global / sc [/h2]\r\n[list]\r\n    [*] [b]sc.isExtended()[/b] – Returning [b]true[/b] if extended, [b]nil[/b] if not.\r\n    [*] [b]debugf( format, ... )[/b] – Logs messages in the console with different severity levels ('error', 'info', 'warning').\r\n[/list]\r\n\r\n[h2] os [/h2]\r\n[list]\r\n    [*] [b]os.date( format, timestamp )[/b] – Returns formatted date/time based on the given format and timestamp.\r\n[/list]\r\n\r\n[h2] math [/h2]\r\n[list]\r\n    [*] [b]math.sign( x )[/b] – Returns [b]1[/b] if positive, [b]-1[/b] if negative, or [b]0[/b].\r\n    [*] [b]math.round( number, digits )[/b] – Rounds a number to the given number of decimal places.\r\n    [*] [b]math.isnan( x )[/b] – Checks if the value [b]x[/b] is [b]nan[/b] (Not a Number).\r\n[/list]\r\n\r\n[h1]================ Component Changes =================[/h1]\r\n\r\n[h2] GravityController [/h2]\r\n[list]\r\n    [*] [b]GravityController.applyImpulse( impulse, worldSpace, offset )[/b] – Applies an impulse to the object.\r\n    [*] [b]GravityController.applyTorque( torque, worldSpace )[/b] – Applies torque to the object.\r\n    [*] [b]GravityController.getWorldGravity()[/b] – Returns the current world gravity.\r\n    [*] [b]GravityController.getCenterOfMass( wholeCreation )[/b] – Returns the center of mass of the object. If [b]wholeCreation[/b] is [b]true[/b], returns the average center of mass for all connected bodies.\r\n[/list]\r\n\r\n[h2] Motor [/h2]\r\n[list]\r\n    [*] [b]Motor.getCurrentLength()[/b] – Returns the current piston length (only one piston can be connected).\r\n    [*] [b]Motor.getBearingsData()[/b] – Returns bearings data (angle, angularVelocity, appliedImpulse, isReversed).\r\n    [*] [b]Motor.getPistonsData()[/b] – Returns pistons data (length).\r\n[/list]\r\n\r\n[h2] Radar [/h2]\r\n[list]\r\n    [*] The max radar scan angles has been increased from 90 to 180 degrees.\r\n[/list]\r\n\r\nFeel free to share your ideas and suggestions in the comments!\r\n",
 		"fileId": 3447220010,
 		"localId": "597a09af-7ff2-4f87-96cd-3039df2c5d73",
 		"name": "ScrapComputers Extended",
@@ -43981,5 +43981,25 @@
 		"name": "minecraft castle",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"c6224e18-e0dc-4004-9d41-b0f086e3c8ae": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 3519335108,
+		"localId": "c6224e18-e0dc-4004-9d41-b0f086e3c8ae",
+		"name": "Протектор",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a9d83131-c0f9-4373-aa4b-b2e4604b6f93": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Don't expect much. Mostly playing around with some basic things, maybe some will be useful to you.",
+		"fileId": 3519484896,
+		"localId": "a9d83131-c0f9-4373-aa4b-b2e4604b6f93",
+		"name": "DHLabs' basic blocks and parts mod",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
