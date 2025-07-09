@@ -35587,7 +35587,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "[h1]☻The modpack is funny☻[/h1]\n\nThis mod includes many elements: from decorative images and polygons to modified wheels that have all the functions of a gas engine and tools. In addition, there is a mechanic in the mod, presented in the form of an NPC character.\n\n[h1]Crafting Recipes[/h1]\n[code]There are crafting recipes for custom game.[/code]\n[h1]Languages[/h1]\n[code]- Russian\n- English\n- Chinese[/code]\n[h1]Updates[/h1]\n[code]All updates can be found in the top \"Updates\" tab.[/code]\n[h1]Images[/h1]\n[code]All images are made with maximum graphics settings.[/code]\n[h1]Tags[/h1] [code]Wheels, mechanic, blocks, interactive parts, ball, scrap, polygons, farmer, old bots, springs, bombs, guns, flags, paintings, lenses, villas, cage, wings, ladder, propeller, robot parts. [/code]",
+		"description": "[h1]🪆Модпак забавный😃[/h1]\r\n\r\nЭтот мод включает множество элементов: от декоративных изображений и полигонов до модифицированных колёс, которые обладают всеми функциями газового двигателя и инструментов. Кроме того, в моде есть механик, представленный в виде NPC-персонажа.\r\n\r\n[h1]🗒Рецепты крафтов[/h1]\r\n[code]Есть рецепты крафтов для custom game.[/code]\r\n[h1]🌐\u200dЯзыки[/h1]\r\n[code]- Русский\r\n- Английский\r\n- Китайский[/code]\r\n[h1]🛠Обновления[/h1]\r\n[code]Все обновления можно найти в верхней вкладке «Обновления».[/code]\r\n[h1]🖼Изображения[/h1]\r\n[code]Все изображения сделаны с максимальными настройками графики.[/code]\r\n[h1]🔖Теги[/h1] [code]Колёса, механик, блоки, интерактивные детали, мяч, лом, полигоны, фермер, старые боты, пружины, бомбы, пушки, флаги, картины, линзы, виллы, клетка, крылья, лестница, пропеллер, детали роботов. [/code]",
 		"fileId": 3049604044,
 		"localId": "3a8d7f21-c853-48ec-b916-f055cb403cd1",
 		"name": "The Modpack is Funny",
@@ -35694,7 +35694,7 @@
 	"53976b51-7e17-446b-a2a7-b31143175766": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Just Strange and Absurd Weapons\n\nWeapons:\n-Tree\n-Traffic Sign\n-Cranehammer\n-Magic Book\n-Saw-Sword\n-Blasthammer\n\nNew Weapons Soon!\n\n\n##AlHiMiK GFYS##\n\nDiscord: https://discord.gg/TJePhfsgzR",
+		"description": "Just Strange and Absurd Weapons\n\nWeapons:\n-Tree\n-Traffic Sign\n-Cranehammer\n-Magic Book\n-Saw-Sword\n-Blasthammer\n\nTools:\n-JunkScope™\n\nNew Weapons Soon!\n\n\nK GFYSord: https://discord.gg/TJePhfsgzR",
 		"fileId": 3059132456,
 		"localId": "53976b51-7e17-446b-a2a7-b31143175766",
 		"name": "Romytrix's Weapons Pack",
@@ -42221,7 +42221,7 @@
 	"3abf4d17-11cd-4d4d-b410-b4c61b400bac": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Add more parts and blocks for game. Its very cool!",
+		"description": "Add more parts and blocks for game. Its very cool!\nNew tool : Ak-12 with model\n",
 		"fileId": 3424845976,
 		"localId": "3abf4d17-11cd-4d4d-b410-b4c61b400bac",
 		"name": "++ GameBlocks",
@@ -43905,7 +43905,7 @@
 				"name": "++ GameBlocks"
 			}
 		],
-		"description": "This mod doesn't have a description",
+		"description": "This mod add new crafts for ++ GameBlocks mod!",
 		"fileId": 3510014126,
 		"localId": "5ab43a9a-a61e-489c-831d-f45632843d11",
 		"name": "MoreCraft++",
@@ -44010,6 +44010,16 @@
 		"fileId": 3507191998,
 		"localId": "c2ca49ea-1a09-449a-908b-418eadfb5b9f",
 		"name": "test",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1dd56023-54ac-4c58-812b-0337e64077eb": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Car parts including Chevrolet S10 body and wheels and more",
+		"fileId": 3520349366,
+		"localId": "1dd56023-54ac-4c58-812b-0337e64077eb",
+		"name": "Scooter's Car Part's",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
