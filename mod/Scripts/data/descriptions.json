@@ -42221,7 +42221,7 @@
 	"3abf4d17-11cd-4d4d-b410-b4c61b400bac": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Add more parts and blocks for game. Its very cool!\nNew tool : Ak-12 with model\n",
+		"description": "Add more parts and blocks for game. Its very cool!\r\nNew tool : Ak-12 with model\r\n",
 		"fileId": 3424845976,
 		"localId": "3abf4d17-11cd-4d4d-b410-b4c61b400bac",
 		"name": "++ GameBlocks",
