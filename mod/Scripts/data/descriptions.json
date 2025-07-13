@@ -13304,8 +13304,9 @@
 	},
 	"40c2432d-fab9-44a1-a3d0-53cf0bf8a780": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "This mod adds custom Tools/Parts I made to the game.\n\nTools\n-Velocity Gun\n-Rapid Fire Gatling Gun\n-Crit Shotgun\nNEW-Tape Gun\n\nParts\n-Beacon Screw\n-Beacon Screw (Breakable)\n-No Screw\n-GlowBOOM\nNEW-Gravity Scew\nNEW-Camera Screw\nNEW-Fly Screw\n\nmore Tools and Parts to come.",
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "This mod adds custom tools I made to the game. Version 5\n\nV4 [Clean up update skipped] TLDR Updated everything.\n\nTools:\n-Velocity gun\n-Rapid fire gatling\n-Crit gun\n-Tape gun\n-Liquid gun\n\nParts:\n-Beacon Screw\n-Beacon Screw(Breakable)\n-No Screw\n-GlowBoom\n-Gravity Generator - [Replaced : Gravity Screw]\n-Camera Screw\n-SwimStick - [Replaced : Fly Screw]\n-Paint Tool [New]\n-World Cleaner [New]\n-Gunpowder [New]\n-Chest wardrobe [New]\n\nHas not been tested in multiplayer.\nBy kaiplayz22\n",
 		"fileId": 2818701598,
 		"localId": "40c2432d-fab9-44a1-a3d0-53cf0bf8a780",
 		"name": "Kai's Tools Mod",
@@ -44062,6 +44063,16 @@
 		"fileId": 3494491426,
 		"localId": "a946e910-57fb-41c9-ba5c-5c4e4ade8481",
 		"name": "CLICK THIS MOD IF YOU SEE IT, READ DESCRIPTION - Mod recommendation test B",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"35c147a0-48df-445c-957c-e3cd4867276d": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod is under active development and will be updated soon!\n\nCurrently, the mod features:\n+ Anti-spam protection – prevents duplicate lifts and improves server stability.\n+ Persistent selected body – keep your creation on the lift even if you unequip it without losing selection.\n+ No sprint block – you can sprint while holding a selected body.\n\nWhat is planned:\n* More QoL improvements.\n* More configurable(Via chat comands or GUI).",
+		"fileId": 3524153924,
+		"localId": "35c147a0-48df-445c-957c-e3cd4867276d",
+		"name": "Lift Overhaul",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
