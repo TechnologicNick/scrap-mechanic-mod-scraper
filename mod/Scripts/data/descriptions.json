@@ -43703,8 +43703,8 @@
 	"57d176fb-e1ab-46ed-8d96-1a7b80e199ac": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "A plate with low collision on the bottom, good for hiding gears and other machnine internals within a case.",
-		"fileId": 3497934720,
+		"description": "A plate with collision only in the middle, good for hiding gears and other machnine internals within a case.",
+		"fileId": 3525652733,
 		"localId": "57d176fb-e1ab-46ed-8d96-1a7b80e199ac",
 		"name": "Low Collision Plate",
 		"type": "Blocks and Parts",
@@ -43881,7 +43881,7 @@
 				"name": "ModDatabase"
 			}
 		],
-		"description": "Features:\r\n- Wedges\r\n- More blocks\r\n- Large number of crafts\r\n- Support for custom recipes\r\n- Block stacks increased to 512. Also a few other items\r\n- Pipes are no longer just decor!\r\n- Large fuel tank (it is possible to connect to pipes)\r\n- Energy Generator (can be connected to pipes)\r\n- Large engine (can be connected to the pipes)\r\n- Also different liquid containers (can be connected to the pipes).\r\n- More items for storage\r\n- Small changes in vanilla recipes\r\n- Accelerated resource purification\r\n- Multiplication in Refinery\r\n- Crafting speed increased\r\n- Roadside structures are not useless(Now you can open the crates in the houses and there will be loot.)\r\n",
+		"description": "Features:\n- Wedges\n- More blocks\n- Large number of crafts\n- Support for custom recipes\n- Block stacks increased to 512. Also a few other items\n- Pipes are no longer just decor!\n- Large fuel tank (it is possible to connect to pipes)\n- Energy Generator (can be connected to pipes)\n- Large engine (can be connected to the pipes)\n- Also different liquid containers (can be connected to the pipes).\n- More items for storage\n- Small changes in vanilla recipes\n- Accelerated resource purification\n- Multiplication in Refinery\n- Crafting speed increased\n- Roadside structures are not useless(Now you can open the crates in the houses and there will be loot.)\n- Portable Workbench (work with custom mod recipe)\n",
 		"fileId": 3509195414,
 		"localId": "5b6999c4-be6f-4d5b-9cd1-48499a22cf32",
 		"name": "Free Survival",
@@ -44039,7 +44039,7 @@
 	"cc074c82-c93d-411e-9890-3486ad61d1fe": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod add chat commands.\r\nAll comands will bi start with /c(capatability for another mods)\r\n\r\nList of comans:\r\n\r\n/c.limited - toggle limited inventory\r\n/c.dress - open character customization gui\r\n/c.tumble - toggle tumbling\r\n/c.down - toggle down\r\n/c.dive - toggle diving\r\n/c.swim - toggle swiming\r\n/c.climb - toggle climbing\r\n\r\ntest comands:\r\n/c.server [message] - draw chast message for server\r\n/c.client [message] - draw chat message for client\r\n",
+		"description": "Mod adds advanced chat commands to control world settings, player states, and debugging directly in Scrap Mechanic.\r\n\r\nAll commands start with /c. for compatibility with other mods.\r\nFeatures:\r\n<Toggle game states:\r\n<<Limited inventory: /c.limited\r\n<<Restrictions: /c.restricted\r\n<<Upgrades: /c.upgrades\r\n<<Enemy aggro: /c.aggro\r\n<<Fuel consumption: /c.fuelcons\r\n<<Ammo consumption: /c.ammocons\r\n\r\n<Control environment:\r\n<<World gravity: /c.gravity [value]\r\n<<Time of day: (may not work)/c.time [value]\r\n\r\n<Player control:\r\n<</c.player [player id/self] [hp/food/water] [value]\r\n<<Ragdoll: /c.tumble [player id/self/deny] [true/false]\r\n<<Death: /c.down [player id/self/deny] [true/false]\r\n<<Diving: /c.dive [player id/self/deny] [true/false]\r\n<<Swiming: /c.swim\r\n\r\n<GUI utilities:\r\n<<Open character customization: /c.dress\r\n<<Rangefinder HUD control:\r\n<<</c.gui range true (enable)\r\n<<</c.gui range false (disable)\r\n<<</c.gui range [distance] (set max distance)\r\n\r\n<Additional details\r\n<<Deny system allows blocking tumble, down, or dive states for all players when enabled.\r\n<<Saves settings persistently using Scrap Mechanic’s storage system.\r\n<<GUI overlays.\r\n<<Supports remote control of player stats and world physics.",
 		"fileId": 3521869729,
 		"localId": "cc074c82-c93d-411e-9890-3486ad61d1fe",
 		"name": "SMConsolas",
@@ -44086,10 +44086,27 @@
 				"name": "SComputers [Fork]"
 			}
 		],
-		"description": "Adds more disk and ROM disk variations",
+		"description": "Adds more disks variations",
 		"fileId": 3525123410,
 		"localId": "e9f688e9-49c4-4d1d-bd37-e14984875410",
 		"name": "More Disks [SComputers addon]",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d18ecab6-3fa7-405d-a99a-9844d50198eb": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2949350596,
+				"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
+				"name": "SComputers [Fork]"
+			}
+		],
+		"description": "these disks do not store data in a block, but in the BetterFS directory using betterAPI\nrequires a betterAPI version of at least 59",
+		"fileId": 3525929600,
+		"localId": "d18ecab6-3fa7-405d-a99a-9844d50198eb",
+		"name": "better disks [SComputers addon]",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
