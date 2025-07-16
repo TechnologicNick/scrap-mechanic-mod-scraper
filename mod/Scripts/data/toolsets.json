@@ -6233,5 +6233,64 @@
 		]
 	},
 	"e9f688e9-49c4-4d1d-bd37-e14984875410": {},
-	"d18ecab6-3fa7-405d-a99a-9844d50198eb": {}
+	"d18ecab6-3fa7-405d-a99a-9844d50198eb": {},
+	"79457e23-6d54-46e0-b0bf-208f0887a1e4": {},
+	"bf494685-d177-4434-aca3-f87bfa9e0848": {
+		"$CONTENT_bf494685-d177-4434-aca3-f87bfa9e0848/Tools/Database/ToolSets/carry.toolset": [
+			"262aa73a-ca62-4d27-8c96-c3566352bd8a"
+		],
+		"$CONTENT_bf494685-d177-4434-aca3-f87bfa9e0848/Tools/Database/ToolSets/spudguns.toolset": [
+			"c5ea0c2f-185b-48d6-b4df-45c386a575cc",
+			"f6250bf4-9726-406f-a29a-945c06e460e5",
+			"9fde0601-c2ba-4c70-8d5c-2a7a9fdd122b"
+		],
+		"$CONTENT_bf494685-d177-4434-aca3-f87bfa9e0848/Tools/Database/ToolSets/tools_shared.toolset": [
+			"52c1d933-5ba0-47da-b107-477b6c211a5d",
+			"9506abb9-e415-4229-a824-28a479cca788"
+		],
+		"$CONTENT_bf494685-d177-4434-aca3-f87bfa9e0848/Tools/Database/ToolSets/tools.toolset": [
+			"bb641a4f-e391-441c-bc6d-0ae21a069476",
+			"8f190ce2-3a59-423e-8483-a7aa67bd5bc0",
+			"fa1b499e-c40e-4e55-9f73-27ae1cba6c15",
+			"f26a26bf-b9be-4e59-83e4-da2e9e6dd285",
+			"2bff990a-0e74-43c7-b7dc-889b3a086fa3",
+			"87cf94fa-a52a-47bd-8d62-47a2e10fe2af",
+			"3ef5412a-7044-45ae-9592-9ce86bd99081",
+			"59a3469c-d7cd-4784-aa5b-316749abc2b6",
+			"a6113860-f4d4-42df-b8f9-129efdbaf777"
+		],
+		"$CONTENT_bf494685-d177-4434-aca3-f87bfa9e0848/Tools/Database/ToolSets/fant_survival_weapons.toolset": [
+			"e15cdeec-02fb-4113-8626-c66dde3232b5",
+			"5120e4c9-c160-4434-87f4-c2313e2602c8",
+			"edeea470-6eda-40ef-95e6-5d37a10bade5",
+			"40bf4cb9-e857-44de-89b8-0a42de20ebd5",
+			"cadac9b3-8b3b-4b8e-a50a-f1f23f47a7fc",
+			"4bec43af-809c-4e01-a249-72ce8184f430",
+			"41936190-31bf-4cbd-93b4-8e7f2ac2f9c3",
+			"df1dacba-9905-4dce-aacc-16a1e3c2aef1",
+			"2dd19bf4-41e1-46b6-9166-dbd8c32a9b6d",
+			"b03b439f-fe9d-4068-a9e9-c7c28b45a0db",
+			"04474c14-4240-4729-becf-108680b42b76",
+			"c9d61b8a-b116-41d5-9f95-77a87e4fcff7",
+			"4f8c659e-924b-4475-a0e8-74b7db696333",
+			"0d886c8f-5ece-4860-a115-22d5ad339b44",
+			"7facaa00-bd55-492b-96b7-91481b010601",
+			"3ab3f216-f16d-40aa-b125-e54b0e9ae8eb",
+			"feae3463-75b7-463c-9de2-b5c341101e8a",
+			"1fd57b7b-168e-4209-b0e2-9285ff0ca0af",
+			"e5f0077b-05fa-4d41-904b-07c1651686dd",
+			"8ba1eb2a-4337-4ebc-94c9-24e54b1ae426",
+			"a41681d5-8c35-48d8-8939-8c9786e62391",
+			"162365dc-6a45-4c34-b30a-1562c9e3e024",
+			"d0458dad-8cee-44fb-af4a-ebbb4a64293a",
+			"46d6b26d-5536-4101-bab3-4af029075a87",
+			"130b3819-d704-465d-b544-7b8a5f5d27e7",
+			"9d22a51c-1a47-4d03-8ee0-8835e898af24",
+			"4a428601-d22c-49e3-9759-58533ad22875",
+			"72dd0e4b-6078-4a20-9a77-9736b30b3459",
+			"73578340-06d1-4e3b-9b66-1d817f7675f8",
+			"9d5f610b-0aec-4ead-8b03-14eb2ec1e876",
+			"a37ad687-30e4-405a-89b5-c12b2f3a2f02"
+		]
+	}
 }
