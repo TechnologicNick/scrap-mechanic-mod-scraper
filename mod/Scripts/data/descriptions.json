@@ -44146,5 +44146,42 @@
 		"name": "More Motors [SComputers addon]",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"d650be8a-fefb-4315-8478-40866733fe98": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Its a block. \nwhat else did you ask for? ",
+		"fileId": 3529991421,
+		"localId": "d650be8a-fefb-4315-8478-40866733fe98",
+		"name": "Anchor's",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6010da21-bc7d-4064-92e7-95278c7f6cab": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "survival adfgspiujasdfgpi",
+		"fileId": 3530143550,
+		"localId": "6010da21-bc7d-4064-92e7-95278c7f6cab",
+		"name": "survival",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"a5c02727-ad7b-4af0-8346-1c5fddf8d8bd": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2851449097,
+				"localId": "39531f1d-5df3-406d-a4bc-c08f5a74ea47",
+				"name": "Advanced Tools"
+			}
+		],
+		"description": "Upgrade Fant Gravity Gun\n\nNew functions:\nOut of Map — move creations outside the map\nBugger — bug your creation\nSpinner — spin your creation fast in all directions\nSpinner V2 — extremely fast spin your creation in all directions\nGet Out — throw an object away from you\nPinned — keep grabbing an object without the tool equipped\nSelf Select — grab yourself\nAuto — automatically grab everything in your line of sight",
+		"fileId": 3530231171,
+		"localId": "a5c02727-ad7b-4af0-8346-1c5fddf8d8bd",
+		"name": "Gravitygun++",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
