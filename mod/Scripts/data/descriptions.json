@@ -44220,5 +44220,22 @@
 		"name": "1×4负重轮（实际体积1×1） - 传奇",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"3f235ca6-ee7b-40c5-9600-b582e631f42e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3112853380,
+				"localId": "9eeba5e8-3910-487c-a0ae-d29dc1ca2c8c",
+				"name": "fnaf animatronic"
+			}
+		],
+		"description": "Not complete, this Alpha 0.1 Version, Working from Fnaf Animatronic and PVA.\n\n",
+		"fileId": 3531717446,
+		"localId": "3f235ca6-ee7b-40c5-9600-b582e631f42e",
+		"name": "(NOB) New Outfits Block (From PVA)",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
