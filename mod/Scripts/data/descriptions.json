@@ -43327,7 +43327,7 @@
 				"name": "better API [file mod]"
 			}
 		],
-		"description": "Adds in player name his ID\n\nHow to install?\n0.Install BetterAPI\n1.Sunscribe\n2.Browse (steam installation dir)\\steamapps\\worckshop\\content\\387990\\3478721832\n3.Move \"Release\" folder to SM installation dir\n4.Done!",
+		"description": "Adds in player name his ID\r\n\r\nHow to install?\r\n0.Install BetterAPI\r\n1.Sunscribe\r\n2.Browse (steam installation dir)\\steamapps\\worckshop\\content\\387990\\3478721832\r\n3.Move \"Release\" folder to SM installation dir\r\n4.Done!\r\n\r\n\r\nFixed some bugs...",
 		"fileId": 3478721832,
 		"localId": "0bbee21c-3ca1-4a46-908a-4e6fdcdba229",
 		"name": "Display player ID",
@@ -44197,7 +44197,7 @@
 	"61614003-d7a0-4194-9beb-140cb689333c": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "ScrapMechanic OLD STYLE",
+		"description": "Rus\r\nС начало нужно зайти по этому пути\r\nD(C):\\SteamLibrary\\steamapps\\workshop\\content\\387990\\3531057277\\ScrapMechanicaOldstyle\\Data\r\nСкопируйте папку Data и закиньте его по этому пути\r\nD(C):\\SteamLibrary\\steamapps\\common\\Scrap Mechanic\r\nИ вставьте туда папку \"Data\"\r\n\r\nENG\r\nFirst, navigate to this path:\r\nD(C):\\SteamLibrary\\steamapps\\workshop\\content\\387990\\3531057277\\ScrapMechanicaOldstyle\\Data\r\nCopy the \"Data\" folder and place it in this path:\r\nD(C):\\SteamLibrary\\steamapps\\common\\Scrap Mechanic\r\nThen paste the \"Data\" folder there.\r\n\r\nUKR\r\nСпочатку потрібно перейти за цим шляхом:\r\nD(C):\\SteamLibrary\\steamapps\\workshop\\content\\387990\\3531057277\\ScrapMechanicaOldstyle\\Data\r\nСкопіюйте папку Data і перенесіть її за цим шляхом:\r\nD(C):\\SteamLibrary\\steamapps\\common\\Scrap Mechanic\r\nПотім вставте туди папку Data.",
 		"fileId": 3531057277,
 		"localId": "61614003-d7a0-4194-9beb-140cb689333c",
 		"name": "ScrapMechanic OLD style",
