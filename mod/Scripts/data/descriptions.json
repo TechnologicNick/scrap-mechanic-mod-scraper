@@ -39317,7 +39317,13 @@
 	"1d30e24d-2246-4987-9ab3-ce9ba453f062": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "注意！！！\r\n这个模组与本体用的相同uuid，无法同时启动\r\n这是从我的徽标实验室分离出来的子模组，仅包含了自定义贴画工具\r\n但是自定义贴花是共享的啦",
+		"dependencies": [
+			{
+				"fileId": 2780758501,
+				"localId": "1c626c90-466c-47ec-8927-baf0fa1e7599"
+			}
+		],
+		"description": "注意！！！\n已弃用 Deprecated",
 		"fileId": 3292301413,
 		"localId": "1d30e24d-2246-4987-9ab3-ce9ba453f062",
 		"name": "Logo Mod 徽标模组",
