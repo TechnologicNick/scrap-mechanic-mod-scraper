@@ -43068,7 +43068,7 @@
 	"bb0c109e-b1f6-48ff-966a-23c78665bb5f": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This Mod adds alternative Crafting recipes to some mods that i use and that i think are to much of a reasonless grind. So i made them easier.\r\n\r\nYou can see the mods and its parts that this mod adds new or changed recipes in the changelog.\r\n\r\nFeel free to comment if you want your recipes added too.\r\n\r\n",
+		"description": "This Mod adds alternative Crafting recipes to some mods that i use and that i think are to much of a reasonless grind. So i made them easier.\r\n\r\nKnown Bug- Sometimes the game does not load the recipes, i am still trying to figure out why that is the case. Good Luck.\r\n\r\nYou can see the mods and its parts that this mod adds new or changed recipes in the changelog.\r\n\r\nFeel free to comment if you want your recipes added too.\r\n\r\n",
 		"fileId": 3467892327,
 		"localId": "bb0c109e-b1f6-48ff-966a-23c78665bb5f",
 		"name": "Eigene Crafting Rezepte",
@@ -44261,6 +44261,16 @@
 		"fileId": 3535333516,
 		"localId": "89bfd073-e937-410d-af01-0ff867f7c14b",
 		"name": "armor blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"32ab5e4c-306f-4fef-84e4-63f570a679c3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3535807848,
+		"localId": "32ab5e4c-306f-4fef-84e4-63f570a679c3",
+		"name": "Radio FM",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

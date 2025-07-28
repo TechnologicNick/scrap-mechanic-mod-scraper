@@ -1373,6 +1373,21 @@
 	"0f8af637-5772-4f06-acc3-712d1042cbcb": {
 		"$CONTENT_0f8af637-5772-4f06-acc3-712d1042cbcb/Characters/Database/CharacterSets/example.characterset": [
 			"7c9c3567-1a14-4afa-abe5-d4bebc93011b"
+		],
+		"$CONTENT_0f8af637-5772-4f06-acc3-712d1042cbcb/Characters/Database/CharacterSets/robots.json": [
+			"04761b4a-a83e-4736-b565-120bc776edb2",
+			"9dbbd2fb-7726-4e8f-8eb4-0dab228a561d",
+			"fcb2e8ce-ca94-45e4-a54b-b5acc156170b",
+			"68d3b2f3-ed4b-4967-9d22-8ee6f555df63",
+			"c3d31c47-0c9b-4b07-9bd4-8f022dc4333e",
+			"8984bdbf-521e-4eed-b3c4-2b5e287eb879",
+			"c8bfb8f3-7efc-49ac-875a-eb85ac0614db",
+			"9f4fde94-312f-4417-b13b-84029c5d6b52",
+			"dc0d0439-847c-43d2-9afc-e7887b36cedf",
+			"8839787f-a9f0-4fad-9034-1d3423657cb4",
+			"11e284e4-fb32-47ff-b45c-e8f8fd68d0ab",
+			"14e402fb-58f7-4667-a8be-cf17a8b50da9",
+			"506a2b95-9c34-4b76-b366-75eb6e0de243"
 		]
 	},
 	"2f263656-b092-403a-a818-bd5654996069": {},

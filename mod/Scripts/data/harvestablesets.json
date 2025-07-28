@@ -2971,7 +2971,53 @@
 		"$CONTENT_d810c62f-ff0c-44f9-9168-a3f27475c81a/Harvestables/Database/HarvestableSets/example.harvestableset": []
 	},
 	"0f8af637-5772-4f06-acc3-712d1042cbcb": {
-		"$CONTENT_0f8af637-5772-4f06-acc3-712d1042cbcb/Harvestables/Database/HarvestableSets/example.harvestableset": []
+		"$CONTENT_0f8af637-5772-4f06-acc3-712d1042cbcb/Harvestables/Database/HarvestableSets/hvs_burntforest.json": [
+			"9ef210c0-ea30-4442-a1fe-924b5609b0cc",
+			"2bae67d4-c8ef-4c6e-a1a7-42281d0b7489",
+			"8f7a8108-2712-47b3-bce2-f25315165094",
+			"515aed88-0594-42b6-a352-617e5f5a3e45",
+			"2d5aa53d-eb9c-478c-a70f-c57a43753814",
+			"c08b553a-a917-4e26-bbb6-7b8523789cad",
+			"d3fcfc06-a6b6-4598-99b1-9a6445b976b3",
+			"b5f90719-fbca-4c59-89c3-187cdb5553d4"
+		],
+		"$CONTENT_0f8af637-5772-4f06-acc3-712d1042cbcb/Harvestables/Database/HarvestableSets/hvs_farmables.json": [
+			"7261bb49-9c63-4097-999a-4dcab9645eb0",
+			"046a8ac8-300b-4e52-91f7-0912d53b2955",
+			"c591d94b-d7d1-4305-a9dd-76ef06d6fb49",
+			"39a5aeba-a021-4117-8cad-e08ad159281d",
+			"2ab8edca-9cfe-4b1c-9f57-5092f94ea890",
+			"f7567939-d170-437e-b5c4-352ee9d5850d"
+		],
+		"$CONTENT_0f8af637-5772-4f06-acc3-712d1042cbcb/Harvestables/Database/HarvestableSets/hvs_loot.json": [
+			"b8eb68ca-25a0-47aa-8745-12f2dd13d873",
+			"a6b9fa26-df80-4f5b-9679-418f4567e5ca"
+		],
+		"$CONTENT_0f8af637-5772-4f06-acc3-712d1042cbcb/Harvestables/Database/HarvestableSets/hvs_stones.json": [
+			"0d3362ae-4cb3-42ae-8a08-d3f9ed79e274",
+			"f6b8e9b8-5592-46b6-acf9-86123bf630a9",
+			"60ad4b7f-a7ef-4944-8a87-0844e6305513",
+			"ab5b947e-a223-4842-83dd-aa6b23ac2b86",
+			"5da6c862-8a5c-4b56-90d3-5f038d569c4a",
+			"90e0ef6a-8409-4459-8926-e5351d7da611",
+			"ab362045-0444-4749-9f24-f5e850162857",
+			"63fb92b3-e1dc-4b5c-9ed3-7b572bc01ca4",
+			"67111401-1ee1-4bfb-8780-fa878352f90d"
+		],
+		"$CONTENT_0f8af637-5772-4f06-acc3-712d1042cbcb/Harvestables/Database/HarvestableSets/hvs_trees.json": [
+			"c4ea19d3-2469-4059-9f13-3ddb4f7e0b79",
+			"711c3e72-7ba1-4424-ae70-c13d23afe818",
+			"a7aa52af-4276-4b2d-af44-36bc41864e04",
+			"91ec04ea-9bf7-4a9d-bb7f-3d0125ff78c7",
+			"4d482999-98b7-4023-a149-d47be709b8f7",
+			"3db0a60d-8668-4c8a-8dd2-f5ceb294977e",
+			"8411caba-63db-4b93-ad67-7ae8e350d360",
+			"1cb503a4-9306-412f-9e13-371bc634af60",
+			"fa864e51-67db-4ac9-823b-cfbdf523375d",
+			"73f968f0-d3a3-4334-86a8-a90203a3a56d",
+			"86324c5b-e97a-41f6-aa2c-7c6462f1f2e7",
+			"27aa53ea-1e09-4251-a284-437f93850409"
+		]
 	},
 	"2f263656-b092-403a-a818-bd5654996069": {},
 	"343af476-0bca-4ab9-9b90-e3a6df720d70": {
