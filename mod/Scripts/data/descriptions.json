@@ -41612,7 +41612,14 @@
 	"5b9e782f-bd9d-461f-9168-340f80250a1a": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "MT-RandomThings\nby: MaxTechnik\n\n\nStill alpha!",
+		"dependencies": [
+			{
+				"fileId": 3405509759,
+				"localId": "83f0303a-9437-4dee-a42a-fcdfcab30ca2",
+				"name": "MT-Pipes"
+			}
+		],
+		"description": "MT-RandomThings\nby: MaxTechnik\n\nThis mod adds random things that probably won't make sense to you. Because it's just for me to play with my friends. So if you want to download it, I probably don't care.\n\nStill alpha!\n",
 		"fileId": 3406902793,
 		"localId": "5b9e782f-bd9d-461f-9168-340f80250a1a",
 		"name": "MT-RandomThings",
@@ -44271,6 +44278,33 @@
 		"fileId": 3535807848,
 		"localId": "32ab5e4c-306f-4fef-84e4-63f570a679c3",
 		"name": "Radio FM",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"3dae8981-804e-4334-b80e-531031ef6d85": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2949350596,
+				"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
+				"name": "SComputers [Fork]"
+			}
+		],
+		"description": "Adds commands to the motor code to control individual bearings",
+		"fileId": 3536520177,
+		"localId": "3dae8981-804e-4334-b80e-531031ef6d85",
+		"name": "Better Motor Control [SComputers]",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"c2e9f4a9-c33b-4499-aee6-9b3dd68594de": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Mod adding all Survival Shapes in Creative World",
+		"fileId": 3536560094,
+		"localId": "c2e9f4a9-c33b-4499-aee6-9b3dd68594de",
+		"name": "All Survival Shapes in Creative",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
