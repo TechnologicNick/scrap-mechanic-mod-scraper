@@ -44307,5 +44307,27 @@
 		"name": "All Survival Shapes in Creative",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"54f4eddf-88f3-4797-99b7-425ec5226b2e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3407578766,
+				"localId": "bbf2cac0-76bf-4aec-b9b2-3bbdd9e0cc63",
+				"name": "Minerbot"
+			},
+			{
+				"fileId": 3411039670,
+				"localId": "ab44c899-76f8-4052-a0d6-4168d44a3eaf",
+				"name": "Cablebot"
+			}
+		],
+		"description": "this is a non complete custom game \n\n\nim using a noiro mod go check out his mod and creation https://steamcommunity.com/id/Noiro1/",
+		"fileId": 3538695168,
+		"localId": "54f4eddf-88f3-4797-99b7-425ec5226b2e",
+		"name": "the other planet",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
