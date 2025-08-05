@@ -44359,5 +44359,35 @@
 		"name": "Portal Radio - High Quality",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"396e4daf-f150-4e0a-9567-8b22929c6f25": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Mod that adds customizeble time cycle. There is no english translation for gui, only russian.",
+		"fileId": 3541976676,
+		"localId": "396e4daf-f150-4e0a-9567-8b22929c6f25",
+		"name": "Time Cycle Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"256f49fa-ec85-4cbd-a4c9-af256f0b1f13": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3542179475,
+		"localId": "256f49fa-ec85-4cbd-a4c9-af256f0b1f13",
+		"name": "Portal Radio - Low Quality",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"eaaba16d-5da4-4091-9591-4323b7720ec2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod is my NEW official mod for Train Parts!",
+		"fileId": 3542241591,
+		"localId": "eaaba16d-5da4-4091-9591-4323b7720ec2",
+		"name": "Train Parts by Trembusek",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
