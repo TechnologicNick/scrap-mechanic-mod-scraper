@@ -6432,5 +6432,8 @@
 			"a37ad687-30e4-405a-89b5-c12b2f3a2f02"
 		]
 	},
-	"9caa9ed9-0869-4bd7-8156-c85d9749c1af": {}
+	"9caa9ed9-0869-4bd7-8156-c85d9749c1af": {},
+	"65f223ae-86d6-4289-b954-a8cf267cdc9d": {
+		"$CONTENT_65f223ae-86d6-4289-b954-a8cf267cdc9d/Tools/Database/ToolSets/example.toolset": []
+	}
 }
