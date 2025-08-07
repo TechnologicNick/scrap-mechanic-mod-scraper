@@ -6436,5 +6436,9 @@
 	"65f223ae-86d6-4289-b954-a8cf267cdc9d": {
 		"$CONTENT_65f223ae-86d6-4289-b954-a8cf267cdc9d/Tools/Database/ToolSets/example.toolset": []
 	},
-	"ca563df4-c121-44ba-9d48-d7afc8c8e2b6": {}
+	"ca563df4-c121-44ba-9d48-d7afc8c8e2b6": {},
+	"121009ca-9b52-4fe1-a52a-5a541e1d7bdd": {
+		"$CONTENT_121009ca-9b52-4fe1-a52a-5a541e1d7bdd/Tools/Database/ToolSets/example.toolset": []
+	},
+	"47b645b3-6c4a-42e6-9784-ac62dd30b68e": {}
 }
