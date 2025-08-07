@@ -131,7 +131,7 @@ function ModDatabase.isModLoaded(localId)
             local uuid = sm.uuid.new(shapeUuid)
 
             -- Check if a shape is loaded
-            if sm.item.isBlock(uuid) or sm.item.isPart(uuid) or sm.item.isJoint(uuid) then
+            if sm.shape.uuidExists(uuid) then
 
                 -- Some mods use UUIDs of the game and the previous check will always return true on them.
                 -- This checks if the mod is installed by trying to read the part's shapeset file.
