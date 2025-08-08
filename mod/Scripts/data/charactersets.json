@@ -1244,7 +1244,10 @@
 		]
 	},
 	"7b5bbb31-320a-47ff-acfd-11fe96095a7d": {
-		"$CONTENT_7b5bbb31-320a-47ff-acfd-11fe96095a7d/Characters/Database/CharacterSets/example.characterset": []
+		"$CONTENT_7b5bbb31-320a-47ff-acfd-11fe96095a7d/Characters/Database/CharacterSets/animals.characterset": [
+			"264a563a-e304-430f-a462-9963c77624e9",
+			"48c03f69-3ec8-454c-8d1a-fa09083363b1"
+		]
 	},
 	"15108a18-c15f-418f-930b-936255857d84": {
 		"$CONTENT_15108a18-c15f-418f-930b-936255857d84/Characters/Database/CharacterSets/example.characterset": []
