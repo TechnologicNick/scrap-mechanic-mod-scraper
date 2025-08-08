@@ -14881,7 +14881,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": [],
-		"description": "I are you afraid of the dark? you may want some glowsticks.\n\nseems there was a blackout, I'm sure it's fine\n\nnew spud gun with light(craftable)\n\n(It has a long load time)\n\nplease check comments for your Questions and then ask them if there's not an answer",
+		"description": "I are you afraid of the dark? you may want some glowsticks.\n\nseems there was a blackout, I'm sure it's fine\n\nnew spud gun with light(craftable)*fixed visuals\na new sky command (/sky) to make the sky black/blockout the grey sky(and saves its setting acrossed exiting & reentering the game)\n\n(It has a long load time)\n\nplease check comments for your Questions and then ask them if there's not an answer",
 		"fileId": 2812330833,
 		"localId": "7ac05a15-f6ef-4ce6-9968-044c42a4db33",
 		"name": "Dark Mechanic",
@@ -44477,6 +44477,16 @@
 		"fileId": 3544061143,
 		"localId": "0de83c08-35cc-4527-8fdc-1399446e4a6b",
 		"name": "MT-CZmechanic",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"abdb8241-cce2-4931-a180-39343fd574cc": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "its hihi-haha( (: ) mod",
+		"fileId": 3544578628,
+		"localId": "abdb8241-cce2-4931-a180-39343fd574cc",
+		"name": "Hollow mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
