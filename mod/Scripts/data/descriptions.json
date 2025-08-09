@@ -13306,7 +13306,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "This mod adds custom tools I made to the game. Version 5.02\n\nUpdate 5.02 : Previous update broke GravGen\n\nTools:\n-Velocity gun\n-Rapid fire gatling\n-Crit gun\n-Tape gun\n-Liquid gun\n\nParts:\n-Beacon Screw\n-Beacon Screw(Breakable)\n-No Screw\n-GlowBoom\n-Gravity Generator - [Replaced : Gravity Screw]\n-Camera Screw\n-SwimStick - [Replaced : Fly Screw]\n-Paint Tool [New]\n-World Cleaner [New]\n-Gunpowder [New]\n-Chest wardrobe [New]\n\nHas not been tested in multiplayer.\nBy kaiplayz22\n",
+		"description": "This mod adds custom tools I made to the game. Version 5.03\n\nUpdate 5.03 : Im pretty sure the World cleaner is now host locked.\n\nTools:\n-Velocity gun\n-Rapid fire gatling\n-Crit gun\n-Tape gun\n-Liquid gun\n\nParts:\n-Beacon Screw\n-Beacon Screw(Breakable)\n-No Screw\n-GlowBoom\n-Gravity Generator : [Replaced : Gravity Screw]\n-Camera Screw\n-SwimStick : [Replaced : Fly Screw]\n-Paint Tool : [New]\n-World Cleaner : [New]\n-Gunpowder : [New]\n-Chest wardrobe : [New]\n\nCrafting Recipes for select tools : [Beacons and GlowBOOM]\n\nHas not been tested in multiplayer.\nBy kaiplayz22\n",
 		"fileId": 2818701598,
 		"localId": "40c2432d-fab9-44a1-a3d0-53cf0bf8a780",
 		"name": "Kai's Tools Mod",
@@ -37103,7 +37103,7 @@
 	"1f64255d-5ecb-4537-8ed8-e3d0a3fa1f60": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h2]This Mod Adds:[/h2]\r\n[list]\r\n   [*] Crane Wheel. (Use The New In Game Crane Wheel Part!)\r\n   [*] Frictionless Crane Wheel\r\n   [*] High Friction Crane Wheel\r\n   [*] The Modpack: 1×1 Wheel\r\n   [*] The Modpack: 2×1 Wheel\r\n[/list]\r\n\r\n[u]You can use these as a train wheel, or as a roller part.[/u]\r\n\r\n[i]Tags: crane wheel friction train mod monorail friction less part the modpack wheel[/i]",
+		"description": "[h2]This Mod Adds:[/h2]\r\n[list]\r\n   [*] A Crane Wheel (Use The New In Game Crane Wheel Part!)\r\n   [*] Frictionless Crane Wheel\r\n   [*] High Friction Crane Wheel\r\n   [*] The Modpack: 1×1 Wheel\r\n   [*] The Modpack: 2×1 Wheel\r\n[/list]\r\n\r\n[u]You can use these as a train wheel, or as a roller part.[/u]\r\n\r\n[i]Tags: crane wheel friction train mod monorail friction less part the modpack wheel[/i]",
 		"fileId": 3148341486,
 		"localId": "1f64255d-5ecb-4537-8ed8-e3d0a3fa1f60",
 		"name": "Modded Frictionless Crane Wheels",
