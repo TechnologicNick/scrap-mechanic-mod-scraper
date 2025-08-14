@@ -44535,5 +44535,15 @@
 		"name": "ACG Figure",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"54505a48-fa67-4565-a434-2f276f7b5832": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3505156503,
+		"localId": "54505a48-fa67-4565-a434-2f276f7b5832",
+		"name": "Modular Accumulators",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
