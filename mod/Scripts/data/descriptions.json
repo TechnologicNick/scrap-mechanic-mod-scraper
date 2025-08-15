@@ -39463,7 +39463,7 @@
 	},
 	"bf031590-df19-456b-8c9c-e079c27d282b": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"dependencies": [
 			{
 				"fileId": 3309460746,

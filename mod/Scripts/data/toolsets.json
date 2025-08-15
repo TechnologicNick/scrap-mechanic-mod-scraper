@@ -4925,7 +4925,9 @@
 		]
 	},
 	"bf031590-df19-456b-8c9c-e079c27d282b": {
-		"$CONTENT_bf031590-df19-456b-8c9c-e079c27d282b/Tools/Database/ToolSets/Neon.toolset": []
+		"$CONTENT_bf031590-df19-456b-8c9c-e079c27d282b/Tools/Database/ToolSets/Neon.toolset": [
+			"d41d2d97-8810-4cec-8233-3aaa0782e3b6"
+		]
 	},
 	"f1d1fde6-9af9-437e-8086-bd6a987b00d7": {
 		"$CONTENT_f1d1fde6-9af9-437e-8086-bd6a987b00d7/Tools/Database/ToolSets/tools.toolset": [
