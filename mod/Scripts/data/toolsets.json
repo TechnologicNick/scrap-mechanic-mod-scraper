@@ -4244,7 +4244,11 @@
 	"ccad80d4-e3c0-4a0f-9ff1-3e552783c062": {},
 	"e92bfa4c-9954-4d29-85b2-17d8cde52a8c": {},
 	"f3999a70-6b44-406e-a086-eefa8f3c4938": {},
-	"909070aa-088c-446c-8b1c-dfcf0c529ed4": {},
+	"909070aa-088c-446c-8b1c-dfcf0c529ed4": {
+		"$CONTENT_909070aa-088c-446c-8b1c-dfcf0c529ed4/Tools/Database/ToolSets/Tools.toolset": [
+			"0d2295a8-0329-4814-92e7-4fe677f12db7"
+		]
+	},
 	"ba19d63e-bd98-4a48-b235-91e10de6cd50": {},
 	"f51045bd-3f94-476a-8053-55ba172d19a5": {
 		"$CONTENT_f51045bd-3f94-476a-8053-55ba172d19a5/Tools/Database/ToolSets/tools.toolset": [
