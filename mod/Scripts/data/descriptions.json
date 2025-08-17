@@ -44555,5 +44555,15 @@
 		"name": "ATOM Super",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"4ccd6ae5-e984-4761-88da-36101b5bceb1": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds Tumble Tubes that allow for player movement using the ragdoll / tumbling system.",
+		"fileId": 3550266018,
+		"localId": "4ccd6ae5-e984-4761-88da-36101b5bceb1",
+		"name": "Tumble Tubes",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
