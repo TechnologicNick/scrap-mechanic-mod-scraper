@@ -44565,5 +44565,15 @@
 		"name": "Tumble Tubes",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"89f313d8-3ebd-47d3-af21-539e2a65ae53": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3548224995,
+		"localId": "89f313d8-3ebd-47d3-af21-539e2a65ae53",
+		"name": "Custom-Additions",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
