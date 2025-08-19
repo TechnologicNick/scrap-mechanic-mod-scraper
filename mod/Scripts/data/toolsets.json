@@ -6055,6 +6055,11 @@
 	"0f8af637-5772-4f06-acc3-712d1042cbcb": {
 		"$CONTENT_0f8af637-5772-4f06-acc3-712d1042cbcb/Tools/Database/ToolSets/example.toolset": [
 			"a6113860-f4d4-42df-b8f9-129efdbaf777"
+		],
+		"$CONTENT_0f8af637-5772-4f06-acc3-712d1042cbcb/Tools/Database/ToolSets/spudguns.json": [
+			"c5ea0c2f-185b-48d6-b4df-45c386a575cc",
+			"f6250bf4-9726-406f-a29a-945c06e460e5",
+			"9fde0601-c2ba-4c70-8d5c-2a7a9fdd122b"
 		]
 	},
 	"1cfa5ff7-1a31-4f3d-ab92-b39af8641945": {},
