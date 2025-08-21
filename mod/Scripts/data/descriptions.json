@@ -33295,7 +33295,7 @@
 				"name": "Player Teleporter"
 			},
 			{
-				"fileId": 2844836154,
+				"fileId": 3340222404,
 				"localId": "61dfaa2e-041d-4e6b-82a1-54185a7d0cfe",
 				"name": "Better Lift"
 			},
@@ -33318,11 +33318,6 @@
 				"fileId": 3290334190,
 				"localId": "35bd8b52-4dcf-40b5-9b22-dad88a750e23",
 				"name": "raw block editor [BETA]"
-			},
-			{
-				"fileId": 3262102035,
-				"localId": "14715865-97ee-4537-9568-14cfde34ebb0",
-				"name": "Pre Survival Parts"
 			}
 		],
 		"description": "parts and tools created that may be useful or fun.\n\n[h1]current parts:[/h1]\n[list]\n[*] [b]creation Summoner[/b]\n     Allows you to save creations from the void or just from far away.\n[*] [b]Duplicator Tool[/b]\n     This tool allows you to select multiple bodies and duplicate/mirror them.\n[*] [b]Player Teleporter[/b]\n     This tool allows you to teleport around the map just by looking at where you want to go.\n[*] [b]Better Lift[/b]\n     This tool Replaces your current Lift to have infinite reach, use [F] and [R] to extend lift past normal limits.\n[*] [b]Admin Tool[/b]\n     complex features, visit [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2022198450]this page[/url] for description.\n[*] [b]Player Kicker[/b]\n     Allows you to people from your world.\n[*] [b]World Cleaner[/b]\n     Allows you to clear parts from the world.\n[*] [b]Free Camera[/b]\n     complex features, visit [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2022198450]this page[/url] for description.\n[*] [b]Permission Manager[/b]\n     Allows you to configure permission for other players to use.\n[*] [b]Raw Block Editor[/b]\n     Allows you to edit the raw data of a shape and update it in real time.\n[*] [b]Stop Watch[/b]\n     Track how fast you are with this stop watch timer, lmb-drag to create a line, rmb to delete line, force build to reset timer, Q to change lap-timer type.\n[*] [b]Advanced X-O-Meter[/b]\n     x-o meter from The Modpack, all credit goes to Brent Batch and the rest of The Modpack team.\n[*] [b]Center Of Mass[/b]\n     shows the center of mass of the creation it is on, accounts for it's self.\n[/list]\n[h1]discord.gg/6r46PkYr9s[/h1]\n\nhave ideas for new tools or features? post in comments. or talk directly to me in the discord.",
@@ -37775,7 +37770,7 @@
 	"cd85eacc-f183-4da6-b8fd-d096ee1cb18e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "For mod makers, You can make mods more easier and much quicker. It'll make some things more better and efficient. \r\n\r\nHere are the items:\r\n[list]\r\n[*]Mod Editor - The orange handbook that would be a modder's favorite tool for naming items and crafting recipes.\r\n\r\n[*]Super Interactor - A modder's debugging tool. You can use this to reconfigure some things into your mod.\r\n\r\n[*]Sledge Destroyer - A sledge hammer that's capable of destroying anything.\r\n\r\n[*]The Manipulator - The tool that can serve as commands. In fact, ALL tools requires admin access (Not necessarily for this tool, but non-admins have access to a few commands), and this tool lets the host set temporary admin powers.\r\n\r\n[*]Creation Binder - You can pick up creations and carry a creation around. In case if the creation you're carrying acting so crazy because of your mod item, then this is for you.\r\n\r\n[*]Quantom Chest - This chest allows you to access containers set by the Super Interactor.\r\n[/list]",
+		"description": "For mod makers, You can make mods more easier and much quicker. It'll make some things more better and efficient. \n\nHere are the items:\n[list]\n[*]Mod Editor - The orange handbook that would be a modder's favorite tool for naming items and crafting recipes.\n\n[*]Super Interactor - A modder's debugging tool. You can use this to reconfigure some things into your mod.\n\n[*]Sledge Destroyer - A sledge hammer that's capable of destroying anything.\n\n[*]The Manipulator - The tool that can serve as commands. In fact, ALL tools requires admin access (Not necessarily for this tool, but non-admins have access to a few commands), and this tool lets the host set temporary admin powers. [b]NEW![/b] This is how you can create builder guides.\n\n[*]Creation Binder - You can pick up creations and carry a creation around. In case if the creation you're carrying acting so crazy because of your mod item, then this is for you.\n\n[*]Quantom Chest - This chest allows you to access containers set by the Super Interactor.\n[/list]",
 		"fileId": 3172185380,
 		"localId": "cd85eacc-f183-4da6-b8fd-d096ee1cb18e",
 		"name": "Mod Utility Tools",
@@ -44614,6 +44609,16 @@
 		"fileId": 3552204477,
 		"localId": "4938aa55-5718-41d6-95be-cfed19fd9ff7",
 		"name": "Tralalero Tralala",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6e5a938e-93eb-4cec-b0bf-2c8cd5893d28": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "xuy",
+		"fileId": 3552649021,
+		"localId": "6e5a938e-93eb-4cec-b0bf-2c8cd5893d28",
+		"name": "Chlen by Negr",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
