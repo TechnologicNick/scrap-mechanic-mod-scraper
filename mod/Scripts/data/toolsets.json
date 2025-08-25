@@ -6466,5 +6466,10 @@
 		"$CONTENT_54ecdc7a-9d23-4642-bc26-b080aaae36e1/Tools/Database/ToolSets/example.toolset": [
 			"1caf0cdf-2b96-46c8-8816-7a1c26e0bec8"
 		]
+	},
+	"76a5f36d-11ce-43dd-ab5d-59a3c396f96b": {
+		"$CONTENT_76a5f36d-11ce-43dd-ab5d-59a3c396f96b/Tools/Database/ToolSets/example.toolset": [
+			"ae7a5bca-5290-44cc-9040-b693591abf9c"
+		]
 	}
 }

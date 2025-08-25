@@ -44652,10 +44652,27 @@
 				"name": "at2sm"
 			}
 		],
-		"description": "This mod allows you to equip ANY garment!\n\nAvailable all vanilla garments.\n\nFixed some bugs and optimized.\n\n\nSuports custom items(more in examples(coming soon)).",
+		"description": "This mod allows you to equip ANY garment!\n\nAvailable all vanilla garments.\n\nFixed some bugs and optimized.\n\nNow all vanilla garments have an icon.\n\nSuports custom items(more in examples(coming soon)).\n\nTo do:\nItem Lock system\nExtanded API\n",
 		"fileId": 3555329072,
 		"localId": "54ecdc7a-9d23-4642-bc26-b080aaae36e1",
 		"name": "Ultimate Customizations!",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"76a5f36d-11ce-43dd-ab5d-59a3c396f96b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3555329072,
+				"localId": "54ecdc7a-9d23-4642-bc26-b080aaae36e1",
+				"name": "Universal Customizations!"
+			}
+		],
+		"description": "",
+		"fileId": 3555671639,
+		"localId": "76a5f36d-11ce-43dd-ab5d-59a3c396f96b",
+		"name": "[UC!] Team Garment",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
