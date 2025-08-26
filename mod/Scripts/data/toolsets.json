@@ -3991,15 +3991,23 @@
 	"d37ba63a-bf0c-49bb-b9cb-a1214decae82": {},
 	"d01299a6-2668-49bc-8c94-4ddd64a80c0f": {},
 	"53976b51-7e17-446b-a2a7-b31143175766": {
-		"$CONTENT_53976b51-7e17-446b-a2a7-b31143175766/Tools/Database/ToolSets/tools.toolset": [
+		"$CONTENT_53976b51-7e17-446b-a2a7-b31143175766/Tools/Database/ToolSets/Distant.toolset": [
+			"74d430ab-1fae-4ee1-8922-dd10817a2ec0"
+		],
+		"$CONTENT_53976b51-7e17-446b-a2a7-b31143175766/Tools/Database/ToolSets/Melee.toolset": [
 			"d9ade9db-562f-40c7-96d1-c65358753f60",
 			"c96ce9e7-e733-4d18-b9e3-6fd33f261521",
-			"74d430ab-1fae-4ee1-8922-dd10817a2ec0",
-			"13cea709-ab2f-476e-b0ae-9c1360d8ad84",
 			"16d5cc9f-9201-43aa-a6f4-255c9b17af93",
 			"1aa09c56-1861-4a9b-8ca5-12a52c919eb3",
-			"c49e49e0-6551-405c-addf-c36408a707e7",
-			"f2743728-9caf-4e60-80d8-9bbf47035233"
+			"c49e49e0-6551-405c-addf-c36408a707e7"
+		],
+		"$CONTENT_53976b51-7e17-446b-a2a7-b31143175766/Tools/Database/ToolSets/Thowable.toolset": [
+			"f2743728-9caf-4e60-80d8-9bbf47035233",
+			"baa3c947-96df-41ac-9e31-fe9bb2cdf87a",
+			"c1614947-ed71-473b-bff2-a182fed451a8"
+		],
+		"$CONTENT_53976b51-7e17-446b-a2a7-b31143175766/Tools/Database/ToolSets/Tools.toolset": [
+			"13cea709-ab2f-476e-b0ae-9c1360d8ad84"
 		]
 	},
 	"7be17c48-af75-4b9d-b823-19a5aa72cfa0": {},
@@ -6471,5 +6479,6 @@
 		"$CONTENT_76a5f36d-11ce-43dd-ab5d-59a3c396f96b/Tools/Database/ToolSets/example.toolset": [
 			"ae7a5bca-5290-44cc-9040-b693591abf9c"
 		]
-	}
+	},
+	"929810da-6c3b-43a8-8753-1d736f22a0fd": {}
 }
