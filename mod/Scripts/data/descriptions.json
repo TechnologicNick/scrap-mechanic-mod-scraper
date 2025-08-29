@@ -44708,8 +44708,8 @@
 	},
 	"f165080c-6176-4581-8057-890fad512fec": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "Adds stuff that's useful for building marble tracks:\n\n- Marble: Marble!\n- Plastic Marble: Also a Marble!\n- Pure Glass Block / Wedge: sorta like the Paintable Glass Block in The Modpack but with a wedge variation. Doesn't break in one hit.\n- (Conveyor) Belt: Can give your marbles a little boost or move them (and als creations) around",
+		"custom_icons": true,
+		"description": "Adds stuff that's useful for building marble tracks:\n\n- Marble: Marble!\n- Plastic Marble: Also a Marble!\n- Pure Glass Block / Wedge: sorta like the Paintable Glass Block in The Modpack but with a wedge variation. Doesn't break in one hit.\n- (Conveyor) Belt: Can give your marbles a little boost or move them (and also creations) around (Speeds: 0.5, 1, 2, 3, 4, 6, 8, 10)",
 		"fileId": 3557705755,
 		"localId": "f165080c-6176-4581-8057-890fad512fec",
 		"name": "Marble Stuff",
