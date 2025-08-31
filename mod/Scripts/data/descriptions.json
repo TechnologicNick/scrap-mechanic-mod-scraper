@@ -37139,7 +37139,7 @@
 	"2ca1f375-b363-41fc-9757-3e2bf147dcde": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Contains 6 blocks and 2 parts:\r\nIcy spaceship block\r\nGrid 1x1\r\nGrid 2x2\r\nGrid 3x3\r\nBubbly glass\r\nLow Weight Glass\r\n\r\nWheel BALL\r\nfork (explosive)",
+		"description": "Contains 6 blocks and 2 parts:\r\nIcy spaceship block\r\nGrid 1x1\r\nGrid 2x2\r\nGrid 3x3\r\nBubbly glass\r\nLow Weight Glass\r\nWood 2 but not (exactly the same except it stacks to 100k)\r\n\r\nWheel BALL\r\nfork (explosive IDK)",
 		"fileId": 3149876375,
 		"localId": "2ca1f375-b363-41fc-9757-3e2bf147dcde",
 		"name": "Shad's mod",
