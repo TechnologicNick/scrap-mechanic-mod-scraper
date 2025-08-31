@@ -6484,5 +6484,10 @@
 	"929810da-6c3b-43a8-8753-1d736f22a0fd": {},
 	"4ad7a3f5-4702-43e7-a863-51ef0979ad72": {},
 	"03bfbb44-fc6a-403d-9b8c-884d5b8728b0": {},
-	"f165080c-6176-4581-8057-890fad512fec": {}
+	"f165080c-6176-4581-8057-890fad512fec": {},
+	"5dce14de-f9b9-4730-af68-15773fa97757": {
+		"$CONTENT_5dce14de-f9b9-4730-af68-15773fa97757/Tools/Database/ToolSets/example.toolset": [
+			"ae7a5bca-5290-44cc-9040-b693591abf9c"
+		]
+	}
 }

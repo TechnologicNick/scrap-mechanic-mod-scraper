@@ -43584,12 +43584,12 @@
 	},
 	"485d262b-917d-4357-8713-c52721f4d5b6": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"dependencies": null,
-		"description": "[h1] This Mod Adds: [/h1]\r\n\r\n[h2] Parts: [/h2]\r\n[list]\r\n   [*] Concrete Coping Large: [i]2×3[/i] (Texture W.I.P.)\r\n   [*] Concrete Coping Small: [i]2×2[/i] (Texture W.I.P.)\r\n   [*] Concrete Pavement Small 2×2\r\n   [*] Concrete Tactile: [i]Blister[/i] (Texture W.I.P.)\r\n   [*] Concrete Tactile: [i]Guidance Path[/i] (Texture W.I.P.)\r\n   [*] Metal Screw Water Turbine\r\n   [*] Concrete Barrier\r\n   [*] Metal Railing Pillar - One Way\r\n   [*] Metal Railing Pillar - Two Way\r\n   [*] Metal Railing Pillar - Two Way 90°\r\n   [*] Metal Railing Pillar - Three Way\r\n   [*] Metal Railing Pillar - Four Way\r\n   [*] Metal And Glass Railing (8u)\r\n[/list]\r\n\r\n[h2] Blocks: [/h2]\r\n[list]\r\n   [*] Grass (Unpaintable)\r\n   [*] Tall Grass (Unpaintable)\r\n   [*] Dirt\r\n   [*] Dry Mud\r\n   [*] Cracked Dry Mud\r\n   [*] Asphalt\r\n   [*] Gravel\r\n   [*] Sand\r\n   [*] Stone\r\n   [*] Moss\r\n   [*] Rock\r\n   [*] Hay\r\n   [*] Ruin Concrete\r\n   [*] Building Concrete\r\n   [*] Building Concrete - Flat\r\n[/list]\r\n\r\n   [hr][/hr]\r\n[h2] Info: [/h2]\r\n[list]\r\n   [*] Aka; [i]Mono Mod[/i]\r\n   [*] Changelog is available if you want to see what’s new.\r\n   [*] This is also a petition to change concrete block default color from [i]#8D8F89[/i] to [i]#82847E[/i]\r\n   [*] What are those yellow things? [url=https://www.archdaily.com/1003619/how-to-guide-people-in-architectural-spaces-with-tactile-paving-surfaces][u][i]Find Out Here[/i][/u][/url]\r\n[/list]",
+		"description": "Still working on update!\r\n\r\n[h1] This Mod Adds: [/h1]\r\n\r\n[h2] Parts: [/h2]\r\n[list]\r\n\r\n   [*] [u]Metal Water Turbine Decoration: [i]1×3[/i] [/u]\r\n\r\n   [*] [u]Concrete Barrier[/u]\r\n\r\n   [*] [u]Concrete Coping Slab:[/u]\r\n       ∘  [i]Small 2×2[/i]\r\n       ∘  [i]Medium 2×3[/i]\r\n       ∘  [i]Large 3×4[/i]\r\n\r\n   [*] [u]Concrete Coping Slab Array:[/u]\r\n       ∘  [i]Small 2×8[/i]\r\n       ∘  [i]Medium 3×8[/i]\r\n       ∘  [i]Large 3×12[/i]\r\n\r\n   [*] [u]Concrete Pavement:[/u]\r\n       ∘  [i]Small 1×2[/i]\r\n       ∘  [i]Medium 2×2[/i]\r\n       ∘  [i]Large 3×3[/i]\r\n\r\n   [*] [u]Concrete Pavement Array:[/u]\r\n       ∘  [i]Medium 2×8[/i]\r\n       ∘  [i]Large 3×12[/i]\r\n\r\n   [*] [u]Concrete Tactile:[/u]\r\n       ∘  [i]Blister[/i]\r\n       ∘  [i]Guidance Path[/i]\r\n\r\n   [*] [u]Metal Railing Pole:[/u]\r\n       ∘  [i]One Way[/i]\r\n       ∘  [i]Two Way[/i]\r\n       ∘  [i]Two Way 90°[/i]\r\n       ∘  [i]Three Way[/i]\r\n       ∘  [i]Four Way[/i]\r\n\r\n   [*] [u]Metal And Glass Railing:[/u]\r\n       ∘  [i]8u[/i]\r\n[/list]\r\n\r\n[h2] Blocks: [/h2]\r\n[list]\r\n   [*] Grass [i](Unpaintable)[/i]\r\n   [*] Tall Grass [i](Unpaintable)[/i]\r\n   [*] Dirt\r\n   [*] Dry Mud\r\n   [*] Cracked Dry Mud\r\n   [*] Asphalt\r\n   [*] Gravel\r\n   [*] Sand\r\n   [*] Stone\r\n   [*] Moss\r\n   [*] Rock\r\n   [*] Hay\r\n   [*] \"Ruin Concrete\"\r\n   [*] \"Building Concrete\"\r\n   [*] \"Building Concrete: [i]Flat[/i]\"\r\n[/list]\r\n\r\n   [hr][/hr]\r\n[h2] Info: [/h2]\r\n[list]\r\n   [*] Aka; [i]Mono Mod[/i]\r\n\r\n   [*] Changelog is available if you want to see what’s new.\r\n\r\n   [*] This is also a petition to change concrete block default color from [i]#8D8F89[/i] to [i]#82847E[/i]\r\n\r\n   [*] What are those yellow things? [url=https://www.archdaily.com/1003619/how-to-guide-people-in-architectural-spaces-with-tactile-paving-surfaces][u][i]Find Out Here[/i][/u][/url]\r\n[/list]",
 		"fileId": 3493782121,
 		"localId": "485d262b-917d-4357-8713-c52721f4d5b6",
-		"name": "Infrastructure: Public Spaces [BETA]",
+		"name": "Infrastructure: Public Spaces",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -44713,6 +44713,28 @@
 		"fileId": 3557705755,
 		"localId": "f165080c-6176-4581-8057-890fad512fec",
 		"name": "Marble Stuff",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"5dce14de-f9b9-4730-af68-15773fa97757": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 3555329072,
+				"localId": "54ecdc7a-9d23-4642-bc26-b080aaae36e1",
+				"name": "Universal Customizations!"
+			},
+			{
+				"fileId": 2492054706,
+				"localId": "c37bb96c-ba39-41ca-a298-719df2de8930",
+				"name": "Fawx Garments 0.5.1"
+			}
+		],
+		"description": "Credits & Thanks:\nAll resources taken from Fawx Garments(https://steamcommunity.com/sharedfiles/filedetails/?id=2492054706).\nThanks to the authors of Fawx Garments for allowing free use of their assets!\n\nDescription:\nThis expansion for Ultimate Customizations! adds  120 items from Fawx Garments, fully integrated into the UC system. All clothing, accessories, and detailed elements have been ported and prepared for flexible combination, giving you unprecedented freedom in customizing your character.\n\nUpgrade your UC experience and bring the creativity of Fawx Garments directly into your game!",
+		"fileId": 3559479904,
+		"localId": "5dce14de-f9b9-4730-af68-15773fa97757",
+		"name": "[UC!] Fawx Garments Integration",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
