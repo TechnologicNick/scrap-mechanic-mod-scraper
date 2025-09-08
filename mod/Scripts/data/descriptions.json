@@ -44868,7 +44868,7 @@
 	"f42a92f8-65b0-47c5-881a-f7e324ace852": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Programist Pack:\n> Parts:\n> > IF Block\n> > Input Block\n> > Output Block\n> > Apply Block",
+		"description": "Programist Pack:\n> Parts:\n> > IF Block\n\n> > Input Block\n> > Output Block\n> > Apply Block",
 		"fileId": 3563910810,
 		"localId": "f42a92f8-65b0-47c5-881a-f7e324ace852",
 		"name": "Programist Pack",
