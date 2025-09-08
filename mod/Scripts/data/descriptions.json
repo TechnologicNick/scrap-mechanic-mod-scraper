@@ -35694,7 +35694,7 @@
 	"53976b51-7e17-446b-a2a7-b31143175766": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Just Strange and Absurd Weapons\n\nWeapons:\n-Tree\n-Traffic Sign\n-Cranehammer\n-Magic Book\n-Saw-Sword\n-Blasthammer\n-snowball\n\nTools:\n-JunkScope™\n\nNew Weapons Soon!\n\n\nDiscord: https://discord.gg/TJePhfsgzR",
+		"description": "[h1]Just Strange and Absurd Weapons[/h1]\r\n\r\n[hr]\r\n\r\n[h2]Weapons:[/h2]\r\n[b]Melee:[/b]\r\n• Tree\r\n• Traffic Sign\r\n• Cranehammer\r\n• Saw-Sword\r\n• Blasthammer\r\n• Bots Trigcaster\r\n[b]Guns&Shooters:[/b]\r\n• Magic Book\r\n[b]Throwables:[/b]\r\n• Snowball\r\n• Rock\r\n• Hammer\r\n\r\n[hr]\r\n\r\n[h2]Tools:[/h2]\r\n• JunkScope™\r\n\r\n[hr]\r\n\r\nNew Weapons Soon!\r\n\r\n\r\nDiscord: https://discord.gg/TJePhfsgzR",
 		"fileId": 3059132456,
 		"localId": "53976b51-7e17-446b-a2a7-b31143175766",
 		"name": "Romytrix's Weapons Pack",
@@ -37148,7 +37148,7 @@
 				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
 			}
 		],
-		"description": "Contains 7 blocks and 2 parts:\r\nIcy spaceship block\r\nGrid 1x1\r\nGrid 2x2\r\nGrid 3x3\r\nBubbly glass\r\nLow Weight Glass\r\nWood 2 but not\r\nAll blocks stack to 64k\r\n\r\nWheel BALL\r\nfork (explosive IDK)",
+		"description": "Contains 7 blocks and 2 parts:\r\nIcy spaceship block,\r\nGrid 1x1,\r\nGrid 2x2,\r\nGrid 3x3,\r\nBubbly glass,\r\nLow Weight Glass,\r\nWood 2 but not,\r\nAll blocks stack to 64k\r\n\r\nWheel BALL,\r\nfork (explosive IDK)",
 		"fileId": 3149876375,
 		"localId": "2ca1f375-b363-41fc-9757-3e2bf147dcde",
 		"name": "Shad's mod",
@@ -41974,7 +41974,13 @@
 	"56b0ccf8-3e9f-4ccf-b2fa-93c73a40346f": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1] Please read! [/h1]\r\n\r\nBelow is a guide on how to use this mod, it is not as simple as adding it to your world and giving things the ability to spawn in with invalid joints (although that would be quite nice).\r\n\r\n[h1]How to find your blueprint file[/h1]\r\n\r\nFirst of all you need to locate the blueprint file you wish to fix, if the blueprint is stored on your lift, do the following: Go to [b]C:\\Users\\<Your User>\\AppData\\Roaming\\Axolot Games\\Scrap Mechanic\\User\\User_<SteamID>\\Blueprints[/b], this is where all your blueprints are stored. Next, you need to search for the correct folder that your blueprint file is located in, my personal method is using the search feature in a text editor like VSCode, but you can also search based on time updated etc. Once you have found the correct folder for your blueprint, go into that folder and copy the 'blueprint.json' file, this is the file you are going to put into the mod.\r\n\r\n[h1]How to move the file to the mod[/h1]\r\n\r\nOnce you have your blueprint file, you will need to locate this mod's local files. Make sure you have subscribed the mod and go to [b]<Your steam folder directory>\\Steam\\steamapps\\workshop\\content\\387990\\3415417597[/b]. You will then see a folder called 'Put Your Blueprint File In Here!'. Do as it says and put the blueprint.json file inside that folder.\r\n\r\n[h1]How to spawn in your build[/h1]\r\n\r\nLoad up a world and type the command '/fix' followed by the name of the file you put inside the mods folder, if you haven't changed its name it should just be 'blueprint.json', so the command would be '/fix blueprint.json'. Your game may freeze for a second or two as the tool is iterating through the blueprints data, your wait time depends on how big of a build it is. Once your wait time is over your creation should spawn in the direction you are looking!\r\n\r\nIf your creation is stuck in mid-air, try to locate the logic gates that are placed nearby and delete all of them, they are supposed to get deleted to un-stick the creation, but if its large, they don't get deleted.\r\n\r\n\r\nAny bugs or suggestions feel free to let me know, and ill deal with it as fast as I can.\r\n\r\nA like and favourite would also be greatly appreciated!\r\n\r\nHope you guys enjoy.",
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
+			}
+		],
+		"description": "[h1] Please read! [/h1]\r\n\r\nBelow is a guide on how to use this mod, it is not as simple as adding it to your world and giving things the ability to spawn in with invalid joints (although that would be quite nice).\r\n\r\nPLEASE NOTE!: You must have a legit version of Scrap Mechanic for this mod to work.\r\n\r\n[h1]How to find your blueprint file[/h1]\r\n\r\nFirst of all you need to locate the blueprint file you wish to fix, if the blueprint is stored on your lift, do the following: Go to [b]C:\\Users\\<Your User>\\AppData\\Roaming\\Axolot Games\\Scrap Mechanic\\User\\User_<SteamID>\\Blueprints[/b], this is where all your blueprints are stored. Next, you need to search for the correct folder that your blueprint file is located in, my personal method is using the search feature in a text editor like VSCode, but you can also search based on time updated etc. Once you have found the correct folder for your blueprint, go into that folder and copy the 'blueprint.json' file, this is the file you are going to put into the mod.\r\n\r\n[h1]How to move the file to the mod[/h1]\r\n\r\nOnce you have your blueprint file, you will need to locate this mod's local files. Make sure you have subscribed the mod and go to [b]<Your steam folder directory>\\Steam\\steamapps\\workshop\\content\\387990\\3415417597[/b]. You will then see a folder called 'Put Your Blueprint File In Here!'. Do as it says and put the blueprint.json file inside that folder.\r\n\r\n[h1]How to spawn in your build[/h1]\r\n\r\nLoad up a world and type the command '/fix' followed by the name of the file you put inside the mods folder, if you haven't changed its name it should just be 'blueprint.json', so the command would be '/fix blueprint.json'. If the '/fix' command isn't working for you, try the fix interactable in your inventory. All you have to do is interact with it and type the same name in the text box as you would in the command, so 'blueprint.json' if you haven't changed the name, and press the fix button. Your game may freeze for a second or two as the tool is iterating through the blueprints data, your wait time depends on how big of a build it is. Once your wait time is over your creation should spawn in the direction you are looking!\r\n\r\nIf your creation is stuck in mid-air, try to locate the logic gates that are placed nearby and delete all of them, they are supposed to get deleted to un-stick the creation, but if its large, they don't get deleted.\r\n\r\n\r\nAny bugs or suggestions feel free to let me know, and ill deal with it as fast as I can.\r\n\r\nA like and favourite would also be greatly appreciated!\r\n\r\nHope you guys enjoy.",
 		"fileId": 3415417597,
 		"localId": "56b0ccf8-3e9f-4ccf-b2fa-93c73a40346f",
 		"name": "Invalid Joint Position Fixer",
@@ -44856,6 +44862,26 @@
 		"fileId": 3562551035,
 		"localId": "28dce79e-9a07-4bd9-a469-d126b42fb450",
 		"name": "[UC!] Military Outfit Integration",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f42a92f8-65b0-47c5-881a-f7e324ace852": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Programist Pack:\n> Parts:\n> > IF Block\n> > Input Block\n> > Output Block\n> > Apply Block",
+		"fileId": 3563910810,
+		"localId": "f42a92f8-65b0-47c5-881a-f7e324ace852",
+		"name": "Programist Pack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"e26ea715-ddfe-4239-974b-7230b53ab506": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3564125522,
+		"localId": "e26ea715-ddfe-4239-974b-7230b53ab506",
+		"name": "tylovaaaa",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
