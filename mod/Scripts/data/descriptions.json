@@ -35694,7 +35694,7 @@
 	"53976b51-7e17-446b-a2a7-b31143175766": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]Just Strange and Absurd Weapons[/h1]\r\n\r\n[hr]\r\n\r\n[h2]Weapons:[/h2]\r\n[b]Melee:[/b]\r\n• Tree\r\n• Traffic Sign\r\n• Cranehammer\r\n• Saw-Sword\r\n• Blasthammer\r\n• Bots Trigcaster\r\n[b]Guns&Shooters:[/b]\r\n• Magic Book\r\n[b]Throwables:[/b]\r\n• Snowball\r\n• Rock\r\n• Hammer\r\n\r\n[hr]\r\n\r\n[h2]Tools:[/h2]\r\n• JunkScope™\r\n\r\n[hr]\r\n\r\nNew Weapons Soon!\r\n\r\n\r\nDiscord: https://discord.gg/TJePhfsgzR",
+		"description": "[h1]Just Strange and Absurd Weapons[/h1]\n\n[hr]\n\n[h2]Weapons:[/h2]\n[b]Melee:[/b]\n• Tree\n• Traffic Sign\n• Cranehammer\n• Saw-Sword\n• Blasthammer\n• Triggercaster\n[b]Guns&Shooters:[/b]\n• Magic Book\n[b]Throwables:[/b]\n• Snowball\n• Rock\n• Hammer\n\n[hr]\n\n[h2]Tools:[/h2]\n• JunkScope™\n\n[hr]\n\nNew Weapons Soon!\n\n\nDiscord: https://discord.gg/TJePhfsgzR",
 		"fileId": 3059132456,
 		"localId": "53976b51-7e17-446b-a2a7-b31143175766",
 		"name": "Romytrix's Weapons Pack",
@@ -44058,7 +44058,7 @@
 	"e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "T mod",
+		"description": "Adds 1 new tool, 10 new blocks and 30 new interactables.",
 		"fileId": 3438987478,
 		"localId": "e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5",
 		"name": "T mod",
@@ -44868,7 +44868,7 @@
 	"f42a92f8-65b0-47c5-881a-f7e324ace852": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Programist Pack:\n> Parts:\n> > IF Block\n\n> > Input Block\n> > Output Block\n> > Apply Block",
+		"description": "Programist Pack:\n> Connecting:\n> > Input Block\n> > Output Block\n> > Apply Block\n\n> Math:\n> > Counter\n> > Bit Formatter\n> > Adder\n> > Substractor\n> > One Tick Button\n\n> Display:\n> > Display Block\n> > Display Slot Block\n> > Display Number Slot Block",
 		"fileId": 3563910810,
 		"localId": "f42a92f8-65b0-47c5-881a-f7e324ace852",
 		"name": "Programist Pack",
@@ -44912,6 +44912,16 @@
 		"fileId": 3565558818,
 		"localId": "e82651da-3eb5-4dc2-ba0e-f6c75ebdc8ff",
 		"name": "Armoured Blox & Stuff",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"0d655e27-16e3-4c17-8b8e-1a55959e7452": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3564708284,
+		"localId": "0d655e27-16e3-4c17-8b8e-1a55959e7452",
+		"name": "BBurner's",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
