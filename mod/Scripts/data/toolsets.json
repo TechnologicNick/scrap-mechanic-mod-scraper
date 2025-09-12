@@ -6515,5 +6515,10 @@
 		"$CONTENT_16e7abf5-a03f-46ea-bc04-9930f72675e1/Tools/Database/ToolSets/tools.json": [
 			"13485df8-90c9-4e6c-843f-162c5cb109f3"
 		]
+	},
+	"849c3447-2ebc-4cc8-aea4-3a6901fae3e7": {
+		"$CONTENT_849c3447-2ebc-4cc8-aea4-3a6901fae3e7/Tools/Database/ToolSets/example.toolset": [
+			"3de81be1-885e-423a-8d37-4945beb0b1c2"
+		]
 	}
 }

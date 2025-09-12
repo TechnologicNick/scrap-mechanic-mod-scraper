@@ -44934,5 +44934,15 @@
 		"name": "LiDAR",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"849c3447-2ebc-4cc8-aea4-3a6901fae3e7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod is still in development and currently a prototype.\n\nThe mod already supports configuration, but there is no in-game GUI yet.\nAll settings are stored in config.json inside the mod folder.\n\nCurrent Features\n\nParticle limiter\n\nDefault: 500 particles / 2.5s\n\nPrevents excessive particle spam to improve performance\n\nExplosion limiter\n\nExplosions are replaced with a simplified effect\n\nLimited to 10 per 2.5s\n\nParticles\n\nmode - 0 (vanilla), 1 (limited), 2 (disabled)\n\ntimer - interval in seconds\n\ncounter - how many particles can be spawned per interval\n\nExplosions\n\nmode - 0 (vanilla), 1 (limited + simplified effect), 2 (limited only)\n\ntimer - interval in seconds\n\ncounter - how many explosion effects can be spawned per interval\n\nPlanned Features\n\nIn-game GUI for easier configuration\n\nMore effect management options",
+		"fileId": 3566659608,
+		"localId": "849c3447-2ebc-4cc8-aea4-3a6901fae3e7",
+		"name": "No Effects",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
