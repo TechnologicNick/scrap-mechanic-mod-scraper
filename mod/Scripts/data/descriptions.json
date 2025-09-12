@@ -44058,7 +44058,7 @@
 	"e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Adds 1 new tool, 10 new blocks and 30 new interactables.",
+		"description": "Adds 1 new tool, 10 new blocks and 31 new interactables.",
 		"fileId": 3438987478,
 		"localId": "e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5",
 		"name": "T mod",
@@ -44918,10 +44918,20 @@
 	"0d655e27-16e3-4c17-8b8e-1a55959e7452": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "Discord: https://discord.gg/Y4fxpURZSj",
 		"fileId": 3564708284,
 		"localId": "0d655e27-16e3-4c17-8b8e-1a55959e7452",
 		"name": "BBurner's",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"16e7abf5-a03f-46ea-bc04-9930f72675e1": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 3566328487,
+		"localId": "16e7abf5-a03f-46ea-bc04-9930f72675e1",
+		"name": "LiDAR",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
