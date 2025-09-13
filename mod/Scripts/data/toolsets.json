@@ -5604,7 +5604,9 @@
 	"7b131dee-e95c-444f-a273-ebf59921de1d": {},
 	"b7971726-c230-4833-94c1-fd434d9f4ac3": {},
 	"0b35632f-133a-4bb8-8042-9712a50c102e": {},
-	"5b9e782f-bd9d-461f-9168-340f80250a1a": {},
+	"5b9e782f-bd9d-461f-9168-340f80250a1a": {
+		"$CONTENT_5b9e782f-bd9d-461f-9168-340f80250a1a/Tools/Database/ToolSets/mt_tools.toolset": []
+	},
 	"f525b433-aa36-4612-8e2a-e322a72edcfd": {},
 	"17f8f434-683b-4bc9-b1ed-7f2ae6d9bf81": {},
 	"bbf2cac0-76bf-4aec-b9b2-3bbdd9e0cc63": {},
@@ -6519,6 +6521,12 @@
 	"849c3447-2ebc-4cc8-aea4-3a6901fae3e7": {
 		"$CONTENT_849c3447-2ebc-4cc8-aea4-3a6901fae3e7/Tools/Database/ToolSets/example.toolset": [
 			"3de81be1-885e-423a-8d37-4945beb0b1c2"
+		]
+	},
+	"6ac71d35-e0b8-436e-a17c-e92d7574cfea": {},
+	"90f92d4f-da62-4cf4-99d5-b384d585143d": {
+		"$CONTENT_90f92d4f-da62-4cf4-99d5-b384d585143d/Tools/Database/ToolSets/woosh.toolset": [
+			"b815fd52-7bc3-45a8-8eac-9dbe651757ee"
 		]
 	}
 }

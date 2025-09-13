@@ -41627,6 +41627,11 @@
 				"fileId": 3405509759,
 				"localId": "83f0303a-9437-4dee-a42a-fcdfcab30ca2",
 				"name": "MT-Pipes"
+			},
+			{
+				"fileId": 3564708284,
+				"localId": "0d655e27-16e3-4c17-8b8e-1a55959e7452",
+				"name": "BBurner's"
 			}
 		],
 		"description": "MT-RandomThings\nby: MaxTechnik\n\nThis mod adds random things that probably won't make sense to you. Because it's just for me to play with my friends. So if you want to download it, I probably don't care.\n\nStill alpha!\n",
@@ -44942,6 +44947,26 @@
 		"fileId": 3566659608,
 		"localId": "849c3447-2ebc-4cc8-aea4-3a6901fae3e7",
 		"name": "No Effects",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6ac71d35-e0b8-436e-a17c-e92d7574cfea": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3566931414,
+		"localId": "6ac71d35-e0b8-436e-a17c-e92d7574cfea",
+		"name": "randombagaba",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"90f92d4f-da62-4cf4-99d5-b384d585143d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h2]A Blocks & Parts mod that adds more particles and sounds to moving objects![/h2]\nDoes driving your car way over the Wonk-set speed limit not bring you that drive?\nDo dramatic creation battles with your friends lack the oomph?\nThis mod is for you! It adds various sounds and visuals to help Scrap Mechanic physics interactions feel more impactful!\n\n[hr][/hr]\n[h1]Important![/h1]\n[list]\n[*]This is [b]NOT[/b] a file mod!\n[*]Just enable this mod and enjoy!\n[/list]\n\n[hr][/hr]\n[h1]Features[/h1]\n[list]\n[*]Now when the player passes by an object at high speeds, the object passes by a player or you drive under an overhang a cinematic \"woosh\" sound will play!\n[*]Objects speeding by you will have a \"motion blur\" effect stylized into the Scrap Mechanic art style as white particles!\n[/list]\n\n[hr][/hr]\n[h2]Support:[/h2]\n[*]Rate, Favorite, Share and Award!\n[img]https://fagiano0.github.io/CrashlanderAPI/images/workshop/ratefavourite.gif[/img]",
+		"fileId": 3567022943,
+		"localId": "90f92d4f-da62-4cf4-99d5-b384d585143d",
+		"name": "M.O.E. - Many Object Effects",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
