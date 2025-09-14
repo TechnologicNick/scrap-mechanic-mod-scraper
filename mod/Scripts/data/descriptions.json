@@ -44544,7 +44544,7 @@
 	"c64b4445-6f8c-4fe8-987c-131e9e303355": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "ACG Figure & Decoration process",
+		"description": "ACG Figure & Decoration process\r\nACG Figure & 装饰工艺",
 		"fileId": 3547949463,
 		"localId": "c64b4445-6f8c-4fe8-987c-131e9e303355",
 		"name": "ACG Figure",
@@ -44933,7 +44933,7 @@
 	"16e7abf5-a03f-46ea-bc04-9930f72675e1": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod doesn't have a description",
+		"description": "This mod adds a LiDAR scanner to the game.\r\n\r\nIt also adds a fully black, un-lightable block to use for building scenes to be explored with the scanner.",
 		"fileId": 3566328487,
 		"localId": "16e7abf5-a03f-46ea-bc04-9930f72675e1",
 		"name": "LiDAR",
@@ -44967,6 +44967,23 @@
 		"fileId": 3567022943,
 		"localId": "90f92d4f-da62-4cf4-99d5-b384d585143d",
 		"name": "M.O.E. - Many Object Effects",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1c0d0a36-24ea-4c99-8f3a-e5e7b314fa5f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3535050367,
+				"localId": "3d56e303-8aa6-434e-bd21-cf6f20555287",
+				"name": "at2sm"
+			}
+		],
+		"description": "[h1]NOT file mod[/h1]\r\n\r\n[h3]Placebo API is a developer-oriented mod for Scrap Mechanic that breaks the usual Lua VM restrictions.\r\nIt provides access to the global scope (_G) of any script using the Scrap Mechanic Lua API, extends logging capabilities, and adds a flexible plugin system.[/h3]\r\n\r\n[h1]Key Features[/h1]\r\n\r\nAccess to all hooked _G tables via sm.at2sm.placebo.globals.\r\n\r\nExtended logging for debugging and development.\r\n\r\nFlexible plugin system configured through JSON.\r\n\r\nRuntime configuration support.\r\n\r\n[h2]API Changes[/h2]\r\nsm.at2sm.api.findClasses(...)\r\n\r\nAccepts any number of string arguments.\r\n\r\nReturns the _G tables where matches are found.\r\n\r\n[h2]Configuration[/h2]\r\n\r\nRuntime config:\r\nsm.at2sm.placebo.config\r\n\r\nLocal config:\r\n<mod_folder>/Config.json\r\n\r\n[h3]A GUI editor for configuration will be added in future updates.[/h3]\r\n\r\n[h1]Plugin System[/h1]\r\n\r\nPlugins are configured in the plugins section of <mod_folder>/Config.json.\r\n\r\nExample configuration:\r\n\r\n\"ExamplePluginName\": {\r\n    \"config\": {\r\n        \"<any data>\"\r\n    },\r\n    \"enabled\": true,\r\n    \"hostOnly\": false,\r\n    \"loadOrder\": 0,\r\n    \"path\": \"$CONTENT_1c0d0a36-24ea-4c99-8f3a-e5e7b314fa5f/Scripts/Plugins/Example.lua\",\r\n    \"side\": \"both\" \r\n}\r\n\r\nPlugin parameters:\r\n\r\nconfig — any custom data.\r\n\r\nenabled (bool) — enable or disable plugin.\r\n\r\nhostOnly (bool) — true = load only on host, false = load on all.\r\n\r\nloadOrder (int) — plugin load order.\r\n\r\npath (string) — path to plugin Lua script.\r\n\r\nside (string) — \"both\" (client & server), \"server\", \"client\".\r\n\r\n[h3]To do:[/h3]\r\n\r\nImprove base function hooking (print, dofile, pairs...).\r\n\r\nExtend logging system.\r\n\r\nExpand documentation.\r\n\r\nEnhance plugin system.\r\n\r\nAdd new functionality.\r\n\r\nImplement GUI for configuration and plugin management.\r\n\r\n[h2]Warning: this mod is intended for developers, modders, and advanced users. Use with caution — Placebo API bypasses the standard Scrap Mechanic Lua restrictions.[/h2]",
+		"fileId": 3567852277,
+		"localId": "1c0d0a36-24ea-4c99-8f3a-e5e7b314fa5f",
+		"name": "Placebo API",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

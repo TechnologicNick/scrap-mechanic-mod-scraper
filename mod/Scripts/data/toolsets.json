@@ -6528,5 +6528,10 @@
 		"$CONTENT_90f92d4f-da62-4cf4-99d5-b384d585143d/Tools/Database/ToolSets/woosh.toolset": [
 			"b815fd52-7bc3-45a8-8eac-9dbe651757ee"
 		]
+	},
+	"1c0d0a36-24ea-4c99-8f3a-e5e7b314fa5f": {
+		"$CONTENT_1c0d0a36-24ea-4c99-8f3a-e5e7b314fa5f/Tools/Database/ToolSets/Placebo.toolset": [
+			"3a16d06f-8c25-4fba-ad85-be1a3c8c4ec7"
+		]
 	}
 }
