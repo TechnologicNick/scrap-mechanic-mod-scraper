@@ -37148,7 +37148,7 @@
 				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
 			}
 		],
-		"description": "Contains 7 blocks and 2 parts:\r\nIcy spaceship block,\r\nGrid 1x1,\r\nGrid 2x2,\r\nGrid 3x3,\r\nBubbly glass,\r\nLow Weight Glass,\r\nWood 2 but not,\r\nAll blocks stack to 64k\r\n\r\nWheel BALL,\r\nfork (explosive IDK)",
+		"description": "Contains 7 blocks, 3 parts and miscellaneous recipes:\nIcy spaceship block,\nGrid 1x1,\nGrid 2x2,\nGrid 3x3,\nBubbly glass,\nLow Weight Glass,\nWood 2 but not,\nAll blocks stack to 64k\n\nWheel BALL,\nfork (explosive IDK),\nOil Generator\n\nRecipes may not work with Fant mod.",
 		"fileId": 3149876375,
 		"localId": "2ca1f375-b363-41fc-9757-3e2bf147dcde",
 		"name": "Shad's mod",
@@ -44984,6 +44984,26 @@
 		"fileId": 3567852277,
 		"localId": "1c0d0a36-24ea-4c99-8f3a-e5e7b314fa5f",
 		"name": "Placebo API",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f7a2ee9b-95f5-4d2d-a1c2-a833452692ab": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3568792655,
+		"localId": "f7a2ee9b-95f5-4d2d-a1c2-a833452692ab",
+		"name": "logs parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d781600d-1f54-4616-a820-22e2ad752e5e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1]Extend Custom Raid Music with tracks from the iconic heist shooter![/h1]\r\nMusic from different heists released throughout the update history of PAYDAY 2!\r\n\r\n[hr][/hr]\r\n[img]https://donut05.github.io/DonutsModWebResources.github.io/modDescImages/PayDay2RaidMusicPack/desc_PAYDAY_2_logo.png[/img]\r\n\r\n[hr][/hr]\r\n[h1]Important![/h1]\r\n[list]\r\n[*]This is [b]NOT[/b] a file mod!\r\n[*][b]REQUIRES [url=https://github.com/QuestionableM/SM-CustomAudioExtension]CUSTOM AUDIO EXTENSION[/url] TO BE INSTALLED![/b]\r\n[*][b]REQUIRES [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3494335601]CUSTOM RAID MUSIC[/url] TO BE ENABLED ON THE SAVE![/b]\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h1]Installation[/h1]\r\n1. Download this mod\r\n\r\n2. Download and install the scrap mechanic DLL injector\r\n2.1 https://github.com/QuestionableM/SM-DLL-Injector/releases/latest\r\n2.2 Click on \"DLL-Injector-Installer.exe\", this will download the exe\r\n2.3 Run the exe and install the injector\r\n\r\n3. Download and install the scrap mechanic custom audio extension\r\n3.1 https://github.com/QuestionableM/SM-CustomAudioExtension/releases/latest\r\n3.2 Click on \"CustomAudioExtension.dll\", this will download the dll\r\n3.3 Go to your steam library\r\n3.4 Right click Scrap Mechanic in the list\r\n3.5 Hover over \"Manage\"\r\n3.6 Click \"View local files\"\r\n3.7 Go into the \"Release\" folder\r\n3.8 Right click and create a NEW folder called \"DLLModules\"\r\n3.9 Move the previously downloaded \"CustomAudioExtension.dll\" into the newly created folder\r\n3.10 Close the file explorer\r\n\r\n4. Start up Scrap Mechanic and enable [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3494335601]Custom Raid Music mod[/url] and this mod on your save\r\n\r\n[hr][/hr]\r\n[h2]Track List:[/h2]\r\n[code]\r\n[h3]PAYDAY 2[/h3]\r\n[list]\r\n[*]8Bits Are Scary - by: Simon Viklund\r\n[*]Break The Rules - by: Simon Viklund\r\n[*]I Will Give You My All - by: Simon Viklund\r\n[*]Left In The Cold - by: Simon Viklund\r\n[*]Full Force Forward - by: Simon Viklund\r\n[*]Tick Tock - by: Simon Viklund\r\n[*]Razormind - by: Simon Viklund\r\n[*]Death Wish - by: Simon Viklund\r\n[*]Hot Pursuit - by: Simon Viklund\r\n[*]Trainwreck - by: Simon Viklund\r\n[/list]\r\n[/code]\r\n\r\n[hr][/hr]\r\n[h2]Support:[/h2]\r\n[*]Rate, Favorite, Share and Award!\r\n[img]https://fagiano0.github.io/CrashlanderAPI/images/workshop/ratefavourite.gif[/img]",
+		"fileId": 3568876932,
+		"localId": "d781600d-1f54-4616-a820-22e2ad752e5e",
+		"name": "PAYDAY 2 Raid Music Pack",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
