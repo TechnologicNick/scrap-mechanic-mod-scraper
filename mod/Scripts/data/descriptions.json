@@ -45033,5 +45033,15 @@
 		"name": "Custom tool stats",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"ccef52d1-db48-4288-9165-68c20020aa64": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3564491891,
+		"localId": "ccef52d1-db48-4288-9165-68c20020aa64",
+		"name": "Engine Plus",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
