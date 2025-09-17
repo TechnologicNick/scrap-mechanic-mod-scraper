@@ -44980,7 +44980,7 @@
 				"name": "at2sm"
 			}
 		],
-		"description": "[h1]NOT file mod[/h1]\r\n\r\n[h3]Placebo API is a developer-oriented mod for Scrap Mechanic that breaks the usual Lua VM restrictions.\r\nIt provides access to the global scope (_G) of any script using the Scrap Mechanic Lua API, extends logging capabilities, and adds a flexible plugin system.[/h3]\r\n\r\n[h1]Key Features[/h1]\r\n\r\nAccess to all hooked _G tables via sm.at2sm.placebo.globals.\r\n\r\nExtended logging for debugging and development.\r\n\r\nFlexible plugin system configured through JSON.\r\n\r\nRuntime configuration support.\r\n\r\n[h2]API Changes[/h2]\r\nsm.at2sm.api.findClasses(...)\r\n\r\nAccepts any number of string arguments.\r\n\r\nReturns the _G tables where matches are found.\r\n\r\n[h2]Configuration[/h2]\r\n\r\nRuntime config:\r\nsm.at2sm.placebo.config\r\n\r\nLocal config:\r\n<mod_folder>/Config.json\r\n\r\n[h3]A GUI editor for configuration will be added in future updates.[/h3]\r\n\r\n[h1]Plugin System[/h1]\r\n\r\nPlugins are configured in the plugins section of <mod_folder>/Config.json.\r\n\r\nExample configuration:\r\n\r\n\"ExamplePluginName\": {\r\n    \"config\": {\r\n        \"<any data>\"\r\n    },\r\n    \"enabled\": true,\r\n    \"hostOnly\": false,\r\n    \"loadOrder\": 0,\r\n    \"path\": \"$CONTENT_1c0d0a36-24ea-4c99-8f3a-e5e7b314fa5f/Scripts/Plugins/Example.lua\",\r\n    \"side\": \"both\" \r\n}\r\n\r\nPlugin parameters:\r\n\r\nconfig — any custom data.\r\n\r\nenabled (bool) — enable or disable plugin.\r\n\r\nhostOnly (bool) — true = load only on host, false = load on all.\r\n\r\nloadOrder (int) — plugin load order.\r\n\r\npath (string) — path to plugin Lua script.\r\n\r\nside (string) — \"both\" (client & server), \"server\", \"client\".\r\n\r\n[h3]To do:[/h3]\r\n\r\nImprove base function hooking (print, dofile, pairs...).\r\n\r\nExtend logging system.\r\n\r\nExpand documentation.\r\n\r\nEnhance plugin system.\r\n\r\nAdd new functionality.\r\n\r\nImplement GUI for configuration and plugin management.\r\n\r\n[h2]Warning: this mod is intended for developers, modders, and advanced users. Use with caution — Placebo API bypasses the standard Scrap Mechanic Lua restrictions.[/h2]",
+		"description": "[h1]NOT file mod[/h1]\r\n\r\n[h3]Placebo API is a developer-oriented mod for Scrap Mechanic that breaks the usual Lua VM restrictions.\r\nIt provides access to the global scope (_G) of any script using the Scrap Mechanic Lua API, extends logging capabilities, and adds a flexible plugin system.[/h3]\r\n\r\n[h2]For now needs help with performance[/h2]\r\n\r\n[h1]Key Features[/h1]\r\n\r\nAccess to all hooked _G tables via sm.at2sm.placebo.globals.\r\n\r\nExtended logging for debugging and development.\r\n\r\nFlexible plugin system configured through JSON.\r\n\r\nRuntime configuration support.\r\n\r\n[h2]API Changes[/h2]\r\nsm.at2sm.api.findClasses(...)\r\n\r\nAccepts any number of string arguments.\r\n\r\nReturns the _G tables where matches are found.\r\n\r\n[h2]Configuration[/h2]\r\n\r\nRuntime config:\r\nsm.at2sm.placebo.config\r\n\r\nLocal config:\r\n<mod_folder>/Config.json\r\n\r\n[h3]A GUI editor for configuration will be added in future updates.[/h3]\r\n\r\n[h1]Plugin System[/h1]\r\n\r\nPlugins are configured in the plugins section of <mod_folder>/Config.json.\r\n\r\nExample configuration:\r\n\r\n\"ExamplePluginName\": {\r\n    \"config\": {\r\n        \"<any data>\"\r\n    },\r\n    \"enabled\": true,\r\n    \"hostOnly\": false,\r\n    \"loadOrder\": 0,\r\n    \"path\": \"$CONTENT_1c0d0a36-24ea-4c99-8f3a-e5e7b314fa5f/Scripts/Plugins/Example.lua\",\r\n    \"side\": \"both\" \r\n}\r\n\r\nPlugin parameters:\r\n\r\nconfig — any custom data.\r\n\r\nenabled (bool) — enable or disable plugin.\r\n\r\nhostOnly (bool) — true = load only on host, false = load on all.\r\n\r\nloadOrder (int) — plugin load order.\r\n\r\npath (string) — path to plugin Lua script.\r\n\r\nside (string) — \"both\" (client & server), \"server\", \"client\".\r\n\r\n[h3]To do:[/h3]\r\n\r\nImprove base function hooking (print, dofile, pairs...).\r\n\r\nExtend logging system.\r\n\r\nExpand documentation.\r\n\r\nEnhance plugin system.\r\n\r\nAdd new functionality.\r\n\r\nImplement GUI for configuration and plugin management.\r\n\r\n[h2]Warning: this mod is intended for developers, modders, and advanced users. Use with caution — Placebo API bypasses the standard Scrap Mechanic Lua restrictions.[/h2]",
 		"fileId": 3567852277,
 		"localId": "1c0d0a36-24ea-4c99-8f3a-e5e7b314fa5f",
 		"name": "Placebo API",
@@ -45014,6 +45014,23 @@
 		"fileId": 3569090051,
 		"localId": "dc6bae9f-ac74-4b27-b3b6-f82cb074665a",
 		"name": "pecsai",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"343e8f10-6a09-4577-86f0-8d380e0c4437": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3567852277,
+				"localId": "1c0d0a36-24ea-4c99-8f3a-e5e7b314fa5f",
+				"name": "Placebo API"
+			}
+		],
+		"description": "Now just remove cooldown for most guns(all vanilla and most moded)\n\nEnable Placebo API in order 1 for best work",
+		"fileId": 3569377019,
+		"localId": "343e8f10-6a09-4577-86f0-8d380e0c4437",
+		"name": "Custom tool stats",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

@@ -6541,5 +6541,10 @@
 			"82b8fb31-f143-406a-9106-e5164598c181"
 		]
 	},
-	"dc6bae9f-ac74-4b27-b3b6-f82cb074665a": {}
+	"dc6bae9f-ac74-4b27-b3b6-f82cb074665a": {},
+	"343e8f10-6a09-4577-86f0-8d380e0c4437": {
+		"$CONTENT_343e8f10-6a09-4577-86f0-8d380e0c4437/Tools/Database/ToolSets/CTS.toolset": [
+			"2f54513a-1033-47e7-8b9e-d167d54f5639"
+		]
+	}
 }
