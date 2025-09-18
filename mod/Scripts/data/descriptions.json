@@ -37148,7 +37148,7 @@
 				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
 			}
 		],
-		"description": "Contains 7 blocks, 3 parts and miscellaneous recipes:\nIcy spaceship block,\nGrid 1x1,\nGrid 2x2,\nGrid 3x3,\nBubbly glass,\nLow Weight Glass,\nWood 2 but not,\nAll blocks stack to 64k\n\nWheel BALL,\nfork (explosive IDK),\nOil Generator\n\nRecipes may not work with Fant mod.",
+		"description": "Contains 7 blocks, 4 parts and miscellaneous recipes:\nIcy spaceship block,\nGrid 1x1,\nGrid 2x2,\nGrid 4x4,\nBubbly glass,\nLow Weight Glass,\nWood 2 but not,\nAll blocks stack to 64k\n\nWheel BALL,\nfork (explosive IDK),\nOil Generator,\nChemical Generator\n\nRecipes and stack sizes may not work with Fant mod.",
 		"fileId": 3149876375,
 		"localId": "2ca1f375-b363-41fc-9757-3e2bf147dcde",
 		"name": "Shad's mod",
@@ -44063,7 +44063,7 @@
 	"e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Adds 1 new tool, 10 new blocks and 31 new interactables.",
+		"description": "Adds 1 new tool, 10 new blocks and 32 new interactables.",
 		"fileId": 3438987478,
 		"localId": "e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5",
 		"name": "T mod",
