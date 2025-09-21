@@ -6550,5 +6550,9 @@
 		]
 	},
 	"ccef52d1-db48-4288-9165-68c20020aa64": {},
-	"b95daa39-26cf-4c17-9284-0924a8321e49": {}
+	"b95daa39-26cf-4c17-9284-0924a8321e49": {},
+	"16d54edb-10b2-49af-8135-276b17176b5a": {
+		"$CONTENT_16d54edb-10b2-49af-8135-276b17176b5a/Tools/Database/ToolSets/example.toolset": []
+	},
+	"88287a68-1e39-49fe-8bbd-cfe4a08124f3": {}
 }
