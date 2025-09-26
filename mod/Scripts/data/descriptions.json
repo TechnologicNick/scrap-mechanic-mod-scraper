@@ -45093,5 +45093,15 @@
 		"name": "collective farm weapons",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"85a6e649-d416-43e5-bf7f-0fca4a34bb1a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3574912513,
+		"localId": "85a6e649-d416-43e5-bf7f-0fca4a34bb1a",
+		"name": "shapes",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
