@@ -41634,7 +41634,7 @@
 				"name": "BBurner's"
 			}
 		],
-		"description": "MT-RandomThings\nby: MaxTechnik\n\nThis mod adds random stuff that probably won't make sense to you. Because it's for my survival world so I can play it with friends.\n\nAnother mod we have in our survival is BBurner's mod. It also had recipes but for some reason it didn't work, so the recipes from BBurner's mod are in this mod so it's necessary to download BBurner's mod as well.\n",
+		"description": "MT-RandomThings\nby: MaxTechnik\n\nThis mod adds random stuff that probably won't make sense to you. Because it's for my survival world so I can play it with friends.\n\nAnother mod we have in our survival is BBurner's mod. It also had recipes but for some reason it didn't work, so the recipes from BBurner's mod are in this mod so it's necessary to download BBurner's mod as well.\n\nOur Project server: https://discord.gg/MstjHmR7dd",
 		"fileId": 3406902793,
 		"localId": "5b9e782f-bd9d-461f-9168-340f80250a1a",
 		"name": "MT-RandomThings",
@@ -44063,7 +44063,7 @@
 	"e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Adds 1 new tool, 10 new blocks and 32 new interactables.",
+		"description": "Adds 1 new tool, 10 new blocks and 30 new interactables.\nIf you have any questions about the mod, feel free to leave them in the comments, I(#d4af37T) will answer them as soon as I can.",
 		"fileId": 3438987478,
 		"localId": "e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5",
 		"name": "T mod",
@@ -45101,6 +45101,16 @@
 		"fileId": 3574912513,
 		"localId": "85a6e649-d416-43e5-bf7f-0fca4a34bb1a",
 		"name": "shapes",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"15310ea5-36ab-414e-af67-61ece3429df9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3575282986,
+		"localId": "15310ea5-36ab-414e-af67-61ece3429df9",
+		"name": "OLD blocks",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
