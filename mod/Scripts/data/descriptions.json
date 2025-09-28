@@ -41621,7 +41621,7 @@
 	},
 	"5b9e782f-bd9d-461f-9168-340f80250a1a": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"dependencies": [
 			{
 				"fileId": 3405509759,
@@ -45111,6 +45111,16 @@
 		"fileId": 3575282986,
 		"localId": "15310ea5-36ab-414e-af67-61ece3429df9",
 		"name": "OLD blocks",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"c04d1854-1f26-4c54-88d4-8359b31e83f7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "decor",
+		"fileId": 3576385570,
+		"localId": "c04d1854-1f26-4c54-88d4-8359b31e83f7",
+		"name": "decor warehouse",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
