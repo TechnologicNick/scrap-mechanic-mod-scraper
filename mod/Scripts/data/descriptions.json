@@ -44103,6 +44103,13 @@
 	"35c147a0-48df-445c-957c-e3cd4867276d": {
 		"allow_add_mods": true,
 		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 3535050367,
+				"localId": "3d56e303-8aa6-434e-bd21-cf6f20555287",
+				"name": "at2sm"
+			}
+		],
 		"description": "This mod is under active development and will be updated soon!\n\nCurrently, the mod features:\n+ Anti-spam protection – prevents duplicate lifts and improves server stability.\n+ Persistent selected body – keep your creation on the lift even if you unequip it without losing selection.\n+ No sprint block – you can sprint while holding a selected body.\n\nWhat is planned:\n* More QoL improvements.\n* More configurable(Via chat comands or GUI).",
 		"fileId": 3524153924,
 		"localId": "35c147a0-48df-445c-957c-e3cd4867276d",
