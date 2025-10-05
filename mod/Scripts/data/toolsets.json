@@ -6603,5 +6603,11 @@
 			"2bff990a-0e74-43c7-b7dc-889b3a086fa3"
 		]
 	},
-	"62ab7192-c581-4833-851a-0ac37cec3442": {}
+	"62ab7192-c581-4833-851a-0ac37cec3442": {},
+	"95e778b5-ec31-42e7-bc24-4294809484f9": {
+		"$CONTENT_95e778b5-ec31-42e7-bc24-4294809484f9/Tools/Database/ToolSets/example.toolset": []
+	},
+	"c5d4e07b-7be3-49b1-a99f-ec20d7173166": {
+		"$CONTENT_c5d4e07b-7be3-49b1-a99f-ec20d7173166/Tools/Database/ToolSets/example.toolset": []
+	}
 }
