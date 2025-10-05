@@ -45124,7 +45124,7 @@
 	"c04d1854-1f26-4c54-88d4-8359b31e83f7": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "decor 1.4",
+		"description": "decor 1.5",
 		"fileId": 3576385570,
 		"localId": "c04d1854-1f26-4c54-88d4-8359b31e83f7",
 		"name": "decor warehouse",
@@ -45158,6 +45158,17 @@
 		"fileId": 3579194993,
 		"localId": "f66c2dd4-724a-4120-ae8d-d9d973a5f505",
 		"name": "food made by mechanics",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"62ab7192-c581-4833-851a-0ac37cec3442": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "Logo Benny Bob modélisé par Clafi.\nDispoinble en version 5 blocs et 31 blocs de large.\n\n(Pour l'instant, je n'arrive pas à faire ajouter la recette au craftbot, il faut donc passer en illimité pour l'avoir)",
+		"fileId": 3580393141,
+		"localId": "62ab7192-c581-4833-851a-0ac37cec3442",
+		"name": "Benny Bob Logo",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
