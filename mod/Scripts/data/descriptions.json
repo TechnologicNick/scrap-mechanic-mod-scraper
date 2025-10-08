@@ -45163,9 +45163,9 @@
 	},
 	"62ab7192-c581-4833-851a-0ac37cec3442": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"dependencies": null,
-		"description": "Logo Benny Bob modélisé par Clafi.\nDispoinble en version 5 blocs et 31 blocs de large.\n\n(Pour l'instant, je n'arrive pas à faire ajouter la recette au craftbot, il faut donc passer en illimité pour l'avoir)",
+		"description": "Logo Benny Bob modélisé par Clafi.\r\nDisponible en version 5 blocs et 31 blocs de large.\r\n\r\n(Pour l'instant, je n'arrive pas à faire ajouter la recette au craftbot, il faut donc passez en illimité pour l'avoir)",
 		"fileId": 3580393141,
 		"localId": "62ab7192-c581-4833-851a-0ac37cec3442",
 		"name": "Benny Bob Logo",
