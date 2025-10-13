@@ -45232,5 +45232,16 @@
 		"name": "Module (custom)",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"54ee7b1d-3f3d-4305-bf28-1304311084f2": {
+		"allow_add_mods": true,
+		"author": "Your Name Here",
+		"custom_icons": true,
+		"description": "Adds Hank, a new friendly bot that helps you fight! FULLY UNTESTED!!!!! USE AT YOUR OWN RISK!!!!! MAKE BACKUPS!!!!!!",
+		"fileId": 3585503573,
+		"localId": "54ee7b1d-3f3d-4305-bf28-1304311084f2",
+		"name": "Hank The Friendly Haybot",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
