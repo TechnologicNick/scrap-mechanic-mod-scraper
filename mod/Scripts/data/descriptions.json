@@ -45243,5 +45243,15 @@
 		"name": "Hank The Friendly Haybot",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"cf385814-4318-44ae-ab48-fc9aa658f1ee": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3587477519,
+		"localId": "cf385814-4318-44ae-ab48-fc9aa658f1ee",
+		"name": "plane 3d",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
