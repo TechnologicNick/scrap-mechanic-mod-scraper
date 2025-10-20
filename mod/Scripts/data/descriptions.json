@@ -45287,7 +45287,7 @@
 	"9cba83e8-96a4-4bde-8090-5f03bb575e3e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "Blocks\nVase\nbath collision\nbath Not collision\nstanding circle 3 blocks \nInvisible player seat\nstanding circle 4 blocks \nstanding circle 2 blocks \nstanding circle 7 blocks \nstanding circle 8 blocks \nstanding circle 18 blocks \nstanding circle 19 blocks \nstanding circle 9 blocks \nstanding circle 6 blocks \nstanding circle 5 blocks \nCameraSensor\nAudioBlock\nEngine1x1\nThruster1x1\nchallengeball\nball\nSensor\nLaser 1.29L\nghostly debris c0.11\n???\nsunflower\nAudioSmallWheel\nInfpiston\nBigExplosion\n\nTools\nZoom Tool",
 		"fileId": 3590156425,
 		"localId": "9cba83e8-96a4-4bde-8090-5f03bb575e3e",
 		"name": "BlockTest0001",
