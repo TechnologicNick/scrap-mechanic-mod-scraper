@@ -5763,6 +5763,7 @@
 			"cce67b73-6ee1-4706-b10f-581b8fdbd0f5",
 			"4fdfddcf-29d2-4763-a4cb-8a7b920dcb6b",
 			"1d4ad9d9-801b-4a32-9b8a-3eb7ccb312cf",
+			"01884998-8f3a-4e79-ab8c-db613ec232b6",
 			"134e6839-2d3b-46a2-a5a3-ecc964b6eb0d"
 		]
 	},
@@ -6618,5 +6619,10 @@
 	"f5a7de7b-24a5-43b7-88ef-ceb076028d63": {},
 	"54ee7b1d-3f3d-4305-bf28-1304311084f2": {},
 	"cf385814-4318-44ae-ab48-fc9aa658f1ee": {},
-	"c521b39b-0cff-4ef5-b0ef-75c11aaf9111": {}
+	"c521b39b-0cff-4ef5-b0ef-75c11aaf9111": {},
+	"d9079b31-e5fb-4d55-8b99-4b3f00c10998": {
+		"$CONTENT_d9079b31-e5fb-4d55-8b99-4b3f00c10998/Tools/Database/ToolSets/example.toolset": []
+	},
+	"67ad4880-1e19-4a2c-9771-6544f9bf912c": {},
+	"9cba83e8-96a4-4bde-8090-5f03bb575e3e": {}
 }
