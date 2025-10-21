@@ -6624,5 +6624,8 @@
 		"$CONTENT_d9079b31-e5fb-4d55-8b99-4b3f00c10998/Tools/Database/ToolSets/example.toolset": []
 	},
 	"67ad4880-1e19-4a2c-9771-6544f9bf912c": {},
-	"9cba83e8-96a4-4bde-8090-5f03bb575e3e": {}
+	"9cba83e8-96a4-4bde-8090-5f03bb575e3e": {},
+	"e777df8a-165a-472c-af1b-8e1633066ed6": {
+		"$CONTENT_e777df8a-165a-472c-af1b-8e1633066ed6/Tools/Database/ToolSets/example.toolset": []
+	}
 }
