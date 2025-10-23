@@ -45303,5 +45303,15 @@
 		"name": "NewWorld",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"4e1b138e-1875-45f6-8f6a-9aba1a16ea39": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "",
+		"fileId": 3592018108,
+		"localId": "4e1b138e-1875-45f6-8f6a-9aba1a16ea39",
+		"name": "The Destroyed Land",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
