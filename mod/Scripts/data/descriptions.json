@@ -44622,10 +44622,10 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "Hello mechanics\n\nI present to you my first mod for our favorite game. Which adds bodies of real cars. So far only 8 cars are available, but later there will be much more!\n\nAnd I will say right away that you do not see your character in the cabin, this is normal, as is the first-person camera (game conventions)\n\nThis mod adds:\n- 1984 Ferrari 288 GTO\n- 1985 Lamborghini Countach Lp 5000 QV\n- 1984 Toyota Сelica Supra\n- 1987 Toyota Corolla Levin AE92 GT-Apex\n- 1993 Mazda RX-7 FD3S\n- 1994 Lamborghini Diablo VT\n- 1964 AZLK 412 Moskvich\n- 1969 Ford Mustang Fastback\n\nI hope you like it, have a nice trip!",
+		"description": "Hello again mechanics\r\n\r\nI present to you update for my first mod for our favorite game. Which adds bodies of real cars. So far only 16 cars are available, but later there will be much more!\r\n\r\nAnd I will say right away that you do not see your character in the cabin, this is normal, as is the first-person camera (game conventions)\r\n\r\nThis mod adds:\r\nv1.1\r\n- 1970 Pontiac Firebird\r\n- 1969 Gavril Barstow\r\n- 1980 Lada Nova GTS\r\n- 1973 Porsche 911 Carrera RS 2.7\r\n- 1970 AMC Javelin\r\n- 1972 Fiat X1/9\r\n- 1981 DMC-12 Delorean\r\n- 1997 Lada Samara 2115\r\n\r\nv1.0\r\n- 1984 Ferrari 288 GTO\r\n- 1985 Lamborghini Countach Lp 5000 QV\r\n- 1984 Toyota Сelica Supra\r\n- 1987 Toyota Corolla Levin AE92 GT-Apex\r\n- 1993 Mazda RX-7 FD3S\r\n- 1994 Lamborghini Diablo VT\r\n- 1964 AZLK 412 Moskvich\r\n- 1969 Ford Mustang Fastback\r\n\r\nI hope you like it, have a nice trip!",
 		"fileId": 3549463258,
 		"localId": "48765a2b-4a03-456b-b08b-189e01e36301",
-		"name": "Reghint car pack V1.1",
+		"name": "Reghint car pack V1.1.1",
 		"type": "Blocks and Parts",
 		"version": 1.1
 	},
