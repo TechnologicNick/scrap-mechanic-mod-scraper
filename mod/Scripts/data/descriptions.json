@@ -45313,5 +45313,25 @@
 		"name": "The Destroyed Land",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"e2f49f76-d06d-44b3-8c2f-36e32cfc69bc": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "кастомка для ивентов на сервере https://discord.gg/Pm9r5BgGmT",
+		"fileId": 3592657457,
+		"localId": "e2f49f76-d06d-44b3-8c2f-36e32cfc69bc",
+		"name": "ROBO WAR",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"77883813-793e-43f7-908d-dbc412360a51": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Mod który zasadniczo dodaje numery linii tramwajowych i tablic relacyjnych, które są offsetowane i pasują do szczególnych kreacji. nie polecam.",
+		"fileId": 3592715718,
+		"localId": "77883813-793e-43f7-908d-dbc412360a51",
+		"name": "Kruciek asstes pack",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
