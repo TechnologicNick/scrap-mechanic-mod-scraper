@@ -45226,7 +45226,7 @@
 	"f5a7de7b-24a5-43b7-88ef-ceb076028d63": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "Some other shaped components\r\n这个模组含有其他形状部件",
 		"fileId": 3585471264,
 		"localId": "f5a7de7b-24a5-43b7-88ef-ceb076028d63",
 		"name": "Module (custom)",
@@ -45287,7 +45287,7 @@
 	"9cba83e8-96a4-4bde-8090-5f03bb575e3e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Blocks\nVase\nbath collision\nbath Not collision\nstanding circle 3 blocks \nInvisible player seat\nstanding circle 4 blocks \nstanding circle 2 blocks \nstanding circle 7 blocks \nstanding circle 8 blocks \nstanding circle 18 blocks \nstanding circle 19 blocks \nstanding circle 9 blocks \nstanding circle 6 blocks \nstanding circle 5 blocks \nCameraSensor\nAudioBlock\nEngine1x1\nThruster1x1\nchallengeball\nball\nSensor\nLaser 1.29L\nghostly debris c0.11\n???\nsunflower\nAudioSmallWheel\nburnt bush\nBigExplosion\nAudioBigWheel\n\nTools\nZoom Tool",
+		"description": "Blocks1\nbath collision\ncrab block!?\n\nBlocks2\nbath Not collision\nstanding circle 3 blocks \nInvisible player seat\nstanding circle 4 blocks \nstanding circle 2 blocks \nstanding circle 7 blocks \nstanding circle 8 blocks \nstanding circle 18 blocks \nstanding circle 19 blocks \nstanding circle 9 blocks \nstanding circle 6 blocks \nstanding circle 5 blocks \nVase\nCameraSensor\nAudioHorn\nhorn+\nEngine1x1\nThruster1x1\nchallengeball\nball\nSensor\nLaser 1.29L\nghostly debris c0.11\n???\nsunflower\nAudioSmallWheel\nAudioBigWheel\nBigExplosion\nburnt bush\nLift1\nLift2\nLift3\nLiftPiston\n\nWedges\ncrab Wedge??!\ncrab Wedge!?\n\nTools\n#ff00ffScrapTool\n#00ff00Zoom Tool",
 		"fileId": 3590156425,
 		"localId": "9cba83e8-96a4-4bde-8090-5f03bb575e3e",
 		"name": "BlockTest0001",
@@ -45327,7 +45327,8 @@
 	"77883813-793e-43f7-908d-dbc412360a51": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Mod który zasadniczo dodaje numery linii tramwajowych i tablic relacyjnych, które są offsetowane i pasują do szczególnych kreacji. nie polecam.",
+		"dependencies": null,
+		"description": "Mod który zasadniczo dodaje numery linii tramwajowych i tablic relacyjnych, które są offsetowane i pasują do szczególnych kreacji oraz inne różne pierdoły. nie polecam.",
 		"fileId": 3592715718,
 		"localId": "77883813-793e-43f7-908d-dbc412360a51",
 		"name": "Kruciek asstes pack",
