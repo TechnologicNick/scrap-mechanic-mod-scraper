@@ -44062,7 +44062,7 @@
 	},
 	"e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"description": "Adds 1 new tool, 10 new blocks and 30 new interactables.\nIf you have any questions about the mod, feel free to leave them in the comments, I(#d4af37T) will answer them as soon as I can.",
 		"fileId": 3438987478,
 		"localId": "e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5",
@@ -45334,5 +45334,13 @@
 		"name": "Kruciek asstes pack",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"7eeec19c-c34e-4364-a38f-229619e2e41a": {
+		"description": "Signalisation du Métro de Bycongo",
+		"fileId": 2288702013,
+		"localId": "7eeec19c-c34e-4364-a38f-229619e2e41a",
+		"name": "Signalisation Bycongo",
+		"type": "Blocks and Parts",
+		"version": 0
 	}
 }
