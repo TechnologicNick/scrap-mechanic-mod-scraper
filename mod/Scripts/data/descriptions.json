@@ -45362,5 +45362,15 @@
 		"name": "Custom Modules reupload",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"4cd9d05a-7bdf-4113-9fd2-fe8c66be3eaf": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Unleash your creativity, build your own world brick by brick using BITZ!\r\n\r\nThis mod introduces over 140 different parts and interactables to build with.\r\nCreate your very own vehicles and machines using BITZ\r\n\r\nPlease share your awesome creations below, or in a discussion!\r\n\r\nGive a special thanks to community members for their support in development!",
+		"fileId": 3562913919,
+		"localId": "4cd9d05a-7bdf-4113-9fd2-fe8c66be3eaf",
+		"name": "BitZ Bricks",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
