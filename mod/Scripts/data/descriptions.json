@@ -14884,7 +14884,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": [],
-		"description": "I are you afraid of the dark? you may want some glowsticks.\n\nseems there was a blackout, I'm sure it's fine\n\nnew spud gun with light(craftable)*fixed visuals\na new sky command (/sky) to make the sky black/blockout the grey sky(and saves its setting acrossed exiting & reentering the game)\n\n(It has a long load time)\n\nplease check comments for your Questions and then ask them if there's not an answer",
+		"description": "I are you afraid of the dark? you may want some glowsticks.\n\nseems there was a blackout, I'm sure it's fine\n\n-new spud gun with -light(craftable)*fixed visuals\na new sky command (/sky) to make the sky black/blockout the grey sky(and saves its setting acrossed exiting & reentering the game)\n-new broken flashing lights\n\n(It has a long load time)\n\nplease check comments for your Questions and then ask them if there's not an answer",
 		"fileId": 2812330833,
 		"localId": "7ac05a15-f6ef-4ce6-9968-044c42a4db33",
 		"name": "Dark Mechanic",
