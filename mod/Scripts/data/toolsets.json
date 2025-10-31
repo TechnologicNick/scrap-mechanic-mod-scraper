@@ -6641,5 +6641,11 @@
 	"7eeec19c-c34e-4364-a38f-229619e2e41a": {},
 	"1366881a-067e-4767-a24f-a6c6e64d71c6": {},
 	"9b5c8335-cebd-426a-8e8b-ff8430008fcb": {},
-	"4cd9d05a-7bdf-4113-9fd2-fe8c66be3eaf": {}
+	"4cd9d05a-7bdf-4113-9fd2-fe8c66be3eaf": {},
+	"fa72db48-53af-458c-a1d0-18f20b2f931b": {
+		"$CONTENT_fa72db48-53af-458c-a1d0-18f20b2f931b/Tools/Database/ToolSets/myToolset.toolset": [
+			"899580f1-a9ae-414f-8183-0b60ab925215",
+			"870fbc32-938e-487d-ab76-9e629bdf89c1"
+		]
+	}
 }
