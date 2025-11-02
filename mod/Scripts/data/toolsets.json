@@ -5630,7 +5630,9 @@
 	"6b4d612d-7bd8-4e04-93b5-7413bb5d833e": {},
 	"962afb13-362f-4b24-8f35-99dfdb10a7b0": {
 		"$CONTENT_962afb13-362f-4b24-8f35-99dfdb10a7b0/Tools/Database/ToolSets/tools.toolset": [
-			"e719ca22-c998-4f43-8068-b6aea08caa52"
+			"e719ca22-c998-4f43-8068-b6aea08caa52",
+			"415a8929-bd38-403e-a1b3-a8f3382b4c46",
+			"78bbb18c-f5e3-459f-a163-7b5dbe9dfa4a"
 		]
 	},
 	"1b3f108e-c056-4a87-80bb-a2735ac8fff9": {},
