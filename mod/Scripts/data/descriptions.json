@@ -42258,10 +42258,10 @@
 	"3abf4d17-11cd-4d4d-b410-b4c61b400bac": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Add more parts and blocks for game. Its very cool!\r\nNew tool : Ak-12 with model\r\n",
-		"fileId": 3424845976,
+		"description": "Hello everyone! This mod adds incredible tools and blocks to your world, making it more colorful and diverse. Details: Rocket Launcher with homing missile (ATGM), AK-12 with perfect bullets, mp5, and more!",
+		"fileId": 3600170944,
 		"localId": "3abf4d17-11cd-4d4d-b410-b4c61b400bac",
-		"name": "++ GameBlocks",
+		"name": "The New Systems Pack 2",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -45404,6 +45404,16 @@
 		"fileId": 3596843586,
 		"localId": "4591a4c2-0f5c-4cce-9925-930f2535fc70",
 		"name": "A lot of Blocks with editor!",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"58f2aed4-f18e-466c-9b1e-407f8b084fc1": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "stuuuuuuuuuuuuuuuuuf mod",
+		"fileId": 3600270735,
+		"localId": "58f2aed4-f18e-466c-9b1e-407f8b084fc1",
+		"name": "door mel",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
