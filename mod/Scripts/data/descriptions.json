@@ -45416,5 +45416,55 @@
 		"name": "door mel",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"1690c5af-ea4e-4bae-84ed-91a70f37906e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "in development and isnt playable",
+		"fileId": 3599212227,
+		"localId": "1690c5af-ea4e-4bae-84ed-91a70f37906e",
+		"name": "T survival",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"b24355bf-fdc4-464d-885c-121979aeabbd": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod changes Original Scrap Mechanic Radio to Scrap Mechanics WaterparkSimulator Radio\n\n\nnavigate to Steam \\ steamapps \\ workshop \\ content \\ 387990 \\ 3602021165\nunzip Master Bank.rar\n\ncopy Master Bank.bank to Steam \\ steamapps \\ common \\ Scrap Mechanic \\ Data \\ Audio \\ Banks\n\nand overwrite original (make a backup from your original Master Bank.bank )",
+		"fileId": 3602035934,
+		"localId": "b24355bf-fdc4-464d-885c-121979aeabbd",
+		"name": "InGame-Music Waterparksimulator",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"57d9288b-c2bc-4019-8d7e-055a554e9e71": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Survival mode with the physics quality of Creative mode.",
+		"fileId": 3602086512,
+		"localId": "57d9288b-c2bc-4019-8d7e-055a554e9e71",
+		"name": "Rigid Survival",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"6ceec415-3600-4d2c-95e8-1858cd210892": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Obvious and doesnt need a description",
+		"fileId": 3602124747,
+		"localId": "6ceec415-3600-4d2c-95e8-1858cd210892",
+		"name": "No hammer and no lift",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"b68afc76-6ceb-436d-8ff1-5cbc7400ad73": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3602190293,
+		"localId": "b68afc76-6ceb-436d-8ff1-5cbc7400ad73",
+		"name": "BlueBerry Team Studio Billboards",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

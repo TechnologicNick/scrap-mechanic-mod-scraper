@@ -3616,5 +3616,23 @@
 	},
 	"e2f49f76-d06d-44b3-8c2f-36e32cfc69bc": {
 		"$CONTENT_e2f49f76-d06d-44b3-8c2f-36e32cfc69bc/Harvestables/Database/HarvestableSets/example.harvestableset": []
+	},
+	"1690c5af-ea4e-4bae-84ed-91a70f37906e": {
+		"$CONTENT_1690c5af-ea4e-4bae-84ed-91a70f37906e/Harvestables/Database/HarvestableSets/example.harvestableset": [],
+		"$CONTENT_1690c5af-ea4e-4bae-84ed-91a70f37906e/Harvestables/Database/HarvestableSets/Stone.harvestableset": [
+			"0d3362ae-4cb3-42ae-8a08-d3f9ed79e274",
+			"f6b8e9b8-5592-46b6-acf9-86123bf630a9",
+			"60ad4b7f-a7ef-4944-8a87-0844e6305513",
+			"ab5b947e-a223-4842-83dd-aa6b23ac2b86",
+			"5da6c862-8a5c-4b56-90d3-5f038d569c4a",
+			"90e0ef6a-8409-4459-8926-e5351d7da611",
+			"ab362045-0444-4749-9f24-f5e850162857",
+			"63fb92b3-e1dc-4b5c-9ed3-7b572bc01ca4",
+			"67111401-1ee1-4bfb-8780-fa878352f90d"
+		]
+	},
+	"57d9288b-c2bc-4019-8d7e-055a554e9e71": {},
+	"6ceec415-3600-4d2c-95e8-1858cd210892": {
+		"$CONTENT_6ceec415-3600-4d2c-95e8-1858cd210892/Harvestables/Database/HarvestableSets/example.harvestableset": []
 	}
 }

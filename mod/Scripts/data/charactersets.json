@@ -1548,5 +1548,12 @@
 	},
 	"e2f49f76-d06d-44b3-8c2f-36e32cfc69bc": {
 		"$CONTENT_e2f49f76-d06d-44b3-8c2f-36e32cfc69bc/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"1690c5af-ea4e-4bae-84ed-91a70f37906e": {
+		"$CONTENT_1690c5af-ea4e-4bae-84ed-91a70f37906e/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"57d9288b-c2bc-4019-8d7e-055a554e9e71": {},
+	"6ceec415-3600-4d2c-95e8-1858cd210892": {
+		"$CONTENT_6ceec415-3600-4d2c-95e8-1858cd210892/Characters/Database/CharacterSets/example.characterset": []
 	}
 }
