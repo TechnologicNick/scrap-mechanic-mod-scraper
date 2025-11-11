@@ -45466,5 +45466,25 @@
 		"name": "BlueBerry Team Studio Billboards",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"fad697e9-4fc9-4024-b338-8b670cde3591": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1]Cave Johnson Painting Mod[/h1]\r\n[hr][/hr]\r\n[b]Описание:[/b]\r\nЭтот мод добавляет в [u]Scrap Mechanic[/u] три декоративные картины, посвящённые Кейву Джонсону, легендарному основателю Aperture Science, и его верной помощнице Кэролайн.\r\n[hr][/hr]\r\nОсобенности:\r\n[list]\r\n [*]🖼 Три уникальные картины\r\n [*]👩\u200d🔬 Одна из картин изображает Кейва Джонсона и Кэролайн\r\n [*]🧪 Стиль, вдохновлённый эстетикой [u]Aperture Science[/u]\r\n [*]🛠 Подходит для построек связанных с  [u]portal 2[/u]\r\n[/list]\r\n[hr][/hr]\r\nОтдельная благодарность [b]Klod_[/b] за помощь при создании обложки, ему особый респект!\r\n [hr][/hr]\r\n[b]Просим поддержать нас лайком или подпиской, нам будет приятно![/b]\r\nВсем удачи!",
+		"fileId": 3603231677,
+		"localId": "fad697e9-4fc9-4024-b338-8b670cde3591",
+		"name": "Cave Johnson Painting Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"3f08fc72-fef1-4bd4-9809-a04612d2e847": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1]A Community-Based GUI Library for Scrap Mechanic[/h1]\nsm.regui is a [b]Scrap Mechanic library mod[/b] that allows modders to [b]create advanced graphical user interfaces[/b] that are normally not possible with sm.gui.\n\nWith sm.regui, you can:\n[list]\n    [*] [b]Create, destroy, and fully control widgets[/b]\n    [*] Use a flexible template system\n    [*] Support fullscreen GUIs (allowing widgets to be placed anywhere on the screen and adapt to all in-game resolutions)\n    [*] Use functions that are now implemented! (e.g., GuiInterface:setData)\n    [*] Easily translate text with a built-in translation system\n    [*] Draw any font you desire in any rotation*\n    [*] Create lists with the flexible widgets API.\n    [*] Play high-quality compressed 720p video.\n[/list]\n\nFor examples, check out the [url=https://github.com/ReDoIngMods/sm.regui/blob/main/Examples]Examples[/url] directory!\nFor documentation, refer to the [url=https://github.com/ReDoIngMods/sm.regui/blob/main/ReGuiDef.lua]ReGuiDef[/url] definition file!\nGithub repository can be found [url=https://github.com/ReDoIngMods/sm.regui]here[/url].\n\n[hr][/hr]\n[h1]Notes about this library:[/h1]\n[quote]\n    [h2]This library is not guranteed to work in future game updates![/h2]\n    This GUI library uses a JSON exploit that allows modders to create MyGui Layout Files! As a result, the library may break in future game updates.\n[/quote]\n[quote]\n    [h2]Consider optimization if you're using sm.regui for animations, etc.[/h2]\n    The GUI exploit being used will result in bloated files that [b]cannot be deleted without user assistance.[/b]\n    \n    For example, Anything related for positioning and resizing (as a animation) should be done with controllers to reduce bloat.\n[/quote]\n[quote]\n    [h2]Latest known supported game version[/h2]\n    The latest known version that works with this library is: [b]Scrap Mechanic BETA Ver 0.7.3 Build 776[/b]\n[/quote]\n[quote]\n    [h2]Not Supported in MyGui LayoutEditor[/h2]\n    sm.regui uses a custom layout file structure (called relayout ",
+		"fileId": 3603438085,
+		"localId": "3f08fc72-fef1-4bd4-9809-a04612d2e847",
+		"name": "sm.regui",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
