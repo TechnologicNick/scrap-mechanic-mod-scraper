@@ -6686,5 +6686,10 @@
 		"$CONTENT_3f08fc72-fef1-4bd4-9809-a04612d2e847/Tools/Database/ToolSets/main.toolset": [
 			"a4f45ac4-99e4-4d01-b787-f8897dc442db"
 		]
+	},
+	"2264cf0c-8192-4ea3-b44b-fec721aae6d6": {
+		"$CONTENT_2264cf0c-8192-4ea3-b44b-fec721aae6d6/Tools/Database/ToolSets/jumpscare.toolset": [
+			"2a0e71ea-4250-4996-802d-bdce7cd84ac3"
+		]
 	}
 }
