@@ -6643,7 +6643,8 @@
 			"f6250bf4-9726-406f-a29a-945c06e460e5",
 			"9fde0601-c2ba-4c70-8d5c-2a7a9fdd122b",
 			"bb641a4f-e391-441c-bc6d-0ae21a069476",
-			"ed185725-ea12-43fc-9cd7-4295d0dbf88b"
+			"ed185725-ea12-43fc-9cd7-4295d0dbf88b",
+			"3028ca39-8ce2-4627-9bf8-ed5496dac288"
 		]
 	},
 	"77883813-793e-43f7-908d-dbc412360a51": {},
@@ -6690,6 +6691,11 @@
 	"2264cf0c-8192-4ea3-b44b-fec721aae6d6": {
 		"$CONTENT_2264cf0c-8192-4ea3-b44b-fec721aae6d6/Tools/Database/ToolSets/jumpscare.toolset": [
 			"2a0e71ea-4250-4996-802d-bdce7cd84ac3"
+		]
+	},
+	"38f0498f-026e-4921-9bbb-4f5e56543a1f": {
+		"$CONTENT_38f0498f-026e-4921-9bbb-4f5e56543a1f/Tools/Database/ToolSets/example.toolset": [
+			"f2f086d5-d7d6-4696-8cde-615778a299c2"
 		]
 	}
 }
