@@ -45506,5 +45506,25 @@
 		"name": "HOLLOW KNIGHT OST CUSTOM RAID",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"a657c844-82dd-449c-a36d-dbf4cd85c0aa": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "",
+		"fileId": 3606296648,
+		"localId": "a657c844-82dd-449c-a36d-dbf4cd85c0aa",
+		"name": "Custom Modules",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a52dfada-15c8-474a-8e9b-efd30b7b2c7e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Weather visuals for creative worlds\n\nCommands:\n\n- /weather (rain/snow/clear)\n\n- /timeset (value between 0-1) noon=0.5\n\n- /daytimecycle (optional duration in min)",
+		"fileId": 3606363334,
+		"localId": "a52dfada-15c8-474a-8e9b-efd30b7b2c7e",
+		"name": "Weather Visuals",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
