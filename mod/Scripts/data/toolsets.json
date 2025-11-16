@@ -6703,5 +6703,10 @@
 		"$CONTENT_a52dfada-15c8-474a-8e9b-efd30b7b2c7e/Tools/Database/ToolSets/example.toolset": [
 			"279b607d-6ed4-46e1-9ec9-91b9eac75874"
 		]
+	},
+	"21544127-6af1-4acc-9ebc-f31299593fb7": {
+		"$CONTENT_21544127-6af1-4acc-9ebc-f31299593fb7/Tools/Database/ToolSets/example.toolset": [
+			"4bf9b14e-88aa-4cde-8881-2a1b2bea776e"
+		]
 	}
 }
