@@ -3634,5 +3634,26 @@
 	"57d9288b-c2bc-4019-8d7e-055a554e9e71": {},
 	"6ceec415-3600-4d2c-95e8-1858cd210892": {
 		"$CONTENT_6ceec415-3600-4d2c-95e8-1858cd210892/Harvestables/Database/HarvestableSets/example.harvestableset": []
+	},
+	"4aa7d57b-90ce-447e-a3dd-4c42ceb78b9a": {
+		"$CONTENT_4aa7d57b-90ce-447e-a3dd-4c42ceb78b9a/Harvestables/Database/HarvestableSets/bushes.harvestableset": [
+			"57aa1b73-9072-4619-bf4b-e4b837f94808",
+			"86049db1-8f4e-44a7-8d0a-63bafdcd0748",
+			"580a90a4-f8f8-428e-9ab0-224e5d9ad360",
+			"156839be-0f6d-4d98-a8c2-e7314a87a801",
+			"04962881-9fa6-4882-8014-ed98aed86e33",
+			"c0dff23c-44d6-4015-b22b-3333a6ae3d33",
+			"aa7d4508-8872-4cce-b9bd-f8018284af64",
+			"88bdd49d-4f1f-426a-9d94-3703dc74bc35",
+			"fc6a34f0-df37-4aff-9b74-88f634a83319",
+			"2ab7f30b-438a-401c-ae53-4536a0ebfc60",
+			"98f6695b-a98f-4cfa-81c2-62406831836c",
+			"c311dc77-95b1-4fe2-9bcb-e4f204f327f3",
+			"226fb16f-5dc9-459c-846d-91c6a4d0aca0",
+			"e644b983-daa5-44c0-abf0-0f9aadf9adf9",
+			"fbc56580-d6d1-423b-a2f1-9b71be249b95",
+			"28b77056-ec0e-4714-be67-04a270c405b9",
+			"c0ddcfb2-cd11-4bee-9273-27316f3d7d3b"
+		]
 	}
 }

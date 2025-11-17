@@ -45530,10 +45530,73 @@
 	"21544127-6af1-4acc-9ebc-f31299593fb7": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod is adds simple calculator with all basic math operators. Supports infinite multi-operator syntax (example: 2*2/2*8...)",
+		"description": "This mod is adds simple calculator with all basic math operators. Supports infinite multi-operator syntax (example: 2*2/2*8...)\n\nNow includes ^ and ()",
 		"fileId": 3606700770,
 		"localId": "21544127-6af1-4acc-9ebc-f31299593fb7",
 		"name": "Calculator",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"4aa7d57b-90ce-447e-a3dd-4c42ceb78b9a": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 3575302032,
+				"localId": "1cf785ff-18e3-40f9-89b5-d7816bf835f4"
+			}
+		],
+		"description": "This mod showcases the hidden, unreleased voxel terrain system which is present in the game (but disabled by default).\r\n\r\nThe mod showcases [b]both gameplay and modding functions and features[/b], which are unlocked by the [url=https://github.com/crackx02/VoxelTerrain]VoxelTerrain DLL Mod[/url].\r\n\r\n\r\n[h2][b] Note: This mod REQUIRES the [url=https://github.com/crackx02/VoxelTerrain]VoxelTerrain DLL Mod[/url] to be installed!\r\n\r\nSee the linked github page for instructions on how to install it![/b][/h2]\r\n\r\n[h2][b] Note 2: For the best experience, make sure to set your game's brightness as low as possible (-100) and have dynamic lights ON! [/b][/h2]\r\n\r\n\r\n[b] Credit and big thanks to:\r\n- The Crashlander Blocks&Parts mod for the 3D model of the drill and pickaxe\r\n- The Red Builder and Fagiano for helping with various smaller things during development, playtesting and keeping the mod a surprise\r\n- Vajdani for helping to get the elevator fan animation working",
+		"fileId": 3575301562,
+		"localId": "4aa7d57b-90ce-447e-a3dd-4c42ceb78b9a",
+		"name": "Voxel Terrain Showcase",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"1cf785ff-18e3-40f9-89b5-d7816bf835f4": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3575302032,
+		"localId": "1cf785ff-18e3-40f9-89b5-d7816bf835f4",
+		"name": "VoxelTerrain Helper",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"fc547072-0a17-4cac-a147-eb8a9191bbc3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Some types of parachutes and same thigs to the Game.\r\n\r\nParachutes now evalaible: 2",
+		"fileId": 3607018995,
+		"localId": "fc547072-0a17-4cac-a147-eb8a9191bbc3",
+		"name": "SkyDrop Modpack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"cf009b6e-0fe0-4dfa-bb70-4fea2bfa593b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Rodiosha pidr",
+		"fileId": 3607130734,
+		"localId": "cf009b6e-0fe0-4dfa-bb70-4fea2bfa593b",
+		"name": "Svininka Rodiona",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"95302406-dc90-45dd-bed9-06d7cb586eee": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3535050367,
+				"localId": "3d56e303-8aa6-434e-bd21-cf6f20555287",
+				"name": "at2sm"
+			}
+		],
+		"description": "This mod extends the size of default worlds.\n\nIt does not work with custom worlds or custom game modes.\n\nIt only affects new worlds (existing saves will not be expanded).",
+		"fileId": 3607187014,
+		"localId": "95302406-dc90-45dd-bed9-06d7cb586eee",
+		"name": "World Extender",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
