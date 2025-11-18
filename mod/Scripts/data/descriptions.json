@@ -45609,5 +45609,25 @@
 		"name": "Scrap Mechanic - Global Winter",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"73e08ad2-3916-453e-82bb-f3cabfd21433": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod is for my blitz, Modern War. It can also be used for regular use\n\nDiscord server link: https://discord.gg/tmXXT2sxMp\n\nThe mod is not created for public use. You can use it, but it's better to be on our discord server then. In case there are any problems in the form of deleting the block that you used and because of this, the building will no longer spawn, so that we can help you.\n\nМод не создан для общественного использования. Вы можете его использовать, но лучше тогда быть на нашем дискорд сервере. В случае если будут какие-то проблемы в виде удаления блока который вы использовали и из-за этого постройка больше не спавнится, чтоб мы могли вам помочь. Ну и просто могли делать баг-фикс.",
+		"fileId": 3238521799,
+		"localId": "73e08ad2-3916-453e-82bb-f3cabfd21433",
+		"name": "Military Components",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"5a088e1c-2cb4-41ff-b72a-6242fc37d4f3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "",
+		"fileId": 3606770610,
+		"localId": "5a088e1c-2cb4-41ff-b72a-6242fc37d4f3",
+		"name": "Enable Survival Player Updated",
+		"type": "Blocks and Parts",
+		"version": 1.1
 	}
 }
