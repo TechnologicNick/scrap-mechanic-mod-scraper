@@ -41208,11 +41208,11 @@
 	},
 	"7a10d694-cc65-413b-a090-c2f69572d3c9": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "Discord server link: https://discord.gg/tmXXT2sxMp\n\n-EN-\n\nThis mod was created for the Modern War Project. It is available to the public to make it easier to find in the workshop. You can use it without any problems, but you should join our Discord community to stay updated on all mod updates, where parts you used may be removed or changed, and we can help you.\n\n-RU-\n\nДанный мод создан для проекта Modern War Project. Он выложен в общий доступ с целью более легкого нахождения в мастерской. Вы можете использовать его без каких-либо проблем, но вам стоит присоединиться к нашему Discord-сообществу, чтобы быть в курсе всех обновлений мода, где могут быть удалены или убраны детали, которые вы использовали, и мы могли бы вам помочь.\n\nСсылка на наш Discord сервер: https://discord.gg/tmXXT2sxMp",
+		"custom_icons": true,
+		"description": "This mod is for my blitz, Modern War. It can also be used for regular use\n\nDiscord server link: https://discord.gg/tmXXT2sxMp\n\nThe mod is not created for public use. You can use it, but it's better to be on our discord server then. In case there are any problems in the form of deleting the block that you used and because of this, the building will no longer spawn, so that we can help you.\n\nМод не создан для общественного использования. Вы можете его использовать, но лучше тогда быть на нашем дискорд сервере. В случае если будут какие-то проблемы в виде удаления блока который вы использовали и из-за этого постройка больше не спавнится, чтоб мы могли вам помочь. Ну и просто могли делать баг-фикс.",
 		"fileId": 3306388787,
 		"localId": "7a10d694-cc65-413b-a090-c2f69572d3c9",
-		"name": "MWP+ Optimized",
+		"name": "Modern War Parts +",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
