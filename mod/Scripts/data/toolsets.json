@@ -6756,5 +6756,10 @@
 			"87cf94fa-a52a-47bd-8d62-47a2e10fe2af",
 			"1c2c4d52-0b02-4d37-a3e8-313ba8f2487b"
 		]
+	},
+	"4239ec93-7078-4970-b5ab-7f05a8174182": {
+		"$CONTENT_4239ec93-7078-4970-b5ab-7f05a8174182/Tools/Database/ToolSets/main.toolset": [
+			"c86cd8e2-f88e-4f92-8a2b-0d84225fbbd1"
+		]
 	}
 }
