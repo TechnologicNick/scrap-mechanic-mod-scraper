@@ -45515,7 +45515,8 @@
 	"a52dfada-15c8-474a-8e9b-efd30b7b2c7e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Weather visuals for creative worlds\n\nCommands:\n\n- /weather (rain/snow/clear)\n\n- /timeset (value between 0-1) noon=0.5\n\n- /daytimecycle (optional duration in min)",
+		"dependencies": null,
+		"description": "[h1][b]Weather visuals for creative worlds (0.1-beta)[/b][/h1]\r\n[hr][/hr]\r\n[h3]Commands[/h3]\r\n[list]\r\n\t[*][b]/weather (rain/snow/clear)[/b] (optional intensity 0-5) (optional radius) (optional height)\r\n\t[*][b]/timeset (value between 0-1)[/b] - [i]noon=0.5[/i]\r\n\t[*][b]/daytimecycle[/b] (optional duration in min) [i]- default 24 min[/i]\r\n\t[*][b]/morning[/b] - [i]sets the daytime to 0.2[/i]\r\n\t[*][b]/evening[/b] - [i]sets the daytime to 0.7[/i]\r\n[/list]\r\n\r\n\r\n[h3]For best rain/snow visuals[/h3]\r\n[list]\r\n\t[*]Change your Draw Distance to Low. (Results in a closer fog like IRL)\r\n\t[*]Set the daytime to 0.2 or /morning. (Darker sky for a more realistic effect)\r\n\t[*]Increase weather intensity. (More particles but may cause lag)\r\n\t[*]If you know how to modify the games texture files. You can create a snowy world as i did in picture 4.\r\n[/list]\r\n\r\n\r\n[h3]Planned features/improvements[/h3]\r\n[list]\r\n\t[*]Support for weather particle spawning at other players location than the host player.\r\n\t[*]Improve weather particle emitters and spawning logic.\r\n\t[*]Clouds.\r\n\t[*]Rain sound effects.\r\n\t[*]Maybe other QoL commands.\r\n\t[*]Weather affected by wind direction.\r\n[/list]\r\n\r\n\r\n[b]! Please note that weather only spawns at the host players location. I am planning on adding weather spawning for other players in the world.[/b]\r\n[hr][/hr]\r\n[img]https://fagiano0.github.io/CrashlanderAPI/images/workshop/ratefavourite.gif[/img]",
 		"fileId": 3606363334,
 		"localId": "a52dfada-15c8-474a-8e9b-efd30b7b2c7e",
 		"name": "Weather Visuals",
