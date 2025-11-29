@@ -45685,5 +45685,15 @@
 		"name": "wheel4",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"d897487d-23d7-4e44-8a11-38fecfccb991": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Happy New Year!",
+		"fileId": 3614464862,
+		"localId": "d897487d-23d7-4e44-8a11-38fecfccb991",
+		"name": "Wham! - Last Christmas Radio",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
