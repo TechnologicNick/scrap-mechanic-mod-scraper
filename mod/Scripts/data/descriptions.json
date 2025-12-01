@@ -42253,7 +42253,7 @@
 	"3abf4d17-11cd-4d4d-b410-b4c61b400bac": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Hello everyone! This mod adds incredible tools and blocks to your world, making it more colorful and diverse.\\n\\nDetails:\\n\\nRocket Launcher with homing missile (ATGM)\\n\\nAK-12 with perfect bullets\\n\\nmp5\\n\\nand more!",
+		"description": "Hello everyone! This mod adds incredible tools and blocks to your world, making it more colorful and diverse.\r\nDetails:\r\n\r\n- Rocket Launcher [ATGM]\r\n  - Can fire [ATGM] missile\r\n\r\n- Assalt Tool\r\n  - 7.61mm bullets\r\n  - 30 Rounds in magazine\r\n\r\n- mp5 Tool\r\n  - 9mm bullets\r\n  - 25 Rounds in magazine\r\n\r\n- Homing Missile Tool\r\n  - Can fire auto guidance missile\r\n\r\n- RPJ\r\n  - High velocity rpj_projectile\r\n\r\n- Air Drop Tool\r\n  - Can chose air drops:\r\n    / First Aid / -  1\r\n    / City /        -  2\r\n    / Army /      -  3\r\n    / Elite /       -  4\r\n\r\n- PistolPP\r\n  - 9mm bullets\r\n  - 14 Rounds in magazine",
 		"fileId": 3600170944,
 		"localId": "3abf4d17-11cd-4d4d-b410-b4c61b400bac",
 		"name": "Air Drop Pack 2 [Creative]",
@@ -44062,7 +44062,7 @@
 	"e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Adds 1 new tool, 10 new blocks and 30 new interactables.\r\nIf you have any questions about the mod, feel free to leave them in the comments, I(#d4af37T) will answer them as soon as I can. Leave any suggestions in comments, I can add most of what you can probably think of.\r\n\r\nThis mod was intended to be for my friends, and friends of my friends so part of the content was stolen from advanced tools and scriptable computers. T power is not working as of right now, content from scriptable computers was removed, bits of code from advanced tools are not usable, all of other content is original if i remember correctly.\r\n",
+		"description": "Adds 1 new tool, 10 new blocks and 30 new interactables.\r\nIf you have any questions about the mod, feel free to leave them in the comments, I(#d4af37T) will answer them as soon as I can. Leave any suggestions in comments, I can add most of what you can probably think of.\r\n\r\nThis mod was intended to be for my friends, and friends of my friends so part of the content was stolen from advanced tools. T power is not working as of right now, bits of code from advanced tools are not usable, all of other content is original if i remember correctly (exept parts of the console).\r\n",
 		"fileId": 3438987478,
 		"localId": "e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5",
 		"name": "T mod",
@@ -44600,7 +44600,7 @@
 	"2403e260-eee3-4d2d-8f56-c2cca098fa69": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h1]Destructive Panel-House Panels Pack Creative Addon[/h1]\r\n\r\nЭтот пак включает полностью разрушаемые бетонные панели, которые реагируют на удары, взрывы и столкновения с постройками.\r\n\r\n[hr]\r\n[h2]Основные возможности[/h2]\r\n[list]\r\n[*]Панели ломаются на части в зависимости от места повреждения.\r\n[*]Полностью окрашиваемые с помощью инструмента покраски.\r\n[*]Сила повреждения зависит от массы и скорости постройки.\r\n[*]Для корректной работы мода при создании мира на карте должна присутствовать хотя бы одна панель из [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3547096631]оригинального Terrain Asset[/url] (устанавливается через Tile Editor).\r\n[/list]\r\n\r\n[hr]\r\n[h2]Размеры панелей[/h2]\r\n[list]\r\n[*][W] Широкая: 11x1x10\r\n[*][N] Узкая: 10x1x10\r\n[/list]\r\n\r\n[hr]\r\n[h2]Что внутри[/h2]\r\n[list]\r\n[*]Цельные панели различных форм и размеров.\r\n[*]Варианты повреждённых панелей для реалистичных сцен.\r\n[*]Поддержка полной кастомизации цвета.\r\n[*]Интерактивная физика разрушений.\r\n[/list]\r\n\r\n[hr]\r\n[h2]Где найти в игре[/h2]\r\n[olist=1]\r\n[*]Откройте [b]Creative Inventory[/b].\r\n[*]Перейдите в раздел [b]INTERACTIVE[/b] или [b]MOD PARTS[/b].\r\n[*]Выберите нужную панель и разместите её на карте.\r\n[*]Покрасьте панель.\r\n[*]Нажмите E на панели.\r\n[/olist]\r\n\r\n[hr]\r\n[h2]Советы по использованию[/h2]\r\n[list]\r\n[*]Для корректной работы мода при создании мира на карте должна присутствовать хотя бы одна панель из оригинального Terrain Asset (устанавливается через Tile Editor).\r\n[*]Для впечатляющих эффектов разрушения используйте более тяжёлые и быстрые постройки.\r\n[*]Комбинируйте панели с другими объектами для создания реалистичных конструкций.\r\n[*]Покраска поможет гармонично вписать панели в любую сцену.\r\n[/list]\r\n\r\n[hr]\r\n",
+		"description": "[h1]Destructive Panel-House Panels Pack Main[/h1]\r\n\r\nЭтот пак включает полностью разрушаемые бетонные панели, которые реагируют на удары, взрывы и столкновения с постройками.\r\n\r\n[hr]\r\n[h2]Основные возможности[/h2]\r\n[list]\r\n[*]Панели ломаются на части в зависимости от места повреждения.\r\n[*]Полностью окрашиваемые с помощью инструмента покраски.\r\n[*]Сила повреждения зависит от массы и скорости постройки.\r\n[/list]\r\n\r\n[hr]\r\n[h2]Размеры панелей[/h2]\r\n[list]\r\n[*][W] Широкая: 11x1x10\r\n[*][N] Узкая: 10x1x10\r\n[/list]\r\n\r\n[hr]\r\n[h2]Что внутри[/h2]\r\n[list]\r\n[*]Цельные панели различных форм и размеров.\r\n[*]Варианты повреждённых панелей для реалистичных сцен.\r\n[*]Поддержка полной кастомизации цвета.\r\n[*]Интерактивная физика разрушений.\r\n[*]Инструмент для настройки панелей.\r\n[/list]\r\n\r\n[hr]\r\n[h2]Где найти в игре[/h2]\r\n[olist=1]\r\n[*]Откройте [b]Creative Inventory[/b].\r\n[*]Перейдите в раздел [b]INTERACTIVE[/b] или [b]MOD PARTS[/b].\r\n[*]Выберите нужную панель и разместите её на карте.\r\n[*]Покрасьте панель.\r\n[*]Нажмите E на панели.\r\n[/olist]\r\n\r\n[hr]\r\n[h2]Советы по использованию[/h2]\r\n[list]\r\n[*]Для впечатляющих эффектов разрушения используйте более тяжёлые и быстрые постройки.\r\n[*]Комбинируйте панели с другими объектами для создания реалистичных конструкций.\r\n[*]Покраска поможет гармонично вписать панели в любую сцену.\r\n[/list]\r\n\r\n[hr]\r\n\r\n\r\nDiscord: https://discord.gg/TJePhfsgzR",
 		"fileId": 3551301395,
 		"localId": "2403e260-eee3-4d2d-8f56-c2cca098fa69",
 		"name": "Destructive Panel-House Panels Pack Creative Addon",
@@ -45589,7 +45589,7 @@
 				"name": "at2sm"
 			}
 		],
-		"description": "This mod extends the size of default worlds.\n\nIt does not work with custom worlds or custom game modes.\n\nIt only affects new worlds (existing saves will not be expanded).",
+		"description": "[h2]NOT A FILE MOD[/h2]\r\nThis mod extends the size of default worlds.\r\n\r\nIt does not work with custom worlds or custom game modes.\r\n\r\nIt only affects [b]new worlds[/b][i](existing saves will not be expanded)[/i].\r\n\r\n[h2]If you disable this mod, you will not be able to enter the world.[/h2]",
 		"fileId": 3607187014,
 		"localId": "95302406-dc90-45dd-bed9-06d7cb586eee",
 		"name": "World Extender",
@@ -45693,6 +45693,26 @@
 		"fileId": 3614464862,
 		"localId": "d897487d-23d7-4e44-8a11-38fecfccb991",
 		"name": "Wham! - Last Christmas Radio",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"4b33c4b8-d586-4169-86f7-7ba90a89321d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "More Blocks!",
+		"fileId": 3615412594,
+		"localId": "4b33c4b8-d586-4169-86f7-7ba90a89321d",
+		"name": "More Blocks (Tileable)",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1316e644-d6a3-40f0-b315-0051e2291c0a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Commands to use: #6bf5ff\\n/sv_ammo return global infinity ammo for Air Drop Pack 2 [CREATIVE] \\n#FFFFFF/help_mod [All commands]\\n/attractive_clear <clear all attractives points>\\n/attractive_can <return true or false th attrectives points can attract>\\n/attractive <mass_point> <position{me} default none>\\n/spawn_mechanic [Spawning the mechanic]\\n/get_uuid <return_uuid>[Get uuid block shape or part] \\n/fly [i think you know it...]\\n/apply_impulse <x> <y> <z>\\n/gravity <number>\\n/spawnVel <uuid> <size> <amount> <velocity>\\n/tpa [teleport to aim]\\n/explosion [Spawn explosion]\\n/spawn_unit <name\\n[woc, worm, tapebot, tapebot_1, tapebot_2, tapebot_3, totebot, farmbot, haybot, ]> <amount> [Spawn unit] \\n/spawn <uuid> <amount> <size[if uuid is block]>\\n/spawn_projectile \\n<name\\n[potato, smallpotato, fries, tomato, carrot, redbeet, redbeet, broccoli, pineapple, orange, blueberry, banana, tape, explosivetape, pesticide, water, fertilizer, chemical, seed, glowstick, loot, epicloot ]> <amount> <velocity> <damage> <spread> [Spawn projectile] \"",
+		"fileId": 3615715929,
+		"localId": "1316e644-d6a3-40f0-b315-0051e2291c0a",
+		"name": "Commands Unlock [UNIVERSAL]",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
