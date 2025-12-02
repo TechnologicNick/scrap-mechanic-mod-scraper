@@ -44619,12 +44619,12 @@
 	},
 	"48765a2b-4a03-456b-b08b-189e01e36301": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"dependencies": null,
-		"description": "Hello again mechanics\n\nI present to you small part of update 1.2! For convenience, I decided to split 1.2 into several mini updates to make it easier for me to do, and here is one of them, namely the light update!\n\nAnd I will say right away that you do not see your character in the cabin, this is normal, as is the first-person camera (game conventions)\n\nChange log:\n\nv1.1.2\n- add sitting character for all cars\n- new spoiler for Diablo\n- Firebird model fixed\n- Countach lights fixed\n- Fiat lights fixed\n\nv1.1.1\n- add lights for all cars\n- AE92 model fixed\n- RX-7 model fixed\n- Lada Samara 2115 model fixed\n- AMC Javelin model fixed\n- new materials for Countach\n- 288 GTO model fixed\n\nv1.1\n- add 1970 Pontiac Firebird\n- add 1969 Gavril Barstow\n- add 1980 Lada Nova GTS\n- add 1973 Porsche 911 Carrera RS 2.7\n- add 1970 AMC Javelin\n- add 1972 Fiat X1/9\n- add 1981 DMC-12 Delorean\n- add 1997 Lada Samara 2115\n\nv1.0\n- add 1984 Ferrari 288 GTO\n- add 1985 Lamborghini Countach Lp 5000 QV\n- add 1984 Toyota Сelica Supra\n- add 1987 Toyota Corolla Levin AE92 GT-Apex\n- add 1993 Mazda RX-7 FD3S\n- add 1994 Lamborghini Diablo VT\n- add 1964 AZLK 412 Moskvich\n- add 1969 Ford Mustang Fastback\n\nI hope you like it, have a nice trip!",
+		"description": "Hello again mechanics\n\nGreetings Mechanics, I want to show you a new and global update for my mod 1.2!\n\nChange log:\n\nv1.2\n-add rearlights for all cars\n-Mustang body modified\n-Celica body fixed\n-Corolla AE92 body fixed\n-Ferrari 288 GTO color changed\n\nv1.1.2\n- add sitting character for all cars\n- new spoiler for Diablo\n- Firebird model fixed\n- Countach lights fixed\n- Fiat lights fixed\n- increased wheel grip\n\nv1.1.1\n- add lights for all cars\n- AE92 model fixed\n- RX-7 model fixed\n- Lada Samara 2115 model fixed\n- AMC Javelin model fixed\n- new materials for Countach\n- 288 GTO model fixed\n\nv1.1\n- add 1970 Pontiac Firebird\n- add 1969 Gavril Barstow\n- add 1980 Lada Nova GTS\n- add 1973 Porsche 911 Carrera RS 2.7\n- add 1970 AMC Javelin\n- add 1972 Fiat X1/9\n- add 1981 DMC-12 Delorean\n- add 1997 Lada Samara 2115\n\nv1.0\n- add 1984 Ferrari 288 GTO\n- add 1985 Lamborghini Countach Lp 5000 QV\n- add 1984 Toyota Celica Supra\n- add 1987 Toyota Corolla Levin AE92 GT-Apex\n- add 1993 Mazda RX-7 FD3S\n- add 1994 Lamborghini Diablo VT\n- add 1964 AZLK 412 Moskvich\n- add 1969 Ford Mustang Fastback\n\nI hope you like it, have a nice trip!",
 		"fileId": 3549463258,
 		"localId": "48765a2b-4a03-456b-b08b-189e01e36301",
-		"name": "Reghint car pack V1.1.2",
+		"name": "Reghint car pack V1.2",
 		"type": "Blocks and Parts",
 		"version": 1.1
 	},
