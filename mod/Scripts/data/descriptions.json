@@ -45725,5 +45725,15 @@
 		"name": "Air Drop Pack 2 [Custom Game]",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"d0dda012-3643-4a12-afcd-3f1fe8aabecf": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3617180618,
+		"localId": "d0dda012-3643-4a12-afcd-3f1fe8aabecf",
+		"name": "Insane survival",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
