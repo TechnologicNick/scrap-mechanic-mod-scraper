@@ -1562,5 +1562,10 @@
 	"1252c2fd-cfa4-43c9-b635-593ea1374787": {},
 	"d0dda012-3643-4a12-afcd-3f1fe8aabecf": {
 		"$CONTENT_d0dda012-3643-4a12-afcd-3f1fe8aabecf/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"662ae38f-166f-46fe-b112-8f285d25ae08": {
+		"$CONTENT_662ae38f-166f-46fe-b112-8f285d25ae08/Characters/Database/CharacterSets/example.characterset": [
+			"00000000-0000-0000-0000-000000000000"
+		]
 	}
 }

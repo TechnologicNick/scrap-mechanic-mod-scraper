@@ -45735,5 +45735,15 @@
 		"name": "Insane survival",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"662ae38f-166f-46fe-b112-8f285d25ae08": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "You haven't had enough with survival, then here's creative mode",
+		"fileId": 3617989569,
+		"localId": "662ae38f-166f-46fe-b112-8f285d25ae08",
+		"name": "Dark Mechanic Creative",
+		"type": "Custom Game",
+		"version": 0
 	}
 }

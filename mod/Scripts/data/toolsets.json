@@ -6820,5 +6820,10 @@
 	},
 	"d0dda012-3643-4a12-afcd-3f1fe8aabecf": {
 		"$CONTENT_d0dda012-3643-4a12-afcd-3f1fe8aabecf/Tools/Database/ToolSets/example.toolset": []
+	},
+	"662ae38f-166f-46fe-b112-8f285d25ae08": {
+		"$CONTENT_662ae38f-166f-46fe-b112-8f285d25ae08/Tools/Database/ToolSets/tools.toolset": [
+			"1283a301-9830-4140-bb68-1fe546402d81"
+		]
 	}
 }
