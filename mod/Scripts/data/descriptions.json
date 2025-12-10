@@ -45745,5 +45745,15 @@
 		"name": "Dark Mechanic Creative",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"c2bdab02-fc10-4748-9f3f-b22aadceb08a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "(Eng)This mod features spheres (an asteroid, a soccer ball, and an eyeball). They have a spherical collider and can roll like a ball.\r\n\r\nEach has its own unique features, for example:\r\n1) The asteroid is beautiful, it can be used to decorate the sky (like space), and it glows;\r\n2) The soccer ball can be used to play soccer;\r\n3) The eyeball is always looking at you, it can be transported by truck, and it can be smashed with a sledgehammer.\r\n\r\nThis is the first time I've made a mod using models taken from the internet.\r\n\r\n(Ru)В этом моде представлены сферы (астероид, футбольный мяч и глаз). Они имеют сферический коллайдер и могут катиться как мяч.\r\n\r\nКаждая из них обладает своими уникальными особенностями, например:\r\n1) Астероид красив, может использоваться для украшения неба (как в космосе) и светится;\r\n\r\n2) Футбольный мяч можно использовать для игры в футбол;\r\n\r\n3) Глаз всегда смотрит на вас, может перевозиться грузовиком и может быть разбит кувалдой.\r\n\r\nЭто моя первая попытка создать мод, используя модели из интернета.",
+		"fileId": 3621150035,
+		"localId": "c2bdab02-fc10-4748-9f3f-b22aadceb08a",
+		"name": "Set of spheres",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
