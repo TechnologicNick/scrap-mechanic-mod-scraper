@@ -45809,5 +45809,15 @@
 		"name": "Watchdog",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"391f4a1e-e9d5-4e39-8032-47188add7a8f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod add the new Fire System Mod!\n\n- Flamethrower part.\n\n- Flamethrower tool.\n\n- Secret system!\n\n- Ozone bomb.",
+		"fileId": 3623288447,
+		"localId": "391f4a1e-e9d5-4e39-8032-47188add7a8f",
+		"name": "Fire System Pack 1",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

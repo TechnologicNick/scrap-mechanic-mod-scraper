@@ -6842,5 +6842,10 @@
 		"$CONTENT_f9ce8932-98c2-4fb9-a8a7-e2e7ea15040a/Tools/Database/ToolSets/example.toolset": [
 			"f9ce8932-98c2-4fb9-a8a7-e2e7ea15040a"
 		]
+	},
+	"391f4a1e-e9d5-4e39-8032-47188add7a8f": {
+		"$CONTENT_391f4a1e-e9d5-4e39-8032-47188add7a8f/Tools/Database/ToolSets/NewToolSet1.toolset": [
+			"01884998-8f3a-4e79-ab8c-db613ec232b6"
+		]
 	}
 }
