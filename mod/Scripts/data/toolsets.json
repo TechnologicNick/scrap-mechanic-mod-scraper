@@ -6847,5 +6847,8 @@
 		"$CONTENT_391f4a1e-e9d5-4e39-8032-47188add7a8f/Tools/Database/ToolSets/NewToolSet1.toolset": [
 			"01884998-8f3a-4e79-ab8c-db613ec232b6"
 		]
+	},
+	"715d1ef0-dbef-4d19-8bc5-ccae41ea8442": {
+		"$CONTENT_715d1ef0-dbef-4d19-8bc5-ccae41ea8442/Tools/Database/ToolSets/example.toolset": []
 	}
 }
