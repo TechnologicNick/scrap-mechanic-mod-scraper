@@ -43857,7 +43857,7 @@
 	"f4b33e14-c666-4ae1-aa89-14a5ca059feb": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "Make engine out of Blowback Thruster for cooler gameplay",
 		"fileId": 3506042407,
 		"localId": "f4b33e14-c666-4ae1-aa89-14a5ca059feb",
 		"name": "Better Engine",
@@ -45833,10 +45833,20 @@
 	"9712525c-1dfc-4bde-8ec6-a17a8dba53e0": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "this mod adds\nWax Generator\nGlue Clam Generator\n\n(It may have a few bugs and for now I'm waiting for it to be added to ModDatabase plus I didn't feel like making 3D models so I have models from Scrap)",
+		"description": "this mod adds\nWax Generator\nGlue Clam Generator\nSecret Sign\n\n(It may have a few bugs idk)",
 		"fileId": 3625931814,
 		"localId": "9712525c-1dfc-4bde-8ec6-a17a8dba53e0",
 		"name": "resistor's parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"04a32b1f-d1d7-4028-bf8b-be30b667373e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Metrostroy parts for me and my friends",
+		"fileId": 3626183676,
+		"localId": "04a32b1f-d1d7-4028-bf8b-be30b667373e",
+		"name": "Reghint Metrostroy Doors",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
