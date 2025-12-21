@@ -44061,7 +44061,7 @@
 	},
 	"e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "If you have any questions about the mod, feel free to leave them in the comments, I(#d4af37T) will answer them as soon as I can. Leave any suggestions in comments, I can add most of what you can probably think of.\r\n",
 		"fileId": 3438987478,
 		"localId": "e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5",
@@ -45833,10 +45833,10 @@
 	"9712525c-1dfc-4bde-8ec6-a17a8dba53e0": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "this mod adds:\nWax Generator\nGlue Clam Generator\nSecret Sign\n\n(It may have a few bugs idk)",
+		"description": "this mod adds:\r\nWax Generator\r\nGlue Clam Generator\r\nSecret Sign\r\n\r\n(It may have a few bugs idk)",
 		"fileId": 3625931814,
 		"localId": "9712525c-1dfc-4bde-8ec6-a17a8dba53e0",
-		"name": "resistor's parts",
+		"name": "resistor’s Random Stuff",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
