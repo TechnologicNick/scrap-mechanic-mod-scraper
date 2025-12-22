@@ -39988,7 +39988,7 @@
 	},
 	"62bf677a-9eed-4a4e-b637-1d7bca07544e": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"dependencies": null,
 		"description": "original https://steamcommunity.com/sharedfiles/filedetails/?id=2870930089&searchtext=bed\r\nupdates [eng]\r\n+4 new maps\r\n+new crafts\r\nобновы [рус]\r\n+4 новых карты\r\n+новые крафты",
 		"fileId": 3318884865,
@@ -40570,7 +40570,7 @@
 	},
 	"ea6ad5ea-14ff-44bf-95ea-58ace307826d": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "Добавляет в игру солнечные панели, делал этот мод на коленках так что мне безразлично на его качество",
 		"fileId": 3351333183,
 		"localId": "ea6ad5ea-14ff-44bf-95ea-58ace307826d",
