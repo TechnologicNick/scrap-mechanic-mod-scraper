@@ -45902,5 +45902,25 @@
 		"name": "u join",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"472afa9d-408f-4dc4-a135-9291287cf871": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3632192465,
+		"localId": "472afa9d-408f-4dc4-a135-9291287cf871",
+		"name": "byigorgameslol",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f3c140d8-7d99-480b-b100-915178f591b0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds More Survival Crafts with Modded Craftbot custom gaMe",
+		"fileId": 3632225630,
+		"localId": "f3c140d8-7d99-480b-b100-915178f591b0",
+		"name": "MoreSurvivalCrafts",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
