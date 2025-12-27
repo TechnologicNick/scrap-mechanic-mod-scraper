@@ -45892,5 +45892,15 @@
 		"name": "airship air balloon",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"7b158ccd-2853-4663-af7a-8e135495f746": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "",
+		"fileId": 3632022180,
+		"localId": "7b158ccd-2853-4663-af7a-8e135495f746",
+		"name": "u join",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
