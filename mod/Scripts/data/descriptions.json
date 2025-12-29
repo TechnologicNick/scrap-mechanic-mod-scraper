@@ -45926,10 +45926,10 @@
 	"4a6263f6-4f41-4245-8d2d-5f29237f9025": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h3] WORK IN PROGRESS [/h3]\r\n\r\nThis mod is a simple Twitch Chat Command System that allows your Twitch viewers to spawn robots, animals, items, and resources directly in-game.\r\n\r\nEach viewer earns 1 point per second, and every command costs a specific number of points. If a viewer is inactive in chat for 30 minutes, their points will be reset.\r\n\r\nTo use the mod, you must run an additional program in the background. This lightweight Unity application acts as a bridge between Twitch chat and the in-game mod.\r\n (do not forget to enable the mod, if you don't do it, the integration will not work)\r\n\r\nTwitch Framework Program Location:\r\n[h1]Steam\\steamapps\\workshop\\content\\387990\\3633439901\\ScrapMechanicTwitchIntigration\\Scrap Mechanic Twitch Intigration.exe[/h1]\r\n\r\nAfter starting the program, it will automatically generate a Command Settings file, where you can define the point cost for each chat command.\r\n\r\nThe program includes an input field for your Twitch channel name. Simply enter your public channel name and click Connect.\r\nIt connects to Twitch’s public IRC chat, meaning it only reads messages from chat.\r\n\r\nNo personal data is collected, no accounts are linked, and no external permissions are required. The program only reads publicly visible chat messages (the same messages anyone can see on Twitch without an account). It does not send messages or write data in any way.\r\n\r\nIt works basicly in all Custom Gamemodes (sofar i can tell). \r\nIts not made for Survival ( not a file mod ), not for Creative and not for Challange Mode.\r\nthe mod runs in an autotool in the background.\r\n\r\nHave fun with it.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "[h3] WORK IN PROGRESS [/h3]\r\n\r\nThis mod is a simple Twitch Chat Command System that allows your Twitch viewers to spawn robots, animals, items, and resources directly in-game.\r\n\r\nEach viewer earns 1 point per second, and every command costs a specific number of points. If a viewer is inactive in chat for 30 minutes, their points will be reset.\r\n\r\nTo use the mod, you must run an additional program in the background. This lightweight Unity application acts as a bridge between Twitch chat and the in-game mod.\r\n (do not forget to enable the mod, if you don't do it, the integration will not work)\r\n\r\nTwitch Framework Program Location:\r\n[h1]Steam\\steamapps\\workshop\\content\\387990\\3633439901\\ScrapMechanicTwitchIntigration\\Scrap Mechanic Twitch Intigration.exe[/h1]\r\n( there is also a Linux version included for steamdeck and such )\r\n\r\nAfter starting the program, it will automatically generate a Command Settings file, where you can define the point cost for each chat command.\r\n\r\nThe program includes an input field for your Twitch channel name. Simply enter your public channel name and click Connect.\r\nIt connects to Twitch’s public IRC chat, meaning it only reads messages from chat.\r\n\r\nNo personal data is collected, no accounts are linked, and no external permissions are required. The program only reads publicly visible chat messages (the same messages anyone can see on Twitch without an account). It does not send messages or write data in any way.\r\n\r\nIt works basicly in all Custom Gamemodes (sofar i can tell). \r\nIts not made for Survival ( not a file mod ), not for Creative and not for Challange Mode.\r\nthe mod runs in an autotool in the background.\r\n\r\nCHAT COMMAND:\r\n!info - Lists all Commands in the Ingamechat\r\n\r\nSPAWN COMMANDS:\r\n!spawn_glowbug = 1200\r\n!spawn_gary = 1200\r\n!spawn_totebot_blue = 1800\r\n!spawn_heavy_haybot = 2700\r\n!spawn_totebot_red = 2700\r\n!spawn_tapebot_red = 5400\r\n!spawn_woc = 1200\r\n!spawn_farmbot = 3600\r\n!spawn_totebot = 900\r\n!spawn_tapebot = 4500\r\n!spawn_haybot = 1800\r\n\r\nSUPPLY COMMANDS:\r\n!supply_crate_green = 900\r\n!supply_crate_gold = 1800\r\n\r\n\r\nIn the file:\r\n[h1]Steam\\steamapps\\workshop\\content\\387990\\3633439901\\ScrapMechanicTwitchIntigration\\CommandSettings.json[/h1]\r\nyou can adjust the cost of the commands.\r\n\r\nHave fun with it.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 3633439901,
 		"localId": "4a6263f6-4f41-4245-8d2d-5f29237f9025",
-		"name": "Fants Twitch Intigration Framework",
+		"name": "Fants Twitch Integration Framework",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -45942,5 +45942,25 @@
 		"name": "HUMANOID's ChaosCrafter",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"e52cc333-6a93-4930-bd37-c0b3dfa8c1b3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This is X's Train Mod, but just the train wheels. All credit for the mod should go to him.\n\nI did update the rotation of the wheels so they would place better.",
+		"fileId": 3634106344,
+		"localId": "e52cc333-6a93-4930-bd37-c0b3dfa8c1b3",
+		"name": "Xs Train Wheels and Gears",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"26e90feb-9a62-4471-ba93-104fe3e1a58f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Title card",
+		"fileId": 3634134209,
+		"localId": "26e90feb-9a62-4471-ba93-104fe3e1a58f",
+		"name": "Example Island: Custom World Survival",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
