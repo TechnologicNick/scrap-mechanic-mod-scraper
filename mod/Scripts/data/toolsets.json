@@ -6879,5 +6879,10 @@
 	"0adaa8ae-b3da-47ac-9c74-96b5394e3c8a": {
 		"$CONTENT_0adaa8ae-b3da-47ac-9c74-96b5394e3c8a/Tools/Database/ToolSets/example.toolset": []
 	},
-	"22658c70-9a28-46da-88a8-910aa17caf9a": {}
+	"22658c70-9a28-46da-88a8-910aa17caf9a": {},
+	"2460345b-26cc-427f-9087-eef9f7bb387b": {
+		"$CONTENT_2460345b-26cc-427f-9087-eef9f7bb387b/Tools/Database/ToolSets/MAGguns.toolset": [
+			"1cd32f21-5fe1-4bae-865b-1234567253ed"
+		]
+	}
 }
