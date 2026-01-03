@@ -45986,7 +45986,7 @@
 	"22658c70-9a28-46da-88a8-910aa17caf9a": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This modification adds a variety of signage often seen in Poland, from safety signage (PN-92/N-01256 and ISO 7010) to miltary signage (photography prohibited, no entry, no drone zone).\n\nMore signs to be added in coming updates.\n\nQuestions? Spotted a bug? Comment down below or join the MPiK Discord server, a railway discussion server with a section dedicated to this mod: https://discord.gg/dNzREETPKT",
+		"description": "Modyfikacja dodaje wszelakiej maści polskie oznakowanie naścienne, od znaków BHP (wg norm PN-92/N-01256 i ISO 7010) po oznakowanie wojskowe (zakaz fotografowania, teren wojskowy - wstęp wzbroniony, zakaz lotów BSP). Więcej znaków będzie pojawiać się wraz z każdą aktualizacją.\r\n\r\nJest to mój pierwszy mod, także nic nie jest idealne. Dlatego zapraszam do wskazywania wszelkich błędów w komentarzach lub na serwerze Discord MPiK, społeczności ukierunkowanej na kolej, lecz serwer ma sekcję dedykowaną postępowi nad modem: https://discord.gg/dNzREETPKT\r\n\r\nPodziękowania dla użytkowników: Kolejowy Dominik, Nex_ (ombob.me) oraz członkom serwera Discord MPiK za wsparcie oraz wiedzę w zakresie tworzenia modów.",
 		"fileId": 3636061196,
 		"localId": "22658c70-9a28-46da-88a8-910aa17caf9a",
 		"name": "Polish Safety and Information Signage Pack",
@@ -46002,5 +46002,25 @@
 		"name": "CelesteMod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"debba0f9-034d-4812-b69a-c2ad202726bc": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Attention this is not my mod, but just a fork created for personal use to play with friends.\n\nOriginal author: Donity_Qramixy\nOriginal mod: https://steamcommunity.com/sharedfiles/filedetails/?id=3085396880\n\nNew commands:\n/toggletimecycle\n/settimecycle",
+		"fileId": 3637529231,
+		"localId": "debba0f9-034d-4812-b69a-c2ad202726bc",
+		"name": "Creative Commands Extension with Day Time Cycle",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f3821c95-fa49-4dae-bae7-2351aa2b4972": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Vanilla Survival but the world is 128x128 cells.",
+		"fileId": 3637616593,
+		"localId": "f3821c95-fa49-4dae-bae7-2351aa2b4972",
+		"name": "128x128 Survival",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
