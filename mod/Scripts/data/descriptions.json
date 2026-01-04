@@ -46039,5 +46039,25 @@
 		"name": "furry kemono tail",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"8f029e3d-0258-4212-beb8-fba4b5edcacd": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This Mod currently has:\n1x2 Sprocket - 1x2 wheel collision by MJM seats and tech mod\n1x2 Roller - 1x2 wheel collision by MJM seats and tech mod\nBlocks Durability 2-10\n2 Armour blocks\n\nThis mean is mostly meant for the Scrap Wars Syndicate.\n",
+		"fileId": 3628306830,
+		"localId": "8f029e3d-0258-4212-beb8-fba4b5edcacd",
+		"name": "Scrap Wars Syndicate",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"bc1bb359-fb37-43a0-9c1a-e08fd333cd46": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Pretty fluffy huh? Model by Pro_cat555 from sketchfab.com\n(head is head from my fursona)",
+		"fileId": 3637932718,
+		"localId": "bc1bb359-fb37-43a0-9c1a-e08fd333cd46",
+		"name": "Furry kemono head",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }

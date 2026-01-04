@@ -6755,8 +6755,7 @@
 			"daf50ab1-fa52-49ee-a1a0-e87cc1d65bd8",
 			"1571f6cf-23fd-4c09-a1e4-a0fff8c63fba",
 			"61c55b36-bc57-42b9-aef1-f69bb5f182d1",
-			"7333ec8d-5506-4fc7-88ed-4c695eb9ba2e",
-			"b03b439f-fe9d-4068-a9e9-c7c28b45a0db"
+			"7333ec8d-5506-4fc7-88ed-4c695eb9ba2e"
 		],
 		"$CONTENT_73e08ad2-3916-453e-82bb-f3cabfd21433/Tools/Database/ToolSets/selfcheck.toolset": [
 			"920a0e3d-fa2a-4062-8d55-e29f05ac24f4"
@@ -6893,5 +6892,7 @@
 	"f3821c95-fa49-4dae-bae7-2351aa2b4972": {
 		"$CONTENT_f3821c95-fa49-4dae-bae7-2351aa2b4972/Tools/Database/ToolSets/example.toolset": []
 	},
-	"bfdb2224-81aa-468a-82c2-b03923f8d5ee": {}
+	"bfdb2224-81aa-468a-82c2-b03923f8d5ee": {},
+	"8f029e3d-0258-4212-beb8-fba4b5edcacd": {},
+	"bc1bb359-fb37-43a0-9c1a-e08fd333cd46": {}
 }
