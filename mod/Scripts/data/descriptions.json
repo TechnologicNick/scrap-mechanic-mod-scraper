@@ -46033,7 +46033,7 @@
 				"name": "Furry kemono head"
 			}
 		],
-		"description": "Fluffy Kemono tail \nModel by Proc_at555",
+		"description": "Recolor update!\nPretty fluffy tail \n(model by pro_cat555 from sketchfab)",
 		"fileId": 3637958435,
 		"localId": "bfdb2224-81aa-468a-82c2-b03923f8d5ee",
 		"name": "furry kemono tail",
@@ -46053,7 +46053,8 @@
 	"bc1bb359-fb37-43a0-9c1a-e08fd333cd46": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Pretty fluffy huh? Model by Pro_cat555 from sketchfab.com\n(head is head from my fursona)",
+		"dependencies": null,
+		"description": "Colorable update!\nPretty fluffy huh? Model by Pro_cat555 from sketchfab\n",
 		"fileId": 3637932718,
 		"localId": "bc1bb359-fb37-43a0-9c1a-e08fd333cd46",
 		"name": "Furry kemono head",
@@ -46067,6 +46068,36 @@
 		"fileId": 3626780690,
 		"localId": "6de7ac6f-f889-43f4-b554-468ce4868770",
 		"name": "Opticals And Grounds Systems",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"555bcf02-71d0-4222-afa4-e92e9b2f29b8": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3639936396,
+		"localId": "555bcf02-71d0-4222-afa4-e92e9b2f29b8",
+		"name": "Strange entity",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"ef2c266b-face-41f1-a258-e82cd03b52bb": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Tuff hair for punks (or furry :3)\n(Colorable)\nModel by KENEMONY",
+		"fileId": 3640023801,
+		"localId": "ef2c266b-face-41f1-a258-e82cd03b52bb",
+		"name": "Eye cover hair (Colorable)",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"4d00d797-89ef-4081-9dbf-6008511262ea": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "now it does have a description\n",
+		"fileId": 3640288304,
+		"localId": "4d00d797-89ef-4081-9dbf-6008511262ea",
+		"name": "Test Mod Benny Bonko!",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
