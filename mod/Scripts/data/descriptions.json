@@ -45278,7 +45278,7 @@
 	"67ad4880-1e19-4a2c-9771-6544f9bf912c": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Copy 'Data' and 'Survival' Folders into your Scrap Mechanic folder and confirm Overwrite.\n\nIn your Scrap Mechanic Folder, go to 'Cache' and delete the folders 'Shader' and 'Textures'\n\nIMPORTANT!!!\nIf you run the Game the first Time after deleting the two Folders in 'Cache', your game will be 'Stuck' in a Black Screen and 100% CPU Usage for a very long time (depending on your CPU)\nThis is Normal and nothing to worry about because the Shaders need to be Compiled again and this takes time.\nThis happens just ONE TIME. After that the Game will start up normally every time.",
+		"description": "[h1][b]Scrap Mechanic Better Night[/b][/h1]\r\n\r\nVisual Mod for more realistic Nights\r\n\r\n[h2]Not Suitable for Survival[/h2]\r\n(It will work but not as you would expect. i.e Map-Buit-in Lights do not emit lights at Night)\r\n\r\nThis is a File mod and needs to be installed manually\r\nLuckily it has no effect on your Multiplayer experience\r\n\r\nMake sure to Backup your 'Data' and 'Survival' Folders first\r\n\r\nThe Mod is found here: (depending on your Steam settings)\r\nC:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\3589863019\r\n\r\n\r\nCopy 'Data' and 'Survival' Folders into your Scrap Mechanic folder and confirm Overwrite.\r\n\r\nIn your Scrap Mechanic Folder, go to 'Cache' and delete the folders 'Shader','Textures' and 'Mesh'\r\n\r\nIMPORTANT!!!\r\nIf you run the Game the first Time after deleting the two Folders in 'Cache', your game will be 'Stuck' in a Black Screen and 100% CPU Usage for a very long time (depending on your CPU)\r\nThis is Normal and nothing to worry about because the Shaders need to be Compiled again and this takes time.\r\nThis happens just ONCE. After that the Game will start up normally every time.\r\n\r\nFeatures:\r\n\r\n- 8K-ish Stars Skybox*\r\n- Dimmed down the Characters Self Glowing Aura dramatically\r\n- Nights are now Night-dark\r\n- Dimmed down Reflections at Night (WIP)\r\n- Advanced Render distance for Lightsources (WIP)\r\n\r\nAdded From the Customizations Pack:\r\nConnect Tool\r\n- Better visibility Lines\r\n- Small Connection Dots\r\n- Small Bearing Connections\r\n\r\n*The Skybox is originally [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3430334776]Stars at Night[/url] and i modified it a bit. so props to the Creator 'Jet'  \r\n\r\nFeel free to leave a Comment for further improvement and let me know about any weird light issues",
 		"fileId": 3589863019,
 		"localId": "67ad4880-1e19-4a2c-9771-6544f9bf912c",
 		"name": "Visibility",
@@ -46110,5 +46110,25 @@
 		"name": "Player Sensor",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"0fbdad3d-45d4-4c10-84c3-fd8e7bac751c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Un mods rajoutant des blocs et objet divers en rapport avec Strangers Things\n\nBy Maxou24o36\n\nVERSSION 1",
+		"fileId": 3641452866,
+		"localId": "0fbdad3d-45d4-4c10-84c3-fd8e7bac751c",
+		"name": "WSQK Mod by Maxou24o36",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1d6602a6-a205-40cb-a1b1-6ef40081ad9b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "alone",
+		"fileId": 3641527789,
+		"localId": "1d6602a6-a205-40cb-a1b1-6ef40081ad9b",
+		"name": "loneliness",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
