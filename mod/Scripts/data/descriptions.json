@@ -46130,5 +46130,15 @@
 		"name": "loneliness",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"81b928a7-8810-48c1-ab3b-cd6fceebc691": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Step 1.\r\n\r\nGo to the mod's files.\r\n\r\nStep 2.\r\n\r\nMove the \"tools\" and \"objects\" files into the game files, specifically the Challenge data folder.\r\n\r\nDone!\r\n\r\nNote: If you want to remove this mod from your game, do the same, but instead of \"tools\" and \"objects,\" move the contents of the \"official\" folder.",
+		"fileId": 3642119809,
+		"localId": "81b928a7-8810-48c1-ab3b-cd6fceebc691",
+		"name": "ACL-BlocksAddon",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
