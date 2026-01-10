@@ -6918,5 +6918,10 @@
 		]
 	},
 	"a02a8397-7084-4a07-ae90-3721eea91d56": {},
-	"dff3a493-2009-4aee-9ec6-3d4a0dd91d60": {}
+	"dff3a493-2009-4aee-9ec6-3d4a0dd91d60": {},
+	"9f4796c9-b476-41af-a1e6-11ca667aca5e": {
+		"$CONTENT_9f4796c9-b476-41af-a1e6-11ca667aca5e/Tools/Database/ToolSets/personal.toolset": [
+			"4fed5b6f-3a5d-4c9a-a807-417f08253632"
+		]
+	}
 }
