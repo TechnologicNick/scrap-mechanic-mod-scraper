@@ -40346,7 +40346,8 @@
 	"70d2d009-8661-434e-a1e7-dadfd97c6b85": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "compatible with Trembusek Train Assets Pack",
+		"dependencies": null,
+		"description": "",
 		"fileId": 3323025332,
 		"localId": "70d2d009-8661-434e-a1e7-dadfd97c6b85",
 		"name": "zeni",
@@ -46138,6 +46139,47 @@
 		"fileId": 3642119809,
 		"localId": "81b928a7-8810-48c1-ab3b-cd6fceebc691",
 		"name": "ACL-BlocksAddon",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"9f2793f2-eec3-47ce-8b1d-38f6f73965fe": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A custom game changes the sledgehammer to a farmbotswipe.\n\nBe careful, you can break almost all blocks except unbreakable ones, which have a durability of 10.\n\n\n\n\n",
+		"fileId": 3631248568,
+		"localId": "9f2793f2-eec3-47ce-8b1d-38f6f73965fe",
+		"name": "RobotHammer",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"42c44f4d-8a15-48a8-a188-690f363d1302": {
+		"allow_add_mods": true,
+		"creatorId": "76561198852195858",
+		"custom_icons": false,
+		"description": "Libra Mod — модификация добавляющая инструмент для измерения массы объектов и построек.\r\n\r\nНаведитесь на объект — увидите его массу: до 1000 кг отображается в кг, выше — в тоннах (т).\r\n\r\nПКМ переключает режим измерения:\r\n\r\nЧасть — масса выбранного объекта (например, секции по одну сторону подшипника).\r\n\r\nВся постройка — суммарная масса всей постройки.\r\n\r\nПолезно для балансировки конструкций, проверки распределения массы и поиска “тяжёлых” объектов.",
+		"fileId": 3642671229,
+		"localId": "42c44f4d-8a15-48a8-a188-690f363d1302",
+		"name": "Libra Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a02a8397-7084-4a07-ae90-3721eea91d56": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Fixed Encryptors fix, with this mod Encryptor and Protector works with minimal script editing.\n\nAlso try Upgraded version https://steamcommunity.com/sharedfiles/filedetails/?id=3642898302",
+		"fileId": 3642719177,
+		"localId": "a02a8397-7084-4a07-ae90-3721eea91d56",
+		"name": "Encryptors Fix",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"dff3a493-2009-4aee-9ec6-3d4a0dd91d60": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Unlike the standard [b]Encryptor Fix[/b], [b]Encryptor Upgrade[/b] adds the exact functionality to the Encryptor and Protector that the developers originally promised.\n\nHere are all the differences compared to [i]Encryptor Fix[/i] (which merely fixes the official script without changing its functionality):\n\n[table]\n    [tr]\n        [th]Official / Fix[/th]\n        [th]Improved (Upgrade)[/th]\n    [/tr]\n    [tr]\n        [td]Affects only the specific part it is placed on, ignoring parts connected via bearings or suspensions.[/td]\n        [td][b]Affects the entire creation as a whole.[/b][/td]\n    [/tr]\n    [tr]\n        [td]Does not consume batteries (despite the inventory description).[/td]\n        [td][b]Requires a connected Battery Container to function.[/b][/td]\n    [/tr]\n    [tr]\n        [td]Unclear whether it is currently toggled on or off.[/td]\n        [td][b]Buttons are clearly labeled \"Turn On\" and \"Turn Off\".[/b][/td]\n    [/tr]\n[/table]",
+		"fileId": 3642898302,
+		"localId": "dff3a493-2009-4aee-9ec6-3d4a0dd91d60",
+		"name": "Encryptors Upgrade",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

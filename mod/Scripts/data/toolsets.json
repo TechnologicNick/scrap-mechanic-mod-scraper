@@ -6908,5 +6908,15 @@
 			"b0107520-e16b-4993-980d-f14e6bbb5d41"
 		]
 	},
-	"81b928a7-8810-48c1-ab3b-cd6fceebc691": {}
+	"81b928a7-8810-48c1-ab3b-cd6fceebc691": {},
+	"9f2793f2-eec3-47ce-8b1d-38f6f73965fe": {
+		"$CONTENT_9f2793f2-eec3-47ce-8b1d-38f6f73965fe/Tools/Database/ToolSets/example.toolset": []
+	},
+	"42c44f4d-8a15-48a8-a188-690f363d1302": {
+		"$CONTENT_42c44f4d-8a15-48a8-a188-690f363d1302/Tools/Database/ToolSets/libra_connecttool.toolset": [
+			"49f0b860-2a55-41e4-bfd8-1757402f4494"
+		]
+	},
+	"a02a8397-7084-4a07-ae90-3721eea91d56": {},
+	"dff3a493-2009-4aee-9ec6-3d4a0dd91d60": {}
 }
