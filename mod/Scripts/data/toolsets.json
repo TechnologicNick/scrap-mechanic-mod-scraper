@@ -6941,5 +6941,10 @@
 		"$CONTENT_a2d4ab06-7cd1-43dc-8b8a-c44a912f920b/Tools/Database/ToolSets/example.toolset": []
 	},
 	"e8b9990c-42f0-4578-b84c-e8cafc854fae": {},
-	"7e7a442e-07cd-47cb-9eab-3b2848d56462": {}
+	"7e7a442e-07cd-47cb-9eab-3b2848d56462": {},
+	"aaff66ee-bd75-46b5-9720-e49eb056efbf": {
+		"$CONTENT_aaff66ee-bd75-46b5-9720-e49eb056efbf/Tools/Database/ToolSets/example.toolset": [
+			"3de69be1-885e-423a-8d37-6945beb0b1c2"
+		]
+	}
 }
