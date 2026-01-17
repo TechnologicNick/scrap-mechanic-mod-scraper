@@ -46293,5 +46293,16 @@
 		"name": "A lot of Bugsplat!",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"4d26f4c6-31c5-43d4-911f-77d8aecfe940": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "A collection of reusable libraries for Scrap Mechanic mods.\n\nSee the included README file for usage information.\n",
+		"fileId": 3647884696,
+		"localId": "4d26f4c6-31c5-43d4-911f-77d8aecfe940",
+		"name": "fishLib",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
