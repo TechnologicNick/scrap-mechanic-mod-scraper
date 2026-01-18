@@ -46304,5 +46304,45 @@
 		"name": "fishLib",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"40f07134-106f-4f6f-933c-d82202047f9d": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "The Camera shake block can help you simulate earthquakes or heavy machinery using camera shake.\n\nThe shake works even with camera shake disabled.\n\nHow to use:\n\nPlace the Camera Shake Block.\n\nstrength: - Press (E): Cycle through Strength levels (from subtle vibration to massive earthquake).\n\nradius: Crouch + Press (Shift + E): Cycle through Range (Radius) from 5 to 100 blocks.\n\nLogic: Connect a trigger (Sensor/Button). If nothing is connected, the block is always ON\n\n- made by Tapebot Interactive",
+		"fileId": 3648235853,
+		"localId": "40f07134-106f-4f6f-933c-d82202047f9d",
+		"name": "Camera shake block",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"93f99e68-2b37-4e10-90a0-0f25e12360c5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This Mod adds a logic Part, that translates the world Coordinates of the target (X, Y, Z in blocks) from Fant´s Unit Facer to Durf´s Number Logic Values.",
+		"fileId": 3648346306,
+		"localId": "93f99e68-2b37-4e10-90a0-0f25e12360c5",
+		"name": "Converter (Unit Facer values To Modpack XO Meter)",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a37a6fb7-cd22-4e8b-a3b8-77ac2ebc9a06": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[RU]\r\nАддон к моду \"Tank Parts\"\r\n\r\nЭтот аддон добавляет рецепты крафта всех деталей из мода «Tank Parts» для режимов «Survival» и «Custom Game».\r\n\r\n\r\nP.S.: Мод тестировался в режиме Выживания, а также в Fant 2 Custom Game.\r\n\r\n\r\n[En]\r\nAddon for mod \"Tank Parts\"\r\n\r\nThis addon adds crafting recipes for all parts from the \"Tank Parts\" mod for Survival and Custom Game modes\r\n\r\n\r\nP.S.: The mod was tested on Survival mode, and on Fant 2 Custom Game",
+		"fileId": 3648622755,
+		"localId": "a37a6fb7-cd22-4e8b-a3b8-77ac2ebc9a06",
+		"name": "Tank Parts Craft Recipes",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1e155e8e-37e5-4df8-85c6-5d0fed44b6e2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A mod that adds emblems to improve the visual appearance.",
+		"fileId": 3648673889,
+		"localId": "1e155e8e-37e5-4df8-85c6-5d0fed44b6e2",
+		"name": "Emblems",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
