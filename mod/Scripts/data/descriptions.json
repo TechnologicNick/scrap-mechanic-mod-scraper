@@ -46344,5 +46344,15 @@
 		"name": "Emblems",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"413f6f04-f0d2-4f66-a4cb-c9c449a1346a": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "этот мод добавляет странный блок",
+		"fileId": 3649190738,
+		"localId": "413f6f04-f0d2-4f66-a4cb-c9c449a1346a",
+		"name": "test2",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
