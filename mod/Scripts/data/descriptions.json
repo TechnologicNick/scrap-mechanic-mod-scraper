@@ -46338,7 +46338,8 @@
 	"1e155e8e-37e5-4df8-85c6-5d0fed44b6e2": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "A mod that adds emblems to improve the visual appearance.",
+		"dependencies": null,
+		"description": "Мод добавляющий эмблемы для улучшения визуального вида.\r\n\r\nНа данный момент в него входит эмблемы ВВС следующих стран: \r\nРоссия\r\nСССР\r\nСША\r\nГермания\r\nГДР\r\nБритания\r\nФранция\r\nИталия\r\nКитай\r\nФинляндия\r\nНорвегия\r\nКанада\r\nАвстралия\r\nИндия\r\nВенгрия\r\nИзраиль\r\nЯпония\r\nПольша\r\nКазахстан\r\nРумыния\r\nШвеция\r\nШвейцария\r\nЧехия\r\nТурция\r\nУкраина\r\nЮгославия\r\n\r\nСписок будет пополняться а также можно предложить страну не попавшую в мод.",
 		"fileId": 3648673889,
 		"localId": "1e155e8e-37e5-4df8-85c6-5d0fed44b6e2",
 		"name": "Emblems",
