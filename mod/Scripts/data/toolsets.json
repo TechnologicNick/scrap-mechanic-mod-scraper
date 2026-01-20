@@ -6956,5 +6956,8 @@
 		]
 	},
 	"1e155e8e-37e5-4df8-85c6-5d0fed44b6e2": {},
-	"413f6f04-f0d2-4f66-a4cb-c9c449a1346a": {}
+	"413f6f04-f0d2-4f66-a4cb-c9c449a1346a": {},
+	"685f8599-d5ec-4c7c-9500-a6ab1dbcb7cf": {
+		"$CONTENT_685f8599-d5ec-4c7c-9500-a6ab1dbcb7cf/Tools/Database/ToolSets/example.toolset": []
+	}
 }

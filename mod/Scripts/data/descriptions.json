@@ -46355,5 +46355,15 @@
 		"name": "test2",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"685f8599-d5ec-4c7c-9500-a6ab1dbcb7cf": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This is the offical \"FORK\" of the \"EXAMPLE ISLAND: Custom World Survival\" mod. it uses the same tech to draw tile data from the \"Example.world\" file and generate a survival map with that information. the result is survival on a custom world.\n\nThis mod, however, specializes in it's railroad network. offering custom tiles for the Trader, the Packaging stations, and mechanic shop (and track tiles) to allow players the ability to effectively use locomotives in the survival game. the trader and package stations have tracks that connect them, so you can load and unload fruit and veggies derectly from a train!\n\nThis mod includes Lord Pains Tile Assets built into the mod, as well as a modified version of Dr3k's Fourth Rail Bridge assets. Thanks to them for making this mod possible!\n\nSome Notes:\n- Tracks are centered in the tile, and thus require locomotives and rolling stock to be lowered all the way to the rails (with some clipping on the sides) to re rail them, as the track does not light up with the grid.\n- The Custom can still be played without trains, if chosen.\n- The \"Train Coupler\" mod will work with this custom world, and will appear in the craft bot.\n- Some new parts have been added to the craft bot, with support for more in the future!\n- The Island is 32 x 32 tiles, so the world is small.\n- Some POIs are not included, simply cause there was no space for them.\n- no terrain deformation, but this mod does have cliff tiles.",
+		"fileId": 3650020064,
+		"localId": "685f8599-d5ec-4c7c-9500-a6ab1dbcb7cf",
+		"name": "Train Survival Island",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
