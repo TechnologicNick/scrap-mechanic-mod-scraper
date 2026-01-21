@@ -6965,5 +6965,11 @@
 		"$CONTENT_8d4e5b18-8e6b-40c5-800a-b0368aad6640/Tools/Database/ToolSets/tsv.toolset": [
 			"b3202700-b0ca-47ed-91f3-d12a92d76543"
 		]
+	},
+	"45c8808c-aee5-437a-8780-56a845daf4f1": {
+		"$CONTENT_45c8808c-aee5-437a-8780-56a845daf4f1/Tools/Database/ToolSets/example.toolset": []
+	},
+	"b9ef8d9b-8ace-4a30-b833-15a8ec4b2fba": {
+		"$CONTENT_b9ef8d9b-8ace-4a30-b833-15a8ec4b2fba/Tools/Database/ToolSets/example.toolset": []
 	}
 }
