@@ -3707,5 +3707,17 @@
 	},
 	"b9ef8d9b-8ace-4a30-b833-15a8ec4b2fba": {
 		"$CONTENT_b9ef8d9b-8ace-4a30-b833-15a8ec4b2fba/Harvestables/Database/HarvestableSets/example.harvestableset": []
+	},
+	"c869900e-6462-4486-9a3a-d1875f785dcc": {
+		"$CONTENT_c869900e-6462-4486-9a3a-d1875f785dcc/Harvestables/Database/HarvestableSets/hvs_loot.json": [
+			"b8eb68ca-25a0-47aa-8745-12f2dd13d873",
+			"97fe0cf2-0591-4e98-9beb-9186f4fd83c8",
+			"74ffe0eb-17fe-41b3-a532-8dbb5924e5dc",
+			"6e7611e1-ad18-413a-a4cb-bab7e3a5ca75",
+			"6726c35c-f8e6-49cf-b0b6-05e7efac4115",
+			"3b7054d0-9ca7-4efa-8b4a-e8658eda3181",
+			"e3cb14d5-9d28-45e8-96f7-fc79c60de292",
+			"cceec00b-8a34-4d68-a419-8c3bc7aa075a"
+		]
 	}
 }

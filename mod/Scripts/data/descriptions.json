@@ -46391,5 +46391,15 @@
 		"name": "Benny_Custom_Tile",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"c869900e-6462-4486-9a3a-d1875f785dcc": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "\n",
+		"fileId": 3650808149,
+		"localId": "c869900e-6462-4486-9a3a-d1875f785dcc",
+		"name": "Supercraft Survival",
+		"type": "Custom Game",
+		"version": 0
 	}
 }

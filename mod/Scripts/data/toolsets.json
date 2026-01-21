@@ -6971,5 +6971,8 @@
 	},
 	"b9ef8d9b-8ace-4a30-b833-15a8ec4b2fba": {
 		"$CONTENT_b9ef8d9b-8ace-4a30-b833-15a8ec4b2fba/Tools/Database/ToolSets/example.toolset": []
+	},
+	"c869900e-6462-4486-9a3a-d1875f785dcc": {
+		"$CONTENT_c869900e-6462-4486-9a3a-d1875f785dcc/Tools/Database/ToolSets/tools.toolset": []
 	}
 }
