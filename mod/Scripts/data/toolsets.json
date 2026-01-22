@@ -6974,5 +6974,12 @@
 	},
 	"c869900e-6462-4486-9a3a-d1875f785dcc": {
 		"$CONTENT_c869900e-6462-4486-9a3a-d1875f785dcc/Tools/Database/ToolSets/tools.toolset": []
-	}
+	},
+	"543a4ce0-30f7-4a2b-a0ba-bbc3534ba56b": {
+		"$CONTENT_543a4ce0-30f7-4a2b-a0ba-bbc3534ba56b/Tools/Database/ToolSets/tools.toolset": [
+			"93c9d4d4-6ad4-42da-a856-a221c0e2a9b7"
+		]
+	},
+	"060c3cbb-26b1-4851-a38d-0d7a31376e34": {},
+	"ddd65b9e-3152-4cd6-a793-348ff3d93ed5": {}
 }

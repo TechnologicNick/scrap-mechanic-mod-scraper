@@ -46401,5 +46401,36 @@
 		"name": "Supercraft Survival",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"543a4ce0-30f7-4a2b-a0ba-bbc3534ba56b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Detects potential furries in your world and reports them to you. You never know who is a furry and who isn't. Just imagine finding out that this one suspicious friend of yours is a furry.\r\n\r\nTo use just subscribe to the mod and install it in your world.\r\n\r\nDetects affiliation with those mods:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3640023801 furryHair\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3637958435 furryTail\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3637932718 furryHead\r\n\r\nDetection is done via:\r\nchecking PVA default outfit\r\nchecking for affer mentioned mods in targets downloaded mods (mods can be downloaded by a person even if he just joined a world with those mods).\r\n\r\nThis mod doesn't do any hacking of your or your friends computer, if you don't believe me, then ask any other modder to review mod code (they might find it funny).\r\n\r\nIf you know any other furry outfit mods, please report them in the comments.",
+		"fileId": 3650718188,
+		"localId": "543a4ce0-30f7-4a2b-a0ba-bbc3534ba56b",
+		"name": "Furry detector mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"060c3cbb-26b1-4851-a38d-0d7a31376e34": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "Esse mod é uma tradução Brazileira para Seats and Tech",
+		"fileId": 3651232884,
+		"localId": "060c3cbb-26b1-4851-a38d-0d7a31376e34",
+		"name": "Seats and Tech Mod - Tradução PT-BR",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"ddd65b9e-3152-4cd6-a793-348ff3d93ed5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Este mod adiciona a pasta de idioma Brasileiro ao \"Fant Mod 2 Custom Gamemode - Tradução PT-BR\".\r\nEle não substitui a linguagem original, apenas complementa com a tradução.\r\n\r\nO mod \"Fant Mod 2 Custom Gamemode - Tradução PT-BR\" deve estar instalado para funcionar.\r\n\r\n🔗 Mod original disponível em:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2820096455&searchtext=Fant+Mod+2+Custom+Gamemode",
+		"fileId": 3651299292,
+		"localId": "ddd65b9e-3152-4cd6-a793-348ff3d93ed5",
+		"name": "Fant Mod 2 Custom Gamemode - Tradução PT-BR (Não Oficial)",
+		"type": "null",
+		"version": 1
 	}
 }
