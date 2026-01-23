@@ -46426,11 +46426,11 @@
 	"ddd65b9e-3152-4cd6-a793-348ff3d93ed5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Este mod adiciona a pasta de idioma Brasileiro ao \"Fant Mod 2 Custom Gamemode - Tradução PT-BR\".\r\nEle não substitui a linguagem original, apenas complementa com a tradução.\r\n\r\nO mod \"Fant Mod 2 Custom Gamemode - Tradução PT-BR\" deve estar instalado para funcionar.\r\n\r\n🔗 Mod original disponível em:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2820096455&searchtext=Fant+Mod+2+Custom+Gamemode",
+		"description": "Este mod adiciona a pasta de idioma Brasileiro ao Fant Mod 2 Custom Gamemode - Tradução PT-BR.\r\nEle não substitui a linguagem original, apenas complementa com a tradução.\r\n\r\n⚠️ IMPORTANTE: Este mod requer instalação manual, seque o passo a passo da instalação:\r\n\r\nVerifique se o mod original está instalado\r\nO mod Fant Mod 2 Custom Gamemode - Tradução PT-BR deve estar instalado via Steam Workshop.\r\n\r\nLink do mod original:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2820096455&searchtext=Fant+Mod+2+Custom+Gamemode\r\n\r\n\r\n\r\nLocalize a pasta do mod no seu computador\r\nVá até a pasta onde o Steam salva os mods do Workshop:\r\n\r\n📂 SteamLibrary\\steamapps\\workshop\\content\\387990\\2820096455 < Este é o ⚙️Fant Mod 2\r\n\r\nAcesse a pasta do mod e localize a pasta 📂Gui\r\nConfirme que se trata do ⚙️Fant Mod 2 pela imagem 🖼️Preview.\r\n\r\nCopie os arquivos da tradução que se encontram em\r\n\r\n📂 SteamLibrary\\steamapps\\workshop\\content\\387990\\365129929 < Este é a Tradução.\r\n\r\nPegue a pasta 📂Gui do mod Tradução Brasileira.\r\nConfirme que se trata da Tradução Brasileira pela imagem 🖼️Preview.\r\n\r\nCole dentro da pasta do ⚙️Fant Mod 2\r\n\r\n⚠️ Não será necessário substituir nenhum arquivo, ele tem a pasta Brasileira que não sobrepõe a original.\r\n\r\nApós colar, o jogo deve reconhecer automaticamente a nova opção de idioma Brasileiro ao iniciar o Jogo.\r\n",
 		"fileId": 3651299292,
 		"localId": "ddd65b9e-3152-4cd6-a793-348ff3d93ed5",
 		"name": "Fant Mod 2 Custom Gamemode - Tradução PT-BR (Não Oficial)",
-		"type": "null",
+		"type": "Blocks and Parts",
 		"version": 1
 	}
 }
