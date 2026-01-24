@@ -46325,7 +46325,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "Мод добавляющий эмблемы для улучшения визуального вида.\r\n\r\nНа данный момент в него входит эмблемы ВВС следующих стран: \r\nРоссия\r\nСССР\r\nСША\r\nГермания\r\nГДР\r\nБритания\r\nФранция\r\nИталия\r\nКитай\r\nФинляндия\r\nНорвегия\r\nКанада\r\nАвстралия\r\nИндия\r\nВенгрия\r\nИзраиль\r\nЯпония\r\nПольша\r\nКазахстан\r\nРумыния\r\nШвеция\r\nШвейцария\r\nЧехия\r\nТурция\r\nУкраина\r\nЮгославия\r\n\r\nСписок будет пополняться а также можно предложить страну не попавшую в мод.",
+		"description": "Мод добавляющий эмблемы для улучшения визуального вида.\r\n\r\nСписок будет пополняться а также можно предложить страну или другую декаль не попавшую в мод.",
 		"fileId": 3648673889,
 		"localId": "1e155e8e-37e5-4df8-85c6-5d0fed44b6e2",
 		"name": "Emblems",
@@ -46415,8 +46415,7 @@
 	"060c3cbb-26b1-4851-a38d-0d7a31376e34": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": null,
-		"description": "Esse mod é uma tradução Brazileira para Seats and Tech",
+		"description": "Este mod adiciona a pasta de idioma Brasileiro ao \"Seats and Tech\".\r\nEle não substitui a linguagem original, apenas complementa com a tradução portanto para funcionar o seu jogo precisa estar em Portugues-Brazil.\r\n\r\nO mod \"Seats and Tech\" deve estar instalado para funcionar.\r\n\r\n🔗 Mod original disponível em:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2949501397&searchtext=Seats+and+Tech+Mod",
 		"fileId": 3651232884,
 		"localId": "060c3cbb-26b1-4851-a38d-0d7a31376e34",
 		"name": "Seats and Tech Mod - Tradução PT-BR",
