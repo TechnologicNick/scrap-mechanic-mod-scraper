@@ -1604,5 +1604,8 @@
 	"b9ef8d9b-8ace-4a30-b833-15a8ec4b2fba": {
 		"$CONTENT_b9ef8d9b-8ace-4a30-b833-15a8ec4b2fba/Characters/Database/CharacterSets/example.characterset": []
 	},
-	"c869900e-6462-4486-9a3a-d1875f785dcc": {}
+	"c869900e-6462-4486-9a3a-d1875f785dcc": {},
+	"722b08f5-354e-4345-b3f4-d18d1911623c": {
+		"$CONTENT_722b08f5-354e-4345-b3f4-d18d1911623c/Characters/Database/CharacterSets/example.characterset": []
+	}
 }
