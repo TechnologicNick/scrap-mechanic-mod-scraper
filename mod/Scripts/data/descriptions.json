@@ -12181,7 +12181,7 @@
 	"1c626c90-466c-47ec-8927-baf0fa1e7599": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "< ! >Max's test mod\r\n------------------------------------------------------------------------\r\n包含了一个超棒的自定义贴花装置！！！\r\n\r\n你不仅可以使用已给的一些图案花纹、你还可以通过基础图形去创造自己的图标并保存，随时都能掏出来用！\r\n你甚至能通过蓝图的形式把贴花分享给别人，别人只需下载你的蓝图然后通过这个装置去保存你的图标！\r\n\r\n------------------------------------------------------------------------\r\n图标目前仅包含：\r\n[略]\r\n----------------------------------------------------------------------\r\n测试部件包含stuff included：\r\n1. 单面砖&斜面 \r\n\r\n2. 奇怪的衣服包 \r\n\r\n3. 迷你架子 \r\n\r\n4. 警示文字演示器（目前含有：mode - 01~03；模式 - 01~03；WARNING；Ready；Set；GO！）\r\n\r\n5. 光剑！\r\n\r\n6. 导弹干扰器\r\n\r\n7. 导弹生成器全家桶\r\n\r\n8. HUD\r\n",
+		"description": "< ! >Max's test mod\n------------------------------------------------------------------------\n包含了一个超棒的自定义贴花装置！！！\n\n你不仅可以使用已给的一些图案花纹、你还可以通过基础图形去创造自己的图标并保存，随时都能掏出来用！\n你甚至能通过蓝图的形式把贴花分享给别人，别人只需下载你的蓝图然后通过这个装置去保存你的图标！\n\n------------------------------------------------------------------------\n图标目前仅包含：\n[略]\n----------------------------------------------------------------------\n测试部件包含stuff included：\n1. 单面砖&斜面 \n\n2. 奇怪的衣服包 \n\n3. 迷你架子 \n\n4. 警示文字演示器\n\n5. 光剑！\n\n6. 导弹干扰器\n\n7. 导弹生成器全家桶\n\n8. HUD\n",
 		"fileId": 2780758501,
 		"localId": "1c626c90-466c-47ec-8927-baf0fa1e7599",
 		"name": "徽标实验室 Max's Logo Lab",
@@ -46304,7 +46304,7 @@
 	"93f99e68-2b37-4e10-90a0-0f25e12360c5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This Mod adds a logic Part, that translates the world Coordinates of the target (X, Y, Z in blocks) from Fant´s Unit Facer to Durf´s Number Logic Values.\r\n\r\nThanks To Fant for the impressive help he was",
+		"description": "This Mod adds a logic Part, that translates the world Coordinates of the target (X, Y, Z in blocks) and more from Fant´s Unit Facer to Durf´s Number Logic Values. It also can manipulate them in different ways so you dont have to do as much complicated math afterwards.\n\nThanks To Fant for the impressive help on some of the code",
 		"fileId": 3648346306,
 		"localId": "93f99e68-2b37-4e10-90a0-0f25e12360c5",
 		"name": "Converter (Unit Facer values To Modpack XO Meter)",
@@ -46481,5 +46481,22 @@
 		"name": "ScrapFactoryEasyMode",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"8e65588b-2ed2-410a-9975-1a41ce961070": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2949350596,
+				"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
+				"name": "SComputers [Fork]"
+			}
+		],
+		"description": "adds invisible versions of all blocks from SComputers and power toys",
+		"fileId": 3654930099,
+		"localId": "8e65588b-2ed2-410a-9975-1a41ce961070",
+		"name": "SComputers invisible [SComputers addon]",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
