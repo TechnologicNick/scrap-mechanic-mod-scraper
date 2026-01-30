@@ -6981,7 +6981,9 @@
 		"$CONTENT_b9ef8d9b-8ace-4a30-b833-15a8ec4b2fba/Tools/Database/ToolSets/example.toolset": []
 	},
 	"c869900e-6462-4486-9a3a-d1875f785dcc": {
-		"$CONTENT_c869900e-6462-4486-9a3a-d1875f785dcc/Tools/Database/ToolSets/tools.toolset": []
+		"$CONTENT_c869900e-6462-4486-9a3a-d1875f785dcc/Tools/Database/ToolSets/tools.toolset": [
+			"639eac21-91a2-4e7e-b6d4-b4405f8c7877"
+		]
 	},
 	"543a4ce0-30f7-4a2b-a0ba-bbc3534ba56b": {
 		"$CONTENT_543a4ce0-30f7-4a2b-a0ba-bbc3534ba56b/Tools/Database/ToolSets/tools.toolset": [

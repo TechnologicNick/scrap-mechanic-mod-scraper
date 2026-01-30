@@ -46394,7 +46394,7 @@
 	},
 	"c869900e-6462-4486-9a3a-d1875f785dcc": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "\n",
 		"fileId": 3650808149,
 		"localId": "c869900e-6462-4486-9a3a-d1875f785dcc",

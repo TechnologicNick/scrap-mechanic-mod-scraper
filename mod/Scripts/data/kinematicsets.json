@@ -1380,7 +1380,11 @@
 		"$CONTENT_b9ef8d9b-8ace-4a30-b833-15a8ec4b2fba/Kinematics/Database/KinematicSets/example.kinematicset": []
 	},
 	"c869900e-6462-4486-9a3a-d1875f785dcc": {
-		"$CONTENT_c869900e-6462-4486-9a3a-d1875f785dcc/Kinematics/Database/KinematicSets/example.kinematicset": []
+		"$CONTENT_c869900e-6462-4486-9a3a-d1875f785dcc/Kinematics/Database/KinematicSets/example.kinematicset": [
+			"5eb8975b-0acf-43a7-ab4e-62ce661c0df7",
+			"da21ffd1-806d-4964-94e9-a769bdd0f46a",
+			"8e1ce3dd-a623-46dd-b9d1-f61f7418fd2d"
+		]
 	},
 	"722b08f5-354e-4345-b3f4-d18d1911623c": {
 		"$CONTENT_722b08f5-354e-4345-b3f4-d18d1911623c/Kinematics/Database/KinematicSets/example.kinematicset": []
