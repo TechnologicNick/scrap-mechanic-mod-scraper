@@ -160,7 +160,9 @@
 	"94c0daa1-3663-4114-9601-adc48df6715a": {},
 	"35e245c2-fede-4500-8211-b605ed329cfb": {},
 	"ecf6ca62-2989-455c-a9c6-be32f3ab0976": {
-		"$CONTENT_ecf6ca62-2989-455c-a9c6-be32f3ab0976/Characters/Database/CharacterSets/example.characterset": []
+		"$CONTENT_ecf6ca62-2989-455c-a9c6-be32f3ab0976/Characters/Database/CharacterSets/example.characterset": [
+			"264a563a-e304-430f-a462-9963c77624e9"
+		]
 	},
 	"a86ddb9a-afb4-4fd8-a6a5-67e23c0f8a65": {},
 	"42b97fa0-de8f-40ac-aaee-f4feeb580997": {
