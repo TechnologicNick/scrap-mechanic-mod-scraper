@@ -12181,7 +12181,7 @@
 	"1c626c90-466c-47ec-8927-baf0fa1e7599": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "< ! >Max's test mod\n------------------------------------------------------------------------\n包含了一个超棒的自定义贴花装置！！！\n\n你不仅可以使用已给的一些图案花纹、你还可以通过基础图形去创造自己的图标并保存，随时都能掏出来用！\n你甚至能通过蓝图的形式把贴花分享给别人，别人只需下载你的蓝图然后通过这个装置去保存你的图标！\n\n------------------------------------------------------------------------\n图标目前仅包含：\n[略]\n----------------------------------------------------------------------\n测试部件包含stuff included：\n1. 单面砖&斜面 \n\n2. 奇怪的衣服包 \n\n3. 迷你架子 \n\n4. 警示文字演示器\n\n5. 光剑！\n\n6. 导弹干扰器\n\n7. 导弹生成器全家桶\n\n8. HUD\n",
+		"description": "< ! >Max's test mod\r\n------------------------------------------------------------------------\r\n包含了一个超棒的自定义贴花装置！！！\r\n\r\n你不仅可以使用已给的一些图案花纹、你还可以通过基础图形去创造自己的图标并保存，随时都能掏出来用！\r\n你甚至能通过蓝图的形式把贴花分享给别人，别人只需下载你的蓝图然后通过这个装置去保存你的图标！\r\n\r\n------------------------------------------------------------------------\r\n图标目前仅包含：\r\n[略]\r\n----------------------------------------------------------------------\r\n测试部件包含stuff included：\r\n1. 单面砖&斜面 \r\n\r\n2. 奇怪的衣服包 \r\n\r\n3. 迷你架子 \r\n\r\n4. 警示文字演示器\r\n\r\n5. 光剑！\r\n\r\n6. 导弹干扰器\r\n\r\n7. 导弹生成器全家桶\r\n\r\n8. HUD\r\n",
 		"fileId": 2780758501,
 		"localId": "1c626c90-466c-47ec-8927-baf0fa1e7599",
 		"name": "徽标实验室 Max's Logo Lab",
@@ -44399,6 +44399,7 @@
 	"eaaba16d-5da4-4091-9591-4323b7720ec2": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": null,
 		"description": "This mod is my NEW official mod for Train Parts!",
 		"fileId": 3542241591,
 		"localId": "eaaba16d-5da4-4091-9591-4323b7720ec2",
@@ -46506,6 +46507,16 @@
 		"fileId": 3583050696,
 		"localId": "b2af5378-18ee-4e04-aae3-4df199f71fa1",
 		"name": "MoreEffect",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"70f424da-972f-49d1-b505-d6498403ff22": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "此模组对作品有破坏性，请谨慎使用！\r\nThis mod is destructive to the work, please use it with caution!",
+		"fileId": 3658012362,
+		"localId": "70f424da-972f-49d1-b505-d6498403ff22",
+		"name": "EMP",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
