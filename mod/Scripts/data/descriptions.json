@@ -45194,7 +45194,8 @@
 	},
 	"dbcba1a9-f82c-4275-a456-02e6756fa7d1": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
+		"dependencies": null,
 		"description": "AXIOM ー пак, который включает различного вида скосы и скругления, а так же модели с коллизией блока 1х1.\r\n\r\n          TikTok ー @_mafiali_\r\n\r\nЯ ЛЕНИВЫЙ, ТАК ЧТО НЕ ЖАЛУЙТЕСЬ 😈",
 		"fileId": 3583537986,
 		"localId": "dbcba1a9-f82c-4275-a456-02e6756fa7d1",
@@ -46560,5 +46561,15 @@
 		"name": "crafts+",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"4d7abc15-7ca3-4f87-8f50-0891c68e6eec": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "传动轴模组 - 在两个节点之间渲染可旋转的传动轴特效",
+		"fileId": 3659722713,
+		"localId": "4d7abc15-7ca3-4f87-8f50-0891c68e6eec",
+		"name": "DriveShaft - 传动轴",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
