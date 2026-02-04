@@ -7024,5 +7024,9 @@
 		"$CONTENT_e086d8e2-0c64-4a99-a973-4ac9deb29db4/Tools/Database/ToolSets/example.toolset": [
 			"7de81ee1-888e-472a-8d37-4945aeb0b1c2"
 		]
+	},
+	"da4a6dc0-b21d-495c-a18a-f99e2d4ddb87": {},
+	"3955b8dd-1b46-4527-aff4-09bd34d47266": {
+		"$CONTENT_3955b8dd-1b46-4527-aff4-09bd34d47266/Tools/Database/ToolSets/example.toolset": []
 	}
 }

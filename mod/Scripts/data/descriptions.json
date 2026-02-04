@@ -46355,7 +46355,7 @@
 	},
 	"a3d76703-0945-4a3c-a1cf-a1a09dff5ebc": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"description": "Мой самый первый мод. Почти нет минусов. Надеюсь....",
 		"fileId": 3649679765,
 		"localId": "a3d76703-0945-4a3c-a1cf-a1a09dff5ebc",
@@ -46540,5 +46540,25 @@
 		"name": "Tank Parts",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"da4a6dc0-b21d-495c-a18a-f99e2d4ddb87": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod add Triangular Pyramid Wedges from 1x1 to 8x8 and Bevels Plate to Plane type B from 1x1 to 8x8 L and R.",
+		"fileId": 3442127277,
+		"localId": "da4a6dc0-b21d-495c-a18a-f99e2d4ddb87",
+		"name": "Triangular Pyramid Wedges",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"3955b8dd-1b46-4527-aff4-09bd34d47266": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3633938916,
+		"localId": "3955b8dd-1b46-4527-aff4-09bd34d47266",
+		"name": "crafts+",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
