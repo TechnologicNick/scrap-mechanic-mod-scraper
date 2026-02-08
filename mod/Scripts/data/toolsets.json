@@ -6898,10 +6898,15 @@
 	"6de7ac6f-f889-43f4-b554-468ce4868770": {
 		"$CONTENT_6de7ac6f-f889-43f4-b554-468ce4868770/Tools/Database/ToolSets/NewToolSet1.toolset": [
 			"e8695af4-d3f9-4284-bedb-c3ce5e1bf357",
+			"a6fd4553-c883-4b82-8026-f87be692186a",
 			"f4017e78-b4a5-48f5-b169-6c8c36a75594",
+			"b7c8ae38-9042-4f0a-831a-097b99fccb18",
 			"f1c9060f-c0f0-4396-8554-147d6e384be0",
+			"ef443adc-5c61-4709-ad62-2f699b982ee4",
 			"c72c8d0b-78e1-433c-b921-fd26a18f7ca7",
-			"fc07d3d6-3465-4613-8d3b-5cba453f4f34"
+			"9275a57b-51da-4852-b69f-9b7f832a9111",
+			"fc07d3d6-3465-4613-8d3b-5cba453f4f34",
+			"0dde8e4e-fe44-4883-8640-7a060efb79ee"
 		]
 	},
 	"555bcf02-71d0-4222-afa4-e92e9b2f29b8": {
@@ -7031,5 +7036,11 @@
 	},
 	"4d7abc15-7ca3-4f87-8f50-0891c68e6eec": {},
 	"ef9a3420-46fd-460a-a7c6-6d80ebd3095b": {},
-	"0ed980ca-90aa-41ed-9c0f-bd7ae693df24": {}
+	"0ed980ca-90aa-41ed-9c0f-bd7ae693df24": {},
+	"307d783d-6310-4b9e-8eeb-73caf9074cd8": {
+		"$CONTENT_307d783d-6310-4b9e-8eeb-73caf9074cd8/Tools/Database/ToolSets/NewToolSet1.toolset": [
+			"ee2e409e-539e-4905-8bd7-a0bc9be456f8"
+		]
+	},
+	"de7da241-6c9e-4d5c-89ee-d5841c529187": {}
 }
