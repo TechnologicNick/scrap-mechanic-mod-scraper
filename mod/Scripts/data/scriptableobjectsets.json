@@ -1304,5 +1304,11 @@
 	},
 	"3955b8dd-1b46-4527-aff4-09bd34d47266": {
 		"$CONTENT_3955b8dd-1b46-4527-aff4-09bd34d47266/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"b158927f-ef1e-4c49-8eef-8489bc76733b": {
+		"$CONTENT_b158927f-ef1e-4c49-8eef-8489bc76733b/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"c860e00e-6462-4486-9a3a-d1875f785dcc": {
+		"$CONTENT_c860e00e-6462-4486-9a3a-d1875f785dcc/ScriptableObjects/ScriptableObjectSets/example.sobset": []
 	}
 }
