@@ -46646,5 +46646,15 @@
 		"name": "LikeWorld",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"9afd3cf2-1f0f-40c3-b919-9eda17689a3c": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This MOD adds a new detailed tile to the game experience. It can be used for kitchen floors or even bathrooms.\n\nBy:Szasza100",
+		"fileId": 3665523808,
+		"localId": "9afd3cf2-1f0f-40c3-b919-9eda17689a3c",
+		"name": "Szasza100",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
