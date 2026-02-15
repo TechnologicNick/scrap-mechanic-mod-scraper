@@ -6555,7 +6555,7 @@
 	},
 	"6ac71d35-e0b8-436e-a17c-e92d7574cfea": {},
 	"90f92d4f-da62-4cf4-99d5-b384d585143d": {
-		"$CONTENT_90f92d4f-da62-4cf4-99d5-b384d585143d/Tools/Database/ToolSets/woosh.toolset": [
+		"$CONTENT_90f92d4f-da62-4cf4-99d5-b384d585143d/Tools/Database/ToolSets/autoTools.toolset": [
 			"b815fd52-7bc3-45a8-8eac-9dbe651757ee"
 		]
 	},
@@ -7061,5 +7061,6 @@
 	},
 	"9afd3cf2-1f0f-40c3-b919-9eda17689a3c": {},
 	"6ed56ae2-d7a2-4cee-9ae5-0c1a568e8d6a": {},
-	"efe37556-1ad9-44b6-961e-d93a0aec1240": {}
+	"efe37556-1ad9-44b6-961e-d93a0aec1240": {},
+	"9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4": {}
 }
