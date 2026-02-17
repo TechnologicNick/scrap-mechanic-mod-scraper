@@ -3702,7 +3702,22 @@
 			"dc7061d7-8101-4fc6-b1f4-843bd5c7111f",
 			"525af504-6bfb-41d4-ab71-bab89018bf02",
 			"42e436d2-a04a-4a93-b31e-e6a135f67402",
-			"e7bf47ba-e571-4c6b-8945-da4b17b98eb1"
+			"e7bf47ba-e571-4c6b-8945-da4b17b98eb1",
+			"d8e88604-88da-4e6d-8ef7-9ea730ac629a",
+			"3865d5e5-fa17-4d39-abed-d2f0b679a4ad",
+			"c0dbfaba-8f25-4830-aaef-c499e06b89b6",
+			"e0b3e4f8-cd88-4f1a-9cc2-5b09e6669e9b"
+		],
+		"$CONTENT_eced507f-6dab-4da2-80d0-7cd8b2f2c82f/Harvestables/Database/HarvestableSets/ore.harvestableset": [
+			"a692c371-71db-4166-bfcb-de95dbbb6da1",
+			"83bc50e7-c64c-45a4-b800-bb9add2ba868",
+			"c7717b8f-e2b0-4f92-b0a1-7324ea7326ae",
+			"bfadcab6-6699-42b9-b75e-3f570429bd8f"
+		],
+		"$CONTENT_eced507f-6dab-4da2-80d0-7cd8b2f2c82f/Harvestables/Database/HarvestableSets/ancient.harvestableset": [
+			"cd730d42-74b3-4143-a257-c9f517ab1d60",
+			"e90bfc32-0a3c-4333-85de-d6e2e7c45909",
+			"d55ea478-117a-4f99-8781-1c0f21ff1c3c"
 		]
 	},
 	"a2d4ab06-7cd1-43dc-8b8a-c44a912f920b": {
