@@ -46687,5 +46687,15 @@
 		"name": "Solid",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"38aaa37e-671c-4720-b734-8c32bd94292f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "simple mod that adds a single 'blueprint' block that is static and has all ratings at 0.",
+		"fileId": 3668284913,
+		"localId": "38aaa37e-671c-4720-b734-8c32bd94292f",
+		"name": "blueprint block",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
