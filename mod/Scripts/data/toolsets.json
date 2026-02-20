@@ -7062,7 +7062,13 @@
 	"9afd3cf2-1f0f-40c3-b919-9eda17689a3c": {},
 	"6ed56ae2-d7a2-4cee-9ae5-0c1a568e8d6a": {},
 	"efe37556-1ad9-44b6-961e-d93a0aec1240": {},
-	"9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4": {},
+	"9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4": {
+		"$CONTENT_9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4/Tools/Database/ToolSets/tools.toolset": [
+			"b73aaa9b-9d5d-4ab7-adea-35fb254069c6"
+		]
+	},
 	"38aaa37e-671c-4720-b734-8c32bd94292f": {},
-	"08f7b682-5345-4cd1-9a98-4983c1c7597a": {}
+	"08f7b682-5345-4cd1-9a98-4983c1c7597a": {},
+	"e8811a75-9662-46ab-ad93-8e0566938c80": {},
+	"546f9f92-6a19-4f6d-b18f-98b18189b63e": {}
 }
