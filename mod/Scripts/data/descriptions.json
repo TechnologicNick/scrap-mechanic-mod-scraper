@@ -44044,7 +44044,7 @@
 	},
 	"e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"description": "If you have any questions about the mod, feel free to leave them in the comments, I(#d4af37T) will answer them as soon as I can. Leave any suggestions in comments, I can add most of what you can probably think of.\r\n\r\nPlease report all the bugs or bad things in the comments, with 93% chance I will answer and fix them.\r\n\r\nYou can take any scripts from this mod to copy into your mod, if you change their functionality in any meaningfull way.\r\n\r\nIngame name of the monster with procedural legs is Big parasite.\r\n\r\nThis mod adds \"T power\" a tool with many functions: {\"Gravity gun\", \"Tug\", \"Movement tool\", \"Force field\", \"Returner\", \"Cleaner\", \"Manual\", \"Part gun\", \"Delayed Movement\", \"Newtonian Gravity Gun\", \"Zoom\", \"Immortality\", \"Console\", \"Freecamera\", \"Manipulator\", \"Web gun\", \"Web\"}.\r\n\r\nThis list is made automaticaly and may include not yet existant parts. (If it has a description then it 100% exists) Mod adds:\r\n1000 clay \r\nTesting device 2: Used for testing scripts, it can be anything! \r\njson reader \r\n#d4af37 Farmbot head: Has my turret script from \"Bedwars rus dub\" mod.  \r\nAlpha gun: Like uranium but directed. \r\n#d4af37low friction net block \r\nsharp block \r\nElectrical switch 2 \r\nmirror block \r\nWisdomous parasite: Replicates but has maximum population size. \r\nBlue Fire \r\ntransformer part \r\nplastic road block \r\nCopper block \r\nInfectous parasite: Infects creation, creates spores. \r\nInductor \r\nguitest \r\nBig parasite, legSize:5 \r\n50 Connectable parts \r\nseat tool \r\nAnti parasite \r\nanti-drag device REMAKE: Every tick game multiplies velocity of your creation by ~0.95 this block changes this number for all creations in the world to the number on the input (use \"The modpack\" logic to enter the number). \r\ntnt run layout block Medusa infectous parasite \r\nUranium glass \r\nBuildfull parasite: Dublicates entire body when replicating. \r\nInvisible infectous parasite \r\ncoal \r\nUranium: Melts creations. \r\nTnt run layout block: Can be transformated into working tnt run using \"Tnt run converter\". \r\nBig parasite, legSize:50 \r\nbenzine \r\nEgoraxium gas \r\nConnectious infectous parasite \r\nSimple infectous parasite: Infects creations. \r\nWaxed copper \r\nBee parasite \r\nbuilderGuide \r\nmetal3 Medusa infectous parasite \r\nGravity block: Creates a gravitational force away from itself, force is set by using \"The modpack\" logic, set value to negative to make force attractive. \r\nWasp parasite \r\nElectrical switch \r\n100 clay \r\n500 clay \r\nClay: Big lumps of it can morph with pressure. \r\nplant parasite \r\nDublicator: Dublciates creation on activation (do not activate continously, it WILL crash the game). \r\nmetal Medusa infectous parasite \r\nAccumulator \r\nportable anti-drag device: Works like anti-drag device REMAKE but only for body on wich its placed. \r\nrust Medusa infectous parasite \r\nTesting device: Used for testing scripts, it can be anything! \r\nSnarky infectous parasite \r\nCeramic \r\ntrap_block_controler \r\n#d4af37low friction glass block \r\nRoller mine: Roller mine from half life 2 \r\nDiode \r\nStable uranium block: Not radioactive enough to destroy blocks, but enough to not be edible for parasites. \r\nFreecamera: Still in testing, dont use in multiplayer!! \r\nEating Parasite \r\naluminium Medusa infectous parasite \r\namber \r\n#d4af37T block \r\nSaw: Saw from half life 2 \r\nGold \r\nSpider block \r\nrandom  Medusa infectous parasite \r\nSilverfish infectous parasite \r\nSlow simple infectous parasite \r\nspark-plug \r\nInvisible Silverfish infectous parasite \r\nInfectous spores \r\nFire \r\n#000000BLACK \r\nanti РЈРёС‚Р»Рё block \r\njson writer \r\nMarker \r\nSimple parasite: Replicates. \r\nScreen block: Can show your desktop in real time, but requires a python program to work, if you want to get this program, write to mod developers directly via steam. \r\nTumbler: Tumbles player with the set Id (set Id using \"The modpack\" logic). \r\ncopper \r\nBig parasite, legSize:15 \r\nConnectable part \r\nTnt run block \r\nscreen2 \r\nAuto painter: On activation paints a single block in the direction of its lamp side, connect white \"The modpack\" logic to set color. \r\nNitrous Paper \r\n#d4af37 t block wedge \r\nBig parasite, legSize:2 \r\nexample part \r\nwood Medusa infectous parasite \r\ntrap_block \r\n5000 clay \r\nBig parasite, legSize:25 \r\ncopper Medusa infectous parasite \r\n #d4af37d4af37 power \r\nС‚РѕРєР°СЂРЅС‹Р№ СЃС‚Р°РЅРѕРє \r\nTnt run converter: Turns \"tnt run layout block\" blocks into working tnt run. \r\nMedusa infectous parasite.: Turns creation into stone, other variants turn creation into other blocks \r\ncopper ore \r\nStrong parasite: Very strong parasite. Harder to kill than it looks! (this block doesnt use any scripts outside its own callbacks). \r\nInfinite Accumulator \r\nheater \r\nО±-radiation \r\nRelay \r\nFlamer \r\nLonely parasite \r\nRadiation shielding: Radiation resistant. \r\nAnti trash device: Destroys any loose bodies which are NOT in radius, radius is set by \"The Modpack\" logic. \r\ntroll delete block \r\nwisdom.err \r\nFire_explosion_deebree \r\nanti-drag device: Every tick game multiplies velocity of your creation by ~0.95, this block compensates for that for all creations in the world.",
 		"fileId": 3438987478,
 		"localId": "e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5",
@@ -46681,7 +46681,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "lag time )",
+		"description": "мод для себя и для вас, если у вас есть какие-то идеи, что прикольного добавить, пишите в комментариях!\r\nуже есть:\r\n1) самонаводящийся магнит на упреждение ) \r\n2) след от ракеты\r\n\r\nв будущем: возможно, настраиваемый вертолетный винт",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -46755,6 +46755,16 @@
 		"fileId": 3600124393,
 		"localId": "3a9e1309-731d-43de-b6e0-c5f0ab32470a",
 		"name": "Shark'o'staff",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"bb87a28f-7e4a-4e02-8f01-2b925eed3629": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "You can put on a TapeBotHead head to look like him.",
+		"fileId": 3670210572,
+		"localId": "bb87a28f-7e4a-4e02-8f01-2b925eed3629",
+		"name": "TapeBotHead's Head",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
