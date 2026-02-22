@@ -46787,5 +46787,15 @@
 		"name": "Jaydon Play's Head",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"2d6ffb32-28b3-427b-9fa4-9419bd235ac6": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "The target is intended for shooting, although it's not recommended to shoot at it\n\nWARNING!!!\nIf you write criticism, write proper criticism, not just hate.",
+		"fileId": 3671134790,
+		"localId": "2d6ffb32-28b3-427b-9fa4-9419bd235ac6",
+		"name": "Crawlipede Shooting Target",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
