@@ -7087,5 +7087,10 @@
 		"$CONTENT_fd3ac1e5-0ce5-4ac5-b595-02d3bc9c2ac8/Tools/Database/ToolSets/LegendTools.toolset": [
 			"8621dc89-d275-4066-bc72-4f1754f18d9f"
 		]
+	},
+	"36603104-bbde-4b50-bb8e-f307645f0531": {
+		"$CONTENT_36603104-bbde-4b50-bb8e-f307645f0531/Tools/Database/ToolSets/Neon.toolset": [
+			"61e2b8f1-7781-44a1-ab02-15d7e9a3f6bb"
+		]
 	}
 }

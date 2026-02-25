@@ -46807,5 +46807,15 @@
 		"name": "Entrance Animation",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"36603104-bbde-4b50-bb8e-f307645f0531": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "",
+		"fileId": 3673214625,
+		"localId": "36603104-bbde-4b50-bb8e-f307645f0531",
+		"name": "Pilot Jump Kit Mod",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
