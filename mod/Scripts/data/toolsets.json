@@ -7078,7 +7078,8 @@
 	"f1914704-dadf-4363-814f-fd7d940afa6e": {
 		"$CONTENT_f1914704-dadf-4363-814f-fd7d940afa6e/Tools/Database/ToolSets/NewToolSet1.toolset": [
 			"0e4bc4c8-2e15-431f-b295-37c3df5d953a",
-			"521a24ea-7a63-40b6-88f5-e9b6b915961f"
+			"521a24ea-7a63-40b6-88f5-e9b6b915961f",
+			"56d04a33-338a-4d28-8ed5-3a7136dd3f11"
 		]
 	},
 	"9950bae3-a815-4b65-94f9-0455eb7bed9e": {},
@@ -7092,5 +7093,7 @@
 		"$CONTENT_36603104-bbde-4b50-bb8e-f307645f0531/Tools/Database/ToolSets/Neon.toolset": [
 			"61e2b8f1-7781-44a1-ab02-15d7e9a3f6bb"
 		]
-	}
+	},
+	"280dfded-e1be-4e2a-b105-32fdae558b97": {},
+	"6cc6b739-d105-45e2-ba32-3ce51da5b9aa": {}
 }

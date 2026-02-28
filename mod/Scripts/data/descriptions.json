@@ -45654,12 +45654,19 @@
 	"24fc65a7-e1aa-4b66-86bc-d8229df53981": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]Fork of the original \"Enable Survival Player\" by Vajdani[/h1]\r\n\r\nOriginal mod resources:\r\n• [url=https://github.com/Vajdani/SM-Enable-Survival-Player]GitHub Repository[/url]\r\n• [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3216708262]Steam Workshop[/url]\r\n\r\nThe original mod is no longer maintained. This fork is updated and maintained by a developer from the [url=https://discord.gg/zZ3zDyEMc2]Scrap Wars team[/url].\r\n\r\n[h1]📁 Repository[/h1]\r\n• [url=https://github.com/hoyvv/SM-Enable-Survival-Player-Update]Fork GitHub Repository[/url]\r\n\r\nThis mod enables survival functionality in creative mode. Tested in multiplayer - use at your own risk in custom game modes.\r\n\r\n[h1]License[/h1]\r\nThis project is licensed under the MIT License.\r\n\r\nCopyright notices:\r\n• Original work: Copyright (c) 2025 Vajdani\r\n• Modifications: Copyright (c) 2025 Hoyvv\r\n\r\n[hr][/hr]\r\n\r\n[h1]Chat Commands[/h1]\r\n\r\n[h2]Host Only Commands[/h2]\r\n[list]\r\n[*] [b]/pvp[/b] - Enables player vs player mode, players can hurt each other\r\n[*] [b]/healthregeneration[/b] - Toggles health regeneration\r\n[*] [b]/hunger[/b] - Toggles hunger\r\n[*] [b]/thirst[/b] - Toggles thirst\r\n[*] [b]/overridedisplaynames[/b] - Sets the display mode of player names for all players mode(1-all / 2-team / 3-none / 4-no override)\r\n[*] [b]/breathloss[/b] - Toggles breath loss underwater\r\n[*] [b]/respawnstats[/b] - Sets start HP, thirst and hunger\r\n[*] [b]/clearallinventories[/b] - Clears all items from all players' inventories\r\n[*] [b]/clearteamspawnpoint[/b]  - Clear team spawn point\r\n[*] [b]/creativeinventory[/b] - Toggles the creative inventory\r\n[*] [b]/collisiontumble[/b] - Toggles whether you can tumble from collisions\r\n[*] [b]/collisiondamage[/b] - Toggles whether you can take damage from collisions\r\n[*] [b]/godmode[/b] - Toggles god mode\r\n[*] [b]/savepreset[/b] - Saves the current settings by name\r\n[*] [b]/loadpreset[/b] - Loads settings by the preset name\r\n[*] [b]/dropitems[/b] - Whether players drop death bags after dying\r\n[*] [b]/ammoconsumption[/b] - Toggles whether weapons consume ammunition\r\n[*] [b]/createteam[/b] - Creates a team with a name and colour(optional)\r\n[*] [b]/deleteteam[/b] - Deletes a team\r\n[*] [b]/friendlyfire[/b] - Toggles friendly fire\r\n[*] [b]/setrespawncooldown[/b] - Sets the respawn cooldown\r\n[*] [b]/setteamspawnpoint[/b] - Set team spawn point\r\n[*] [b]/unseatondamage[/b] - Sets whether the player gets unseated upon receiving damage\r\n[/list]\r\n\r\n[h2]Commands Usable By Everyone[/h2]\r\n[list]\r\n[*] [b]/setspawnpoint[/b] - Sets your spawn point(takes priority over beds)\r\n[*] [b]/clearspawnpoint[/b] - Clears your spawn point\r\n[*] [b]/setteam[/b] - Sets your team\r\n[*] [b]/clearteam[/b] - Clears your team\r\n[*] [b]/listteams[/b] - Lists all the current teams in the chat\r\n[*][b]/displaynames[/b] - Removed, use [b][u]/overridedisplaynames[/u][/b] instead\r\n[/list]",
+		"dependencies": [
+			{
+				"fileId": 3217450776,
+				"localId": "de356fe0-5cac-48f3-b4b4-c2e6699d85bb",
+				"name": "Enable Survival Player Harvestables"
+			}
+		],
+		"description": "[b]Fork of the original \"Enable Survival Player\" by Vajdani[/b]\r\n\r\n[b]Original resources:[/b]\r\n[list]\r\n[*] [url=https://github.com/Vajdani/SM-Enable-Survival-Player]GitHub Repository[/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3216708262]Original Steam Workshop[/url]\r\n[/list]\r\n\r\n[i]The original mod is no longer maintained. This fork is updated and maintained by a developer from the Scrap Wars team.[/i]\r\n\r\n[h2]License[/h2]\r\nThis project is licensed under the MIT License.\r\n[b]Copyright notices:[/b]\r\n[list]\r\n[*] Original work: Copyright (c) 2025 Vajdani\r\n[*] Modifications: Copyright (c) 2025 Hoyvv ([url=https://discord.gg/zZ3zDyEMc2]Scrap Wars team[/url])\r\n[/list]\r\n\r\n[hr][/hr]\r\n\r\n[h1]This mod enables survival functionality in creative mode.[/h1]\r\n[i]Tested in multiplayer - use at your own risk in custom game modes.[/i]\r\n\r\nThe mod offers several chat commands to customize your experience.\r\n\r\n[h3]Host only commands[/h3]\r\n[list]\r\n[*] [b]/pvp[/b] — Enables player vs player mode, players can hurt each other.\r\n[*] [b]/healthregeneration[/b] — Toggles health regeneration.\r\n[*] [b]/hunger[/b] — Toggles hunger.\r\n[*] [b]/thirst[/b] — Toggles thirst.\r\n[*] [b]/overridedisplaynames[/b] — Sets the display mode of player names (1-all / 2-team / 3-none / 4-no override).\r\n[*] [b]/breathloss[/b] — Toggles breath loss underwater.\r\n[*] [b]/respawnstats[/b] — Sets start HP, thirst, and hunger.\r\n[*] [b]/clearallinventories[/b] — Clears all items from all players' inventories.\r\n[*] [b]/creativeinventory[/b] — Toggles the creative inventory.\r\n[*] [b]/collisiontumble[/b] — Toggles whether you can tumble from collisions.\r\n[*] [b]/collisiondamage[/b] — Toggles whether you can take damage from collisions.\r\n[*] [b]/godmode[/b] — Toggles god mode.\r\n[*] [b]/savepreset[/b] — Saves the current settings by name.\r\n[*] [b]/loadpreset[/b] — Loads settings by the preset name.\r\n[*] [b]/dropitems[/b] — Whether players drop death bags after dying.\r\n[*] [b]/ammoconsumption[/b] — Toggles whether weapons consume ammunition.\r\n[*] [b]/createteam[/b] — Creates a team with a name and color (optional).\r\n[*] [b]/deleteteam[/b] — Deletes a team.\r\n[*] [b]/friendlyfire[/b] — Toggles friendly fire.\r\n[*] [b]/setrespawncooldown[/b] — Sets the respawn cooldown.\r\n[*] [b]/unseatondamage[/b] — Sets whether the player gets unseated upon receiving damage.\r\n[*] [b]/setteamspawnpoint[/b] — Sets a specific spawn point for a team.\r\n[*] [b]/clearteamspawnpoint[/b] — Clears the spawn point for a team.\r\n[/list]\r\n\r\n[h3]Commands usable by everyone[/h3]\r\n[list]\r\n[*] [b]/setspawnpoint[/b] — Sets your personal spawn point (takes priority over beds).\r\n[*] [b]/clearspawnpoint[/b] — Clears your personal spawn point.\r\n[*] [b]/setteam[/b] — Sets your team.\r\n[*] [b]/clearteam[/b] — Clears your team.\r\n[*] [b]/listteams[/b] — Lists all current teams in the chat.\r\n[*] [b]/suicide[/b] — Instantly kills your character to allow respawning.\r\n[/list]",
 		"fileId": 3606770610,
 		"localId": "24fc65a7-e1aa-4b66-86bc-d8229df53981",
 		"name": "Enable Survival Player Updated",
 		"type": "Blocks and Parts",
-		"version": 1.1
+		"version": 1.3
 	},
 	"93825f32-6eff-453c-9a8a-c616c85b91ab": {
 		"allow_add_mods": true,
@@ -46560,7 +46567,7 @@
 	"4d7abc15-7ca3-4f87-8f50-0891c68e6eec": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]《DriveShaft - 传动轴》模组介绍 [/h1]\r\n\r\n\r\n告别笨重的传统轴承结构，使用 《DriveShaft》模组，为你的机械作品带来更灵活、更具表现力的动力传输方案\r\n本模组旨在简化旋转结构的搭建。视觉化的传动轴特效，清晰、动态地展示动力传递路径，让你的机械设计既美观又直观。\r\n\r\n\r\n[h2] 模组内容与使用教程 [/h2]\r\n[olist]\r\n本模组包含三种核心逻辑零件，助你轻松构建传动系统：\r\n\r\n[*]传动轴节点\r\n\r\n这是传动轴的连接端点。将两个节点放置在你希望连接的两点（例如发动机输出端和车轮输入端）。\r\n\r\n使用游戏内的逻辑连接线将这两个节点相互连接，以定义传动轴的路径。\r\n\r\n[*]传动轴控制器\r\n\r\n传动系统的核心控制单元。\r\n\r\n将上述已连接的两个节点中的任意一个，用逻辑线连接到本控制器，即可激活整条传动轴。\r\n\r\n按 E 键打开控制器设置面板，你可以实时调整传动轴的颜色、粗细和特效强度，使其完美匹配你的机械风格。\r\n\r\n[*]传动轴速度传感器\r\n\r\n用于驱动传动轴旋转的智能组件。\r\n\r\n将其安装在任意旋转部件上（如轮胎、发动机转子、螺旋桨），并用逻辑线连接到传动轴控制器。\r\n\r\n连接后，传动轴将自动跟随传感器的转速和方向进行旋转。这意味着你无需安装任何物理轴承即可实现动态旋转效果，极大简化了结构。\r\n\r\n简单来说，搭建流程就是：放两个节点 -> 连起来 -> 接上控制器 -> 用传感器驱动。 你可以用它制作炫酷的摩托车链条、飞机的联动控制面、工厂的传送带，或是任何需要展现动力连接的创意设计！[/olist]\r\n\r\n[h1] 公开测试与反馈 [/h1]\r\n\r\n[b]《DriveShaft - 传动轴》目前处于 公开测试阶段。 [/b]我们非常期待各位机械师在创造过程中尝试它，并反馈宝贵的意见。\r\n\r\n如果你在使用过程中遇到任何问题，例如特效显示异常、逻辑连接失效或有新的功能建议，欢迎通过以下方式告知我们：\r\n\r\n模组发布页面的评论区留言\r\n\r\n你的每一条反馈都将帮助我们完善这个模组，感谢你的参与和测试\r\n\r\n",
+		"description": "[h1]《DriveShaft - 传动轴》模组介绍 [/h1]\r\n\r\n\r\n告别笨重的传统轴承结构，使用 《DriveShaft》模组，为你的机械作品带来更灵活、更具表现力的动力传输方案\r\n本模组旨在简化旋转结构的搭建。视觉化的传动轴特效，清晰、动态地展示动力传递路径，让你的机械设计既美观又直观。\r\n\r\n\r\n[url=https://github.com/Allen32232/Scrap-Mechanic-DriveShaft-MOD] 我们的模组已经在github上开源！ [/url]\r\n\r\n[h2] 模组内容 [/h2]\r\n[olist]\r\n本模组包含三种核心逻辑零件，助你轻松构建传动系统：\r\n\r\n[*]传动轴节点\r\n\r\n这是传动轴的连接端点。将两个节点放置在你希望连接的两点。\r\n\r\n使用游戏内的逻辑连接线将这两个节点相互连接，以定义传动轴的路径。\r\n\r\n[*]传动轴控制器\r\n\r\n传动系统的核心控制单元。\r\n\r\n将上述已连接的两个节点中的任意一个，用逻辑线连接到本控制器，即可激活整条传动轴。\r\n\r\n按 E 键打开控制器设置面板，你可以实时调整传动轴的颜色、粗细和特效强度\r\n\r\n[*]传动轴速度传感器\r\n\r\n用于驱动传动轴旋转的组件。\r\n\r\n将其安装在任意旋转部件上（如轮胎、发动机转子、螺旋桨），并用逻辑线连接到传动轴控制器。[/olist]\r\n\r\n[h1]使用教程 [/h1]\r\n\r\n[img]https://images.steamusercontent.com/ugc/15356210717116851334/4D525C080BF473CC70E88C786D1A440595C782C6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img]\r\n\r\n[b]通常来讲有两种动力传输[/b]  [u]展示 [/u]  [b]方式[/b]\r\n\r\n[olist]\r\n[*]直接使用引擎带动传动轴进行动力传动展示\r\n[*]使用传动轴速度传感器采集旋转物体的速度实现多根传动轴动力传动展示[/olist]、\r\n\r\n[h2]方案一：直接动力传输展示[/h2]\r\n\r\n[b]此方案适合直接展示单一动力源（如引擎）的传动路径。[/b]\r\n\r\n安装流程：\r\n[olist]\r\n[*]放置传动轴节点 → 将两个节点分别放置在动力源（如引擎）的输出端也就是轴承上。\r\n\r\n[*]连接节点 → 使用游戏内的逻辑连接线，将这两个节点相互连接。\r\n\r\n[*]接入控制器 → 将任意一个节点，用逻辑线 → 连接到一个传动轴控制器。\r\n\r\n[*]连接动力源 → 将同一个控制器，用逻辑线 → 连接到引擎（或其它逻辑动力输出端）。\r\n\r\n[*]完成与设置 → 启动引擎，传动轴将开始旋转。按E键打开控制器面板，可调整颜色与粗细。[/olist]\r\n\r\n[code]\r\n                       （传动轴控制器连接到节点A）\r\n                                    ↓\r\n[引擎] → (逻辑线) → [轴承]  →  [节点A] ←→ (逻辑线连接) ←→ [节点B]\r\n                                      ↓\r\n                                （旋转特效渲染）\r\n[/code]\r\n\r\n[h2]方案二：传感器同步动力传输展示[/h2]\r\n\r\n此方案适合展示复杂机械中，多个旋转部件的同步运动（例如多个轮胎或联动的机械臂）。\r\n\r\n安装流程：\r\n[olist]\r\n[*]放置并连接节点 → 在需要展示的每两个传动点之间，放置两个节点并用逻辑线连接它们。\r\n\r\n[*]为每根轴接入控制器 → 连接好的节点，连接一个独立的传动轴控制器。\r\n\r\n[*]安装速度传感器 → 在一个基准旋转部件（如其中一个轮胎）上安装传动轴速度传感器。\r\n\r\n[*]统一信号源 → 将这个速度传感器，用逻辑线 → 同时连接到所有传动轴控制器。\r\n\r\n[*]完成与设置 → 当基准部件旋转时，所有传动轴将同步转动。分别对每个控制器按E键，可个性化调整其特效。[/olist]\r\n\r\n[code]\r\n[引擎] →  → [车轮] → (物理转动)\r\n              ↓\r\n[传动轴速度传感器] (安装于此，采集转速)\r\n               ↓ (逻辑信号线)\r\n [传动轴控制器] ← (逻辑线) ← [节点A] ←→ (逻辑线) ←→ [节点B]\r\n               ↓\r\n（传动轴特效根据车轮转速同步渲染）\r\n\r\n[/code]\r\n\r\n\r\n\r\n[h3] 更建议你使用速度传感器来采集旋转物体的速度，例如你的车辆驱动轮，这样可以最大化减少轴承的使用量来优化您的作品  [/h3]\r\n\r\n[h1] 公开测试与反馈 [/h1]\r\n\r\n[b]《DriveShaft - 传动轴》目前处于 公开测试阶段。 [/b]我们非常期待各位机械师在创造过程中尝试它，并反馈宝贵的意见。\r\n\r\n如果你在使用过程中遇到任何问题，例如特效显示异常、逻辑连接失效或有新的功能建议，欢迎通过以下方式告知我们：\r\n\r\n[b]模组发布页面的评论区留言[/b]\r\n\r\n你的每一条反馈都将帮助我们完善这个模组，感谢你的参与和测试\r\n\r\n[b] 感谢 @喵子 对代码的支持 [/b]\r\n\r\n祝你创造愉快！\r\n\r\n",
 		"fileId": 3659722713,
 		"localId": "4d7abc15-7ca3-4f87-8f50-0891c68e6eec",
 		"name": "DriveShaft - 传动轴",
@@ -46815,6 +46822,26 @@
 		"fileId": 3673214625,
 		"localId": "36603104-bbde-4b50-bb8e-f307645f0531",
 		"name": "Pilot Jump Kit Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"280dfded-e1be-4e2a-b105-32fdae558b97": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3531071191,
+		"localId": "280dfded-e1be-4e2a-b105-32fdae558b97",
+		"name": "USRK by Ziom",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6cc6b739-d105-45e2-ba32-3ce51da5b9aa": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "some blocks for engines, like no friction, or block with big friction.",
+		"fileId": 3673914120,
+		"localId": "6cc6b739-d105-45e2-ba32-3ce51da5b9aa",
+		"name": "friction blocks mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
