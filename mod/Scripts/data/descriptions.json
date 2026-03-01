@@ -46864,5 +46864,15 @@
 		"name": "HOUM_PRIME_MOD",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"0ad41aff-412b-4de2-b65e-bf3cc834c9e8": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This is just the Smart Engine Controller from The Modpack Continuation by The Guild. But i changed it to Consume only Gasoline, as the Original only consumes Batteries. I also reduced the crafting costs. \r\n\r\nModel and other code is untouched and linked to the original mod. Without downloading the original Modpack this will not work, this mod is depending on the Original Modpack. If that mod gets Removed, this one will stop working and i wont do anything about it if it happens",
+		"fileId": 3676146670,
+		"localId": "0ad41aff-412b-4de2-b65e-bf3cc834c9e8",
+		"name": "Smart Engine Controller Gasoline Version",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
