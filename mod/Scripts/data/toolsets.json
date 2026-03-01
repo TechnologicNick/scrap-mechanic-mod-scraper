@@ -7095,5 +7095,11 @@
 		]
 	},
 	"280dfded-e1be-4e2a-b105-32fdae558b97": {},
-	"6cc6b739-d105-45e2-ba32-3ce51da5b9aa": {}
+	"6cc6b739-d105-45e2-ba32-3ce51da5b9aa": {},
+	"6fd34215-a7aa-4676-90e0-1c668cae2671": {
+		"$CONTENT_6fd34215-a7aa-4676-90e0-1c668cae2671/Tools/Database/ToolSets/WaveTool.toolset": [
+			"33b7414f-eaad-48b8-9586-11efa5d32505"
+		]
+	},
+	"689abf0d-9e72-4115-9e93-c5addd3ce949": {}
 }
