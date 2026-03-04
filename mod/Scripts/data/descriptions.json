@@ -46894,5 +46894,15 @@
 		"name": "Metal",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"e0a2d4f7-db92-43d9-97a0-ef9ecf0915cd": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A mod that imports ALL current (and probably foreseeable future) challenge parts into creative using the same UUIDs.\nNone of the functional challenge-specific parts work in creative, they exist only to be wired and available on lift creations to import into Challenge Mode.\nI created this because none of the challenge part mods include the glass wedges (which I constantly use for hide and seek maps), so I decided to just port every existing part over anyway to not need like 3 different mods.",
+		"fileId": 3678394676,
+		"localId": "e0a2d4f7-db92-43d9-97a0-ef9ecf0915cd",
+		"name": "Challenge Parts (NEW)",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
