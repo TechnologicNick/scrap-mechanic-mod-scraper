@@ -46878,7 +46878,7 @@
 	"b57bba77-f565-4779-b7bf-3d314d5ce65c": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "Builder Bot Companion Custom Game\n\nOriginal mod by:\n\nikey07\nDrake\n\nThis mod updates parts of the Builder Bot Companion so it works with the modern Custom Games system. I didn’t make the original mod, and the original may not work anymore, so I made this updated version.\n\nWhat’s new:\n\n♦ The bot’s chest can now be Traded at the trader for one caged farmer (im working on it ;-;)\n\n♦ The poster can be crafted in the Craft Bot (im working on it ;-;)\n\nKnown issues:\nuncraftable at the moment but accesable via dev mode by running /unlimited\n\nfixed issues:\nThe Builder Bot not  showing its health or battery on‑screen when you look at it",
 		"fileId": 3677912702,
 		"localId": "b57bba77-f565-4779-b7bf-3d314d5ce65c",
 		"name": "Builder Bot - Companion Bot - Custom Game - Fixed",
