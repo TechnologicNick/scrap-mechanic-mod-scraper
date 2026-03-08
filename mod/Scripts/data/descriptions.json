@@ -46914,5 +46914,15 @@
 		"name": "Blank Slate",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"a64a5749-3a7a-4e25-8072-13ce2548ba74": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[b]Fork of the Fork Enable Survival Player Updated of original \"Enable Survival Player\" by Vajdani[/b]\n\n[b]Original resources:[/b]\n[list]\n[*] [url=https://github.com/Vajdani/SM-Enable-Survival-Player]GitHub Repository[/url]\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3216708262]Original Steam Workshop[/url]\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3606770610]ESPU Steam Workshop page[/url]\n[/list]\n\n[i]This is an exact copy of ESPU but with a damage config, made for personal use[/i]\n\nThe mod offers several chat commands to customize your experience.\n\n[h3]Host only commands[/h3]\n[list]\n[*] [b]/pvp[/b] — Enables player vs player mode, players can hurt each other.\n[*] [b]/healthregeneration[/b] — Toggles health regeneration.\n[*] [b]/hunger[/b] — Toggles hunger.\n[*] [b]/thirst[/b] — Toggles thirst.\n[*] [b]/overridedisplaynames[/b] — Sets the display mode of player names (1-all / 2-team / 3-none / 4-no override).\n[*] [b]/breathloss[/b] — Toggles breath loss underwater.\n[*] [b]/respawnstats[/b] — Sets start HP, thirst, and hunger.\n[*] [b]/clearallinventories[/b] — Clears all items from all players' inventories.\n[*] [b]/creativeinventory[/b] — Toggles the creative inventory.\n[*] [b]/collisiontumble[/b] — Toggles whether you can tumble from collisions.\n[*] [b]/collisiondamage[/b] — Toggles whether you can take damage from collisions.\n[*] [b]/godmode[/b] — Toggles god mode.\n[*] [b]/savepreset[/b] — Saves the current settings by name.\n[*] [b]/loadpreset[/b] — Loads settings by the preset name.\n[*] [b]/dropitems[/b] — Whether players drop death bags after dying.\n[*] [b]/ammoconsumption[/b] — Toggles whether weapons consume ammunition.\n[*] [b]/createteam[/b] — Creates a team with a nam",
+		"fileId": 3681071135,
+		"localId": "a64a5749-3a7a-4e25-8072-13ce2548ba74",
+		"name": "Reconfiguration Updated",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
