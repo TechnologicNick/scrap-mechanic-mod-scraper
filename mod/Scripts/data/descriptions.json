@@ -46944,5 +46944,15 @@
 		"name": "2",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"cc5f16df-7651-491d-8828-749a9e238019": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Mod for Ly4ok(discord server: )\n\nAdds some interactables and things that could be useful for tanks.\n\nNow mod contains:\nAlpha transmission: Connect it to 6 buttons with colors of left-down corner of paint tool and to alpha left and right motors. It have 6 gears forward and 2 reverse\n\n[RIGHT NOW MOD IS IN ALPHA, IT WILL GET UPDATES SOMETIMES] (And also its my first mod with scripts uwu)",
+		"fileId": 3681663023,
+		"localId": "cc5f16df-7651-491d-8828-749a9e238019",
+		"name": "Tank modules",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
