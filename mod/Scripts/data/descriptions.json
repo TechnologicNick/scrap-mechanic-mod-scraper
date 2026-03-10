@@ -46954,5 +46954,25 @@
 		"name": "Tank modules",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"5c3f0b74-52a6-4dc4-ace5-53839a98cc43": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "ENG:\nWARNING: This mod needs to be installed manually.\n\nInstallation:\nOpen C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2644149017\\Effects\\Audio\\Banks\nCopy the Master Bank.bank file\nGo to C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\\Data\\Audio\\Banks\nReplace the file\nEnjoy!\n\nTrack List:\n\ngruppa krovi\npachka sigaret\nperemen\nvosmiklassnica",
+		"fileId": 3263462087,
+		"localId": "5c3f0b74-52a6-4dc4-ace5-53839a98cc43",
+		"name": "tsoy radio (file mod)",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"89c06805-0359-4755-bbc9-276665ae4a48": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3681933450,
+		"localId": "89c06805-0359-4755-bbc9-276665ae4a48",
+		"name": "Chemical elements mod",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
