@@ -44953,7 +44953,13 @@
 	"90f92d4f-da62-4cf4-99d5-b384d585143d": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h2]A Blocks & Parts mod that adds more particles and sounds to moving objects![/h2]\nDoes driving your car way over the Wonk-set speed limit not bring you that drive?\nDo dramatic creation battles with your friends lack the oomph?\nThis mod is for you! It adds various sounds and visuals to help Scrap Mechanic physics interactions feel more impactful!\n\n[hr][/hr]\n[h1]Important![/h1]\n[list]\n[*]This is [b]NOT[/b] a file mod!\n[*]Just enable this mod and enjoy!\n[/list]\n\n[hr][/hr]\n[h1]Features[/h1]\n[list]\n[*]Now when the player passes by an object at high speeds, the object passes by a player or you drive under an overhang a cinematic \"woosh\" sound will play!\n[*]Objects speeding by you will have a \"motion blur\" effect stylized into the Scrap Mechanic art style as white particles!\n[/list]\n\n[hr][/hr]\n[h2]Support:[/h2]\n[*]Rate, Favorite, Share and Award!\n[img]https://fagiano0.github.io/CrashlanderAPI/images/workshop/ratefavourite.gif[/img]",
+		"dependencies": [
+			{
+				"localId": "40e55793-a446-478e-865a-4f374a3592b6",
+				"name": "M.O.E. - Terrain Stuff"
+			}
+		],
+		"description": "[h2]A Blocks & Parts mod that adds more particles and sounds to moving objects![/h2]\r\nDoes driving your car way over the Wonk-set speed limit not bring you that drive?\r\nDo dramatic creation battles with your friends lack the oomph?\r\nThis mod is for you! It adds various sounds and visuals to help Scrap Mechanic physics interactions feel more impactful!\r\n\r\n[hr][/hr]\r\n[h1]Important![/h1]\r\n[list]\r\n[*]This is [b]NOT[/b] a file mod!\r\n[*]Just enable this mod and enjoy!\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h1]Features[/h1]\r\n[list]\r\n[*]Now when the player passes by an object at high speeds, the object passes by a player or you drive under an overhang a cinematic \"woosh\" sound will play!\r\n[*]Objects speeding by you will have a \"motion blur\" effect stylized into the Scrap Mechanic art style as white particles!\r\n[*]All objects with the \"Fruit\" material have been fixed to play correct destruction particles representative of their each respective object.\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h2]Support:[/h2]\r\n[*]Rate, Favorite, Share and Award!\r\n[img]https://fagiano0.github.io/CrashlanderAPI/images/workshop/ratefavourite.gif[/img]",
 		"fileId": 3567022943,
 		"localId": "90f92d4f-da62-4cf4-99d5-b384d585143d",
 		"name": "M.O.E. - Many Object Effects",
