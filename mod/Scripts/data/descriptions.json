@@ -33365,7 +33365,7 @@
 	},
 	"07cd7ed7-e79e-4f15-baa8-dbb3a435ee58": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"dependencies": [
 			{
 				"fileId": 2504530003,
