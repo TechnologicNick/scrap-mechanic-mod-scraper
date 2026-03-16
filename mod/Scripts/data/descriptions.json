@@ -46990,5 +46990,15 @@
 		"name": "Replace New Parts With Old",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"0af82c2f-b9bd-4a07-bfde-7bbb0d6d8243": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3678010716,
+		"localId": "0af82c2f-b9bd-4a07-bfde-7bbb0d6d8243",
+		"name": "NPCs pack",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
