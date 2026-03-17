@@ -7224,5 +7224,8 @@
 	"5c3f0b74-52a6-4dc4-ace5-53839a98cc43": {},
 	"89c06805-0359-4755-bbc9-276665ae4a48": {},
 	"55d0b260-8acb-4b3b-b0e2-9bf2f029eff0": {},
-	"0af82c2f-b9bd-4a07-bfde-7bbb0d6d8243": {}
+	"0af82c2f-b9bd-4a07-bfde-7bbb0d6d8243": {},
+	"91c72070-aebb-4d42-82fe-5a773a99887d": {
+		"$CONTENT_91c72070-aebb-4d42-82fe-5a773a99887d/Tools/Database/ToolSets/example.toolset": []
+	}
 }

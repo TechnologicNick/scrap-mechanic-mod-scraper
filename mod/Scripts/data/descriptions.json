@@ -47000,5 +47000,15 @@
 		"name": "NPCs pack",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"91c72070-aebb-4d42-82fe-5a773a99887d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3598484254,
+		"localId": "91c72070-aebb-4d42-82fe-5a773a99887d",
+		"name": "Skeletka",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
