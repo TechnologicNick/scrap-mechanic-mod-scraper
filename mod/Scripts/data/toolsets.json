@@ -6898,6 +6898,7 @@
 	"6de7ac6f-f889-43f4-b554-468ce4868770": {
 		"$CONTENT_6de7ac6f-f889-43f4-b554-468ce4868770/Tools/Database/ToolSets/NewToolSet1.toolset": [
 			"e8695af4-d3f9-4284-bedb-c3ce5e1bf357",
+			"1de7638b-5b72-4c77-9b4a-707c0bb99a41",
 			"a6fd4553-c883-4b82-8026-f87be692186a",
 			"f4017e78-b4a5-48f5-b169-6c8c36a75594",
 			"b7c8ae38-9042-4f0a-831a-097b99fccb18",
@@ -6907,7 +6908,8 @@
 			"c72c8d0b-78e1-433c-b921-fd26a18f7ca7",
 			"9275a57b-51da-4852-b69f-9b7f832a9111",
 			"fc07d3d6-3465-4613-8d3b-5cba453f4f34",
-			"0dde8e4e-fe44-4883-8640-7a060efb79ee"
+			"0dde8e4e-fe44-4883-8640-7a060efb79ee",
+			"51820ada-27ea-4b83-8728-2a3f9fd1df04"
 		]
 	},
 	"555bcf02-71d0-4222-afa4-e92e9b2f29b8": {
@@ -7083,7 +7085,8 @@
 			"fc96b224-9e1f-47df-8b54-7de76cc10071",
 			"d8239752-0c8d-47d7-968c-1df909554343",
 			"b9d88905-81a4-40b7-ba75-2aafcdce72e1",
-			"474a5f8c-1635-43b5-8b49-1218c501d1fb"
+			"474a5f8c-1635-43b5-8b49-1218c501d1fb",
+			"df352f8b-fc12-49af-b6b7-7d04313704d4"
 		]
 	},
 	"9950bae3-a815-4b65-94f9-0455eb7bed9e": {},
@@ -7233,5 +7236,23 @@
 	"91c72070-aebb-4d42-82fe-5a773a99887d": {
 		"$CONTENT_91c72070-aebb-4d42-82fe-5a773a99887d/Tools/Database/ToolSets/example.toolset": []
 	},
-	"8d5bbf17-ed22-4eac-842c-bb8a89e8b76d": {}
+	"8d5bbf17-ed22-4eac-842c-bb8a89e8b76d": {},
+	"69620453-0447-454d-811b-4ac3d3d86f33": {
+		"$CONTENT_69620453-0447-454d-811b-4ac3d3d86f33/Tools/Database/ToolSets/example.toolset": [
+			"5256fbb3-d7ec-43f4-947b-e59564359e47"
+		],
+		"$CONTENT_69620453-0447-454d-811b-4ac3d3d86f33/Tools/Database/ToolSets/core.toolset": [
+			"8c7efc37-cd7c-4262-976e-39585f8527bf",
+			"c60b9627-fc2b-4319-97c5-05921cb976c6",
+			"fdb8b8be-96e7-4de0-85c7-d2f42e4f33ce",
+			"3384010e-bc1c-42bb-83ef-dbc78a1f9636"
+		],
+		"$CONTENT_69620453-0447-454d-811b-4ac3d3d86f33/Tools/Database/ToolSets/deprecated.toolset": [
+			"448f7c93-699d-47b4-8e3e-296971067ef4"
+		],
+		"$CONTENT_69620453-0447-454d-811b-4ac3d3d86f33/Tools/Database/ToolSets/tools.toolset": [
+			"5cc12f03-275e-4c8e-b013-79fc0f913e1b",
+			"ed185725-ea12-43fc-9cd7-4295d0dbf88b"
+		]
+	}
 }
