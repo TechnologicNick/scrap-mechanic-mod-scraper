@@ -47118,5 +47118,36 @@
 		"name": "BFS Crafting Recipes [BBTS]",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"480b1b89-1089-406f-8c94-fbcd92bcdac5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "",
+		"fileId": 3681620768,
+		"localId": "480b1b89-1089-406f-8c94-fbcd92bcdac5",
+		"name": "\r\t\t\t\t\t\r",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6288b0ba-1500-414d-b261-17159ea52b93": {
+		"allow_add_mods": true,
+		"creatorId": 0,
+		"custom_icons": true,
+		"description": "Adds a Throttle Controller that works with two buttons (gas + brake) to control engine speed like a real throttle. Connect Button 1 (gas) and Button 2 (brake/reverse) as parents, and bearings/engines as children. Wire the buttons to a Driver Seat for hotkey control.",
+		"fileId": 3687628658,
+		"localId": "6288b0ba-1500-414d-b261-17159ea52b93",
+		"name": "Throttle Controller",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"4fbff583-694f-4945-b5e3-e8cb05cfc7ad": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3687754611,
+		"localId": "4fbff583-694f-4945-b5e3-e8cb05cfc7ad",
+		"name": "bonkers dud thats crazy",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
