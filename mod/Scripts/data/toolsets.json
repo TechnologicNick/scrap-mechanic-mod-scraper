@@ -7282,5 +7282,10 @@
 			"59a3469c-d7cd-4784-aa5b-316749abc2b6",
 			"a6113860-f4d4-42df-b8f9-129efdbaf777"
 		]
+	},
+	"61009eab-bb0f-47ed-aafa-84feb56d7201": {
+		"$CONTENT_61009eab-bb0f-47ed-aafa-84feb56d7201/Tools/Database/ToolSets/SprayPaint.toolset": [
+			"2cb3f07b-14fd-4871-b368-b79ad936a0a7"
+		]
 	}
 }
