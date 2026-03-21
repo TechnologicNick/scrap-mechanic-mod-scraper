@@ -47159,5 +47159,16 @@
 		"name": "StreetTool",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"955cc9d2-e2ee-497a-b6f8-452506431029": {
+		"allow_add_mods": true,
+		"creatorId": 0,
+		"custom_icons": true,
+		"description": "Adds a Throttle Controller that works with two buttons (gas + brake) to control engine speed like a real throttle. Connect Button Green (gas) and Button Red (brake/reverse) as parents, and bearings/engines as children. Wire the buttons to a Driver Seat for hotkey control.",
+		"fileId": 3688831253,
+		"localId": "955cc9d2-e2ee-497a-b6f8-452506431029",
+		"name": "Throttle Controller",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
