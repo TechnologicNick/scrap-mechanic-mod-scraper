@@ -39975,7 +39975,7 @@
 	},
 	"62bf677a-9eed-4a4e-b637-1d7bca07544e": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"dependencies": null,
 		"description": "original https://steamcommunity.com/sharedfiles/filedetails/?id=2870930089&searchtext=bed\r\nupdates [eng]\r\n+4 new maps\r\n+new crafts\r\nобновы [рус]\r\n+4 новых карты\r\n+новые крафты",
 		"fileId": 3318884865,
