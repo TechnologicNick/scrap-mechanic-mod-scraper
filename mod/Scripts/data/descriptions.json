@@ -47203,5 +47203,25 @@
 		"name": "Super duper pack of toilet paper rolls!",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"b18de28f-6767-4f17-b511-9c372acdf5ab": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "",
+		"fileId": 3695102413,
+		"localId": "b18de28f-6767-4f17-b511-9c372acdf5ab",
+		"name": "Craftable Wedges",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"2c61e2db-5c48-40a4-a0af-03c36be91298": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Show your disapproval",
+		"fileId": 3695299865,
+		"localId": "2c61e2db-5c48-40a4-a0af-03c36be91298",
+		"name": "Fuck Mod",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
