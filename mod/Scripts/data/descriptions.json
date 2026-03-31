@@ -47207,12 +47207,7 @@
 	"b18de28f-6767-4f17-b511-9c372acdf5ab": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2504530003,
-				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
-			}
-		],
+		"dependencies": null,
 		"description": "Adds recipes for wedges (10 for 5 of each respective blocks) for modded survival",
 		"fileId": 3695102413,
 		"localId": "b18de28f-6767-4f17-b511-9c372acdf5ab",
