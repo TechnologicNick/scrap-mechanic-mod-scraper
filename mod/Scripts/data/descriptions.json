@@ -46479,7 +46479,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "[b]What does this mod do?[/b]\n\nAdds a simple chat command \"/nametags\" to toggle player name tags on/off, while keeping the HUD fully visible.\n\nUseful for Hide and Seek Challenges, especially when switches or buttons require precise interaction angles and you need the HUD interaction hint.\n\nIf another player falls from the map or joins after you´ve enabled the hider, it takes around 0.25 seconds (every 10 ticks), till it hides the nametag again.\n\n[b]Features:[/b]\n- HUD stays visible\n- Player name tags can be hidden\n- Client-side only\n- Works in all Challenge maps\n- No blocks or map changes required\n\n[b]Installation:[/b]\n\n[b]BACKUP this file:[/b]\nScrap Mechanic\\ChallengeData\\Scripts\\challenge\\ChallengeGame.lua\n\n[b]Go to:[/b]\n\"Steam\\SteamApps\\workshop\\content\\387990\\3654366694\\Scripts\\challenge\"\n[b]Copy the included ChallengeGame.lua into:[/b]\nScrap Mechanic\\ChallengeData\\Scripts\\challenge\\\n\n\n[b]Uninstall:[/b]\nRestore your backup or verify game files\n\n[b]Warning:[/b]\n- Not officially supported\n- Updates may overwrite the file\n- Use at your own risk",
+		"description": "[b]What does this mod do?[/b]\n\nAdds a simple chat command \"/nametags\", \"/nametag\" or \"/namestag\" to toggle player name tags on/off, while keeping the HUD fully visible.\n\nUseful for Hide and Seek Challenges, especially when switches or buttons require precise interaction angles and you need the HUD interaction hint.\n\nIf another player falls from the map or joins after you´ve enabled the hider, it takes around 0.25 seconds (every 10 ticks), till it hides the nametag again.\n\n[b]Features:[/b]\n- HUD stays visible\n- Player name tags can be hidden\n- Client-side only\n- Works in all Challenge maps\n- No blocks or map changes required\n\n[b]Installation:[/b]\n\n[b]BACKUP this file:[/b]\nScrap Mechanic\\ChallengeData\\Scripts\\challenge\\ChallengeGame.lua\n\n[b]Go to:[/b]\n\"Steam\\SteamApps\\workshop\\content\\387990\\3654366694\\Scripts\\challenge\"\n[b]Copy the included ChallengeGame.lua into:[/b]\nScrap Mechanic\\ChallengeData\\Scripts\\challenge\\\n\n\n[b]Uninstall:[/b]\nRestore your backup or verify game files\n\n[b]Warning:[/b]\n- Not officially supported\n- Updates may overwrite the file\n- Use at your own risk",
 		"fileId": 3654366694,
 		"localId": "dc97b781-ba8a-4844-8b61-304081bd6bc6",
 		"name": "Hide Nametag",
@@ -47238,6 +47238,7 @@
 	"f05bc2bf-aa1f-4080-beb2-210815aa345c": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": null,
 		"description": "More components for Scrap Computer Mod.\n\nStatus: BETA\nPlease raise the bugs you encountered here.\n\nContents:\n- Induction energe tranmistter: transfer energy without connection.\n- Structure based generator; utilize generator parts from the warehouse to build powerful generator. Check my blueprint about how to build.\n- Container reader: component to allow you read container contents via computer.\n\nI'm not good at art.. It would be greate if anyone would like to complete the art work for this mod.",
 		"fileId": 3696994394,
 		"localId": "f05bc2bf-aa1f-4080-beb2-210815aa345c",
