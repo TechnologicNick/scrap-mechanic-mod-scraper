@@ -46798,7 +46798,7 @@
 	"f1914704-dadf-4363-814f-fd7d940afa6e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod will add various weapons to the Scrap Mechanic world. Be careful when using these weapons!\r\n\r\n///                                 Me in Discord! https://discord.gg/vQJCQcZy                                         ///",
+		"description": "This mod will add various weapons to the Scrap Mechanic world. Be careful when using these weapons!\r\n\r\n- Glock\r\n-- 20 ammo\r\n\r\n- Colt\r\n-- 14 ammo\r\n\r\n- AK74\r\n-- 30 ammo\r\n\r\n- M4A1\r\n-- 30 ammo\r\n\r\n- PKM\r\n-- 200 ammo\r\n\r\n- AT4\r\n\r\n\r\n///                                 Me in Discord! https://discord.gg/wYcNeRxz                                         ///",
 		"fileId": 3670073323,
 		"localId": "f1914704-dadf-4363-814f-fd7d940afa6e",
 		"name": "Technical Guns",
@@ -47300,9 +47300,39 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"description": "Цель этой небольшой модификации, заключается в том, чтобы избавиться наконец-то от огромной кровати для сохранения в режиме выживания, которую невозможно пристроить к компактному творению. А вторым аргументом стало то, что она имеет четную ширину, что не очень хорошо сказывается на симметрии построек имеющих нечетную ширину. Данная модель может использоваться как с четной, так и несчетной шириной творений, и к тому-же она не займет много места.",
-		"fileId": 3698468115,
+		"fileId": 3698577963,
 		"localId": "6a169e71-6733-40dc-90d9-bd916526a2aa",
 		"name": "Alternative respawn point",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6b12813e-c905-49aa-b058-86025be95ba6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod will add Spud Gun from Chapter 2!",
+		"fileId": 3698575099,
+		"localId": "6b12813e-c905-49aa-b058-86025be95ba6",
+		"name": "Spudgun with reload [CHAPTER 2]",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"17cb8b16-9ba9-4e07-a597-58d629a7a5b7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "my first ever mod, just using it for a custom build :D",
+		"fileId": 3698597472,
+		"localId": "17cb8b16-9ba9-4e07-a597-58d629a7a5b7",
+		"name": "HGs beginner mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"4ee1a5cb-efbe-4507-b892-95a087df1f8b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds a placeable RPM meter block with smooth live readout, signed RPM, peak tracking, warning colors, and logic-controlled visibility.",
+		"fileId": 3698917059,
+		"localId": "4ee1a5cb-efbe-4507-b892-95a087df1f8b",
+		"name": "HGs RPM Pro",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
