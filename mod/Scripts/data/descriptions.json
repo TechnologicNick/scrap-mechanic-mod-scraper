@@ -47335,5 +47335,15 @@
 		"name": "HGs RPM Pro",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"343e0296-1ef8-4e44-8742-47052c83d2a4": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Test 0.3",
+		"fileId": 3699463783,
+		"localId": "343e0296-1ef8-4e44-8742-47052c83d2a4",
+		"name": "Budget Pro",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
