@@ -1684,5 +1684,11 @@
 			"c8bfb8f3-7efc-49ac-875a-eb85ac0614db",
 			"9f4fde94-312f-4417-b13b-84029c5d6b52"
 		]
+	},
+	"6fa71a6f-86d4-48d9-9a16-58804453b11c": {
+		"$CONTENT_6fa71a6f-86d4-48d9-9a16-58804453b11c/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"7cd9ed82-6580-4b72-9271-64b7e92242d5": {
+		"$CONTENT_7cd9ed82-6580-4b72-9271-64b7e92242d5/Characters/Database/CharacterSets/example.characterset": []
 	}
 }

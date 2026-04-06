@@ -7322,5 +7322,12 @@
 			"9f7f8fd9-aef9-4f93-96df-8d29efbf3150",
 			"058a03f3-75c6-42b5-bd5d-407082a515d5"
 		]
-	}
+	},
+	"6fa71a6f-86d4-48d9-9a16-58804453b11c": {
+		"$CONTENT_6fa71a6f-86d4-48d9-9a16-58804453b11c/Tools/Database/ToolSets/example.toolset": []
+	},
+	"7cd9ed82-6580-4b72-9271-64b7e92242d5": {
+		"$CONTENT_7cd9ed82-6580-4b72-9271-64b7e92242d5/Tools/Database/ToolSets/example.toolset": []
+	},
+	"a85a9360-c031-44da-8754-74873d88c52f": {}
 }

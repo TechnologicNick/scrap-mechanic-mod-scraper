@@ -1338,5 +1338,11 @@
 			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
 			"009fe136-aeee-45c4-9135-006b786cfc59"
 		]
+	},
+	"6fa71a6f-86d4-48d9-9a16-58804453b11c": {
+		"$CONTENT_6fa71a6f-86d4-48d9-9a16-58804453b11c/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"7cd9ed82-6580-4b72-9271-64b7e92242d5": {
+		"$CONTENT_7cd9ed82-6580-4b72-9271-64b7e92242d5/ScriptableObjects/ScriptableObjectSets/example.sobset": []
 	}
 }
