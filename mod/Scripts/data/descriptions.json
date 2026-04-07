@@ -47368,7 +47368,7 @@
 	},
 	"a85a9360-c031-44da-8754-74873d88c52f": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"description": "Small mod for my Friend",
 		"fileId": 3700624548,
 		"localId": "a85a9360-c031-44da-8754-74873d88c52f",
