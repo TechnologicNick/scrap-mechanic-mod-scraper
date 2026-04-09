@@ -47344,7 +47344,7 @@
 	"343e0296-1ef8-4e44-8742-47052c83d2a4": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "A tool used for building creations in competeitions with a fixed budget and per-item-costs.\n\nTest 0.4",
+		"description": "A tool used for building creations in competeitions with a fixed budget and per-item-costs.\n\nTest 0.4.5",
 		"fileId": 3699463783,
 		"localId": "343e0296-1ef8-4e44-8742-47052c83d2a4",
 		"name": "Budget Pro",
@@ -47383,7 +47383,7 @@
 	},
 	"7b4eecc7-a707-4937-a9c9-3e2047e1ef76": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "Small mod for my Friend",
 		"fileId": 3700624548,
 		"localId": "7b4eecc7-a707-4937-a9c9-3e2047e1ef76",
