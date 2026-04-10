@@ -47284,7 +47284,7 @@
 	"892c2b6d-3cab-4c22-9318-5aff95957640": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "The mod is in beta\n-----------------------\nThe mod also uses scripts from TMGP\n-----------------------\nOur Discord channel where we hold fights:\nhttps://discord.com/invite/TSK2TUwABr",
+		"description": "Eng:\r\nThe mod is in beta\r\nIt is advisable to use a fixed mod for pvp\r\nIt is advisable not to weld mines to the ground\r\n-----------------------\r\nOur Discord channel where we hold fights:\r\nhttps://discord.com/invite/TSK2TUwABr\r\n\r\nРу:\r\nМод в бете\r\nЖелательно использовать закрепленный мод на pvp\r\nМины желательно не приваривать к земле\r\n-----------------------\r\nНаш дискорд сервер где проходят бои:\r\nhttps://discord.com/invite/TSK2TUwABr\r\n",
 		"fileId": 3697414712,
 		"localId": "892c2b6d-3cab-4c22-9318-5aff95957640",
 		"name": "Mines",
@@ -47418,6 +47418,16 @@
 		"fileId": 3703230008,
 		"localId": "2cae007f-16a6-4a62-9364-e85fd2165572",
 		"name": "Logic and Mechanical pack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"2ef2d606-15c4-48b8-9edb-376de95b3672": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3703721381,
+		"localId": "2ef2d606-15c4-48b8-9edb-376de95b3672",
+		"name": "koleje",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
