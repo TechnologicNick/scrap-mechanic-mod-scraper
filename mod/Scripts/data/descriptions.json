@@ -47430,5 +47430,25 @@
 		"name": "koleje",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"c73f7f43-bbaa-415b-80cd-b7ede03a5894": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Modular Propulsion answers a simple question: what if the upgrade system was different, more flexible, more … modular?\r\n\r\nWith Modular Propulsion, you can create your own engines, thrusters and propellers from a wide range of modules that can be connected in practically infinite configurations. This gives you control over how powerful or efficient your propulsion method is. You can make the engine more powerful or efficient, or both, at the cost of efficiency, power or space. They have the potential to outperform the vanilla counterparts in both categories at a lower component kit price, but this comes at the cost of space.\r\n\r\nAll methods of propulsion work like this:\r\nThe controller is the main part of the engine, jet or propeller. It connects to bearings, seats and logic. It is the place where you do the things you know well.\r\n\r\nModules augment the properties of the controller by either attaching directly to it or to other modules. For example, cylinders can be attached directly to the controller or to a crankshaft connected to the controller.\r\n\r\nModulators can affect the performance of the modules they are placed next to (up to six modules for some), making them more powerful or efficient. This allows for more compact or efficient engines. For example, superchargers increase the efficiency of all the cylinders they touch, but reduce the engine's maximum speed.\r\n\r\nPropellers are unique compared to other methods of propulsion. They need to be placed directly on the bearing they connect to, as well as connect to a modular engine. Propellers have a maximum speed and variable acceleration, which depends on the number of blades connected and the engine powering them. A larger propeller requires a larger engine to achieve good acceleration. Propellers can also change their spin direction to go upwards (from clockwise to counter-clockwise and vice versa). Counter-rotating propellers (where the bottom propeller spins clockwise and the top propeller spins counter-clockwise) are also possible. Please note that changing the propeller setting does not alter the bearing's spin direction. You still need to do that the old-fashioned way. In addition, propellers spinning faster than the maximum speed do NOT produce more thrust — the maximum speed exists for a reason!\r\nExample vehicles:\r\n\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702445936\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702446421\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702446635\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702446848\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702447120\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3703296089\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3703297167\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3704381254\r\n",
+		"fileId": 3704385833,
+		"localId": "c73f7f43-bbaa-415b-80cd-b7ede03a5894",
+		"name": "Modular Propulsion",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"04ff0181-2812-411f-b511-f3bfa7d14f5e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This is NOT a file mod, this mod changes the toggle switch and button to a better version, and I allow you to use scripts only if you indicate this mod in some way\n\n\n\n\n\n",
+		"fileId": 3704456676,
+		"localId": "04ff0181-2812-411f-b511-f3bfa7d14f5e",
+		"name": "animated Switches & buttons",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
