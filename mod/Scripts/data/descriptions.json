@@ -47343,8 +47343,8 @@
 	},
 	"343e0296-1ef8-4e44-8742-47052c83d2a4": {
 		"allow_add_mods": true,
-		"custom_icons": true,
-		"description": "A tool used for building creations in competeitions with a fixed budget and per-item-costs.\n\nTest 0.4.6",
+		"custom_icons": false,
+		"description": "A tool used for building creations in competeitions with a fixed budget, per-item-costs and other analytics.\n\nTest 0.4.7",
 		"fileId": 3699463783,
 		"localId": "343e0296-1ef8-4e44-8742-47052c83d2a4",
 		"name": "Budget Pro",
