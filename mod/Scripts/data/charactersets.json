@@ -1690,5 +1690,31 @@
 	},
 	"7cd9ed82-6580-4b72-9271-64b7e92242d5": {
 		"$CONTENT_7cd9ed82-6580-4b72-9271-64b7e92242d5/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"146ddef8-b0d8-45b6-9152-ce02df7cfd8a": {
+		"$CONTENT_146ddef8-b0d8-45b6-9152-ce02df7cfd8a/Characters/Database/CharacterSets/example.characterset": [
+			"0b73bf1b-7e31-476d-8343-777aaad2c690",
+			"2ce50bad-a2ae-42f3-a84a-4a7f5dddd958",
+			"ae41044b-5562-48cc-9f1f-019113100fe6"
+		],
+		"$CONTENT_146ddef8-b0d8-45b6-9152-ce02df7cfd8a/Characters/Database/CharacterSets/bosses.characterset": [
+			"c8db4f84-a03f-4a13-bd72-59a76277e199",
+			"25d41573-936d-4b10-9cc4-a31a8b88f83f"
+		],
+		"$CONTENT_146ddef8-b0d8-45b6-9152-ce02df7cfd8a/Characters/Database/CharacterSets/ferma.characterset": [
+			"3df1cf87-5c19-46e4-94b3-44ceb75b2a88",
+			"ba3f651b-6810-4300-b04f-847073d29c4a",
+			"c91e9f52-1152-4e7e-a7b3-d59369f25f0e"
+		],
+		"$CONTENT_146ddef8-b0d8-45b6-9152-ce02df7cfd8a/Characters/Database/CharacterSets/nejet.characterset": [
+			"29e7d81a-be79-4705-9dcc-6554c2095706",
+			"1d884869-d62a-4fe5-abc7-a2913c7c087d",
+			"48e9a7ad-beda-4073-a1b6-f4c28d9b1773",
+			"6d6105b6-b1a1-4253-b157-df5fa3a403e6",
+			"39b7aeab-987b-432a-bdf4-f444a6f85f38",
+			"bb3ef462-ae3d-4986-ac06-cd9f4a19ee3d",
+			"c2632fe4-8fd9-42f8-8f19-8642d332eb50",
+			"5937c1eb-9346-427d-8dd7-83f11542d427"
+		]
 	}
 }
