@@ -47414,7 +47414,7 @@
 	"2cae007f-16a6-4a62-9364-e85fd2165572": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod will add all the necessary components for various buildings!",
+		"description": "\\\\\\ РУССКИЙ \\\\\\\r\n1. блоки навигации для управлением башней:\r\n\r\n- импульсный по двум осям\r\n- на шарнирах\r\n- импульсный по одной оси\r\n\r\n\r\n2. все виды гироскопов: \r\n\r\n- зелёный | по одной оси\r\n- серый | по двум осям\r\n- синий | ограничитель-преобразователь в линейную скорость(если нужно сделать летающий объект который летит только вдоль одной оси)\r\n- желтый | модуль наведения туда куда направлена скорость тела на котором стоит этот гироскоп\r\n\r\n3. все виды модульной защиты:\r\n\r\nпараметры у каждой разные но все имеют здоровье\r\n\r\n4. все виды вооружения:\r\n\r\nПТУР,\r\nКР наведения\r\nстрогая ракета по прямой\r\nпулемёт\r\n\r\n5. вид подавления ракет:\r\n\r\nШтора-1\r\n\r\n\\\\\\ ENGLISH \\\\\\\r\n\r\n1. Navigation blocks for tower control:\r\n\r\n- two-axis impulse\r\n- on hinges\r\n- one-axis impulse\r\n\r\n\r\n2. All types of gyroscopes: \r\n\r\n- green | one-axis\r\n- gray | two-axis\r\n- blue | linear velocity converter (if you want to make a flying object that only flies along one axis)\r\n- yellow | guidance module that points in the direction of the body's velocity\r\n\r\n3. all types of modular protection:\r\n\r\n each has different parameters, but all have health\r\n\r\n4. all types of weapons:\r\n\r\n ATGM,\r\n KR guidance\r\nstrict straight-line missile\r\nmachine gun\r\n\r\n5. type of missile suppression:\r\n\r\n Shchit-1\r\n",
 		"fileId": 3703230008,
 		"localId": "2cae007f-16a6-4a62-9364-e85fd2165572",
 		"name": "Logic and Mechanical pack",
