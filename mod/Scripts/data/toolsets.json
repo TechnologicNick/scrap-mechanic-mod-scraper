@@ -7398,5 +7398,10 @@
 			"a6113860-f4d4-42df-b8f9-129efdbaf777"
 		]
 	},
-	"7b2f4f93-b97b-41f1-bec3-29b0cfd71da0": {}
+	"7b2f4f93-b97b-41f1-bec3-29b0cfd71da0": {},
+	"77158d28-b2a1-48f7-b8c4-5b176add6e0c": {
+		"$CONTENT_77158d28-b2a1-48f7-b8c4-5b176add6e0c/Tools/Database/ToolSets/MCZ.toolset": [
+			"ac06ecfc-71ce-4c91-ba85-e09300b3b6aa"
+		]
+	}
 }
