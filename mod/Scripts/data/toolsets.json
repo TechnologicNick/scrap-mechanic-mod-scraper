@@ -7086,9 +7086,11 @@
 			"56d04a33-338a-4d28-8ed5-3a7136dd3f11",
 			"fc96b224-9e1f-47df-8b54-7de76cc10071",
 			"d8239752-0c8d-47d7-968c-1df909554343",
+			"3d5e95f9-ded2-4360-bb97-21573661f7aa",
 			"b9d88905-81a4-40b7-ba75-2aafcdce72e1",
 			"474a5f8c-1635-43b5-8b49-1218c501d1fb",
-			"d1c2854f-bb5e-48d6-bd71-edaa2d4fa8fe"
+			"d1c2854f-bb5e-48d6-bd71-edaa2d4fa8fe",
+			"0fac3e71-d55e-4f7a-a5fb-b062e2c73c2d"
 		]
 	},
 	"9950bae3-a815-4b65-94f9-0455eb7bed9e": {},
@@ -7377,7 +7379,8 @@
 			"2da1d069-ef0e-4855-a597-56205a63808d"
 		],
 		"$CONTENT_146ddef8-b0d8-45b6-9152-ce02df7cfd8a/Tools/Database/ToolSets/WaveTool.toolset": [
-			"33b7414f-eaad-48b8-9586-11efa5d32505"
+			"33b7414f-eaad-48b8-9586-11efa5d32505",
+			"2bff990a-0e74-43c7-b7dc-889b3a086fa3"
 		],
 		"$CONTENT_146ddef8-b0d8-45b6-9152-ce02df7cfd8a/Tools/Database/ToolSets/spudguns.toolset": [
 			"70e56feb-f806-43c0-8dbb-cdb9f725b298"
@@ -7404,5 +7407,6 @@
 			"ac06ecfc-71ce-4c91-ba85-e09300b3b6aa"
 		]
 	},
-	"7b5399df-7b95-4ded-bc40-1bd120759b60": {}
+	"7b5399df-7b95-4ded-bc40-1bd120759b60": {},
+	"9661cd51-60bf-428a-834a-871029623dd7": {}
 }
