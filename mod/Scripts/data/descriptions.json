@@ -47504,7 +47504,7 @@
 	"7b2f4f93-b97b-41f1-bec3-29b0cfd71da0": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "lock your base",
+		"description": "Block your base from others just like in Rust. This mod will add the ability to privatize your buildings from other people's hands.",
 		"fileId": 3706890183,
 		"localId": "7b2f4f93-b97b-41f1-bec3-29b0cfd71da0",
 		"name": "Privater",
