@@ -7408,5 +7408,10 @@
 		]
 	},
 	"7b5399df-7b95-4ded-bc40-1bd120759b60": {},
-	"9661cd51-60bf-428a-834a-871029623dd7": {}
+	"9661cd51-60bf-428a-834a-871029623dd7": {},
+	"27ec3af4-48a7-4823-b6e0-5fe205f02668": {
+		"$CONTENT_27ec3af4-48a7-4823-b6e0-5fe205f02668/Tools/Database/ToolSets/tools.toolset": [
+			"5e6acd05-22bd-4d4c-9317-a39377f41516"
+		]
+	}
 }

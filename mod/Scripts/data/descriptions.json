@@ -47540,5 +47540,15 @@
 		"name": "armor mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"27ec3af4-48a7-4823-b6e0-5fe205f02668": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod is still WIP!\r\n\r\nThis mod is inspired by the WAILA mod for Minecraft.\r\n\r\n\r\nHow to install\r\n\r\nActivate it like any Blocks and Parts mod and enjoy!\r\n\r\n\r\nFeatures\r\n\r\nThis mod gives you some basic information about the parts you are looking at. It shows it's name, weight, durability, size, and it's UUID.\r\n\r\nYou can activate block shape information using the /waila_toggleblockinfo command. This will highlight the shape and show the size and weight of the highlighted area.\r\n\r\nYou can toggle the whole gui using /waila_toggle.\r\n",
+		"fileId": 3695967292,
+		"localId": "27ec3af4-48a7-4823-b6e0-5fe205f02668",
+		"name": "WAILA",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
