@@ -7413,5 +7413,11 @@
 		"$CONTENT_27ec3af4-48a7-4823-b6e0-5fe205f02668/Tools/Database/ToolSets/tools.toolset": [
 			"5e6acd05-22bd-4d4c-9317-a39377f41516"
 		]
+	},
+	"1a726884-10f3-494a-9719-80f8f75e8bd1": {
+		"$CONTENT_1a726884-10f3-494a-9719-80f8f75e8bd1/Tools/Database/ToolSets/example.toolset": [
+			"8b5af22e-c632-485e-8b97-550cbe656df0",
+			"f197488a-4aa9-42c8-b7a0-2fdaf4841860"
+		]
 	}
 }

@@ -44050,7 +44050,7 @@
 	"e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[RU]-------------------------------------------------------------------------------------------------|\r\nЕсли у вас есть какие-либо вопросы по поводу мода, не стесняйтесь оставлять их в комментариях, я (#d4af37T) отвечу на них, как только смогу. Оставляйте любые предложения в комментариях, я могу добавить большую часть того, что вам, вероятно, придет в голову.\r\n\r\nПожалуйста, сообщайте обо всех ошибках или недочетах в комментариях, с вероятностью 93% я отвечу и исправлю их.\r\n\r\nВы можете использовать любые скрипты из этого мода для копирования в свой мод, если вы каким-либо значительным образом измените их функциональность.\r\n\r\nИгровое имя монстра с процедурными ногами - Big parasite.\r\n\r\n#d4af37T - Создание мода\r\nᴢɛηχɛʀ - модель Т блоков\r\nDr. Evil - перевод и обложка",
+		"description": "[En]-------------------------------------------------------------------------------------------------|\nIf you have any questions about the mod, feel free to leave them in the comments, I(#d4af37T) will answer them as soon as possible. Leave any suggestions in the comments, I can add most of what you can probably think of.\n\nPlease report any issues with the mod in the comments, I will answer and fix them.\n\nYou can copy any scripts from this mod, if you change them in any meaningfull way.\n\nIn game name of the monster with procedural legs is Big parasite.\n\n#d4af37T - Mod\nᴢɛηχɛʀ - model of the T blocks\nDr. Evil - translation and front page\n\n[RU]-------------------------------------------------------------------------------------------------|\nЕсли у вас есть какие-либо вопросы по поводу мода, не стесняйтесь оставлять их в комментариях, я (#d4af37T) отвечу на них, как только смогу. Оставляйте любые предложения в комментариях, я могу добавить большую часть того, что вам, вероятно, придет в голову.\n\nПожалуйста, сообщайте обо всех ошибках или недочетах в комментариях, с вероятностью 93% я отвечу и исправлю их.\n\nВы можете использовать любые скрипты из этого мода для копирования в свой мод, если вы каким-либо значительным образом измените их функциональность.\n\nИгровое имя монстра с процедурными ногами - Big parasite.\n\n#d4af37T - Создание мода\nᴢɛηχɛʀ - модель Т блоков\nDr. Evil - перевод и обложка\n",
 		"fileId": 3438987478,
 		"localId": "e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5",
 		"name": "T mod",
@@ -45826,7 +45826,7 @@
 	"391f4a1e-e9d5-4e39-8032-47188add7a8f": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod add the new Fire System Mod!\n\n- Flamethrower part.\n\n- Flamethrower tool.\n\n- Secret system!\n\n- Ozone bomb.",
+		"description": "This mod add the new Fire System Mod!\r\n\r\n- Flamethrower tool.\r\n\r\n- Secret fire system!\r\n\r\n- Ozone bomb.\r\n\r\n- Incendiary grenade.\r\n\r\n- Mountain Flamethrower.",
 		"fileId": 3623288447,
 		"localId": "391f4a1e-e9d5-4e39-8032-47188add7a8f",
 		"name": "Fire System Pack 1",
@@ -47404,7 +47404,7 @@
 	"115c1e15-ee2f-47aa-9710-953f289fa485": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h2] 已正式命名为通用配件包 [/h2]\r\n[h1]通用配件包 Universal Accessory Pack[/h1]\r\n[b]百余件装饰与功能零件[/b]首批内容聚焦卡车主题，覆盖丰田、东风、曼恩、斯堪尼亚、沃尔沃、达夫、奔驰、雷诺八大品牌。车标、方向盘、完整的轮胎轮毂家族、第五轮鞍座系统、驾驶座——一次装配到位，从车头一直到车桥。后续版本将持续扩展更多载具与场景类别，目标是做成一个覆盖全类型配件的综合包。支持中英文自动切换。\r\n[hr][/hr][h2]主要内容[/h2][b]品牌车标 × 11[/b]六大品牌的镀铬徽章，包括曼恩狮子、斯堪尼亚狮鹫、沃尔沃安全带斜饰、雷诺新旧菱形等变体。粘贴在任意表面，按 [b]E[/b] 打开 GUI 滑块，10 档平滑调节大小。\r\n[b]装饰方向盘 × 15[/b]八大品牌的经典与新款方向盘，涵盖曼恩 TGX、斯堪尼亚 R、奔驰 Actros（MP3 / MP4）、沃尔沃 FH、达夫 XD / XG、雷诺 T / E-Tech、丰田普拉多、东风天龙，外加一只极简三辐老车方向盘。真皮握把带 PBR 质感，同时作为按钮接入逻辑系统。[b]卡车轮胎 × 18[/b]从 2×5 城市配送胎到 8×23 矿卡巨胎，尺寸跨度横跨三个数量级。厚壁胎吞下坑洼，薄壁胎咬住高速，光头胎宣告态度，越野胎啃碎砾石，矿卡胎直接把自己当建筑——总有一款配得上你的底盘。[list][*]公路系列 — 2×5 到 3×9，含厚壁、薄壁、光头变体，米其林品牌贴图（5 套可替换）[*]越野系列 — 三种花纹 × 2×7 到 4×9 尺寸，深齿胎块为烂路而生[*]矿卡系列 — 7×19 / 8×21 / 8×23 三档巨胎，单条胎比一辆小轿车还重[/list]\r\n[b]卡车轮毂 × 46[/b]九种造型（I 至 IX 型）加矿卡 OTR 专属型，每种都有完整尺寸与前后版本：[list][*]前轮毂 — 七种样式，2×5 到 3×9 全尺寸覆盖[*]后轮毂 — 九种样式，专为双胎车桥内侧设计，看不见的地方也不将就[*]矿卡轮毂 — 7×19 / 8×21 / 8×23 三档，前后桥各一套，露天矿坑专用[*]丰田专属轮毂 — 2×5 / 2×6 / 2×7 三档\r\n[/list][b]鞍座与牵引销 × 13[/b] [i](实验性)[/i]半挂牵引车的核心。两种外观、三种尺寸（标准 / 大 / 超大）、奇偶底盘全覆盖——12 个鞍座搭配 1 个牵引销。接收逻辑信号即可自动挂脱挂车；内置速度锁定机制，避免你在高速巡航时意外解挂，上演一场没人想看的漂移秀。\r\n按 [b]E[/b] 打开设置面板，可选简单 / 拟真两种挂接难度。[b]驾驶座与副驾驶座 × 2\r\n[/b]功能性座椅，插上即可接管车辆。第一人称视角对齐眼睛高度，人物手臂模拟 45 度大卡车方向盘握姿。兼容传奇 Mod 的 WASD 和左右键检测。\r\n[b]油箱与后处理单元 × 3[/b]主油箱、副油箱、以及那个集成了 DPF、SCR 和催化转化器的排气后处理单元——纯装饰件，但欧六工程师看了都会点头。\r\n[b]危险品警示标志 × 7[/b]符合联合国危险品分类规范：5 款圆形反光警示标志（易燃、剧毒、高温、腐蚀、爆炸），2 款菱形危险品标志牌（易燃液体 Class 3、爆炸品 Class 1）。\r\n[b]实用工具 × 2[/b][list][*][b]世界清理器[/b] — 一键从玩家脚下由近到远渐进清除全图树木与岩石，带进度显示和背景音乐。仅房主可用，不必担心有人在多人房里把你的森林悄悄铲平\r\n[*][b]推进器[/b] — 0 到 10,000,000 牛顿可直接输入的纯推力引擎，启动有缓动、关闭有余推，体感接近原版[/list][h2]亮点功能[/h2]\r\n[list]\r\n[*][b]中英文自动切换[/b] — 所有物品名、描述、GUI 文本均支持双语[*][b]GUI 交互控制[/b] \r\n— 车标、鞍座、推进器均有图形化设置面板[*][b]逻辑信号接入[/b] \r\n— 方向盘输出信号，鞍座接收信号自动挂脱\r\n[/list]\r\n[h2]使用提示[/h2][list][*]车标、危险品标志：按 [b]E[/b] 调节大小[*]鞍座、推进器：按 [b]E[/b] 打开设置面板[*]挂车挂接：让鞍座接收逻辑信号即可触发[*]方向盘：按 [b]E[/b] 交互输出信号[/list][hr][/hr]感谢 [b]新海[/b] 贡献了全部卡车轮毂与危险品警示标志模型，感谢 [b]小熊软糖[/b] 贡献了本模组其余几乎所有零件的模型，感谢 [b]喵子[/b] 承担了全部代码开发、模组整合与技术支持工作。如果你在使用中发现问题或有新的想法，欢迎在评论区留言。",
+		"description": "[h2] 已正式命名为通用配件包 [/h2]\r\n[h1]通用配件包 Universal Accessory Pack[/h1]\r\n[b]百余件装饰与功能零件[/b]首批内容聚焦卡车主题，覆盖丰田、东风、曼恩、斯堪尼亚、沃尔沃、达夫、奔驰、雷诺八大品牌。车标、方向盘、完整的轮胎轮毂家族、第五轮鞍座系统、驾驶座——一次装配到位，从车头一直到车桥。后续版本将持续扩展更多载具与场景类别，目标是做成一个覆盖全类型配件的综合包。支持中英文自动切换。\r\n[hr][/hr][h2]主要内容[/h2][b]品牌车标 × 11[/b]六大品牌的镀铬徽章，包括曼恩狮子、斯堪尼亚狮鹫、沃尔沃安全带斜饰、雷诺新旧菱形等变体。粘贴在任意表面，按 [b]E[/b] 打开 GUI 滑块，10 档平滑调节大小。\r\n[b]装饰方向盘 × 15[/b]八大品牌的经典与新款方向盘，涵盖曼恩 TGX、斯堪尼亚 R、奔驰 Actros（MP3 / MP4）、沃尔沃 FH、达夫 XD / XG、雷诺 T / E-Tech、丰田普拉多、东风天龙，外加一只极简三辐老车方向盘。真皮握把带 PBR 质感，同时作为按钮接入逻辑系统。[b]卡车轮胎 × 18[/b]从 2×5 城市配送胎到 8×23 矿卡巨胎，尺寸跨度横跨三个数量级。厚壁胎吞下坑洼，薄壁胎咬住高速，光头胎宣告态度，越野胎啃碎砾石，矿卡胎直接把自己当建筑——总有一款配得上你的底盘。[list][*]公路系列 — 2×5 到 3×9，含厚壁、薄壁、光头变体，米其林品牌贴图（5 套可替换）[*]越野系列 — 三种花纹 × 2×7 到 4×9 尺寸，深齿胎块为烂路而生[*]矿卡系列 — 7×19 / 8×21 / 8×23 三档巨胎，单条胎比一辆小轿车还重[/list]\r\n[b]卡车轮毂 × 46[/b]九种造型（I 至 IX 型）加矿卡 OTR 专属型，每种都有完整尺寸与前后版本：[list][*]前轮毂 — 七种样式，2×5 到 3×9 全尺寸覆盖[*]后轮毂 — 九种样式，专为双胎车桥内侧设计，看不见的地方也不将就[*]矿卡轮毂 — 7×19 / 8×21 / 8×23 三档，前后桥各一套，露天矿坑专用[*]丰田专属轮毂 — 2×5 / 2×6 / 2×7 三档\r\n[/list][b]鞍座与牵引销 × 13[/b] [i](实验性)[/i]半挂牵引车的核心。两种外观、三种尺寸（标准 / 大 / 超大）、奇偶底盘全覆盖——12 个鞍座搭配 1 个牵引销。接收逻辑信号即可自动挂脱挂车；内置速度锁定机制，避免你在高速巡航时意外解挂，上演一场没人想看的漂移秀。\r\n按 [b]E[/b] 打开设置面板，可选简单 / 拟真两种挂接难度。[b]驾驶座与副驾驶座 × 2\r\n[/b]功能性座椅，插上即可接管车辆。第一人称视角对齐眼睛高度，人物手臂模拟 45 度大卡车方向盘握姿。兼容传奇 Mod 的 WASD 和左右键检测。\r\n[b]油箱与后处理单元 × 3[/b]主油箱、副油箱、以及那个集成了 DPF、SCR 和催化转化器的排气后处理单元——纯装饰件，但欧六工程师看了都会点头。\r\n[b]危险品警示标志 × 7[/b]符合联合国危险品分类规范：5 款圆形反光警示标志（易燃、剧毒、高温、腐蚀、爆炸），2 款菱形危险品标志牌（易燃液体 Class 3、爆炸品 Class 1）。\r\n[b]实用工具 × 2[/b][list][*][b]世界清理器[/b] — 一键从玩家脚下由近到远渐进清除全图树木与岩石，带进度显示和背景音乐。仅房主可用，不必担心有人在多人房里把你的森林悄悄铲平\r\n[*][b]推进器[/b] — 0 到 10,000,000 牛顿可直接输入的纯推力引擎，启动有缓动、关闭有余推，体感接近原版[/list][h2]亮点功能[/h2]\r\n[list]\r\n[*][b]中英文自动切换[/b] — 所有物品名、描述、GUI 文本均支持双语[*][b]GUI 交互控制[/b] \r\n— 车标、鞍座、推进器均有图形化设置面板[*][b]逻辑信号接入[/b] \r\n— 方向盘输出信号，鞍座接收信号自动挂脱\r\n[/list]\r\n[h2]使用提示[/h2][list][*]车标、危险品标志：按 [b]E[/b] 调节大小[*]鞍座、推进器：按 [b]E[/b] 打开设置面板[*]挂车挂接：让鞍座接收逻辑信号即可触发[*]方向盘：按 [b]E[/b] 交互输出信号[/list][hr][/hr]感谢 [b]新海[/b] 贡献了全部卡车轮毂与危险品警示标志模型，感谢 [b]小熊软糖[/b] 贡献了本模组其余几乎所有零件的模型，感谢 [b]喵子[/b] 承担了全部代码开发、模组整合与技术支持工作。如果你在使用中发现问题或有新的想法，欢迎在评论区留言。\r\n\r\n本模组使用的部分零部件与贴图素材可能来源于网络或游戏，相关模型及贴图的版权均归原作者所有。如涉及侵权，请联系我们进行删除。\r\n\r\nSome parts and textures in this mod may come from online sources or other games. The copyrights of all models and textures belong to their original creators. If any infringement is involved, please contact us for removal.",
 		"fileId": 3703128344,
 		"localId": "115c1e15-ee2f-47aa-9710-953f289fa485",
 		"name": "Universal Accessory Pack",
@@ -47544,10 +47544,20 @@
 	"27ec3af4-48a7-4823-b6e0-5fe205f02668": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod is still WIP!\r\n\r\nThis mod is inspired by the WAILA mod for Minecraft.\r\n\r\n\r\nHow to install\r\n\r\nActivate it like any Blocks and Parts mod and enjoy!\r\n\r\n\r\nFeatures\r\n\r\nThis mod gives you some basic information about the parts you are looking at. It shows it's name, weight, durability, size, and it's UUID.\r\n\r\nYou can activate block shape information using the /waila_toggleblockinfo command. This will highlight the shape and show the size and weight of the highlighted area.\r\n\r\nYou can toggle the whole gui using /waila_toggle.\r\n",
+		"description": "This mod is still WIP!\r\n\r\nThis mod is inspired by the WAILA mod for Minecraft.\r\n\r\n\r\nHow to install\r\n\r\nActivate it like any Blocks and Parts mod and enjoy!\r\n\r\n\r\nFeatures\r\n\r\nThis mod gives you some basic information about the parts you are looking at. It shows it's name, mass, durability, size, and it's UUID.\r\n\r\nYou can activate block shape information using the /waila_toggleblockinfo command. This will highlight the shape and show the size and mass of the highlighted area.\r\n\r\nYou can toggle the whole gui using /waila_toggle.\r\n",
 		"fileId": 3695967292,
 		"localId": "27ec3af4-48a7-4823-b6e0-5fe205f02668",
 		"name": "WAILA",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1a726884-10f3-494a-9719-80f8f75e8bd1": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3710833790,
+		"localId": "1a726884-10f3-494a-9719-80f8f75e8bd1",
+		"name": "Engineer’s wrench from TF",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
