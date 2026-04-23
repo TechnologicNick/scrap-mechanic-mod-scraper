@@ -42756,7 +42756,7 @@
 	"93b8dc0c-f4cb-49ee-a6d2-70b7e5d3bffa": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "SoW V.F. Elements Mod\r\nVanilla Friendly Mod означает что мод использует ванильные модели и текстуры из игры.\r\n\r\nЗа помощь спасибо Грому:\r\nhttps://steamcommunity.com/profiles/76561199086371589",
+		"description": "",
 		"fileId": 3445698753,
 		"localId": "93b8dc0c-f4cb-49ee-a6d2-70b7e5d3bffa",
 		"name": "SoW V.F. Elements Mod",
@@ -42816,10 +42816,10 @@
 	"a7736eb7-743c-40ff-8c6d-b9c2c7eb4246": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Мод на видимые элементы, не включать вместе с модом на невидимые элементы!",
+		"description": "Mod made for Dust und Steel project, includes elements from:\nThe Modpack Visible/Invisible Addon https://steamcommunity.com/sharedfiles/filedetails/?id=3390413870 https://steamcommunity.com/sharedfiles/filedetails/?id=3390855960\nWings https://steamcommunity.com/sharedfiles/filedetails/?id=1390938191",
 		"fileId": 3448318039,
 		"localId": "a7736eb7-743c-40ff-8c6d-b9c2c7eb4246",
-		"name": "SoW Visible Mod",
+		"name": "DuS Visible Elements Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
@@ -47404,7 +47404,7 @@
 	"115c1e15-ee2f-47aa-9710-953f289fa485": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h1]通用配件包 Universal Accessory Pack[/h1]\r\n\r\n一个持续扩展中的综合配件包，覆盖公路、工地、民航、矿山等多种场景。不止于外观装饰——本模组的众多零件内置独立的交互脚本，真正做到车身装饰与功能配件的一站式补全。\r\n\r\n支持国际化，当前提供中文与英文两种语言，跟随系统语言自动切换。\r\n\r\n[hr][/hr]\r\n\r\n[h2]内容概览[/h2]\r\n\r\n[h3]交互与功能件[/h3]\r\n\r\n[b]鞍座与牵引销[/b] [i](实验性)[/i]\r\n两种外观、三种尺寸、奇偶底盘兼容。接收逻辑信号即可自动挂脱挂车，内置速度锁定避免你在高速巡航时上演一场没人想看的漂移秀。支持简单与拟真两种挂接模式。\r\n\r\n[b]方向盘与档把[/b]\r\n覆盖欧系旗舰与国产顶配主流车型方向盘，外加转向灯拨杆与多款档把。方向盘同时作为按钮接入逻辑系统。\r\n\r\n[b]驾驶座[/b]\r\n卡车驾驶座与副驾驶座、民航驾驶座与折叠椅。第一人称视角对齐眼睛高度，人物手臂模拟 45 度大卡车方向盘握姿。\r\n\r\n[b]民航操纵配件[/b]\r\n包含侧杆、油门台与地面转向手轮，同侧成对布置。配合民航座椅可搭建半真实的驾驶舱。\r\n\r\n[b]汽车牌照[/b]\r\n覆盖黄、蓝、绿、绿黄、双层大黄牌五种中国民用车牌形态，所有槽位均可自由编辑。\r\n\r\n[b]实用工具[/b]\r\n[list]\r\n[*][b]世界清理器[/b]——一键从脚下由近到远渐进清除全图树木与岩石，带进度显示。仅房主可用，不必担心有人在多人房里把你的森林悄悄铲平。\r\n[*][b]推进器[/b]——纯推力引擎，推力可自由输入，启停带缓动，体感接近原版。\r\n[/list]\r\n\r\n[h3]装饰与氛围件[/h3]\r\n\r\n[b]品牌车标与车系字体[/b]\r\n覆盖多个欧系、国产与日系卡车品牌，含发光铭牌与排放标准铭牌系列。\r\n\r\n[b]集团工业 Logo[/b]\r\n含企业标志、影视海报、行人保护装置与装饰件。支持三轴位置、三轴旋转与等比缩放，360 度随意摆放。\r\n\r\n[b]危险品警示标志[/b]\r\n符合联合国危险品分类规范，圆形反光标志与菱形危险品牌两种形态齐备，化工罐车与油罐车配饰全覆盖。\r\n\r\n[b]装饰射灯[/b]\r\n装饰用射灯系列，接收逻辑输入控制开关。\r\n\r\n[b]车内摆件与车载装饰[/b]\r\n油箱、后处理单元、尿素箱，以及多款情景性摆件与车载装饰件。\r\n\r\n[h3]载具结构件[/h3]\r\n\r\n[b]轮胎与轮毂[/b]\r\n公路、越野、矿卡与原版复刻四大体系，尺寸跨度从最小的原版胎到大型矿卡巨胎。轮毂前后桥分别建模，看不见的地方也不将就；另有中央充放气、铲车、矿卡 OTR 与品牌专属等变体。\r\n\r\n[b]螺旋桨与涡轮风扇[/b]\r\n多款叶片数量与造型的螺旋桨，顺、逆时针涡扇与硅油风扇。直径无级调节——小至散热片，大至工业级换气扇。\r\n\r\n[hr][/hr]\r\n\r\n[h2]亮点功能[/h2]\r\n[list]\r\n[*][b]丰富的可交互零件[/b]——鞍座接收逻辑信号自动挂脱、车牌全槽位自由编辑、推进器推力自定义、世界清理器一键清扫全图树石\r\n[*][b]便捷直观的 GUI[/b]——多数可调零件均有图形化设置面板，按互动键即可唤起\r\n[*][b]多人友好[/b]——世界清理器仅房主可用，鞍座内置安全速度锁定，避免多人协作时的意外\r\n[*][b]细节做工[/b]——轮毂前后桥独立建模，部分零件采用 PBR 真实材质\r\n[/list]\r\n\r\n[h2]版权声明[/h2]\r\n[quote]本模组使用的部分零部件与贴图素材可能来源于网络或游戏，相关模型及贴图的版权均归原作者所有。如涉及侵权，请通过 [url=https://steamcommunity.com/profiles/76561198406241934/][b]新海[/b][/url] 的 Steam 主页或本页评论区联系我们进行删除。[/quote]\r\n\r\n[h2]致谢[/h2]\r\n[list]\r\n[*][url=https://steamcommunity.com/profiles/76561198406241934/][b]新海[/b][/url]——贡献了全部卡车轮毂、螺旋桨、危险品警示标志与小部分车标的模型\r\n[*][url=https://steamcommunity.com/id/AA79M1U/][b]小熊软糖[/b][/url]——提供了本模组绝大多数零件的模型与贴图\r\n[*][url=https://steamcommunity.com/profiles/76561198352738527/][b]博龙[/b][/url]——制作了民航类零件与小部分车标的模型与贴图\r\n[*][url=https://steamcommunity.com/id/huahua165/][b]华华[/b][/url]——完成了大部分文字模型\r\n[*][url=https://steamcommunity.com/profiles/76561199104328373][b]喵子[/b][/url]——承担了除上述之外的全部工作，包含代码开发、模组整合与技术支持\r\n[/list]\r\n\r\n欢迎在评论区反馈问题与建议。\r\n",
+		"description": "[h1]重型车辆部件包 HEAVY-DUTY VEHICLE PARTS[/h1]\r\n\r\n一个持续扩展中的综合配件包，覆盖公路、工地、民航、矿山等多种场景。不止于外观装饰——本模组的众多零件内置独立的交互脚本，真正做到车身装饰与功能配件的一站式补全。\r\n\r\n支持国际化，当前提供中文与英文两种语言，跟随系统语言自动切换。\r\n\r\n[hr][/hr]\r\n\r\n[h2]内容概览[/h2]\r\n\r\n[h3]交互与功能件[/h3]\r\n\r\n[b]鞍座与牵引销[/b] [i](实验性)[/i]\r\n两种外观、三种尺寸、奇偶底盘兼容。接收逻辑信号即可自动挂脱挂车，内置速度锁定避免你在高速巡航时上演一场没人想看的漂移秀。支持简单与拟真两种挂接模式。\r\n\r\n[b]方向盘与档把[/b]\r\n覆盖欧系旗舰与国产顶配主流车型方向盘，外加转向灯拨杆与多款档把。方向盘同时作为按钮接入逻辑系统。\r\n\r\n[b]驾驶座[/b]\r\n卡车驾驶座与副驾驶座、民航驾驶座与折叠椅。第一人称视角对齐眼睛高度，人物手臂模拟 45 度大卡车方向盘握姿。\r\n\r\n[b]民航操纵配件[/b]\r\n包含侧杆、油门台与地面转向手轮，同侧成对布置。配合民航座椅可搭建半真实的驾驶舱。\r\n\r\n[b]汽车牌照[/b]\r\n覆盖黄、蓝、绿、绿黄、双层大黄牌五种中国民用车牌形态，所有槽位均可自由编辑。\r\n\r\n[b]实用工具[/b]\r\n[list]\r\n[*][b]世界清理器[/b]——一键从脚下由近到远渐进清除全图树木与岩石，带进度显示。仅房主可用，不必担心有人在多人房里把你的森林悄悄铲平。\r\n[*][b]推进器[/b]——纯推力引擎，推力可自由输入，启停带缓动，体感接近原版。\r\n[/list]\r\n\r\n[h3]装饰与氛围件[/h3]\r\n\r\n[b]品牌车标与车系字体[/b]\r\n覆盖多个欧系、国产与日系卡车品牌，含发光铭牌与排放标准铭牌系列。\r\n\r\n[b]集团工业 Logo[/b]\r\n含企业标志、影视海报、行人保护装置与装饰件。支持三轴位置、三轴旋转与等比缩放，360 度随意摆放。\r\n\r\n[b]危险品警示标志[/b]\r\n符合联合国危险品分类规范，圆形反光标志与菱形危险品牌两种形态齐备，化工罐车与油罐车配饰全覆盖。\r\n\r\n[b]装饰射灯[/b]\r\n装饰用射灯系列，接收逻辑输入控制开关。\r\n\r\n[b]车内摆件与车载装饰[/b]\r\n油箱、后处理单元、尿素箱，以及多款情景性摆件与车载装饰件。\r\n\r\n[h3]载具结构件[/h3]\r\n\r\n[b]轮胎与轮毂[/b]\r\n公路、越野、矿卡与原版复刻四大体系，尺寸跨度从最小的原版胎到大型矿卡巨胎。轮毂前后桥分别建模，看不见的地方也不将就；另有中央充放气、铲车、矿卡 OTR 与品牌专属等变体。\r\n\r\n[b]螺旋桨与涡轮风扇[/b]\r\n多款叶片数量与造型的螺旋桨，顺、逆时针涡扇与硅油风扇。直径无级调节——小至散热片，大至工业级换气扇。\r\n\r\n[hr][/hr]\r\n\r\n[h2]亮点功能[/h2]\r\n[list]\r\n[*][b]丰富的可交互零件[/b]——鞍座接收逻辑信号自动挂脱、车牌全槽位自由编辑、推进器推力自定义、世界清理器一键清扫全图树石\r\n[*][b]便捷直观的 GUI[/b]——多数可调零件均有图形化设置面板，按互动键即可唤起\r\n[*][b]多人友好[/b]——世界清理器仅房主可用，鞍座内置安全速度锁定，避免多人协作时的意外\r\n[*][b]细节做工[/b]——轮毂前后桥独立建模，部分零件采用 PBR 真实材质\r\n[/list]\r\n\r\n[h2]版权声明[/h2]\r\n[quote]本模组使用的部分零部件与贴图素材可能来源于网络或游戏，相关模型及贴图的版权均归原作者所有。如涉及侵权，请通过 [url=https://steamcommunity.com/profiles/76561198406241934/][b]新海[/b][/url] 的 Steam 主页或本页评论区联系我们进行删除。[/quote]\r\n\r\n[h2]致谢[/h2]\r\n[list]\r\n[*][url=https://steamcommunity.com/profiles/76561198406241934/][b]新海[/b][/url]——贡献了全部卡车轮毂、螺旋桨、危险品警示标志与小部分车标的模型\r\n[*][url=https://steamcommunity.com/id/AA79M1U/][b]小熊软糖[/b][/url]——提供了本模组绝大多数零件的模型与贴图\r\n[*][url=https://steamcommunity.com/profiles/76561198352738527/][b]博龙[/b][/url]——制作了民航类零件与小部分车标的模型与贴图\r\n[*][url=https://steamcommunity.com/id/huahua165/][b]华华[/b][/url]——完成了大部分文字模型\r\n[*][url=https://steamcommunity.com/profiles/76561199104328373][b]喵子[/b][/url]——承担了除上述之外的全部工作，包含代码开发、模组整合与技术支持\r\n[/list]\r\n\r\n欢迎在评论区反馈问题与建议。\r\n",
 		"fileId": 3703128344,
 		"localId": "115c1e15-ee2f-47aa-9710-953f289fa485",
 		"name": "Universal Accessory Pack",
@@ -47568,6 +47568,16 @@
 		"fileId": 3711477707,
 		"localId": "d689393b-9fae-417e-83fc-8ae5cba2861b",
 		"name": "furniture_mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"af07d933-60e3-4898-a21f-dd85e388ff8c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Mod made for Dust und Steel project, includes elements from:\\nThe Modpack Visible/Invisible Addon https://steamcommunity.com/sharedfiles/filedetails/?id=3390413870 https://steamcommunity.com/sharedfiles/filedetails/?id=3390855960\\nWings https://steamcommunity.com/sharedfiles/filedetails/?id=1390938191",
+		"fileId": 3712561183,
+		"localId": "af07d933-60e3-4898-a21f-dd85e388ff8c",
+		"name": "DuS Invisible Elements Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
