@@ -47580,5 +47580,35 @@
 		"name": "DuS Invisible Elements Mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"c2c45d4d-7652-4ba3-a900-907619eaa649": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Want to sit like a king? Sit on a gaming chair! Ahem, ahem, ahem... Okay, marketing isn't my thing. Anyway, download this mod, please.",
+		"fileId": 3712862181,
+		"localId": "c2c45d4d-7652-4ba3-a900-907619eaa649",
+		"name": "Gamer Seat",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a70e19dd-e56a-4d57-9c4e-a479ddc37031": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds some furniture you might be missing. Updates will be released in the future! Share your ideas for new furniture in the comments!",
+		"fileId": 3712878678,
+		"localId": "a70e19dd-e56a-4d57-9c4e-a479ddc37031",
+		"name": "TapeBotHead's Furniture",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"52ba125a-6908-4c62-8c60-885a09ad7140": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Simply decorative tools to decorate your buildings\n",
+		"fileId": 3712898799,
+		"localId": "52ba125a-6908-4c62-8c60-885a09ad7140",
+		"name": "Decorative tools",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
