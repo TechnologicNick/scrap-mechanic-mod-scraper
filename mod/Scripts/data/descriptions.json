@@ -47610,5 +47610,25 @@
 		"name": "Decorative tools",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"a11c3f10-3050-45af-b506-3ff816759bee": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "You can ban someone by hitting them on the head with Ban-paw",
+		"fileId": 3713272174,
+		"localId": "a11c3f10-3050-45af-b506-3ff816759bee",
+		"name": "Paw Ban Hammer",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"08d99419-1a9d-483f-9d85-21cf1f69d3f2": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "The More Melee mod adds a few reskins to the standard sledgehammer.",
+		"fileId": 3713367149,
+		"localId": "08d99419-1a9d-483f-9d85-21cf1f69d3f2",
+		"name": "More Melee",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
