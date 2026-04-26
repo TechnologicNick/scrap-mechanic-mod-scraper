@@ -4051,7 +4051,11 @@
 			"ab362045-0444-4749-9f24-f5e850162857",
 			"63fb92b3-e1dc-4b5c-9ed3-7b572bc01ca4",
 			"67111401-1ee1-4bfb-8780-fa878352f90d"
+		],
+		"$CONTENT_146ddef8-b0d8-45b6-9152-ce02df7cfd8a/Harvestables/Database/HarvestableSets/loot.harvestableset": [
+			"7285587c-e4e9-42c0-b872-5283c9605f3f"
 		]
 	},
-	"22f68485-50c7-43f2-91e9-6d5d8dbe5ec1": {}
+	"22f68485-50c7-43f2-91e9-6d5d8dbe5ec1": {},
+	"963833cb-af00-42ce-9159-530aef1c6d3b": {}
 }

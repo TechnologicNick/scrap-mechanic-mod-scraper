@@ -46708,7 +46708,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "[h1]A Mod for Myself — and for You![/h1]\n\nIf you have any cool ideas for what to add next, drop them in the comments or (even better!) in the discussions.\n\n[h2]Currently Included Features:[/h2]\n\n[list]\n[*][b]Lead‑Computing Homing Magnet + Seeker Head[/b] – Self‑guided magnetic lock with intercept path prediction.\n[*][b]Flares (Countermeasures)[/b] – Throw off incoming heat‑seeking threats.\n[*][b]Missile Trail[/b] – Visible exhaust plumes for all rockets.\n[*][b]Adjustable Sensitivity Bomb[/b] – Fine‑tune the trigger threshold for precision detonations.\n[*][b]Inertia Blocks[/b] – Make your creations behave more realistically with custom inertia.\n[*][b]Customizable Wing[/b] – Tweak lift and control surface properties exactly how you want.\n[*][b]Two Standalone Missiles[/b] – Dedicated projectiles for engaging aircraft and other distant targets.\n[*][b]Helmet-Mounted Sight (HMS) for Rockets[/b] – Slave your missile seeker to your view direction for intuitive targeting.\n[*][b]Infinite Floor[/b] – Walk or drive calmly beyond the map boundaries without falling.\n[*][b]Mouse Delta Control[/b] – Fine‑tune your vehicle steering using precise mouse movements.\n[*][b]Single‑Tick Button[/b] – Activates once and vanishes immediately; perfect for \"fire‑and‑forget\" logic.\n[*][b]Build Camera[/b] – View your entire construction at a glance. Incredibly useful for large aircraft and ships.\n[/list]\n\nEnjoy!",
+		"description": "[h1]Мод для себя — и для вас![/h1]\r\n\r\nЕсли у вас есть идеи, что ещё прикольного можно добавить, пишите в комментариях, а лучше — в обсуждениях!\r\n\r\n[h2]Что уже есть в моде:[/h2]\r\n\r\n[list]\r\n[*][b]Самонаводящийся магнит с упреждением + ГСН[/b] – магнитный захват с расчётом точки встречи и головкой самонаведения.\r\n[*][b]ЛТЦ (ложные тепловые цели)[/b] – сбрасывайте ловушки, чтобы сбить с толку ракеты с тепловым наведением.\r\n[*][b]След от ракеты[/b] – видимый инверсионный или дымный след для всех ракет.\r\n[*][b]Бомба с настройкой чувствительности[/b] – точная регулировка порога срабатывания для управляемого подрыва.\r\n[*][b]Блоки инерции[/b] – позволяют сделать постройки более массивными и реалистичными по поведению.\r\n[*][b]Настраиваемое крыло[/b] – изменяйте подъёмную силу и характеристики управляющих поверхностей.\r\n[*][b]Две самостоятельные ракеты[/b] – специализированные боеприпасы для поражения самолётов и других целей.\r\n[*][b]НСЦ (Нашлемная система целеуказания) для ракеты[/b] – головка самонаведения ракеты следует за направлением вашего взгляда.\r\n[*][b]Бесконечный пол[/b] – спокойно гуляйте или ездите далеко за границами карты, не проваливаясь.\r\n[*][b]Дельта мыши для управления[/b] – точное управление вашими постройками с помощью перемещений мыши.\r\n[*][b]Однотиковая кнопка[/b] – активируется один раз и тут же исчезает. Идеально для действий «включил и забыл».\r\n[*][b]Камера постройки[/b] – позволяет увидеть всю конструкцию целиком. Крайне полезно для больших самолётов и кораблей.\r\n[/list]\r\n\r\nПриятного пользования!",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -47630,5 +47630,37 @@
 		"name": "More Melee",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"963833cb-af00-42ce-9159-530aef1c6d3b": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 3713269046,
+				"localId": "a126962f-95c8-492f-bdc8-e653dcb04ba9",
+				"name": "block"
+			},
+			{
+				"fileId": 3708060232,
+				"localId": "ad67b95e-5beb-4d49-b184-03ded677a035",
+				"name": "guns"
+			},
+			{
+				"fileId": 3710270896,
+				"localId": "4ab93a5e-3e0d-4992-9382-b550320f12f9",
+				"name": "miner"
+			},
+			{
+				"fileId": 3706890183,
+				"localId": "7b2f4f93-b97b-41f1-bec3-29b0cfd71da0",
+				"name": "Privater"
+			}
+		],
+		"description": "",
+		"fileId": 3714018783,
+		"localId": "963833cb-af00-42ce-9159-530aef1c6d3b",
+		"name": "Miner Simulator",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
