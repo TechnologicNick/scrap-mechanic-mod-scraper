@@ -47662,5 +47662,25 @@
 		"name": "Miner Simulator",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"23c4190f-b124-46e0-bf3c-2c99453f5afb": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3714481351,
+		"localId": "23c4190f-b124-46e0-bf3c-2c99453f5afb",
+		"name": "slowMod_reconfig",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"26f6bc9d-1741-42da-a8c7-dc21f0a338e8": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod adds a new version of the sledgehammer, which differs in animations and lacks a blocking function. Perhaps in the future I will return blocking and make it actually work.",
+		"fileId": 3714794515,
+		"localId": "26f6bc9d-1741-42da-a8c7-dc21f0a338e8",
+		"name": "Sledgehammer remake",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
