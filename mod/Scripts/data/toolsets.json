@@ -7451,5 +7451,10 @@
 			"7f4f8b69-96b8-4f19-853a-97c96f6c6a7e"
 		]
 	},
-	"dbcf06f3-ada0-4d5f-8791-559d4f8d0ac7": {}
+	"dbcf06f3-ada0-4d5f-8791-559d4f8d0ac7": {},
+	"8e6a0cae-86f8-4de8-8cbc-4845043b6f48": {
+		"$CONTENT_8e6a0cae-86f8-4de8-8cbc-4845043b6f48/Tools/Database/ToolSets/NewToolSet1.toolset": [
+			"ac553df1-301e-4b34-9e2a-bdc26bcb682f"
+		]
+	}
 }
