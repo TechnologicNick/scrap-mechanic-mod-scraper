@@ -1349,5 +1349,9 @@
 		"$CONTENT_146ddef8-b0d8-45b6-9152-ce02df7cfd8a/ScriptableObjects/ScriptableObjectSets/example.sobset": []
 	},
 	"22f68485-50c7-43f2-91e9-6d5d8dbe5ec1": {},
-	"963833cb-af00-42ce-9159-530aef1c6d3b": {}
+	"963833cb-af00-42ce-9159-530aef1c6d3b": {},
+	"6f757cac-a0d5-4ff6-b4db-c32248b0b56b": {},
+	"df8a1412-b421-4ccb-8379-5a159a9d61d6": {
+		"$CONTENT_df8a1412-b421-4ccb-8379-5a159a9d61d6/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	}
 }

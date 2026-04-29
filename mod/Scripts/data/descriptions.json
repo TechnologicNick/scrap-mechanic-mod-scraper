@@ -47702,5 +47702,25 @@
 		"name": "Physics Forecasting",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"6f757cac-a0d5-4ff6-b4db-c32248b0b56b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3714015122,
+		"localId": "6f757cac-a0d5-4ff6-b4db-c32248b0b56b",
+		"name": "Survivors Custom Game (TEST)",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"df8a1412-b421-4ccb-8379-5a159a9d61d6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3715825848,
+		"localId": "df8a1412-b421-4ccb-8379-5a159a9d61d6",
+		"name": "Next Bot shit mod ^^",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
