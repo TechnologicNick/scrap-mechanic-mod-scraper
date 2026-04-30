@@ -46526,7 +46526,7 @@
 	"b2af5378-18ee-4e04-aae3-4df199f71fa1": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[code] [h1]РЕКОМЕНДАЦИИ![/h1]\r\n[b]1. Для лучшего качества мода обязательно включите \"Эффект размытия\".\r\n[b]2. После установки желательно перезапустить игру. (если скачали мод когда игра запущена)\r\n\r\n[h1] Мод добавляет: [/h1]\r\n[h3] Эффекты ракет [/h3]\r\n[table]\r\n    [tr]\r\n        [td]дымовой след ракеты[/td]\r\n        [td]большой[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]дымовой след ракеты[/td]\r\n        [td]маленький[/td]\r\n    [/tr]\r\n[/table]\r\n\r\n[h3] Эффекты ПТУРа [/h3]\r\n[table]\r\n    [tr]\r\n        [td]Дымовой след ПТУР[/td]\r\n        [td]Огонь[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Дымовой след ПТУР[/td]\r\n        [td]Огонь+Дым[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Дымовой след ПТУР[/td]\r\n        [td]Огонь+Оптоволокно[/td]\r\n    [/tr]\r\n[/table]\r\n\r\n[h3] Эффекты самолётов [/h3]\r\n[table]\r\n    [tr]\r\n        [td]Эффект форсажа двигателя[/td]\r\n        [td]Большой[/td]\r\n        [td]Красный[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Эффект форсажа двигателя[/td]\r\n        [td]Большой[/td]\r\n        [td]Фиолетовый[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Эффект форсажа двигателя[/td]\r\n        [td]Маленький[/td]\r\n        [td]Красный[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Эффект форсажа двигателя[/td]\r\n        [td]Маленький[/td]\r\n        [td]Фиолетовый[/td]\r\n    [/tr]\r\n[/table]\r\n\r\n[code]\r\n[h1]Обновление:  25.04.26  | Версия - 1.1[/h1][/code]",
+		"description": "[code] [h1]РЕКОМЕНДАЦИИ![/h1]\r\n[b]1. Для лучшего качества мода обязательно включите \"Эффект размытия\".\r\n[b]2. После установки желательно перезапустить игру. (если скачали мод когда игра запущена)\r\n\r\n[h1] Мод добавляет: [/h1]\r\n[h3] Эффекты ракет [/h3]\r\n[table]\r\n    [tr]\r\n        [td]дымовой след ракеты[/td]\r\n        [td]большой[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]дымовой след ракеты[/td]\r\n        [td]маленький[/td]\r\n    [/tr]\r\n[/table]\r\n\r\n[h3] Эффекты ПТУРа [/h3]\r\n[table]\r\n    [tr]\r\n        [td]Дымовой след ПТУР[/td]\r\n        [td]Огонь[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Дымовой след ПТУР[/td]\r\n        [td]Огонь+Дым[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Дымовой след ПТУР[/td]\r\n        [td]Огонь+Оптоволокно[/td]\r\n    [/tr]\r\n[/table]\r\n\r\n[h3] Эффекты самолётов [/h3]\r\n[table]\r\n    [tr]\r\n        [td]Эффект форсажа двигателя[/td]\r\n        [td]Большой[/td]\r\n        [td]Красный[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Эффект форсажа двигателя[/td]\r\n        [td]Большой[/td]\r\n        [td]Фиолетовый[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Эффект форсажа двигателя[/td]\r\n        [td]Маленький[/td]\r\n        [td]Красный[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Эффект форсажа двигателя[/td]\r\n        [td]Маленький[/td]\r\n        [td]Фиолетовый[/td]\r\n    [/tr]\r\n[/table]\r\n\r\n[code]\r\n[h1]Обновление: 6 февраля | Версия - 1.1[/h1][/code]",
 		"fileId": 3583050696,
 		"localId": "b2af5378-18ee-4e04-aae3-4df199f71fa1",
 		"name": "MoreEffect",
@@ -47544,7 +47544,7 @@
 	"27ec3af4-48a7-4823-b6e0-5fe205f02668": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod is still WIP!\r\n\r\nThis mod is inspired by the WAILA mod for Minecraft.\r\n\r\n\r\nHow to install\r\n\r\nActivate it like any Blocks and Parts mod and enjoy!\r\n\r\n\r\nFeatures\r\n\r\nThis mod gives you some basic information about the parts you are looking at. It shows it's name, mass, durability, size, and it's UUID.\r\n\r\nYou can activate block shape information using the /waila_toggleblockinfo command. This will highlight the shape and show the size and mass of the highlighted area.\r\n\r\nYou can toggle the whole gui using /waila_toggle.\r\n",
+		"description": "This mod is still WIP!\r\n\r\nThis mod is inspired by the WAILA mod for Minecraft.\r\n\r\n\r\nHow to install\r\n\r\nActivate it like any Blocks and Parts mod and enjoy!\r\n\r\n\r\nFeatures\r\n\r\nThis mod gives you some basic information about the parts you are looking at. It shows it's name, mass, durability, size, and it's UUID.\r\n\r\nYou can activate block shape information using the /waila_toggleblockinfo command. This will highlight the shape and show the size and mass of the highlighted area.\r\n\r\nYou can print the UUID of the shape you are looking at into chat to make it easier to copy with /waila_printuuid command.\r\n\r\nYou can toggle the whole gui using /waila_toggle command.\r\n",
 		"fileId": 3695967292,
 		"localId": "27ec3af4-48a7-4823-b6e0-5fe205f02668",
 		"name": "WAILA",
@@ -47716,11 +47716,21 @@
 	"df8a1412-b421-4ccb-8379-5a159a9d61d6": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "Dumb mod",
 		"fileId": 3715825848,
 		"localId": "df8a1412-b421-4ccb-8379-5a159a9d61d6",
 		"name": "Next Bot shit mod ^^",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"d5e56a97-7369-4406-b1d9-87c9ef2c9551": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3715383088,
+		"localId": "d5e56a97-7369-4406-b1d9-87c9ef2c9551",
+		"name": "Simplified Cylinder Collision",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
