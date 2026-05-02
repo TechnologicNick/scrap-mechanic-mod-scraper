@@ -13311,7 +13311,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "This mod adds custom tools I made to the game. Version 5.05\n\nUpdate 5.04 : All weapons use Toggle / Next rotation to show you available ammo. Texture changes when changing ammo with Tape and Liquid gun. SwimStick and Crit gun now craftable.\n\nTools:\n-Velocity gun\n-Rapid fire gatling\n-Crit gun\n-Tape gun\n-Liquid gun\n\nParts:\n-Beacon Screw\n-Beacon Screw(Breakable)\n-No Screw\n-GlowBoom\n-Gravity Generator : [Replaced : Gravity Screw]\n-Camera Screw\n-SwimStick : [Replaced : Fly Screw]\n-Paint Tool : [New]\n-World Cleaner : [New]\n-Gunpowder : [New]\n-Chest wardrobe : [New]\n\nCrafting Recipes for select tools : [Beacons, GlowBOOM, SwimStick and Crit Gun]\n\nHas not been tested in multiplayer.\nAll patch notes are logged on steam.\nBy kaiplayz22\n",
+		"description": "This mod adds custom tools I made to the game. Version 5.6\n\nUpdate 5.6 : All spud guns fully use the spud library, dropping the average file size to 5 KB. Swapped the toggle and reload binds on spud guns.\n\nTools:\n-Velocity gun\n-Rapid fire gatling\n-Crit gun\n-Tape gun\n-Liquid gun\n\nParts:\n-Beacon Screw\n-Beacon Screw(Breakable)\n-No Screw\n-GlowBoom\n-Gravity Generator : [Replaced : Gravity Screw]\n-Camera Screw\n-SwimStick : [Replaced : Fly Screw]\n-Paint Tool : [New]\n-World Cleaner : [New]\n-Gunpowder : [New]\n-Chest wardrobe : [New]\n\nCrafting Recipes for select tools : [Beacons, GlowBOOM, SwimStick and Crit Gun]\n\nHas not been tested in multiplayer.\nAll patch notes are logged on steam.\nBy kaiplayz22\n",
 		"fileId": 2818701598,
 		"localId": "40c2432d-fab9-44a1-a3d0-53cf0bf8a780",
 		"name": "Kai's Tools Mod",
