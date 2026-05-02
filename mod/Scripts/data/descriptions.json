@@ -47752,5 +47752,25 @@
 		"name": "cat ears",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"769579d1-2567-4b57-a23c-6b91b246abbd": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "this mod will automatically remove stumps when cutting down a tree",
+		"fileId": 3717684703,
+		"localId": "769579d1-2567-4b57-a23c-6b91b246abbd",
+		"name": "NO STUMPS",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"142731b6-36ba-4ba4-bddf-5e4018e17b17": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "",
+		"fileId": 3717701735,
+		"localId": "142731b6-36ba-4ba4-bddf-5e4018e17b17",
+		"name": "TF2 Sniper's Kukri",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
