@@ -46708,7 +46708,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "[h1]Мод для себя — и для вас![/h1]\r\n\r\nЕсли у вас есть идеи, что ещё прикольного можно добавить, пишите в комментариях, а лучше — в обсуждениях!\r\n\r\n[h2]Что уже есть в моде:[/h2]\r\n\r\n[list]\r\n[*][b]Самонаводящийся магнит с упреждением + ГСН[/b] – магнитный захват с расчётом точки встречи и головкой самонаведения.\r\n[*][b]ЛТЦ (ложные тепловые цели)[/b] – сбрасывайте ловушки, чтобы сбить с толку ракеты с тепловым наведением.\r\n[*][b]След от ракеты[/b] – видимый инверсионный или дымный след для всех ракет.\r\n[*][b]Бомба с настройкой чувствительности[/b] – точная регулировка порога срабатывания для управляемого подрыва.\r\n[*][b]Блоки инерции[/b] – позволяют сделать постройки более массивными и реалистичными по поведению.\r\n[*][b]Настраиваемое крыло[/b] – изменяйте подъёмную силу и характеристики управляющих поверхностей.\r\n[*][b]Две самостоятельные ракеты[/b] – специализированные боеприпасы для поражения самолётов и других целей.\r\n[*][b]НСЦ (Нашлемная система целеуказания) для ракеты[/b] – головка самонаведения ракеты следует за направлением вашего взгляда.\r\n[*][b]Бесконечный пол[/b] – спокойно гуляйте или ездите далеко за границами карты, не проваливаясь.\r\n[*][b]Дельта мыши для управления[/b] – точное управление вашими постройками с помощью перемещений мыши.\r\n[*][b]Однотиковая кнопка[/b] – активируется один раз и тут же исчезает. Идеально для действий «включил и забыл».\r\n[*][b]Камера постройки[/b] – позволяет увидеть всю конструкцию целиком. Крайне полезно для больших самолётов и кораблей.\r\n[/list]\r\n\r\nПриятного пользования!",
+		"description": "[h1]A mod for myself — and for you![/h1]\n\nIf you have ideas for what else cool could be added, write in the comments, or better yet — in the discussions!\n\n[h2]What's already in the mod:[/h2]\n\n[list]\n[*][b]Homing magnet with prediction + GSN[/b] – magnetic lock with intercept point calculation and a seeker head.\n[*][b]LTC (false thermal targets)[/b] – drop decoys to fool heat-seeking missiles.\n[*][b]Rocket trail[/b] – a visible contrail or smoke trail for all missiles.\n[*][b]Bomb with sensitivity adjustment[/b] – precise trigger threshold for controlled detonation.\n[*][b]Inertia blocks[/b] – make your builds feel more massive and realistic in behavior.\n[*][b]Configurable wing[/b] – adjust lift force and control surface characteristics.\n[*][b]Two standalone missiles[/b] – specialized munitions to engage aircraft and other targets.\n[*][b]NSC (Helmet-Mounted Targeting System) for missiles[/b] – the missile seeker follows your gaze direction.\n[*][b]Infinite floor[/b] – walk or drive far beyond the map border without falling through.\n[*][b]Mouse delta for control[/b] – precise control of your builds using mouse movements.\n[*][b]Single-tick button[/b] – activates once and immediately disappears. Ideal for \"fire and forget\" actions.\n[*][b]Build camera[/b] – lets you see the entire construction as a whole. Extremely useful for large aircraft and ships.\n[*][b]Laser-guided missile + targeting pod[/b] – allows you to observe the enemy at great distances and deliver gifts\n[/list]\n\nEnjoy!",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -47782,5 +47782,15 @@
 		"name": "infmap",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"dd2338b9-050b-46be-901f-1e1fb0621eb9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "The mod adds a foam cannon and a foam generator.",
+		"fileId": 3719309704,
+		"localId": "dd2338b9-050b-46be-901f-1e1fb0621eb9",
+		"name": "foam cannon",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
