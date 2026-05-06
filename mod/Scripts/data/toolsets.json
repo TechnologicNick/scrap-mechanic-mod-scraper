@@ -7480,5 +7480,8 @@
 		"$CONTENT_374a306d-4b45-49ed-9cab-93a894be86ad/Tools/Database/ToolSets/toolset.toolset": [
 			"1bdd9dfe-eff0-43af-b0ba-e517df9d1d2f"
 		]
+	},
+	"aeba27dc-21b9-41df-a4a3-713c23b18bb8": {
+		"$CONTENT_aeba27dc-21b9-41df-a4a3-713c23b18bb8/Tools/Database/ToolSets/example.toolset": []
 	}
 }
