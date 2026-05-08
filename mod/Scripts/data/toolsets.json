@@ -7071,7 +7071,8 @@
 	"efe37556-1ad9-44b6-961e-d93a0aec1240": {},
 	"9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4": {
 		"$CONTENT_9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4/Tools/Database/ToolSets/tools.toolset": [
-			"b73aaa9b-9d5d-4ab7-adea-35fb254069c6"
+			"b73aaa9b-9d5d-4ab7-adea-35fb254069c6",
+			"de29d3a2-269b-4dd0-a1dd-136cc5f8f249"
 		]
 	},
 	"38aaa37e-671c-4720-b734-8c32bd94292f": {},
