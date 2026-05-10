@@ -47699,7 +47699,7 @@
 		"description": "This is mod can add to your world a new prediction physics, and all bodies can collision on high velocity! (BETA TESTING)!",
 		"fileId": 3715395855,
 		"localId": "8e6a0cae-86f8-4de8-8cbc-4845043b6f48",
-		"name": "Physics Forecasting",
+		"name": "Physics Forecasting | Projectile system",
 		"type": "Blocks and Parts",
 		"version": 1
 	},
