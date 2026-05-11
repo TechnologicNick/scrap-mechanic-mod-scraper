@@ -41769,7 +41769,7 @@
 	"a05af9f2-860d-4529-b70b-0ad405dd4dbd": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "",
+		"description": "[h1]I HAVE FINALLY UPDATED THE MOD!![/h1]\r\nI have recently as of april of 2026 got back into SM modding and picked up on my fix of the popular Glitch Welder, and hope to keep support on this mod, thank all of the people that support the mod!! <3\r\n\r\nThis mod will replace the old Glitch Welder by overwriting the UUID of the Glitch Welder, so do not worry about old creations being broken.\r\n\r\n[hr][/hr]\r\n[h1]Why was mod abandoned?[/h1]\r\nOriginal mod made by MJM, a great modder but he lost motivation to update the Glitch Welder.\r\nThe original mod overall just has a lot of issues that hasn't been fixed since the start of survival. (he's got great other super cool mods like [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2949501397]Seats and Tech Mod[/url])\r\n\r\n[hr][/hr]\r\n[h1]Legacy features.[/h1]\r\n[list][*]Paint parts light-cyan blue then 'Press [E] to use' to cut/paste.\r\n[*]Paint parts light green to paste as static in the world. \r\n[*]Paint the glitch welder itself the color you want to spawn the parts. (Unpainted welder spawns unpainted parts).\r\n[*]Attach a button to re-paste the last items copied over and over. (You may need to delete the welder to clear this function's memory if it is spawning more things than you want).\r\n[*][strike]Connecting a seat to move Glitch Welder allows you to move Glitch Welded parts around.[/strike] Deprecated.\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h1]Newly added features.[/h1]\r\n[list][*]Leaving the world does not make the Glitch Welder forget its old data, it will save it to the world and reload it when rejoining.\r\n[*]Added visualizations for the Glitch Welded parts, you can now see it instead of guessing it. (there is a limit of 3000 visualizations)\r\n[/list]\r\n",
 		"fileId": 3408269388,
 		"localId": "a05af9f2-860d-4529-b70b-0ad405dd4dbd",
 		"name": "Glitch Welder Continuation",
@@ -47860,6 +47860,43 @@
 		"fileId": 3723455798,
 		"localId": "ec9029b7-79ff-44e6-9fee-7f8eaa98f2d6",
 		"name": "Arch mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"28fada23-8a95-4c27-a0d4-90bf84e1d381": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
+				"name": "ModDatabase"
+			}
+		],
+		"description": "HamsterMod Version 10.05.2026\n\nThis Mod does the following things:\n- Faster refining\n- More loot\n- Adds wedges from creative\n- Totebot  heads are now craftable (all colors) or recycle them into scrap metal, compontent kits and circuit boards\n- Many more items are now craftable inside the craftbot\n- Some Hamstermod blocks are craftable, all are ingame\n- Item-Pipes for every direction\n\nIf there are things i should add, hit me up :)",
+		"fileId": 3723632730,
+		"localId": "28fada23-8a95-4c27-a0d4-90bf84e1d381",
+		"name": "Hamstermod - Custom Game",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"6b7c6762-4262-4b9b-8d5d-2563c712158f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "MOD DODAJĄCY ELEMENTY ZWIĄZANE Z POLSKĄ POLITYKĄ",
+		"fileId": 3723657465,
+		"localId": "6b7c6762-4262-4b9b-8d5d-2563c712158f",
+		"name": "POLSKA POLITYKA MOD",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"cb31932c-bdd3-43d5-8ed4-6b7862ce9b70": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "",
+		"fileId": 3723871747,
+		"localId": "cb31932c-bdd3-43d5-8ed4-6b7862ce9b70",
+		"name": "Drill Spawner",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
