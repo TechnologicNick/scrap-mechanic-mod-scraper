@@ -47696,7 +47696,7 @@
 	"8e6a0cae-86f8-4de8-8cbc-4845043b6f48": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This is mod can add to your world a new prediction physics, and all bodies can collision on high velocity! (BETA TESTING)!",
+		"description": "This is mod can add to your world a new  projectile system! (BETA TESTING)!",
 		"fileId": 3715395855,
 		"localId": "8e6a0cae-86f8-4de8-8cbc-4845043b6f48",
 		"name": "Physics Forecasting | Projectile system",
@@ -47899,5 +47899,25 @@
 		"name": "Drill Spawner",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"688a9564-76d0-4301-acb0-813c6162c120": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1]Rally Island[/h1]\r\n\r\nA peaceful custom Survival island for relaxing, building, testing vehicles, and cruising around without raids or hostile bots.\r\n\r\n[b]Features[/b]\r\n[list]\r\n[*]Small handcrafted-feeling island generated through custom worldgen\r\n[*]Natural coastlines, beaches, gentle hills, and small offshore islands\r\n[*]Scenic roads made for casual driving and vehicle testing\r\n[*]Roadside markets, hay fields, and increased WOCs\r\n[*]No raids and no hostile robot spawns\r\n[*]Optional dev commands: /dev and /survival\r\n[/list]\r\n\r\nStart a new Custom Game world with Rally Island selected and enjoy a calmer Scrap Mechanic sandbox !",
+		"fileId": 3724029371,
+		"localId": "688a9564-76d0-4301-acb0-813c6162c120",
+		"name": "Chill Island",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"8ea3ca79-9270-4b60-a257-89c5c4689442": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description   \n\n\nThis is a custom game mode that merges two existing custom game modes.  \nBecause my coding skills are very limited, I have to **include both original mods' code** in this fusion. I cannot rewrite them myself, and if players try to merge the two modes on their own, multiplayer breaks. So this combined version is the only way to make it work online.  \n\n**To the developers of the two original custom game modes: This mod inevitably contains your code. If you feel this is inappropriate, infringes on or takes away your interests, or if you do not consent to me publishing this mod, please tell me and I will take it down immediately.**\n\nI respect your work. This is just a fan-made fusion for those who want to play both modes together online. Thank you for understanding.",
+		"fileId": 3724032031,
+		"localId": "8ea3ca79-9270-4b60-a257-89c5c4689442",
+		"name": "A better and bigger world",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
