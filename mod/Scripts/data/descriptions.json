@@ -47866,14 +47866,7 @@
 	"28fada23-8a95-4c27-a0d4-90bf84e1d381": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2504530003,
-				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
-				"name": "ModDatabase"
-			}
-		],
-		"description": "HamsterMod Version 10.05.2026\n\nThis Mod does the following things:\n- Faster refining\n- More loot\n- Adds wedges from creative\n- Totebot  heads are now craftable (all colors) or recycle them into scrap metal, compontent kits and circuit boards\n- Many more items are now craftable inside the craftbot\n- Some Hamstermod blocks are craftable, all are ingame\n- Item-Pipes for every direction\n\nIf there are things i should add, hit me up :)",
+		"description": "HamsterMod Version 11.05.2026\n\nThis Mod does the following things:\n- Faster refining\n- More loot\n- Adds wedges from creative\n- Totebot  heads are now craftable (all colors) or recycle them into scrap metal, compontent kits and circuit boards\n- Many more items are now craftable inside the craftbot\n- Some Hamstermod blocks are craftable, all are ingame\n- Item-Pipes for every direction\n\nIf there are things i should add, hit me up :)",
 		"fileId": 3723632730,
 		"localId": "28fada23-8a95-4c27-a0d4-90bf84e1d381",
 		"name": "Hamstermod - Custom Game",
@@ -47893,7 +47886,7 @@
 	"cb31932c-bdd3-43d5-8ed4-6b7862ce9b70": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "",
+		"description": "[h1]Что добавляет:[/h1]Добавляет Drill Spawner прямиком из 2 Главы![hr][/hr]",
 		"fileId": 3723871747,
 		"localId": "cb31932c-bdd3-43d5-8ed4-6b7862ce9b70",
 		"name": "Drill Spawner",
@@ -47919,5 +47912,15 @@
 		"name": "A better and bigger world",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"6da5a98b-d7ef-44c2-b645-89179899ee1e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds 3 Radar variants to the game\n\n   - Search\n      - Scans once on logic pulse input\n      - First output for pitch (in degrees)\n      - Second output for yaw (in degrees)\n      - Third output for distance\n\n   - Track\n      - Locks first scanned target when logic input             (1) is given and holds until input ceases\n      - Second logic input switches targets\n      - First output for pitch (in degrees)\n      - Second output for yaw (in degrees)\n      - Third output for distance\n\n   - Doppler\n      - Scans continously on held logic input\n      - Outputs a logic input if theres a target in                 its detection area\n\n !!! REQUIRES THE MODPACK !!!\n\nExpect more updates in the future!\n\nMade by meh name is bob on steam",
+		"fileId": 3724219010,
+		"localId": "6da5a98b-d7ef-44c2-b645-89179899ee1e",
+		"name": "Radar Mod",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
