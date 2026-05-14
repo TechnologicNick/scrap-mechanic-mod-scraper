@@ -47344,7 +47344,7 @@
 	"343e0296-1ef8-4e44-8742-47052c83d2a4": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "A tool used for building creations in competeitions with a fixed budget, per-item-costs and other analytics.\n\nTest 0.4.7",
+		"description": "A tool used for building creations in competeitions with a fixed budget, per-item-costs and other analytics.\n\nTest 0.5.0",
 		"fileId": 3699463783,
 		"localId": "343e0296-1ef8-4e44-8742-47052c83d2a4",
 		"name": "Budget Pro",
@@ -47494,7 +47494,7 @@
 	"22f68485-50c7-43f2-91e9-6d5d8dbe5ec1": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "In this custom game you have wedge recipes and creative mode physics.\r\nAlso, I removed tutorial quest.",
 		"fileId": 3706808155,
 		"localId": "22f68485-50c7-43f2-91e9-6d5d8dbe5ec1",
 		"name": "physics,wedges and no quest",
@@ -47896,7 +47896,7 @@
 	"688a9564-76d0-4301-acb0-813c6162c120": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]Rally Island[/h1]\r\n\r\nA peaceful custom Survival island for relaxing, building, testing vehicles, and cruising around without raids or hostile bots.\r\n\r\n[b]Features[/b]\r\n[list]\r\n[*]Small handcrafted-feeling island generated through custom worldgen\r\n[*]Natural coastlines, beaches, gentle hills, and small offshore islands\r\n[*]Scenic roads made for casual driving and vehicle testing\r\n[*]Roadside markets, hay fields, and increased WOCs\r\n[*]No raids and no hostile robot spawns\r\n[*]Optional dev commands: /dev and /survival\r\n[/list]\r\n\r\nStart a new Custom Game world with Rally Island selected and enjoy a calmer Scrap Mechanic sandbox !",
+		"description": "[h1]Rally Island[/h1]\r\n\r\nA peaceful custom Survival island for relaxing, building, vehicle testing, and cruising without raids or hostile bots.\r\n\r\nRally Island is planned as the first in a small series of custom Survival worlds, with each map built around a different kind of Scrap Mechanic sandbox experience.\r\n\r\n[b]Features[/b]\r\n[list]\r\n[*]Small island generated through custom worldgen\r\n[*]Random layout each new world: roads, coasts, fields, markets, and small islands can vary\r\n[*]Natural coastlines, beaches, gentle hills, and offshore islands\r\n[*]Scenic roads made for casual driving and rally-style cruising\r\n[*]Roadside markets, hay fields, and extra WOCs\r\n[*]No raids and no hostile robot spawns\r\n[*]Optional dev commands: /dev and /survival\r\n[/list]\r\n\r\nStart a new Custom Game world with Rally Island selected and enjoy a calmer Scrap Mechanic sandbox.\r\n",
 		"fileId": 3724029371,
 		"localId": "688a9564-76d0-4301-acb0-813c6162c120",
 		"name": "Chill Island",
@@ -47952,5 +47952,25 @@
 		"name": "Tree Collision",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"e8713696-4453-46ba-83ae-b9dd13384864": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "It's a recreation of the original mod Wedges WITHOUT Frames \n\nThis is not a texture and i am try set can be created in the modified Craftbot which automatically adds (fant's craftbot) There are also recipes I used from another mod of the original wedges\n\ncredits for the Fagiano0 for creating the mod  Wedges WITHOUT Frames\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3378542472&searchtext=line+wedge\n\ncredits for the Tematist for creating the recipes for the original wedges\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3695102413&searchtext=wedge+recipe\n",
+		"fileId": 3725438984,
+		"localId": "e8713696-4453-46ba-83ae-b9dd13384864",
+		"name": "Better Draggable Wedges without line Frames",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"2c16ce73-64c4-4c61-b3f4-face6ad5e979": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Extra Wheels Fixed",
+		"fileId": 3725507843,
+		"localId": "2c16ce73-64c4-4c61-b3f4-face6ad5e979",
+		"name": "ExtraWheelsFixed",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
