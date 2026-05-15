@@ -45510,7 +45510,7 @@
 	"a657c844-82dd-449c-a36d-dbf4cd85c0aa": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "",
+		"description": "The mod adds a convenient implementation of modules in just a few blocks. Currently, the engine and turret modules are developed; please report bugs and suggestions for improvement in the comments.\r\n\r\nThe white color of the module block is the [b]engine[b], and the light gray is the [b]turret bearing.[/b]\r\n\r\n [b]An example of a simple tank:[/b]\r\n\r\n[code]Place the module block. Paint it white. Open the GUI and press reset to default settings. Connect the driver's seat to it. Place two bearing units. Replace their axes with the desired ones by pressing E on them. Connect the bearings from them. Connect the bearing units to the module block.[/code]",
 		"fileId": 3606296648,
 		"localId": "a657c844-82dd-449c-a36d-dbf4cd85c0aa",
 		"name": "Custom Modules",
@@ -47970,6 +47970,36 @@
 		"fileId": 3725507843,
 		"localId": "2c16ce73-64c4-4c61-b3f4-face6ad5e979",
 		"name": "ExtraWheelsFixed",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"e0532833-55e6-4a56-aeab-e9b854b2177b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod can add to your world a new CORNADE FROM CHAPTER 2\r\n\r\n-- Q to view the CORNADE",
+		"fileId": 3725295420,
+		"localId": "e0532833-55e6-4a56-aeab-e9b854b2177b",
+		"name": "The Cornade",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"7fe8884b-a9df-4306-af53-ee7833dbe9e8": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "\n",
+		"fileId": 3725968535,
+		"localId": "7fe8884b-a9df-4306-af53-ee7833dbe9e8",
+		"name": "Chapter 2 Spawners",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d497308b-1c32-4148-a2c8-c86019a8eb56": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3726081997,
+		"localId": "d497308b-1c32-4148-a2c8-c86019a8eb56",
+		"name": "Parasite Mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
