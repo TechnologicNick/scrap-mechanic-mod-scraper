@@ -10572,12 +10572,14 @@
 		"version": 0
 	},
 	"007ed792-420f-4d59-af26-3bd1123c69fc": {
-		"description": "This mod adds spark plugs to scrap mechanic. It can be used to build engines.",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod adds spark plugs to scrap mechanic. It can be used to build engines.\r\n\r\nYou can find the source code here: https://github.com/x7airworker/Sparkplugs-Mod",
 		"fileId": 2564887431,
 		"localId": "007ed792-420f-4d59-af26-3bd1123c69fc",
 		"name": "Sparkplugs",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 1
 	},
 	"e2a97618-3164-486f-8a49-a0ab8cee4787": {
 		"description": "EN\n\nThis mod contains blocks and parts that I use in my worlds or in my workshop creations.\nI recommend you download this mod as I will be using it everywhere and it has cool blocks in it. I will not be taking suggestions of blocks or parts as I will be creating the blocks and parts I am about to use right now.\n\nBut you can easily use this mod for your own creations. Please try to avoid using the servicestickers and the manufacturer stickers.\n\n\nDE\n\nDiese Mod enthält Blöcke und Teile, die ich in meinen Welten oder in meinen Workshop-Kreationen verwende.\nIch empfehle Ihnen, diesen Mod herunterzuladen, da ich eie überall verwenden werde und sie Coole Blöcke enthält. Ich werde keine Vorschläge von Bläcken oder Teilen entgegennehmen, da ich die Blöcke und Teile erstellen werde, die ich gerade verwenden möchte.\n\nAber du kannst diese Mod für problemlos deine eigenen Kreationen verwenden. Bitte versuche das Benutzen der Servicesticker und der Herstellersticker zu vermeiden.",
@@ -48000,6 +48002,50 @@
 		"fileId": 3726081997,
 		"localId": "d497308b-1c32-4148-a2c8-c86019a8eb56",
 		"name": "Parasite Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6c04816d-7678-426c-ac99-06f49bf33b0f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3304245465,
+				"localId": "31440574-2e66-417a-b77d-b02f8f1e4306"
+			},
+			{
+				"fileId": 3150883473,
+				"localId": "1ef74156-76f0-4fc5-a73f-a4c1d4e2ecbc"
+			},
+			{
+				"fileId": 3261470009,
+				"localId": "ad999bac-a054-4ea3-8b8e-37d6d4d916e9"
+			},
+			{
+				"fileId": 3695299865,
+				"localId": "2c61e2db-5c48-40a4-a0af-03c36be91298"
+			},
+			{
+				"fileId": 3098523797,
+				"localId": "975ba0ce-9585-4fb8-845a-cf769346e52f"
+			},
+			{
+				"fileId": 2851449097,
+				"localId": "39531f1d-5df3-406d-a4bc-c08f5a74ea47"
+			},
+			{
+				"fileId": 3378542472,
+				"localId": "245b2932-3a4a-4a8f-87be-d5eeacc3dc42"
+			},
+			{
+				"fileId": 3290334190,
+				"localId": "35bd8b52-4dcf-40b5-9b22-dad88a750e23"
+			}
+		],
+		"description": "Jo cuccok",
+		"fileId": 3727272040,
+		"localId": "6c04816d-7678-426c-ac99-06f49bf33b0f",
+		"name": "Daveed264 Scrap Pack",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
