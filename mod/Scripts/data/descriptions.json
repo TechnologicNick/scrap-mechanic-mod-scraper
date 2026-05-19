@@ -46970,7 +46970,7 @@
 	"cc5f16df-7651-491d-8828-749a9e238019": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Mod for Ly4ok(discord server: )\n\nAdds some interactables and things that could be useful for tanks.\n\nNow mod contains:\nSome explosives\n\n[RIGHT NOW MOD IS IN ALPHA, IT WILL GET UPDATES SOMETIMES] (And also its my first mod with scripts uwu)",
+		"description": "Mod for Ly4ok(discord server: )\n\nAdds some interactables and things that could be useful for tanks.\n\nNow mod contains:\nArmor Piercing Bomb:  sm.physics.explode(self.shape:getWorldPosition(), 7, 0.5, 1.5, 10,\"Explosion - Debris\")\n(AP UUID: \"767b2dd0-0b17-4ff5-b6d8-3aa28e2f8b86\")\nHigh Explosive Bomb:   sm.physics.explode(self.shape:getWorldPosition(), 3, 1.5, 2, 3000,\"PropaneTank - ExplosionSmall\")\n(HE UUID: \"9bf85811-576f-478b-b9d2-64cf9e568a69\")\nand their chill versions for loader to load into cannon\n\n[RIGHT NOW MOD IS IN ALPHA, IT WILL GET UPDATES SOMETIMES] ",
 		"fileId": 3681663023,
 		"localId": "cc5f16df-7651-491d-8828-749a9e238019",
 		"name": "Tank modules",
