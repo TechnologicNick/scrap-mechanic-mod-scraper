@@ -47748,7 +47748,7 @@
 	"d0fd1b64-faa8-4de3-aab1-dc347ca4710b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "cat ears for scrap mechanic\n(use pva tool)",
+		"description": "cat ears for scrap mechanic\n(use pva tool)\n\nfix:\n/ears are paintable now\n/aaaaaaasdqfradaa :3\n\nhf",
 		"fileId": 3717314367,
 		"localId": "d0fd1b64-faa8-4de3-aab1-dc347ca4710b",
 		"name": "cat ears",
@@ -48052,7 +48052,7 @@
 	"32cdeed4-3931-46e8-a5ca-a8a0f72a776d": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "The continuation of the Scrap Mechanical Effects mod slightly complements the set of effects.\n\n[h2]Features:[/h2]\nOther Effects: Some harvestables and more added\nInteractive Effects: Drill, saw and Builderguide added\nProjectiles Effects: Sledgehammer and bots added\nSpark Effects: Elevator music and workbench added\n\nFixed sync issues\n\nDont forget about original mod:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2263027495",
+		"description": "The continuation of the Scrap Mechanical Effects mod slightly complements the set of effects.\n\n[h2]Features:[/h2]\n- Other Effects: Some harvestables and more added\n-Interactive Effects: Drill, saw and Builderguide added\n- Projectile Effects: Sledgehammer and bots added\n- Spark Effects: Workbench added\n- Audio Effects: Elevator music and Dispensers added\n\n- Fixed sync issues from original mod\n\nDont forget about original mod:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2263027495",
 		"fileId": 3730782536,
 		"localId": "32cdeed4-3931-46e8-a5ca-a8a0f72a776d",
 		"name": "Effects Continuation",
