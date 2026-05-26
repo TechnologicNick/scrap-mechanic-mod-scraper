@@ -48068,5 +48068,15 @@
 		"name": "Spaceship Vent Fix",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"fbad6568-a06d-4c8d-be43-f150ae31d815": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "adds a slow engine.",
+		"fileId": 3732757278,
+		"localId": "fbad6568-a06d-4c8d-be43-f150ae31d815",
+		"name": "HGs slowcontrol",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
