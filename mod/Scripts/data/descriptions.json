@@ -44704,7 +44704,7 @@
 	"929810da-6c3b-43a8-8753-1d736f22a0fd": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Detailed asphalt block and draggable wedge.\nTip: Use wedges to make road markings",
+		"description": "Detailed asphalt block and draggable wedge.\nTip: Use wedges to make road markings\nUnpaintable variants can be handy when using sensors.",
 		"fileId": 3555933582,
 		"localId": "929810da-6c3b-43a8-8753-1d736f22a0fd",
 		"name": "Asphalt block and wedge",
@@ -46800,7 +46800,7 @@
 	"f1914704-dadf-4363-814f-fd7d940afa6e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod will add various weapons to the Scrap Mechanic world. Be careful when using these weapons!\r\n\r\n- Glock\r\n-- 20 ammo\r\n\r\n- AS Val\r\n-- 25 ammo\r\n\r\n- Colt\r\n-- 14 ammo\r\n\r\n- AK74\r\n-- 30 ammo\r\n\r\n- M4A1\r\n-- 30 ammo\r\n\r\n- PKM\r\n-- 200 ammo\r\n\r\n- AT4\r\n\r\n\r\n///                                 Me in Discord! https://discord.gg/wYcNeRxz                                         ///",
+		"description": "This mod will add various weapons to the Scrap Mechanic world. Be careful when using these weapons!\r\n\r\n\r\n// Weapons\r\n\r\n- Glock [ Silencer and sight ]\r\n-- 20 ammo\r\n\r\n- AS Val [ Sight ]\r\n-- 25 ammo\r\n\r\n- Colt [ Silencer ]\r\n-- 14 ammo\r\n\r\n- AK-74M [ Silencer and sight ]\r\n-- 30 ammo\r\n\r\n- M4A1 [ Silencer and sight ]\r\n-- 30 ammo\r\n\r\n- PKM [ Silencer ]\r\n-- 200 ammo\r\n\r\n- AT4 [ None modules]\r\n\r\n- MP5  [ Silencer and sight ]\r\n-- 30 ammo\r\n\r\n\r\n// = Sights\r\n\r\n- OKP-3 [ AK-74M, AS Val, M4A1 ]\r\n\r\n- Red Dot Pistols [ Glock 17 ]\r\n\r\n- Red Dot MP5 [ MP5 ]\r\n\r\n\r\n// Silencers\r\n\r\n- WN Silencer Universal [ AK-74M, AS Val, M4A1, Colt 45, Glock 17, PKM ]\r\n\r\n\r\n// Me in Discord! https://discord.gg/DP2DBANZ",
 		"fileId": 3670073323,
 		"localId": "f1914704-dadf-4363-814f-fd7d940afa6e",
 		"name": "Technical Guns",
@@ -47566,7 +47566,7 @@
 	"d689393b-9fae-417e-83fc-8ae5cba2861b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "furniture v1 jaydon play",
+		"description": "furniture v1 Jadon play",
 		"fileId": 3711477707,
 		"localId": "d689393b-9fae-417e-83fc-8ae5cba2861b",
 		"name": "furniture_mod",
@@ -48076,6 +48076,16 @@
 		"fileId": 3732757278,
 		"localId": "fbad6568-a06d-4c8d-be43-f150ae31d815",
 		"name": "HGs slowcontrol",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f88de079-cb9b-4c09-bfec-05a5ab0eeefd": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3733306721,
+		"localId": "f88de079-cb9b-4c09-bfec-05a5ab0eeefd",
+		"name": "testtools",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
