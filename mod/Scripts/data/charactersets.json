@@ -1780,5 +1780,8 @@
 	"46178a3f-2bdd-46a0-baef-1bef248a4915": {
 		"$CONTENT_46178a3f-2bdd-46a0-baef-1bef248a4915/Characters/Database/CharacterSets/example.characterset": []
 	},
-	"019d3d39-475a-4ad9-83b6-01d7a2230023": {}
+	"019d3d39-475a-4ad9-83b6-01d7a2230023": {},
+	"56241d70-15bf-4ba8-9f72-c1a8f037077c": {
+		"$CONTENT_56241d70-15bf-4ba8-9f72-c1a8f037077c/Characters/Database/CharacterSets/example.characterset": []
+	}
 }

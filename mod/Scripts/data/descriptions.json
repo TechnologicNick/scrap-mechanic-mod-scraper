@@ -48088,5 +48088,15 @@
 		"name": "testtools",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"56241d70-15bf-4ba8-9f72-c1a8f037077c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3733962131,
+		"localId": "56241d70-15bf-4ba8-9f72-c1a8f037077c",
+		"name": "ss",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
