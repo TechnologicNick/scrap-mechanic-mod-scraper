@@ -44703,7 +44703,7 @@
 	},
 	"929810da-6c3b-43a8-8753-1d736f22a0fd": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "Detailed asphalt block and draggable wedge.\nTip: Use wedges to make road markings\nUnpaintable variants can be handy when using sensors.",
 		"fileId": 3555933582,
 		"localId": "929810da-6c3b-43a8-8753-1d736f22a0fd",
