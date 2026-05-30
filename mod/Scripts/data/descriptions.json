@@ -48098,5 +48098,15 @@
 		"name": "ss",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"b10e00dc-7494-4b8f-8a09-9a9327c56cf3": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Adds a Fly Tool for Scrap Mechanic.\r\n\r\nControls:\r\nLeft click toggles fly mode on or off.\r\nRight click cycles fly speed: slow, normal, fast.\r\n\r\nFeatures:\r\nFly mode stays active after you switch away from the tool.\r\nUses Scrap Mechanic swim movement for smoother flying.\r\nSpeed can be changed while flying.\r\nWorks best when the host and all players use the same mod version.\r\n\r\nMultiplayer:\r\nFor multiplayer, the host and every player joining should subscribe to the same Workshop version. If players have different versions or edited game files, Scrap Mechanic may show checksum errors.\r\n\r\nNotes:\r\nThis is a simple utility tool made for easier building, testing, exploring, and moving around worlds.",
+		"fileId": 3734858897,
+		"localId": "b10e00dc-7494-4b8f-8a09-9a9327c56cf3",
+		"name": "Fly Tool",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
