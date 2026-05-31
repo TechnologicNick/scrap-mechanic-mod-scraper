@@ -45688,7 +45688,7 @@
 		"localId": "24fc65a7-e1aa-4b66-86bc-d8229df53981",
 		"name": "Enable Survival Player Updated",
 		"type": "Blocks and Parts",
-		"version": 1.6
+		"version": 1.7
 	},
 	"93825f32-6eff-453c-9a8a-c616c85b91ab": {
 		"allow_add_mods": true,
@@ -46380,7 +46380,7 @@
 	"a3d76703-0945-4a3c-a1cf-a1a09dff5ebc": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Мой самый первый мод. Почти нет минусов. Надеюсь....\r\nВерсия 2.5\r\nО багах можно говорить в коментариях. Там я их увижу и как можно быстрей исправлю.\r\nСкоро сделаю мод для Title builder.",
+		"description": "Мой самый первый мод. Почти нет минусов. Надеюсь....\nВерсия 3.0\nО багах можно говорить в коментариях. Там я их увижу и как можно быстрей исправлю.\nСкоро сделаю мод для Title builder.",
 		"fileId": 3649679765,
 		"localId": "a3d76703-0945-4a3c-a1cf-a1a09dff5ebc",
 		"name": "Parts_BR",
@@ -47928,7 +47928,7 @@
 	"a92abd54-22bd-48d8-af05-5e240df3bfab": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Этот мод был сделан только для креатива. Не включайте его в выживании пожалуйста🙏\r\nПрошу, не форсите этот мод я вас умоляю🥀",
+		"description": "Этот мод был сделан только для креатива. Не включайте его в выживании. v1.3\nИзначально он создавался только в целях перенести конструкции из выживания в креатив. \nОн добавляет почти все предметы из выживания. ",
 		"fileId": 3722651167,
 		"localId": "a92abd54-22bd-48d8-af05-5e240df3bfab",
 		"name": "IconMap_BR",
@@ -48106,6 +48106,26 @@
 		"fileId": 3734858897,
 		"localId": "b10e00dc-7494-4b8f-8a09-9a9327c56cf3",
 		"name": "Fly Tool",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"44b5f5e6-3688-4fa6-be51-0f706dc52d3e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "A list of unpractical parts \nOnly vehicle parts for now",
+		"fileId": 3736097461,
+		"localId": "44b5f5e6-3688-4fa6-be51-0f706dc52d3e",
+		"name": "Unpractical parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"17568b32-c1dc-490b-a5ee-244b6b34b0f7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3736163441,
+		"localId": "17568b32-c1dc-490b-a5ee-244b6b34b0f7",
+		"name": "Ленточноя головка",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

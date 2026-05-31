@@ -7550,5 +7550,11 @@
 		"$CONTENT_b10e00dc-7494-4b8f-8a09-9a9327c56cf3/Tools/Database/ToolSets/flytool.toolset": [
 			"8ce43fe0-ad39-4133-a96f-9044816e8759"
 		]
+	},
+	"44b5f5e6-3688-4fa6-be51-0f706dc52d3e": {},
+	"17568b32-c1dc-490b-a5ee-244b6b34b0f7": {
+		"$CONTENT_17568b32-c1dc-490b-a5ee-244b6b34b0f7/Tools/Database/ToolSets/Ленточная головка.toolset": [
+			"f94aa190-042d-41f4-8581-4b7a71c9083b"
+		]
 	}
 }
