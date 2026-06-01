@@ -48128,5 +48128,15 @@
 		"name": "Ленточноя головка",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"66773861-28fc-4ea1-a99e-5e14fce63494": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "я покажу тебе что такое лов ис",
+		"fileId": 3736806763,
+		"localId": "66773861-28fc-4ea1-a99e-5e14fce63494",
+		"name": "##села-дала",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
