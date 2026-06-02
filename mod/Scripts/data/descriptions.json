@@ -43961,6 +43961,7 @@
 	"6a304eaa-8774-481a-96e7-24bdc7c8c313": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": null,
 		"description": "This is not the original game from me. This game is made simply for those who find it difficult to play the original game.\r\n\r\n===========================================================================\r\n\r\nWhat has been changed:\r\n- Rebalancing of robots\r\n- Rebalancing shop\r\n- Mounted spudgun is now available in the store\r\n- Changes to the Mechanic station\r\n\r\n===========================================================================\r\n\r\nOriginal game by Wilohm: https://steamcommunity.com/sharedfiles/filedetails/?id=3432382909&searchtext=",
 		"fileId": 3513434044,
 		"localId": "6a304eaa-8774-481a-96e7-24bdc7c8c313",
