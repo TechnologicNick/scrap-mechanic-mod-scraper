@@ -7557,5 +7557,8 @@
 			"f94aa190-042d-41f4-8581-4b7a71c9083b"
 		]
 	},
-	"66773861-28fc-4ea1-a99e-5e14fce63494": {}
+	"66773861-28fc-4ea1-a99e-5e14fce63494": {},
+	"9597841d-5e2d-4e7d-bb42-4a8f59a893ec": {
+		"$CONTENT_9597841d-5e2d-4e7d-bb42-4a8f59a893ec/Tools/Database/ToolSets/example.toolset": []
+	}
 }
