@@ -33026,7 +33026,14 @@
 	"f3aa0335-e45c-4686-9958-d205829f4857": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Big ass flat world without the stupid grass. It's about 100x larger than the vanilla world, for testing things like planes.\n\nWARNING:\nthe world is WAYYY bigger than the default world, meaning scrap has some trouble. SAVE YOUR CREATION BEFORE RAMMING INTO THE WORLD BORDER AT MACH 69. Your creation may clip through the world border and be lost forever. Not my responsibility, you have been warned.\n\nAlso if anyone has ideas on how to give new players default items in their hotbar, let me know. The ways scrap does this for survival and creative just dont work here -_-... i hate this game.",
+		"dependencies": [
+			{
+				"fileId": 1759377518,
+				"localId": "2b09183f-5ecb-4dac-93a0-99bd0baa6e55",
+				"name": "ModDatabase"
+			}
+		],
+		"description": "Big ass flat world without the stupid grass. It's about 100x larger than the vanilla world, for testing things like planes.\r\n\r\nWARNING:\r\nthe world is WAYYY bigger than the default world, meaning scrap has some trouble. SAVE YOUR CREATION BEFORE RAMMING INTO THE WORLD BORDER AT MACH 69. Your creation may clip through the world border and be lost forever. Not my responsibility, you have been warned.\r\n\r\nAlso if anyone has ideas on how to give new players default items in their hotbar, let me know. The ways scrap does this for survival and creative just dont work here -_-... i hate this game.\r\n\r\nEDIT:\r\nNo, i can't make the map taller, not to my knowledge atleast.\r\nIt's a custom game, so start it from the custom game menu.\r\nDON'T RELY ON BEACONS TO KEEP TRACK OF YOUR CREATIONS, THEY DONT WORK!\r\n(check my comment for more q&a type things)",
 		"fileId": 2956763123,
 		"localId": "f3aa0335-e45c-4686-9958-d205829f4857",
 		"name": "Biggerworld",
@@ -48092,8 +48099,8 @@
 	},
 	"56241d70-15bf-4ba8-9f72-c1a8f037077c": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"custom_icons": true,
+		"description": "delta pidr",
 		"fileId": 3733962131,
 		"localId": "56241d70-15bf-4ba8-9f72-c1a8f037077c",
 		"name": "ss",
