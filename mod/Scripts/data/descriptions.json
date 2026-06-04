@@ -45520,7 +45520,7 @@
 	"a657c844-82dd-449c-a36d-dbf4cd85c0aa": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "The mod adds a convenient implementation of modules in just a few blocks. Currently, the engine and turret modules are developed; please report bugs and suggestions for improvement in the comments.\r\n\r\nThe white color of the module block is the [b]engine[b], and the light gray is the [b]turret bearing.[/b]\r\n\r\n [b]An example of a simple tank:[/b]\r\n\r\n[code]Place the module block. Paint it white. Open the GUI and press reset to default settings. Connect the driver's seat to it. Place two bearing units. Replace their axes with the desired ones by pressing E on them. Connect the bearings from them. Connect the bearing units to the module block.[/code]",
+		"description": "The mod adds a convenient implementation of modules in just a few blocks. Currently, the engine and turret modules are developed; please report bugs and suggestions for improvement in the comments.\r\n\r\nThe white color of the module block is the [b]engine[b], and the light gray is the [b]turret bearing.[/b]\r\n\r\n [b]An example of a simple tank:[/b]\r\n\r\n[code]Place the module block. Paint it white. Open the GUI and press reset to default settings. Connect the driver's seat to it. Place two bearing units. Replace their axes with the desired ones by pressing E on them. Connect the bearings from them. Connect the bearing units to the module block. If you want to create hand brake, then connect power source to bearing units.[/code]",
 		"fileId": 3606296648,
 		"localId": "a657c844-82dd-449c-a36d-dbf4cd85c0aa",
 		"name": "Custom Modules",
@@ -48156,5 +48156,15 @@
 		"name": "More raid levels",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"a86e8a9d-7745-41ef-9736-bd36ec9e4fc7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Shows all hidden blocks and parts in the game.",
+		"fileId": 3738195605,
+		"localId": "a86e8a9d-7745-41ef-9736-bd36ec9e4fc7",
+		"name": "Hidden Content",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
