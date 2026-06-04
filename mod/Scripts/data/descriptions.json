@@ -44407,7 +44407,7 @@
 	},
 	"eaaba16d-5da4-4091-9591-4323b7720ec2": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"dependencies": null,
 		"description": "This mod is my NEW official mod for Train Parts!",
 		"fileId": 3542241591,
