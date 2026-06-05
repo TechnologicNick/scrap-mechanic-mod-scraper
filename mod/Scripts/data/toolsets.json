@@ -7567,5 +7567,18 @@
 		"$CONTENT_fca8631b-0056-46f0-9b8b-8aee07e332a2/Tools/Database/ToolSets/Cornade.toolset": [
 			"acab4322-d139-4e27-9479-db3e76fc5000"
 		]
-	}
+	},
+	"c8020d7f-84a3-45fb-ad42-bb1a1c2b9bd7": {},
+	"03b8e635-b17c-481b-b85c-e413baadcd97": {
+		"$CONTENT_03b8e635-b17c-481b-b85c-e413baadcd97/Tools/Database/ToolSets/example.toolset": [
+			"e90e4865-6049-4560-87f1-c0785745f1fa",
+			"409f7801-e280-4164-bb6e-d9a90870ee31",
+			"355d2af5-daa1-4123-97bd-d76c7ada7a33",
+			"b6b7172b-1089-46a1-ba77-9066bccc1711",
+			"ddbb7bfc-f9f8-4c70-9cad-fdf3439a7a46",
+			"247f9d86-7689-4336-82b6-66000cbab5af",
+			"5a656ca1-8f29-4f8a-8760-87cca08a2577"
+		]
+	},
+	"140e7ace-38fe-4544-bc77-04a2b3fa5fb9": {}
 }

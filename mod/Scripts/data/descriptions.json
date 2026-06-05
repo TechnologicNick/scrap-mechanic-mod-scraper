@@ -46718,7 +46718,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "[h1]A mod for myself — and for you![/h1]\n\nIf you have ideas for what else cool could be added, write in the comments, or better yet — in the discussions!\n\n[h2]What's already in the mod:[/h2]\n\n[list]\n[*][b]Homing magnet with prediction + GSN[/b] – magnetic lock with intercept point calculation and a seeker head.\n[*][b]LTC (false thermal targets)[/b] – drop decoys to fool heat-seeking missiles.\n[*][b]Rocket trail[/b] – a visible contrail or smoke trail for all missiles.\n[*][b]Bomb with sensitivity adjustment[/b] – precise trigger threshold for controlled detonation.\n[*][b]Inertia blocks[/b] – make your builds feel more massive and realistic in behavior.\n[*][b]Configurable wing[/b] – adjust lift force and control surface characteristics.\n[*][b]Two standalone missiles[/b] – specialized munitions to engage aircraft and other targets.\n[*][b]NSC (Helmet-Mounted Targeting System) for missiles[/b] – the missile seeker follows your gaze direction.\n[*][b]Infinite floor[/b] – walk or drive far beyond the map border without falling through.\n[*][b]Mouse delta for control[/b] – precise control of your builds using mouse movements.\n[*][b]Single-tick button[/b] – activates once and immediately disappears. Ideal for \"fire and forget\" actions.\n[*][b]Build camera[/b] – lets you see the entire construction as a whole. Extremely useful for large aircraft and ships.\n[*][b]Laser-guided missile and bomb + targeting pod[/b] – allows you to observe the enemy at great distances and deliver gifts\n[*][b]Advanced logic gate, with output setting[/b]\n[*][b]Thruster with adjustable power, running time and stability, as well as the effect[/b]\n[/list]\n\nEnjoy!",
+		"description": "[h1]A mod for myself — and for you![/h1]\n\nIf you have ideas for what else cool could be added, write in the comments, or better yet — in the discussions!\n\n[h2]What's already in the mod:[/h2]\n\n[list]\n[*][b]Homing magnet with prediction + GSN[/b] – magnetic lock with intercept point calculation and a seeker head.\n[*][b]Flares (false thermal targets)[/b] – drop decoys to fool heat-seeking missiles.\n[*][b]Rocket trail[/b] – a visible contrail or smoke trail for all missiles.\n[*][b]Bomb with sensitivity adjustment[/b] – precise trigger threshold for controlled detonation.\n[*][b]Inertia blocks[/b] – make your builds feel more massive and realistic in behavior.\n[*][b]Configurable wing[/b] – adjust lift force and control surface characteristics.\n[*][b]Two standalone missiles[/b] – specialized munitions to engage aircraft and other targets.\n[*][b]NSC (Helmet-Mounted Targeting System) for missiles[/b] – the missile seeker follows your gaze direction.\n[*][b]Infinite floor[/b] – walk or drive far beyond the map border without falling through.\n[*][b]Mouse delta for control[/b] – precise control of your builds using mouse movements.\n[*][b]Single-tick button[/b] – activates once and immediately disappears. Ideal for \"fire and forget\" actions.\n[*][b]Build camera[/b] – lets you see the entire construction as a whole. Extremely useful for large aircraft and ships.\n[*][b]Laser-guided missile and bomb + targeting pod[/b] – allows you to observe the enemy at great distances and deliver gifts\n[*][b]Advanced logic gate, with output setting[/b]\n[*][b]Thruster with adjustable power, running time and stability, as well as the effect[/b]\n[/list]\n\nEnjoy!",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -48174,6 +48174,36 @@
 		"fileId": 3738754314,
 		"localId": "fca8631b-0056-46f0-9b8b-8aee07e332a2",
 		"name": "Cornade",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"c8020d7f-84a3-45fb-ad42-bb1a1c2b9bd7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3738944909,
+		"localId": "c8020d7f-84a3-45fb-ad42-bb1a1c2b9bd7",
+		"name": "NewBombs",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"03b8e635-b17c-481b-b85c-e413baadcd97": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3738945093,
+		"localId": "03b8e635-b17c-481b-b85c-e413baadcd97",
+		"name": "throwing parts",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"140e7ace-38fe-4544-bc77-04a2b3fa5fb9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3738945469,
+		"localId": "140e7ace-38fe-4544-bc77-04a2b3fa5fb9",
+		"name": "the prop mod",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
