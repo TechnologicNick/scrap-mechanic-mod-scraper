@@ -7562,5 +7562,10 @@
 	"9597841d-5e2d-4e7d-bb42-4a8f59a893ec": {
 		"$CONTENT_9597841d-5e2d-4e7d-bb42-4a8f59a893ec/Tools/Database/ToolSets/example.toolset": []
 	},
-	"a86e8a9d-7745-41ef-9736-bd36ec9e4fc7": {}
+	"a86e8a9d-7745-41ef-9736-bd36ec9e4fc7": {},
+	"fca8631b-0056-46f0-9b8b-8aee07e332a2": {
+		"$CONTENT_fca8631b-0056-46f0-9b8b-8aee07e332a2/Tools/Database/ToolSets/Cornade.toolset": [
+			"acab4322-d139-4e27-9479-db3e76fc5000"
+		]
+	}
 }
