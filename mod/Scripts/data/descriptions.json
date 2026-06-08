@@ -48170,7 +48170,7 @@
 	"fca8631b-0056-46f0-9b8b-8aee07e332a2": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod doesn't have a description",
+		"description": "[h1]Features:[/h1]Adds Cornade from Chapter 2![hr][/hr]\r\nP.S. original by Tape/Tapebot",
 		"fileId": 3738754314,
 		"localId": "fca8631b-0056-46f0-9b8b-8aee07e332a2",
 		"name": "Cornade",
@@ -48224,6 +48224,16 @@
 		"fileId": 3739897776,
 		"localId": "0c403348-e116-4504-8427-2941aba3832f",
 		"name": "Simple Survival",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"13b81bd8-0713-415c-85cc-d121631bf612": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3740989615,
+		"localId": "13b81bd8-0713-415c-85cc-d121631bf612",
+		"name": "SuperCraftSurvival2",
 		"type": "Custom Game",
 		"version": 0
 	}

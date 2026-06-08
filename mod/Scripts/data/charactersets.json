@@ -1789,5 +1789,22 @@
 	},
 	"0c403348-e116-4504-8427-2941aba3832f": {
 		"$CONTENT_0c403348-e116-4504-8427-2941aba3832f/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"13b81bd8-0713-415c-85cc-d121631bf612": {
+		"$CONTENT_13b81bd8-0713-415c-85cc-d121631bf612/Characters/Database/CharacterSets/animals.characterset": [
+			"264a563a-e304-430f-a462-9963c77624e9",
+			"48c03f69-3ec8-454c-8d1a-fa09083363b1"
+		],
+		"$CONTENT_13b81bd8-0713-415c-85cc-d121631bf612/Characters/Database/CharacterSets/robots.characterset": [
+			"04761b4a-a83e-4736-b565-120bc776edb2",
+			"9dbbd2fb-7726-4e8f-8eb4-0dab228a561d",
+			"fcb2e8ce-ca94-45e4-a54b-b5acc156170b",
+			"68d3b2f3-ed4b-4967-9d22-8ee6f555df63",
+			"c3d31c47-0c9b-4b07-9bd4-8f022dc4333e",
+			"8984bdbf-521e-4eed-b3c4-2b5e287eb879",
+			"c8bfb8f3-7efc-49ac-875a-eb85ac0614db",
+			"9f4fde94-312f-4417-b13b-84029c5d6b52",
+			"4ea0faa8-d7a2-48c9-bd2b-579a02bdd061"
+		]
 	}
 }
