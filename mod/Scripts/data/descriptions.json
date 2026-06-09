@@ -48241,7 +48241,7 @@
 		"description": "",
 		"fileId": 3740989615,
 		"localId": "13b81bd8-0713-415c-85cc-d121631bf612",
-		"name": "Super Craft Survival 2",
+		"name": "SuperCraftSurvival2",
 		"type": "Custom Game",
 		"version": 0
 	},
@@ -48254,5 +48254,15 @@
 		"name": "a log without shine",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"42b90782-fc8e-4b68-ac1e-3c39af90294c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This is a fork of LemonSurvival 2.0 but with a twist!\n\nDevy's Changes:\n-The Floor is Lava! DO NOT TOUCH THE FLOOR AT ALL COST!\n-If you have a water bucket filled with water. You will survive 1 touch!\n\n\n\nCommands\n/permadeath - When you die, you cannot respawn\n/hprecovery - Disable hp recovery when you're not hungry\n/hpgainfromfood - foods such as bananas, redbeets, sunshake etc. now give you hp when consuming.\nPair this with the last command to have a more unforgiving but still balanced survival experience.\n\n\n\n-Little Notes:\nThank you waterlemon for creating this! It's been a blast playing it!\n\n\n\nCredits:\nwaterlemon, Dart Frog, Questionable Mark - Modded Craftbot Recipes",
+		"fileId": 3221600368,
+		"localId": "42b90782-fc8e-4b68-ac1e-3c39af90294c",
+		"name": "Devy's Lava + Lemon",
+		"type": "Custom Game",
+		"version": 0
 	}
 }

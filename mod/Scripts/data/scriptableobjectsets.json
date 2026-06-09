@@ -1382,5 +1382,12 @@
 	},
 	"13b81bd8-0713-415c-85cc-d121631bf612": {
 		"$CONTENT_13b81bd8-0713-415c-85cc-d121631bf612/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"42b90782-fc8e-4b68-ac1e-3c39af90294c": {
+		"$CONTENT_42b90782-fc8e-4b68-ac1e-3c39af90294c/ScriptableObjects/ScriptableObjectSets/sob_quests.sobset": [
+			"8be0279e-28b6-4aab-b620-586f50162c6e",
+			"98e440d7-89ca-4dcd-bc1e-7588e6240143",
+			"009fe136-aeee-45c4-9135-006b786cfc59"
+		]
 	}
 }
