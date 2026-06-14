@@ -42765,6 +42765,7 @@
 	"93b8dc0c-f4cb-49ee-a6d2-70b7e5d3bffa": {
 		"allow_add_mods": true,
 		"custom_icons": false,
+		"dependencies": null,
 		"description": "",
 		"fileId": 3445698753,
 		"localId": "93b8dc0c-f4cb-49ee-a6d2-70b7e5d3bffa",
@@ -44449,7 +44450,7 @@
 	"9caa9ed9-0869-4bd7-8156-c85d9749c1af": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]Military Outfit Mod Creative Addon[/h1]\r\n[h2](MOM 6.2 БЕЗ ФАЙЛОВОЙ УСТАНОВКИ)[/h2]\r\n\r\n[b]Это дополнение позволяет использовать мод Military Outfit Mod в режиме Креатив без установки файлового мода.[/b]\r\nИспользуйте его, чтобы надевать уникальную военную одежду, которая не будет сбрасываться после смерти.\r\n\r\n[u]Важная информация по использованию:[/u]\r\n• Для корректной работы Creative Addon необходимо снять всю ванильную одежду (через Dressbot), которую вы хотите заменить.\r\n• Если планируете надевать каску или шапку — также уберите волосы.\r\n• [b]Military Wardrobe всегда должен находиться на карте.[/b] Вы можете использовать несколько, но хотя бы один должен быть размещён.\r\n• Рекомендуется использовать мод [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3216708262]Enable Survival Player[/url] в качестве PvP-мода. Если вы его используете — не забудьте разместить точку возрождения для корректной работы.\r\n\r\n[h3]Все модели и текстуры одежды загружаются напрямую из оригинального Military Outfit Mod. [b]Чтобы их видеть, вы должны быть подписаны на этот мод![/b][/h3]\r\n\r\n[hr]\r\n\r\n[b]Управление:[/b]\r\n• Нажмите на кнопку элемента одежды, чтобы надеть его.\r\n• Нажмите повторно, чтобы снять конкретный элемент.\r\n• Надевание нового элемента того же типа заменит предыдущий (за исключением головных уборов).\r\n• Нажмите [b]Remove All Parts[/b], чтобы снять всю военную одежду.\r\n• Пресеты временно не работают.\r\n\r\n[hr]\r\n\r\nОтдельная благодарность [url=https://discord.gg/fzEnA79cEA]Modern War Project[/url] за помощь с созданием превью и скриншотов, а так же в тестировании мода.\r\nА именно:\r\n• [url=https://steamcommunity.com/profiles/76561198442565130/]1nf3rager[/url]\r\n• [url=https://steamcommunity.com/profiles/76561199041434398/]Kop4eny[/url]\r\n• sensei (дс: Илюха)\r\n• Xandan\r\n\r\nDiscord: https://discord.gg/TJePhfsgzR",
+		"description": "Мод удалён, используйте вместо него оригинальный Military Outfit Mod!",
 		"fileId": 3543001723,
 		"localId": "9caa9ed9-0869-4bd7-8156-c85d9749c1af",
 		"name": "Military Outfit Mod Creative Addon",
@@ -48299,6 +48300,16 @@
 		"fileId": 3743251349,
 		"localId": "4cc57105-1c0a-4919-bdde-2ae32a5e43eb",
 		"name": "CROW NPC",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1e11fc7b-0d82-4209-be21-f8ea406819f3": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 3744648539,
+		"localId": "1e11fc7b-0d82-4209-be21-f8ea406819f3",
+		"name": "The SMTumbler",
 		"type": "Blocks and Parts",
 		"version": 1
 	}

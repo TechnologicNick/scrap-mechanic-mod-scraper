@@ -7616,5 +7616,10 @@
 	},
 	"91b26692-e204-4687-bbfc-a7d1d1fe59d2": {},
 	"51bacd3c-7212-4846-86a5-2ff8cdaf2582": {},
-	"4cc57105-1c0a-4919-bdde-2ae32a5e43eb": {}
+	"4cc57105-1c0a-4919-bdde-2ae32a5e43eb": {},
+	"1e11fc7b-0d82-4209-be21-f8ea406819f3": {
+		"$CONTENT_1e11fc7b-0d82-4209-be21-f8ea406819f3/Tools/Database/ToolSets/tools.toolset": [
+			"360b34bb-4263-490f-aa2b-64284e33583a"
+		]
+	}
 }
