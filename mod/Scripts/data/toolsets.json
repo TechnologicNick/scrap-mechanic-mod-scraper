@@ -7604,8 +7604,11 @@
 	"13b81bd8-0713-415c-85cc-d121631bf612": {
 		"$CONTENT_13b81bd8-0713-415c-85cc-d121631bf612/Tools/Database/ToolSets/example.toolset": [
 			"d1edd1ef-aa7a-4113-856c-f950f02d91b1",
+			"e77aaff3-e049-4a54-b058-c15663f7b351",
+			"b2814272-1e45-4590-b077-0b0947c9d9ae",
 			"8ca1510d-307d-48bb-b839-6f060047575d",
-			"b4bcae9b-7681-40cc-9ee4-60528ff3dab0"
+			"b4bcae9b-7681-40cc-9ee4-60528ff3dab0",
+			"2d49522c-a258-4a6a-bc68-9bbfc00b66da"
 		]
 	},
 	"26810839-cec6-497d-8194-fa398c3d6c59": {},
