@@ -7627,5 +7627,10 @@
 			"360b34bb-4263-490f-aa2b-64284e33583a"
 		]
 	},
-	"a5726ce0-1a35-4a95-8820-6ee1f2d6ae3a": {}
+	"a5726ce0-1a35-4a95-8820-6ee1f2d6ae3a": {},
+	"a1a83227-d76d-4307-8a68-cb1ac897ec41": {
+		"$CONTENT_a1a83227-d76d-4307-8a68-cb1ac897ec41/Tools/Database/ToolSets/Crowbar.toolset": [
+			"d2ed49d1-df55-439d-befd-f6d2979921f0"
+		]
+	}
 }
