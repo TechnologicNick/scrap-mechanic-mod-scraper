@@ -48422,5 +48422,25 @@
 		"name": "amogus bloooooock",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"0c199502-176e-423c-ae38-ff2cdc00f201": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod will add a turret that can shoot at enemies!\n- shoots potatoes\n- can be reinforced through metal sheets\n- 2 types of targets: Mechanics and Bots",
+		"fileId": 3746515991,
+		"localId": "0c199502-176e-423c-ae38-ff2cdc00f201",
+		"name": "Scrap Turret",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6e1b0e74-4ba6-4dcb-b77d-9daf34c35e44": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "DIMENSION MECHANIC\r\n\r\n  Descend an endless stack of dimensions - every \"floor\" is its own seeded world. Fly off the bottom edge to fall to the floor below, or rise past the ceiling to reach the one above. The deeper you go, the stranger and more hostile it gets.\r\n\r\n  A creative sandbox built around INTERDIMENSIONAL WARFARE: build the dimensional gear, send creations across layers, and fight enemies you can't even see.\r\n\r\n  -- TRAVEL --\r\n  - Fall (down) or rise (up) to cross between floors, or use /tp, /home, /map.\r\n  - Send a whole creation to another floor with a Loader or Phaser part.\r\n\r\n  -- THE GEAR (one block, one job) --\r\n  - Beacon - anchor a floor so it stays loaded; broadcast it on the map.\r\n  - Loader - carries its creation across floors (auto, or per logic pulse).\r\n  - Reader - fires a logic signal when its floor reaches a target.\r\n  - Radar / Tracker / Intrusion Detector / Sensor - cross-layer recon.\r\n  - Spudgun / Charge / Resonator - weapons that hit the SAME spot on every loaded layer at once.\r\n\r\n  -- AN EVER-CHANGING STACK --\r\n  Floors past +-10 are ephemeral: leave one and it dissolves and re-rolls into a fresh world next visit. Core floors (+-10) are permanent. Anchor a far floor with a Loader/Both Beacon to keep it and the builds on it.\r\n\r\n  -- HAZARDS / EVENTS (deepen with distance) --\r\n  Shifting winds, black holes, acid rain, meteor storms, crushing walls, a rising void, gravity & magnetic anomalies, blinding fog, darkness, roaming Hunters - and the rare all-at-once Convergence. Plus the occasional calm Blessed floor. Floors within +-10 are always safe.\r\n\r\n  -- MODES & SETTINGS --\r\n  Layer Duel (shared map), Fibonacci momentum, hazard/command toggles, and a full stack reset - all in /setup.\r\n\r\n  WARNING - PHOTOSENSITIVITY: this mod contains flashing lights, strobing, and full-screen glitch/colour effects.\r\n  WORK IN PROGRESS: unfinished and experimental - expect rough edges and bugs. Feedback is very welcome!\r\n\r\n  VISIBILITY\r\n  Hidden  (or Friends-only) for this first WIP upload — flip to Public once you've confirmed it ",
+		"fileId": 3747160912,
+		"localId": "6e1b0e74-4ba6-4dcb-b77d-9daf34c35e44",
+		"name": "Dimension Mechanic",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
