@@ -41201,7 +41201,7 @@
 	"7a10d694-cc65-413b-a090-c2f69572d3c9": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod is intended for my project, Modern War. It can also be used for general purposes.\nЭтот мод предназначен для моего проекта, Modern War. Его также можно использовать в обычных целях.\n\nDiscord server: https://discord.gg/T8VEJtEMtv\n\nEN:\nThe mod is not created for public use. You may use it, but it’s better if you are on our Discord server. In case there are any issues, such as a block you used being removed and your build no longer spawning, we can help you there. We can also provide bug fixes.\nWe strictly forbid using any parts, scripts, or other content from our mod in your own projects! If you need edits to parts or want something new added, please contact us on Discord!\n\nRU:\nМод не создан для общественного использования. Вы можете его использовать, но лучше тогда быть на нашем дискорд сервере. В случае если будут какие-то проблемы в виде удаления блока который вы использовали и из-за этого постройка больше не спавнится, чтоб мы могли вам помочь. Ну и просто могли делать баг-фикс.\n\nМы категорически запрещаем использовать деталей, скриптов и прочего из нашего мода в ваших проектах! Если вам нужны правки деталей или добавление чего либо нового обращайтесь к нам в Discord!\n\nDiscord server: https://discord.gg/T8VEJtEMtv",
+		"description": "# Modern-War-Parts-\nOriginal repository for Scrap Mechanic mod \"[Modern War Parts +]\". All rights reserved.\nMod Description\nRU:\nЭто мод на блоки и детали дополняющие ванильные элементы. Главная цель мода: Мод создан для моего проекта по боям в SM он добавляет детали которые не хватает в ваниле а так же делает данные детали на 9 прочностей для возможности реализации брони.\n\nКто может использовать этот мод?\n Данный мод есть в открытом доступе и вы можете его использовать в обычных целях, НО ЗНАЙТЕ, мы обновляем мод от своей нужды в деталях, в случае если будут какие либо глобальные изменения которые могут существенно заменить детали или их удалить, и ваша постройка перестанет спавниться, мы рекомендуем быть на нашем Дискорд сервере чтобы мы могли вам помочь.\n\nАвторское право:\n Мы категорически запрещаем вам модифицировать наш мод или красть из него детали, скрипты, без нашего разрешения, в случае если мы заметим подобное, ожидайте страйков и возможного суда!\n\nFeedback:\nЕсли вам нужны правки деталей или добавление чего либо нового обращайтесь к нам в Discord!\nDiscord server: https://discord.gg/T8VEJtEMtv\n\nEN:\n\nThis mod introduces blocks and parts that complement vanilla elements. The main goal of the mod: It was created for my SM project to add parts missing in the vanilla game, as well as to give these parts 9 durability levels to make armor implementation possible.\n\nWho Can Use This Mod?\n This mod is publicly available, and you are free to use it for regular purposes. HOWEVER, PLEASE NOTE: we update the mod based on our own need for parts. In the event of global updates that drastically change or remove parts—which might prevent your creation from spawning—we highly recommend joining our Discord server so we can assist you.\n\nCopyright:\n We strictly prohibit modifying our mod or stealing its parts and scripts without our permission. If we detect such actions, expect strikes and potential legal action!\n\nFeedback:\n If you need any part adjustments or want something new to be added, please contact us on Discord!",
 		"fileId": 3306388787,
 		"localId": "7a10d694-cc65-413b-a090-c2f69572d3c9",
 		"name": "Modern War Parts +",
@@ -46717,7 +46717,7 @@
 	},
 	"9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"dependencies": null,
 		"description": "[h1]A mod for myself — and for you![/h1]\n\nIf you have ideas for what else cool could be added, write in the comments, or better yet — in the discussions!\n\n[h2]What's already in the mod:[/h2]\n\n[list]\n[*][b]Homing magnet with prediction + Seker[/b] – magnetic lock with intercept point calculation and a seeker head.\n[*][b]Flares (false thermal targets)[/b] – drop decoys to fool heat-seeking missiles.\n[*][b]Rocket trail[/b] – a visible contrail or smoke trail for all missiles.\n[*][b]Bomb with sensitivity adjustment[/b] – precise trigger threshold for controlled detonation.\n[*][b]Inertia blocks[/b] – make your builds feel more massive and realistic in behavior.\n[*][b]Configurable wing[/b] – adjust lift force and control surface characteristics.\n[*][b]Two standalone missiles[/b] – specialized munitions to engage aircraft and other targets.\n[*][b]NSC (Helmet-Mounted Targeting System) for missiles[/b] – the missile seeker follows your gaze direction.\n[*][b]Infinite floor[/b] – walk or drive far beyond the map border without falling through.\n[*][b]Mouse delta for control[/b] – precise control of your builds using mouse movements.\n[*][b]Single-tick button[/b] – activates once and immediately disappears. Ideal for \"fire and forget\" actions.\n[*][b]Build camera[/b] – lets you see the entire construction as a whole. Extremely useful for large aircraft and ships.\n[*][b]Laser-guided missile and bomb + targeting pod[/b] – allows you to observe the enemy at great distances and deliver gifts\n[*][b]Advanced logic gate, with output setting[/b]\n[*][b]Thruster with adjustable power, running time and stability, as well as the effect[/b]\n[*][b]Barrels with adjustable buoyancy[/b] – there are several variations with different durability, allowing you to build ships that sink from damage\n[*][b]Configurable parachute[/b] – use as an airbrake for vehicles or to airdrop them!\n[/list]\n\nEnjoy!",
 		"fileId": 3664855539,
@@ -48410,6 +48410,16 @@
 		"fileId": 3740991933,
 		"localId": "a1a83227-d76d-4307-8a68-cb1ac897ec41",
 		"name": "Crowbar",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"8ce8e913-c0c1-4cd8-ae11-690bc31b59c3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod add amogusas block and parts",
+		"fileId": 3746697246,
+		"localId": "8ce8e913-c0c1-4cd8-ae11-690bc31b59c3",
+		"name": "amogus bloooooock",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
