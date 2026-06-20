@@ -7641,5 +7641,9 @@
 			"b9e4f2c6-7a18-4d3b-9c52-1e8f6a3d0b47"
 		]
 	},
-	"58738aa3-6492-494c-a181-3471ae3d9ae8": {}
+	"58738aa3-6492-494c-a181-3471ae3d9ae8": {},
+	"c40c9768-d65e-48d4-a27a-a227de0cb4a9": {
+		"$CONTENT_c40c9768-d65e-48d4-a27a-a227de0cb4a9/Tools/Database/ToolSets/example.toolset": []
+	},
+	"aee73336-3405-4d07-9b04-68f0cd5bc595": {}
 }
