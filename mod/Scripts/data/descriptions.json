@@ -46717,7 +46717,7 @@
 	},
 	"9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"dependencies": null,
 		"description": "[h1]A mod for myself — and for you![/h1]\n\nIf you have ideas for what else cool could be added, write in the comments, or better yet — in the discussions!\n\n[h2]What's already in the mod:[/h2]\n\n[list]\n[*][b]Homing magnet with prediction + Seker[/b] – magnetic lock with intercept point calculation and a seeker head.\n[*][b]Flares (false thermal targets)[/b] – drop decoys to fool heat-seeking missiles.\n[*][b]Rocket trail[/b] – a visible contrail or smoke trail for all missiles.\n[*][b]Bomb with sensitivity adjustment[/b] – precise trigger threshold for controlled detonation.\n[*][b]Inertia blocks[/b] – make your builds feel more massive and realistic in behavior.\n[*][b]Configurable wing[/b] – adjust lift force and control surface characteristics.\n[*][b]Two standalone missiles[/b] – specialized munitions to engage aircraft and other targets.\n[*][b]NSC (Helmet-Mounted Targeting System) for missiles[/b] – the missile seeker follows your gaze direction.\n[*][b]Infinite floor[/b] – walk or drive far beyond the map border without falling through.\n[*][b]Mouse delta for control[/b] – precise control of your builds using mouse movements.\n[*][b]Single-tick button[/b] – activates once and immediately disappears. Ideal for \"fire and forget\" actions.\n[*][b]Build camera[/b] – lets you see the entire construction as a whole. Extremely useful for large aircraft and ships.\n[*][b]Laser-guided missile and bomb + targeting pod[/b] – allows you to observe the enemy at great distances and deliver gifts\n[*][b]Advanced logic gate, with output setting[/b]\n[*][b]Thruster with adjustable power, running time and stability, as well as the effect[/b]\n[*][b]Barrels with adjustable buoyancy[/b] – there are several variations with different durability, allowing you to build ships that sink from damage\n[*][b]Configurable parachute[/b] – use as an airbrake for vehicles or to airdrop them!\n[/list]\n\nEnjoy!",
 		"fileId": 3664855539,
@@ -48426,7 +48426,7 @@
 	"0c199502-176e-423c-ae38-ff2cdc00f201": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod will add a turret that can shoot at enemies!\n- shoots potatoes\n- can be reinforced through metal sheets\n- 2 types of targets: Mechanics and Bots",
+		"description": "This mod will add a turret that can shoot at enemies!\r\n\r\n3 types of turrets: Default, Shotgun, Minigun\r\n\r\n- shoots potatoes\r\n- can be reinforced through metal sheets\r\n- 2 types of targets: Mechanics and Bots\r\n\r\nDefault turret:\r\n- range 260 blocks\r\n- coldown 0.3\r\n- damage 26\r\n- spread 1 degrees\r\n\r\nShotgun turret:\r\n- range 140 blocks\r\n- coldown 0.3\r\n- damage 26\r\n- spread 27 degrees\r\n\r\nMinigun turret:\r\n- range 120 blocks\r\n- coldown 0.1\r\n- damage 20\r\n- spread 2 degrees",
 		"fileId": 3746515991,
 		"localId": "0c199502-176e-423c-ae38-ff2cdc00f201",
 		"name": "Scrap Turret",
