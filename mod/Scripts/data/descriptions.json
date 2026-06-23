@@ -39024,7 +39024,7 @@
 	"94be7f86-7079-4401-a930-8a99a9c44f24": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Allows players to fly. To enable/disable simply use [b]/fly[/b] or press the [b]Reload[/b] key (defaults to R, sometimes doesn't work if a you have a tool equipped). Use [b]/flyspeed <speed>[/b] to change the flying speed.",
+		"description": "Allows players to fly. To toggle simply use [b]/fly[/b] or press the [b]Reload[/b] key (defaults to R, sometimes doesn't work if a you have a tool equipped).\r\nUse [b]/flyspeed <speed>[/b] to change the flying speed. \r\n\r\n\r\n\r\nIf you're using AutoHotKey you can also increase/decrease the speed with the following macro :\r\n[code]#HotIf WinActive(\"ahk_exe ScrapMechanic.exe\")\r\n*PgUp::Send(\"{Enter}/flyspeedadd 1{Enter}\")\r\n*PgDn::Send(\"{Enter}/flyspeedadd -1{Enter}\")\r\n#HotIf[/code]",
 		"fileId": 3278914024,
 		"localId": "94be7f86-7079-4401-a930-8a99a9c44f24",
 		"name": "Creative Flying",
@@ -42449,7 +42449,7 @@
 	"0606ca9f-9c8c-49ff-8c86-40dbefce5dc2": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Get ready for an action-packed Tower Defense experience! Your mission: protect the radio antenna from waves of dangerous robots.\n\n🔧 Daytime: Collect resources, build defenses, and upgrade your base. Farming and crafting are faster and easier, so you can focus on building strong defenses.\n⚔️ Nighttime: Fight against fast, aggressive, and powerful robots that will try to break through and destroy everything in their way. Spoiler : They are stronger than vanilla.\n\nIf the antenna is destroyed, you lose the battle, and the day starts again before the attack, giving you a chance to improve your defenses. The difficulty adjusts based on the number of players, making every game a real challenge.\n\nMove faster, build quicker, and fight harder—can you survive the invasion?\n\n==========================================\nKnown issues :\n - The GUI of the shop is wrong and don't show your ressources, however it work well if you click on the button to buy\n\n==========================================\n\nI created this mod in 2025. After a year and a half away from Scrap Mechanic, I've decided to come back to it and realized that this old mod had a lot of room for improvement.\n\nI've recently added several new features, rebalanced the gameplay, fixed various bugs, and I plan to introduce even more additions over the coming weeks.\n\nEnjoy!\n\n==========================================\n\n2026 Update :\n\n- Stack size increased\n- New GameOver animation\n- More waves\n- Multiplayer difficulty rebalanced\n- Adding daylight sensor\n- Base chuncks stay loaded\n- Faster craftbot (Speed multiplier based on the level of upgrade)\n- New items in shop\n- New commands :\n  /startwave : Start the raid\n  /imacheater : Enable cheat commands",
+		"description": "Get ready for an action-packed Tower Defense experience! Your mission: protect the radio antenna from waves of dangerous robots.\n\n🔧 Daytime: Collect resources, build defenses, and upgrade your base. Farming and crafting are faster and easier, so you can focus on building strong defenses.\n⚔️ Nighttime: Fight against fast, aggressive, and powerful robots that will try to break through and destroy everything in their way. Spoiler : They are stronger than vanilla.\n\nIf the antenna is destroyed, you lose the battle, and the day starts again before the attack, giving you a chance to improve your defenses. The difficulty adjusts based on the number of players, making every game a real challenge.\n\nMove faster, build quicker, and fight harder—can you survive the invasion?\n\n==========================================\nKnown issues :\n - The GUI of the shop is wrong and don't show your ressources, however it work well if you click on the button to buy\n\n==========================================\n\nI created this mod in 2025. After a year and a half away from Scrap Mechanic, I've decided to come back to it and realized that this old mod had a lot of room for improvement.\n\nI've recently added several new features, rebalanced the gameplay, fixed various bugs, and I plan to introduce even more additions over the coming weeks.\n\nEnjoy!\n\n==========================================\n\n2026 Update :\n\n- Stack size increased\n- New GameOver animation\n- More waves\n- Multiplayer difficulty rebalanced\n- Adding daylight sensor\n- Base chuncks stay loaded\n- Faster craftbot (Speed multiplier based on the level of upgrade)\n- New items in shop\n- Adding Wedge Block\n- New commands :\n  /startwave : Start the raid\n  /imacheater : Enable cheat commands",
 		"fileId": 3432382909,
 		"localId": "0606ca9f-9c8c-49ff-8c86-40dbefce5dc2",
 		"name": "Robot Invasion [UPDATED]",
@@ -48478,6 +48478,16 @@
 		"fileId": 3749051822,
 		"localId": "9c0907f4-a279-42c8-9a6a-6c26c1b58c9b",
 		"name": "SMTumbler",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"1a8ec070-587c-486f-9dbe-7eb6958219db": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3750068709,
+		"localId": "1a8ec070-587c-486f-9dbe-7eb6958219db",
+		"name": "STEPPER MOTOR MOD",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
