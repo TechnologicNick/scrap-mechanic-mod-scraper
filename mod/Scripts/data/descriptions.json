@@ -48358,7 +48358,7 @@
 	},
 	"51bacd3c-7212-4846-86a5-2ff8cdaf2582": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"description": "A collection of durable nonconnectable storages and some blocks, as well as durable pipe pieces for fencing/rollcages/etc.\n\nThese all have survival recipes for modded craftbot.\n\nCrashlander is also required, since I have cloned the two small pipe connectors to match the rest of the pipe pieces I made versions of. I do not believe they need to be active, but must be present on your system.\n\nI made this mod for myself, and have no plans to support it outside of my enjoyment, but have it provided in case anyone else wants it.",
 		"fileId": 3742956940,
 		"localId": "51bacd3c-7212-4846-86a5-2ff8cdaf2582",
