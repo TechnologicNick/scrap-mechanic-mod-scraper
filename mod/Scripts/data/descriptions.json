@@ -48488,7 +48488,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "This mod adds sights and blocks for plane building. In the future there will be a full interface for planes, as well as air weaponry such as bombs, rockets, etc.\r\n\r\nCurrently available:\r\nBomb sight (Self-adjusts for diving)\r\nGun/Rocket sight\r\nBallistic Computer\r\nJet engine\r\nPilot seat GUI\r\n\r\nXeridox's Turret Crosshairs insipired me to make this mod, go check him out - https://steamcommunity.com/sharedfiles/filedetails/?id=3104559653\r\n\r\nIf you spot any bugs, point them out in the comments please!\r\n\r\nP.S. Please do not use any code from my mod without my permisson.",
+		"description": "This mod adds sights and blocks for plane building. In the future there will be a full interface for planes, as well as air weaponry such as bombs, rockets, etc.\r\n\r\nCurrently available:\r\nBomb sight (Self-adjusts for diving)\r\nGun/Rocket sight\r\nBallistic Computer\r\nJet engine\r\nPilot seat GUI\r\nBomb armament (Mk82, Mk83, Mk84)\r\n\r\nXeridox's Turret Crosshairs insipired me to make this mod, go check him out - https://steamcommunity.com/sharedfiles/filedetails/?id=3104559653\r\n\r\nIf you spot any bugs, point them out in the comments please!\r\n\r\nP.S. Please do not use any code from my mod without my permisson.",
 		"fileId": 3751165667,
 		"localId": "029fd68e-0a38-436d-a57b-fb0204fe02c4",
 		"name": "Fofan's airborne systems [BETA]",
