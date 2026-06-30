@@ -46717,7 +46717,7 @@
 	},
 	"9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"dependencies": null,
 		"description": "[h1]A mod for myself — and for you![/h1]\n\nIf you have ideas for what else cool could be added, write in the comments, or better yet — in the discussions!\n\n[h2]What's already in the mod:[/h2]\n\n[list]\n[*][b]Homing magnet with prediction + Seker[/b] – magnetic lock with intercept point calculation and a seeker head.\n[*][b]Flares (false thermal targets)[/b] – drop decoys to fool heat-seeking missiles.\n[*][b]Rocket trail[/b] – a visible contrail or smoke trail for all missiles.\n[*][b]Bomb with sensitivity adjustment[/b] – precise trigger threshold for controlled detonation.\n[*][b]Inertia blocks[/b] – make your builds feel more massive and realistic in behavior.\n[*][b]Configurable wing[/b] – adjust lift force and control surface characteristics.\n[*][b]Two standalone missiles[/b] – specialized munitions to engage aircraft and other targets.\n[*][b]HMS (Helmet-Mounted Targeting System) for missiles[/b] – the missile seeker follows your gaze direction.\n[*][b]Infinite floor[/b] – walk or drive far beyond the map border without falling through.\n[*][b]Mouse delta for control[/b] – precise control of your builds using mouse movements.\n[*][b]Single-tick button[/b] – activates once and immediately disappears. Ideal for \"fire and forget\" actions.\n[*][b]Build camera[/b] – lets you see the entire construction as a whole. Extremely useful for large aircraft and ships.\n[*][b]Laser-guided missile and bomb + targeting pod[/b] – allows you to observe the enemy at great distances and deliver gifts\n[*][b]Advanced logic gate, with output setting[/b]\n[*][b]Thruster with adjustable power, running time and stability, as well as the effect[/b]\n[*][b]Configurable parachute[/b] – use as an airbrake for vehicles or to airdrop them!\n[/list]\n\nEnjoy!",
 		"fileId": 3664855539,
@@ -48504,5 +48504,35 @@
 		"name": "SUPER HARD MODE",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"27b023c5-0a86-40cf-b6fa-4bb74ab8418e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "mod govna",
+		"fileId": 3754170680,
+		"localId": "27b023c5-0a86-40cf-b6fa-4bb74ab8418e",
+		"name": "Joludev Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"a8e55242-363d-40ef-9434-7310b2cfa676": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "skidi mod what incejts nick hider to every mod even on custom game like fant mod",
+		"fileId": 3754440653,
+		"localId": "a8e55242-363d-40ef-9434-7310b2cfa676",
+		"name": "nickhidersinjector",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d4b2e1a7-c3f5-4853-a2a6-9f327ba3e569": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1]Player Name Tag Hider[/h1]\r\n\r\nVery simple, this  hides player nametag's, but keeps your chrosshair and hotbar on screen, this can be useful for stuff like tank battles, hide and seek/manhunt etc.\r\n\r\nAny bugs, feel free to let me know in the comments\r\n\r\n[i]A like and a favourite would also be greatly appreciated[/i]👍\r\n\r\n[b]Hope you enjoy![/b]",
+		"fileId": 3754500205,
+		"localId": "d4b2e1a7-c3f5-4853-a2a6-9f327ba3e569",
+		"name": "skidd",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
