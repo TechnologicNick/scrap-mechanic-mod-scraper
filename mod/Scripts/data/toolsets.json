@@ -7362,7 +7362,11 @@
 	"a85a9360-c031-44da-8754-74873d88c52f": {},
 	"7b4eecc7-a707-4937-a9c9-3e2047e1ef76": {},
 	"b1442a40-8a35-4b8b-a840-2bf1a3f245e0": {},
-	"115c1e15-ee2f-47aa-9710-953f289fa485": {},
+	"115c1e15-ee2f-47aa-9710-953f289fa485": {
+		"$CONTENT_115c1e15-ee2f-47aa-9710-953f289fa485/Tools/Database/ToolSets/uap_tools.toolset": [
+			"bb6ec976-e106-4d83-a1ed-d8a871abdfb0"
+		]
+	},
 	"2cae007f-16a6-4a62-9364-e85fd2165572": {},
 	"2ef2d606-15c4-48b8-9edb-376de95b3672": {},
 	"c73f7f43-bbaa-415b-80cd-b7ede03a5894": {},
