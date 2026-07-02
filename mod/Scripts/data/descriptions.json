@@ -45605,7 +45605,7 @@
 				"name": "at2sm"
 			}
 		],
-		"description": "[h2]NOT A FILE MOD[/h2]\r\nThis mod extends the size of default worlds.\r\n\r\nIt does not work with custom worlds or custom game modes.\r\n\r\nIt only affects [b]new worlds[/b][i](existing saves will not be expanded)[/i].\r\n\r\n[h2]If you disable this mod, you will not be able to enter the world.[/h2]",
+		"description": "[h2]NOT A FILE MOD[/h2]\r\n\r\nChanged the entry point on [code]sm.game.bindChatCommand[/code]\r\n\r\nThis mod extends the size of default worlds.\r\n\r\nIt does not work with custom worlds or custom game modes.\r\n\r\nIt only affects [b]new worlds[/b][i](existing saves will not be expanded)[/i].\r\n\r\n[h2]If you disable this mod, you will not be able to enter the world.[/h2]",
 		"fileId": 3607187014,
 		"localId": "95302406-dc90-45dd-bed9-06d7cb586eee",
 		"name": "World Extender",
