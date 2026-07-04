@@ -47480,7 +47480,7 @@
 	"146ddef8-b0d8-45b6-9152-ce02df7cfd8a": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "мод находится в разработке, но в дальнейшем будут еженедельные обновления\r\n\r\nнаш сервер https://discord.gg/Pm9r5BgGmT \r\nдля дальнейших новостей",
+		"description": "мод находится в разработке, но в дальнейшем будут выходить обновления\r\n\r\n[img]https://cdn.discordapp.com/attachments/1028577563007791185/1520685080794890250/zi1.png?ex=6a4217d8&is=6a40c658&hm=6c5cdc8a59b7060a9aab8312d46e7672ff4c0a463d6bb07ade401a58f1c7b141&[/img]\r\n\r\nнаш сервер https://discord.gg/Pm9r5BgGmT \r\nдля дальнейших новостей",
 		"fileId": 3704580881,
 		"localId": "146ddef8-b0d8-45b6-9152-ce02df7cfd8a",
 		"name": "Zombie Infernum",
@@ -48580,5 +48580,25 @@
 		"name": "Refine Changes",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"f29654b2-1acf-4318-819d-dc6b803bef6a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "chapter 2 tomorrow ",
+		"fileId": 3756810421,
+		"localId": "f29654b2-1acf-4318-819d-dc6b803bef6a",
+		"name": "Chapter 2 Tomorrow",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"d0bfa04f-c27b-4637-a59f-4f7703d110fd": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod exposes an interface for my custom software to allow real time LUA syntaxing and auto complete.\n\nHOW TO USE\n1) Have the mod installed and enabled\n\n2) Place down a single Mug / invisible object thingy from said mod. (I need to make it work without it but idk how to do this lua stuff)\n\n3) Place down / spawn in your Computer\n\n4a) Run my before mensioned custom software\n\n4b) If you have multiple computers, you will need to enter its ID in the terminal",
+		"fileId": 3757108567,
+		"localId": "d0bfa04f-c27b-4637-a59f-4f7703d110fd",
+		"name": "ScrapComputers External Editor",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
