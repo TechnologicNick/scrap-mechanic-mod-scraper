@@ -1399,5 +1399,10 @@
 	},
 	"c2dfa39d-5a49-4dc5-af21-7dcc1ed6207c": {
 		"$CONTENT_c2dfa39d-5a49-4dc5-af21-7dcc1ed6207c/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"7b4304d5-2b5c-4967-8001-1d3846dab8a9": {
+		"$CONTENT_7b4304d5-2b5c-4967-8001-1d3846dab8a9/ScriptableObjects/ScriptableObjectSets/managers.sobset": [
+			"cb5871ae-c677-4480-94e9-31d16899d093"
+		]
 	}
 }
