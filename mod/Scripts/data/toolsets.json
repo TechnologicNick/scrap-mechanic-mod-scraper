@@ -7708,5 +7708,8 @@
 		"$CONTENT_c645b8ff-be98-4005-b2cc-becd66f552d6/Tools/Database/ToolSets/LegendTools.toolset": [
 			"7e577af9-94d9-4857-b3ef-ec7552c93753"
 		]
+	},
+	"2e6ae6d9-e069-4bde-829e-50887823f5a3": {
+		"$CONTENT_2e6ae6d9-e069-4bde-829e-50887823f5a3/Tools/Database/ToolSets/example.toolset": []
 	}
 }

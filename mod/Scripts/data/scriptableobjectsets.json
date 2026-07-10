@@ -1404,5 +1404,8 @@
 		"$CONTENT_7b4304d5-2b5c-4967-8001-1d3846dab8a9/ScriptableObjects/ScriptableObjectSets/managers.sobset": [
 			"cb5871ae-c677-4480-94e9-31d16899d093"
 		]
+	},
+	"2e6ae6d9-e069-4bde-829e-50887823f5a3": {
+		"$CONTENT_2e6ae6d9-e069-4bde-829e-50887823f5a3/ScriptableObjects/ScriptableObjectSets/example.sobset": []
 	}
 }
