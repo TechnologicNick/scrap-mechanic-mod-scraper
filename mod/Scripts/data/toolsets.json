@@ -4386,7 +4386,8 @@
 	"3ef2751c-fe9e-4950-8a07-313b8b29feff": {},
 	"e8d9c47d-8029-4441-b662-95ef4ccd55be": {
 		"$CONTENT_e8d9c47d-8029-4441-b662-95ef4ccd55be/Tools/Database/ToolSets/tools.toolset": [
-			"a287092e-06c4-4dcf-8166-2224c251f47c"
+			"a287092e-06c4-4dcf-8166-2224c251f47c",
+			"8cef2bc5-e57f-4068-85a6-0082601dc2e5"
 		]
 	},
 	"848468a4-769d-4737-a1c4-8c7770092ce9": {},
@@ -6059,7 +6060,11 @@
 	"0271c8f8-aecf-4909-8bb4-028abd73470a": {},
 	"e5944fdc-8f94-4994-b090-41fe211841ad": {},
 	"5d955a94-d05a-4382-b6b8-a5e2e3256316": {},
-	"a593dac3-bf08-457c-af04-937f964fcc26": {},
+	"a593dac3-bf08-457c-af04-937f964fcc26": {
+		"$CONTENT_a593dac3-bf08-457c-af04-937f964fcc26/Tools/Database/ToolSets/tools.toolset": [
+			"349327e3-a93a-425f-8d00-01dc45a9adb6"
+		]
+	},
 	"01816d7d-d2c6-4b3d-b13b-c32a723e495c": {
 		"$CONTENT_01816d7d-d2c6-4b3d-b13b-c32a723e495c/Tools/Database/ToolSets/radiostation.toolset": [
 			"d24077f8-0572-40c6-8fec-ed2c7aec2df5"
