@@ -48637,12 +48637,23 @@
 	},
 	"2e6ae6d9-e069-4bde-829e-50887823f5a3": {
 		"allow_add_mods": true,
+		"author": "ElMonteiro",
 		"custom_icons": false,
-		"description": "[h1]Simple Survival Balanced[/h1]\r\n\r\nA balanced version of Scrap Mechanic Survival for players who want a smoother experience without making the game too easy.\r\n\r\n[h2]What Was Changed[/h2]\r\n\r\n[list]\r\n[*]Slightly improved loot from chests\r\n[*]Slightly improved loot from mobs\r\n[*]Increased harvesting yield\r\n[*]Larger inventory capacity\r\n[*]Faster crafting machines\r\n[*]Increased item stack sizes, with many items stacking up to 500\r\n[*]Improved quality of life for farming, looting, crafting, and inventory management\r\n[/list]\r\n\r\n[h2]Goal[/h2]\r\n\r\nThe goal of this mod is to reduce some of the grind while still keeping progression meaningful and enjoyable.\r\n\r\nThe game is easier than vanilla, but combat is still meant to be challenging. Enemies should still feel dangerous, especially if you are careless or unprepared.\r\n\r\n[h2]Latest Update[/h2]\r\n\r\n[list]\r\n[*]Added larger stack sizes for many items\r\n[*]Improved inventory management\r\n[*]Kept the survival experience balanced and not overpowered\r\n[/list]\r\n\r\n[h2]Future Updates[/h2]\r\n\r\nI will try to update this mod whenever I have free time.\r\n\r\n[h2]Feedback[/h2]\r\n\r\nI am open to suggestions, balance ideas, and feedback.\r\n\r\nIf you find any bugs, problems, or something that feels unbalanced, feel free to leave a comment so I can take a look when possible.\r\n\r\n[b]Thank you for playing![/b]",
+		"description": "[h1]Simple Survival Balanced[/h1]\r\n\r\nA balanced version of Scrap Mechanic Survival for players who want a smoother experience without making the game too easy.\r\n\r\nThis mod reduces some of the grind while keeping progression meaningful, survival enjoyable, and combat still challenging.\r\n\r\n[h2]What Was Changed[/h2]\r\n\r\n[list]\r\n[*]Slightly improved loot from chests\r\n[*]Improved loot from mobs\r\n[*]Component Kits and Circuit Boards from mobs now drop in larger amounts\r\n[*]Increased harvesting yield\r\n[*]Increased yield from several collectables, such as beeswax, corn, crude oil, slimy clams, cotton, and flowers\r\n[*]Larger inventory capacity\r\n[*]Faster crafting machines\r\n[*]Increased item stack sizes, with many items stacking up to 500\r\n[*]Improved quality of life for farming, looting, crafting, and inventory management\r\n[/list]\r\n\r\n[h2]Balance Goal[/h2]\r\n\r\nThe goal of this mod is to make Survival less grindy without removing the need to explore, fight, farm, craft, and progress.\r\n\r\nThe game is easier than vanilla, but combat is still meant to be challenging. Enemies should still feel dangerous, especially if you are careless or unprepared.\r\n\r\n[h2]Latest Updates[/h2]\r\n\r\n[list]\r\n[*]Added larger stack sizes for many items\r\n[*]Improved inventory management\r\n[*]Improved several collectable yields\r\n[*]Improved mob drops for Component Kits and Circuit Boards\r\n[*]Kept the experience balanced without making the game overpowered\r\n[/list]\r\n\r\n[h2]Planned Improvements[/h2]\r\n\r\n[list]\r\n[*]Working on increasing chest/storage sizes\r\n[*]More balance changes may be added based on testing and feedback\r\n[/list]\r\n\r\n[h2]Future Updates[/h2]\r\n\r\nI will try to update this mod whenever I have free time.\r\n\r\nThis is a hobby project, so updates may not be immediate, but I will keep improving it when possible.\r\n\r\n[h2]Feedback[/h2]\r\n\r\nI am open to suggestions, balance ideas, and feedback.\r\n\r\nIf you find any bugs, problems, or something that feels unbalanced, feel free to leave a comment so I can take a look when possible.\r\n\r\n[h2]Important[/h2]\r\n\r\nIf the latest update does not appear in your game, you may need to unsubscribe and subscribe again to the mod.\r\n\r\nI am not sure why this happens, but it can help force Steam to download the newest version.\r\n\r\nIf you enjoy the mod, please consider rating it with a thumbs up. It helps the mod reach more players.\r\n\r\nThank you!\r\n\r\n[b]Thank you for playing![/b]",
 		"fileId": 3761719662,
 		"localId": "2e6ae6d9-e069-4bde-829e-50887823f5a3",
 		"name": "Rebalanced Survival",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"d36c9407-ae21-4ab8-936c-44d70681bd4e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Radar Mod Test",
+		"fileId": 3565140247,
+		"localId": "d36c9407-ae21-4ab8-936c-44d70681bd4e",
+		"name": "Radar Test Mod",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
