@@ -48655,5 +48655,15 @@
 		"name": "Radar Test Mod",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"200bb5d1-3c48-4877-914a-7cf64bf3b0ec": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "it will play alarm on 0:00 24/07/26\r\nalso it has logic signal on alarm, so u can made ur own celebrate effect",
+		"fileId": 3764825851,
+		"localId": "200bb5d1-3c48-4877-914a-7cf64bf3b0ec",
+		"name": "Chapter 2 Alarm Clock",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
