@@ -48676,5 +48676,15 @@
 		"name": "txt test",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"dba7b05a-bd7c-4c47-99b2-5919c6d6d73a": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "It's a mod with many useful blocks and parts for 3D printing",
+		"fileId": 3766309818,
+		"localId": "dba7b05a-bd7c-4c47-99b2-5919c6d6d73a",
+		"name": "Support Material",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
