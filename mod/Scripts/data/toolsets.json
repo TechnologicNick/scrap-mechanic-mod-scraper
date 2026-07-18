@@ -7108,6 +7108,7 @@
 		"$CONTENT_9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4/Tools/Database/ToolSets/tools.toolset": [
 			"b73aaa9b-9d5d-4ab7-adea-35fb254069c6",
 			"de29d3a2-269b-4dd0-a1dd-136cc5f8f249",
+			"2dcceb67-0299-4ea7-a8d5-53f9736fbe3c",
 			"7bd4ce42-8412-43c0-a88d-0d1f89b683cc",
 			"6c2f5617-8800-47ab-a753-aeba2dc59285"
 		]
@@ -7720,5 +7721,6 @@
 	"d36c9407-ae21-4ab8-936c-44d70681bd4e": {},
 	"200bb5d1-3c48-4877-914a-7cf64bf3b0ec": {},
 	"9fb3a529-ac47-4f06-be82-6e498fad5fbc": {},
-	"dba7b05a-bd7c-4c47-99b2-5919c6d6d73a": {}
+	"dba7b05a-bd7c-4c47-99b2-5919c6d6d73a": {},
+	"2fb36c9d-155d-4244-a121-809b5b323ffb": {}
 }
