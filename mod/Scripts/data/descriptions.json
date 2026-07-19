@@ -46787,7 +46787,7 @@
 	},
 	"3a9e1309-731d-43de-b6e0-c5f0ab32470a": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "Some parts by Shark'o'tron\r\n\r\nIn progress, wait for updates",
 		"fileId": 3600124393,
 		"localId": "3a9e1309-731d-43de-b6e0-c5f0ab32470a",
