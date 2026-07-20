@@ -48706,5 +48706,15 @@
 		"name": "Chunk loader(Renew)",
 		"type": "Blocks and Parts",
 		"version": 1
+	},
+	"81844e4d-8496-41f1-a787-4b989f9f9f7f": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Tweaked version of the Improved Bedwars Custom Game.\r\n\r\nCommands:\r\n- /tp Teleport players and tp to players\r\n- /friendlyfire You can toggle friendly fire (on by default)\r\n- /kill Makes you respawn in 15 seconds (to avoid soft lockings). Also logs this action into the global chat.\r\n- /day: works just like in creative!\r\n- /night: works just like in creative!\r\n\r\nShop additions:\r\n- Gas Container\r\n- Off-Road Suspension\r\n- Square Mesh Block\r\n- Large Rectangular Window\r\n\r\nShop changes:\r\n- Framework block costs 99 glow\r\n\r\nFixes:\r\n- Unused beds now break when the game starts\r\n\r\nFuture plans:\r\n- All maps contain lights for night mode\r\n- Lights and lamps for the shop\r\n- More maps\r\n- Fourth currency + TEAM UPGRADES\r\n\r\n\r\nOriginal custom game: https://steamcommunity.com/sharedfiles/filedetails/?id=2870930089\r\nOriginal improved game: https://steamcommunity.com/sharedfiles/filedetails/?id=2996323205",
+		"fileId": 3394564302,
+		"localId": "81844e4d-8496-41f1-a787-4b989f9f9f7f",
+		"name": "Tweaked Bedwars Custom Game [V3 REWORK]",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
