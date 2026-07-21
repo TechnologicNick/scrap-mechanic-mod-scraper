@@ -7742,5 +7742,11 @@
 			"e80ba787-2580-4f8d-b7f5-72cda9572932",
 			"7ecad398-7f3a-4422-8d17-7e0ed45ebcfa"
 		]
-	}
+	},
+	"e0984429-1af9-44da-9e19-b1f11283a4ac": {
+		"$CONTENT_e0984429-1af9-44da-9e19-b1f11283a4ac/Tools/Database/ToolSets/tools.toolset": [
+			"1c2c4d52-0b02-4d37-a3e8-313ba8f2487b"
+		]
+	},
+	"c4a909d9-9e43-4a3e-8637-f2e15ec7e652": {}
 }
