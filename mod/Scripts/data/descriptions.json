@@ -48659,7 +48659,7 @@
 	"200bb5d1-3c48-4877-914a-7cf64bf3b0ec": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "it will play alarm on 0:00 24/07/26 (Stockholm UTC+2)\nalso it has logic signal on alarm, so u can made ur own celebrate effect",
+		"description": "it will play alarm on 19:00 24/07/26 (Stockholm UTC+2)\nalso it has logic signal on alarm, so u can made ur own celebrate effect",
 		"fileId": 3764825851,
 		"localId": "200bb5d1-3c48-4877-914a-7cf64bf3b0ec",
 		"name": "Chapter 2 Alarm Clock",
@@ -48680,7 +48680,7 @@
 	"dba7b05a-bd7c-4c47-99b2-5919c6d6d73a": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "It's a mod with many useful blocks and parts for 3D printing.\nAdditions :\n- Support material\n- Support deleter\n- 3D Printing Nozzle",
+		"description": "It's a mod with useful blocks and parts for 3D printing.\r\nAdditions :\r\n- Support Material\r\n- Support Deleter\r\n- 3D Printing Nozzle\r\n\r\nHow to use the nozzle:\r\nConnect a sensor and a logic input into the nozzle.\r\nThe nozzle will print whatever block the sensor is looking at when the input goes high.",
 		"fileId": 3766309818,
 		"localId": "dba7b05a-bd7c-4c47-99b2-5919c6d6d73a",
 		"name": "3D Printing Parts",
@@ -48710,10 +48710,10 @@
 	"81844e4d-8496-41f1-a787-4b989f9f9f7f": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Tweaked version of the Improved Bedwars Custom Game.\r\n\r\nCommands:\r\n- /tp Teleport players and tp to players\r\n- /friendlyfire You can toggle friendly fire (on by default)\r\n- /kill Makes you respawn in 15 seconds (to avoid soft lockings). Also logs this action into the global chat.\r\n- /day: works just like in creative!\r\n- /night: works just like in creative!\r\n\r\nShop additions:\r\n- Gas Container\r\n- Off-Road Suspension\r\n- Square Mesh Block\r\n- Large Rectangular Window\r\n\r\nShop changes:\r\n- Framework block costs 99 glow\r\n\r\nFixes:\r\n- Unused beds now break when the game starts\r\n\r\nFuture plans:\r\n- All maps contain lights for night mode\r\n- Lights and lamps for the shop\r\n- More maps\r\n- Fourth currency + TEAM UPGRADES\r\n\r\n\r\nOriginal custom game: https://steamcommunity.com/sharedfiles/filedetails/?id=2870930089\r\nOriginal improved game: https://steamcommunity.com/sharedfiles/filedetails/?id=2996323205",
+		"description": "Tweaked version of the Improved Bedwars Custom Game.\r\n\r\nWhat's new in v3.0\r\n\r\n- Minecraft-style shop with category tabs and a customizable Quick Buy with three preset slots.\r\n- Team Upgrades: a shop tab paid with Glue Clams, a third currency dropped by the new Clam Generators. Buy Haste, Sharpness, Forge, a bed Trap and the Sunshake Pool for your whole team.\r\n- Generator revamp: glowing models and floating tags with tier, owning team and spawn countdown. Beds claim their nearest generator, timed boosts alternate between Glow and Clam, middle generators speed up over time.\r\n- Bedwars-style scoreboard with live bed status for every team and the next boost countdown.\r\n- Fireball (2 Glow): explodes on impact, deflectable with hammer or spudgun.\r\n- Bridge Egg (4 Glow): builds a walkable plate bridge along its flight path.\r\n- Team selector: /team or the reload key. Shows each team's beds and members, the host starts the game from here.\r\n- Custom map support: convert your own maps and add them with /freeze and /addmap.\r\n- Reworked map selector with tabs, a map grid and photo mode.\r\n- Spectator rework with free and follow modes, and unique names for all 40 paint colors.\r\n\r\nImprovements and fixes:\r\n- Generators start and stop with the game, bed destruction alerts every player.\r\n- Purchases are server-validated, chest steal and item duplication exploits are gone.\r\n- Blocks bought from the shop are breakable, the map itself stays protected.\r\n- /unlimited gives access to everything, map changes are host only.\r\n\r\nCommands: /team, /tp, /friendlyfire, /kill, /freeze, /addmap, /day, /night\r\n\r\nOriginal custom game: https://steamcommunity.com/sharedfiles/filedetails/?id=2870930089\r\nOriginal improved game: https://steamcommunity.com/sharedfiles/filedetails/?id=2996323205",
 		"fileId": 3394564302,
 		"localId": "81844e4d-8496-41f1-a787-4b989f9f9f7f",
-		"name": "Tweaked Bedwars Custom Game [V3 REWORK]",
+		"name": "Tweaked Bedwars Custom Game [V3.1]",
 		"type": "Custom Game",
 		"version": 0
 	},
@@ -48748,7 +48748,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "This mod adds all (i hope) signs of the ISO 7010 to scrap mechanic. they should be placeable on walls. Idk if this will work with ch2 but i don't care that much tbh.",
+		"description": "This mod adds all (i hope) signs of the ISO 7010 to scrap mechanic. I did some rotation shenanigans so the icons are all rotated but if you place them it should work alright. Idk if this will work with ch2 but i don't care that much tbh.",
 		"fileId": 3722398820,
 		"localId": "c4a909d9-9e43-4a3e-8637-f2e15ec7e652",
 		"name": "ISO 7010",
@@ -48762,6 +48762,16 @@
 		"fileId": 3768856027,
 		"localId": "84d8cdf0-6677-4431-bbf9-b22c1f0e9a22",
 		"name": "Leaked Chapter 2 Blocks (NOT HOAX)",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6890018f-4e35-4beb-93bc-e7ed2b2a2d5e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "adds the baby woc to the game",
+		"fileId": 3769887422,
+		"localId": "6890018f-4e35-4beb-93bc-e7ed2b2a2d5e",
+		"name": "baby woc",
 		"type": "Blocks and Parts",
 		"version": 1
 	}
