@@ -32894,7 +32894,7 @@
 		"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
 		"name": "SComputers [Fork]",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"92816666-c290-4813-adcd-42368ffa0ac2": {
 		"allow_add_mods": true,
@@ -37613,12 +37613,12 @@
 	"3906e3b9-b8d9-422b-8206-fbac4679fd83": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "Глупые Штуки которые были сделаны Ромитриксом Дексолем когда ему стало скучно)",
 		"fileId": 3170409302,
 		"localId": "3906e3b9-b8d9-422b-8206-fbac4679fd83",
 		"name": "Dumb Staff Mod",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"e84b6c7d-b5d1-40e3-a37a-32156a4a3267": {
 		"allow_add_mods": true,
@@ -39117,12 +39117,12 @@
 	"a00b887c-c19e-44dd-9653-4c264fe247c6": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Blocks With Health Plus it's a Blocks With Health DLC\r\n\r\n\r\nThis DLC can't work without original Mod\r\n\r\nDiscord (RUS): https://t.ly/8P4tc",
+		"description": "Blocks With Health Plus it's a Blocks With Health Addon\r\n\r\n\r\nThis DLC can't work without original Mod\r\n\r\nDiscord (RUS): https://t.ly/8P4tc",
 		"fileId": 3284091016,
 		"localId": "a00b887c-c19e-44dd-9653-4c264fe247c6",
 		"name": "Blocks With Health Plus",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"d431740f-decf-4c70-902e-2dd7919a6be5": {
 		"allow_add_mods": true,
@@ -41202,12 +41202,12 @@
 	"7a10d694-cc65-413b-a090-c2f69572d3c9": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "# Modern-War-Parts-\nOriginal repository for Scrap Mechanic mod \"[Modern War Parts +]\". All rights reserved.\nMod Description\nRU:\nЭто мод на блоки и детали дополняющие ванильные элементы. Главная цель мода: Мод создан для моего проекта по боям в SM он добавляет детали которые не хватает в ваниле а так же делает данные детали на 9 прочностей для возможности реализации брони.\n\nКто может использовать этот мод?\n Данный мод есть в открытом доступе и вы можете его использовать в обычных целях, НО ЗНАЙТЕ, мы обновляем мод от своей нужды в деталях, в случае если будут какие либо глобальные изменения которые могут существенно заменить детали или их удалить, и ваша постройка перестанет спавниться, мы рекомендуем быть на нашем Дискорд сервере чтобы мы могли вам помочь.\n\nАвторское право:\n Мы категорически запрещаем вам модифицировать наш мод или красть из него детали, скрипты, без нашего разрешения, в случае если мы заметим подобное, ожидайте страйков и возможного суда!\n\nFeedback:\nЕсли вам нужны правки деталей или добавление чего либо нового обращайтесь к нам в Discord!\nDiscord server: https://discord.gg/T8VEJtEMtv\n\nEN:\n\nThis mod introduces blocks and parts that complement vanilla elements. The main goal of the mod: It was created for my SM project to add parts missing in the vanilla game, as well as to give these parts 9 durability levels to make armor implementation possible.\n\nWho Can Use This Mod?\n This mod is publicly available, and you are free to use it for regular purposes. HOWEVER, PLEASE NOTE: we update the mod based on our own need for parts. In the event of global updates that drastically change or remove parts—which might prevent your creation from spawning—we highly recommend joining our Discord server so we can assist you.\n\nCopyright:\n We strictly prohibit modifying our mod or stealing its parts and scripts without our permission. If we detect such actions, expect strikes and potential legal action!\n\nFeedback:\n If you need any part adjustments or want something new to be added, please contact us on Discord!",
+		"description": "# Modern-War-Parts-\r\nOriginal repository for Scrap Mechanic mod \"[Modern War Parts +]\". All rights reserved.\r\nMod Description\r\nRU:\r\nЭто мод на блоки и детали дополняющие ванильные элементы. Главная цель мода: Мод создан для моего проекта по боям в SM он добавляет детали которые не хватает в ваниле а так же делает данные детали на 9 прочностей для возможности реализации брони.\r\n\r\nКто может использовать этот мод?\r\n Данный мод есть в открытом доступе и вы можете его использовать в обычных целях, НО ЗНАЙТЕ, мы обновляем мод от своей нужды в деталях, в случае если будут какие либо глобальные изменения которые могут существенно заменить детали или их удалить, и ваша постройка перестанет спавниться, мы рекомендуем быть на нашем Дискорд сервере чтобы мы могли вам помочь.\r\n\r\nАвторское право:\r\n Мы категорически запрещаем вам модифицировать наш мод или красть из него детали, скрипты, без нашего разрешения, в случае если мы заметим подобное, ожидайте страйков и возможного суда!\r\n\r\nFeedback:\r\nЕсли вам нужны правки деталей или добавление чего либо нового обращайтесь к нам в Discord!\r\nDiscord server: https://discord.gg/T8VEJtEMtv\r\n\r\nEN:\r\n\r\nThis mod introduces blocks and parts that complement vanilla elements. The main goal of the mod: It was created for my SM project to add parts missing in the vanilla game, as well as to give these parts 9 durability levels to make armor implementation possible.\r\n\r\nWho Can Use This Mod?\r\n This mod is publicly available, and you are free to use it for regular purposes. HOWEVER, PLEASE NOTE: we update the mod based on our own need for parts. In the event of global updates that drastically change or remove parts—which might prevent your creation from spawning—we highly recommend joining our Discord server so we can assist you.\r\n\r\nCopyright:\r\n We strictly prohibit modifying our mod or stealing its parts and scripts without our permission. If we detect such actions, expect strikes and potential legal action!\r\n\r\nFeedback:\r\n If you need any part adjustments or want something new to be added, please contact us on Discord!",
 		"fileId": 3306388787,
 		"localId": "7a10d694-cc65-413b-a090-c2f69572d3c9",
 		"name": "Modern War Parts +",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"aedf1412-25ea-46a8-8479-6b19fe0458f0": {
 		"allow_add_mods": true,
@@ -41869,7 +41869,7 @@
 	"962afb13-362f-4b24-8f35-99dfdb10a7b0": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1][url=https://discord.gg/JUDkXbkc2Q]Discord сервер КБ \"РУБЕЖ\" (скоро будут ивенты, заходите)[/url][/h1]\r\n\r\n[h1]Мод создан для личного пользование, творения в которых он используется можете найти по ссылкам ниже.[/h1]\r\n\r\n[h1][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3582505824]Нажмите чтобы перейти на коллекцию техники НАТО[/url][/h1]\r\n[img]https://steamuserimages-a.akamaihd.net/ugc/54707509772356001/A24FC129173C0473C77C95E8AEE5F68114464A0F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img]\r\n\r\n[h1][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3582507114]Нажмите чтобы перейти на коллекцию техники Востока[/url][/h1]",
+		"description": "[h1][url=https://discord.gg/JUDkXbkc2Q]Discord сервер КБ \"РУБЕЖ\" (скоро будут ивенты, заходите)[/url][/h1]\r\n\r\n[h1]Этот мод является дополнением для Scrap Computers, но также включает независимые интерактивные компоненты, которые можно использовать отдельно.\r\n\r\nДокументация находится в разработке и скоро будет опубликована.[/h1]\r\n\r\n[h1][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3582505824]Нажмите чтобы перейти на коллекцию техники НАТО[/url][/h1]\r\n[img]https://steamuserimages-a.akamaihd.net/ugc/54707509772356001/A24FC129173C0473C77C95E8AEE5F68114464A0F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img]\r\n\r\n[h1][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3582507114]Нажмите чтобы перейти на коллекцию техники Востока[/url][/h1]",
 		"fileId": 3412705644,
 		"localId": "962afb13-362f-4b24-8f35-99dfdb10a7b0",
 		"name": "[Shturman_PARTS]",
@@ -43851,12 +43851,12 @@
 	"21a8cf65-ae90-49d0-b68f-bfe9b295768e": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod doesn't have a description",
+		"description": "Mod Change Vanilla Water Dispenser, Water Dispenser Tank, and Mug Holder to their working analog",
 		"fileId": 3505236345,
 		"localId": "21a8cf65-ae90-49d0-b68f-bfe9b295768e",
 		"name": "Water Tank With Water",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"f4b33e14-c666-4ae1-aa89-14a5ca059feb": {
 		"allow_add_mods": true,
@@ -43891,12 +43891,12 @@
 	"5ca9a49e-7147-475c-82fd-37ccf15cbc9f": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Replace Vanilla Sunshake Vending Machine With his Working Version, \r\n              Press U to Get Access to Storage and E to get one refreshing,\r\n                                                 lovely, naive, fun, cold, sweet, cucumber, tomato, sour, carbonated,\r\n                                                                          spicy, watery, dry, piping hot and a fucking can of SunShake.\r\n\r\n\r\nNow Compatible With Super SunShakes Mod!!!\r\n\r\n\r\n\r\nUse the Enable Survival Player mod to be able to drink SunShakes\r\n\r\n\r\n\r\n\r\nPANKIHOI/bruh/edimdoodimn/2048.03.08/BBTsPrd/2bff990a-0e74-43c7-b7dc-889b3a086fa3/GGEZ/fe878c/Mutenkickenban",
+		"description": "Replace Vanilla Sunshake Vending Machine With his Working Version, \r\n              Press U to Get Access to Storage and E to get one refreshing,\r\n                                                 lovely, naive, fun, cold, sweet, cucumber, tomato, sour, carbonated,\r\n                                                                          spicy, watery, dry, piping hot and a fucking can of SunShake.\r\n\r\n\r\nNow Compatible With Super SunShakes Mod!!!\r\n\r\n\r\nWorks in all kind of custom games!\r\n\r\n\r\nUse the Enable Survival Player mod to be able to drink SunShakes\r\n\r\n\r\n\r\n\r\nPANKIHOI/bruh/edimdoodimn/2048.03.08/BBTsPrd/2bff990a-0e74-43c7-b7dc-889b3a086fa3/GGEZ/fe878c/Mutenkickenban",
 		"fileId": 3508004457,
 		"localId": "5ca9a49e-7147-475c-82fd-37ccf15cbc9f",
 		"name": "Working Vending Machine",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"caf9d62d-8e63-403e-9d0c-6368abb78a60": {
 		"allow_add_mods": true,
@@ -45477,12 +45477,12 @@
 	"b68afc76-6ceb-436d-8ff1-5cbc7400ad73": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "Banners with BBTS",
 		"fileId": 3602190293,
 		"localId": "b68afc76-6ceb-436d-8ff1-5cbc7400ad73",
 		"name": "BlueBerry Team Studio Billboards",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"fad697e9-4fc9-4024-b338-8b670cde3591": {
 		"allow_add_mods": true,
@@ -45589,7 +45589,7 @@
 		"localId": "fc547072-0a17-4cac-a147-eb8a9191bbc3",
 		"name": "SkyDrop Modpack",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"cf009b6e-0fe0-4dfa-bb70-4fea2bfa593b": {
 		"allow_add_mods": true,
@@ -45630,13 +45630,13 @@
 	},
 	"73e08ad2-3916-453e-82bb-f3cabfd21433": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "This mod is intended for my project, Modern War. It can also be used for general purposes.\nЭтот мод предназначен для моего проекта, Modern War. Его также можно использовать в обычных целях.\n\nDiscord server: https://discord.gg/T8VEJtEMtv\n\nEN:\nThe mod is not created for public use. You may use it, but it’s better if you are on our Discord server. In case there are any issues, such as a block you used being removed and your build no longer spawning, we can help you there. We can also provide bug fixes.\nWe strictly forbid using any parts, scripts, or other content from our mod in your own projects! If you need edits to parts or want something new added, please contact us on Discord!\n\nRU:\nМод не создан для общественного использования. Вы можете его использовать, но лучше тогда быть на нашем дискорд сервере. В случае если будут какие-то проблемы в виде удаления блока который вы использовали и из-за этого постройка больше не спавнится, чтоб мы могли вам помочь. Ну и просто могли делать баг-фикс.\n\nМы категорически запрещаем использовать деталей, скриптов и прочего из нашего мода в ваших проектах! Если вам нужны правки деталей или добавление чего либо нового обращайтесь к нам в Discord!\n\nDiscord server: https://discord.gg/T8VEJtEMtv",
+		"custom_icons": true,
+		"description": "This mod is intended for my project, Modern War. It can also be used for general purposes.\r\nЭтот мод предназначен для моего проекта, Modern War. Его также можно использовать в обычных целях.\r\n\r\nDiscord server: https://discord.gg/T8VEJtEMtv\r\n\r\nEN:\r\nThe mod is not created for public use. You may use it, but it’s better if you are on our Discord server. In case there are any issues, such as a block you used being removed and your build no longer spawning, we can help you there. We can also provide bug fixes.\r\nWe strictly forbid using any parts, scripts, or other content from our mod in your own projects! If you need edits to parts or want something new added, please contact us on Discord!\r\n\r\nRU:\r\nМод не создан для общественного использования. Вы можете его использовать, но лучше тогда быть на нашем дискорд сервере. В случае если будут какие-то проблемы в виде удаления блока который вы использовали и из-за этого постройка больше не спавнится, чтоб мы могли вам помочь. Ну и просто могли делать баг-фикс.\r\n\r\nМы категорически запрещаем использовать деталей, скриптов и прочего из нашего мода в ваших проектах! Если вам нужны правки деталей или добавление чего либо нового обращайтесь к нам в Discord!\r\n\r\nDiscord server: https://discord.gg/T8VEJtEMtv",
 		"fileId": 3238521799,
 		"localId": "73e08ad2-3916-453e-82bb-f3cabfd21433",
 		"name": "Modern War Components",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"5a088e1c-2cb4-41ff-b72a-6242fc37d4f3": {
 		"allow_add_mods": true,
@@ -45692,12 +45692,12 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "[b]Fork of the original \"Enable Survival Player\" by Vajdani[/b]\r\n\r\n[b]Original resources:[/b]\r\n[list]\r\n[*] [url=https://github.com/Vajdani/SM-Enable-Survival-Player]GitHub Repository[/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3216708262]Steam Workshop[/url]\r\n[/list]\r\n\r\n[b]Fork resources:[/b]\r\n[list]\r\n[*] [url=https://github.com/hoyvv/SM-Enable-Survival-Player-Update]GitHub Repository[/url]\r\n[/list]\r\n\r\n[i]The original mod is no longer maintained. This fork is updated and maintained by a developer from the Scrap Wars team.[/i]\r\n\r\n[h2]License[/h2]\r\nThis project is licensed under the MIT License.\r\n[b]Copyright notices:[/b]\r\n[list]\r\n[*] Original work: Copyright (c) 2025 Vajdani\r\n[*] Modifications: Copyright (c) 2025 Hoyvv ([url=https://discord.gg/zZ3zDyEMc2]Scrap Wars team[/url])\r\n[/list]\r\n\r\n[hr][/hr]\r\n\r\n[h1]This mod enables survival functionality in creative mode.[/h1]\r\n[i]Tested in multiplayer - use at your own risk in custom game modes.[/i]\r\n\r\nThe mod offers several chat commands to customize your experience.\r\n\r\n[h3]Host-Only Commands[/h3]\r\n[list]\r\n[*] [b]/ammoconsumption[/b] — Toggles whether weapons consume ammunition\r\n[*] [b]/breathloss[/b] — Toggles breath loss underwater\r\n[*] [b]/clearinventories[/b] — Clears all items from all players' inventories\r\n[*] [b]/clearteamspawn[/b] — Clears the spawn point for a team\r\n[*] [b]/collisiondamage[/b] — Toggles whether you can take damage from collisions\r\n[*] [b]/collisiontumble[/b] — Toggles whether you can tumble from collisions\r\n[*] [b]/createteam[/b] — Creates a team with a name and color (optional)\r\n[*] [b]/creativeinventory[/b] — Toggles the creative inventory\r\n[*] [b]/deleteteam[/b] — Deletes a team\r\n[*] [b]/dropitems[/b] — Whether players drop death bags after dying\r\n[*] [b]/friendlyfire[/b] — Toggles friendly fire\r\n[*] [b]/godmode[/b] — Toggles god mode\r\n[*] [b]/healthreg[/b] — Toggles health regeneration\r\n[*] [b]/hunger[/b] — Toggles hunger\r\n[*] [b]/loadpreset[/b] — Loads settings by the preset name\r\n[*] [b]/displaynames[/b] — Sets the display mode of player names ([i]1 — all / 2 — team / 3 — none[/i])\r\n[*] [b]/pvp[/b] — Enables player vs. player mode\r\n[*] [b]/renameteam[/b] — Renames an existing team to a new name\r\n[*] [b]/respawnstats[/b] — Sets start HP, thirst, and hunger\r\n[*] [b]/savepreset[/b] — Saves the current settings by name\r\n[*] [b]/respawncooldown[/b] — Sets the respawn cooldown\r\n[*] [b]/setteamspawn[/b] — Sets a specific spawn point for a team\r\n[*] [b]/thirst[/b] — Toggles thirst\r\n[*] [b]/unseatondamage[/b] — Sets whether the player gets unseated upon receiving damage\r\n[*] [b]/tod[/b] — Sets the time of day\r\n[*] [b]/inventorysize[/b] — Sets the inventory size for all players (with limited inventory only)\r\n[/list]\r\n\r\n[h3]Commands Usable by Everyone[/h3]\r\n[list]\r\n[*] [b]/clearspawn[/b] — Clears your personal spawn point\r\n[*] [b]/clearteam[/b] — Clears your team\r\n[*] [b]/kill[/b] — Kills the player character instantly\r\n[*] [b]/listteams[/b] — Lists all current teams in the chat\r\n[*] [b]/listplayers[/b] — Lists all players\r\n[*] [b]/setspawn[/b] — Sets your personal spawn point (takes priority over beds)\r\n[*] [b]/setteam[/b] — Sets your team\r\n[*] [b]/tp[/b] — Teleport to player by name (partial names accepted, but must be unique)\r\n[/list]\r\n",
+		"description": "[h1]Enable Survival Player Updated[/h1]\r\n\r\n[b]Fork of the original \"Enable Survival Player\" by Vajdani[/b]\r\n\r\n[h2]Mod Features[/h2]\r\n[list]\r\n[*][b]Stable performance:[/b] Enjoy a smooth and reliable experience.\r\n[*][b]Open Source:[/b] The code is completely open and distributed under the MIT License.\r\n[*][b]Optimized:[/b] Code is written with performance in mind to prevent lag.\r\n[*][b]Constant updates:[/b] Actively maintained with regular updates.\r\n[/list]\r\n\r\n[h2]Recommendations[/h2]\r\n[list]\r\n[*]If something is not working correctly, please try reinstalling the mod first. If the issue persists, write about it in the discussions section under the mod.\r\n[*]Please read the description carefully before playing.\r\n[/list]\r\n\r\n[h2]Description[/h2]\r\nThis mod enables survival functionality in creative mode. Tested in multiplayer — use at your own risk in custom game modes. The mod offers several chat commands to customize your experience.\r\n[i]The original mod is no longer maintained. This fork is updated and maintained by a developer from the ([url=https://discord.gg/zZ3zDyEMc2]Scrap Wars team.[/url])[/i]\r\n\r\n[h2]Original Resources[/h2]\r\n[list]\r\n[*][url=https://github.com/Vajdani/SM-Enable-Survival-Player]GitHub Repository[/url]\r\n[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3216708262]Steam Workshop[/url]\r\n[/list]\r\n\r\n[h2]Fork Resources[/h2]\r\n[list]\r\n[*][url=https://github.com/hoyvv/SM-Enable-Survival-Player-Updated]GitHub Repository[/url]\r\n[/list]\r\n\r\n[h2]License[/h2]\r\nThis project is licensed under the [b]MIT License[/b]. See the LICENSE file for details.\r\n[list]\r\n[*]Original work: Copyright © 2025 Vajdani\r\n[*]Modifications: Copyright © 2025–present Hoyvv\r\n[/list]\r\n\r\n[h2]Commands[/h2]\r\n\r\n[b]Host-Only Commands[/b]\r\n\r\n[table]\r\n[tr]\r\n[th]Command[/th]\r\n[th]Description[/th]\r\n[/tr]\r\n[tr][td][b]/ammoconsumption[/b][/td][td]Toggles whether weapons consume ammunition[/td][/tr]\r\n[tr][td][b]/breathloss[/b][/td][td]Toggles breath loss underwater[/td][/tr]\r\n[tr][td][b]/clearinventories[/b][/td][td]Clears all items from all players' inventories[/td][/tr]\r\n[tr][td][b]/clearteamspawn[/b][/td][td]Clears the spawn point for a team[/td][/tr]\r\n[tr][td][b]/collisiondamage[/b][/td][td]Toggles whether you can take damage from collisions[/td][/tr]\r\n[tr][td][b]/collisiontumble[/b][/td][td]Toggles whether you can tumble from collisions[/td][/tr]\r\n[tr][td][b]/createteam[/b][/td][td]Creates a team with a name and color (optional)[/td][/tr]\r\n[tr][td][b]/creativeinventory[/b][/td][td]Toggles the creative inventory[/td][/tr]\r\n[tr][td][b]/deleteteam[/b][/td][td]Deletes a team[/td][/tr]\r\n[tr][td][b]/dropitems[/b][/td][td]Whether players drop death bags after dying[/td][/tr]\r\n[tr][td][b]/friendlyfire[/b][/td][td]Toggles friendly fire[/td][/tr]\r\n[tr][td][b]/godmode[/b][/td][td]Toggles god mode[/td][/tr]\r\n[tr][td][b]/healthreg[/b][/td][td]Toggles health regeneration[/td][/tr]\r\n[tr][td][b]/hunger[/b][/td][td]Toggles hunger[/td][/tr]\r\n[tr][td][b]/loadpreset[/b][/td][td]Loads settings by the preset name[/td][/tr]\r\n[tr][td][b]/displaynames[/b][/td][td]Sets the display mode of player names for all players ([b]1[/b] — all / [b]2[/b] — team / [b]3[/b] — none)[/td][/tr]\r\n[tr][td][b]/pvp[/b][/td][td]Enables player vs. player mode — players can hurt each other[/td][/tr]\r\n[tr][td][b]/renameteam[/b][/td][td]Renames an existing team to a new name[/td][/tr]\r\n[tr][td][b]/respawnstats[/b][/td][td]Sets start HP, thirst, and hunger[/td][/tr]\r\n[tr][td][b]/savepreset[/b][/td][td]Saves the current settings by name[/td][/tr]\r\n[tr][td][b]/respawncooldown[/b][/td][td]Sets the respawn cooldown[/td][/tr]\r\n[tr][td][b]/setteamspawn[/b][/td][td]Sets a specific spawn point for a team[/td][/tr]\r\n[tr][td][b]/thirst[/b][/td][td]Toggles thirst[/td][/tr]\r\n[tr][td][b]/unseatondamage[/b][/td][td]Sets whether the player gets unseated upon receiving damage[/td][/tr]\r\n[tr][td][b]/tod[/b][/td][td]Sets the time of day[/td][/tr]\r\n[tr][td][b]/inventorysize[/b][/td][td]Sets the inventory size for all players (with limited inventory only)[/td][/tr]\r\n[/table]\r\n\r\n[b]Commands Usable by Everyone[/b]\r\n\r\n[table]\r\n[tr]\r\n[th]Command[/th]\r\n[th]Description[/th]\r\n[/tr]\r\n[tr][td][b]/clearspawn[/b][/td][td]Clears your personal spawn point[/td][/tr]\r\n[tr][td][b]/clearteam[/b][/td][td]Clears your team[/td][/tr]\r\n[tr][td][b]/kill[/b][/td][td]Kills the player character instantly[/td][/tr]\r\n[tr][td][b]/listteams[/b][/td][td]Lists all current teams in the chat[/td][/tr]\r\n[tr][td][b]/listplayers[/b][/td][td]Lists all players[/td][/tr]\r\n[tr][td][b]/setspawn[/b][/td][td]Sets your personal spawn point (takes priority over beds)[/td][/tr]\r\n[tr][td][b]/setteam[/b][/td][td]Sets your team[/td][/tr]\r\n[tr][td][b]/tp[/b][/td][td]Teleport to player by name (partial names accepted, but must be unique)[/td][/tr]\r\n[/table]\r\n",
 		"fileId": 3606770610,
 		"localId": "24fc65a7-e1aa-4b66-86bc-d8229df53981",
 		"name": "Enable Survival Player Updated",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"93825f32-6eff-453c-9a8a-c616c85b91ab": {
 		"allow_add_mods": true,
@@ -46603,7 +46603,7 @@
 		"localId": "4d7abc15-7ca3-4f87-8f50-0891c68e6eec",
 		"name": "DriveShaft - 传动轴",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"ef9a3420-46fd-460a-a7c6-6d80ebd3095b": {
 		"allow_add_mods": true,
@@ -47141,7 +47141,7 @@
 		"localId": "744a45e2-9a23-4d29-9c10-645449efe671",
 		"name": "BFS Crafting Recipes [BBTS]",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"480b1b89-1089-406f-8c94-fbcd92bcdac5": {
 		"allow_add_mods": true,
@@ -47234,7 +47234,7 @@
 		"localId": "2c61e2db-5c48-40a4-a0af-03c36be91298",
 		"name": "Gestures Mod",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"0721f9de-af06-4b28-bc29-cecd5f044943": {
 		"allow_add_mods": true,
@@ -47420,7 +47420,7 @@
 		"localId": "115c1e15-ee2f-47aa-9710-953f289fa485",
 		"name": "Universal Accessory Pack",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"2cae007f-16a6-4a62-9364-e85fd2165572": {
 		"allow_add_mods": true,
@@ -48675,13 +48675,13 @@
 	},
 	"dba7b05a-bd7c-4c47-99b2-5919c6d6d73a": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "It's a mod with useful blocks and parts for 3D printing.\r\nAdditions :\r\n- Support Material\r\n- Support Deleter\r\n- 3D Printing Nozzle\r\n\r\nHow to use the nozzle:\r\nConnect a sensor and a logic input into the nozzle.\r\nThe nozzle will print whatever block the sensor is looking at when the input goes high.",
+		"custom_icons": true,
+		"description": "It's a mod with useful blocks and parts for 3D printing.Additions :- Support Material- Support Deleter- Alternate Support Deleter- 3D Printing NozzlePaint the support block black for it to be immune to deletion.How to use the nozzle:Connect a sensor and a logic input into the nozzle.The nozzle will print whatever block the sensor is looking at when the input goes high.",
 		"fileId": 3766309818,
 		"localId": "dba7b05a-bd7c-4c47-99b2-5919c6d6d73a",
 		"name": "3D Printing Parts",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"2fb36c9d-155d-4244-a121-809b5b323ffb": {
 		"allow_add_mods": true,
@@ -48804,7 +48804,7 @@
 	"2aa0bc3e-75ec-4b6e-840d-73910c332d50": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "A complete wireless logic system! Features 10 color-coded Wi-fi Remotes, each with 5 input modes (LBM, RBM, Q, R, F). Just paint the Universal Receiver block to match your remote's color and instantly link them on dedicated wireless channels.",
+		"description": "A complete wireless logic tools! Features 10 color-coded Wi-fi Remotes, each with 5 input modes (LBM, RBM, Q, R, F). Just paint the Universal Receiver block to match your remote's color and instantly link them on dedicated wireless channels.",
 		"fileId": 3770265505,
 		"localId": "2aa0bc3e-75ec-4b6e-840d-73910c332d50",
 		"name": "Color-Coded Wi-fi Remotes",
