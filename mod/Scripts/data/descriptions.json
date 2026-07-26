@@ -30703,12 +30703,12 @@
 	"1bb77134-bc45-4fdf-9883-3f840c6a22ba": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This Mod Adds the Hoverpads from my Main Fant Mod as a Seperate Mod.\r\n\r\nCurrent Content:\r\n-Hoverpad 1x1x1\r\n-Hoverpad 2x2x1\r\n-Hoverpad 3x3x1\r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\n[h1]No Permission To use anything Out of this Mod in other Mods[/h1]\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This Mod Adds the Hoverpads from my Main Fant Mod as a Seperate Mod.\r\n\r\nCurrent Content:\r\n-Hoverpad 1x1x1\r\n-Hoverpad 2x2x1\r\n-Hoverpad 3x3x1\r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\n[h1]No Permission To use anything Out of this Mod in other Mods[/h1]\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2889302101,
 		"localId": "1bb77134-bc45-4fdf-9883-3f840c6a22ba",
 		"name": "Hoverpads",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"4649a444-621f-4595-90ba-908ae8301445": {
 		"allow_add_mods": true,
@@ -31037,7 +31037,7 @@
 		"localId": "b34d8a4a-6b26-45f4-857b-5dcd322e2e52",
 		"name": "Vacuum Gun",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"91c4e621-c1f6-4966-b658-7009277442a2": {
 		"allow_add_mods": true,
@@ -31867,12 +31867,12 @@
 	"c5454ea4-7709-4261-aed2-1360ec1944af": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds a Jetpack. \r\n\r\nLeft or Right Click to Activate it.\r\nIn Survival / Without Unlimited you will need to have GAS in ur Inventory!\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This mod adds a Jetpack. \r\n\r\nLeft or Right Click to Activate it.\r\nIn Survival / Without Unlimited you will need to have GAS in ur Inventory!\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2919540338,
 		"localId": "c5454ea4-7709-4261-aed2-1360ec1944af",
 		"name": "Jetpack",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"0a923245-6f73-45c3-97e3-f0efd19e3d49": {
 		"description": "Includes random parts and random things for NorthernLightz_'s projects.\n",
@@ -32824,7 +32824,7 @@
 		"localId": "990d2f1b-deb3-4c03-ac9c-63df8eeded6e",
 		"name": "Fants Logic Stuff",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"0a1eae23-1e16-42dc-ac4f-5b99d29cbbf5": {
 		"allow_add_mods": true,
@@ -32915,7 +32915,7 @@
 		"localId": "c76c1b15-b535-4aa0-9113-65965c78f148",
 		"name": "Fants Propulsion Stuff",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"43a593be-676b-40fd-a5d4-167c7da7396b": {
 		"allow_add_mods": true,
@@ -33277,7 +33277,7 @@
 		"localId": "61d4b3e3-c5f7-454c-87fb-7a0fff5d91d0",
 		"name": "Fants Pipes Container Pumps Recycler",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"884e88ba-5951-4160-9467-c1a9ad4cd097": {
 		"allow_add_mods": true,
@@ -33879,7 +33879,7 @@
 		"localId": "d70c075f-112e-4180-a65b-1c8ef14483de",
 		"name": "What The Fork",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"4496537a-6592-49bd-a7e7-179b687bd588": {
 		"allow_add_mods": true,
@@ -34375,7 +34375,7 @@
 		"localId": "8dce5730-a409-4340-9c0e-210109460136",
 		"name": "Unit Facer",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"dca1454d-fe28-4a1e-a810-99e6c16171d2": {
 		"allow_add_mods": true,
@@ -34714,22 +34714,22 @@
 	"8894ba1d-8f88-424d-8820-d4e985df2893": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod Adds from my Main Fant Mod the Grinder that can Mine Rocks and Trees in 3 Differnt Sizes. 1x1, 3x1 and 5x1",
+		"description": "This mod Adds from my Main Fant Mod the Grinder.\r\nThey can Mine Rocks and Trees in 3 Differnt Sizes. \r\n1x1\r\n3x1\r\n5x1\r\n\r\nIMPORTENT!\r\nThis Mod Works Only\r\nIn Creative\r\nOR\r\nIn Custom Gamemode that DO NOT Change the Stone Nodes and Tree Code\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 3011575610,
 		"localId": "8894ba1d-8f88-424d-8820-d4e985df2893",
 		"name": "Fants Grinder",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"6bf89429-f8f0-412b-aa39-8a5d2023f7f1": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds from my Main Fant Mod the Suckomatic as Standalone Mod",
+		"description": "This mod adds from my Main Fant Mod the Suckomatic as Standalone Mod\r\nThe Suckomatic can Grab and Hold Different Type of Objects.\r\n- Creations\r\n- Crates / Farmerballs\r\n- with Unlimited On or in Creative it can Grab Robots, Animals and Player\r\n- Trees and Rocks\r\n...\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 3012082374,
 		"localId": "6bf89429-f8f0-412b-aa39-8a5d2023f7f1",
 		"name": "Fants Suckomatic",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"d0622858-82d3-412d-8c0e-f4eab62bf19e": {
 		"allow_add_mods": true,
@@ -38188,12 +38188,12 @@
 	"c8ab4785-1273-4af2-98b2-5cecec8dbd4f": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds from my Fant Mod the Sun Shake Machine changes into a Seperate Mod. It makes the Sun Shake Machines useable as a Storage that can Display all Items that are in it.",
+		"description": "This mod adds from my Fant Mod the Sun Shake Machine changes into a Seperate Mod. \r\nIt makes the Sun Shake Machines useable as a Storage that can Display all Items that are in it.\r\n\r\nHave fun with it.\r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 3228431919,
 		"localId": "c8ab4785-1273-4af2-98b2-5cecec8dbd4f",
 		"name": "Sun Shake Machine Plus",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"191a4993-4408-4982-b601-0920b3377f72": {
 		"allow_add_mods": true,
@@ -39515,18 +39515,13 @@
 	"ddf48f02-d773-4ff0-b959-3bc451a7a0de": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2504530003,
-				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
-			}
-		],
+		"dependencies": null,
 		"description": "Introducing SM: WAILA - the Scrap Mechanic mod to tell you exactly what you're looking at!\r\n\r\nSM: WAILA adds a handy hud element that shows info about the object you're looking at. \r\n\r\nVarious configuration options now available via the /smwaila command.\r\n\r\nInspired by the WAILA, Jade and HWYLA Minecraft mods.\r\nCredit: the mod is maintained by me, but does use some character images from Scrap Mechanic's Fandom page. The mod also uses ModDB as a dependency to show mod names for modded objects - thank you, TechnologicNick, for this awesome mod!",
 		"fileId": 3302195129,
 		"localId": "ddf48f02-d773-4ff0-b959-3bc451a7a0de",
 		"name": "SMWAILA",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"a1d85fb1-be28-4e59-9242-3061ad25bf44": {
 		"allow_add_mods": true,
@@ -39654,7 +39649,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "[h1]【当前版本】[/h1]\r\nNew Legend Mod [b]4.1.2[/b] - [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3309460746][b]详细更新列表[/b][/url]\r\n\r\n[h1]【关于Mod】[/h1]\r\n[b]请勿同时启用 New Legend Mod 3.2.3 与 New Legend Mod Continuation 4.1.2，二者只能择一启用，否则会引发未知错误！[/b]\r\n\r\n本 Mod 为 New Legend Mod的Continuation 版本，原 Mod 蓝图可直接打开使用，目前处于积极开发阶段，欢迎反馈漏洞。由 [b]中国[/b] 玩家团队 [b]传奇建造队[/b] 制作的综合性建造 Mod，涵盖实用工具、材质方块、几何体、可互动零件、车辆零件、武器、装饰、建筑零件等，可满足绝大部分日常建造需求。已支持中英文物品描述。\r\n\r\n特别感谢 Modpack 作者 Durf 提供的体积优化建议，以及 MJM Mod 提供的开源座椅脚本。\r\n\r\n[h1]【相关Mod与自定义游戏】[/h1]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3111285012]传奇生存自定义游戏[/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3351154765]新传奇地形资产 Mod[/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3345242072]传奇地形资产 Mod备份[/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3347439895]更多炸弹 Mod（非官方补档）[/url]\r\n\r\n[h1]【QQ交流群】[/h1]\r\n传奇建造队 一群 537532878｜二群 158484814｜三群 633703984\r\n\r\n[quote=Nyako]\r\n[h2][b]履带系统（4.1.2）[/b][/h2]\r\n[b]履带生成算法接近生产可用，遇到非预期情况请反馈开发者。[/b]\r\n\r\n基于代码的动态履带渲染与物理模拟系统，可智能识别轮组结构并自动生成履带，支持多种内容自定义。\r\n\r\n[h3][b]三种运行模式[/b][/h3]\r\n[olist]\r\n[*][b]简单[/b]：仅计算轮组外轮廓，不与地形互动。极致优化，适合超大载具、装饰或低配电脑。\r\n[*][b]标准[/b]（默认）：近似模拟履带在地形上的动态，观感与性能的平衡点，适合多数载具。\r\n[*][b]拟真[/b]：真正的物理模拟履带，有重力、惯性、断链等物理效果，性能开销接近标准模式。\r\n[/olist]\r\n\r\n[h3][b]使用方法[/b][/h3]\r\n[olist]\r\n[*]按顺序为同侧轮子连线成闭环（双排轮可Z字形连），中间托带轮可跳过以减少计算量。\r\n[*]放置\"履带控制器\"并连至闭环中任一轮子即可生成。控制器所连轮子决定履带动画参考：连接地面接触轮可模拟摩擦力但动轮会打滑，连接动轮则反之。\r\n[*]默认推荐逆时针连接，顺时针会反转履带朝向；无论坦克哪侧，依当前视角顺/逆时针连即可，不必在意整体方向。\r\n[*]控制器须放置于主车体，切勿放在炮塔等旋转部件上，否则履带会抖动。\r\n[*]履带生成于所有轮子的平均中心点，未对齐时需注意；\"坦克驱动轮2\"因外形为半边动轮，不参与中心点计算。\r\n[*]闭环被打断（轮子损毁、手动断线、控制器拆除）时履带销毁；拟真模式下轮子被打烂后会有掉链子效果。\r\n[*]按交互键打开控制器面板调整模式与外观；老作品可无感升级。\r\n[/olist]\r\n[/quote]\r\n\r\n[quote=APxiaosong]\r\n[h3][b]激光制导[/b][/h3]\r\n[olist]\r\n[*]发射机需设置编码并接开关，开关打开后激光制导模块才可手动切换编码。\r\n[*]激光制导模块被激光编码模块连线时由后者控制编码，编码模块可级联传递。\r\n[*]制导能力需连接开关或逻辑门激活，力度与 WASD 模式同制导模块一致。\r\n[/olist]\r\n\r\n[h3][b]已知问题[/b][/h3]\r\n[olist]\r\n[*]功能异常请先确认存档非老传奇 Mod 所建（新老版本不兼容）。\r\n[*]同一世界内所有摄像机共用 FOV 值。\r\n[*]发现新 Bug 请反馈开发者。\r\n[/olist]\r\n[/quote]",
+		"description": "[h1]【当前版本】[/h1]\r\nNew Legend Mod [b]4.1.2 新版[/b] - [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3309460746][b]详细更新列表[/b][/url]\r\n\r\n[h1]【关于Mod】[/h1]\r\n[b]请勿同时启用 New Legend Mod 3.2.3 与 New Legend Mod Continuation 4.1.2，二者只能择一启用，否则会引发未知错误！[/b]\r\n\r\n本 Mod 为 New Legend Mod的Continuation 版本，原 Mod 蓝图可直接打开使用，目前处于积极开发阶段，欢迎反馈漏洞。由 [b]中国[/b] 玩家团队 [b]传奇建造队[/b] 制作的综合性建造 Mod，涵盖实用工具、材质方块、几何体、可互动零件、车辆零件、武器、装饰、建筑零件等，可满足绝大部分日常建造需求。已支持中英文物品描述。\r\n\r\n特别感谢 Modpack 作者 Durf 提供的体积优化建议，以及 MJM Mod 提供的开源座椅脚本。\r\n\r\n[h1]【相关Mod与自定义游戏】[/h1]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3111285012]传奇生存自定义游戏[/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3351154765]新传奇地形资产 Mod[/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3345242072]传奇地形资产 Mod备份[/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3347439895]更多炸弹 Mod（非官方补档）[/url]\r\n\r\n[h1]【QQ交流群】[/h1]\r\n传奇建造队 一群 537532878｜二群 158484814｜三群 633703984\r\n\r\n[quote=Nyako]\r\n[h2][b]履带系统（4.1.2）[/b][/h2]\r\n[b]履带生成算法接近生产可用，遇到非预期情况请反馈开发者。[/b]\r\n\r\n基于代码的动态履带渲染与物理模拟系统，可智能识别轮组结构并自动生成履带，支持多种内容自定义。\r\n\r\n[h3][b]三种运行模式[/b][/h3]\r\n[olist]\r\n[*][b]简单[/b]：仅计算轮组外轮廓，不与地形互动。极致优化，适合超大载具、装饰或低配电脑。\r\n[*][b]标准[/b]（默认）：近似模拟履带在地形上的动态，观感与性能的平衡点，适合多数载具。\r\n[*][b]拟真[/b]：真正的物理模拟履带，有重力、惯性、断链等物理效果，性能开销接近标准模式。\r\n[/olist]\r\n\r\n[h3][b]使用方法[/b][/h3]\r\n[olist]\r\n[*]按顺序为同侧轮子连线成闭环（双排轮可Z字形连），中间托带轮可跳过以减少计算量。\r\n[*]放置\"履带控制器\"并连至闭环中任一轮子即可生成。控制器所连轮子决定履带动画参考：连接地面接触轮可模拟摩擦力但动轮会打滑，连接动轮则反之。\r\n[*]默认推荐逆时针连接，顺时针会反转履带朝向；无论坦克哪侧，依当前视角顺/逆时针连即可，不必在意整体方向。\r\n[*]控制器须放置于主车体，切勿放在炮塔等旋转部件上，否则履带会抖动。\r\n[*]履带生成于所有轮子的平均中心点，未对齐时需注意；\"坦克驱动轮2\"因外形为半边动轮，不参与中心点计算。\r\n[*]闭环被打断（轮子损毁、手动断线、控制器拆除）时履带销毁；拟真模式下轮子被打烂后会有掉链子效果。\r\n[*]按交互键打开控制器面板调整模式与外观；老作品可无感升级。\r\n[/olist]\r\n[/quote]\r\n\r\n[quote=APxiaosong]\r\n[h3][b]激光制导[/b][/h3]\r\n[olist]\r\n[*]发射机需设置编码并接开关，开关打开后激光制导模块才可手动切换编码。\r\n[*]激光制导模块被激光编码模块连线时由后者控制编码，编码模块可级联传递。\r\n[*]制导能力需连接开关或逻辑门激活，力度与 WASD 模式同制导模块一致。\r\n[/olist]\r\n\r\n[h3][b]已知问题[/b][/h3]\r\n[olist]\r\n[*]功能异常请先确认存档非老传奇 Mod 所建（新老版本不兼容）。\r\n[*]同一世界内所有摄像机共用 FOV 值。\r\n[*]发现新 Bug 请反馈开发者。\r\n[/olist]\r\n[/quote]",
 		"fileId": 3309460746,
 		"localId": "ecdf1eb6-eb77-4149-ae7e-4f0f835c30e8",
 		"name": "New Legend Mod Continuation",
@@ -45232,7 +45227,7 @@
 		"localId": "dbcba1a9-f82c-4275-a456-02e6756fa7d1",
 		"name": "AXiOM",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"4de8d118-22d3-4bcf-9de8-92ac3b2aa68a": {
 		"allow_add_mods": true,
@@ -48828,6 +48823,56 @@
 		"fileId": 3770992794,
 		"localId": "709e8262-2049-4545-9006-3766d45c3773",
 		"name": "Chapter 2 Capsules",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"e8b1c589-8fe4-4f05-8923-6870e2b854a4": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Version 1.0.9 — Updated for Scrap Mechanic 1.0 and Drilling Thunder. Adds regrowing trees and rocks, fixes vacuum pumps, laggy drills and sawblades, and includes additional parts, recipes, tools, storage, and quality-of-life improvements.",
+		"fileId": 2970690456,
+		"localId": "e8b1c589-8fe4-4f05-8923-6870e2b854a4",
+		"name": "LTs Mod",
+		"type": "Custom Game",
+		"version": 1
+	},
+	"6c1d0aa2-c924-4960-b1af-2d17a00e633a": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Plant tree saplings that grow into real trees, and regrow after being chopped down.",
+		"fileId": 3771874239,
+		"localId": "6c1d0aa2-c924-4960-b1af-2d17a00e633a",
+		"name": "Regrowing & Plantable Trees",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"b7ff995f-0c20-4982-92a7-e0e8bedbaab2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3771925635,
+		"localId": "b7ff995f-0c20-4982-92a7-e0e8bedbaab2",
+		"name": "Super Long Sign Messages",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"c3835a7d-fdd0-4c2d-8eb9-b6b093146fb5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "jbbk",
+		"fileId": 3771969152,
+		"localId": "c3835a7d-fdd0-4c2d-8eb9-b6b093146fb5",
+		"name": "Pandemonium Kit",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"1b84268f-1a96-4ec9-9f8c-56f4d1824ef3": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "1022 originale deutsche Verkehrszeichengrafiken in Stadt- und Autobahngröße. V1.3.2 nutzt das im Spiel bestätigte V1.2-Mesh-, Icon- und Kollisionssystem.\n\nMod erstellt von VantaNet - Inoffizielles Fanprojekt – keine Verbindung zu Behörden, SEVAS NRW, Axolot Games oder Valve.\nBei Anzeigefehlern, Beschwerden oder Änderungen, bitte im Steam Workshop melden.\n\nEnthält deutsche Verkehrszeichen in verschiedenen Größen für Scrap Mechanic.\n\nGrafikquelle: SEVAS NRW\nTechnische Umsetzung und 3D-Modelle: VantaNet",
+		"fileId": 3772014497,
+		"localId": "1b84268f-1a96-4ec9-9f8c-56f4d1824ef3",
+		"name": "VantaNet Deutsche Verkehrsschilder V1.3.2",
 		"type": "Blocks and Parts",
 		"version": 2
 	}

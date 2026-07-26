@@ -2709,8 +2709,7 @@
 	"b8b0ab82-44bb-4f00-84f5-6cfbd9bbd070": {},
 	"b34d8a4a-6b26-45f4-857b-5dcd322e2e52": {
 		"$CONTENT_b34d8a4a-6b26-45f4-857b-5dcd322e2e52/Tools/Database/ToolSets/VacuumGun.toolset": [
-			"bcd62b41-db3a-46ba-80fb-ba1cf7475e1a",
-			"b1b4f050-bda2-4d10-9569-b9e189c33971"
+			"bcd62b41-db3a-46ba-80fb-ba1cf7475e1a"
 		]
 	},
 	"91c4e621-c1f6-4966-b658-7009277442a2": {},
@@ -7775,5 +7774,20 @@
 		]
 	},
 	"8d98deb4-fd43-4635-8641-04b14a980b41": {},
-	"709e8262-2049-4545-9006-3766d45c3773": {}
+	"709e8262-2049-4545-9006-3766d45c3773": {},
+	"e8b1c589-8fe4-4f05-8923-6870e2b854a4": {
+		"$CONTENT_e8b1c589-8fe4-4f05-8923-6870e2b854a4/Tools/Database/ToolSets/tools_shared.json": [
+			"52c1d933-5ba0-47da-b107-477b6c211a5d",
+			"8f190ce2-3a59-423e-8483-a7aa67bd5bc0"
+		]
+	},
+	"6c1d0aa2-c924-4960-b1af-2d17a00e633a": {},
+	"b7ff995f-0c20-4982-92a7-e0e8bedbaab2": {},
+	"c3835a7d-fdd0-4c2d-8eb9-b6b093146fb5": {
+		"$CONTENT_c3835a7d-fdd0-4c2d-8eb9-b6b093146fb5/Tools/Database/ToolSets/tools.toolset": [
+			"87f8f12e-8c14-43c0-9009-6734ff7545e5",
+			"f719361d-695c-45fa-a2ed-f05367770da1"
+		]
+	},
+	"1b84268f-1a96-4ec9-9f8c-56f4d1824ef3": {}
 }

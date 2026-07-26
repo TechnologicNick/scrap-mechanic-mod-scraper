@@ -1412,5 +1412,8 @@
 		"$CONTENT_81844e4d-8496-41f1-a787-4b989f9f9f7f/ScriptableObjects/ScriptableObjectSets/managers.sobset": [
 			"cb5871ae-c677-4480-94e9-31d16899d093"
 		]
+	},
+	"e8b1c589-8fe4-4f05-8923-6870e2b854a4": {
+		"$CONTENT_e8b1c589-8fe4-4f05-8923-6870e2b854a4/ScriptableObjects/ScriptableObjectSets/example.sobset": []
 	}
 }
