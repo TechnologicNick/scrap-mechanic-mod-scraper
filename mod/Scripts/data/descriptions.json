@@ -5319,12 +5319,12 @@
 	"7b46d90f-1d3a-4dbe-b3e2-9c1335cefd19": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This adds a block with Text saying 'I want a Banana'. Useless but Funny idk lol its the last mod before survival",
+		"description": "This mod adds a block with Text saying 'I want a Banana'. Useless but Funny idk it's the last mod before survival so that should give me some status, right? Right?\r\n\r\nUPDATE: I finally managed to get the normal map and inventory text working after four years :|\r\nAlso it's got a better image now. Run wild, bananas!",
 		"fileId": 2088095993,
 		"localId": "7b46d90f-1d3a-4dbe-b3e2-9c1335cefd19",
 		"name": "banana",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"39a56e30-9f92-459d-a566-7071f8864618": {
 		"description": "This mod doesn't have a description",
@@ -47172,12 +47172,12 @@
 	"61009eab-bb0f-47ed-aafa-84feb56d7201": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h1]🎨 StreetTool — Твой город, твои правила![/h1]\r\n\r\nПреврати унылые постройки в настоящие шедевры с помощью [b]StreetTool[/b]. Это не просто баллончик, это профессиональный инструмент для тех, кто ценит стиль и точность в Scrap Mechanic.\r\n\r\n[hr][/hr]\r\n\r\n[h2]🚀 Основные фишки:[/h2]\r\n[list]\r\n[*] [b]RGB Палитра:[/b] Полная свобода выбора цвета через удобные слайдеры или прямой ввод [i]Hex-кода[/i].\r\n[*] [b]Режим CANVAS:[/b] Уникальная технология, позволяющая перекрашивать даже большие холсты!\r\n[*] [b]Настройка кисти:[/b] Регулируй [b]радиус[/b] покрытия и [b]интенсивность[/b] нанесения краски.\r\n[*] [b]Удобный интерфейс:[/b] Быстрый доступ ко всем настройкам через меню на клавишу [b][R][/b].\r\n[/list]\r\n\r\n[hr][/hr]\r\n\r\n[h2]🛠 Управление:[/h2]\r\n[list]\r\n[*] [b][ЛКМ][/b] — Нанести краску.\r\n[*] [b][ПКМ][/b] — Стереть краску (вернуть стандартный цвет).\r\n[*] [b][R][/b] — Открыть меню настройки.\r\n[/list]\r\n\r\n[hr][/hr]\r\n\r\n[h2]🌟 От разработчика:[/h2]\r\nЭтот проект стал для меня настоящим вызовом. Я потратили огромное количество времени на то, чтобы довести скрипт до ума, настроить кастомные анимации и сделать инструмент действительно приятным в использовании (но даже с таким настроем - код может быть не идеальным. Если есть опытные мододелы - прошу поправить меня, или дать советы, как сделать лучше)\r\n\r\n[b]Мне очень важна ваша обратная связь![/b] Если вы нашли баг или у вас есть идея, как сделать StreetTool еще круче - обязательно пишите в комментарии. Я читаю всё и буду рад любой помощи в исправлении ошибок! \r\n\r\n[hr][/hr]\r\n\r\n[i]Создано с душой для творческих механиков![/i]\r\n\r\n[hr][/hr]\r\n\r\n[h2]🤝 Отдельное спасибо:[/h2]\r\n[list]\r\n[*] [b]Klod[/b] — за предоставление текстур для баллончика.\r\n[*] [b]BenBingo[/b] — за ценные советы и идеи.\r\n[*] [b]TheRedBuilder[/b] — за помощь с GUI-лаяутом.\r\n[/list]\r\n\r\n[b]Всем еще раз огромное спасибо за поддержку![/b]",
+		"description": "[h1]🎨 StreetTool - Your City, Your Rules[/h1]\r\n\r\nA tool for repainting buildings in Scrap Mechanic. Works via raycast, features a brush with adjustable radius and intensity. Includes different modes.\r\n\r\n[hr][/hr]\r\n\r\n[h2]🚀 Features:[/h2]\r\n[list]\r\n[*] [b]RGB Palette:[/b] Color selection via sliders or Hex code input. Values are saved between sessions.\r\n[*] [b]Brush Settings:[/b] Coverage radius, layering intensity (via sliders).\r\n[*] [b]Palette:[/b] 40 preset colors for quick access.\r\n[/list]\r\n\r\n[hr][/hr]\r\n\r\n[h2]🛠 Controls:[/h2]\r\n[list]\r\n[*] [b][LMB][/b] - apply paint.\r\n[*] [b][RMB][/b] - erase (revert to the block's default color).\r\n[*] [b][R][/b] - open GUI.\r\n[/list]\r\n\r\n[hr][/hr]\r\n\r\nCANVAS mode for static objects uses destroyBlock + createBlock - this bypasses the standard setColor, which can sometimes behave unpredictably on large surfaces. For dynamic objects, the standard setColor is used (to avoid breaking the creation).\r\nIf you choose to paint a structure that is welded to the ground, you do so at your own risk, as the structure may break.",
 		"fileId": 3687939820,
 		"localId": "61009eab-bb0f-47ed-aafa-84feb56d7201",
 		"name": "StreetTool",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"955cc9d2-e2ee-497a-b6f8-452506431029": {
 		"allow_add_mods": true,
@@ -48859,7 +48859,7 @@
 	"c3835a7d-fdd0-4c2d-8eb9-b6b093146fb5": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "jbbk",
+		"description": "[h2]-- Features of this mod --[/h2]\r\n\r\n[img]https://i.imgur.com/NNw4uUj.jpg[/img]\r\n\r\n[b]Unit Spawner Gun[/b]\r\nEver wanted to lag out your world by spawning hundreds of bots, but couldn't do it easily? Well now you can with this new 'gun'. This gun literally shoots units, be it animals or bots. The features of this new tool include:\r\n[list]\r\n   [*]Works in multiplayer\r\n   [*]Can shoot all in-game vanilla units\r\n   [*]The velocity of the units shot can be adjusted\r\n   [*]The colour of the unit can be customized\r\n   [*]The shoot cooldown of the gun be changed\r\n   [*]Auto gun mode which enables continuous fire\r\n   [*]The spread of the shot can be modified\r\n   [*]The number of units spawned per shot can be altered\r\n   [*]Can even shoot units from other mods\r\n[/list]\r\n\r\n[h1]Credits[/h1]\r\nPart of this mod was inspired and assisted by [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2754754406]Adjustable Spudguns[/url][/b] and their creator(s).",
 		"fileId": 3771969152,
 		"localId": "c3835a7d-fdd0-4c2d-8eb9-b6b093146fb5",
 		"name": "Pandemonium Kit",

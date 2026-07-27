@@ -17770,10 +17770,9 @@
 		]
 	},
 	"7b46d90f-1d3a-4dbe-b3e2-9c1335cefd19": {
-		"$CONTENT_7b46d90f-1d3a-4dbe-b3e2-9c1335cefd19/Objects/Database/ShapeSets/blocks.json": [
+		"$CONTENT_7b46d90f-1d3a-4dbe-b3e2-9c1335cefd19/Objects/Database/ShapeSets/blocks.shapeset": [
 			"69b469a5-070b-4cda-b3df-9bffccb5f05b"
-		],
-		"$CONTENT_7b46d90f-1d3a-4dbe-b3e2-9c1335cefd19/Objects/Database/ShapeSets/parts.json": []
+		]
 	},
 	"39a56e30-9f92-459d-a566-7071f8864618": {
 		"$CONTENT_39a56e30-9f92-459d-a566-7071f8864618/Objects/Database/ShapeSets/parts.json": [
