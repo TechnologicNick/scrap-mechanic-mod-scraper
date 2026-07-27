@@ -33406,7 +33406,7 @@
 		"localId": "2c3b7451-332e-4d6b-a4ac-cc1be5033ba8",
 		"name": "Fants Parking Space",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"4b147691-79c9-4cb3-903b-f6f31a59c5b1": {
 		"allow_add_mods": true,
@@ -39516,7 +39516,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "Introducing SM: WAILA - the Scrap Mechanic mod to tell you exactly what you're looking at!\r\n\r\nSM: WAILA adds a handy hud element that shows info about the object you're looking at. \r\n\r\nVarious configuration options now available via the /smwaila command.\r\n\r\nInspired by the WAILA, Jade and HWYLA Minecraft mods.\r\nCredit: the mod is maintained by me, but does use some character images from Scrap Mechanic's Fandom page. The mod also uses ModDB as a dependency to show mod names for modded objects - thank you, TechnologicNick, for this awesome mod!",
+		"description": "Warning! The mod should work for most stuff in 1.0, but this is as of yet untested - a proper code-review and update is coming!\r\n\r\nIntroducing SM: WAILA - the Scrap Mechanic mod to tell you exactly what you're looking at!\r\n\r\nSM: WAILA adds a handy hud element that shows info about the object you're looking at. \r\n\r\nVarious configuration options now available via the /smwaila command.\r\n\r\nInspired by the WAILA, Jade and HWYLA Minecraft mods.\r\nCredit: the mod is maintained by me, but does use some character images from Scrap Mechanic's Fandom page. The mod also uses ModDB as a dependency to show mod names for modded objects - thank you, TechnologicNick, for this awesome mod!",
 		"fileId": 3302195129,
 		"localId": "ddf48f02-d773-4ff0-b959-3bc451a7a0de",
 		"name": "SMWAILA",
@@ -41082,7 +41082,7 @@
 		"localId": "91740ec5-3f8b-4b0c-b8b2-1b10e0099016",
 		"name": "Retextured Plastic blocks and wegdes",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"164fa840-9d2e-4496-a23d-ca88db1e5c28": {
 		"allow_add_mods": true,
@@ -44067,7 +44067,7 @@
 		"localId": "e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5",
 		"name": "T mod",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"cc074c82-c93d-411e-9890-3486ad61d1fe": {
 		"allow_add_mods": true,
@@ -46714,12 +46714,12 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "[h1]A mod for myself — and for you![/h1]\n\nIf you have ideas for what else cool could be added, write in the comments, or better yet — in the discussions!\n\n[h2]What's already in the mod:[/h2]\n\n[list]\n[*][b]Homing magnet with prediction + GSN[/b] – magnetic lock with intercept point calculation and a seeker head.\n[*][b]Flares[/b] – drop decoys to fool heat-seeking missiles.\n[*][b]Rocket trail[/b] – a visible contrail or smoke trail for all missiles.\n[*][b]Bomb with sensitivity adjustment[/b] – precise trigger threshold for controlled detonation.\n[*][b]Inertia blocks[/b] – make your builds feel more massive and realistic in behavior.\n[*][b]Configurable wing[/b] – adjust lift force and control surface characteristics.\n[*][b]Two standalone missiles[/b] – specialized munitions to engage aircraft and other targets.\n[*][b]NSC (Helmet-Mounted Targeting System) for missiles[/b] – the missile seeker follows your gaze direction.\n[*][b]Infinite floor[/b] – walk or drive far beyond the map border without falling through.\n[*][b]Mouse delta for control[/b] – precise control of your builds using mouse movements.\n[*][b]Single-tick button[/b] – activates once and immediately disappears. Ideal for \"fire and forget\" actions.\n[*][b]Build camera[/b] – lets you see the entire construction as a whole. Extremely useful for large aircraft and ships.\n[*][b]Laser-guided missile and bomb + targeting pod[/b] – allows you to observe the enemy at great distances and deliver gifts.\n[*][b]Improved logic gate with configurable output signal[/b]\n[*][b]Thruster with adjustable power, burn time, stability, and effect[/b]\n[*][b]Barrels with adjustable buoyancy[/b] – several variations with different durability, allowing you to build ships that sink from damage.\n[*][b]Configurable parachute[/b] – use as an airbrake for vehicles or to airdrop them!\n[/list]\n\nEnjoy!",
+		"description": "[h1]NOT UPDATED FOR 1.0!!!!! [/h1][h1]A mod for myself — and for you![/h1]If you have ideas for what else cool could be added, write in the comments, or better yet — in the discussions![h2]What's already in the mod:[/h2][list][*][b]Homing magnet with prediction + GSN[/b] – magnetic lock with intercept point calculation and a seeker head.[*][b]Flares[/b] – drop decoys to fool heat-seeking missiles.[*][b]Rocket trail[/b] – a visible contrail or smoke trail for all missiles.[*][b]Bomb with sensitivity adjustment[/b] – precise trigger threshold for controlled detonation.[*][b]Inertia blocks[/b] – make your builds feel more massive and realistic in behavior.[*][b]Configurable wing[/b] – adjust lift force and control surface characteristics.[*][b]Two standalone missiles[/b] – specialized munitions to engage aircraft and other targets.[*][b]NSC (Helmet-Mounted Targeting System) for missiles[/b] – the missile seeker follows your gaze direction.[*][b]Infinite floor[/b] – walk or drive far beyond the map border without falling through.[*][b]Mouse delta for control[/b] – precise control of your builds using mouse movements.[*][b]Single-tick button[/b] – activates once and immediately disappears. Ideal for \"fire and forget\" actions.[*][b]Build camera[/b] – lets you see the entire construction as a whole. Extremely useful for large aircraft and ships.[*][b]Laser-guided missile and bomb + targeting pod[/b] – allows you to observe the enemy at great distances and deliver gifts.[*][b]Improved logic gate with configurable output signal[/b][*][b]Thruster with adjustable power, burn time, stability, and effect[/b][*][b]Barrels with adjustable buoyancy[/b] – several variations with different durability, allowing you to build ships that sink from damage.[*][b]Configurable parachute[/b] – use as an airbrake for vehicles or to airdrop them![/list]Enjoy!",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"38aaa37e-671c-4720-b734-8c32bd94292f": {
 		"allow_add_mods": true,
@@ -46804,12 +46804,12 @@
 	"f1914704-dadf-4363-814f-fd7d940afa6e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod will add various weapons to the Scrap Mechanic world. Be careful when using these weapons!\r\n\r\n\r\n// Weapons\r\n\r\n- Glock [ Silencer and sight ]\r\n-- 20 ammo\r\n\r\n- AS Val [ Sight ]\r\n-- 25 ammo\r\n\r\n- Colt [ Silencer ]\r\n-- 14 ammo\r\n\r\n- AK-74M [ Silencer and sight ]\r\n-- 30 ammo\r\n\r\n- M4A1 [ Silencer and sight ]\r\n-- 30 ammo\r\n\r\n- PKM [ Silencer ]\r\n-- 200 ammo\r\n\r\n- AT4 [ None modules]\r\n\r\n- MP5  [ Silencer and sight ]\r\n-- 30 ammo\r\n\r\n\r\n// = Sights\r\n\r\n- OKP-3 [ AK-74M, AS Val, M4A1 ]\r\n\r\n- Red Dot Pistols [ Glock 17 ]\r\n\r\n- Red Dot MP5 [ MP5 ]\r\n\r\n\r\n// Silencers\r\n\r\n- WN Silencer Universal [ AK-74M, AS Val, M4A1, Colt 45, Glock 17, PKM ]\r\n\r\n// Costumezation modules on \"F\" key\r\n\r\n\r\n// Me in Discord! https://discord.gg/DP2DBANZ\r\n\r\n// Tags: Military, Weapons, Guns, Cannons, Tools, Modern",
+		"description": "This mod will add various weapons to the Scrap Mechanic world. Be careful when using these weapons!// Weapons- Glock [ Silencer and sight ]-- 20 ammo- AS Val [ Sight ]-- 25 ammo- USP [ Silencer ]-- 14 ammo- AK-74M [ Silencer and sight ]-- 30 ammo- M4A1 [ Silencer and sight ]-- 30 ammo- PKM [ Silencer ]-- 200 ammo- AT4 [ None modules]- MP5  [ Silencer and sight ]-- 30 ammo// = Sights- OKP-3 [ AK-74M, AS Val, M4A1 ]- Red Dot Pistols [ Glock 17 ]- Red Dot MP5 [ MP5 ]// Silencers- WN Silencer Universal [ AK-74M, AS Val, M4A1, USP, Glock 17, PKM ]// Costumezation modules on \"F\" key// Me in Discord! https://discord.gg/DP2DBANZ// Tags: Military, Weapons, Guns, Cannons, Tools, Modern",
 		"fileId": 3670073323,
 		"localId": "f1914704-dadf-4363-814f-fd7d940afa6e",
 		"name": "Technical Guns",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"9950bae3-a815-4b65-94f9-0455eb7bed9e": {
 		"allow_add_mods": true,
@@ -48809,7 +48809,7 @@
 	"8d98deb4-fd43-4635-8641-04b14a980b41": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1][b]BETTER SURVIVAL Chapter 2[/b][/h1]\r\n[i]Made by Paltryweasel during the night of the release[/i]\r\n\r\n[b]Less grind, more resources.[/b]\r\n\r\n[u]Changelog:[/u]\r\n  - Crafting times (Craftbot, Sawtable, Portable Crafter, Mining Hub) cut in half\r\n  - Refining (Refinery + Multi-tool) x3 to x10 depending on the material, manual refining time halved\r\n  - Mining Hub machines (Ore Crusher, Prospector) output increased\r\n  - Mining Hub Trader currency cost halved\r\n  - Stack sizes greatly increased on almost every item (up to 1500 for building blocks,\r\n  Gas/Battery/Water/Chemical/Glowstick stack sizes increased to 100)\r\n  - Natural resource harvesting (crude oil, cotton, corn, pigment flowers, beehives, clams, mineral deposits, burnt wood) greatly increased\r\n  - Burnt trees: half as many hits needed to break them\r\n  - Underwater breath lasts twice as long\r\n  - Gas/electric engine efficiency doubled\r\n  - Loot (crates, robots) x3\r\n\r\n  [h2][b]To install:[/b][/h2]\r\n  - Go to \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\" (it's usually on the OS drive (C:). If it's not there, you probably installed Steam on a different storage drive.) For convenience, right-click your game in your Steam library and go to Properties...\r\n  Go to the \"Local Files\" tab, then \"Browse local files\"...\r\n  Go back two folder levels and navigate to workshop\\content\\387990.\r\n  - You should find a folder called \"3770927146\" then open it and check the \"preview\" image; if it's the mod's thumbnail, you're in the right place.\r\n  - Now go into the \"Scrap Mechanic\" folder and copy the \"Data\" and \"Survival\" folders, then paste them into the \"Steam\\steamapps\\common\\Scrap Mechanic\" folder (go back 5 folder levels and you'll see the \"common\" folder), and click Replace.\r\n\r\n  [b][u]/!\\ REQUIRED TO MAKE THIS MOD WORK /!\\[/u][/b]\r\n  For unknown reasons since chapter 2, Survival script changes (crafting, refining, resource yields, etc.) do not take effect unless the game is launched with the -dev launch option enabled. Without it, the mod will appear installed but nothing will\r\n  actually change in-game.\r\n\r\n  To enable it: right-click Scrap Mechanic in your Steam Library > Properties > General > Launch Options, and type: -dev\r\n\r\n  Installation done!\r\n\r\n  [b][u]/!\\ IMPORTANT /!\\[/u][/b]\r\n  You will need to redo the \"Data\"/\"Survival\" copy step above every time the game updates, or every time you use \"Verify integrity of game files\" as both restore the vanilla files and undo the mod.\r\n\r\n  [b][u]/!\\[/u][/b] To uninstall, just go to your game's properties, Local Files, and click \"Verify integrity of game files\".\r\n\r\n  [i]You can now go build the massive, ridiculous creations you've always wanted.[/i]\r\n\r\n\r\n-Paltry\r\n",
+		"description": "[h1][b]BETTER SURVIVAL Chapter 2[/b][/h1]\r\n[i]Made by Paltryweasel during the night of the release[/i]\r\n\r\n[b]Less grind, more resources.[/b]\r\n\r\n[u]Changelog:[/u]\r\n  - Crafting times (Craftbot, Sawtable, Portable Crafter, Mining Hub) cut in half\r\n  - Refining (Refinery + Multi-tool) x3 to x10 depending on the material, manual refining time halved\r\n  - Mining Hub machines (Ore Crusher, Prospector) output increased\r\n  - Mining Hub Trader currency cost halved\r\n  - Stack sizes greatly increased on almost every item (up to 1500 for building blocks,\r\n  Gas/Battery/Water/Chemical/Glowstick stack sizes increased to 100)\r\n  - Natural resource harvesting (crude oil, cotton, corn, pigment flowers, beehives, clams, mineral deposits, burnt wood) greatly increased\r\n  - Burnt trees: half as many hits needed to break them\r\n  - Underwater breath lasts twice as long\r\n  - Gas/electric engine efficiency doubled\r\n  - Loot (crates, robots) x3\r\n\r\n  [h2][b]To install:[/b][/h2]\r\n  - Go to \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\" (it's usually on the OS drive (C:). If it's not there, you probably installed Steam on a different storage drive.) For convenience, right-click your game in your Steam library and go to Properties...\r\n  Go to the \"Local Files\" tab, then \"Browse local files\"...\r\n  Go back two folder levels and navigate to workshop\\content\\387990.\r\n  - You should find a folder called \"3770927146\" then open it and check the \"preview\" image; if it's the mod's thumbnail, you're in the right place.\r\n  - Now go into the \"Scrap Mechanic\" folder and copy the \"Data\" and \"Survival\" folders, then paste them into the \"Steam\\steamapps\\common\\Scrap Mechanic\" folder (go back 5 folder levels and you'll see the \"common\" folder), and click Replace.\r\n\r\n  [b][u]/!\\ REQUIRED TO MAKE THIS MOD WORK /!\\[/u][/b]\r\n  Since chapter 2, the game caches compiled Lua scripts. Because of this, Survival script changes (crafting, refining, resource yields, etc.) do not take effect unless the game is launched with the -dev launch option enabled. It forces the game to bypass the cache and load scripts fresh. Without -dev, the mod will appear installed but nothing will actually change in-game.\r\n\r\n  To enable it: right-click Scrap Mechanic in your Steam Library > Properties > General > Launch Options, and type: -dev\r\n\r\n  Installation done!\r\n\r\n  [b][u]/!\\ IMPORTANT /!\\[/u][/b]\r\n  You will need to redo the \"Data\"/\"Survival\" copy step above every time the game updates, or every time you use \"Verify integrity of game files\" as both restore the vanilla files and undo the mod.\r\n\r\n Also, using this mod (or any mod that alters Survival files) disables Steam achievements. This is enforced by the game itself once it detects modified files, not something this mod can bypass. If you care about achievements, disable the mod and the -dev launch option, you can still reinstall it once you have all the achievements you want.\r\n\r\n  [b][u]/!\\[/u][/b] To uninstall, just go to your game's properties, Local Files, and click \"Verify integrity of game files\".\r\n\r\n  [i]You can now go build the massive, ridiculous creations you've always wanted.[/i]\r\n\r\n\r\n-Paltry\r\n",
 		"fileId": 3770927146,
 		"localId": "8d98deb4-fd43-4635-8641-04b14a980b41",
 		"name": "BETTER SURVIVAL Chapter 2",
@@ -48829,7 +48829,7 @@
 	"e8b1c589-8fe4-4f05-8923-6870e2b854a4": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Version 1.0.9 — Updated for Scrap Mechanic 1.0 and Drilling Thunder. Adds regrowing trees and rocks, fixes vacuum pumps, laggy drills and sawblades, and includes additional parts, recipes, tools, storage, and quality-of-life improvements.",
+		"description": "Version 1.0.12 — Updated for Scrap Mechanic 1.0 and Drilling Thunder. Refreshes legacy database overrides for current game assets and units, and includes regrowing trees and rocks, vacuum-pump compatibility, additional parts, recipes, tools, storage, and quality-of-life improvements. Fixes Workshop packages using obsolete cached scripts.",
 		"fileId": 2970690456,
 		"localId": "e8b1c589-8fe4-4f05-8923-6870e2b854a4",
 		"name": "LTs Mod",
@@ -48839,8 +48839,8 @@
 	"6c1d0aa2-c924-4960-b1af-2d17a00e633a": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Plant tree saplings that grow into real trees, and regrow after being chopped down.",
-		"fileId": 3771874239,
+		"description": "Regrowing & Plantable TreesChop a tree, get a seed, grow a new one. This mod adds a proper replanting cycle to Scrap Mechanic's four wild tree species — birch, leafy, spruce, and pine — so logging never has to mean permanently clearing an area. Plant a seed in soil, keep it watered, and it'll grow into a real, fully-choppable vanilla tree.How to use itChop a wild tree with your axe like normal. It'll drop wood as usual, plus a chance at a seed bag matching that tree's species.Plant the seed in a patch of soil, the same way you'd plant any crop.Water it — either with a bucket or by letting it sit out in the rain.Wait for it to grow. Once it's fully grown, it behaves exactly like a wild tree: chop it down for logs and wood, and it'll drop seeds of its own.Each species' seed bag is dyed a distinct colour so you can tell them apart in your inventory at a glance:Species\tBag colourBirch\tCreamLeafy\tLimeSpruce\tNavy-tealPine\tRust brownSeed drop ratesChopping a tree can drop 0 to 3 seeds, weighted by species. Some species are far more generous than others:Species\t0 seeds\t1 seed\t2 seeds\t3 seedsBirch\t5%\t35%\t40%\t20%Leafy\t25%\t45%\t23%\t7%Spruce\t25%\t45%\t23%\t7%Pine\t45%\t38%\t14%\t3%Birch is the easiest species to farm — it almost always drops at least one seed, often two. Pine is the rarest and slowest to obtain, so hang onto pine seeds once you get them.Growth speedEach species takes a different base amount of time to mature from seed to full tree (assuming no water or fertilizer):Species\tBase grow timeBirch\t1.5 in-game daysLeafy\t2.0 in-game daysSpruce\t2.0 in-game daysPine\t3.0 in-game daysOne in-game day is 24 real-world minutes, so an unwatered birch sapling takes about 36 real minutes to mature, while an unwatered pine takes about 2 hours.Water and fertilizerBoth water and fertilizer speed up growth, and they stack the same way they do for vanilla crops:Water (bucket or rain) — 4x growth speedFertilizer — 14x growth speedFertilizing a sapling is by far the fastest way to grow a tree ",
+		"fileId": 3772443850,
 		"localId": "6c1d0aa2-c924-4960-b1af-2d17a00e633a",
 		"name": "Regrowing & Plantable Trees",
 		"type": "Blocks and Parts",
