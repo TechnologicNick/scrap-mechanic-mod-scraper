@@ -32888,7 +32888,7 @@
 	},
 	"3aeb81c2-71b9-45a1-9479-1f48f1e8ff21": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "this fork of ScriptableComputer\nfork creation was approved by the authors of the mod\nfor the mod to work correctly, there SHOULD BE NO \"ScriptableComputer\" and/or \"SCI\" in the world\nthis mod DOES NOT VIOLATE anyone's licenses, the author of the original does not mind that I am doing a fork\nthis mod DOES NOT CONTAIN SCI and ScrapComputers code and partial compatibility is implemented using a layer\n\n[url=https://igorkll.github.io/SComputers] DOCUMENTATION [/url]\n[url=https://discord.gg/uJrsmUjaMG] DISCORD SERVER [/url]\n\nadvantages of SComputers compared to any other computer mods:\n[list]\n  [*] bug fixes (critical filesystem bugs, bugs causing lags, bugs breaking code, and many other extremely unpleasant bugs have been fixed in SComputers)\n  [*] compatibility (this mod is fully compatible with the original and with SCI and may also be compatible with other mods in the future)\n  [*] responsive support (you can always write a comment to the mod and I will answer it, you can also write to me in the discord \"smlogic\")\n  [*] optimization (displays in SComputers almost do not cause lags)\n  [*] the presence of require and built-in libraries (image, midi, vdisplay, base64, utf8, ramfs, etc)\n  [*] code examples (code examples in mod will help you figure it out a bit)\n  [*] security (from SComputers it is much more difficult to cause bugsplat, game freezes, lags)\n  [*] availability of new components\n  [*] regular updates (about every month)\n  [*] support for crafting recipes\n  [*] radars are seen a robots/wocs/worms\n  [*] ability to use betterAPI to load code\n  [*] the mod has its own API for creating addons, which is described in the documentation\n  [*] fast luaVM - FiOne_lua\n[/list]\n\ntags: computer, computers, lua",
 		"fileId": 2949350596,
 		"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
@@ -40106,7 +40106,7 @@
 		"localId": "59ba623f-db54-46d1-8199-cfc3556fc1cf",
 		"name": "Fants Weight",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"4709ffab-26ed-43b0-97d2-a60ac85a942f": {
 		"allow_add_mods": true,
@@ -45389,12 +45389,12 @@
 	"4cd9d05a-7bdf-4113-9fd2-fe8c66be3eaf": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Unleash your creativity, build your own world brick by brick using BITZ!\r\n\r\nThis mod introduces over 140 different parts and interactables to build with.\r\nCreate your very own vehicles and machines using BITZ\r\n\r\nPlease share your awesome creations below, or in a discussion!\r\n\r\nGive a special thanks to community members for their support in development!",
+		"description": "Explore the world of Lego in Scrap Mechanic!\r\n\r\nThis mod introduces 140 different parts and interactables to build with.\r\nCreate your very own vehicles and machines using BITZ\r\n\r\n[b]Please share your awesome creations below, or in a discussion![/b]\r\n[hr]\r\nGive a special thanks to community members for their support in development!\r\n\r\nThe open source Blender file for this mod is located on [url=https://www.dropbox.com/scl/fi/yk11pk8z2qx1clo8d1og5/Bricks_World.blend]Dropbox[/url]!\r\n\r\nI encourage community members to create their own lego-like mods and post them in Discussions here for other users to find more easily!",
 		"fileId": 3562913919,
 		"localId": "4cd9d05a-7bdf-4113-9fd2-fe8c66be3eaf",
 		"name": "BitZ Bricks",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"fa72db48-53af-458c-a1d0-18f20b2f931b": {
 		"allow_add_mods": true,
@@ -48786,12 +48786,12 @@
 	"b4bfc918-b84f-486c-b500-20f1248eb629": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Various shape blocks and parts for building",
+		"description": "Applicable to mega-scale buildings",
 		"fileId": 3770013276,
 		"localId": "b4bfc918-b84f-486c-b500-20f1248eb629",
 		"name": "ShapesMod",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"ba9674ce-ab7a-4201-98b3-f47fafa66e29": {
 		"allow_add_mods": true,
@@ -48942,5 +48942,15 @@
 		"name": "GearUp!",
 		"type": "Blocks and Parts",
 		"version": 2
+	},
+	"be752a0e-a2a9-4b12-bbfa-e0855c72b8be": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "A tougher Survival experience for mechanics seeking a real challenge!\r\n\r\n• All damage taken by players is doubled.• Green Totebots are replaced by explosive Red Totebots.• Enter /onelife to permanently disable respawning for your character in that world.• The difficulty setting has no effect — Hardcore rules are always active.",
+		"fileId": 3773662301,
+		"localId": "be752a0e-a2a9-4b12-bbfa-e0855c72b8be",
+		"name": "Hardcore Mechanic",
+		"type": "Custom Game",
+		"version": 1
 	}
 }

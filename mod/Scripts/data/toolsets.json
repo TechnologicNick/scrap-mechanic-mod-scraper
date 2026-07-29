@@ -7802,5 +7802,9 @@
 			"b2c3d4e5-f6a7-8901-bcde-f12345678901"
 		]
 	},
-	"dbcd6a0c-3b08-4a08-8378-d8ffc749131b": {}
+	"dbcd6a0c-3b08-4a08-8378-d8ffc749131b": {},
+	"2575d56b-5a56-4ee0-84a4-8991984d95e4": {},
+	"be752a0e-a2a9-4b12-bbfa-e0855c72b8be": {
+		"$CONTENT_be752a0e-a2a9-4b12-bbfa-e0855c72b8be/Tools/Database/ToolSets/example.toolset": []
+	}
 }
