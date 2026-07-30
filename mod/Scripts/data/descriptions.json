@@ -4530,7 +4530,7 @@
 		"localId": "4a937053-939c-4bee-b61c-6484cb9a4249",
 		"name": "Programmable Processor",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"273137b2-f322-47fb-a145-1354f124e6b5": {
 		"description": "",
@@ -5383,12 +5383,12 @@
 		"version": 0
 	},
 	"7033efb6-2b3b-4ec7-b6f4-c6f403f74489": {
-		"description": "This mod allows you to get the survival day and night cycle in creative.\nHow to use the mod:\n1) place the block on the ground\n2) connect a number input\n\nInput Values:\nThe value can be any number. Only the fractional part will have an effect (mod).\ne.g. 0.5 => 0.5 | 1.5 => 0.5 (noon)\nIn case of negative values the fractional part will be taken aswell but added to 1.\ne.g. -0.1 => 1 + (-0.1) => 0.9 (evening / night)\n\nReference Values:\n0.0 = night\n0.25 = morning\n0.5 = noon\n0.75 = evening\n\nHave fun with this mod!\n",
+		"description": "This mod allows you to get the survival day and night cycle in creative.\r\nHow to use the mod:\r\n1) place the block on the ground\r\n2) connect a number input\r\n\r\nInput Values:\r\nThe value can be any number. Only the fractional part will have an effect (mod).\r\ne.g. 0.5 => 0.5 | 1.5 => 0.5 (noon)\r\nIn case of negative values the fractional part will be taken aswell but added to 1.\r\ne.g. -0.1 => 1 + (-0.1) => 0.9 (evening / night)\r\n\r\nReference Values:\r\n0.0 = night\r\n0.25 = morning\r\n0.5 = noon\r\n0.75 = evening\r\n\r\nHere is the link to a simple setup:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2101753062\r\n\r\nHave fun with this mod!\r\n",
 		"fileId": 2093392510,
 		"localId": "7033efb6-2b3b-4ec7-b6f4-c6f403f74489",
 		"name": "Day Night Cycle",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 2
 	},
 	"8fd50aec-3776-4d18-8d03-803db9474205": {
 		"description": "This mod is the first version that allows you to create portals (the visuals are not nice but it works xD)\nNOTE: Due to the broken mod tool i cant create icons. The parts have just empty bockes as icons in the inventory!\nCurrently there are 4 types of portals:\n- One Way Portal\n- Addressable Portal\n- Walkable Portal\n- Warp Drive\n\nI had to remove the first version of the portals mod because i wasnt able to update it... uuids stayed the same so everything you have build unitl now should still work!\n\nHow to use the One-Way-Portal?\n- place 2 portals\n- connect the first to the secound\n- press 'e' on the first portal\n\nhere you can find an example: https://steamcommunity.com/sharedfiles/filedetails/?id=2093969853\n\nHow to use the Addressable Portal?\n- place an addressable portal\n- place a switch (color: white)\n- connect the switch to the portal\n- activate the switch (powers the portal and allows you to port from and to the portal)\n- place 2 value counter blocks (color: darkgray | color: black)\n- connect the blocks to the portal\n- configure the id and destination how every you like :)\n- press 'e' on the block and you will be teleported to the destination you set\n\n\nHow to use the Walkable Portal?\n- just like the Addressable Portal but instead of interacting with the block you walk through the smoke to be teleported (addressing works the same)\n\nHow to use the Warp Drive?\n- connect the different inputs (coordinate and warp signal)\n- set the coordinates\n- activate the warp signal (one tick is enough)\n\nHave fun with this mod :D ill add atleast one more portal type and i try to work on the visuals as soon as i have time for that. I will also make a guide when i have a little bit of time for that ^^",
@@ -5396,7 +5396,7 @@
 		"localId": "8fd50aec-3776-4d18-8d03-803db9474205",
 		"name": "Portals",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 2
 	},
 	"45745876-5391-4848-a835-fcc2410d87a1": {
 		"description": "This mod is an early version for base safety and surveillance :)\r\n\r\ncurrent parts:\r\n- camera\r\n- camera observer\r\n- seat camera\r\n- seat camera observer\r\n- remote camera\r\n- remote camera controller\r\n\r\nTutorial for the remote camera blocks:\r\nhttps://youtu.be/4CFQ1jBfcXU\r\n\r\nHave fun :)",
@@ -5404,7 +5404,7 @@
 		"localId": "45745876-5391-4848-a835-fcc2410d87a1",
 		"name": "Surveillance Tools",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"836527cc-5c55-404e-b959-01124ce76166": {
 		"description": "Taka Sytuacja",
@@ -6104,7 +6104,7 @@
 		"localId": "c1f9e6e9-0970-44f7-b027-4f9eefacfbfb",
 		"name": "Mini Voxel Map",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 2
 	},
 	"3da77432-2c3b-41b9-a616-103650414714": {
 		"description": "#FFFFFFThis mod include Bits & Bobs and Survival Player Forestry and Farming Mod.\n\nThis mod is not made for CML (construct mod loader)! \nBut conversion is always possible.\nCML version: https://steamcommunity.com/sharedfiles/filedetails/?id=2147636811\n\nCopy data and survival folders from C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\2134808994\\ to C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic (your location may be different) \n\n\nAlso always make backup of your world before using any mods!\n\n\n#FFFFFFBits & Bobs: https://www.reddit.com/r/ScrapMechanic/comments/h7y72z/bits_bobs_v015_for_sm_v045_is_now_live/#FFFFFF\n\nSurvival Player Forestry and Farming Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2123450361&searchtext=Survival+Player+Forestry+and+Farming+Mod\n\nUpdated to newest version of #FFFFFFSurvival Player Forestry and Farming Mod and scrap mechanic (0.4.6)",
@@ -7080,7 +7080,7 @@
 		"localId": "ed969af5-f5d0-450f-a712-bf420d4ac61e",
 		"name": "Performance RGB Parts",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 2
 	},
 	"d89de6c0-7d5f-44fe-b52c-dae5d51e928b": {
 		"description": "This is fix for Motion mod by Mini, fixed textures, some blocks got fixed interaction after console was removed.\noriginal mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1641758165&searchtext=motion+mod\n\noriginal desc:\nI'm happy to finally release this test version of new Mini's Mod, now Motion Mod.\nThis mod has all the blocks current Mini's Mod has and will replace it after testing phase while this will get more blocks for testing. As of now there are 47 blocks. 2/1/2019\nAll blocks still need the console to display their settings/messages, so remember to use /console if needed.\n\nIn this update I introduced new kinds of blocks, Vector blocks. I want to make this mod revolve around movement and physics as the name implies. That's why I made this custom data transfer system of vectors. It's basically bigger and more complex Modpack's Math blocks. They can collect, calculate and feed data into functional blocks to give more control over them. They and functional blocks are also fully compatible and can use said Math blocks in their inputs.\n\nAnother feature is the new textures. I decided to redraw the few blocks I had and made myself some patterns to keep the mod style uniform. You will likely notice how blocks are color and shape coded. They also have symbols that should be quite intuitive.\n\nThe next thing I'll be adding is a manual that I will link both here and in the main release after it's out. It will explain exactly what inputs different blocks have and what certain blocks do, since I tried to keep the descriptions as short as possible they don't provide all the informations needed.\n\nLastly, this is a test release. Remember to save your creation before each testing. Submit all the bugs in the bugs discussion. Please include a screenshot of the situation with the error message and if possible how it happend. If you can replicate the error consistently it would be really appreciated to post a link to the creation, it will help a lot with finding the problem as well as save some time.\n\n=======\nSmall u",
@@ -10092,12 +10092,12 @@
 		"version": 0
 	},
 	"06e58db5-bcff-4632-8ba7-65b2e6aa62b9": {
-		"description": "This mod is an extention module of the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1969702041]Programmable Processor[/url]. It allows to paint on a 96x54 pixel display. Currently it supports uppercase text, drawing and filling ovals and rectagles. Please keep in mind that it is still work in progress and\nthings might change later in development.\nIn case somebody wants to know the current technical interface to do stuff feel free to get in touch :D\nIf you encounter any bugs let me know :)\nHave fun!\n\n[h1] HLL API [/h1]\n[code]\n[b]get_screens[/b]\n\tparameters: [ ]\n\tdescription:\n\t\treturns a list of all screens that the\n\t\tcomputer is connected to.\n\t\t\n[b]set_screen_resolution[/b]\n\tparameters: [ screen, width, height ]\n\tdescription:\n\t\tsets the amount of pixels of the screen.\n\t\tbe careful using this function because it\n\t\twill recreate all pixels when calling the\n\t\tfunction and can potentially cause lag.\n\t\tthe default resolution is 96x54.\n\n[b]set_screen_size[/b]\n\tparameters: [ screen, width, height ]\n\tdescription:\n\t\tscales the screen to fit into the desired\n\t\twidth and height. the resolution / ratio\n\t\tof the screen stays the same -> the screen\n\t\tmight get distorted.\n\n[b]draw_str[/b]\n\tparameters: [ screen, text, x, y, color ]\n\tdescription:\n\t\tdraws the string in the specified color on\n\t\tthe screen with the left upper corner of the\n\t\tstring as a reference. it currently only knows\n\t\tuppercase input text which i will fix.\n\n[b]draw[/b] and [b]fill[/b]\n\tparameters: [ screen, shape, x, y, width, height, color]\n\tdescription:\n\t\tdraws a shape in the desired color on the screen.\n\t\tit can draw rectangles ('rectangle' as shape parameter)\n\t\twhere x, y specifies the left upper corner and w, h\n\t\tspecify the width and height of the rectangle.\n\t\tit also draws ovals ('oval' as shape parameter) in which\n\t\tcases x, y is the center point and w, h specify the\n\t\tdimensions of the oval.\n[/code]\n\nThe color parameter is a list with 3 numbers from 0.0 to 1.0.\n\n",
+		"description": "This mod is an extention module of the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1969702041]Programmable Processor[/url]. It allows to paint on a 96x54 pixel display. Currently it supports uppercase text, drawing and filling ovals and rectagles. Please keep in mind that it is still work in progress and\r\nthings might change later in development.\r\nIn case somebody wants to know the current technical interface to do stuff feel free to get in touch :D\r\nIf you encounter any bugs let me know :)\r\nHave fun!\r\n\r\n[h1]SMPL API[/h1]\r\n[code]\r\ngetScreens \r\ndrawString this text x y color\r\ndrawRect this x y w h color\r\ndrawOval this x y w h color\r\nfillRect this x y w h color\r\nfillOval this x y w h color\r\ngetResolution this\r\ngetSize this\r\nsetResolution this width height\r\nsetSize this width height\r\nequal this other\r\nunequal this other\r\n\r\nwith\r\n- this, other being screen objects\r\n- x, y, w, h being numbers\r\n- text being a string\r\n- color being a tuple of r, g, b\r\n[/code]\r\n\r\n[h1] HLL API [/h1]\r\n[code]\r\n[b]get_screens[/b]\r\n\tparameters: [ ]\r\n\tdescription:\r\n\t\treturns a list of all screens that the\r\n\t\tcomputer is connected to.\r\n\t\t\r\n[b]set_screen_resolution[/b]\r\n\tparameters: [ screen, width, height ]\r\n\tdescription:\r\n\t\tsets the amount of pixels of the screen.\r\n\t\tbe careful using this function because it\r\n\t\twill recreate all pixels when calling the\r\n\t\tfunction and can potentially cause lag.\r\n\t\tthe default resolution is 96x54.\r\n\r\n[b]set_screen_size[/b]\r\n\tparameters: [ screen, width, height ]\r\n\tdescription:\r\n\t\tscales the screen to fit into the desired\r\n\t\twidth and height. the resolution / ratio\r\n\t\tof the screen stays the same -> the screen\r\n\t\tmight get distorted.\r\n\r\n[b]draw_str[/b]\r\n\tparameters: [ screen, text, x, y, color ]\r\n\tdescription:\r\n\t\tdraws the string in the specified color on\r\n\t\tthe screen with the left upper corner of the\r\n\t\tstring as a reference. it currently only knows\r\n\t\tuppercase input text which i will fix.\r\n\r\n[b]draw[/b] and [b]fill[/b]\r\n\tparameters: [ screen, shape, x, y, width, height, color]\r\n\tdescription:\r\n\t\tdraws a shape in the desired color on the screen.\r\n\t\tit can draw rectangles ('rectangle' as shape parameter)\r\n\t\twhere x, y specifies the left upper corner and w, h\r\n\t\tspecify the width and height of the rectangle.\r\n\t\tit also draws ovals ('oval' as shape parameter) in which\r\n\t\tcases x, y is the center point and w, h specify the\r\n\t\tdimensions of the oval.\r\n[/code]\r\n\r\nThe color parameter is a list with 3 numbers from 0.0 to 1.0.\r\n\r\n[h1]SMPL Example[/h1]\r\n[code]\r\nimport Screen\r\nimport Camera\r\nimport Math\r\n\r\nII.setClockSpeed(10000)\r\nwidth = 16 * 2\r\nheight = 9 * 2\r\n\r\nscreen = Screen.getScreens()[0]\r\nscreen.setResolution(width, height)\r\nscreen.setSize(16 * 3, 9 * 3)\r\n\r\nrange = 100\r\ncamera = Camera.getCameras()[0]\r\ncamera.setCastsPerTick(1000)\r\ncamera.setResolution(width, height)\r\ncamera.setFov(160, 90)\r\ncamera.setRange(range)\r\ncamera.setMode('ALL')\r\n\r\n(screenWidth, screenHeight) = screen.getResolution()\r\nscreen.fillRect(0, 0, screenWidth, screenHeight, (0, 0, 0))\r\n\r\nwhile true\r\n    camera.capture()\r\n\r\n    while camera.isCapturing()\r\n        II.interrupt()\r\n    end\r\n\r\n\r\n    for y = 0, y < height, y += 1\r\n        for x = 0, x < width, x += 1\r\n            entry = camera.getData(x, y)\r\n            color = entry[3]\r\n            if entry[2] == 'terrainSurfaceSand'\r\n                color = (1, 1, 0)\r\n            end\r\n            if entry[0]\r\n                v = 1.0 - entry[1] / range\r\n                (r, g, b) = color\r\n                screen.fillRect(width - x - 1, y, 1, 1, (r * v, g * v, b * v))\r\n            else\r\n                screen.fillRect(width - x - 1, y, 1, 1, (0.3, 0.3, 1))\r\n            end\r\n        end\r\n    end\r\nend\r\n[/code]",
 		"fileId": 2484704980,
 		"localId": "06e58db5-bcff-4632-8ba7-65b2e6aa62b9",
 		"name": "Screen Module",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 2
 	},
 	"5d3f25a0-56f4-4096-8aa1-cc0a38dda020": {
 		"description": "Tape Gun - Shoots tape that does 55 damage\nRed Tape Gun - Shoots tape that explodes\nRandom Gun - Shoots random fruits and projectiles\n\n(textures and meshs are from survival)",
@@ -10140,12 +10140,14 @@
 		"version": 0
 	},
 	"98183968-ab91-47ab-862a-9aae48779123": {
-		"description": "This mod is a pile of crap and concepts there is nothing in it that is finished (just some things i worked on recently) :)\r\n\r\n[h1]Content[/h1]\r\n1) water gun (some people might know what this was intended for ;) )\r\n2) push pull tool (to move object without a hammer)\r\n3) hook tool (to pull your self to a certain position)\r\n4) a light to carry around to see in the dark (left click to activate)\r\n5) an automatic rifle with a light (press r to activate)\r\n\r\n[h1]How to use?[/h1]\r\nPlace the one and only block in the mod down.\r\nPress E to install (or U to uninstall)\r\nRestart the game and you should have all the tools :)\r\nThis mod modifies the toolsets.json file from the creative gamefiles.\r\nI have done my best to make it compatable with other mods changing that file :)\r\nIf you have questions or suggestions let me know in the comments!",
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod is a pile of crap and concepts there is nothing in it that is finished (just some things i worked on recently) :)[h1]Content[/h1]1) water gun (some people might know what this was intended for ;) )2) push pull tool (to move object without a hammer)3) hook tool (to pull your self to a certain position)4) a light to carry around to see in the dark (left click to activate)5) an automatic rifle with a light (press r to activate)6) c4 placer7) a logic gate tagger8) a wall placer9) a soldier manager to control a small army like in an rts  (only movement)10) a single soldier controler to move a second character as if it was actually youIf you have questions or suggestions let me know in the comments!",
 		"fileId": 2495938144,
 		"localId": "98183968-ab91-47ab-862a-9aae48779123",
 		"name": "Custom Tool Concepts / Prototypes",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"99a01c3b-c9b7-458a-8db5-95514c7abf40": {
 		"description": "This mod doesn't have a description",
@@ -11069,12 +11071,12 @@
 		"version": 0
 	},
 	"6f2bdcca-109d-4511-9e4c-530604375647": {
-		"description": "This mod adds a camera to the game that can be used to take images to analyse them :)\nNote: Place the camera with the round end of the AND symbol facing upwards\n[h1]SMPL API[/h1]\n[code]\ngetCameras\n\tparameters: []\n\tdescription:\n\t\treturns all cameras connected to the computer\n\nsetResolution\n\tparameters: [camera, width, height]\n\tdescription:\n\t\tsets the resolution that the camera renders\n\nsetFov\n\tparameters: [camera, width, height]\n\tdescription:\n\t\tsets the fov of the camera\n\nsetMode\n\tparameters: [camera, mode]\n\tdescription:\n\t\tsets the mode of the camera\n\t\t\tCamera.DISTANCE\n\t\t\tCamera.COLOR\n\t\t\tCamera.TYPE\n\nsetCastsPerTick\n\tparameters: [camera, amount]\n\tdescription:\n\t\tsets how many raycasts a camera performs per tick\n\nsetRange\n\tparameters: [camera, range]\n\tdescription:\n\t\tsets the number of units the raycast goes\n\ncapture\n\tparameters: [camera]\n\tdescription:\n\t\tstarts the capturing process\n\nisCapturing\n\tparameters: [camera]\n\tdescription:\n\t\treturns if the camera is currently rendering\n\ngetData\n\tparameters: [camera, x, y]\n\tdescription:\n\t\treturns the data for a specific pixel. depending on the mode...\n\t\tDISTANCE -> Number\n\t\tTYPE -> String\n\t\tCOLOR -> Tupel\n\t\t\t(\n\t\t\t\tr: Number,\n\t\t\t\tg: Number,\n\t\t\t\tb: Number\n\t\t\t)\n\n\t\tALL -> Tuple\n\t\t\t(\n\t\t\t\thit: Boolean,\n\t\t\t\tdistance: Number,\n\t\t\t\ttype: String,\n\t\t\t\tcolor: Tuple\n\t\t\t\t\t(\n\t\t\t\t\t\tr: Number,\n\t\t\t\t\t\tg: Number,\n\t\t\t\t\t\tb: Number\n\t\t\t\t\t)\n\t\t\t)\ngetResolution\n\tparameters: [camera]\n\tdescription:\n\t\treturns the resolution of the camera as a tuple (width, height)\n[/code]\n[h1]Example[/h1]\nThis is a simple example that uses the camera and the screen. This is what the program is doing (in general) 1. setting up the screen 2. setting up the camera 3. capturing an image 4. render the image to the screen\n[code]\nimport Screen\nimport Camera\nimport Math\n\nII.setClockSpeed(10000)\n\nscreen = Screen.getScreens()[0]\n(screenWidth, screenHeight) = screen.getResolution()\nscreen.setSize(96, 54)\nprint('clearing screen')\nscreen.fillRect(0, 0, screenWidth, screenHeight, (0, 0, 0))\n\nrange = 100\ncamera = Camera.getCameras()[0]\nca",
+		"description": "This mod adds a camera to the game that can be used to take images to analyse them :)\r\nNote: Place the camera with the round end of the AND symbol facing upwards\r\n[h1]SMPL API[/h1]\r\n[code]\r\ngetCameras\r\n\tparameters: []\r\n\tdescription:\r\n\t\treturns all cameras connected to the computer\r\n\r\nsetResolution\r\n\tparameters: [camera, width, height]\r\n\tdescription:\r\n\t\tsets the resolution that the camera renders\r\n\r\nsetFov\r\n\tparameters: [camera, width, height]\r\n\tdescription:\r\n\t\tsets the fov of the camera\r\n\r\nsetMode\r\n\tparameters: [camera, mode]\r\n\tdescription:\r\n\t\tsets the mode of the camera\r\n\t\t\tCamera.DISTANCE\r\n\t\t\tCamera.COLOR\r\n\t\t\tCamera.TYPE\r\n\r\nsetCastsPerTick\r\n\tparameters: [camera, amount]\r\n\tdescription:\r\n\t\tsets how many raycasts a camera performs per tick\r\n\r\nsetRange\r\n\tparameters: [camera, range]\r\n\tdescription:\r\n\t\tsets the number of units the raycast goes\r\n\r\ncapture\r\n\tparameters: [camera]\r\n\tdescription:\r\n\t\tstarts the capturing process\r\n\r\nisCapturing\r\n\tparameters: [camera]\r\n\tdescription:\r\n\t\treturns if the camera is currently rendering\r\n\r\ngetData\r\n\tparameters: [camera, x, y]\r\n\tdescription:\r\n\t\treturns the data for a specific pixel. depending on the mode...\r\n\t\tDISTANCE -> Number\r\n\t\tTYPE -> String\r\n\t\tCOLOR -> Tupel\r\n\t\t\t(\r\n\t\t\t\tr: Number,\r\n\t\t\t\tg: Number,\r\n\t\t\t\tb: Number\r\n\t\t\t)\r\n\r\n\t\tALL -> Tuple\r\n\t\t\t(\r\n\t\t\t\thit: Boolean,\r\n\t\t\t\tdistance: Number,\r\n\t\t\t\ttype: String,\r\n\t\t\t\tcolor: Tuple\r\n\t\t\t\t\t(\r\n\t\t\t\t\t\tr: Number,\r\n\t\t\t\t\t\tg: Number,\r\n\t\t\t\t\t\tb: Number\r\n\t\t\t\t\t)\r\n\t\t\t)\r\ngetResolution\r\n\tparameters: [camera]\r\n\tdescription:\r\n\t\treturns the resolution of the camera as a tuple (width, height)\r\n[/code]\r\n[h1]Example[/h1]\r\nThis is a simple example that uses the camera and the screen. This is what the program is doing (in general) 1. setting up the screen 2. setting up the camera 3. capturing an image 4. render the image to the screen\r\n[code]\r\nimport Screen\r\nimport Camera\r\nimport Math\r\n\r\nII.setClockSpeed(10000)\r\n\r\nscreen = Screen.getScreens()[0]\r\n(screenWidth, screenHeight) = screen.getResolution()\r\nscreen.setSize(96, 54)\r\nprint('clearing screen')\r\nscreen.fillRect(0, 0, screenWidth, screenHeight, (0, 0, 0))\r\n\r\nrange = 100\r\ncamera = Camera.getCameras()[0]\r\ncamera.setCastsPerTick(400)\r\ncamera.setResolution(90, 50)\r\ncamera.setFov(120, 90)\r\ncamera.setRange(range)\r\ncamera.setMode('ALL')\r\ncamera.capture()\r\n\r\nprint('capturing image')\r\nwhile camera.isCapturing()\r\n    II.interrupt()\r\nend\r\n\r\n\r\nprint('drawing image')\r\n(width, height) = camera.getResolution()\r\nprint(width, height)\r\nfor y = 1, y <= height, y += 1\r\n    for x = 1, x <= width, x += 1\r\n        entry = camera.getData(x, y)\r\n        if entry[2] == 'harvestable'\r\n            screen.fillRect(x, y, 1, 1, entry[3])\r\n        elseif entry[0]\r\n            v = 1.0 - entry[1] / range\r\n            screen.fillRect(x, y, 1, 1, (v, v, v))\r\n        else\r\n            screen.fillRect(x, y, 1, 1, (0, 0, 0))\r\n        end\r\n    end\r\nend\r\n[/code]",
 		"fileId": 2620462764,
 		"localId": "6f2bdcca-109d-4511-9e4c-530604375647",
 		"name": "Camera Module",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 2
 	},
 	"55e84fe0-750c-40bc-8f36-a9b1466a28c7": {
 		"description": "This mod doesn't have a description",
@@ -33874,7 +33876,7 @@
 	"d70c075f-112e-4180-a65b-1c8ef14483de": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds from my main Fant Mod the Fork as Seperate Mod.\r\nWhen you Swing, it will Collect Every Collectable in a small Area around you.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This mod adds from my main Fant Mod the Fork and Watergun as Seperate Mod.\r\nWith the Fork you Swing and it will Collect Every Collectable in a small Area around you.\r\nAnd the Watergun should be selfexplaining.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2980339404,
 		"localId": "d70c075f-112e-4180-a65b-1c8ef14483de",
 		"name": "What The Fork",
@@ -48876,10 +48878,10 @@
 	"1b84268f-1a96-4ec9-9f8c-56f4d1824ef3": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "1022 originale deutsche Verkehrszeichengrafiken in Stadt- und Autobahngröße. V1.3.2 nutzt das im Spiel bestätigte V1.2-Mesh-, Icon- und Kollisionssystem.\n\nMod erstellt von VantaNet - Inoffizielles Fanprojekt – keine Verbindung zu Behörden, SEVAS NRW, Axolot Games oder Valve.\nBei Anzeigefehlern, Beschwerden oder Änderungen, bitte im Steam Workshop melden.\n\nEnthält deutsche Verkehrszeichen in verschiedenen Größen für Scrap Mechanic.\n\nGrafikquelle: SEVAS NRW\nTechnische Umsetzung und 3D-Modelle: VantaNet",
+		"description": "[h1] --- FUNKTIONIERT  MIT DEM NEUEM V1 UPDATE! --- [/h1]\r\n\r\n[B] 1022 originale deutsche Verkehrszeichengrafiken in Stadt- und Autobahngröße.[7B]\r\n\r\n[u]Version 1.4.1[/u] nutzt das im Spiel bestätigte V1.2-Mesh-, Icon- und Kollisionssystem.\r\n\r\n[url=vantanet.de]Mod erstellt von VantaNet[/url] - Inoffizielles Fanprojekt – keine Verbindung zu Behörden, SEVAS NRW, Axolot Games oder Valve.\r\n\r\nBei Anzeigefehlern, Beschwerden oder Änderungen, bitte im Steam Workshop melden.\r\n\r\nEnthält deutsche Verkehrszeichen in verschiedenen Größen für Scrap Mechanic.\r\n\r\nGrafikquelle: SEVAS NRW\r\nTechnische Umsetzung und 3D-Modelle: VantaNet",
 		"fileId": 3772014497,
 		"localId": "1b84268f-1a96-4ec9-9f8c-56f4d1824ef3",
-		"name": "VantaNet Deutsche Verkehrsschilder V1.3.2",
+		"name": "VantaNet Deutsche Verkehrsschilder V1.4.2",
 		"type": "Blocks and Parts",
 		"version": 2
 	},
@@ -48946,10 +48948,122 @@
 	"be752a0e-a2a9-4b12-bbfa-e0855c72b8be": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "A tougher Survival experience for mechanics seeking a real challenge!\r\n\r\n• All damage taken by players is doubled.• Green Totebots are replaced by explosive Red Totebots.• Enter /onelife to permanently disable respawning for your character in that world.• The difficulty setting has no effect — Hardcore rules are always active.",
+		"description": "A tougher Survival experience for mechanics seeking a real challenge!\r\n\r\n• All damage taken by players is doubled.\r\n• Green Totebots are replaced by explosive Red Totebots.\r\n• Enter /onelife to permanently disable respawning for your character in that world.\r\n• The difficulty setting has no effect — Hardcore rules are always active.",
 		"fileId": 3773662301,
 		"localId": "be752a0e-a2a9-4b12-bbfa-e0855c72b8be",
 		"name": "Hardcore Mechanic",
+		"type": "Custom Game",
+		"version": 1
+	},
+	"191b36a9-7735-4776-b28b-5153645c7793": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1]FANT MOD 3 – CUSTOM GAMEMODE v0.1 [/h1]\r\n[h1]Base Mode for Additional Mods[/h1]\r\nGame Version: 1.0\r\n\r\n[h1]WORK IN PROGRESS[/h1]\r\n\r\n[hr][/hr]\r\n[b]Feature:[/b] \r\n- wocs can eat stacks of corn.\r\n- corn is placable in stacks.\r\n- added \"/cleanup\" command and \"/cleanup 123\". It >DELETES< Everything in that radius.\r\n- added \"/clearinv\" to clearout the inventory.\r\n- added \"/fly\" to fly\r\n- added the basic dev commands like /unlimited /limited /god...\r\n- all variants of totebots drop there head as item and not as part anymore.\r\n- added modded hud\r\n- ammo display for all weapons\r\n- recipe loading of mods that got added to the world\r\n\r\n[h1]Mods i personaly like to use[/h1]\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3773844861\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3327429421\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3228431919\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3012082374\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3011575610\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2980339404\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2965553955\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2963115530\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2949730799\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2947206586\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2851449097\r\n\r\n[h1]LINKS & COMMUNITY[/h1]\r\n[b]YouTube:[/b]  \r\nhttps://www.youtube.com/c/00FantMod  \r\n\r\n[b]Discord:[/b]  \r\nhttps://discord.gg/zTZjyrB5nh  \r\n\r\nSubscribe & join the Discord to get updates, features previews and support.\r\n\r\n[hr][/hr]\r\n\r\n[b]Known Issue:[/b]  \r\nalot.. please gimme time to improve and fix everything.\r\nthank you.\r\n\r\n[hr][/hr]\r\n\r\nFant Mod made by  \r\n[h1]00Fant[/h1]\r\n\r\nI do NOT give permission to reuse any content from this mod.\r\n\r\n[h1]MODDING GUIDELINES[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#\r\n",
+		"fileId": 3772903275,
+		"localId": "191b36a9-7735-4776-b28b-5153645c7793",
+		"name": "Fant Mod 3 Custom Gamemode",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"d8d65e32-2bd0-495c-a8e9-b378630e151a": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 3773844861,
+		"localId": "d8d65e32-2bd0-495c-a8e9-b378630e151a",
+		"name": "Better Beehive",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"ad287752-d910-470e-9fe5-bcbf5d02d632": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Interactive Parts that when you interact with them, they output a different sound, hook up a logic output like a switch or button to disable it being on the entire time. Press said button/switch to output the sound. ",
+		"fileId": 3774038749,
+		"localId": "ad287752-d910-470e-9fe5-bcbf5d02d632",
+		"name": "Sound Block (1.0)(WIP)",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"395647cf-452d-4c7f-a6e1-540df4722073": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "QoL+ – Quality of Life Improvements\n\nQoL+ improves the pace of Scrap Mechanic Survival while keeping the core gameplay experience intact.\n\nFeatures:\n\n• Refining takes approximately 0.5 seconds.\n\n• Refined material output is doubled.\n\n• Natural resource yields are tripled, including beewax, cotton, corn, crude oil, pigment flowers, embers, and similar harvestable resources.\n\n• Crafting times are reduced by approximately 50%.\n\n• Loot-container quantities are doubled.\n\n• Enemies drop twice as many Circuit Boards and Component Kits.\n\nQoL+ is designed for players who want less grinding and faster progression without completely removing the Survival experience.",
+		"fileId": 3774048959,
+		"localId": "395647cf-452d-4c7f-a6e1-540df4722073",
+		"name": "QoL+",
+		"type": "Custom Game",
+		"version": 1
+	},
+	"77a43b91-98d8-41f3-adc2-3ff04d4a0071": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds a craftable compenent kit to the craftbot. Recipe requires 2 Circuit Boards.",
+		"fileId": 3774050324,
+		"localId": "77a43b91-98d8-41f3-adc2-3ff04d4a0071",
+		"name": "Components+",
+		"type": "Custom Game",
+		"version": 1
+	},
+	"f2bb76a2-22d9-40f7-8826-43a516dbaa21": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3774050577,
+		"localId": "f2bb76a2-22d9-40f7-8826-43a516dbaa21",
+		"name": "Stacks+",
+		"type": "Custom Game",
+		"version": 1
+	},
+	"72e7adf9-53c3-47e7-a1ef-8e7ad6713560": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"localId": "72e7adf9-53c3-47e7-a1ef-8e7ad6713560",
+		"name": "Gas+",
+		"type": "Custom Game",
+		"version": 1,
+		"fileId": 3774054066
+	},
+	"98ee4be5-c237-4b3a-836f-3b5b84c5c223": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3422770337,
+				"localId": "ad7905bb-c912-4dbc-8556-5ac7debc0da5",
+				"name": "capture mod [SComputers addon]"
+			},
+			{
+				"fileId": 3185287679,
+				"localId": "a99716ca-719d-4891-b1d2-f1978e954a05",
+				"name": "online boombox [betterAPI]"
+			},
+			{
+				"fileId": 2949350596,
+				"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
+				"name": "SComputers [Fork]"
+			},
+			{
+				"fileId": 3034272798,
+				"localId": "d3e4964b-e971-42df-b67e-d988d1b054cc",
+				"name": "Wired & Wireless Cameras"
+			}
+		],
+		"description": "Survival Chapter Two with SComputers and some of my other mods!  with crafting support  mods:SComputerscapture mod [SComputers addon]online boombox [betterAPI]Wired & Wireless CamerasThe list of mods may be expanded in the future.",
+		"fileId": 3774068986,
+		"localId": "98ee4be5-c237-4b3a-836f-3b5b84c5c223",
+		"name": "Chapter Two With SComputers",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"2de294d9-8d73-4d4e-97ea-b7b95c604bdb": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3774096372,
+		"localId": "2de294d9-8d73-4d4e-97ea-b7b95c604bdb",
+		"name": "Collection+",
 		"type": "Custom Game",
 		"version": 1
 	}

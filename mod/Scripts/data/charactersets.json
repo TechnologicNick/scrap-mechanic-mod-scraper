@@ -1851,5 +1851,28 @@
 	},
 	"be752a0e-a2a9-4b12-bbfa-e0855c72b8be": {
 		"$CONTENT_be752a0e-a2a9-4b12-bbfa-e0855c72b8be/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"191b36a9-7735-4776-b28b-5153645c7793": {
+		"$CONTENT_191b36a9-7735-4776-b28b-5153645c7793/Characters/Database/CharacterSets/woc.characterset": [
+			"264a563a-e304-430f-a462-9963c77624e9"
+		]
+	},
+	"395647cf-452d-4c7f-a6e1-540df4722073": {
+		"$CONTENT_395647cf-452d-4c7f-a6e1-540df4722073/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"77a43b91-98d8-41f3-adc2-3ff04d4a0071": {
+		"$CONTENT_77a43b91-98d8-41f3-adc2-3ff04d4a0071/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"f2bb76a2-22d9-40f7-8826-43a516dbaa21": {
+		"$CONTENT_f2bb76a2-22d9-40f7-8826-43a516dbaa21/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"72e7adf9-53c3-47e7-a1ef-8e7ad6713560": {
+		"$CONTENT_72e7adf9-53c3-47e7-a1ef-8e7ad6713560/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"98ee4be5-c237-4b3a-836f-3b5b84c5c223": {
+		"$CONTENT_98ee4be5-c237-4b3a-836f-3b5b84c5c223/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"2de294d9-8d73-4d4e-97ea-b7b95c604bdb": {
+		"$CONTENT_2de294d9-8d73-4d4e-97ea-b7b95c604bdb/Characters/Database/CharacterSets/example.characterset": []
 	}
 }
