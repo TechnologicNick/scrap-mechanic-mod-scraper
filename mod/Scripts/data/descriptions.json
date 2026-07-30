@@ -32921,13 +32921,13 @@
 	},
 	"43a593be-676b-40fd-a5d4-167c7da7396b": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"description": "This Mod add Parts from my Main Mod ( Fant Mod ) as Seperated Mod usable in Creative.\r\n\r\n-Clean Texture Blocks\r\n-Clean texture Shapes\r\n-45 Degree Small Pipe Variants\r\n-Thin Pannels\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2950134231,
 		"localId": "43a593be-676b-40fd-a5d4-167c7da7396b",
 		"name": "Fants Block and Parts",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"bdc769c1-87f4-4d84-b396-8dc91a42a800": {
 		"allow_add_mods": true,
@@ -37289,7 +37289,7 @@
 	"b693d5e6-7e0f-4998-96df-078f5e449601": {
 		"allow_add_mods": false,
 		"custom_icons": false,
-		"description": "This custom game allows you to unlock all the clothes in the game in a couple of minutes.\ndressbot is accelerated, and does everything in one go.\nendless clothes and cotton appear in the inventory.\nthis option is great for those who do not want to sweat getting clothes or play only in the creative.",
+		"description": "This custom game allows you to unlock all the clothes in the game in a couple of minutes.\ndressbot is accelerated, and does everything in one go.\nendless clothes and cotton appear in the inventory.\nthis option is great for those who do not want to sweat getting clothes or play only in the creative.\n\nPlease note that this custom game allows you to unlock ONLY THOSE clothes that you can get in dressbot.\n\nour server: https://discord.gg/gVvyDajPjb",
 		"fileId": 3157384106,
 		"localId": "b693d5e6-7e0f-4998-96df-078f5e449601",
 		"name": "The Garment Cracker",
@@ -41878,7 +41878,7 @@
 		"localId": "962afb13-362f-4b24-8f35-99dfdb10a7b0",
 		"name": "[Shturman_PARTS]",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"1b3f108e-c056-4a87-80bb-a2735ac8fff9": {
 		"allow_add_mods": true,
@@ -46723,7 +46723,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "[h1]NOT UPDATED FOR 1.0!!!!! [/h1][h1]A mod for myself — and for you![/h1]If you have ideas for what else cool could be added, write in the comments, or better yet — in the discussions![h2]What's already in the mod:[/h2][list][*][b]Homing magnet with prediction + GSN[/b] – magnetic lock with intercept point calculation and a seeker head.[*][b]Flares[/b] – drop decoys to fool heat-seeking missiles.[*][b]Rocket trail[/b] – a visible contrail or smoke trail for all missiles.[*][b]Bomb with sensitivity adjustment[/b] – precise trigger threshold for controlled detonation.[*][b]Inertia blocks[/b] – make your builds feel more massive and realistic in behavior.[*][b]Configurable wing[/b] – adjust lift force and control surface characteristics.[*][b]Two standalone missiles[/b] – specialized munitions to engage aircraft and other targets.[*][b]NSC (Helmet-Mounted Targeting System) for missiles[/b] – the missile seeker follows your gaze direction.[*][b]Infinite floor[/b] – walk or drive far beyond the map border without falling through.[*][b]Mouse delta for control[/b] – precise control of your builds using mouse movements.[*][b]Single-tick button[/b] – activates once and immediately disappears. Ideal for \"fire and forget\" actions.[*][b]Build camera[/b] – lets you see the entire construction as a whole. Extremely useful for large aircraft and ships.[*][b]Laser-guided missile and bomb + targeting pod[/b] – allows you to observe the enemy at great distances and deliver gifts.[*][b]Improved logic gate with configurable output signal[/b][*][b]Thruster with adjustable power, burn time, stability, and effect[/b][*][b]Barrels with adjustable buoyancy[/b] – several variations with different durability, allowing you to build ships that sink from damage.[*][b]Configurable parachute[/b] – use as an airbrake for vehicles or to airdrop them![/list]Enjoy!",
+		"description": "[h1]A mod for myself — and for you![/h1]If you have ideas for what else cool could be added, write in the comments, or better yet — in the discussions![h2]What's already in the mod:[/h2][list][*][b]Homing magnet with prediction + GSN[/b] – magnetic lock with intercept point calculation and a seeker head.[*][b]Flares[/b] – drop decoys to fool heat-seeking missiles.[*][b]Rocket trail[/b] – a visible contrail or smoke trail for all missiles.[*][b]Bomb with sensitivity adjustment[/b] – precise trigger threshold for controlled detonation.[*][b]Inertia blocks[/b] – make your builds feel more massive and realistic in behavior.[*][b]Configurable wing[/b] – adjust lift force and control surface characteristics.[*][b]Two standalone missiles[/b] – specialized munitions to engage aircraft and other targets.[*][b]NSC (Helmet-Mounted Targeting System) for missiles[/b] – the missile seeker follows your gaze direction.[*][b]Infinite floor[/b] – walk or drive far beyond the map border without falling through.[*][b]Mouse delta for control[/b] – precise control of your builds using mouse movements.[*][b]Single-tick button[/b] – activates once and immediately disappears. Ideal for \"fire and forget\" actions.[*][b]Build camera[/b] – lets you see the entire construction as a whole. Extremely useful for large aircraft and ships.[*][b]Laser-guided missile and bomb + targeting pod[/b] – allows you to observe the enemy at great distances and deliver gifts.[*][b]Improved logic gate with configurable output signal[/b][*][b]Thruster with adjustable power, burn time, stability, and effect[/b][*][b]Barrels with adjustable buoyancy[/b] – several variations with different durability, allowing you to build ships that sink from damage.[*][b]Configurable parachute[/b] – use as an airbrake for vehicles or to airdrop them![/list]Enjoy!",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -48737,12 +48737,12 @@
 				"name": "[Shturman_USER_DATABASE]"
 			}
 		],
-		"description": "[hr][/hr]\r\n\r\n\r\n[h1]/PVP - ГЛАВНАЯ КОМАНДА, ТАМ ЕСТЬ ВСЁ![/h1]\r\n\r\n[h1][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3758872947]ПОЛНОЕ РУКОВОДСТВО ЗДЕСЬ![/url][/h1]\r\n\r\n[h1][url=https://discord.gg/JUDkXbkc2Q]Discord сервер КБ \"РУБЕЖ\" (скоро будут ивенты, заходите)[/url][/h1]\r\n\r\n\r\n[hr][/hr]\r\n[h2]\r\nСтабильное отображение ников.\r\n\r\nВозможность заблокировать обычным игрокам доступ к командам.\r\n\r\nАдминистратор может назначать другим игрокам команды/наборы снаряжения/точки возрождения а также телепортировать их и проводить другие манипуляции.\r\n\r\nХост может назначать администраторов сервера.\r\n\r\nЗащита от использования посторонних чат команд другими игроками, использовать команды из ванилы или других модов может только хост.\r\n\r\nБан который никак невозможно обойти, банить можно даже ливнувших игроков.\r\n\r\nВозможность настроить урон от всех источников.\r\n\r\nБезопасные зоны для команд, больше никакого спавнкемпа.\r\n\r\nНаборы снаряжения, отображаются в нике и выдаются после каждой смерти.\r\n\r\nСоздания жёстких наборов снаряжения, игрок не сможет ничего взять в инвентарь кроме своего набора даже в креатив режиме.\r\n\r\nВыбор базовой команды и набора снаряжения, выдаются человеку сразу при заходе на мир.\r\n\r\nВозможность включить выносливость.\r\n\r\nВозможность ограничения камеры от третьего лица у пехоты и техники отдельно.\r\n\r\nМод адаптирован под работу с множеством миров на сервере.\r\n[/h2]\r\n\r\n[hr][/hr]\r\n[img]https://images.steamusercontent.com/ugc/14506269548224321635/8719920DE26F3ED163203E1F08FDDFBEE47EEE16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img]",
+		"description": "[hr][/hr][h1]МОД УСПЕШНО РАБОТАЕТ НА ВСЕХ ВЕРСИЯХ ИГРЫ![/h1][hr][/hr]\r\n\r\n\r\n[hr][/hr][h1]/PVP - МЕНЮ УПРАВЛЕНИЯ, ТАМ ЕСТЬ ВСЁ![/h1][hr][/hr]\r\n\r\n\r\n[hr][/hr][h1][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3758872947]ПОЛНОЕ РУКОВОДСТВО ЗДЕСЬ![/url][/h1][hr][/hr]\r\n\r\n\r\n[hr][/hr][h1][url=https://discord.gg/JUDkXbkc2Q]Discord сервер КБ \"РУБЕЖ\" (скоро будут ивенты, заходите)[/url][/h1][hr][/hr]\r\n\r\n\r\n[hr][/hr]\r\n[h2]\r\nСтабильное отображение ников.\r\n\r\nВозможность заблокировать обычным игрокам доступ к командам.\r\n\r\nАдминистратор может назначать другим игрокам команды/наборы снаряжения/точки возрождения а также телепортировать их и проводить другие манипуляции.\r\n\r\nХост может назначать администраторов сервера.\r\n\r\nЗащита от использования посторонних чат команд другими игроками, использовать команды из ванилы или других модов может только хост.\r\n\r\nСамописный бан который никак невозможно обойти, банить можно даже ливнувших игроков и есть возможность разбана.\r\n\r\nВозможность настроить урон от всех источников.\r\n\r\nБезопасные зоны для команд, больше никакого спавнкемпа.\r\n\r\nНаборы снаряжения, отображаются в нике и выдаются после каждой смерти.\r\n\r\nСоздания жёстких наборов снаряжения, игрок не сможет ничего взять в инвентарь кроме своего набора даже в креатив режиме.\r\n\r\nВыбор базовой команды и набора снаряжения, выдаются человеку сразу при заходе на мир.\r\n\r\nВозможность включить выносливость.\r\n\r\nВозможность ограничения камеры от третьего лица у пехоты и техники отдельно.\r\n\r\nМод адаптирован под работу с множеством миров на сервере.\r\n[/h2]\r\n\r\n[hr][/hr]\r\n[img]https://images.steamusercontent.com/ugc/14506269548224321635/8719920DE26F3ED163203E1F08FDDFBEE47EEE16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img]",
 		"fileId": 3598253981,
 		"localId": "e0984429-1af9-44da-9e19-b1f11283a4ac",
 		"name": "[Shturman_PVP]",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"c4a909d9-9e43-4a3e-8637-f2e15ec7e652": {
 		"allow_add_mods": true,
@@ -48958,12 +48958,12 @@
 	"191b36a9-7735-4776-b28b-5153645c7793": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]FANT MOD 3 – CUSTOM GAMEMODE v0.1 [/h1]\r\n[h1]Base Mode for Additional Mods[/h1]\r\nGame Version: 1.0\r\n\r\n[h1]WORK IN PROGRESS[/h1]\r\n\r\n[hr][/hr]\r\n[b]Feature:[/b] \r\n- wocs can eat stacks of corn.\r\n- corn is placable in stacks.\r\n- added \"/cleanup\" command and \"/cleanup 123\". It >DELETES< Everything in that radius.\r\n- added \"/clearinv\" to clearout the inventory.\r\n- added \"/fly\" to fly\r\n- added the basic dev commands like /unlimited /limited /god...\r\n- all variants of totebots drop there head as item and not as part anymore.\r\n- added modded hud\r\n- ammo display for all weapons\r\n- recipe loading of mods that got added to the world\r\n\r\n[h1]Mods i personaly like to use[/h1]\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3773844861\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3327429421\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3228431919\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3012082374\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3011575610\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2980339404\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2965553955\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2963115530\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2949730799\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2947206586\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2851449097\r\n\r\n[h1]LINKS & COMMUNITY[/h1]\r\n[b]YouTube:[/b]  \r\nhttps://www.youtube.com/c/00FantMod  \r\n\r\n[b]Discord:[/b]  \r\nhttps://discord.gg/zTZjyrB5nh  \r\n\r\nSubscribe & join the Discord to get updates, features previews and support.\r\n\r\n[hr][/hr]\r\n\r\n[b]Known Issue:[/b]  \r\nalot.. please gimme time to improve and fix everything.\r\nthank you.\r\n\r\n[hr][/hr]\r\n\r\nFant Mod made by  \r\n[h1]00Fant[/h1]\r\n\r\nI do NOT give permission to reuse any content from this mod.\r\n\r\n[h1]MODDING GUIDELINES[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#\r\n",
+		"description": "[h1]FANT MOD 3 – CUSTOM GAMEMODE [/h1]\r\n[h1]Base Mode for Additional Mods[/h1]\r\nGame Version: 1.0\r\n\r\n[h1]WORK IN PROGRESS[/h1]\r\nIn case you get a warning that the gamemode is not for 1.0 when you start the world. Ignore it. is because of the mod tool. The Gamemode is UpToDate.\r\n\r\n[hr][/hr]\r\n[b]Features:[/b] \r\n- full Vanilla Survival\r\n- wocs can eat stacks of corn.\r\n- corn is placable in stacks.\r\n- added \"/cleanup\" command and \"/cleanup 123\". It >DELETES< Everything in that radius.\r\n- added \"/clearinv\" to clearout the inventory.\r\n- added \"/fly\" to fly\r\n- added the basic dev commands like /unlimited /limited /god...\r\n- all variants of totebots drop there head as item and not as part anymore.\r\n- added modded hud\r\n- ammo display for all weapons\r\n- recipe loading of mods that got added to the world\r\n\r\n[h1]Mods i personaly like to use[/h1]\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3773844861\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3327429421\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3228431919\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3012082374\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3011575610\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2980339404\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2965553955\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2963115530\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2949730799\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2947206586\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2851449097\r\n\r\n[h1]CURRENT STATE[/h1]\r\n- multiplayer untested\r\n\r\n[h1]How to make your mod compatible with this custom game[/h1]\r\nStep 1: Add a folder named \"CraftingRecipes\" into your root mod folder\r\nStep 2: Add a file named \"craftbot.json\" into the \"CraftingRecipes\" folder\r\nStep 3: Add your own crafting recipes into \"craftbot.json\" file\r\n\r\n[h1]LINKS & COMMUNITY[/h1]\r\n[b]YouTube:[/b]  \r\nhttps://www.youtube.com/c/00FantMod  \r\n\r\n[b]Discord:[/b]  \r\nhttps://discord.gg/zTZjyrB5nh  \r\n\r\nSubscribe & join the Discord to get updates, features previews and support.\r\n\r\n[hr][/hr]\r\n\r\n[b]Known Issue:[/b]  \r\nalot.. please gimme time to improve and fix everything.\r\nthank you.\r\n\r\n[hr][/hr]\r\n\r\nFant Mod made by  \r\n[h1]00Fant[/h1]\r\n\r\nI do NOT give permission to reuse any content from this mod.\r\n\r\n[h1]MODDING GUIDELINES[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#\r\n",
 		"fileId": 3772903275,
 		"localId": "191b36a9-7735-4776-b28b-5153645c7793",
 		"name": "Fant Mod 3 Custom Gamemode",
 		"type": "Custom Game",
-		"version": 0
+		"version": 1
 	},
 	"d8d65e32-2bd0-495c-a8e9-b378630e151a": {
 		"allow_add_mods": true,
@@ -49064,6 +49064,16 @@
 		"fileId": 3774096372,
 		"localId": "2de294d9-8d73-4d4e-97ea-b7b95c604bdb",
 		"name": "Collection+",
+		"type": "Custom Game",
+		"version": 1
+	},
+	"77b26909-49c9-46a4-8fed-cf8156f81581": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[b]创造模式的生存[/b] —— 适合试验和研究各种生存机械，兼容 1.0 正式版。\r\n\r\n[b]支持语言：[/b]简体中文、英文、俄语\r\n\r\n[i]自用模组，可能不怎么维护。[/i]\r\n\r\n[h2]目前的功能[/h2]\r\n[list]\r\n[*] 开关无敌模式和创造模式背包\r\n[*] 开关飞行模式\r\n[*] 更改时间和天气\r\n[*] 尽量还原了创造模式千斤顶的用途\r\n[/list]\r\n\r\n按[b]换弹键[/b]打开界面（默认是 [b]R[/b]）。",
+		"fileId": 3774231932,
+		"localId": "77b26909-49c9-46a4-8fed-cf8156f81581",
+		"name": "FreeBuild Survival",
 		"type": "Custom Game",
 		"version": 1
 	}
