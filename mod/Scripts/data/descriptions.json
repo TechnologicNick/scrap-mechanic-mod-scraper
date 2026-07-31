@@ -48838,7 +48838,7 @@
 	"e8b1c589-8fe4-4f05-8923-6870e2b854a4": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Version 1.0.12 — Updated for Scrap Mechanic 1.0 and Drilling Thunder. Refreshes legacy database overrides for current game assets and units, and includes regrowing trees and rocks, vacuum-pump compatibility, additional parts, recipes, tools, storage, and quality-of-life improvements. Fixes Workshop packages using obsolete cached scripts.",
+		"description": "Version 1.0.13 — Updated for Scrap Mechanic 1.0 and Drilling Thunder. Refreshes legacy database overrides for current game assets and units, and includes regrowing trees and rocks, vacuum-pump compatibility, additional parts, recipes, tools, storage, expanded backpack slots, and quality-of-life improvements. Restores the fishing rod tool, recipe, icon, and description, and adds a Blueprint Pad for loading saved creations in Survival.",
 		"fileId": 2970690456,
 		"localId": "e8b1c589-8fe4-4f05-8923-6870e2b854a4",
 		"name": "LTs Mod",
@@ -48938,7 +48938,7 @@
 	"dbcd6a0c-3b08-4a08-8378-d8ffc749131b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Shift gears on the go, no need to get out of your seat!\nTo gear up press Shift + W\nTo gear down press Shift + S\n[Warning Compatibility] NOT compatible with other mods that change overwrite the base-game Driver's seats and Engines!\nSet this mod first in the mod load order",
+		"description": "Shift gears on the go, no need to get out of your seat!\r\n\r\nTo gear up press Shift + W\r\nTo gear down press Shift + S\r\n\r\nNot tested in Survival!\r\n\r\n[Warning Compatibility] \r\nNOT compatible with other mods that overwrite the base-game Driver's seats and Engines!\r\nSet this mod first in the mod load order",
 		"fileId": 3773628498,
 		"localId": "dbcd6a0c-3b08-4a08-8378-d8ffc749131b",
 		"name": "GearUp!",
@@ -49076,5 +49076,25 @@
 		"name": "FreeBuild Survival",
 		"type": "Custom Game",
 		"version": 1
+	},
+	"ff7cb825-f10c-442b-b719-7689f908fbc4": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds Alarm Clock from Survival into Creative! - Enjoy! :D",
+		"fileId": 3774720347,
+		"localId": "ff7cb825-f10c-442b-b719-7689f908fbc4",
+		"name": "Alarm Clock in Creative",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"2b954e96-2fba-4bb0-a77b-37384b050832": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod adds custom thrusters to creative mode! - Enjoy :3",
+		"fileId": 3774726306,
+		"localId": "2b954e96-2fba-4bb0-a77b-37384b050832",
+		"name": "New Thrusters v1.0",
+		"type": "Blocks and Parts",
+		"version": 2
 	}
 }

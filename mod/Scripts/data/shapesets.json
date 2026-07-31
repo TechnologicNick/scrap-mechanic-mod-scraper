@@ -68395,7 +68395,6 @@
 			"bc17e873-ffb9-42d7-a96b-bac8b4c4997f",
 			"ec399c99-c311-4635-b61c-e41eaeba23d7",
 			"7b0b70f7-1b2f-4957-9414-8346235fbdb7",
-			"be29592a-ef58-4b1d-b18c-895023abd27f",
 			"c24866e6-da0c-41c0-a9e3-048fdfd5f110",
 			"bf38a170-d9cf-473a-a950-c46dde73cfdf"
 		]
@@ -157518,7 +157517,7 @@
 			"fc4f1fd8-2544-45f0-8e3b-4684bc45e5f9",
 			"1f5d8b77-183c-4f8b-83d7-a3940d090926"
 		],
-		"$CONTENT_e8b1c589-8fe4-4f05-8923-6870e2b854a4/Objects/Database/ShapeSets/stoneparts.json": [
+		"$CONTENT_e8b1c589-8fe4-4f05-8923-6870e2b854a4/Objects/Database/ShapeSets/harvests_stones.shapeset": [
 			"cd18840d-d4ee-4f36-8ab1-843c823b0dcf",
 			"b2d9e40b-e8e8-4d1e-86f9-86d0bdc5ddc4",
 			"c9d61f53-ebd3-4bb5-8789-43b00edbcc8b",
@@ -157619,7 +157618,7 @@
 			"eecc076e-c9a0-4f40-a966-ebc3a34e487a",
 			"0ee1efd7-0495-45da-b086-a831c58cdbda"
 		],
-		"$CONTENT_e8b1c589-8fe4-4f05-8923-6870e2b854a4/Objects/Database/ShapeSets/treeparts.json": [
+		"$CONTENT_e8b1c589-8fe4-4f05-8923-6870e2b854a4/Objects/Database/ShapeSets/harvests_trees.shapeset": [
 			"88dc2a60-7e1a-4c24-8584-2491acd79753",
 			"135967d2-7faa-495f-98f4-5130350396a4",
 			"a4ab4df5-403d-4baa-a3c3-ecc19dd87340",
@@ -157791,6 +157790,7 @@
 			"fd44effd-3e85-410e-b3bd-9e34045840f7",
 			"a6d186ad-c9ba-4b6d-922c-6c13dfcea230",
 			"ce7f5437-9a5e-4e21-af17-e3bb7a67b32e",
+			"ff328b82-b0a0-451d-8ba7-282e45b7cea4",
 			"5ad298e4-f5ad-479c-9ec6-6c4f9d3fb8ae"
 		],
 		"$CONTENT_e8b1c589-8fe4-4f05-8923-6870e2b854a4/Objects/Database/ShapeSets/new_vacumpipe.json": [
@@ -162370,5 +162370,23 @@
 	},
 	"77b26909-49c9-46a4-8fed-cf8156f81581": {
 		"$CONTENT_77b26909-49c9-46a4-8fed-cf8156f81581/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"ff7cb825-f10c-442b-b719-7689f908fbc4": {
+		"$CONTENT_ff7cb825-f10c-442b-b719-7689f908fbc4/Objects/Database/ShapeSets/interactive.shapeset": [
+			"d9509ce7-5a2e-4d4d-b39c-1332447cef41"
+		]
+	},
+	"2b954e96-2fba-4bb0-a77b-37384b050832": {
+		"$CONTENT_2b954e96-2fba-4bb0-a77b-37384b050832/Objects/Database/ShapeSets/newthrusters.shapeset": [
+			"7af32d19-aae0-4dd1-8722-25ca9dc1918b",
+			"834c2e7e-068f-4c12-8979-812fe980dafc",
+			"1f09bb92-083a-4e2e-8dd8-476e8a4caac5",
+			"c325d540-774c-47f3-aa5e-1ee12bbcd2b4",
+			"515d604d-f659-4882-9f5a-dd8a0085b8cd",
+			"d365cb3d-7053-4d02-81b9-75d93abf2753",
+			"7a0603fd-d5e6-4cc9-83f8-c9b4f7e6d5ab",
+			"81d7b46f-e83a-436e-87ba-06094925d92a",
+			"f3b563b2-ffaa-47cf-bac0-efd20796d862"
+		]
 	}
 }
