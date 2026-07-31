@@ -157463,6 +157463,9 @@
 			"36335664-6e61-4d44-9876-54f9660a8565",
 			"1147e59d-6940-42b4-840b-07f05054f5e0"
 		],
+		"$CONTENT_e8b1c589-8fe4-4f05-8923-6870e2b854a4/Objects/Database/ShapeSets/render.json": [
+			"4a971f7d-14e6-454d-bce8-0879243c8735"
+		],
 		"$CONTENT_e8b1c589-8fe4-4f05-8923-6870e2b854a4/Objects/Database/ShapeSets/scrapinteractables.json": [
 			"bd597ac9-6640-43ba-9bd8-ed584a794f13",
 			"847daf20-02bf-4170-8699-9ab106acd29a",
@@ -162387,6 +162390,20 @@
 			"7a0603fd-d5e6-4cc9-83f8-c9b4f7e6d5ab",
 			"81d7b46f-e83a-436e-87ba-06094925d92a",
 			"f3b563b2-ffaa-47cf-bac0-efd20796d862"
+		]
+	},
+	"c03cb354-afcd-44db-8751-d1a91f65a638": {},
+	"c03b935c-faef-4c24-af72-67912f27c82c": {
+		"$CONTENT_c03b935c-faef-4c24-af72-67912f27c82c/Objects/Database/ShapeSets/gear.shapeset": [
+			"63739142-54ca-4a33-830b-77f2f4ce1799",
+			"f9801f1c-cc60-4846-862e-2ab132b19384",
+			"a7b37e66-ff31-4eea-be25-bb1bb8fdd6f2"
+		],
+		"$CONTENT_c03b935c-faef-4c24-af72-67912f27c82c/Objects/Database/ShapeSets/projectiles.shapeset": []
+	},
+	"b6f2b7c9-c90e-488a-b685-9c4fe0ff4b42": {
+		"$CONTENT_b6f2b7c9-c90e-488a-b685-9c4fe0ff4b42/Objects/Database/ShapeSets/example.shapeset": [
+			"cd009362-fc3d-4789-a8cf-714e721111b8"
 		]
 	}
 }
