@@ -49110,7 +49110,7 @@
 	"c03b935c-faef-4c24-af72-67912f27c82c": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Just a mod for Steel Duelants Discord ServIt includes some interactives for battles of armored vehicles like tanks or something",
+		"description": "Мод для дискорд сервера Стальные Дуэлянты( https://discord.gg/Cx7TpYCkHy ) \r\nВмещает в себе детали для бронетехники по типу танков\r\n\r\nМОД НАХОДИТСЯ В ПРЕ АЛЬФЕ И ИМЕЕТ НЕЗАКОНЧЕННЫЕ ДЕТАЛИ И ИДЕИ",
 		"fileId": 3774936040,
 		"localId": "c03b935c-faef-4c24-af72-67912f27c82c",
 		"name": "Steel Duelants Mod",
@@ -49170,7 +49170,7 @@
 	"91e81829-ebdc-46fe-bc7b-30554a825677": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Vanilla Survival with two quality-of-life tweaks (more tweaks to come as i find things I want to adjust while playing 1.0):\r\n\r\n- Component Kits drop at 2x quantity - from robots, breakable chests, loot crates and warehouse loot.\r\n- Every chest you build holds 4x the slots: Scrap Chest 40, Small Chest 40, Chest 80, Large Chest 120, XXL Chest 400.\r\n\r\nEverything else is untouched vanilla Survival. Drop chances are unchanged - only the amounts.",
+		"description": "Vanilla Survival with quality-of-life tweaks (more tweaks to come as i find things I want to adjust while playing 1.0):\r\n\r\n- Component Kits drop at 2x quantity.\r\n- Chests capacity 4x.\r\n- Increase stack sizes to 999\r\n- Increased Resource Collector Range by 3x\r\n- Crops always drop seeds",
 		"fileId": 3775130552,
 		"localId": "91e81829-ebdc-46fe-bc7b-30554a825677",
 		"name": "Fallen Survival Tweaks",
@@ -49193,5 +49193,45 @@
 		"name": "Item Overstack 2 - Custom Game",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"a6eca5d7-5e4d-49c9-9465-887e6bfc9656": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 3309460746,
+				"localId": "ecdf1eb6-eb77-4149-ae7e-4f0f835c30e8"
+			},
+			{
+				"fileId": 3408269388,
+				"localId": "a05af9f2-860d-4529-b70b-0ad405dd4dbd"
+			}
+		],
+		"description": "This is purely a testing mod, I cannot promise it is stable or will not crash your game.\r\n\r\nScrap Mechanic 1.0 Survival with New Legend Mod Continuation integrated into the craftbot. Requires New Legend Mod Continuation.\r\n\r\n",
+		"fileId": 3771336728,
+		"localId": "a6eca5d7-5e4d-49c9-9465-887e6bfc9656",
+		"name": "Vanilla 1.0 + New Legend",
+		"type": "Custom Game",
+		"version": 1
+	},
+	"90498644-bc7e-45a1-ab1b-c88047b5b35e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "WIP, nothing to see here.\r\n\r\nSoon:\r\nThis mod improves vanilla recipes and adds new recipes for vanilla items.",
+		"fileId": 3774980304,
+		"localId": "90498644-bc7e-45a1-ab1b-c88047b5b35e",
+		"name": "Improved Recipes",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"9fd43d22-5c60-4423-a95f-d096a3c62ac6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod changes the Vanilla Freezer so they drop the Ice as item and you cant collect them by pressing \"Use\" on it anymore.\r\n\r\nNow you can place a large chest next to it and turn the chest On, and the chest collects constantly the product.\r\n\r\nAlso the Freezer got a Vacuumpipe Connection Port on the bottom side.\r\na Vacuumpump can push flowers directly in it.\r\n\r\n(Allready Placed beehives need to get picked up and placed again)\r\n\r\nHave fun with it.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"fileId": 3775468788,
+		"localId": "9fd43d22-5c60-4423-a95f-d096a3c62ac6",
+		"name": "Better Freezer",
+		"type": "Blocks and Parts",
+		"version": 2
 	}
 }
