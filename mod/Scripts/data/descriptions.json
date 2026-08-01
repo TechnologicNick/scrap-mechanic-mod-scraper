@@ -12184,13 +12184,13 @@
 	},
 	"1c626c90-466c-47ec-8927-baf0fa1e7599": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "< ! >Max's test mod\r\n------------------------------------------------------------------------\r\n包含了一个超棒的自定义贴花装置！！！\r\n\r\n你不仅可以使用已给的一些图案花纹、你还可以通过基础图形去创造自己的图标并保存，随时都能掏出来用！\r\n你甚至能通过蓝图的形式把贴花分享给别人，别人只需下载你的蓝图然后通过这个装置去保存你的图标！\r\n\r\n------------------------------------------------------------------------\r\n图标目前仅包含：\r\n[略]\r\n----------------------------------------------------------------------\r\n测试部件包含stuff included：\r\n1. 单面砖&斜面 \r\n\r\n2. 奇怪的衣服包 \r\n\r\n3. 迷你架子 \r\n\r\n4. 警示文字演示器\r\n\r\n5. 光剑！\r\n\r\n6. 导弹干扰器\r\n\r\n7. 导弹生成器全家桶\r\n\r\n8. HUD\r\n",
 		"fileId": 2780758501,
 		"localId": "1c626c90-466c-47ec-8927-baf0fa1e7599",
 		"name": "徽标实验室 Max's Logo Lab",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"669efa52-be61-4c5a-8d0f-693f89a59179": {
 		"description": "truster, what activates on water",
@@ -34375,7 +34375,7 @@
 		"description": "This Mod Add from my Main Fant Mod the Unit Facer, Unit Facer HUB and the Waypoint Marker Tool as Standalone Part. \r\nThis Blocks allows you to Build Auto Aiming Turrets, Mouse Controlled Aiming things like Mouse Aim Turrets or Vehicles that turn based on your View Direction. and much more.\r\nNot all Modes are supported in this version, but Most of them. \r\nTo get the Full Functionality of all modes use the Fant Mod.\r\n\r\nHere the COLOR Code List of all Supported Modes:\r\n\r\nDEFAULT Color = Only Robots\r\nWHITE Color = All Units\r\nBLUE Color = Wocs and Glowbugs\r\nRED Color = Players\r\nYELLOW Color = All Except Players!\r\nBLACK Color = Other Players and not the Player Owner\r\nPURPLE Color = Aim at the Owner Aim Direction\r\nPINK Color = Aim at the Owner Aim Position\r\nLIGHTORANGE = Aim at Rocks\r\nLIGHTYELLOW = Aim at Trees\r\nLIGHTGREEN = Aim at Refine Rods\r\nLIGHTGRAY = Waypoint Follow\r\n\r\n( i hope i dont have to explain that the First Row of colors in the Paint tool are LIGHT Colors and not the Colors for the Unit Facer Modes! \r\nSo when there is written \"RED\" then it Means RED and not Light or Dark Red!!! )\r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2999989626,
 		"localId": "8dce5730-a409-4340-9c0e-210109460136",
-		"name": "Unit Facer",
+		"name": "Fants Unit Facer",
 		"type": "Blocks and Parts",
 		"version": 2
 	},
@@ -41878,7 +41878,7 @@
 		"localId": "962afb13-362f-4b24-8f35-99dfdb10a7b0",
 		"name": "[Shturman_PARTS]",
 		"type": "Blocks and Parts",
-		"version": 2
+		"version": 1
 	},
 	"1b3f108e-c056-4a87-80bb-a2735ac8fff9": {
 		"allow_add_mods": true,
@@ -44241,7 +44241,7 @@
 		"localId": "fefbc5c8-5634-4302-be26-b1447cccb4e2",
 		"name": "Tordie Mod 2",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"61614003-d7a0-4194-9beb-140cb689333c": {
 		"allow_add_mods": true,
@@ -48742,7 +48742,7 @@
 		"localId": "e0984429-1af9-44da-9e19-b1f11283a4ac",
 		"name": "[Shturman_PVP]",
 		"type": "Blocks and Parts",
-		"version": 2
+		"version": 1
 	},
 	"c4a909d9-9e43-4a3e-8637-f2e15ec7e652": {
 		"allow_add_mods": true,
@@ -49126,5 +49126,72 @@
 		"name": "PotatoOverdrive",
 		"type": "Blocks and Parts",
 		"version": 2
+	},
+	"aa520f6b-9f01-4579-acdd-dda878b82d5e": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Is the max quantity count for each block and/or part too little? In this Blocks and Parts mod, all vanilla items are too large. All items are capped at 65535.Warning: There won't be any Item icons, because I'm unable to genererate icons. If there's no icon of any item you want, it means the current game originally don't use those items. I prefer the 0.7.4 variant of generating icons.",
+		"fileId": 3774217548,
+		"localId": "aa520f6b-9f01-4579-acdd-dda878b82d5e",
+		"name": "Item Overstack 2 - Blocks and Parts",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"d063fd6c-e36b-4db5-9999-1572d874f74a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds missing capsules from Creative mode.[hr][b]IMPORTANT NOTE:[/b] Custom Capsules [b]DO NOT[/b] work with /popcapsules as the default capsules are hardcoded into it, there is no way to add custom capsules without modifying the original code.",
+		"fileId": 3774530066,
+		"localId": "d063fd6c-e36b-4db5-9999-1572d874f74a",
+		"name": "Missing Capsules",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"434b5da0-9af6-456a-9966-c47307b20c96": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Creative PvP Arena adds a complete team-based PvP mode to Creative worlds.FEATURES• Red and Blue teams• Custom player health system• Death and team-based respawning• Kill score and round timer• Optional friendly fire• PvP administration panel• Freecam with teleportation• Team selection and spawn point blocks• Round control and reset blocks• Multiplayer support• Russian interfaceThe mod handles standard player damage and is compatible with many weapon mods that use Scrap Mechanic's standard damage system.HOW TO USE1. Add Creative PvP Arena to your Creative world.2. Place the PvP Controller and team spawn blocks.3. Use the Admin Console tool to configure the match.4. Select a team and start the PvP round.All players should subscribe to the mod before joining the world.",
+		"fileId": 3775050339,
+		"localId": "434b5da0-9af6-456a-9966-c47307b20c96",
+		"name": "Creative PvP Arena",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"f7eedaea-1f40-48ee-9f7d-258e3f4e7cd0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Simple mod that add bots from chapter 2\r\ncommands:\r\n/spawn\r\n/botlist\r\n\r\nI may add trashbot and hp system but I don't know how to make them",
+		"fileId": 3775102581,
+		"localId": "f7eedaea-1f40-48ee-9f7d-258e3f4e7cd0",
+		"name": "Chapter 2 bots",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"91e81829-ebdc-46fe-bc7b-30554a825677": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Vanilla Survival with two quality-of-life tweaks (more tweaks to come as i find things I want to adjust while playing 1.0):\r\n\r\n- Component Kits drop at 2x quantity - from robots, breakable chests, loot crates and warehouse loot.\r\n- Every chest you build holds 4x the slots: Scrap Chest 40, Small Chest 40, Chest 80, Large Chest 120, XXL Chest 400.\r\n\r\nEverything else is untouched vanilla Survival. Drop chances are unchanged - only the amounts.",
+		"fileId": 3775130552,
+		"localId": "91e81829-ebdc-46fe-bc7b-30554a825677",
+		"name": "Fallen Survival Tweaks",
+		"type": "Custom Game",
+		"version": 1
+	},
+	"363b421c-c960-48f3-86d0-7730953083f2": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 3774217548,
+				"localId": "aa520f6b-9f01-4579-acdd-dda878b82d5e",
+				"name": "Item Overstack 2 - Blocks and Parts"
+			}
+		],
+		"description": "Is the stack size too small? Don't worry, the stack size is too large! You can stack up to 65535 for every single item!",
+		"fileId": 3775344717,
+		"localId": "363b421c-c960-48f3-86d0-7730953083f2",
+		"name": "Item Overstack 2 - Custom Game",
+		"type": "Custom Game",
+		"version": 0
 	}
 }

@@ -1878,5 +1878,11 @@
 	"77b26909-49c9-46a4-8fed-cf8156f81581": {
 		"$CONTENT_77b26909-49c9-46a4-8fed-cf8156f81581/Characters/Database/CharacterSets/example.characterset": []
 	},
-	"c03cb354-afcd-44db-8751-d1a91f65a638": {}
+	"c03cb354-afcd-44db-8751-d1a91f65a638": {},
+	"91e81829-ebdc-46fe-bc7b-30554a825677": {
+		"$CONTENT_91e81829-ebdc-46fe-bc7b-30554a825677/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"363b421c-c960-48f3-86d0-7730953083f2": {
+		"$CONTENT_363b421c-c960-48f3-86d0-7730953083f2/Characters/Database/CharacterSets/example.characterset": []
+	}
 }
