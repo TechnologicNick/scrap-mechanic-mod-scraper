@@ -39434,7 +39434,7 @@
 		"localId": "57250638-5549-4af7-81c2-1ebc01aefd9a",
 		"name": "car 1",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"3abcc586-35bf-46a0-8164-21512bcfc0cf": {
 		"allow_add_mods": true,
@@ -46494,7 +46494,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "[b]I explicitly didn't make this mod for kAN[/b][b]What does this mod do?[/b]Adds a simple chat command \"/nametags\", \"/nametag\" or \"/namestag\" to toggle player name tags on/off, while keeping the HUD fully visible.Useful for Hide and Seek Challenges, especially when switches or buttons require precise interaction angles and you need the HUD interaction hint.If another player falls from the map or joins after you´ve enabled the hider, it takes around 0.25 seconds (every 10 ticks), till it hides the nametag again.[b]Features:[/b]- HUD stays visible- Player name tags can be hidden- Client-side only- Works in all Challenge maps- No blocks or map changes required[b]Installation:[/b][b]BACKUP this file:[/b]Scrap Mechanic\\ChallengeData\\Scripts\\challenge\\ChallengeGame.lua[b]Go to:[/b]\"Steam\\SteamApps\\workshop\\content\\387990\\3654366694\\Scripts\\challenge\"[b]Copy the included ChallengeGame.lua into:[/b]Scrap Mechanic\\ChallengeData\\Scripts\\challenge\\[b]Update:[/]The same as installation.[b]Uninstall:[/b]Restore your backup or verify game files[b]Warning:[/b]- Not officially supported- Updates may overwrite the file- Use at your own risk",
+		"description": "[b]I explicitly didn't make this mod for kAN[/b][b]What does this mod do?[/b]Adds the chat commands \"/nametags\", \"/nametag\" and \"/namestag\" to toggle player name tags on or off while keeping the entire HUD visible.This is especially useful for Hide and Seek Challenges, where the seeker should not see player name tags but still needs the interaction prompts for switches, buttons and other objects.If another player respawns, falls out of the map or joins after name tags have been hidden, it can take up to 0.25 seconds (10 game ticks) until their name tag is hidden again.[b]Features:[/b]- HUD stays fully visible- Player name tags can be hidden- Client-side only- Works in all Challenge maps- No map or block modifications required[b]Installation:[/b][b]1. Backup this file:[/b]Scrap Mechanic\\ChallengeData\\Scripts\\challenge\\ChallengeGame.lua[b]2. Rename the original file[/b]For example:ChallengeGame.lua→ ChallengeGame.lua.backup[b]3. Start Scrap Mechanic[/b]Try to load any Challenge once. It will fail because the file is missing.This step is important.Scrap Mechanic caches this Lua file internally (not inside the visible Cache folder). Simply replacing the file is not enough, as the game continue using the cached version.By temporarily removing or renaming the original file and attempting to load a Challenge, the internal cache entry is invalidated.[b]4. Close Scrap Mechanic[/b][b]5. Copy the included file[/b]From:Steam\\SteamApps\\workshop\\content\\387990\\3654366694\\Scripts\\challenge\\ChallengeGame.luaTo:Scrap Mechanic\\ChallengeData\\Scripts\\challenge\\ChallengeGame.lua[b]6. Start the game again[/b]The modified file should now be loaded instead of the previously cached version.[b]Update:[/b]Repeat the installation steps above after replacing the file with a newer version.[b]Uninstall:[/b]Restore your backup or verify the game files through Steam.[b]Warning:[/b]- Not officially supported- Game updates may overwrite the file- Future game updates may change the cachi",
 		"fileId": 3654366694,
 		"localId": "dc97b781-ba8a-4844-8b61-304081bd6bc6",
 		"name": "Hide Nametag",
@@ -48742,7 +48742,7 @@
 		"localId": "e0984429-1af9-44da-9e19-b1f11283a4ac",
 		"name": "[Shturman_PVP]",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"c4a909d9-9e43-4a3e-8637-f2e15ec7e652": {
 		"allow_add_mods": true,
@@ -48838,7 +48838,7 @@
 	"e8b1c589-8fe4-4f05-8923-6870e2b854a4": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Version 1.0.14 — Updated for Scrap Mechanic 1.0 and Drilling Thunder. Refreshes legacy database overrides for current game assets and units, and includes regrowing trees and rocks, vacuum-pump compatibility, additional parts, recipes, tools, storage, expanded backpack slots, and quality-of-life improvements. Adds global tree regrow tracking with stump-destroy cancellation, fixes tree and stone regrow compatibility, refinery processing, Woc stability, Seat Input persistence, and regrow debug commands.",
+		"description": "Version 1.0.15 — Updated for Scrap Mechanic 1.0 and Drilling Thunder. Keeps the game compatibility version at 1 while restoring the Fishing Rod as a real tool with a visible dropped-world proxy, restores its icon and description mappings, fixes added Glue recipe crafting, sets the added 5-Glue recipes to 15 seconds, and updates Large and Small Chest slot counts.",
 		"fileId": 2970690456,
 		"localId": "e8b1c589-8fe4-4f05-8923-6870e2b854a4",
 		"name": "LTs Mod",
@@ -48948,7 +48948,7 @@
 	"be752a0e-a2a9-4b12-bbfa-e0855c72b8be": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "A tougher Survival experience for mechanics seeking a real challenge!\r\n\r\n• All damage taken by players is doubled.\r\n• Green Totebots are replaced by explosive Red Totebots.\r\n• Enter /onelife to permanently disable respawning for your character in that world.\r\n• The difficulty setting has no effect — Hardcore rules are always active.",
+		"description": "",
 		"fileId": 3773662301,
 		"localId": "be752a0e-a2a9-4b12-bbfa-e0855c72b8be",
 		"name": "Hardcore Mechanic",
@@ -48958,7 +48958,7 @@
 	"191b36a9-7735-4776-b28b-5153645c7793": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]FANT MOD 3 – CUSTOM GAMEMODE [/h1]\r\n[h1]Base Mode for Additional Mods[/h1]\r\nGame Version: 1.0\r\n\r\n[h1]WORK IN PROGRESS[/h1]\r\nIn case you get a warning that the gamemode is not for 1.0 when you start the world. Ignore it. is because of the mod tool. The Gamemode is UpToDate.\r\n\r\n[hr][/hr]\r\n[b]Features:[/b] \r\n- full Vanilla Survival\r\n- wocs can eat stacks of corn.\r\n- corn is placable in stacks.\r\n- added \"/cleanup\" command and \"/cleanup 123\". It >DELETES< Everything in that radius.\r\n- added \"/clearinv\" to clearout the inventory.\r\n- added \"/fly\" to fly\r\n- added the basic dev commands like /unlimited /limited /god...\r\n- all variants of totebots drop there head as item and not as part anymore.\r\n- added modded hud\r\n- ammo display for all weapons\r\n- recipe loading of mods that got added to the world\r\n\r\n[h1]Mods i personaly like to use[/h1]\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3773844861\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3327429421\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3228431919\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3012082374\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3011575610\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2980339404\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2965553955\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2963115530\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2949730799\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2947206586\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2851449097\r\n\r\n[h1]CURRENT STATE[/h1]\r\n- multiplayer untested\r\n\r\n[h1]How to make your mod compatible with this custom game[/h1]\r\nStep 1: Add a folder named \"CraftingRecipes\" into your root mod folder\r\nStep 2: Add a file named \"craftbot.json\" into the \"CraftingRecipes\" folder\r\nStep 3: Add your own crafting recipes into \"craftbot.json\" file\r\n\r\n[h1]LINKS & COMMUNITY[/h1]\r\n[b]YouTube:[/b]  \r\nhttps://www.youtube.com/c/00FantMod  \r\n\r\n[b]Discord:[/b]  \r\nhttps://discord.gg/zTZjyrB5nh  \r\n\r\nSubscribe & join the Discord to get updates, features previews and support.\r\n\r\n[hr][/hr]\r\n\r\n[b]Known Issue:[/b]  \r\nalot.. please gimme time to improve and fix everything.\r\nthank you.\r\n\r\n[hr][/hr]\r\n\r\nFant Mod made by  \r\n[h1]00Fant[/h1]\r\n\r\nI do NOT give permission to reuse any content from this mod.\r\n\r\n[h1]MODDING GUIDELINES[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#\r\n",
+		"description": "[h1]FANT MOD 3 – CUSTOM GAMEMODE [/h1]\r\n[h1]Base Mode for Additional Mods[/h1]\r\nGame Version: 1.0\r\n\r\n[h1]WORK IN PROGRESS[/h1]\r\nIn case you get a warning that the gamemode is not for 1.0 when you start the world. Ignore it. is because of the mod tool. The Gamemode is UpToDate.\r\n\r\n[hr][/hr]\r\n[b]Features:[/b] \r\n- full Vanilla Survival\r\n- wocs can eat stacks of corn.\r\n- corn is placable in stacks.\r\n- added \"/cleanup\" command and \"/cleanup 123\". It >DELETES< Everything in that radius.\r\n- added \"/clearinv\" to clearout the inventory.\r\n- added \"/fly\" to fly\r\n- added the basic dev commands like /unlimited /limited /god...\r\n- all variants of totebots drop there head as item and not as part anymore.\r\n- added modded hud\r\n- ammo display for all weapons\r\n- recipe loading of mods that got added to the world\r\n\r\n[h1]Mods i personaly like to use[/h1]\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3773844861\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3327429421\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3228431919\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3012082374\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3011575610\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2980339404\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2965553955\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2963115530\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2949730799\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2947206586\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2851449097\r\n\r\n[h1]How to make your mod compatible with this custom game[/h1]\r\nStep 1: Add a folder named \"CraftingRecipes\" into your root mod folder\r\nStep 2: Add a file named \"craftbot.json\" into the \"CraftingRecipes\" folder\r\nStep 3: Add your own crafting recipes into \"craftbot.json\" file\r\n\r\n[h1]LINKS & COMMUNITY[/h1]\r\n[b]YouTube:[/b]  \r\nhttps://www.youtube.com/c/00FantMod  \r\n\r\n[b]Discord:[/b]  \r\nhttps://discord.gg/zTZjyrB5nh  \r\n\r\nSubscribe & join the Discord to get updates, features previews and support.\r\n\r\n[hr][/hr]\r\n\r\n[b]Known Issue:[/b]  \r\nalot.. please gimme time to improve and fix everything.\r\nthank you.\r\n\r\n[hr][/hr]\r\n\r\nFant Mod made by  \r\n[h1]00Fant[/h1]\r\n\r\nI do NOT give permission to reuse any content from this mod.\r\n\r\n[h1]MODDING GUIDELINES[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#\r\n",
 		"fileId": 3772903275,
 		"localId": "191b36a9-7735-4776-b28b-5153645c7793",
 		"name": "Fant Mod 3 Custom Gamemode",
@@ -48968,7 +48968,7 @@
 	"d8d65e32-2bd0-495c-a8e9-b378630e151a": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod doesn't have a description",
+		"description": "This mod changes the Vanilla beehives so they drop the beewax as item and you cant collect them by pressing \"Use\" on it anymore.\r\n\r\nNow you can place a large chest next to it and turn the chest On, and the chest collects constantly the product.\r\n\r\nAlso the Beehives got a Vacuumpipe Connection Port on the bottom side.\r\na Vacuumpump can push flowers directly in it.\r\n\r\n(Allready Placed beehives need to get picked up and placed again)\r\n\r\nHave fun with it.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 3773844861,
 		"localId": "d8d65e32-2bd0-495c-a8e9-b378630e151a",
 		"name": "Better Beehive",
@@ -49170,7 +49170,7 @@
 	"91e81829-ebdc-46fe-bc7b-30554a825677": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Vanilla Survival with quality-of-life tweaks (more tweaks to come as i find things I want to adjust while playing 1.0):\r\n\r\n- Component Kits drop at 2x quantity.\r\n- Chests capacity 4x.\r\n- Increase stack sizes to 999\r\n- Increased Resource Collector Range by 3x\r\n- Crops always drop seeds",
+		"description": "Vanilla Survival with quality-of-life tweaks (more tweaks to come as i find things I want to adjust while playing 1.0):- Component Kits drop at 2x quantity.- Chests capacity 4x.- Increase stack sizes to 999- Increased Resource Collector Range by 3x- Crops always drop seeds- Removed fake trees and bushes that get in the way of building.",
 		"fileId": 3775130552,
 		"localId": "91e81829-ebdc-46fe-bc7b-30554a825677",
 		"name": "Fallen Survival Tweaks",
@@ -49227,10 +49227,40 @@
 	"9fd43d22-5c60-4423-a95f-d096a3c62ac6": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod changes the Vanilla Freezer so they drop the Ice as item and you cant collect them by pressing \"Use\" on it anymore.\r\n\r\nNow you can place a large chest next to it and turn the chest On, and the chest collects constantly the product.\r\n\r\nAlso the Freezer got a Vacuumpipe Connection Port on the bottom side.\r\na Vacuumpump can push flowers directly in it.\r\n\r\n(Allready Placed beehives need to get picked up and placed again)\r\n\r\nHave fun with it.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This mod changes the Vanilla Freezer so they drop the Ice as item and you cant collect them by pressing \"Use\" on it anymore.\r\n\r\nNow you can place a large chest next to it and turn the chest On, and the chest collects constantly the product.\r\n\r\nAlso the Freezer got a Vacuumpipe Connection Port on the bottom side.\r\na Vacuumpump can push water directly in it.\r\n\r\n(Allready Placed Freezer need to get picked up and placed again)\r\n\r\nHave fun with it.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 3775468788,
 		"localId": "9fd43d22-5c60-4423-a95f-d096a3c62ac6",
 		"name": "Better Freezer",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"58ded5c3-04f3-4157-9c22-2844b3b3a158": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3774733502,
+		"localId": "58ded5c3-04f3-4157-9c22-2844b3b3a158",
+		"name": "Capsules V 1.0 Drilling Thunder",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"258861e0-55db-4f09-8d1c-f4ea3081848c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Shows the game's blue research icon next to your crosshair when you look at a part you have not researched yet, so you know before you pick it up. Type /tnuc for research progress.",
+		"fileId": 3775733862,
+		"localId": "258861e0-55db-4f09-8d1c-f4ea3081848c",
+		"name": "TnUC-Vision-Lite",
+		"type": "Custom Game",
+		"version": 1
+	},
+	"0afcc1b7-3684-4e11-9e53-3bd6a1794f61": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod add sounds. was used: a lot of music from tf2, styles of beyond - nine thou, shaman - ым, gachi remix ( youtu.be/a-2jXfaPPww ), highfleet ost and sounds, goida sound, and other.",
+		"fileId": 3775739652,
+		"localId": "0afcc1b7-3684-4e11-9e53-3bd6a1794f61",
+		"name": "minancer's dumb sounds",
 		"type": "Blocks and Parts",
 		"version": 2
 	}

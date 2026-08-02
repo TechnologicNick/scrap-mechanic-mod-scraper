@@ -157433,6 +157433,8 @@
 			"388adeab-67e5-4901-afe8-c56217754510",
 			"c9396a42-67c3-4fa3-b682-31428ff9eced",
 			"36335664-6e61-4d44-9876-54f9660a8565",
+			"b5cdd0ae-d520-4a7d-9ce0-8f4a5b6d73cc",
+			"d85b8f18-6c72-4ad5-a84d-c5d5f43b94a0",
 			"1147e59d-6940-42b4-840b-07f05054f5e0"
 		],
 		"$CONTENT_e8b1c589-8fe4-4f05-8923-6870e2b854a4/Objects/Database/ShapeSets/render.json": [
@@ -157592,6 +157594,9 @@
 			"4dbb89fa-af8c-420e-b394-35c56ba2e6f2",
 			"eecc076e-c9a0-4f40-a966-ebc3a34e487a",
 			"0ee1efd7-0495-45da-b086-a831c58cdbda"
+		],
+		"$CONTENT_e8b1c589-8fe4-4f05-8923-6870e2b854a4/Objects/Database/ShapeSets/tool_parts.shapeset": [
+			"108fb249-868e-427d-acba-bd8e80d8ef30"
 		],
 		"$CONTENT_e8b1c589-8fe4-4f05-8923-6870e2b854a4/Objects/Database/ShapeSets/harvests_trees.shapeset": [
 			"88dc2a60-7e1a-4c24-8584-2491acd79753",
@@ -163679,5 +163684,18 @@
 			"479e8131-cc76-48e1-9979-8053a7295d1f",
 			"674a9cec-dc31-46b6-849f-62726f5ca14b"
 		]
+	},
+	"58ded5c3-04f3-4157-9c22-2844b3b3a158": {
+		"$CONTENT_58ded5c3-04f3-4157-9c22-2844b3b3a158/Objects/Database/ShapeSets/example.shapeset": [
+			"ee83067b-6a77-4378-b24d-28d69fac4e3f",
+			"c6df85f8-0d90-478f-9e9a-7bedd0f4318e",
+			"dfbc93a1-0507-4c75-a050-dcaffd6cf44b"
+		]
+	},
+	"258861e0-55db-4f09-8d1c-f4ea3081848c": {
+		"$CONTENT_258861e0-55db-4f09-8d1c-f4ea3081848c/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"0afcc1b7-3684-4e11-9e53-3bd6a1794f61": {
+		"$CONTENT_0afcc1b7-3684-4e11-9e53-3bd6a1794f61/Objects/Database/ShapeSets/example.shapeset": []
 	}
 }
