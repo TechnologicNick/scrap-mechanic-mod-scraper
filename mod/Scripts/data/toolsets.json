@@ -3299,7 +3299,8 @@
 	"40023a1c-ce34-44bd-970f-e58067b5d1dd": {},
 	"990d2f1b-deb3-4c03-ac9c-63df8eeded6e": {
 		"$CONTENT_990d2f1b-deb3-4c03-ac9c-63df8eeded6e/Tools/Database/ToolSets/autoTool.toolset": [
-			"9d5f610b-0aec-4ead-8b03-14eb2ec1e876"
+			"9d5f610b-0aec-4ead-8b03-14eb2ec1e876",
+			"162365dc-6a45-4c34-b30a-1562c9e3e024"
 		]
 	},
 	"0a1eae23-1e16-42dc-ac4f-5b99d29cbbf5": {},
@@ -7792,8 +7793,9 @@
 	"f005a00e-46f7-4227-b5c2-ea00d1d64ca0": {},
 	"701d9883-12d4-4608-aac5-47742c1b34d4": {},
 	"3f0deaa8-6e58-4e70-b4fe-594ce63dab73": {
-		"$CONTENT_3f0deaa8-6e58-4e70-b4fe-594ce63dab73/Tools/Database/ToolSets/example.toolset": [
-			"b2c3d4e5-f6a7-8901-bcde-f12345678901"
+		"$CONTENT_3f0deaa8-6e58-4e70-b4fe-594ce63dab73/Tools/Database/ToolSets/NeonGelTools.toolset": [
+			"c3d4e5f6-a7b8-9012-cdef-234567890123",
+			"d4e5f6a7-b8c9-0123-cdef-345678901234"
 		]
 	},
 	"dbcd6a0c-3b08-4a08-8378-d8ffc749131b": {},
@@ -7875,5 +7877,6 @@
 	"258861e0-55db-4f09-8d1c-f4ea3081848c": {
 		"$CONTENT_258861e0-55db-4f09-8d1c-f4ea3081848c/Tools/Database/ToolSets/example.toolset": []
 	},
-	"0afcc1b7-3684-4e11-9e53-3bd6a1794f61": {}
+	"0afcc1b7-3684-4e11-9e53-3bd6a1794f61": {},
+	"de9f1a24-8f1a-40e9-9032-cfb699bce179": {}
 }

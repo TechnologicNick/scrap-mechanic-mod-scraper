@@ -48931,7 +48931,7 @@
 		"description": "这个Mod可以让你的创造模式存档开启云生成。\r\n\r\n注意：该Mod暂时无法切换云的预设，默认使用\"Cloud01\"预设，你可以在脚本文件中更改其他预设！\r\n\r\n此Mod将持续更新...\r\n",
 		"fileId": 3773622708,
 		"localId": "3f0deaa8-6e58-4e70-b4fe-594ce63dab73",
-		"name": "Cloud CreativeMode",
+		"name": "Weather Controller",
 		"type": "Blocks and Parts",
 		"version": 2
 	},
@@ -49170,7 +49170,7 @@
 	"91e81829-ebdc-46fe-bc7b-30554a825677": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Vanilla Survival with quality-of-life tweaks (more tweaks to come as i find things I want to adjust while playing 1.0):- Component Kits drop at 2x quantity.- Chests capacity 4x.- Increase stack sizes to 999- Increased Resource Collector Range by 3x- Crops always drop seeds- Removed fake trees and bushes that get in the way of building.",
+		"description": "Vanilla Survival with quality-of-life tweaks (more tweaks to come as i find things I want to adjust while playing 1.0):- Component Kits drop at 2x quantity.- Chests capacity 4x.- Increase stack sizes to 999- Increased Resource Collector Range by 3x- Crops always drop seeds- Removed fake trees and bushes that get in the way of building.- Doubled Oil for underwater geysers",
 		"fileId": 3775130552,
 		"localId": "91e81829-ebdc-46fe-bc7b-30554a825677",
 		"name": "Fallen Survival Tweaks",
@@ -49261,6 +49261,16 @@
 		"fileId": 3775739652,
 		"localId": "0afcc1b7-3684-4e11-9e53-3bd6a1794f61",
 		"name": "minancer's dumb sounds",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"de9f1a24-8f1a-40e9-9032-cfb699bce179": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1]Scrap Mechanic DirectX 兼容性修复补丁[/h1]让所有支持 DirectX 10.1 及以上的显卡都能顺利进入游戏！[hr][/hr][h2]简介[/h2]本补丁用于解决《废品机械师》（Scrap Mechanic）启动时报错 [b]\"DirectX feature level 10.1 or higher is required\"[/b] 的问题。本 DLL 仅作为转发层，不修改任何游戏逻辑，不涉及作弊功能。整个过程无需修改游戏原文件，移除该 DLL 即可恢复原始状态，安全、无侵入。[hr][/hr][h2]解决的问题[/h2][list][*][b]现象：[/b]游戏启动时弹窗报错 [i]DirectX feature level 10.1 or higher is required[/i]，无法进入游戏。[*][b]原因：[/b]游戏在检测显卡时存在兼容性 Bug，某些实际支持 Feature Level 10.1 / 11.0 的显卡（如 GTX 750 Ti 等老款型号）被误判为不达标，从而导致启动失败。[/list][hr][/hr][h2]文件地址/h2]~\\steamapps\\workshop\\content\\387990\\{modid}\\Objects\\d3d11.dll[hr][/hr][h2]使用方法[/h2][olist][*]下载 [b]d3d11.dll[/b] 文件。[*]将 [b]d3d11.dll[/b] 复制到游戏安装目录下的 [b]Release[/b] 文件夹中：[code]~\\steamapps\\common\\Scrap Mechanic\\Release[/code]例如：[code]C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\\Release[/code][*]正常启动游戏即可。[/olist][hr][/hr][h2]卸载 / 还原[/h2]如需还原游戏至原始状态，只需[b]删除游戏 Release 目录下的 d3d11.dll[/b] 即可。游戏不会留下任何残留，因为：[list][*]原始游戏目录中没有 [i]d3d11.dll[/i][*]代理 DLL 不会修改任何游戏文件[*]日志文件 [i]dxhook.log[/i] 可以保留或删除（不影响游戏）[/list][hr][/hr][h2]适用性说明[/h2][list][*]适用于所有因上述报错而无法启动游戏的玩家。[*]无论你的显卡驱动版本新旧（即使已更新至较新版本），本补丁均可生效，无需回滚驱动。[*]已测试通过的环境：NVIDIA GeForce GTX 750 Ti 及同级别显卡。[/list][hr][/hr][h2]注意事项[/h2][list][*]本补丁为[b]社区自制修复工具[/b]，并非官方补丁，请自行决定是否使用。[*]如游戏后续更新官方修复，建议移除本补丁，使用官方版本。[*]首次加载补丁会等待较长时间！！！[/list][hr][/hr]如果这个补丁帮到了你，欢迎分享给遇到同样问题的朋友！祝游戏愉快！ 🚀",
+		"fileId": 3775749811,
+		"localId": "de9f1a24-8f1a-40e9-9032-cfb699bce179",
+		"name": "DirectX_Fix",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
