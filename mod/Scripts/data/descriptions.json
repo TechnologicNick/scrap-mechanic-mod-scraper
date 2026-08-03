@@ -16204,12 +16204,12 @@
 	"9b65a5f6-f5bf-4a76-aa6a-b96f3656862b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "A fully functional copy of Creative Game, but with better terrain generation and bigger world to explore.\r\n\r\n[code]\r\n[h1]Available Commands[/h1]\r\n[b]/clear[/b] - Removes all the loaded bodies in the world.\r\n[b]/spawn[/b] - Teleports your character to spawn position.\r\n[b]/tp [player_id][/b] - Teleports your character to selected player.\r\n[b]/playerlist[/b] - Displays the list of all players in the world.\r\n[b]/timeset [time from 0.0 to 1.0][/b] - Sets the current time.\r\n[b]/timeprogress [bool (optional)][/b] - Stops the time when set to false.\r\n[b]/fly[/b] - Toggles fly mode for your character.\r\n[b]/seed[/b] - Shows the seed and version of the current terrain generation.\r\n[b]/noaggro [bool (optional)][/b] - Toggles the player as a target.\r\n[b]/noaggrocreations [bool (optional)][/b] - Toggles whether the Tapebots will shoot at creations.\r\n[b]/popcapsules [filter (optional)][/b] - Opens all capsules. An optional filter controls which type of capsules to open: 'bot', 'animal'.\r\n[b]/aggroall[/b] - All hostile units will be made aware of the player's position.\r\n[b]/killall[/b] - Kills all spawned units.\r\n[b]/dropscrap [bool (optional)][/b] - Toggles the scrap loot from Haybots.\r\n[b]/place [harvestable][/b] - Places a harvestable at the aimed position. Must be placed on the ground. The harvestable parameter controls which harvestable to place: 'stone', 'tree', 'birch', 'leafy', 'spruce', 'pine'.\r\n[b]/enablehealth[/b] - Makes your character receive damage.\r\n[b]/die[/b] - Kills your character if your health is enabled.\r\n[b]/spawnpoint[/b] - Sets a location at which the character is respawned after death.\r\n[b]/ragdoll[/b] - Sets your character into a ragdoll state.\r\n[b]/damage [(int)damage][/b] - Damages your character if health is enabled.\r\n[/code]\r\n\r\n[code]\r\n[h1]Host only commands[/h1]\r\n[b]/regenerate [version (auto = 0)] [seed (optional)][/b] - Regenerates the world with the specified parameters.\r\n[b]/import [creation_name][/b] - Imports a creation from survival files and custom game files.\r\n[b]/export [creation_name][/b] - Exports the creation you're currently looking at.\r\n[b]/enablehealing [bool (optional)][/b] - Toggles the healing for all the characters in the world.\r\n[/code]\r\n\r\nHave Fun :)\r\n\r\nPreview image was created by [url=https://steamcommunity.com/profiles/76561198318189561]Dart Frog[/url]",
+		"description": "A fully functional copy of Creative Game, but with better terrain generation and bigger world to explore.\r\n\r\n[code]\r\n[h1]Available Commands[/h1]\r\n[b]/weather [clear|cloudy|drizzle|rain|thunder][/b] - Changes the weather\r\n[b]/kick [player_id][/b] - Kicks the specified player. Use /playerlist command to find player ids.\r\n[b]/ban [player_id][/b] - Bans the specified player. Use /playerlist command to find player ids.\r\n[b]/clear[/b] - Removes all the loaded bodies in the world.\r\n[b]/spawn[/b] - Teleports your character to spawn position.\r\n[b]/tp [player_id][/b] - Teleports your character to selected player.\r\n[b]/playerlist[/b] - Displays the list of all players in the world.\r\n[b]/timeset [time from 0.0 to 1.0][/b] - Sets the current time.\r\n[b]/timeprogress [bool (optional)][/b] - Stops the time when set to false.\r\n[b]/fly[/b] - Toggles fly mode for your character.\r\n[b]/seed[/b] - Shows the seed and version of the current terrain generation.\r\n[b]/noaggro [bool (optional)][/b] - Toggles the player as a target.\r\n[b]/noaggrocreations [bool (optional)][/b] - Toggles whether the Tapebots will shoot at creations.\r\n[b]/popcapsules [filter (optional)][/b] - Opens all capsules. An optional filter controls which type of capsules to open: 'bot', 'animal'.\r\n[b]/aggroall[/b] - All hostile units will be made aware of the player's position.\r\n[b]/killall[/b] - Kills all spawned units.\r\n[b]/dropscrap [bool (optional)][/b] - Toggles the scrap loot from Haybots.\r\n[b]/place [harvestable][/b] - Places a harvestable at the aimed position. Must be placed on the ground. The harvestable parameter controls which harvestable to place: 'stone', 'tree', 'birch', 'leafy', 'spruce', 'pine'.\r\n[b]/enablehealth[/b] - Makes your character receive damage.\r\n[b]/die[/b] - Kills your character if your health is enabled.\r\n[b]/spawnpoint[/b] - Sets a location at which the character is respawned after death.\r\n[b]/ragdoll[/b] - Sets your character into a ragdoll state.\r\n[b]/damage [(int)damage][/b] - Damages your character if health is enabled.\r\n[/code]\r\n\r\n[code]\r\n[h1]Host only commands[/h1]\r\n[b]/regenerate [version (auto = 0)] [seed (optional)][/b] - Regenerates the world with the specified parameters.\r\n[b]/import [creation_name][/b] - Imports a creation from survival files and custom game files.\r\n[b]/export [creation_name][/b] - Exports the creation you're currently looking at.\r\n[b]/enablehealing [bool (optional)][/b] - Toggles the healing for all the characters in the world.\r\n[/code]\r\n\r\nHave Fun :)\r\n\r\nPreview image was created by [url=https://steamcommunity.com/profiles/76561198318189561]Dart Frog[/url]",
 		"fileId": 2839940307,
 		"localId": "9b65a5f6-f5bf-4a76-aa6a-b96f3656862b",
 		"name": "Creative Terrain Overhaul",
 		"type": "Custom Game",
-		"version": 0
+		"version": 1
 	},
 	"fbfaffd0-201c-49cd-a980-079929cbf0a0": {
 		"allow_add_mods": true,
@@ -31938,12 +31938,13 @@
 	"a8001c69-7db7-477d-8649-9ccc31909c9e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "A mod that make trash finding a lot easier\n\n-- WHAT IS IT DOING --\n\nWhen you activate the unweld locator, it will automaticaly add beacons objects on every unwelded creations or parts in your world. Please note that the beacons will not be visible everytime because of the scrap mechanic render distance.\n\n-- HOW TO USE --\n\nPut the unweld locator on the floor\nShoot on it with a sputgun to activate / desactivate the beacons\n\nWARNING : SHOOTING A BIG AMOUT OF POTATOS ON THE UNWELD LOCATOR AT THE SAME TIME WILL CRASH YOUR GAME\n\n-- UPDATE PART 2 --\n\nThe mod as been updated : the beacons objects are now automaticaly deleting/adding/following the creation they are on and don't need actualisation anymore and they no longer fade out when out of range !\n\nIf you have any sugestions, let me know ^^",
+		"dependencies": null,
+		"description": "A mod that make trash finding a lot easier-- WHAT IS IT DOING --When you activate the unweld locator, it will automaticaly add beacons objects on every unwelded creations or parts in your world. Please note that the beacons will not be visible everytime because of the scrap mechanic render distance.-- HOW TO USE --Put the unweld locator on the floor. Use E to active and desactivate it.-- UPDATE PART 3 --The mod as been updated for 1.0 : it's now a lot simpler to use (no more sputgun involved lol), and it also fixes some jank with having multiple in your world, alongside destroying an activated unwel locator.I would like to add this block into survival, but I don't think it's possible to do that yet sadly.I also wanted to add a compass icon for each unwelded creation, but I couldn't find it in the mod API (maybe it's not an available feature for mods yet...)If you have any sugestions, let me know ^^",
 		"fileId": 2922060438,
 		"localId": "a8001c69-7db7-477d-8649-9ccc31909c9e",
 		"name": "Custom Trash Locator Mod",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"4784c689-ce16-482c-93aa-f26f467301c2": {
 		"allow_add_mods": true,
@@ -41878,7 +41879,7 @@
 		"localId": "962afb13-362f-4b24-8f35-99dfdb10a7b0",
 		"name": "[Shturman_PARTS]",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"1b3f108e-c056-4a87-80bb-a2735ac8fff9": {
 		"allow_add_mods": true,
@@ -46723,7 +46724,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "[h1]A mod for myself — and for you![/h1]If you have ideas for what else cool could be added, write in the comments, or better yet — in the discussions![h2]What's already in the mod:[/h2][list][*][b]Homing magnet with prediction + GSN[/b] – magnetic lock with intercept point calculation and a seeker head.[*][b]Flares[/b] – drop decoys to fool heat-seeking missiles.[*][b]Rocket trail[/b] – a visible contrail or smoke trail for all missiles.[*][b]Bomb with sensitivity adjustment[/b] – precise trigger threshold for controlled detonation.[*][b]Inertia blocks[/b] – make your builds feel more massive and realistic in behavior.[*][b]Configurable wing[/b] – adjust lift force and control surface characteristics.[*][b]Two standalone missiles[/b] – specialized munitions to engage aircraft and other targets.[*][b]NSC (Helmet-Mounted Targeting System) for missiles[/b] – the missile seeker follows your gaze direction.[*][b]Infinite floor[/b] – walk or drive far beyond the map border without falling through.[*][b]Mouse delta for control[/b] – precise control of your builds using mouse movements.[*][b]Single-tick button[/b] – activates once and immediately disappears. Ideal for \"fire and forget\" actions.[*][b]Build camera[/b] – lets you see the entire construction as a whole. Extremely useful for large aircraft and ships.[*][b]Laser-guided missile and bomb + targeting pod[/b] – allows you to observe the enemy at great distances and deliver gifts.[*][b]Improved logic gate with configurable output signal[/b][*][b]Thruster with adjustable power, burn time, stability, and effect[/b][*][b]Barrels with adjustable buoyancy[/b] – several variations with different durability, allowing you to build ships that sink from damage.[*][b]Configurable parachute[/b] – use as an airbrake for vehicles or to airdrop them![/list]Enjoy!",
+		"description": "load...",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -48838,7 +48839,7 @@
 	"e8b1c589-8fe4-4f05-8923-6870e2b854a4": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Version 1.0.15 — Updated for Scrap Mechanic 1.0 and Drilling Thunder. Keeps the game compatibility version at 1 while restoring the Fishing Rod as a real tool with a visible dropped-world proxy, restores its icon and description mappings, fixes added Glue recipe crafting, sets the added 5-Glue recipes to 15 seconds, and updates Large and Small Chest slot counts.",
+		"description": "Version 1.0.16 — Updated for Scrap Mechanic 1.0 and Drilling Thunder. Keeps the game compatibility version at 1 while fixing Refinery output routing so processed blocks can be placed into connected containers through the current Scrap Mechanic pipe graph.",
 		"fileId": 2970690456,
 		"localId": "e8b1c589-8fe4-4f05-8923-6870e2b854a4",
 		"name": "LTs Mod",
@@ -49070,7 +49071,7 @@
 	"77b26909-49c9-46a4-8fed-cf8156f81581": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[b]创造模式的生存[/b] —— 适合试验和研究各种生存机械，兼容 1.0 正式版。\r\n\r\n[b]支持语言：[/b]简体中文、英文、俄语\r\n\r\n[i]自用模组，可能不怎么维护。[/i]\r\n\r\n[h2]目前的功能[/h2]\r\n[list]\r\n[*] 开关无敌模式和创造模式背包\r\n[*] 开关飞行模式\r\n[*] 更改时间和天气\r\n[*] 尽量还原了创造模式千斤顶的用途\r\n[/list]\r\n\r\n按[b]换弹键[/b]打开界面（默认是 [b]R[/b]）。",
+		"description": "[b]创造模式的生存[/b]，适合试验和研究各种生存机械，兼容 1.0 正式版。\r\n\r\n[b]支持语言：[/b]简体中文、英文、俄语\r\n\r\n[i]自用模组，可能不怎么维护。[/i]\r\n\r\n[h2]目前的功能[/h2]\r\n[list]\r\n[*] 无敌模式和创造模式背包等一系列功能，也就是把原版生存开发者模式的指令和原版创造模式的指令都做成了图形界面\r\n[*] 开关飞行模式\r\n[*] 尽量还原了创造模式千斤顶的用途\r\n[*] 一键完成任务（还比较实验性，可能会有一些小毛病）\r\n[*] 传送到其他玩家身边，也可以传送到指定地点\r\n[/list]\r\n\r\n不支持解锁服装和成就（按道理来说应该是这样）。\r\n\r\n按[b]换弹键[/b]打开菜单（默认是 [b]R[/b] 键）。",
 		"fileId": 3774231932,
 		"localId": "77b26909-49c9-46a4-8fed-cf8156f81581",
 		"name": "FreeBuild Survival",
@@ -49100,12 +49101,12 @@
 	"c03cb354-afcd-44db-8751-d1a91f65a638": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h1]生存成长与实用功能扩展[/h1]\n\nLeaf Survival 建立在原版生存模式之上。\n\n模组加入等级成长、技能树、多人协作指令与补充制造配方。新增内容以长期生存、角色成长和多人协作为核心，同时保留原版生存的主要流程。\n\n[b]开始使用[/b]\n[list]\n[*]通过战斗、采集和手动精炼获得经验。\n[*]制作并装备技能面板，使用技能面板打开技能树。\n[/list]\n\n[h2]成长系统[/h2]\n\n[b]等级与经验[/b]\n[list]\n[*]战斗、采集和手动精炼均可获得经验。\n[*]升级所需经验会随等级逐步增加。\n[/list]\n\n[b]升级奖励[/b]\n[list]\n[*]首次达到一个新等级时，生命上限增加 1 点。\n[*]首次达到一个新等级时，获得 1 个技能点。\n[/list]\n\n[b]死亡规则[/b]\n[list]\n[*]死亡并重生后，当前等级降低 1 级。\n[*]等级最低不会低于 1 级。\n[*]已经获得的技能点不会被收回。\n[/list]\n\n[b]技能点与洗点[/b]\n[list]\n[*]技能点用于提升技能等级。\n[*]不同技能与不同等级所需的技能点数不同。\n[*]洗点会重置全部技能，并返还已经投入的技能点。\n[*]每次洗点会降低 1 级。\n[/list]\n\n[h2]技能系统[/h2]\n\n[h3]沉着守势[/h3]\n[list]\n[*]每秒未受伤，获得 1 层守势。\n[*]每层提供 1% 伤害减免。\n[*]受伤结算后失去 10 层。\n[*]每级提高 10 层上限，最高 80 层。\n[/list]\n\n[h3]精炼巧手[/h3]\n[list]\n[*]完成手动精炼时，有概率额外获得一份产物。\n[*]每级提高 10% 触发概率。\n[*]不影响精炼机器人。\n[/list]\n\n[h3]战利追索[/h3]\n[list]\n[*]击杀敌对机器人时，有概率追加一次掉落判定。\n[*]追加掉落仅包含电路板或部件套装。\n[*]每级提高 10% 触发概率。\n[/list]\n\n[h3]应激疾行[/h3]\n[list]\n[*]生命值下降后，暂时提高移动速度。\n[*]效果持续 5 秒，并在持续时间内逐渐衰减。\n[*]再次受伤会刷新持续时间。\n[*]每级提高 10% 初始加成。\n[/list]\n\n[h3]临阵狂热[/h3]\n[list]\n[*]7 米内每有一个敌对机器人，近战挥舞速度提高 20%。\n[*]技能等级决定最多计入多少个敌人。\n[/list]\n\n[h3]致命一击[/h3]\n[list]\n[*]攻击敌对机器人时，有概率造成双倍伤害。\n[*]每次命中独立判定。\n[*]每级提高 5% 触发概率。\n[/list]\n\n[h2]实用指令[/h2]\n\n[i]以下仅列出正常游玩指令，不包含调试指令。技能树通过技能面板打开。[/i]\n\n[h3]玩家与位置[/h3]\n[list]\n[*][b]/players[/b] — 显示在线玩家及其玩家 ID。\n[*][b]/pos[/b] — 显示当前世界、区块和精确坐标。\n[*][b]/distance 玩家名或@ID[/b] — 显示与目标玩家的直线距离。\n[/list]\n\n[h3]位置分享[/h3]\n[list]\n[*][b]/sharepos[/b] — 向其他玩家分享当前位置。\n[*][b]/sharepos 玩家名或@ID[/b] — 仅向指定玩家分享当前位置。\n[*][b]/ping [文字][/b] — 在当前位置设置持续 30 秒的公共临时信标。不填写文字时显示“这里”。\n[/list]\n\n[h3]传送[/h3]\n[list]\n[*][b]/tp 玩家名或@ID[/b] — 传送到指定玩家附近。\n[*][b]/tp X Y Z[/b] — 传送到指定坐标。\n[*][b]/tp 玩家1 玩家2[/b] — 将玩家1传送到玩家2附近。\n[*][b]/tp 玩家名 X Y Z[/b] — 将指定玩家传送到对应坐标。\n[/list]\n\n[h3]脱困[/h3]\n[list]\n[*][b]/stuck[/b] — 保持静止 8 秒后尝试脱困。\n[*]系统会优先寻找附近可站立且空间充足的位置。\n[*]附近没有安全位置时，才会尝试向上脱困。\n[*]移动、坐下、倒地或附近出现生物时，脱困读秒会被取消。\n[/list]\n\n[h3]家园[/h3]\n[list]\n[*][b]/home set[/b] — 将当前位置设置为家。\n[*][b]/home[/b] — 返回已经设置的家。\n[*][b]/home clear[/b] — 清除当前的家。\n[*]家只能设置在主世界。\n[*]返回家时需要停稳，且附近不能有生物或机器人。\n[/list]\n\n[h3]天气[/h3]\n[list]\n[*][b]/weather list[/b] — 查看可用天气。\n[*][b]/weather 天气名称[/b] — 切换当前天气，仅限房主使用。\n[/list]\n\n[h2]补充制造配方[/h2]\n\nLeaf Survival 补充了部分原版生存中缺少的资源转化路线。\n\n[h3]部件套装[/h3]\n[list]\n[*]材料：20 个电路板、10 个二级钢。\n[*]产物：1 个部件套装。\n[*]制造时间：20 秒。\n[*]默认解锁。\n[/list]\n\n[h3]化学肥料[/h3]\n[list]\n[*]材料：10 个化学品、5 份水。\n[*]产物：5 份肥料。\n[*]制造时间：10 秒。\n[*]原版萤光便便肥料配方仍然保留。\n[/list]\n\n[h2]后续方向[/h2]\n\n后续开发将继续围绕生存模式中的实用功能展开，并逐步加入具有自动控制能力的智能物品。\n\n飞行控制系统是目前考虑的方向之一。新内容会在功能完成并通过实际稳定性验证后加入。",
+		"description": "[h1]生存成长与实用功能扩展[/h1]\n\nLeaf Survival 建立在原版生存模式之上。\n\n模组加入等级成长、技能树、多人协作指令与补充制造配方。新增内容以长期生存、角色成长和多人协作为核心，同时保留原版生存的主要流程。\n\n[b]开始使用[/b]\n[list]\n[*]通过战斗、采集和手动精炼获得经验。\n[*]制作并装备技能面板，使用它打开技能树。\n[/list]\n\n[h2]成长系统[/h2]\n\n[b]等级与经验[/b]\n[list]\n[*]战斗、采集和手动精炼均可获得经验。\n[*]升级所需经验会随等级逐步增加。\n[/list]\n\n[b]升级奖励[/b]\n[list]\n[*]首次达到新等级时，生命上限增加 1 点。\n[*]首次达到新等级时，获得 1 个技能点。\n[/list]\n\n[b]死亡规则[/b]\n[list]\n[*]死亡并重生后，当前等级降低 1 级。\n[*]等级最低不会低于 1 级。\n[*]已经获得的技能点不会被收回。\n[/list]\n\n[b]技能点与洗点[/b]\n[list]\n[*]技能点用于提升技能等级。\n[*]不同技能与不同等级的升级消耗不同。\n[*]洗点会重置全部技能，并返还已投入的技能点。\n[*]每次洗点会降低 1 级。\n[/list]\n\n[h2]技能系统[/h2]\n\n[h3]沉着守势[/h3]\n[list]\n[*]每秒未受伤时，获得 1 层守势。\n[*]每层提供 1% 伤害减免。\n[*]受伤结算后失去 10 层。\n[*]每级提高 10 层上限，最高 80 层。\n[/list]\n\n[h3]精炼巧手[/h3]\n[list]\n[*]手动精炼完成时，有概率额外获得一份产物。\n[*]每级提高 10% 触发概率。\n[*]不影响精炼机器人。\n[/list]\n\n[h3]战利追索[/h3]\n[list]\n[*]击杀敌对机器人时，有概率追加一次掉落判定。\n[*]追加掉落仅包含电路板或部件套装。\n[*]每级提高 10% 触发概率。\n[/list]\n\n[h3]应激疾行[/h3]\n[list]\n[*]生命值下降后，暂时提高移动速度。\n[*]效果持续 5 秒，并在持续时间内逐渐衰减。\n[*]再次受伤会刷新持续时间。\n[*]每级提高 10% 初始加成。\n[/list]\n\n[h3]临阵狂热[/h3]\n[list]\n[*]7 米内每有一个敌对机器人，近战挥舞速度提高 20%。\n[*]技能等级决定最多计入多少个敌人。\n[/list]\n\n[h3]致命一击[/h3]\n[list]\n[*]攻击敌对机器人时，有概率造成双倍伤害。\n[*]每次命中独立判定。\n[*]每级提高 5% 触发概率。\n[/list]\n\n[h2]实用指令[/h2]\n\n[i]以下仅列出正常游玩指令，不包含调试指令。技能树通过技能面板打开。[/i]\n\n[h3]玩家与位置[/h3]\n[list]\n[*]/players — 显示在线玩家及其玩家 ID。\n[*]/pos — 显示当前世界、区块和精确坐标。\n[*]/distance 玩家名或@ID — 显示与目标玩家的直线距离。\n[/list]\n\n[h3]位置分享[/h3]\n[list]\n[*]/sharepos — 向其他玩家分享当前位置。\n[*]/sharepos 玩家名或@ID — 仅向指定玩家分享当前位置。\n[*]/ping [文字] — 在当前位置设置持续 30 秒的公共临时信标。不填写文字时显示“这里”。\n[/list]\n\n[h3]传送[/h3]\n[list]\n[*]/tp 玩家名或@ID — 传送到指定玩家附近。\n[*]/tp X Y Z — 传送到指定坐标。\n[*]/tp 玩家1 玩家2 — 将玩家1传送到玩家2附近。\n[*]/tp 玩家名 X Y Z — 将指定玩家传送到对应坐标。\n[/list]\n\n[h3]脱困[/h3]\n[list]\n[*]/stuck — 保持静止 8 秒后尝试脱困。\n[*]系统会优先寻找附近可站立且空间充足的位置。\n[*]附近没有安全位置时，才会尝试向上脱困。\n[*]移动、坐下、倒地或附近出现生物时，脱困读秒会被取消。\n[/list]\n\n[h3]家园[/h3]\n[list]\n[*]/home set — 将当前位置设置为家。\n[*]/home — 返回已经设置的家。\n[*]/home clear — 清除当前的家。\n[*]家只能设置在主世界。\n[*]返回家时需要停稳，且附近不能有生物或机器人。\n[/list]\n\n[h3]天气[/h3]\n[list]\n[*]/weather list — 查看可用天气。\n[*]/weather 天气名称 — 切换当前天气，仅限房主使用。\n[/list]\n\n[h2]补充制造配方[/h2]\n\nLeaf Survival 补充了部分原版生存中缺少的资源转化路线。\n\n[h3]部件套装[/h3]\n[list]\n[*]材料：20 个电路板、10 个二级钢。\n[*]产物：1 个部件套装。\n[*]制造时间：20 秒。\n[*]默认解锁。\n[/list]\n\n[h3]化学肥料[/h3]\n[list]\n[*]材料：10 个化学品、5 份水。\n[*]产物：5 份肥料。\n[*]制造时间：10 秒。\n[*]原版萤光便便肥料配方仍然保留。\n[/list]\n\n[h2]后续方向[/h2]\n\n后续开发将继续围绕生存模式中的实用功能展开，并逐步加入具有自动控制能力的智能物品。飞行控制系统是目前考虑的方向之一。新内容会在功能完成并通过实际稳定性验证后加入。",
+		"fileId": 3774617831,
 		"localId": "c03cb354-afcd-44db-8751-d1a91f65a638",
 		"name": "Leaf Survival | Progression & Utilities",
 		"type": "Custom Game",
-		"version": 1,
-		"fileId": 3774617831
+		"version": 1
 	},
 	"c03b935c-faef-4c24-af72-67912f27c82c": {
 		"allow_add_mods": true,
@@ -49271,6 +49272,55 @@
 		"fileId": 3775749811,
 		"localId": "de9f1a24-8f1a-40e9-9032-cfb699bce179",
 		"name": "DirectX_Fix",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"8cfeedb3-6f06-4536-9334-1e4b0bfbe88a": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "Work-in-progress mod for testing gameplay tweaks in a private modded Custom Game setup. Current experiments: an Instant Hold Controller; 20% Schematic Box drops from robots; Schematic Box stacks of 30; Sticky Wheel chemical use reduced to 30%; 4x battery efficiency for electric engines and Plasma Drill; and compact RecipeManager synchronization for large modded recipe lists. Requires a Custom Game integration hook and is not intended as a standalone mod. Features may change or break.",
+		"fileId": 3775233108,
+		"localId": "8cfeedb3-6f06-4536-9334-1e4b0bfbe88a",
+		"name": "Scrap Tweaks",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"4efde3ed-8008-417f-8794-d3672a5cf3eb": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Cool stuff i guess",
+		"fileId": 3776320352,
+		"localId": "4efde3ed-8008-417f-8794-d3672a5cf3eb",
+		"name": "Cool stuff mod",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"bc0d0e7e-2284-4088-b1f5-d01695e2baea": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [],
+		"description": "Progression boost for Survival: normal crafting outputs, including Bearings and Suspensions, are multiplied by 5. Engines, Seats, Controllers, Pistons, Thrusters, Craftbots, and Weapons remain at x1. All regular crafting processes take only one-third of the normal time. Bot death loot produces at least two stacks, each containing five times the normal quantity, while regular inventory stack limits are multiplied by 10. Refining by hand or with the Refinery Bot yields 200/400 resources at twice the normal speed. Normal loot crates and large Drillbot loot crates provide x8 total loot. Crude Oil, Beeswax, Cotton, Corn, Pigment Flowers, Glue Clams, and Embers from burnt trees yield x5 resources. Planted crops also yield x5: regular field crops increase from 1 to 5, Potatoes from 10 to 50, and Growbed crops from 5 to 25. Seed quantities remain unchanged. Built for Scrap Mechanic 1.0.4.874 / Steam Build 24499589.",
+		"fileId": 3776413011,
+		"localId": "bc0d0e7e-2284-4088-b1f5-d01695e2baea",
+		"name": "Progression Boost (x5)",
+		"type": "Custom Game",
+		"version": 1
+	},
+	"9fd869bf-ee05-493c-a36f-1a9a626bf692": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3776701304,
+				"localId": "68744502-5074-4d4a-b098-f4a24b4e4bb5",
+				"name": "Ch2 Character Spawner [ASSETS]"
+			}
+		],
+		"description": "This mod doesn't have a description",
+		"fileId": 3776704149,
+		"localId": "9fd869bf-ee05-493c-a36f-1a9a626bf692",
+		"name": "Ch2 Character Spawner",
 		"type": "Blocks and Parts",
 		"version": 2
 	}

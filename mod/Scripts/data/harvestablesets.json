@@ -4371,5 +4371,45 @@
 	"a6eca5d7-5e4d-49c9-9465-887e6bfc9656": {},
 	"258861e0-55db-4f09-8d1c-f4ea3081848c": {
 		"$CONTENT_258861e0-55db-4f09-8d1c-f4ea3081848c/Harvestables/Database/HarvestableSets/example.harvestableset": []
+	},
+	"bc0d0e7e-2284-4088-b1f5-d01695e2baea": {
+		"$CONTENT_bc0d0e7e-2284-4088-b1f5-d01695e2baea/Harvestables/Database/HarvestableSets/resource_overrides.harvestableset": [
+			"7261bb49-9c63-4097-999a-4dcab9645eb0",
+			"046a8ac8-300b-4e52-91f7-0912d53b2955",
+			"c591d94b-d7d1-4305-a9dd-76ef06d6fb49",
+			"39a5aeba-a021-4117-8cad-e08ad159281d",
+			"2ab8edca-9cfe-4b1c-9f57-5092f94ea890",
+			"f7567939-d170-437e-b5c4-352ee9d5850d"
+		],
+		"$CONTENT_bc0d0e7e-2284-4088-b1f5-d01695e2baea/Harvestables/Database/HarvestableSets/lootcrate_overrides.harvestableset": [
+			"b8eb68ca-25a0-47aa-8745-12f2dd13d873",
+			"a6b9fa26-df80-4f5b-9679-418f4567e5ca",
+			"3bb80384-1f4c-4c1f-803d-6d1838882029",
+			"58ae6c48-bd59-4311-acda-45c0b3d9233b"
+		],
+		"$CONTENT_bc0d0e7e-2284-4088-b1f5-d01695e2baea/Harvestables/Database/HarvestableSets/burnt_tree_overrides.harvestableset": [
+			"9ef210c0-ea30-4442-a1fe-924b5609b0cc",
+			"2bae67d4-c8ef-4c6e-a1a7-42281d0b7489",
+			"8f7a8108-2712-47b3-bce2-f25315165094",
+			"515aed88-0594-42b6-a352-617e5f5a3e45",
+			"2d5aa53d-eb9c-478c-a70f-c57a43753814",
+			"c08b553a-a917-4e26-bbb6-7b8523789cad",
+			"d3fcfc06-a6b6-4598-99b1-9a6445b976b3",
+			"b5f90719-fbca-4c59-89c3-187cdb5553d4"
+		],
+		"$CONTENT_bc0d0e7e-2284-4088-b1f5-d01695e2baea/Harvestables/Database/HarvestableSets/crop_overrides.harvestableset": [
+			"80cd6e60-154f-46da-8f26-ff30f2961fa2",
+			"9b031ec3-bc91-47b9-93fb-df79a8ef3026",
+			"133ae17a-c038-4a55-ab79-f40f6840ab2b",
+			"2cedbc23-92c5-4fba-8a08-ecbae23a28e5",
+			"18990ae9-62d1-41f7-aab9-5199b31e3e89",
+			"1a167796-8162-4990-97a7-b3810b3f94ca",
+			"534b13a0-3ec1-4558-a77a-cfccf6c3cb3e",
+			"b166b142-792a-4c8f-9d06-f277dab6dba6",
+			"c42ad18d-797b-4196-ab79-86e222d8f767",
+			"4d923a91-0c98-40f9-ae3f-ef386362ab1c",
+			"4ef9170e-c57b-4b76-9a39-4a111eb5cc0d",
+			"bd35a291-3ea6-4c89-ab05-606ce1399251"
+		]
 	}
 }

@@ -7833,7 +7833,8 @@
 	"2b954e96-2fba-4bb0-a77b-37384b050832": {},
 	"c03cb354-afcd-44db-8751-d1a91f65a638": {
 		"$CONTENT_c03cb354-afcd-44db-8751-d1a91f65a638/Tools/Database/ToolSets/progression_tools.toolset": [
-			"5cee7dcf-668c-4846-be40-b7af7c6acfb3"
+			"5cee7dcf-668c-4846-be40-b7af7c6acfb3",
+			"779c9a3f-a90d-4ef6-9570-5746dfb6beba"
 		]
 	},
 	"c03b935c-faef-4c24-af72-67912f27c82c": {},
@@ -7878,5 +7879,18 @@
 		"$CONTENT_258861e0-55db-4f09-8d1c-f4ea3081848c/Tools/Database/ToolSets/example.toolset": []
 	},
 	"0afcc1b7-3684-4e11-9e53-3bd6a1794f61": {},
-	"de9f1a24-8f1a-40e9-9032-cfb699bce179": {}
+	"de9f1a24-8f1a-40e9-9032-cfb699bce179": {},
+	"8cfeedb3-6f06-4536-9334-1e4b0bfbe88a": {
+		"$CONTENT_8cfeedb3-6f06-4536-9334-1e4b0bfbe88a/Tools/Database/ToolSets/scrap_tweaks.toolset": [
+			"129404b1-11d4-4ecd-a0b3-6501faf27975",
+			"daaff264-301f-457b-833a-e7cf607e5b56"
+		]
+	},
+	"4efde3ed-8008-417f-8794-d3672a5cf3eb": {},
+	"bc0d0e7e-2284-4088-b1f5-d01695e2baea": {},
+	"9fd869bf-ee05-493c-a36f-1a9a626bf692": {
+		"$CONTENT_9fd869bf-ee05-493c-a36f-1a9a626bf692/Tools/Database/ToolSets/tools.toolset": [
+			"60aaa54f-cc69-4a5a-83d5-8291b653a5e4"
+		]
+	}
 }
