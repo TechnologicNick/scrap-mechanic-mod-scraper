@@ -49171,7 +49171,7 @@
 	"91e81829-ebdc-46fe-bc7b-30554a825677": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Vanilla Survival with quality-of-life tweaks (more tweaks to come as i find things I want to adjust while playing 1.0):- Component Kits drop at 2x quantity.- Chests capacity 4x.- Increase stack sizes to 999- Increased Resource Collector Range by 3x- Crops always drop seeds- Removed fake trees and bushes that get in the way of building.- Doubled Oil for underwater geysers",
+		"description": "Vanilla Survival with quality-of-life tweaks (more tweaks to come as i find things I want to adjust while playing 1.0):\r\n\r\n- Component Kits drop at 2x quantity.\r\n- Chests capacity 4x.\r\n- Increase stack sizes to 1024.\r\n- Increased Resource Collector Range by 3x.\r\n- Crops always drop seeds.\r\n- Removed fake trees and bushes that get in the way of building.\r\n- Doubled Oil from underwater geysers.",
 		"fileId": 3775130552,
 		"localId": "91e81829-ebdc-46fe-bc7b-30554a825677",
 		"name": "Fallen Survival Tweaks",
@@ -49321,6 +49321,36 @@
 		"fileId": 3776704149,
 		"localId": "9fd869bf-ee05-493c-a36f-1a9a626bf692",
 		"name": "Ch2 Character Spawner",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"e7cfdaa9-e568-482d-9e66-cf0585a12689": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1]Player Join Effects（玩家加入特效）[/h1]\r\n\r\n[b]Scrap Mechanic 创造模式 Mod：每次进入世界，在出生点播放改编版 Scannerbot 开场特效。[/b]\r\n\r\n[hr]\r\n\r\n[h2]介绍[/h2]\r\n本 Mod 为 Scrap Mechanic 创造模式添加了一个自动特效工具。玩家进入世界后，工具会在出生点位置自动创建触发器；当玩家离开出生点时，一段改编自游戏内 Scannerbot 开场动画的特效便会播放——包括机器人模型、粒子、镜头震动、点光源与音效，营造\"机械登场\"的仪式感。\r\n\r\n[h2]特点[/h2]\r\n[list]\r\n[*]创造模式自动发放工具，无需任何手动操作\r\n[*]播放改编版 Scannerbot 开场特效（模型 + 粒子 + 镜头震动 + 灯光 + 音效）\r\n[*]特效会自动旋转，从玩家视线正前方飞入\r\n[*]每次进入世界播放一次，播完自动结束\r\n[*]特效在 2000 米内可见可闻，超出后自动停止，不影响远处游戏体验\r\n[/list]\r\n\r\n[h2]如何使用[/h2]\r\n[list]\r\n[*]在游戏主菜单的\"Mods\"中启用本 Mod\r\n[*]创建或进入创造模式世界（支持联机：主机与加入的玩家都会触发）\r\n[*]进入世界后无需任何操作，离开出生点即可看到特效\r\n[/list]\r\n\r\n[h2]注意事项[/h2]\r\n[list]\r\n[*]仅适用于创造模式（工具由创造模式自动发放）\r\n[*]如果玩家再次出生或工具被重新发放，特效可能再次触发\r\n[/list]\r\n\r\n[hr]\r\n[i]感谢游玩！[/i]\r\n",
+		"fileId": 3776756825,
+		"localId": "e7cfdaa9-e568-482d-9e66-cf0585a12689",
+		"name": "Player Join Effects",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"7dca9a40-35d2-4e4e-b19f-b52897ad7461": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "ЛАЗЕРНЫЙ ДОБЫТЧИКЛазерный добытчик — автономный многофункциональный инструмент, предназначенный для быстрой добычи и автоматической переработки ресурсов. Он позволяет значительно сократить время на заготовку материалов, но требует улучшения, контроля перегрева и правильного выбора режима работы.ВОЗМОЖНОСТИИнструмент умеет разрушать большие и маленькие деревья, обрабатывать отделившиеся части стволов и сразу помещать полученную древесину в инвентарь игрока.Он также добывает каменные залежи, разрушает отдельные части камней и автоматически перерабатывает их в готовые блоки.Дополнительно лазер может собирать пчелиный воск со скал, янтарь со сгоревших деревьев, кукурузу и ящики со случайной добычей. Содержимое ящиков сразу отправляется в инвентарь, если там достаточно свободного места.Инструмент способен перерабатывать подходящие части уничтоженных роботов в полезные материалы. При этом лазер не предназначен для боя и не наносит урон живым противникам или постройкам игрока.ПОЛИВЛазерный добытчик имеет отдельные режимы полива. Для их использования в инвентаре игрока должна находиться вода.Обычный полив обрабатывает одну выбранную грядку. Быстрый полив работает по увеличенной области и может поливать сразу несколько находящихся рядом сухих грядок. На каждую политую грядку расходуется отдельная единица воды.Быстрый полив открывается на пятом уровне улучшения.СИСТЕМА УЛУЧШЕНИЙИнструмент имеет 10 уровней развития. Улучшения приобретаются за компоненты из инвентаря игрока.Стоимость уровней последовательно увеличивается:5, 10, 15, 20, 25, 30, 35, 40, 45 и 50 компонентов.На начальном уровне лазер имеет небольшую дальность, медленно обрабатывает ресурсы, быстро нагревается и медленно охлаждается.Каждый новый уровень:увеличивает дальность действия;повышает скорость обработки ресурсов;уменьшает количество выделяемого тепла;ускоряет охлаждение инструмента.На пятом уровне открывается быстрый полив. На десятом уровне открывается режим большой добычи, позволяющий обрабатывать крупные объекты целиком.ПЕРЕГРЕВП",
+		"fileId": 3776850249,
+		"localId": "7dca9a40-35d2-4e4e-b19f-b52897ad7461",
+		"name": "Laser Harvester",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"85e60347-ffa1-4326-bec0-6b0f61320ad2": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Add this mod to a custom game that has vanilla warehouses to disable the self destruct - To prevent any quest issues, a certain specific warehouse will still self destruct.",
+		"fileId": 3776951526,
+		"localId": "85e60347-ffa1-4326-bec0-6b0f61320ad2",
+		"name": "Indestructible",
 		"type": "Blocks and Parts",
 		"version": 2
 	}

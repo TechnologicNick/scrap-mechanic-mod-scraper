@@ -7892,5 +7892,20 @@
 		"$CONTENT_9fd869bf-ee05-493c-a36f-1a9a626bf692/Tools/Database/ToolSets/tools.toolset": [
 			"60aaa54f-cc69-4a5a-83d5-8291b653a5e4"
 		]
+	},
+	"e7cfdaa9-e568-482d-9e66-cf0585a12689": {
+		"$CONTENT_e7cfdaa9-e568-482d-9e66-cf0585a12689/Tools/Database/ToolSets/PlayerJoinEffectsTools.toolset": [
+			"9cb32ecd-d0c4-4f6e-8b7e-68b8f01dda02"
+		]
+	},
+	"7dca9a40-35d2-4e4e-b19f-b52897ad7461": {
+		"$CONTENT_7dca9a40-35d2-4e4e-b19f-b52897ad7461/Tools/Database/ToolSets/smart_harvester.toolset": [
+			"f68f7d9e-62c8-4a17-91b6-ef8f8e81dfe4"
+		]
+	},
+	"85e60347-ffa1-4326-bec0-6b0f61320ad2": {
+		"$CONTENT_85e60347-ffa1-4326-bec0-6b0f61320ad2/Tools/Database/ToolSets/ModHook.toolset": [
+			"7fc2388a-a677-471c-898b-e2a3de46340d"
+		]
 	}
 }
