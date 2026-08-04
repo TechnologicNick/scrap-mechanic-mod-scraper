@@ -7907,5 +7907,10 @@
 		"$CONTENT_85e60347-ffa1-4326-bec0-6b0f61320ad2/Tools/Database/ToolSets/ModHook.toolset": [
 			"7fc2388a-a677-471c-898b-e2a3de46340d"
 		]
+	},
+	"f241217d-afc9-4672-9d6d-41c38bb085b3": {
+		"$CONTENT_f241217d-afc9-4672-9d6d-41c38bb085b3/Tools/Database/ToolSets/EdibleGlowTools.toolset": [
+			"49419b6a-f621-4fb8-b7d8-aaeeeea13c8e"
+		]
 	}
 }

@@ -15169,7 +15169,7 @@
 		"localId": "838b62eb-ea80-42ce-948c-031c230a4b54",
 		"name": "Modded Craftbot Recipes",
 		"type": "Custom Game",
-		"version": 0
+		"version": 1
 	},
 	"a32319a0-1f2a-4398-bd7e-fcf14e0159cc": {
 		"allow_add_mods": true,
@@ -41879,7 +41879,7 @@
 		"localId": "962afb13-362f-4b24-8f35-99dfdb10a7b0",
 		"name": "[Shturman_PARTS]",
 		"type": "Blocks and Parts",
-		"version": 2
+		"version": 1
 	},
 	"1b3f108e-c056-4a87-80bb-a2735ac8fff9": {
 		"allow_add_mods": true,
@@ -43965,7 +43965,7 @@
 		"localId": "629a51e4-a0f5-407f-b157-f53caedb17c7",
 		"name": "Scroll lock",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"98ab191f-9d64-473d-841b-42483bc33eaf": {
 		"allow_add_mods": true,
@@ -46724,7 +46724,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "load...",
+		"description": "load",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -48839,7 +48839,7 @@
 	"e8b1c589-8fe4-4f05-8923-6870e2b854a4": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Version 1.0.16 — Updated for Scrap Mechanic 1.0 and Drilling Thunder. Keeps the game compatibility version at 1 while fixing Refinery output routing so processed blocks can be placed into connected containers through the current Scrap Mechanic pipe graph.",
+		"description": "v1.0.17 - This is a personal mod that allows to regrow trees and rock, fixes issues with vacuum and also allows vacuum and refinery to work when not in render range getting water and oil. Also fixes the issue with the Drill and SawBlade when they get laggy. Provided AS IS.",
 		"fileId": 2970690456,
 		"localId": "e8b1c589-8fe4-4f05-8923-6870e2b854a4",
 		"name": "LTs Mod",
@@ -49061,7 +49061,7 @@
 	"2de294d9-8d73-4d4e-97ea-b7b95c604bdb": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "This is a collection of all of my current mods!\r\n\r\nQoL+:\r\nQoL+ improves the pace of Scrap Mechanic Survival while keeping the core gameplay experience intact.\r\n\r\nFeatures:\r\n\r\n• Refining takes approximately 0.5 seconds.\r\n\r\n• Refined material output is doubled.\r\n\r\n• Natural resource yields are tripled, including beeswax, cotton, corn, crude oil, pigment flowers, embers, and similar harvestable resources.\r\n\r\n• Crafting times are reduced by approximately 50%.\r\n\r\n• Loot-container quantities are doubled.\r\n\r\n• Enemies drop twice as many Circuit Boards and Component Kits.\r\n\r\nQoL+ is designed for players who want less grinding and faster progression without completely removing the Survival experience.\r\n\r\nStacks+:\r\nThis mod increases Stack sizes!\r\n• Blocks stack up to 1,000\r\n\r\n• ALL other items stack up to 500\r\n\r\nGas+:\r\nThis mod makes your gas last longer!\r\nAll gas values are essentially doubled based on engine tier. \r\nHigher tier engines GREATLY increase gas efficiency!\r\n\r\nComponents+:\r\nThis mod adds a craftable component kit to the craftbot.\r\n\r\n• Recipe requires 2 Circuit Boards.\r\n\r\n\r\n",
 		"fileId": 3774096372,
 		"localId": "2de294d9-8d73-4d4e-97ea-b7b95c604bdb",
 		"name": "Collection+",
@@ -49171,12 +49171,12 @@
 	"91e81829-ebdc-46fe-bc7b-30554a825677": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Vanilla Survival with quality-of-life tweaks (more tweaks to come as i find things I want to adjust while playing 1.0):\r\n\r\n- Component Kits drop at 2x quantity.\r\n- Chests capacity 4x.\r\n- Increase stack sizes to 1024.\r\n- Increased Resource Collector Range by 3x.\r\n- Crops always drop seeds.\r\n- Removed fake trees and bushes that get in the way of building.\r\n- Doubled Oil from underwater geysers.",
-		"fileId": 3775130552,
+		"description": "Vanilla Survival with quality-of-life tweaks (more tweaks to come as i find things I want to adjust while playing 1.0):\n\n- Component Kits drop at 2x quantity - from robots, breakable chests, loot crates and warehouse loot.\n- Every chest you build holds 4x the slots: Scrap Chest 40, Small Chest 40, Chest 80, Large Chest 120, XXL Chest 400.\n- Increase stack sizes to 999\n- Increased Resource Collector Range by 4x\n- Harvesting a crop always returns a seed (was ~50% for most crops)\n\nEverything else is untouched vanilla Survival. Drop chances are unchanged - only the amounts.",
 		"localId": "91e81829-ebdc-46fe-bc7b-30554a825677",
 		"name": "Fallen Survival Tweaks",
 		"type": "Custom Game",
-		"version": 1
+		"version": 1,
+		"fileId": 3775130552
 	},
 	"363b421c-c960-48f3-86d0-7730953083f2": {
 		"allow_add_mods": true,
@@ -49238,7 +49238,7 @@
 	"58ded5c3-04f3-4157-9c22-2844b3b3a158": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "Add more capsules from chapter 2// Capsules:-- Tapebot green-- Tapebot yellow-- Minerbot-- Cablebot-- Totebot yellow-- Totebot green-- Totebot red",
 		"fileId": 3774733502,
 		"localId": "58ded5c3-04f3-4157-9c22-2844b3b3a158",
 		"name": "Capsules V 1.0 Drilling Thunder",
@@ -49317,7 +49317,7 @@
 				"name": "Ch2 Character Spawner [ASSETS]"
 			}
 		],
-		"description": "This mod doesn't have a description",
+		"description": "This mod adds a spawner for the new 1.0 Drilling Thunder (Chapter 2) characters!\r\n\r\nUnlike other similar mods, all characters here are [i]fully[/i] functional, including the [b]Trashbot[/b], [b]Seekerbot[/b] and even the [b]Baby Woc[/b].\r\n\r\n[h2]Available characters:[/h2]\r\n- Seekerbot\r\n- Trashbot - 1st Fight\r\n- Trashbot - 2nd Fight\r\n- Totebot - Leaf\r\n- Totebot - Loot\r\n- Totebot - Seed\r\n- Totebot - Red\r\n- Totebot - Blue\r\n- Totebot - Yellow\r\n- Baby Woc\r\n- Minerbot\r\n- Cablebot\r\n- Tapebot - Green\r\n- Tapebot - Yellow\r\n- Trashball - Green\r\n- Trashball - Purple\r\n\r\n[h2]How to use:[/h2]\r\nPlace the Ch2 Character Spawner and connect it to a trigger.\r\n\r\n[hr]\r\nIf you like this, feel free to like, favourite and give an award!",
 		"fileId": 3776704149,
 		"localId": "9fd869bf-ee05-493c-a36f-1a9a626bf692",
 		"name": "Ch2 Character Spawner",
@@ -49337,7 +49337,7 @@
 	"7dca9a40-35d2-4e4e-b19f-b52897ad7461": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "ЛАЗЕРНЫЙ ДОБЫТЧИКЛазерный добытчик — автономный многофункциональный инструмент, предназначенный для быстрой добычи и автоматической переработки ресурсов. Он позволяет значительно сократить время на заготовку материалов, но требует улучшения, контроля перегрева и правильного выбора режима работы.ВОЗМОЖНОСТИИнструмент умеет разрушать большие и маленькие деревья, обрабатывать отделившиеся части стволов и сразу помещать полученную древесину в инвентарь игрока.Он также добывает каменные залежи, разрушает отдельные части камней и автоматически перерабатывает их в готовые блоки.Дополнительно лазер может собирать пчелиный воск со скал, янтарь со сгоревших деревьев, кукурузу и ящики со случайной добычей. Содержимое ящиков сразу отправляется в инвентарь, если там достаточно свободного места.Инструмент способен перерабатывать подходящие части уничтоженных роботов в полезные материалы. При этом лазер не предназначен для боя и не наносит урон живым противникам или постройкам игрока.ПОЛИВЛазерный добытчик имеет отдельные режимы полива. Для их использования в инвентаре игрока должна находиться вода.Обычный полив обрабатывает одну выбранную грядку. Быстрый полив работает по увеличенной области и может поливать сразу несколько находящихся рядом сухих грядок. На каждую политую грядку расходуется отдельная единица воды.Быстрый полив открывается на пятом уровне улучшения.СИСТЕМА УЛУЧШЕНИЙИнструмент имеет 10 уровней развития. Улучшения приобретаются за компоненты из инвентаря игрока.Стоимость уровней последовательно увеличивается:5, 10, 15, 20, 25, 30, 35, 40, 45 и 50 компонентов.На начальном уровне лазер имеет небольшую дальность, медленно обрабатывает ресурсы, быстро нагревается и медленно охлаждается.Каждый новый уровень:увеличивает дальность действия;повышает скорость обработки ресурсов;уменьшает количество выделяемого тепла;ускоряет охлаждение инструмента.На пятом уровне открывается быстрый полив. На десятом уровне открывается режим большой добычи, позволяющий обрабатывать крупные объекты целиком.ПЕРЕГРЕВП",
+		"description": "[h1]ЛАЗЕРНЫЙ ДОБЫТЧИК[/h1]\r\n\r\n[b]Автономный многофункциональный инструмент для быстрой добычи, переработки ресурсов и полива огорода.[/b]\r\n\r\nЛазерный добытчик значительно ускоряет заготовку материалов, но сохраняет игровой прогресс благодаря системе из 10 уровней, перегреву и постепенно открывающимся режимам.\r\n\r\n[hr][/hr]\r\n\r\n[h2]ОСНОВНЫЕ ВОЗМОЖНОСТИ[/h2]\r\n\r\n[list]\r\n[*]Разрушает большие и маленькие деревья.\r\n[*]Обрабатывает отделившиеся части стволов и сразу помещает древесину в инвентарь.\r\n[*]Добывает каменные залежи и перерабатывает отдельные части камней в готовые блоки.\r\n[*]Собирает пчелиный воск со скал.\r\n[*]Собирает янтарь со сгоревших деревьев.\r\n[*]Собирает кукурузу.\r\n[*]Открывает ящики со случайной добычей и отправляет содержимое прямо в инвентарь.\r\n[*]Перерабатывает поддерживаемые части уничтоженных роботов в полезные материалы.\r\n[*]Не наносит урон живым противникам и постройкам игрока.\r\n[/list]\r\n\r\n[h2]ПОЛИВ[/h2]\r\n\r\nИнструмент имеет два режима полива. Для работы в инвентаре игрока должна находиться вода.\r\n\r\n[list]\r\n[*][b]Обычный полив[/b] — поливает одну выбранную грядку.\r\n[*][b]Быстрый полив[/b] — работает по увеличенной области и поливает несколько расположенных рядом сухих грядок.\r\n[/list]\r\n\r\nНа каждую политую грядку расходуется отдельная единица воды. Быстрый полив открывается на [b]5 уровне[/b].\r\n\r\n[h2]10 УРОВНЕЙ УЛУЧШЕНИЯ[/h2]\r\n\r\nСовершенно новый инструмент специально сделан слабым: он имеет небольшую дальность, медленно добывает ресурсы, быстро нагревается и медленно охлаждается.\r\n\r\nКаждый новый уровень:\r\n\r\n[list]\r\n[*]увеличивает дальность действия;\r\n[*]повышает скорость обработки ресурсов;\r\n[*]уменьшает количество выделяемого тепла;\r\n[*]ускоряет охлаждение инструмента.\r\n[/list]\r\n\r\n[b]Стоимость уровней 1–10:[/b] 5, 10, 15, 20, 25, 30, 35, 40, 45 и 50 компонентов.\r\n\r\n[b]Уровень 5:[/b] открытие быстрого полива.\r\n\r\n[b]Уровень 10:[/b] открытие большой добычи.\r\n\r\n[h2]БОЛЬШАЯ ДОБЫЧА[/h2]\r\n\r\nНа [b]10 уровне[/b] открывается специальный режим большой добычи. Он позволяет обрабатывать крупные ресурсные объекты целиком, а не разбирать их по одной части.\r\n\r\n[h2]ПЕРЕГРЕВ[/h2]\r\n\r\nПродолжительная работа повышает температуру лазера. Когда шкала полностью заполняется, инструмент временно прекращает работу и должен остыть.\r\n\r\nС каждым улучшением лазер нагревается медленнее и охлаждается быстрее, поэтому прокачанный инструмент можно использовать значительно дольше.\r\n\r\n[h2]УПРАВЛЕНИЕ[/h2]\r\n\r\n[list]\r\n[*][b]ЛКМ[/b] — использовать выбранный режим.\r\n[*][b]ПКМ[/b] — открыть панель быстрого выбора режима.\r\n[*][b]R[/b] — открыть меню настроек и улучшений.\r\n[/list]\r\n\r\n[h2]РЕЦЕПТ[/h2]\r\n\r\n[list]\r\n[*]1 инструмент соединения;\r\n[*]10 компонентов;\r\n[*]5 электросхем;\r\n[*]20 блоков металла второго уровня.\r\n[/list]\r\n\r\n[b]Время изготовления: 12 секунд.[/b]\r\n\r\n[h2]РАЗВИТИЕ МОДА[/h2]\r\n\r\nМод продолжает разрабатываться и будет получать новые функции, режимы, улучшения и исправления.\r\n\r\nПишите в комментариях свои идеи и предложения — интересные варианты могут появиться в будущих обновлениях.\r\n\r\nЕсли вы нашли ошибку, сообщите, что произошло, какой режим использовался.",
 		"fileId": 3776850249,
 		"localId": "7dca9a40-35d2-4e4e-b19f-b52897ad7461",
 		"name": "Laser Harvester",
@@ -49351,6 +49351,16 @@
 		"fileId": 3776951526,
 		"localId": "85e60347-ffa1-4326-bec0-6b0f61320ad2",
 		"name": "Indestructible",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"f241217d-afc9-4672-9d6d-41c38bb085b3": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "# Edible Glow — 可食用的微光\r\n\r\n> 让原版 Glow（萤火虫便便）变成可食用的零食，吃掉后恢复 8 点生命值，手持时手上会显示微光本体模型。\r\n\r\n## 简介\r\n\r\n微光（Glow，萤火虫便便）不再只是装饰品！本 Mod 让微光变成可食用物品：手持微光按左键即可吃掉，恢复 8 点生命值，并保留完整的吃食物动画、音效与手持模型。\r\n\r\n## 特性\r\n\r\n- 手持微光按左键吃掉，恢复 **8 HP**\r\n- 完全复用原版吃食物的动画、音效和回血机制\r\n- 手持时手上显示微光本体模型（绑骨手持模型）\r\n- 微光仍保留原版掉落物行为，堆叠上限 20\r\n\r\n## 使用方法\r\n\r\n从物品栏/快捷栏选中微光 → 手持时按住左键（或按互动键）→ 吃完后恢复 8 HP。\r\n\r\n## 注意事项\r\n\r\n- 回血仅在**生存模式**生效。创造模式没有生命值系统（游戏引擎限制），因此创造模式下不会回血，但微光仍可食用并消耗。\r\n\r\n## 安装\r\n\r\n将 Mod 文件夹放入 `Steam\\steamapps\\common\\Scrap Mechanic\\Mods\\`，或在游戏内创意工坊订阅本 Mod 后于 Mods 菜单启用。\r\n\r\n> **注意**：启用 Mod 后需重启游戏；首次启动会自动重建缓存，属正常现象。\r\n\r\n## 兼容性\r\n\r\n仅影响微光（Glow）这一物品，不影响其他物品与玩法。单机/联机均可用。\r\n\r\n## 更新日志\r\n\r\n**Version 3**\r\n- 回血从 2 HP 提升至 8 HP\r\n\r\n**Version 2**\r\n- 手持微光时显示微光本体模型\r\n- 修复创造模式下手持模型周期性消失的问题\r\n- 修复手持状态下渲染表被错误重置的问题\r\n\r\n**Version 1**\r\n- 初始版本：微光可食用，恢复 2 HP\r\n\r\n## 反馈\r\n\r\n遇到问题欢迎在创意工坊评论区反馈。",
+		"fileId": 3776952625,
+		"localId": "f241217d-afc9-4672-9d6d-41c38bb085b3",
+		"name": "Edible Glow",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
