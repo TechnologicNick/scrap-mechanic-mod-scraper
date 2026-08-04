@@ -158550,7 +158550,9 @@
 	},
 	"b7ff995f-0c20-4982-92a7-e0e8bedbaab2": {},
 	"c3835a7d-fdd0-4c2d-8eb9-b6b093146fb5": {
-		"$CONTENT_c3835a7d-fdd0-4c2d-8eb9-b6b093146fb5/Objects/Database/ShapeSets/Interactables.shapeset": []
+		"$CONTENT_c3835a7d-fdd0-4c2d-8eb9-b6b093146fb5/Objects/Database/ShapeSets/Interactables.shapeset": [
+			"faf49ff4-0c23-4e57-8923-ebe351d56077"
+		]
 	},
 	"1b84268f-1a96-4ec9-9f8c-56f4d1824ef3": {
 		"$CONTENT_1b84268f-1a96-4ec9-9f8c-56f4d1824ef3/Objects/Database/ShapeSets/vantanet_verkehrsschilder_v130.shapeset": [
@@ -165310,7 +165312,8 @@
 	"e7cfdaa9-e568-482d-9e66-cf0585a12689": {},
 	"7dca9a40-35d2-4e4e-b19f-b52897ad7461": {
 		"$CONTENT_7dca9a40-35d2-4e4e-b19f-b52897ad7461/Objects/Database/ShapeSets/laser_beam.shapeset": [
-			"902d66a7-23b2-4652-85f3-085a19c4e384"
+			"902d66a7-23b2-4652-85f3-085a19c4e384",
+			"dd7daf55-6fa5-4f85-8b98-a50b5820fb9d"
 		]
 	},
 	"85e60347-ffa1-4326-bec0-6b0f61320ad2": {
