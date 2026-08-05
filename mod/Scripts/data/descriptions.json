@@ -39519,7 +39519,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "Warning! The mod should work for most stuff in 1.0, but this is as of yet untested - a proper code-review and update is coming!\r\n\r\nIntroducing SM: WAILA - the Scrap Mechanic mod to tell you exactly what you're looking at!\r\n\r\nSM: WAILA adds a handy hud element that shows info about the object you're looking at. \r\n\r\nVarious configuration options now available via the /smwaila command.\r\n\r\nInspired by the WAILA, Jade and HWYLA Minecraft mods.\r\nCredit: the mod is maintained by me, but does use some character images from Scrap Mechanic's Fandom page. The mod also uses ModDB as a dependency to show mod names for modded objects - thank you, TechnologicNick, for this awesome mod!",
+		"description": "Introducing SM: WAILA - the Scrap Mechanic mod to tell you exactly what you're looking at!SM: WAILA adds a handy hud element that shows info about the object you're looking at. Various configuration options available via the /smwaila command.Inspired by the WAILA, Jade and HWYLA Minecraft mods.Credit: the mod is maintained by me, but does use some character images from Scrap Mechanic's Fandom page. The mod also uses ModDB as a dependency to show mod names for modded objects - thank you, TechnologicNick, for this awesome mod!",
 		"fileId": 3302195129,
 		"localId": "ddf48f02-d773-4ff0-b959-3bc451a7a0de",
 		"name": "SMWAILA",
@@ -46814,7 +46814,7 @@
 	"f1914704-dadf-4363-814f-fd7d940afa6e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod will add various weapons to the Scrap Mechanic world. Be careful when using these weapons!// Weapons- Glock [ Silencer and sight ]-- 20 ammo- AS Val [ Sight ]-- 25 ammo- USP [ Silencer ]-- 14 ammo- AK-74M [ Silencer and sight ]-- 30 ammo- M4A1 [ Silencer and sight ]-- 30 ammo- PKM [ Silencer ]-- 200 ammo- AT4 [ None modules]- MP5  [ Silencer and sight ]-- 30 ammo// = Sights- OKP-3 [ AK-74M, AS Val, M4A1 ]- Red Dot Pistols [ Glock 17 ]- Red Dot MP5 [ MP5 ]// Silencers- WN Silencer Universal [ AK-74M, AS Val, M4A1, USP, Glock 17, PKM ]// Costumezation modules on \"F\" key// Me in Discord! https://discord.gg/DP2DBANZ// Tags: Military, Weapons, Guns, Cannons, Tools, Modern",
+		"description": "This mod will add various weapons to the Scrap Mechanic world. Be careful when using these weapons!\r\n\r\n\r\n// Weapons\r\n\r\n- Glock [ Silencer and sight ]\r\n-- 20 ammo\r\n\r\n- AS Val [ Sight ]\r\n-- 25 ammo\r\n\r\n- USP [ Silencer ]\r\n-- 12 ammo\r\n\r\n- AK-74M [ Silencer and sight ]\r\n-- 30 ammo\r\n\r\n- M4A1 [ Silencer and sight ]\r\n-- 30 ammo\r\n\r\n- PKM [ Silencer ]\r\n-- 200 ammo\r\n\r\n- AT4 [ None modules]\r\n\r\n- MP5 [ Silencer and sight ]\r\n-- 30 ammo\r\n\r\n\r\n// = Sights\r\n\r\n- OKP-3 [ AK-74M, AS Val, M4A1 ]\r\n\r\n- Red Dot Pistols [ Glock 17 ]\r\n\r\n- Red Dot MP5 [ MP5 ]\r\n\r\n\r\n// Silencers\r\n\r\n- WN Silencer Universal [ AK-74M, AS Val, M4A1, USP, Glock 17, PKM ]\r\n\r\n// Costumezation modules on \"F\" key\r\n\r\n\r\n// Me in Discord! https://discord.gg/DP2DBANZ\r\n\r\n// Tags: Military, Weapons, Guns, Cannons, Tools, Modern",
 		"fileId": 3670073323,
 		"localId": "f1914704-dadf-4363-814f-fd7d940afa6e",
 		"name": "Technical Guns",
@@ -49384,5 +49384,15 @@
 		"name": "Survival+",
 		"type": "Custom Game",
 		"version": 1
+	},
+	"6138d81d-3cf4-4a6e-8cf1-570d1d4d9e2f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds player levels, EXP, stat points, and RPG character progression to Survival.",
+		"localId": "6138d81d-3cf4-4a6e-8cf1-570d1d4d9e2f",
+		"name": "RPG+",
+		"type": "Custom Game",
+		"version": 1,
+		"fileId": 3777876092
 	}
 }

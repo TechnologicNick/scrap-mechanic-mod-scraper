@@ -1502,10 +1502,14 @@
 	"35971f1e-2b72-49cf-838b-2d1bf411b0a7": {
 		"$CONTENT_35971f1e-2b72-49cf-838b-2d1bf411b0a7/ScriptableObjects/ScriptableObjectSets/example.sobset": [],
 		"$CONTENT_35971f1e-2b72-49cf-838b-2d1bf411b0a7/ScriptableObjects/ScriptableObjectSets/sob_managers.sobset": [
+			"2760488f-98a9-4cad-9d24-0b9fca45f91f",
 			"6d92377e-b496-4819-8a94-6ee6791b10cb"
 		]
 	},
 	"7834c74c-3a44-4ccd-9005-340f8e5477c9": {
 		"$CONTENT_7834c74c-3a44-4ccd-9005-340f8e5477c9/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"6138d81d-3cf4-4a6e-8cf1-570d1d4d9e2f": {
+		"$CONTENT_6138d81d-3cf4-4a6e-8cf1-570d1d4d9e2f/ScriptableObjects/ScriptableObjectSets/example.sobset": []
 	}
 }
