@@ -1498,5 +1498,14 @@
 	"258861e0-55db-4f09-8d1c-f4ea3081848c": {
 		"$CONTENT_258861e0-55db-4f09-8d1c-f4ea3081848c/ScriptableObjects/ScriptableObjectSets/example.sobset": []
 	},
-	"bc0d0e7e-2284-4088-b1f5-d01695e2baea": {}
+	"bc0d0e7e-2284-4088-b1f5-d01695e2baea": {},
+	"35971f1e-2b72-49cf-838b-2d1bf411b0a7": {
+		"$CONTENT_35971f1e-2b72-49cf-838b-2d1bf411b0a7/ScriptableObjects/ScriptableObjectSets/example.sobset": [],
+		"$CONTENT_35971f1e-2b72-49cf-838b-2d1bf411b0a7/ScriptableObjects/ScriptableObjectSets/sob_managers.sobset": [
+			"6d92377e-b496-4819-8a94-6ee6791b10cb"
+		]
+	},
+	"7834c74c-3a44-4ccd-9005-340f8e5477c9": {
+		"$CONTENT_7834c74c-3a44-4ccd-9005-340f8e5477c9/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	}
 }

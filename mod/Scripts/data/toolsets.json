@@ -7912,5 +7912,14 @@
 		"$CONTENT_f241217d-afc9-4672-9d6d-41c38bb085b3/Tools/Database/ToolSets/EdibleGlowTools.toolset": [
 			"49419b6a-f621-4fb8-b7d8-aaeeeea13c8e"
 		]
+	},
+	"35971f1e-2b72-49cf-838b-2d1bf411b0a7": {
+		"$CONTENT_35971f1e-2b72-49cf-838b-2d1bf411b0a7/Tools/Database/ToolSets/example.toolset": [],
+		"$CONTENT_35971f1e-2b72-49cf-838b-2d1bf411b0a7/Tools/Database/ToolSets/spudguns.json": [
+			"a2a2bb33-a841-4b23-88da-b758063d9206"
+		]
+	},
+	"7834c74c-3a44-4ccd-9005-340f8e5477c9": {
+		"$CONTENT_7834c74c-3a44-4ccd-9005-340f8e5477c9/Tools/Database/ToolSets/example.toolset": []
 	}
 }
