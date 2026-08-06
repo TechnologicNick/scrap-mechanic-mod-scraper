@@ -38097,12 +38097,12 @@
 	"55b2d765-488c-4862-93d6-4ef869fa0de9": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds from my Fant Mod the Storage Manager as seperate Mod.\r\nUseable in other Custom Gamemodes or Creative.\r\n\r\nIt will show what you have in all of your Chests and Containers.\r\nAnd you can grab over that Terminal the Items from the Chest and Containers.\r\nNo more searching in all of your chests for the Items you need!\r\n\r\nHave fun with it.\r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "It will show what you have in all of your Chests and Containers.\r\nAnd you can grab over that Terminal the Items from the Chest and Containers.\r\nNo more searching in all of your chests for the Items you need!\r\n\r\nHave fun with it.\r\n\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 3223948145,
 		"localId": "55b2d765-488c-4862-93d6-4ef869fa0de9",
 		"name": "Storage Manager",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"26b2f950-82f5-48f8-b0e4-8ca1d27ecfb4": {
 		"allow_add_mods": true,
@@ -49402,6 +49402,44 @@
 		"fileId": 3778120266,
 		"localId": "b9b32fc4-5668-42f7-9ad5-25d9893c83d4",
 		"name": "Growbed Unlocked Partmod",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"b7443f95-67b7-4f1e-82f4-9bef0c62c4b4": {
+		"description": "Hi friends, I’ve created a fix for our modpack. I’ve resolved a few annoying bugs present in version 1.0. If the developers fix the bugs or release a new mod, I will delete this one.\r\n\r\nOriginal mod: https://steamcommunity.com/workshop/filedetails/?id=2448492759\r\n\r\nCredits: Alstrak, Illumina♥, Lord Pain, TechnologicNick, Xesau, Brent Batch, Questionable Mark, Nothing Mod, The Guild",
+		"fileId": 3778443747,
+		"localId": "b7443f95-67b7-4f1e-82f4-9bef0c62c4b4",
+		"name": "The Modpack Continuation [1.0]",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"bb4bccc9-d5f5-45e9-99ee-b4ddd59f7bd0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3778477425,
+		"localId": "bb4bccc9-d5f5-45e9-99ee-b4ddd59f7bd0",
+		"name": "poop bomb",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"d6f2ce28-38df-40c8-b5a7-d31032b3e8b6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Blocks and Parts version. Place Crash Sensor on a creation; weak blocks durability 1-5 can break from high-speed crashes.",
+		"fileId": 3778577561,
+		"localId": "d6f2ce28-38df-40c8-b5a7-d31032b3e8b6",
+		"name": "PoD Block - Crash Sensor",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"8824141a-b109-4174-a00d-f3cb3450f051": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This is my Modpack :3Blocks and Wedges:- Backrooms Wallpaper 1 Block- Backrooms Wallpaper 1 Wedge- Furry Block- Smooth Planks 1 Block- Smooth Planks 1 Wedge- Mirror Block- Greenscreen Block- Neon BlockParts:- Wooden Small WheelInteractive Parts:- Door Handle BlockMore Blocks and Parts coming soon!",
+		"fileId": 3778586185,
+		"localId": "8824141a-b109-4174-a00d-f3cb3450f051",
+		"name": "The Adamo Pack",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
