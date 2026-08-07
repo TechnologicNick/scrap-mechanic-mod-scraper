@@ -48394,7 +48394,7 @@
 		"localId": "a5726ce0-1a35-4a95-8820-6ee1f2d6ae3a",
 		"name": "Pack Bot",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"a1a83227-d76d-4307-8a68-cb1ac897ec41": {
 		"allow_add_mods": true,
@@ -49171,12 +49171,12 @@
 	"91e81829-ebdc-46fe-bc7b-30554a825677": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Vanilla Survival with quality-of-life tweaks (more tweaks to come as i find things I want to adjust while playing 1.0):\n\n- Component Kits drop at 2x quantity - from robots, breakable chests, loot crates and warehouse loot.\n- Every chest you build holds 4x the slots: Scrap Chest 40, Small Chest 40, Chest 80, Large Chest 120, XXL Chest 400.\n- Increase stack sizes to 999\n- Increased Resource Collector Range by 4x\n- Harvesting a crop always returns a seed (was ~50% for most crops)\n\nEverything else is untouched vanilla Survival. Drop chances are unchanged - only the amounts.",
+		"description": "Vanilla Survival with quality-of-life tweaks (more tweaks to come as i find things I want to adjust while playing 1.0):\r\n\r\n- Component Kits drop at 2x quantity.\r\n- Chests capacity 4x.\r\n- Increase stack sizes to 1024. (FIXED. certain containers were not accepting the new sizes, rebuild them and they will work as intended now)\r\n- Increased Resource Collector Range by 3x.\r\n- Crops always drop seeds.\r\n- Removed fake trees and bushes that get in the way of building.\r\n- Doubled Oil from underwater geysers.\r\n- Speed up CookBit and RefineBot",
+		"fileId": 3775130552,
 		"localId": "91e81829-ebdc-46fe-bc7b-30554a825677",
 		"name": "Fallen Survival Tweaks",
 		"type": "Custom Game",
-		"version": 1,
-		"fileId": 3775130552
+		"version": 1
 	},
 	"363b421c-c960-48f3-86d0-7730953083f2": {
 		"allow_add_mods": true,
@@ -49476,6 +49476,17 @@
 		"fileId": 3778869594,
 		"localId": "25afc974-0ceb-43aa-adbd-f90eaf6af661",
 		"name": "My custom logic and parts collection",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"163fb784-cdf9-4c4f-972a-7bcb795eced9": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "----------------------------------[WELCOME]---------------------------------------\r\n\r\nTo the Intelligentia Mod: Enemy Tracking (Survival Mode)\r\n\r\n------------------------------------[CREDIT]-----------------------------------------\r\n\r\nThe Original Mod Author of Intelligentia Spent alot of Time on the Mod.\r\nSo Credit Belongs to them.\r\n\r\nBlueFlameMSc:\r\nThe Original Intelligentia Mod:\r\n\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1413205977\r\n\r\n---------------------------[MOD DESCRIPTION]---------------------------------\r\n\r\nThe Classic Intelligentia Mod Returns.. Now with Survival Enemy Tracking!\r\n\r\nOriginally created by BlueFlame.\r\nThis version extends Intelligentia with compatiblity for Survival enemies allowing turret systems to prioritize and Shoot Robots Automatically instead of Players.\r\n\r\nWhether you are Building Automated Farm Defense Systems, Mobile Combat Vehicles or Fully Autonomous Turret Defenses.\r\n\r\nIntelligentia can now detect Enemies in Scrap Mechanic with Minimal Adjustment.\r\n\r\nNote:\r\nI have not Made Any Recipes or Survival Blueprints Accessible so the only way to get these Mod Parts are with Commands or Manually Adding your own Recipes..\r\nBut i might add Full Survival Compatibility Later on.\r\n\r\n---------------------------------[FEATURES]----------------------------------------\r\n\r\n- Detects Survival Mode Enemies\r\n\r\n- Threat Priority System (Currently not fully Implemented)\r\n\r\n- Supports Automated Defensive Turrets\r\n\r\n- Designed for Survival Mode\r\n\r\nSupported Enemies\r\n\r\n• Totebots\r\n\r\n• Haybots\r\n\r\n• Tapebots\r\n\r\n• Farmbots\r\n\r\n(It wont Target any of the Chapter 2 Underground Enemies... Only the Enemies Listed  are targeted However More enemy support may be added in future updates.)\r\n\r\nPerfect For:\r\n\r\n- Automatic Farm Defense\r\n- Automated Base Defenses\r\n- Mobile Tanks or Turrets on Vehicles\r\n- Gunships and Turrets on Aircraft (I designed it for this)\r\n- Naval Creations (Anti Air Capabilities)\r\n- Convoy Defense and Enemy Protection\r\n\r\nOriginal Intelligentia Mod\r\n\r\nCreated by BlueFlame\r\n\r\nThis modified version is published with permission from the original author.\r\n\r\nMany thanks to BlueFlame for creating Intelligentia and allowing the community to continue expanding upon it.\r\n\r\n------------------------------------[UPCOMING]-----------------------------------------\r\n\r\nWhat's Next?\r\n\r\n- Fixing the Proximity Sensors\r\n\r\n- Fully Expanding the Threat Priority System\r\n\r\n- Integrate it with Survival so it can be Available Recipes for you to Acquire in Survival\r\n\r\n- Better prediction and aiming\r\n\r\n- Fixing the Notorious Wobble Issue\r\n\r\n------------------------------------[THANK YOU]-----------------------------------------\r\n\r\nIf you discover any bugs or have suggestions for new features, feel free to leave a comment.\r\n\r\nFeedback is always appreciated and helps improve the mod for everyone.\r\n\r\nSpecial Thanks\r\n\r\nBlueFlame — Original creator of Intelligentia Mod.\r\n\r\nWithout your work, this project wouldn't exist.\r\n\r\n⭐ Please rate the mod if you enjoy it!\r\n\r\nIt helps other Scrap Mechanics discover the project and keeps the Intelligentia community alive.",
+		"fileId": 3779095908,
+		"localId": "163fb784-cdf9-4c4f-972a-7bcb795eced9",
+		"name": "Intelligentia Mod [Enemy Tracking]",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
