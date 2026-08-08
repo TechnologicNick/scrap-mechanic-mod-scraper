@@ -3299,7 +3299,6 @@
 	"40023a1c-ce34-44bd-970f-e58067b5d1dd": {},
 	"990d2f1b-deb3-4c03-ac9c-63df8eeded6e": {
 		"$CONTENT_990d2f1b-deb3-4c03-ac9c-63df8eeded6e/Tools/Database/ToolSets/autoTool.toolset": [
-			"9d5f610b-0aec-4ead-8b03-14eb2ec1e876",
 			"162365dc-6a45-4c34-b30a-1562c9e3e024"
 		]
 	},
@@ -7883,7 +7882,9 @@
 	"8cfeedb3-6f06-4536-9334-1e4b0bfbe88a": {
 		"$CONTENT_8cfeedb3-6f06-4536-9334-1e4b0bfbe88a/Tools/Database/ToolSets/scrap_tweaks.toolset": [
 			"129404b1-11d4-4ecd-a0b3-6501faf27975",
-			"daaff264-301f-457b-833a-e7cf607e5b56"
+			"daaff264-301f-457b-833a-e7cf607e5b56",
+			"10e554e0-f582-4c17-81fc-e9b169f0cbbd",
+			"991a78ae-b110-4576-918e-491e8c54144f"
 		]
 	},
 	"4efde3ed-8008-417f-8794-d3672a5cf3eb": {},
@@ -7933,5 +7934,11 @@
 	"4d6b127f-257d-4f12-b978-d553e013a003": {},
 	"0f8ea38e-71a3-4a57-97eb-49e23bfd4947": {},
 	"25afc974-0ceb-43aa-adbd-f90eaf6af661": {},
-	"163fb784-cdf9-4c4f-972a-7bcb795eced9": {}
+	"163fb784-cdf9-4c4f-972a-7bcb795eced9": {},
+	"e41a933a-d792-4e93-ba31-b8782b472ce0": {
+		"$CONTENT_e41a933a-d792-4e93-ba31-b8782b472ce0/Tools/Database/ToolSets/ModHook.toolset": [
+			"fd7906fd-ae69-4370-9bd8-03e846b6c0a8"
+		]
+	},
+	"3bb270fb-fe8c-49ba-9b13-d70d7c972149": {}
 }

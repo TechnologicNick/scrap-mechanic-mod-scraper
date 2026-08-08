@@ -1876,7 +1876,14 @@
 		"$CONTENT_2de294d9-8d73-4d4e-97ea-b7b95c604bdb/Characters/Database/CharacterSets/example.characterset": []
 	},
 	"77b26909-49c9-46a4-8fed-cf8156f81581": {
-		"$CONTENT_77b26909-49c9-46a4-8fed-cf8156f81581/Characters/Database/CharacterSets/example.characterset": []
+		"$CONTENT_77b26909-49c9-46a4-8fed-cf8156f81581/Characters/Database/CharacterSets/example.characterset": [],
+		"$CONTENT_77b26909-49c9-46a4-8fed-cf8156f81581/Characters/Database/CharacterSets/fbs_npc.characterset": [
+			"551eccf3-8a21-4d48-a2ad-42212543cecc",
+			"75f53b09-15bb-400a-86a3-583dc492529a",
+			"8d1a69d6-4f16-405e-9ff3-bda63098533f",
+			"3885eaa8-2ef5-4ddc-8ebc-cea484fc293a",
+			"e7fe8113-142c-4c1c-8bca-24d534b65010"
+		]
 	},
 	"c03cb354-afcd-44db-8751-d1a91f65a638": {},
 	"91e81829-ebdc-46fe-bc7b-30554a825677": {
