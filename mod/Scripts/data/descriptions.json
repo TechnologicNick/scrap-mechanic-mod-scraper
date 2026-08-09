@@ -41200,7 +41200,7 @@
 	"7a10d694-cc65-413b-a090-c2f69572d3c9": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "# Modern-War-Parts-\r\nOriginal repository for Scrap Mechanic mod \"[Modern War Parts +]\". All rights reserved.\r\nMod Description\r\nRU:\r\nЭто мод на блоки и детали дополняющие ванильные элементы. Главная цель мода: Мод создан для моего проекта по боям в SM он добавляет детали которые не хватает в ваниле а так же делает данные детали на 9 прочностей для возможности реализации брони.\r\n\r\nКто может использовать этот мод?\r\n Данный мод есть в открытом доступе и вы можете его использовать в обычных целях, НО ЗНАЙТЕ, мы обновляем мод от своей нужды в деталях, в случае если будут какие либо глобальные изменения которые могут существенно заменить детали или их удалить, и ваша постройка перестанет спавниться, мы рекомендуем быть на нашем Дискорд сервере чтобы мы могли вам помочь.\r\n\r\nАвторское право:\r\n Мы категорически запрещаем вам модифицировать наш мод или красть из него детали, скрипты, без нашего разрешения, в случае если мы заметим подобное, ожидайте страйков и возможного суда!\r\n\r\nFeedback:\r\nЕсли вам нужны правки деталей или добавление чего либо нового обращайтесь к нам в Discord!\r\nDiscord server: https://discord.gg/T8VEJtEMtv\r\n\r\nEN:\r\n\r\nThis mod introduces blocks and parts that complement vanilla elements. The main goal of the mod: It was created for my SM project to add parts missing in the vanilla game, as well as to give these parts 9 durability levels to make armor implementation possible.\r\n\r\nWho Can Use This Mod?\r\n This mod is publicly available, and you are free to use it for regular purposes. HOWEVER, PLEASE NOTE: we update the mod based on our own need for parts. In the event of global updates that drastically change or remove parts—which might prevent your creation from spawning—we highly recommend joining our Discord server so we can assist you.\r\n\r\nCopyright:\r\n We strictly prohibit modifying our mod or stealing its parts and scripts without our permission. If we detect such actions, expect strikes and potential legal action!\r\n\r\nFeedback:\r\n If you need any part adjustments or want something new to be added, please contact us on Discord!",
+		"description": "RU:Это мод на блоки и детали дополняющие ванильные элементы. Главная цель мода: Мод создан для моего проекта по боям в SM он добавляет детали которые не хватает в ваниле а так же делает данные детали на 9 прочностей для возможности реализации брони.Кто может использовать этот мод? Данный мод есть в открытом доступе и вы можете его использовать в обычных целях, НО ЗНАЙТЕ, мы обновляем мод от своей нужды в деталях, в случае если будут какие либо глобальные изменения которые могут существенно заменить детали или их удалить, и ваша постройка перестанет спавниться, мы рекомендуем быть на нашем Дискорд сервере чтобы мы могли вам помочь.Feedback:Если вам нужны правки деталей или добавление чего либо нового обращайтесь к нам в Discord!Discord server: https://discord.gg/T8VEJtEMtvEN:This mod introduces blocks and parts that complement vanilla elements. The main goal of the mod: It was created for my SM project to add parts missing in the vanilla game, as well as to give these parts 9 durability levels to make armor implementation possible.Who Can Use This Mod? This mod is publicly available, and you are free to use it for regular purposes. HOWEVER, PLEASE NOTE: we update the mod based on our own need for parts. In the event of global updates that drastically change or remove parts—which might prevent your creation from spawning—we highly recommend joining our Discord server so we can assist you.Feedback: If you need any part adjustments or want something new to be added, please contact us on Discord!",
 		"fileId": 3306388787,
 		"localId": "7a10d694-cc65-413b-a090-c2f69572d3c9",
 		"name": "Modern War Parts +",
@@ -41879,7 +41879,7 @@
 		"localId": "962afb13-362f-4b24-8f35-99dfdb10a7b0",
 		"name": "[Shturman_PARTS]",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"1b3f108e-c056-4a87-80bb-a2735ac8fff9": {
 		"allow_add_mods": true,
@@ -45636,7 +45636,7 @@
 	"73e08ad2-3916-453e-82bb-f3cabfd21433": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod is intended for my project, Modern War. It can also be used for general purposes.\r\nЭтот мод предназначен для моего проекта, Modern War. Его также можно использовать в обычных целях.\r\n\r\nDiscord server: https://discord.gg/T8VEJtEMtv\r\n\r\nEN:\r\nThe mod is not created for public use. You may use it, but it’s better if you are on our Discord server. In case there are any issues, such as a block you used being removed and your build no longer spawning, we can help you there. We can also provide bug fixes.\r\nWe strictly forbid using any parts, scripts, or other content from our mod in your own projects! If you need edits to parts or want something new added, please contact us on Discord!\r\n\r\nRU:\r\nМод не создан для общественного использования. Вы можете его использовать, но лучше тогда быть на нашем дискорд сервере. В случае если будут какие-то проблемы в виде удаления блока который вы использовали и из-за этого постройка больше не спавнится, чтоб мы могли вам помочь. Ну и просто могли делать баг-фикс.\r\n\r\nМы категорически запрещаем использовать деталей, скриптов и прочего из нашего мода в ваших проектах! Если вам нужны правки деталей или добавление чего либо нового обращайтесь к нам в Discord!\r\n\r\nDiscord server: https://discord.gg/T8VEJtEMtv",
+		"description": "RU:Мод не создан для общественного использования. Вы можете его использовать, но лучше тогда быть на нашем дискорд сервере. В случае если будут какие-то проблемы в виде удаления блока который вы использовали и из-за этого постройка больше не спавнится, чтоб мы могли вам помочь. Ну и просто могли делать баг-фикс.EN:The mod is not created for public use. You may use it, but it’s better if you are on our Discord server. In case there are any issues, such as a block you used being removed and your build no longer spawning, we can help you there. We can also provide bug fixes.Discord server: https://discord.gg/T8VEJtEMtv",
 		"fileId": 3238521799,
 		"localId": "73e08ad2-3916-453e-82bb-f3cabfd21433",
 		"name": "Modern War Components",
@@ -46724,7 +46724,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "LOAD",
+		"description": "load",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -48839,7 +48839,7 @@
 	"e8b1c589-8fe4-4f05-8923-6870e2b854a4": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "v1.0.17 - This is a personal mod that allows to regrow trees and rock, fixes issues with vacuum and also allows vacuum and refinery to work when not in render range getting water and oil. Also fixes the issue with the Drill and SawBlade when they get laggy. Provided AS IS.",
+		"description": "v1.0.19 - This is a personal mod that allows to regrow trees and rock, fixes issues with vacuum and also allows vacuum and refinery to work when not in render range getting water and oil. Also fixes the issue with the Drill and SawBlade when they get laggy. Provided AS IS.",
 		"fileId": 2970690456,
 		"localId": "e8b1c589-8fe4-4f05-8923-6870e2b854a4",
 		"name": "LTs Mod",
@@ -48949,7 +48949,7 @@
 	"be752a0e-a2a9-4b12-bbfa-e0855c72b8be": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "",
+		"description": "[b]Build Your Own Hardcore Experience[/b]\r\n\r\nHardcore Mechanic lets the host choose exactly how punishing Survival should be. Enable only the challenges you want, combine them freely, and configure the world before the opening cinematic. The settings can be opened again at any time with [b]/hardcore[/b].\r\n\r\n[b]One Chance[/b]\r\nDisables respawning. Once your mechanic is knocked out, that character cannot return.\r\n\r\n[b]Hunger and Thirst[/b]\r\n\r\n[img]https://i.imgur.com/jI94lqv.png[/img]\r\nRestores the classic hunger and thirst systems. Food and drinks refill their respective needs, while health recovers gradually when hunger is high enough.\r\n\r\n[b]Block Surface Oil Pumping[/b]\r\nPrevents Vacuum Pumps from collecting Crude Oil from surface pools. Slow underwater oil sources remain available.\r\n\r\n[b]Double Player Damage[/b]\r\nDoubles every source of damage taken by players, including bot attacks, explosions, and falls.\r\n\r\n[b]Reduced Dungeon Loot[/b]\r\nDungeon chests contain fewer items and offer slightly lower-quality rewards.\r\n\r\n[b]Tornadoes in Every Biome[/b]\r\nAllows tornadoes to spawn throughout the world instead of only in deserts. They affect players and creations, but ignore bots.\r\n\r\n[b]Explosive Red Totebots[/b]\r\nReplaces every Green Totebot spawn with an explosive Red Totebot.\r\n\r\nNOTE:\r\nThe original Difficulty slider in the world settings has no effect in this Custom Game. All challenge rules are controlled through the HARDCORE menu.\r\n\r\nHave an idea for another challenge? Share it in the comments — your suggestion may become part of a future update!\r\n\r\n[b]Version 1.0[/b]",
 		"fileId": 3773662301,
 		"localId": "be752a0e-a2a9-4b12-bbfa-e0855c72b8be",
 		"name": "Hardcore Mechanic",
@@ -49171,7 +49171,7 @@
 	"91e81829-ebdc-46fe-bc7b-30554a825677": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Vanilla Survival with quality-of-life tweaks (more tweaks to come as i find things I want to adjust while playing 1.0):\r\n\r\n- Component Kits drop at 2x quantity.\r\n- Chests capacity 4x.\r\n- Increase stack sizes to 1024. (FIXED. certain containers were not accepting the new sizes, rebuild them and they will work as intended now)\r\n- Increased Resource Collector Range by 3x.\r\n- Crops always drop seeds.\r\n- Removed fake trees and bushes that get in the way of building.\r\n- Doubled Oil from underwater geysers.\r\n- Speed up CookBit and RefineBot]\r\n- Added a small AOE for drills and Saws, only applies to rocks and trees, won't affect combat or anything else. just making the drills a saws a bit more reliable than direct contact that can be a bit annoying with the physics being what they are.",
+		"description": "Vanilla Survival with quality-of-life tweaks (more tweaks to come as i find things I want to adjust while playing 1.0):\r\n\r\n- Component Kits drop at 2x quantity.\r\n- Chests capacity 4x.\r\n- Increase stack sizes to 1024. (FIXED. certain containers were not accepting the new sizes, rebuild them and they will work as intended now)\r\n- Increased Resource Collector Range by 3x.\r\n- Crops always drop seeds.\r\n- Removed fake trees and bushes that get in the way of building.\r\n- Doubled Oil from underwater geysers.\r\n- Speed up CookBit and RefineBot]\r\n- Added a small AOE for drills and Saws, only applies to rocks and trees, won't affect combat or anything else. just making the drills a saws a bit more reliable than direct contact that can be a bit annoying with the physics being what they are.\r\n- Added recipe to recycle excess botheads into scrap",
 		"fileId": 3775130552,
 		"localId": "91e81829-ebdc-46fe-bc7b-30554a825677",
 		"name": "Fallen Survival Tweaks",
