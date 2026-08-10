@@ -49566,11 +49566,47 @@
 				"name": "Scrap Overdrive - Blocks & Parts"
 			}
 		],
-		"description": "[h1]Scrap Tweaks Survival[/h1]\nThe ready-to-play Survival Custom Game for Scrap Tweaks. It provides the game-level integration used by the drone and utility systems while keeping support for additional Blocks and Parts mods.\n\n[h1]How to play[/h1]\n[list]\n[*]Subscribe to this Custom Game. Scrap Tweaks and ModDatabase are included as automatic Workshop dependencies.\n[*]Choose [b]New Game > Custom Game > Scrap Tweaks Survival[/b].\n[*]Enable any additional Blocks and Parts mods you want and create or load your world.\n[/list]\nNo manual game-file editing and no separate recipe-loader Custom Game are required.\n\n[h1]Blocks and Parts compatibility[/h1]\n[list]\n[*]Loads mod descriptions, shapesets and toolsets registered through ModDatabase.\n[*]Automatically discovers standard mod recipe files at [b]CraftingRecipes/craftbot.json[/b], [b]workbench.json[/b] and [b]hideout.json[/b].\n[*]Mods that require their own exclusive Custom Game scripts or world replacement may need a dedicated compatibility patch.\n[/list]\n\n[h1]Included integration[/h1]\n[list]\n[*]Standard modded Craftbot, Workbench and Farmer Hideout recipe loading.\n[*]Scrap Tweaks Craftbot recipes and Hideout trades.\n[*]Persistent drone pairing, distant-cell streaming and rescue commands.\n[*]Mini Saw and Mini Drill harvesting support.\n[*]Bioethanol and Hydrogen Cell engine/container support.\n[*]Seat Command Relay engine release behaviour.\n[*]Scrap Tweaks loot and optional chat commands.\n[/list]\n\nUse this Custom Game when you want the simplest complete Scrap Tweaks Survival setup.",
+		"description": "[h1]THE BEST WAY TO PLAY SCRAP OVERDRIVE[/h1]\r\n\r\n[b]Scrap Overdrive - Custom Game Mode is the best way to enjoy the complete mod in Survival.[/b]\r\n\r\nIt activates exclusive progression, crafting, loot, trading, inventory, drone and world systems that are not available from a Blocks & Parts mod alone.\r\n\r\n[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3775233108]OPEN SCRAP OVERDRIVE - BLOCKS & PARTS[/url][/b]\r\n\r\n[h1]INSTALLATION[/h1]\r\n\r\n[list]\r\n[*][b]1.[/b] Subscribe to this Custom Game Mode, [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3775233108]Scrap Overdrive - Blocks & Parts[/url] and ModDatabase.\r\n[*][b]2.[/b] Keep ModDatabase downloaded, but do not activate it manually.\r\n[*][b]3.[/b] Open [b]New Game > Custom Game > Scrap Overdrive - Custom Game Mode[/b].\r\n[*][b]4.[/b] Make sure both Scrap Overdrive mods are active and create a new save.\r\n[/list]\r\n\r\n[h1]EXCLUSIVE CUSTOM GAME MODE FEATURES[/h1]\r\n\r\n[list]\r\n[*][b]Complete Survival progression[/b] for Scrap Overdrive parts, tools, weapons and machines.\r\n[*][b]Craftbot and Workbench recipes[/b] for Scrap Overdrive and compatible Blocks & Parts mods.\r\n[*][b]Multi-box Schematicbot scanning[/b] that unlocks one hidden recipe per box and stops before wasting boxes.\r\n[*][b]Schematic Box drops[/b] from Survival robots, with stronger enemies awarding more boxes.\r\n[*][b]Farmer Hideout trades[/b] for weapons, drone equipment, fuels, ammunition and progression bundles.\r\n[*][b]Expanded Survival inventory[/b] with 36 normal slots plus the 10-slot hotbar.\r\n[*][b]Portable Craftbot integration[/b] with discovered recipes, carried materials and the full crafting interface.\r\n[*][b]Persistent drone pairing[/b] across unloaded areas and game sessions.\r\n[*][b]Distant drone support[/b] with remote commands, streamed cells, saved positions and recovery tools.\r\n[*][b]Drone rescue commands[/b] for recovering or clearing an unloaded paired drone.\r\n[*][b]Mini Saw and Mini Drill harvesting[/b] against Survival trees and rocks.\r\n[*][b]Bioethanol engine support[/b] as a concentrated high-capacity gasoline source.\r\n[*][b]Hydrogen Fuel Cell support[/b] as a concentrated high-capacity battery source.\r\n[*][b]Advanced fuel-container integration[/b] for engines, machines and connected storage.\r\n[*][b]Seat Relay engine integration[/b] with reliable release and normal fuel-consuming playback.\r\n[*][b]World-aware farming data[/b] for supported drone and automation systems.\r\n[*][b]Recipe and trade commands[/b] for players who want to unlock the complete catalogue immediately.\r\n[*][b]Automatic ModDatabase recipe discovery[/b] for compatible third-party Blocks & Parts mods.\r\n[/list]\r\n\r\n[h1]SCRAP OVERDRIVE - BLOCKS & PARTS CONTENT[/h1]\r\n\r\nThe required [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3775233108]Blocks & Parts mod[/url] supplies the complete library below.\r\n\r\n[h2]DRONES & REMOTE SYSTEMS[/h2]\r\n[list]\r\n[*]Drone Core Prototype with Hold, Follow, Go & Hold, Pursuit, target tracking, obstacle avoidance and stabilization.\r\n[*]Drone Gimbal Jet Prototype and Drone Drive Motor for flying, wheeled and rotor-driven drones.\r\n[*]Drone Remote Control with pairing, recall, movement commands, module controls and camera view.\r\n[*]Drone Mini Spudgun, Mini Water Gun, Mini Vacuum Pump and Mini Seed Planter.\r\n[*]Mini Plasma Drill and Mini Laser Drill upgrade paths.\r\n[*]Compact drone storage, Resource Collector, Ore Collector, Mini Saw and Mini Drill.\r\n[/list]\r\n\r\n[h2]AUTOMATION & VEHICLE SYSTEMS[/h2]\r\n[list]\r\n[*]Seat Relay Autopilot with real driver-command recording and fuel-consuming playback.\r\n[*]Smart Servo Controller with programmable A/B angles, automatic sweep and target tracking.\r\n[*]Bearing Brake, Direction Gate and Rotating Seat Lock.\r\n[*]Automatic Detacher Base and Coupler with adjustable assisted capture and lock force.\r\n[*]Magnetic Pole and Ferrous Attractor with configurable force and radius.\r\n[*]Vehicle Stabilization Gyro and Active Aerofoil.\r\n[*]Temporal Motion Storage with adjustable recording delay and 25-1000% influence.\r\n[*]Mechanical Entanglement Emitter and Receiver with independent horizontal and vertical position control.\r\n[*]Sticky Monster Wheel and Sticky Big Monster Wheel for wall and ceiling driving.\r\n[*]Mini Beacon with the standard icon and colour interface.\r\n[/list]\r\n\r\n[h2]COMPACT MACHINES & AGRICULTURE[/h2]\r\n[list]\r\n[*]Portable Craftbot 2.0 with eight crafting slots.\r\n[*]1x1 Resource Collector, 1x1 Ore Collector, 1x1 Small Chest and 1x1 Seed Container.\r\n[*]Seed Planter and Drone Mini Seed Planter.\r\n[*]Schematic Boxes and the expanded Survival recipe catalogue.\r\n[/list]\r\n\r\n[h2]WEAPONS, TOOLS & FUEL[/h2]\r\n[list]\r\n[*]Laser Drill L1/L2/L3 and compact Mini Laser Drill variants.\r\n[*]Radish Gun and Radish Ammo.\r\n[*]Laser Gun with Orange Cells.\r\n[*]Plasma Gun with Blueberry Cells.\r\n[*]Bioethanol and Hydrogen Fuel Cells.\r\n[/list]\r\n\r\n[h2]RESOURCES & CAPACITY[/h2]\r\n[list]\r\n[*]Expanded stacks for seeds, crops, ammunition, liquids, Circuit Boards, Quartz and Warehouse Keys.\r\n[*]Expanded Cotton, Pigment Flower and Beehive capacity.\r\n[*]Expanded tool, drill, saw, Totebot head and custom ammunition stacks.\r\n[/list]\r\n\r\n[h1]MOD COMPATIBILITY[/h1]\r\n\r\nCompatible Blocks & Parts mods that integrate through ModDatabase can be enabled alongside Scrap Overdrive and have their supported Craftbot, Workbench and Hideout recipes loaded automatically.\r\n\r\n[h1]COMMUNITY & SUPPORT[/h1]\r\n\r\n[b][url=https://discord.gg/NqGv6ekhAH]JOIN THE SCRAP OVERDRIVE DISCORD[/url][/b]",
 		"fileId": 3780778978,
 		"localId": "3175f905-b288-4832-bb0d-4dec4d8a92bb",
 		"name": "Scrap Overdrive - Custom Game Mode",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"4dc53063-ba1a-412e-877e-333e3a6cac18": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1]XXL Ammo Container[/h1]\r\nTired of chaining a dozen ammo canisters together? This Mod adds a bigger ammo container that holds 8x the potatoes of the vanilla one.\r\n\r\n[hr][/hr]\r\n[h2]Details[/h2]\r\n[list]\r\n[*] Same connection type as the vanilla ammo container\r\n[*] Same potato filter\r\n[*] 8x the Storage of the Normal Ammo container\r\n[*] 1.0 (Drilling Thunder) compatible\r\n[/list]",
+		"fileId": 3780806735,
+		"localId": "4dc53063-ba1a-412e-877e-333e3a6cac18",
+		"name": "XXL Ammo Container",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"90bde463-5df4-4894-ab0f-6b91ec41c1bd": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "",
+		"fileId": 3780880885,
+		"localId": "90bde463-5df4-4894-ab0f-6b91ec41c1bd",
+		"name": "Extended Logic Gates",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"b5b2dd24-f35a-4135-ac31-41ff9319d5fc": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8"
+			}
+		],
+		"description": "TEST",
+		"fileId": 3780996361,
+		"localId": "b5b2dd24-f35a-4135-ac31-41ff9319d5fc",
+		"name": "NPC",
+		"type": "Blocks and Parts",
+		"version": 2
 	}
 }

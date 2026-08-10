@@ -165823,5 +165823,33 @@
 		"$CONTENT_3175f905-b288-4832-bb0d-4dec4d8a92bb/Objects/Database/ShapeSets/partunlockstation.shapeset": [
 			"87f60f59-fae9-419c-9189-29c75432b84e"
 		]
+	},
+	"4dc53063-ba1a-412e-877e-333e3a6cac18": {
+		"$CONTENT_4dc53063-ba1a-412e-877e-333e3a6cac18/Objects/Database/ShapeSets/XXLAmmoContainer.shapeset": [
+			"9222e6c4-45e5-45db-bc7b-24209f032f01"
+		]
+	},
+	"90bde463-5df4-4894-ab0f-6b91ec41c1bd": {
+		"$CONTENT_90bde463-5df4-4894-ab0f-6b91ec41c1bd/Objects/Database/ShapeSets/example.shapeset": [],
+		"$CONTENT_90bde463-5df4-4894-ab0f-6b91ec41c1bd/Objects/Database/ShapeSets/logicgates.shapeset": [
+			"d5ea21fc-72a5-45cb-995f-34f231638d59",
+			"338d737e-7132-4fea-a4f3-3b131de444ac",
+			"88bd1e54-4335-4e16-ac43-3b91a35039a9",
+			"7c7005e2-bd12-4d47-8960-73913c6b1425",
+			"13865a1b-98d8-4cae-80b9-f0696d67bd1a",
+			"568e44f1-3f16-46d2-8620-73dc0a5754cb",
+			"0f4f60d0-f2bc-4e6e-af6e-51b409ce4998",
+			"0ea1e7b0-0e16-4591-a509-2bae66406dff",
+			"b7ac268a-8d75-4e58-8e55-2f843d3c27e8",
+			"67280004-bd4a-4265-968e-2774fd375136",
+			"af95bf24-60ad-49bf-ae2e-469d49655f9b",
+			"56541a67-1cd4-4c6d-b245-ec1de552d6f3",
+			"e7d0dbf5-8105-4023-8ba4-77bfef982032"
+		]
+	},
+	"b5b2dd24-f35a-4135-ac31-41ff9319d5fc": {
+		"$CONTENT_b5b2dd24-f35a-4135-ac31-41ff9319d5fc/Objects/Database/ShapeSets/example.shapeset": [
+			"b3402155-e8a3-452d-b6fb-55c8d4e4e681"
+		]
 	}
 }
