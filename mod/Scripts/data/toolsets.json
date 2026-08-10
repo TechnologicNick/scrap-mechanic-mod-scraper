@@ -7941,5 +7941,11 @@
 		]
 	},
 	"3bb270fb-fe8c-49ba-9b13-d70d7c972149": {},
-	"6a3109e4-6e87-4922-906b-60a741ae8bf1": {}
+	"6a3109e4-6e87-4922-906b-60a741ae8bf1": {},
+	"76ba6b04-6ff3-4309-8a63-599679cef9c7": {},
+	"5e3271b1-e0dd-4e18-8c7c-d591b2023a2b": {
+		"$CONTENT_5e3271b1-e0dd-4e18-8c7c-d591b2023a2b/Tools/Database/ToolSets/example.toolset": []
+	},
+	"9d4620d2-5e15-45cb-b900-03c0664ea6ff": {},
+	"3175f905-b288-4832-bb0d-4dec4d8a92bb": {}
 }
