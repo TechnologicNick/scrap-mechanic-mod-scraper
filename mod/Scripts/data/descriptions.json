@@ -32822,7 +32822,7 @@
 	"990d2f1b-deb3-4c03-ac9c-63df8eeded6e": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This Mod add Parts from my Main Mod ( Fant Mod ) as Seperated Mod usable in Creative.\r\n\r\n-Gyro 1x1   ( To Spin your Creation around )\r\n-Gyro 2x2   ( To Spin your Creation around )\r\n-Gyro 3x3   ( To Spin your Creation around )\r\n-Angle Sensor  ( To Detect if the Creation is Tilted in a certain Direction )\r\n-Altimeter   ( To Detect the Height )\r\n-Simple Controller ( do the same like with a Seat but with Logic inputs. Let a Engine Spin Forward/Backwards for example )\r\n-Smooth Piston\r\n-W A S D Q R and In Seat Detector\r\n-Wireless Gate - Logic Transmitter with Color Channels\r\n-Velocity Direction Detector\r\n-Daylight Sensor\r\n-Fluid Sensor\r\n\r\n[h1] IMPORTENT IMPORTENT  IMPORTENT   [/h1]\r\nAll These Parts are INCLUDED In the \"Fant Mod\", Dont Use this Mod if you have allready the \"Fant Mod\" running.\r\n\r\nMore Blocks will be Added over Time\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This Mod add Parts from my Main Mod ( Fant Mod ) as Seperated Mod usable in Creative.\r\n\r\n-Gyro 1x1   ( To Spin your Creation around )\r\n-Gyro 2x2   ( To Spin your Creation around )\r\n-Gyro 3x3   ( To Spin your Creation around )\r\n-Angle Sensor  ( To Detect if the Creation is Tilted in a certain Direction )\r\n-Altimeter   ( To Detect the Height )\r\n-Simple Controller ( do the same like with a Seat but with Logic inputs. Let a Engine Spin Forward/Backwards for example )\r\n-Smooth Piston\r\n-W A S D Q R and In Seat Detector\r\n-Wireless Gate - Logic Transmitter with Color Channels\r\n-Velocity Direction Detector\r\n-Daylight Sensor\r\n-Fluid Sensor\r\n- the big piston from challange mode\r\n\r\n[h1] IMPORTENT IMPORTENT  IMPORTENT   [/h1]\r\nAll These Parts are INCLUDED In the \"Fant Mod\", Dont Use this Mod if you have allready the \"Fant Mod\" running.\r\n\r\nMore Blocks will be Added over Time\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2947206586,
 		"localId": "990d2f1b-deb3-4c03-ac9c-63df8eeded6e",
 		"name": "Fants Logic Stuff",
@@ -32922,7 +32922,7 @@
 	},
 	"43a593be-676b-40fd-a5d4-167c7da7396b": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "This Mod add Parts from my Main Mod ( Fant Mod ) as Seperated Mod usable in Creative.\r\n\r\n-Clean Texture Blocks\r\n-Clean texture Shapes\r\n-45 Degree Small Pipe Variants\r\n-Thin Pannels\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2950134231,
 		"localId": "43a593be-676b-40fd-a5d4-167c7da7396b",
@@ -36216,7 +36216,7 @@
 		"localId": "975ba0ce-9585-4fb8-845a-cf769346e52f",
 		"name": "Fants Camera",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"2a5b4242-32b3-44d8-95a9-f921c10e20bc": {
 		"allow_add_mods": true,
@@ -38872,7 +38872,7 @@
 		"localId": "632be32f-6ebd-414e-a061-d45906ae4dc6",
 		"name": "ScrapComputers",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"4dc9208c-c8f5-435c-940e-36cd6b1533d2": {
 		"allow_add_mods": true,
@@ -45636,7 +45636,7 @@
 	"73e08ad2-3916-453e-82bb-f3cabfd21433": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "RU:Мод не создан для общественного использования. Вы можете его использовать, но лучше тогда быть на нашем дискорд сервере. В случае если будут какие-то проблемы в виде удаления блока который вы использовали и из-за этого постройка больше не спавнится, чтоб мы могли вам помочь. Ну и просто могли делать баг-фикс.EN:The mod is not created for public use. You may use it, but it’s better if you are on our Discord server. In case there are any issues, such as a block you used being removed and your build no longer spawning, we can help you there. We can also provide bug fixes.Discord server: https://discord.gg/T8VEJtEMtv",
+		"description": "RU:\r\nМод не создан для общественного использования. Вы можете его использовать, но лучше тогда быть на нашем дискорд сервере. В случае если будут какие-то проблемы в виде удаления блока который вы использовали и из-за этого постройка больше не спавнится, чтоб мы могли вам помочь. Ну и просто могли делать баг-фикс.\r\n\r\nEN:\r\nThe mod is not created for public use. You may use it, but it’s better if you are on our Discord server. In case there are any issues, such as a block you used being removed and your build no longer spawning, we can help you there. We can also provide bug fixes.\r\n\r\nDiscord server: https://discord.gg/T8VEJtEMtv",
 		"fileId": 3238521799,
 		"localId": "73e08ad2-3916-453e-82bb-f3cabfd21433",
 		"name": "Modern War Components",
@@ -49130,8 +49130,8 @@
 	},
 	"aa520f6b-9f01-4579-acdd-dda878b82d5e": {
 		"allow_add_mods": true,
-		"custom_icons": true,
-		"description": "Is the max quantity count for each block and/or part too little? In this Blocks and Parts mod, all vanilla items are too large. All items are capped at 65535.Warning: There won't be any Item icons, because I'm unable to genererate icons. If there's no icon of any item you want, it means the current game originally don't use those items. I prefer the 0.7.4 variant of generating icons.",
+		"custom_icons": false,
+		"description": "Is the max quantity count for each block and/or part too little? In this Blocks and Parts mod, all vanilla items are too large. All items are capped at 65535.\r\n\r\nWarning: There won't be any Item icons, because I'm unable to genererate icons. If there's no icon of any item you want, it means the current game originally don't use those items. I prefer the 0.7.4 variant of generating icons.\r\n\r\nNote: I had uploaded this mod a while ago, The mod tools has crashed (With Bugsplat), and I was unaware that it was uploaded for a while. Axolot, please fix the Mod tools\r\n\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3775344717]Click here for the Custom Game variant.[/url]\r\n\r\n[h2]Custom Game Warning:[/h2]\r\nBe careful when using this with custom games. Some custom Games have default items that this mod cannot override. If nothing looks overstacked, that's the Custom Game. I can only overstack default items.\r\n\r\nYou can test the overstack in Creative Mode before complaining.",
 		"fileId": 3774217548,
 		"localId": "aa520f6b-9f01-4579-acdd-dda878b82d5e",
 		"name": "Item Overstack 2 - Blocks and Parts",
@@ -49636,6 +49636,143 @@
 		"fileId": 3781223897,
 		"localId": "6434b53e-f9ac-46f3-8b38-52331689ca92",
 		"name": "Better Plasma Drill",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"fbbbbae6-d425-4f0c-9a32-795c5769fcd6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Part of The Last Wall project - saving mods for last game version before ch2 for people who dont want lost everything they made and still want play older version.",
+		"fileId": 3768430286,
+		"localId": "fbbbbae6-d425-4f0c-9a32-795c5769fcd6",
+		"name": "(TLW) The Modpack Continuation",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"ae6c264f-6dc3-4deb-bc11-72395f41f681": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Part of The Last Wall project - saving mods for last game version before ch2 for people who dont want lost everything they made and still want play older version.\n\nThere are no any changes in mod itself.\n\nAll credits to original devs: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3269912087]ScrapComputers[/url]",
+		"fileId": 3768434772,
+		"localId": "ae6c264f-6dc3-4deb-bc11-72395f41f681",
+		"name": "(TLW) ScrapComputers",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"244bcefd-eb95-4ee0-aa9f-a64c9027f502": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Part of The Last Wall project - saving mods for last game version before ch2 for people who dont want lost everything they made and still want play older version.\n\nThere are no any changes in mod itself.\n\nAll credits to original devs: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2949501397]Seats and Tech Mod[/url]",
+		"fileId": 3768437093,
+		"localId": "244bcefd-eb95-4ee0-aa9f-a64c9027f502",
+		"name": "(TLW) Seats and Tech Mod",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"9faeb0dc-3f20-4355-adb3-01cf97fb47e8": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Part of The Last Wall project - saving mods for last game version before ch2 for people who dont want lost everything they made and still want play older version.\n\nThere are no any changes in mod itself.\n\nAll credits to original devs: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3309460746]New Legend Mod Continuation[/url]",
+		"fileId": 3768441612,
+		"localId": "9faeb0dc-3f20-4355-adb3-01cf97fb47e8",
+		"name": "(TLW) New Legend Mod Continuation",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f67a55bc-1858-4493-a06b-521e45da3983": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Part of The Last Wall project - saving mods for last game version before ch2 for people who dont want lost everything they made and still want play older version.\n\nThere are no any changes in mod itself.\n\nAll credits to original devs: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1904783067]Cannons Pack[/url]",
+		"fileId": 3768443893,
+		"localId": "f67a55bc-1858-4493-a06b-521e45da3983",
+		"name": "(TLW) Cannons Pack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6c075808-d509-4c60-86a2-760ecd17ea32": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Part of The Last Wall project - saving mods for last game version before ch2 for people who dont want lost everything they made and still want play older version.\n\nThere are no any changes in mod itself.\n\nAll credits to original devs: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2022198450]OP Tools[/url]",
+		"fileId": 3768445520,
+		"localId": "6c075808-d509-4c60-86a2-760ecd17ea32",
+		"name": "(TLW) OP Tools",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"76651541-d211-4963-ad06-d10eb41d7471": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Part of The Last Wall project - saving mods for last game version before ch2 for people who dont want lost everything they made and still want play older version.\n\nThere are no any changes in mod itself.\n\nAll credits to original devs: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2987476458]Bingo's Block Editor[/url]",
+		"fileId": 3768446474,
+		"localId": "76651541-d211-4963-ad06-d10eb41d7471",
+		"name": "(TLW) Bingo's Block Editor",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"4f7b9b0c-6203-468f-af59-c278ad7cd1dc": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Part of The Last Wall project - saving mods for last game version before ch2 for people who dont want lost everything they made and still want play older version.\n\nThere are no any changes in mod itself.\n\nAll credits to original devs: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843905833]Laser Tools[/url]",
+		"fileId": 3768450596,
+		"localId": "4f7b9b0c-6203-468f-af59-c278ad7cd1dc",
+		"name": "(TLW) Laser Tools",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"6e3edc5a-4afc-42a9-8404-52668de484f7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Part of The Last Wall project - saving mods for last game version before ch2 for people who dont want lost everything they made and still want play older version.\n\nThere are no any changes in mod itself.\n\nAll credits to original devs: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3107290429]Manned Turret Pack[/url]",
+		"fileId": 3768453187,
+		"localId": "6e3edc5a-4afc-42a9-8404-52668de484f7",
+		"name": "(TLW) Manned Turret Pack",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"b98c38a2-4c84-46a9-be0a-5c0f2592c1dd": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Part of The Last Wall project - saving mods for last game version before ch2 for people who dont want lost everything they made and still want play older version.\n\nThere are no any changes in mod itself.\n\nAll credits to original devs: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=881252559]New Legend Mod (Creative)[/url]",
+		"fileId": 3768461395,
+		"localId": "b98c38a2-4c84-46a9-be0a-5c0f2592c1dd",
+		"name": "(TLW) New Legend Mod (Creative)",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"f48a38ce-9b3d-49ba-97dd-e50a56ddeb2a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Part of The Last Wall project - saving mods for last game version before ch2 for people who dont want lost everything they made and still want play older version.\r\n\r\nThere are no any changes in mod itself.\r\n\r\nAll credits to original devs: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2095020580]Surveillance Tools[/url]",
+		"fileId": 3779097185,
+		"localId": "f48a38ce-9b3d-49ba-97dd-e50a56ddeb2a",
+		"name": "(TLW) Surveillance Tools",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"c2291246-8039-45f6-be36-50d7859cf246": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3779099346,
+				"localId": "0e16c6b0-bf00-4689-b7ec-9632194844a8",
+				"name": "(TLW) Enable Survival Player Harvestables"
+			}
+		],
+		"description": "Part of The Last Wall project - saving mods for last game version before ch2 for people who dont want lost everything they made and still want play older version.\r\n\r\nThere are no any changes in mod itself.\r\n\r\nAll credits to original devs: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3216708262]Enable Survival Player[/url]",
+		"fileId": 3779098175,
+		"localId": "c2291246-8039-45f6-be36-50d7859cf246",
+		"name": "(TLW) Enable Survival Player",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"42c15c76-fb3a-451d-a2ba-1a24112e6971": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Priority Block\n\nA logic block that creates priority networks.\n\nConnect multiple Priority Blocks together. Each has a priority from 1 to 10 (10 = highest).\nOnly the block with the highest priority and an active logic input will turn its output ON.\nAll other blocks in the network stay OFF, even if their inputs are active.\n\nHow it works:\n- Only blocks with an active input are considered\n- The highest priority wins\n- On a tie, the block with the lowest shape ID is chosen (deterministic)\n- If no block has an active input, all outputs stay OFF\n- Works in both singleplayer and multiplayer",
+		"fileId": 3781378027,
+		"localId": "42c15c76-fb3a-451d-a2ba-1a24112e6971",
+		"name": "Priority Block",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
