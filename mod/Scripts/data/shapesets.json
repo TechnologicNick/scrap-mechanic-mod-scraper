@@ -67840,7 +67840,8 @@
 			"f285b388-b132-4a5e-af2d-dbf920b7950b",
 			"13c4d813-a3e5-4c09-ac9f-81663f87069d",
 			"061a0670-58eb-4401-94cf-3a1b1e69d45b",
-			"c73fd111-954f-4333-9407-340cf65a3d56"
+			"c73fd111-954f-4333-9407-340cf65a3d56",
+			"dff53b11-2d8d-4044-ad51-59321f117f8e"
 		]
 	},
 	"0a1eae23-1e16-42dc-ac4f-5b99d29cbbf5": {
@@ -127610,6 +127611,7 @@
 		],
 		"$CONTENT_962afb13-362f-4b24-8f35-99dfdb10a7b0/Objects/Database/ShapeSets/logic.shapeset": [
 			"a32097c4-ea97-4b37-9e7b-92aad9de0c31",
+			"2d6ece1b-a6c5-4e5a-b3c9-4a6ca773fa41",
 			"6886e8ef-e3d0-4b08-963b-0138c8ff1034",
 			"23c6246f-7c40-4705-8203-b63b2fbe32c6",
 			"d2dbd52f-634a-418d-8a92-464e98dec9fc",
@@ -137962,6 +137964,8 @@
 			"a14ec909-f8fb-4fcb-95a4-48d13557ff9d",
 			"518f6def-13ad-49ea-8225-e8a50ad1009a",
 			"d3e4cf2e-97bc-47e1-931b-96e1e2904e23",
+			"1b806787-2b59-4f69-a881-639f88b8c732",
+			"973704b8-abfc-4d6b-966e-d1d60c590035",
 			"a69cee2e-b248-4540-9ac4-c567dd597ca0",
 			"7930d972-ecc1-47e1-98b4-379144543a30",
 			"3b71e6ab-d50d-4b68-a369-d6b9f416e698",
@@ -138054,6 +138058,7 @@
 			"928ded92-db1e-412b-a505-91bc1a7439c6",
 			"87ed1496-b9d1-4f11-86e6-cae6e25a0172",
 			"2af0b028-d03a-4955-9a66-8d498a3bd756",
+			"11c0416d-b274-4d6a-abb0-b7cd23a96212",
 			"1d51a8d0-5750-467d-96e7-60257e814a7f",
 			"a9eec278-0735-43b0-84de-581ff17e4f45",
 			"4fc9eee4-5203-4ef5-ac44-18244a009907",
@@ -164936,6 +164941,7 @@
 		"$CONTENT_8cfeedb3-6f06-4536-9334-1e4b0bfbe88a/Objects/Database/ShapeSets/scrap_tweaks.shapeset": [
 			"a3046bed-5cea-4bbb-a164-4b46448f87b3",
 			"993b55d5-dd0d-4ddd-861e-fa374f26097d",
+			"a8aa595a-b4f6-4327-ba48-2e34a2178e79",
 			"e7e0b709-4534-4df0-a770-c7f7494765fb",
 			"61aceb2f-8586-4713-aaaa-faebf4e5bc4b",
 			"ddb30745-fdea-4dd9-a6d1-ac07871fc6be",
@@ -165707,17 +165713,24 @@
 			"f5e79ad7-cced-481d-b354-818334696e97",
 			"feb05671-78db-4229-9b1c-e789adcb783d",
 			"a856283d-53db-4cc1-8ea5-2cdb89f3c5b5",
+			"260e431a-e6b8-4f2f-bdbe-c5828e9f5447",
+			"07091e0f-61af-4481-9041-b82a64f777fe",
 			"dbd35584-2e6b-4ecb-80bc-b79936df2d92",
-			"e4322e29-6f0e-41de-aaad-dbce0a88d5a6"
+			"e4322e29-6f0e-41de-aaad-dbce0a88d5a6",
+			"2870b095-be84-424e-8b7e-7956dcae40fa",
+			"1e62ad46-84ca-4aff-bc04-c592ed649278"
 		],
 		"$CONTENT_8824141a-b109-4174-a00d-f3cb3450f051/Objects/Database/ShapeSets/interactives.shapeset": [
-			"3b8dd94a-64bf-4b51-883c-7cea3aaf89f3"
+			"3b8dd94a-64bf-4b51-883c-7cea3aaf89f3",
+			"04111a14-7ab8-4701-a93e-b0d51582354a"
 		],
 		"$CONTENT_8824141a-b109-4174-a00d-f3cb3450f051/Objects/Database/ShapeSets/parts.shapeset": [
 			"71d8e3b9-fca8-4629-8d23-7e2070221db6",
-			"3ab507cf-05c3-4fe8-b865-72f7526ce60e"
-		],
-		"$CONTENT_8824141a-b109-4174-a00d-f3cb3450f051/Objects/Database/ShapeSets/wedges.shapeset": []
+			"3ab507cf-05c3-4fe8-b865-72f7526ce60e",
+			"9f30d103-a863-4547-98d0-5bfae5ff26f4",
+			"63198ea6-72a7-463f-9913-b14f06b0b00d",
+			"1c2c3b8e-d28a-4dcd-bc90-39b31f2232e7"
+		]
 	},
 	"4d6b127f-257d-4f12-b978-d553e013a003": {
 		"$CONTENT_4d6b127f-257d-4f12-b978-d553e013a003/Objects/Database/ShapeSets/Wheels.shapeset": [
@@ -165850,6 +165863,25 @@
 	"b5b2dd24-f35a-4135-ac31-41ff9319d5fc": {
 		"$CONTENT_b5b2dd24-f35a-4135-ac31-41ff9319d5fc/Objects/Database/ShapeSets/example.shapeset": [
 			"b3402155-e8a3-452d-b6fb-55c8d4e4e681"
+		]
+	},
+	"8e6fb1d0-77b5-4e79-8f09-ad7ee72cd8e2": {
+		"$CONTENT_8e6fb1d0-77b5-4e79-8f09-ad7ee72cd8e2/Objects/Database/ShapeSets/quickstackterminal.json": [
+			"7b1c7151-9d51-4f5a-86f8-8fe6b2e7b3ca"
+		]
+	},
+	"187ab39f-dc0b-44f6-b0d9-9b3c553381dc": {
+		"$CONTENT_187ab39f-dc0b-44f6-b0d9-9b3c553381dc/Objects/Database/ShapeSets/VacuumPlus.shapeset": [
+			"c7597164-52bd-4596-966d-ec5d314ca07c"
+		]
+	},
+	"6434b53e-f9ac-46f3-8b38-52331689ca92": {
+		"$CONTENT_6434b53e-f9ac-46f3-8b38-52331689ca92/Objects/Database/ShapeSets/bpd.shapeset": [
+			"9b9c0a82-a9bf-41d4-a599-58182f162058",
+			"660c50e1-081d-449c-a405-785d4c26328d",
+			"4a3d40d4-ce86-4a68-b042-8d107ea39d78",
+			"854674db-fc5a-480f-8de0-18b6fa3c90dd",
+			"53a8cdc9-d55e-4f37-a23d-09af2f7ec2fe"
 		]
 	}
 }
