@@ -47360,12 +47360,12 @@
 	"343e0296-1ef8-4e44-8742-47052c83d2a4": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "A tool used for building creations in competeitions with a fixed budget, per-item-costs and other analytics.\n\nTest 0.5.0",
+		"description": "A tool used for building creations in competeitions with a fixed budget, per-item-costs and other analytics.Test version 0.6.1",
 		"fileId": 3699463783,
 		"localId": "343e0296-1ef8-4e44-8742-47052c83d2a4",
 		"name": "Budget Pro",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"6fa71a6f-86d4-48d9-9a16-58804453b11c": {
 		"allow_add_mods": true,
@@ -49612,7 +49612,7 @@
 	"8e6fb1d0-77b5-4e79-8f09-ad7ee72cd8e2": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Quick Stack Terminal automatically deposits matching stackable items from your inventory into supported storage chests within a 10-meter radius. Multiple chests are processed from nearest to farthest. Items are only moved into chests that already contain the same item type. Includes a Craftbot recipe. Tested with Fant Mod 3 v4.",
+		"description": "[ENGLISH]\r\n\r\nQuick Stack Terminal automatically deposits matching stackable items from your inventory into supported storage chests.\r\n\r\nPlace the terminal near your storage and press E. All supported chests within a 10-meter radius are processed automatically, starting with the nearest one.\r\n\r\nItems are only deposited into chests that already contain the same item type. Unrelated items remain in the player's inventory.\r\n\r\nUses server-authoritative container transactions for reliable multiplayer operation. Includes a Craftbot recipe.\r\n\r\nTested with Fant Mod 3 v4. Compatibility with other Custom Games is not guaranteed.\r\n\r\n[РУССКИЙ]\r\n\r\nТерминал быстрой сортировки автоматически переносит подходящие складываемые предметы из инвентаря игрока в поддерживаемые сундуки.\r\n\r\nРазместите терминал возле хранилища и нажмите E. Он обработает все поддерживаемые сундуки в радиусе 10 метров, начиная с ближайшего.\r\n\r\nПредметы переносятся только в те сундуки, где уже лежит такой же тип предмета. Остальные предметы остаются в инвентаре игрока.\r\n\r\nДля надёжной работы в мультиплеере используются серверные контейнерные транзакции. Рецепт для Craftbot включён.\r\n\r\nПроверено с Fant Mod 3 v4. Совместимость с другими Custom Games не гарантируется.",
 		"fileId": 3780536473,
 		"localId": "8e6fb1d0-77b5-4e79-8f09-ad7ee72cd8e2",
 		"name": "Quick Stack Terminal",
@@ -49785,5 +49785,15 @@
 		"name": "Lustiges Survival",
 		"type": "Custom Game",
 		"version": 1
+	},
+	"59c2f4f7-b767-47ee-9d12-5a3bf19f808c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "With this mod, you can control Lorenzo's Boombox using logic..If you want to use it in Survival mode, you need to copy the following file:...\\SteamLibrary\\steamapps\\workshop\\content\\387990\\x\\Scripts\\game\\interactables\\Boombox.luaand paste it into:...\\SteamLibrary\\steamapps\\common\\Scrap Mechanic\\Survival\\Scripts\\game\\interactablesWhen prompted, click Yes to replace the existing file.",
+		"fileId": 3781913193,
+		"localId": "59c2f4f7-b767-47ee-9d12-5a3bf19f808c",
+		"name": "Logic Boombox",
+		"type": "Blocks and Parts",
+		"version": 2
 	}
 }

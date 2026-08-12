@@ -168797,5 +168797,10 @@
 	},
 	"c46d8175-9434-471c-8c0d-9d94da8c384d": {
 		"$CONTENT_c46d8175-9434-471c-8c0d-9d94da8c384d/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"59c2f4f7-b767-47ee-9d12-5a3bf19f808c": {
+		"$CONTENT_59c2f4f7-b767-47ee-9d12-5a3bf19f808c/Objects/Database/ShapeSets/example.shapeset": [
+			"03bdd942-c808-4795-aa0b-554fa98c3c74"
+		]
 	}
 }
