@@ -8020,5 +8020,8 @@
 			"1c2c4d52-0b02-4d37-a3e8-313ba8f2487b"
 		]
 	},
-	"42c15c76-fb3a-451d-a2ba-1a24112e6971": {}
+	"42c15c76-fb3a-451d-a2ba-1a24112e6971": {},
+	"c46d8175-9434-471c-8c0d-9d94da8c384d": {
+		"$CONTENT_c46d8175-9434-471c-8c0d-9d94da8c384d/Tools/Database/ToolSets/example.toolset": []
+	}
 }

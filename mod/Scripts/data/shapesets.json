@@ -164956,6 +164956,7 @@
 			"696827bd-8cea-4d0b-be0a-4cfc3aafdc39",
 			"764c5606-5e40-4b10-a933-31521393ca09",
 			"98389d14-7fd3-4b31-8ec4-f72eb14ee0f2",
+			"36369fa8-782e-41aa-9815-6b085fab9da2",
 			"586d68d4-cc80-41de-b833-75cce056e3f1",
 			"eb315d24-eed1-464b-a453-34eb07374571",
 			"bb3039fa-9ffd-4fde-9243-96c641ad44f8",
@@ -164995,7 +164996,11 @@
 			"cf8b51b4-1b90-43a6-a4b2-ca811cf2afc4",
 			"4caba1a9-2804-44df-932f-2b92dd7f80c4",
 			"c6525eaa-697b-4f96-8fd1-19a3605dc7d5",
-			"8492c86e-c2d6-45cf-b28b-afb8c664a082"
+			"8492c86e-c2d6-45cf-b28b-afb8c664a082",
+			"1db0cbc3-7014-46c7-a516-71f5bb65e08f",
+			"543d9f8e-c873-4d68-8c7e-12516d2b5796",
+			"8f2118f1-5802-4776-9f5a-74bbc84156a3",
+			"3291958c-11aa-429a-a025-936b87f36c4f"
 		],
 		"$CONTENT_8cfeedb3-6f06-4536-9334-1e4b0bfbe88a/Objects/Database/ShapeSets/scrap_tweaks_stack_overrides.shapeset": [
 			"22beade5-38ca-47b4-a2ee-32403f58a862",
@@ -165780,7 +165785,7 @@
 			"c45556b0-6d11-41ba-8741-0e929c863302",
 			"1c22cc42-8054-48c6-89c9-34dd03090221",
 			"780d6b0f-ef41-4d05-9fbe-8d822f70ee81",
-			"0dff7f0f-9ba5-4f2c-9773-c4bb23e9a0e7",
+			"b4d3f8c1-7a6e-4a5f-8c1b-3d9c6a9e2f41",
 			"c6321bdf-7496-4189-b63f-50b04787db6f",
 			"5552a49a-0dc6-4cd8-b08f-cd47b2b238a6",
 			"3623f8ad-fb4d-43bb-a4da-04f3b9a4af24",
@@ -165802,7 +165807,8 @@
 			"2a8db9aa-8296-4907-a980-98d0319db76a",
 			"1b1b0d4d-7d1d-4d55-8cf6-0d78b6d5d2e3",
 			"a8f0b7d2-6a76-4d4f-b2d5-7e1bdc9f4f20",
-			"8c0d8f1c-2fd1-4d0d-bd8b-6f5c8f1a2a11"
+			"8c0d8f1c-2fd1-4d0d-bd8b-6f5c8f1a2a11",
+			"b7f3c2a1-8e64-4d90-a5f1-2c9b7e6d4a38"
 		]
 	},
 	"e41a933a-d792-4e93-ba31-b8782b472ce0": {
@@ -168788,5 +168794,8 @@
 		"$CONTENT_42c15c76-fb3a-451d-a2ba-1a24112e6971/Objects/Database/ShapeSets/parts.json": [
 			"97ef6c98-498e-4c39-aa16-be3a60f359ad"
 		]
+	},
+	"c46d8175-9434-471c-8c0d-9d94da8c384d": {
+		"$CONTENT_c46d8175-9434-471c-8c0d-9d94da8c384d/Objects/Database/ShapeSets/example.shapeset": []
 	}
 }

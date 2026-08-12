@@ -4422,5 +4422,26 @@
 	"5e3271b1-e0dd-4e18-8c7c-d591b2023a2b": {
 		"$CONTENT_5e3271b1-e0dd-4e18-8c7c-d591b2023a2b/Harvestables/Database/HarvestableSets/example.harvestableset": []
 	},
-	"3175f905-b288-4832-bb0d-4dec4d8a92bb": {}
+	"3175f905-b288-4832-bb0d-4dec4d8a92bb": {},
+	"c46d8175-9434-471c-8c0d-9d94da8c384d": {
+		"$CONTENT_c46d8175-9434-471c-8c0d-9d94da8c384d/Harvestables/Database/HarvestableSets/loot.harvestableset": [
+			"b8eb68ca-25a0-47aa-8745-12f2dd13d873",
+			"a6b9fa26-df80-4f5b-9679-418f4567e5ca",
+			"97fe0cf2-0591-4e98-9beb-9186f4fd83c8",
+			"74ffe0eb-17fe-41b3-a532-8dbb5924e5dc",
+			"6e7611e1-ad18-413a-a4cb-bab7e3a5ca75",
+			"6726c35c-f8e6-49cf-b0b6-05e7efac4115",
+			"3b7054d0-9ca7-4efa-8b4a-e8658eda3181",
+			"e3cb14d5-9d28-45e8-96f7-fc79c60de292",
+			"cceec00b-8a34-4d68-a419-8c3bc7aa075a",
+			"fa982977-bf82-476a-b404-792e10451ce5",
+			"f8f1b878-24ec-4241-acfd-9f0d91395765",
+			"ff9a1a71-f411-46a5-a8b6-40e18a8642ab",
+			"3bb80384-1f4c-4c1f-803d-6d1838882029",
+			"58ae6c48-bd59-4311-acda-45c0b3d9233b",
+			"d1d56712-a3f0-4af8-bb53-7ad6cb37d34b",
+			"facc327b-6bda-4097-9161-ee392e541a63",
+			"282f332e-eb95-4553-b711-4a027e92391d"
+		]
+	}
 }
