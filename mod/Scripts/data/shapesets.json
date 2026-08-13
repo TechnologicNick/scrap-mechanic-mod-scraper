@@ -168812,5 +168812,11 @@
 			"03bdd942-c808-4795-aa0b-554fa98c3c74"
 		]
 	},
-	"f0886488-2072-40a5-96d1-b470d00869df": {}
+	"f0886488-2072-40a5-96d1-b470d00869df": {},
+	"325f5fb5-6e9c-4364-a273-50e0b36731ce": {
+		"$CONTENT_325f5fb5-6e9c-4364-a273-50e0b36731ce/Objects/Database/ShapeSets/componentkit.shapeset": []
+	},
+	"badd6654-2fb1-44a9-a596-ddb1a48d55af": {
+		"$CONTENT_badd6654-2fb1-44a9-a596-ddb1a48d55af/Objects/Database/ShapeSets/SoilOnBlocks.shapeset": []
+	}
 }

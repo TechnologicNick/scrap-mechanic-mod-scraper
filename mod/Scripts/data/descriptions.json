@@ -49808,5 +49808,25 @@
 		],
 		"type": "Custom Game",
 		"version": 1
+	},
+	"325f5fb5-6e9c-4364-a273-50e0b36731ce": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1]Craftable Component Kits[/h1]\r\n\r\nNever run out of Component Kits again! This mod adds a simple recipe that lets you craft Component Kits in the Crafting Bot.\r\n\r\n[b]RECIPE:[/b]\r\n[list]\r\n[*] 4x Metal 1\r\n[*] 1x Circuit Board\r\n[/list]\r\n[b]= 1x Component Kit[/b]\r\nCraft time: 5 seconds\r\n\r\n[h1]HOW TO USE[/h1]\r\nCraft the Component Kit at the Crafting Bot and use it to unlock special recipes at the Schematic Bot, or to stock up for building.\r\n\r\n[h1]DEPENDENCIES[/h1]\r\n[list]\r\n[*] Modded Craftbot Recipes (custom game) - required so the Component Kit recipe appears in the Crafting Bot.\r\n[/list]\r\n\r\n[h1]NOTES[/h1]\r\nWorks in Survival and Custom games.\r\n\r\n[h1] MORE INFOS [/h1]\r\nReport issues or share feedback in the Steam Workshop comments.\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#\r\n\r\nMod made by TyRao",
+		"fileId": 3781960462,
+		"localId": "325f5fb5-6e9c-4364-a273-50e0b36731ce",
+		"name": "Craftable Component Kits",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"badd6654-2fb1-44a9-a596-ddb1a48d55af": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Tired of trying to line up a growbed on a flat concrete roof, only to be told the soil has nowhere to go? This small quality-of-life mod lets you place soil on top of flat build blocks, not just bare terrain.Once installed, the Soil Bag can drop soil onto Metal (Scrap Metal & Metal 1), Concrete (Concrete 2, Concrete 3, Cracked Concrete & Concrete Tiles) and Drywall blocks - the perfect foundation for raised planters, rooftop farms and clean, organized growing setups.Features:*Place soil on flat blocks as easily as on the ground*Snap-perfect alignment on the block grid - no more floating edges*Works with the normal Soil Bag tool, no new items or crafting*Steam and Creative Mode friendlyPerfect for builders who like their farms tidy, their roofs green, and their soil exactly where they put it.",
+		"fileId": 3782016900,
+		"localId": "badd6654-2fb1-44a9-a596-ddb1a48d55af",
+		"name": "Soil on flat surface",
+		"type": "Blocks and Parts",
+		"version": 2
 	}
 }
