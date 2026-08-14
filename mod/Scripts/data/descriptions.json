@@ -9319,7 +9319,8 @@
 		"fileId": 912558613,
 		"localId": "1386ead6-2bf8-41ce-ab98-3bc89372cc0a",
 		"name": "Bloc Bois",
-		"type": "Blocks and Parts"
+		"type": "Blocks and Parts",
+		"version": 2
 	},
 	"2690dfdf-05ad-4ab1-9791-f25160d18bef": {
 		"creatorId": "76561198250117648",
@@ -9365,11 +9366,12 @@
 	},
 	"396c413d-700e-4516-a93c-1d52483e61ac": {
 		"creatorId": "76561198346841739",
-		"description": "This mod doesn't have a description",
+		"description": "Mur 01",
 		"fileId": 916588911,
 		"localId": "396c413d-700e-4516-a93c-1d52483e61ac",
 		"name": "Mur 01",
-		"type": "Blocks and Parts"
+		"type": "Blocks and Parts",
+		"version": 2
 	},
 	"2b5d5788-d40e-4ada-9c06-3975dcbc4ca4": {
 		"creatorId": "76561198084722891",
@@ -17273,7 +17275,7 @@
 		"localId": "1d38a47f-d86a-402e-ae32-8a86b6699cd1",
 		"name": "Development kit for Something flying",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"ba444b4e-bbd0-4ecd-be0b-963b6b0cf128": {
 		"allow_add_mods": true,
@@ -33277,7 +33279,7 @@
 	"61d4b3e3-c5f7-454c-87fb-7a0fff5d91d0": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds alot of Parts for Storage and Automation.\r\n\r\n-Vacuumpipes in all variations\r\n-Vacuumpipe PUMP\r\n-3 way Vacuumpump\r\n-Recycler\r\n-Pumpjack ( long distance fluid transfer )\r\n-Trashbin\r\n-Teleporter Itempipes ( in renderdistance item transport )\r\n-Container and Chests, all with Filter and the Item Collection from the Vanilla Large Chest\r\n-Seed Press ( to make out of seeds Scrapwood or Oil, temp disabled )\r\n-Stationary Auto Miner that uses gas to slowly gather stone and metal.\r\n-Inline Refinery. a symetrical refinery variant.\r\n-5x5x8 Resource Collector, fitting for the inline refinery\r\n-chest fill detector to check the fill amount of container\r\n \r\nHelper:\r\nPuduku - Thin Chest Model\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This mod adds alot of Parts for Storage and Automation.\r\n\r\n-Vacuumpipes in all variations\r\n-Vacuumpipe PUMP\r\n-3 way Vacuumpump\r\n-Recycler\r\n-Pumpjack ( long distance fluid transfer )\r\n-Trashbin\r\n-Teleporter Itempipes ( in renderdistance item transport )\r\n-Container and Chests, all with Filter and the Item Collection from the Vanilla Large Chest\r\n-Seed Press ( to make out of seeds Scrapwood or Oil, temp disabled )\r\n-Stationary Auto Miner that uses gas to slowly gather stone and metal.\r\n-Inline Refinery. a symetrical refinery variant.\r\n-5x5x8 Resource Collector, fitting for the inline refinery\r\n-chest fill detector to check the fill amount of container\r\n\r\n[h1] IMPORTENT  [/h1]\r\n For the recycler is the ModDatabase needed to let it see other modded recipes.\r\nyou only need to Subscribe to it, not add the Moddatabase to your world!.\r\n\r\n\r\n\r\nHelper:\r\nPuduku - Thin Chest Model\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2963115530,
 		"localId": "61d4b3e3-c5f7-454c-87fb-7a0fff5d91d0",
 		"name": "Fants Pipes Container Pumps Recycler",
@@ -49871,5 +49873,40 @@
 		"name": "Mini Beacon - Standalone",
 		"type": "Blocks and Parts",
 		"version": 2
+	},
+	"9de6e75d-fb34-4494-aa8f-731596c640b7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "EL MISMO PERO CON PATATAS",
+		"fileId": 3782453023,
+		"localId": "9de6e75d-fb34-4494-aa8f-731596c640b7",
+		"name": "Technical Guns Potato",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"dc8dd5ed-8fa9-4054-b00a-737def294c49": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3782677728,
+				"localId": "569f4240-9add-40b0-ab51-09f7de546372",
+				"name": "Hijack Lib"
+			}
+		],
+		"description": "[h1]NPC Control - 附身控制任意 NPC[/h1]\r\n[quote]本模组为原版 [b]NPC Control[/b]（作者 [b]crackx[/b]）的[b]修复增强版[/b]：https://steamcommunity.com/sharedfiles/filedetails/?id=2969977254 —— 感谢原作者。[/quote]\r\n[hr]\r\n[b]在 Scrap Mechanic 中附身控制任意 NPC！[/b]瞄准机器人按 [b]E[/b] 接管其控制权——移动、攻击、飞行、视角全归你管。或用 [b]变身器工具[/b] 在准星前生成任意角色并自动附身。摆烂机器人也能被你玩出花样。\r\n\r\n[hr]\r\n[h2]功能特性[/h2]\r\n[list]\r\n[*]附身 [b]全部 15 种官方单位[/b]：Farmbot、Totebot（绿/红/黄/蓝/叶）、Haybot、Tapebot（普通/红/绿/黄）、Woc（牛）、Glob（荧光虫）、Lootbot、Seedbot、Cablebot、Minerbot（矿工）、Scannerbot（扫描机器人）\r\n[*]WASD 移动、Shift 冲刺；[b]飞行单位[/b]（矿工/扫描机器人）空格上升、CTRL 下降，Shift 冲刺加速升降\r\n[*]每角色独立攻击系统：Farmbot 近战连招+农药喷射；Scannerbot 慢射导弹/弹仓齐射+[b]目标锁定与扫描模式[/b]（跟踪导弹）；红 Totebot 自爆；矿工钻头/弹幕等\r\n[*][b]变身器工具[/b]：Q 打开选角界面，在准星前 4m 生成任意角色并自动附身；临时单位分离即销毁\r\n[*]瞄准高亮 + 交互提示，第三人称跟随相机（滚轮缩放 4-100）\r\n[*]借壳机制注册全部 15 类单位，[b]不修改任何官方文件[/b]\r\n[*]支持[b]单人与多人[/b]（同一单位同时只允许一名玩家附身）\r\n[/list]\r\n\r\n[hr]\r\n[h2]操作指南[/h2]\r\n[list]\r\n[*][b]E[/b]：附身 / 分离（分离变身器生成的临时单位=自动销毁）\r\n[*][b]W/A/S/D[/b] 移动；[b]Shift[/b] 冲刺；[b]空格[/b] 跳跃（飞行单位=上升）；[b]CTRL[/b] 下降（飞行单位）\r\n[*][b]0-4[/b] 切换攻击招式；[b]左键/右键[/b] 攻击；[b]5/6[/b]（Scannerbot）锁定目标 / 扫描模式\r\n[*][b]Q[/b]（装备变身器时）打开选角界面，选中角色后按左键生成并自动附身\r\n[/list]\r\n\r\n[hr]\r\n[h2]依赖[/h2]\r\n[quote][b]必装：HijackLib 基础库</b>（同作者）。本模组使用 HijackLib 的借壳机制实现附身，缺少该库时模组完全无效。将 [i]HijackLib[/i] 文件夹置于本模组旁，两者同时启用。[/quote]\r\n\r\n[hr]\r\n[h2]注意事项[/h2]\r\n[list]\r\n[*]隐形 Morph 工具自动装备；[b]变身器在物品栏中[/b]（工具栏）\r\n[*]单位类型在真正生成时才完成注册——从未出现过的类型会先提示 \"The character does not exist (try respawning it)\"，该类型首次生成后即可附身\r\n[*]部分动画观感怪异（机器人本非为人控设计），不影响功能\r\n[*]附身期间玩家角色原地待机\r\n[*]启用模组后需重启游戏；首次启动会重建缓存，属正常现象\r\n[*]多人联机：主机模组对加入的玩家生效，所有客户端都需启用本模组才能附身\r\n[/list]\r\n\r\n[hr]\r\n[h2]更新日志[/h2]\r\n[list]\r\n[*][b]v2（2026-08）[/b]：15/15 单位类全部注册；新增变身器工具与选角界面；Scannerbot 导弹+开仓动画、目标锁定与扫描模式、冲刺加速垂直飞行；矿工飞行与攻击；红 Totebot 自爆；三语本地化\r\n[/list]",
+		"fileId": 3783087774,
+		"localId": "dc8dd5ed-8fa9-4054-b00a-737def294c49",
+		"name": "NPC Controller (Fix)",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"a0ef7fb3-8e56-414a-982c-cf101e82a059": {
+		"creatorId": "76561198346841739",
+		"description": "Bloc Metal Alu",
+		"fileId": 916216485,
+		"localId": "a0ef7fb3-8e56-414a-982c-cf101e82a059",
+		"name": "MetalAlu",
+		"type": "Blocks and Parts"
 	}
 }

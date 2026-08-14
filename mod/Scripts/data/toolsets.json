@@ -8039,5 +8039,26 @@
 	},
 	"3af72c94-a30d-4c61-bd5e-0cb2ac826cc5": {},
 	"5483ba57-269c-4a8e-8053-af0a3e6b1c24": {},
-	"8f2c11e7-ab75-4726-8291-f7a2b42221b0": {}
+	"8f2c11e7-ab75-4726-8291-f7a2b42221b0": {},
+	"9de6e75d-fb34-4494-aa8f-731596c640b7": {
+		"$CONTENT_9de6e75d-fb34-4494-aa8f-731596c640b7/Tools/Database/ToolSets/NewToolSet1.toolset": [
+			"521a24ea-7a63-40b6-88f5-e9b6b915961f",
+			"56d04a33-338a-4d28-8ed5-3a7136dd3f11",
+			"fc96b224-9e1f-47df-8b54-7de76cc10071",
+			"133fc082-669c-4ec4-a3db-5f39e7f1657d",
+			"d8239752-0c8d-47d7-968c-1df909554343",
+			"3d5e95f9-ded2-4360-bb97-21573661f7aa",
+			"b9d88905-81a4-40b7-ba75-2aafcdce72e1",
+			"474a5f8c-1635-43b5-8b49-1218c501d1fb",
+			"d1c2854f-bb5e-48d6-bd71-edaa2d4fa8fe",
+			"0fac3e71-d55e-4f7a-a5fb-b062e2c73c2d"
+		]
+	},
+	"dc8dd5ed-8fa9-4054-b00a-737def294c49": {
+		"$CONTENT_dc8dd5ed-8fa9-4054-b00a-737def294c49/Tools/Database/ToolSets/morph.toolset": [
+			"b5f471f1-01d1-461b-9d09-ec8287580386",
+			"d450edd6-2af4-4b36-b65a-cc8a2488f91c"
+		]
+	},
+	"a0ef7fb3-8e56-414a-982c-cf101e82a059": {}
 }
