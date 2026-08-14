@@ -4422,7 +4422,12 @@
 	"5e3271b1-e0dd-4e18-8c7c-d591b2023a2b": {
 		"$CONTENT_5e3271b1-e0dd-4e18-8c7c-d591b2023a2b/Harvestables/Database/HarvestableSets/example.harvestableset": []
 	},
-	"3175f905-b288-4832-bb0d-4dec4d8a92bb": {},
+	"3175f905-b288-4832-bb0d-4dec4d8a92bb": {
+		"$CONTENT_3175f905-b288-4832-bb0d-4dec4d8a92bb/Harvestables/Database/HarvestableSets/soil_cleanup.harvestableset": [
+			"b39349ae-9b7e-48e2-8e9d-6f9dc6472fd6",
+			"2e39af7c-235c-40ee-9cc7-43c7cd87f155"
+		]
+	},
 	"c46d8175-9434-471c-8c0d-9d94da8c384d": {
 		"$CONTENT_c46d8175-9434-471c-8c0d-9d94da8c384d/Harvestables/Database/HarvestableSets/loot.harvestableset": [
 			"b8eb68ca-25a0-47aa-8745-12f2dd13d873",

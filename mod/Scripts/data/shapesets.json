@@ -151244,7 +151244,8 @@
 			"e46843ed-82ab-4b7b-9e6b-bd90fb11d8b0",
 			"ad0394ee-e608-4ebc-b586-29ab97cfddab",
 			"518b9ba6-a080-4828-9ecc-7732e3217d97",
-			"26027601-8a3a-44b0-b28c-f0ed7a8adac1"
+			"26027601-8a3a-44b0-b28c-f0ed7a8adac1",
+			"29a91f46-0b5f-4e5d-86f3-83122f431a98"
 		]
 	},
 	"2ef2d606-15c4-48b8-9edb-376de95b3672": {
@@ -165005,7 +165006,8 @@
 			"1db0cbc3-7014-46c7-a516-71f5bb65e08f",
 			"543d9f8e-c873-4d68-8c7e-12516d2b5796",
 			"8f2118f1-5802-4776-9f5a-74bbc84156a3",
-			"3291958c-11aa-429a-a025-936b87f36c4f"
+			"3291958c-11aa-429a-a025-936b87f36c4f",
+			"1a3fcc05-7626-4339-b5e1-ca1ffadf08f7"
 		],
 		"$CONTENT_8cfeedb3-6f06-4536-9334-1e4b0bfbe88a/Objects/Database/ShapeSets/scrap_tweaks_stack_overrides.shapeset": [
 			"22beade5-38ca-47b4-a2ee-32403f58a862",
@@ -165048,7 +165050,8 @@
 			"e49b210a-0d46-4f06-bcd8-08862379d156",
 			"3440440b-d362-4473-aa03-b7c41e1fe7ad",
 			"c9396a42-67c3-4fa3-b682-31428ff9eced",
-			"98a85002-3b45-4fe8-b2fb-390a9953e877"
+			"98a85002-3b45-4fe8-b2fb-390a9953e877",
+			"fe8bfeba-850b-4827-9785-10e2468c9c23"
 		],
 		"$CONTENT_8cfeedb3-6f06-4536-9334-1e4b0bfbe88a/Objects/Database/ShapeSets/scrap_tweaks_gyroseat_override.shapeset": [
 			"1786e265-cebe-4ef1-9d13-02c104c6207b",
@@ -165858,6 +165861,40 @@
 		],
 		"$CONTENT_3175f905-b288-4832-bb0d-4dec4d8a92bb/Objects/Database/ShapeSets/partunlockstation.shapeset": [
 			"87f60f59-fae9-419c-9189-29c75432b84e"
+		],
+		"$CONTENT_3175f905-b288-4832-bb0d-4dec4d8a92bb/Objects/Database/ShapeSets/hideout_trader.shapeset": [
+			"614c3193-13da-40f4-9b03-37f26e760fd6"
+		],
+		"$CONTENT_3175f905-b288-4832-bb0d-4dec4d8a92bb/Objects/Database/ShapeSets/dispenserbot.shapeset": [
+			"ebd73cee-988f-4ffb-95d1-d3c3c81fd506"
+		],
+		"$CONTENT_3175f905-b288-4832-bb0d-4dec4d8a92bb/Objects/Database/ShapeSets/recovery_contracts.shapeset": [
+			"f783e97f-373b-48bc-a0b6-7ae89a795d39",
+			"3cd8f61d-ed77-41a7-af31-53839b6076df",
+			"d2c59da5-fb65-464a-b4d6-311fb7e4c786",
+			"5e965ae2-4eb6-406e-a79c-45955e930c82",
+			"14e83125-4a1f-4ec1-bdc2-4c8cf5486083",
+			"3576fb63-f2d8-4299-9436-2a28f141912f",
+			"0a7b56b6-868d-4ffc-8178-db1f9f512ae4",
+			"a9521d36-af2d-4c4c-95f9-9a8552062fd8",
+			"051e7960-3905-4bbd-9b19-8af3184bf711",
+			"0bbc600a-14fc-4d37-9a58-5c01a0d8be6d",
+			"bb92bea4-628a-4798-a1d0-d0fc0055c4c0",
+			"fd6c370b-7d3e-4605-af56-0a46b42dc71e",
+			"82eb1b65-77d6-445c-9c30-79528c4cadd7",
+			"b856e21b-ac3d-4bd6-8c8f-e4611820a699",
+			"1fcd1665-869f-4507-a100-a1cc7d86f167",
+			"5e73bb8b-2e77-4d17-b8ee-b1e234dc224c",
+			"1609f742-0294-4bc9-b365-8cf254d8c74f"
+		],
+		"$CONTENT_3175f905-b288-4832-bb0d-4dec4d8a92bb/Objects/Database/ShapeSets/overdrive_vanilla_overrides.shapeset": [
+			"a930a42f-63ed-4fb0-933e-56ce8a889cc5",
+			"5cb15c93-4fa9-48da-9974-2e95ca6c9e1c",
+			"97f449b6-c948-448b-b8b3-4448e3f6b956",
+			"ea10d1af-b97a-46fb-8895-dfd1becb53bb",
+			"096d4daf-639e-4947-a1a6-1890eaa94464",
+			"be29592a-ef58-4b1d-b18c-895023abd27f",
+			"38ec258d-c644-4f08-8635-3f7434c884dd"
 		]
 	},
 	"4dc53063-ba1a-412e-877e-333e3a6cac18": {
@@ -168818,5 +168855,27 @@
 	},
 	"badd6654-2fb1-44a9-a596-ddb1a48d55af": {
 		"$CONTENT_badd6654-2fb1-44a9-a596-ddb1a48d55af/Objects/Database/ShapeSets/SoilOnBlocks.shapeset": []
+	},
+	"569f4240-9add-40b0-ab51-09f7de546372": {},
+	"3af72c94-a30d-4c61-bd5e-0cb2ac826cc5": {
+		"$CONTENT_3af72c94-a30d-4c61-bd5e-0cb2ac826cc5/Objects/Database/ShapeSets/sorter_gate.shapeset": [
+			"a34d9f5b-7d4e-48db-93ae-e4b5c40ba90f",
+			"ceefb263-70cc-40b1-8017-b9b3c514f1af",
+			"75cbb598-c2a5-4630-8171-d399c38361c9",
+			"ac215ceb-65b3-4fb1-b638-9486668af5c4",
+			"7f268890-e07f-4e78-b04d-02f563fc10b8"
+		]
+	},
+	"5483ba57-269c-4a8e-8053-af0a3e6b1c24": {
+		"$CONTENT_5483ba57-269c-4a8e-8053-af0a3e6b1c24/Objects/Database/ShapeSets/BetterDigitalSigns.shapeset": [
+			"4908ecfb-ec05-42c5-a02a-7675ccc3eb19",
+			"a96232ef-2778-4c23-8a11-7cbc5b1de8b0",
+			"46d85e5b-353c-4f06-8fd8-b9ddd3443245"
+		]
+	},
+	"8f2c11e7-ab75-4726-8291-f7a2b42221b0": {
+		"$CONTENT_8f2c11e7-ab75-4726-8291-f7a2b42221b0/Objects/Database/ShapeSets/mini_beacon.shapeset": [
+			"b14191f5-6438-41dc-b6e9-1d34706b1218"
+		]
 	}
 }

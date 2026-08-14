@@ -8031,5 +8031,13 @@
 		"$CONTENT_badd6654-2fb1-44a9-a596-ddb1a48d55af/Tools/Database/ToolSets/SoilOnBlocks.toolset": [
 			"6308ba6b-eed4-4d0d-bde5-4b07e4af1a14"
 		]
-	}
+	},
+	"569f4240-9add-40b0-ab51-09f7de546372": {
+		"$CONTENT_569f4240-9add-40b0-ab51-09f7de546372/Tools/Database/ToolSets/hijack_lib.toolset": [
+			"2242792e-bb9c-4acf-b961-86688e167151"
+		]
+	},
+	"3af72c94-a30d-4c61-bd5e-0cb2ac826cc5": {},
+	"5483ba57-269c-4a8e-8053-af0a3e6b1c24": {},
+	"8f2c11e7-ab75-4726-8291-f7a2b42221b0": {}
 }
