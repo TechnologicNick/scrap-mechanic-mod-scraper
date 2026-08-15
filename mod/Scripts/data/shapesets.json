@@ -68484,6 +68484,11 @@
 			"40edb816-8675-40df-9c87-69ab92b78731",
 			"2c268b26-362c-424b-9a49-7815de4d1a27",
 			"f5a6eba1-df2a-46de-ac92-1a98135f1820"
+		],
+		"$CONTENT_43a593be-676b-40fd-a5d4-167c7da7396b/Objects/Database/ShapeSets/wedges.json": [
+			"16379900-91a6-4b37-9027-f235b81bc31d",
+			"371e0464-a742-4ef7-8407-73c3ba8e7489",
+			"b2ef8a30-1ab3-4c7f-b88a-93b26f76a492"
 		]
 	},
 	"bdc769c1-87f4-4d84-b396-8dc91a42a800": {
@@ -164954,6 +164959,10 @@
 	"8cfeedb3-6f06-4536-9334-1e4b0bfbe88a": {
 		"$CONTENT_8cfeedb3-6f06-4536-9334-1e4b0bfbe88a/Objects/Database/ShapeSets/scrap_tweaks.shapeset": [
 			"a3046bed-5cea-4bbb-a164-4b46448f87b3",
+			"d7beef60-2744-472e-b642-c6e3c7e11784",
+			"f2bdd1e9-6be8-476a-b6eb-b53641a9cfa6",
+			"0f37f448-ad58-40d7-b349-80883e059d97",
+			"08270e4e-667b-42c2-b474-39bbd31c1dcb",
 			"993b55d5-dd0d-4ddd-861e-fa374f26097d",
 			"a8aa595a-b4f6-4327-ba48-2e34a2178e79",
 			"e7e0b709-4534-4df0-a770-c7f7494765fb",
@@ -168954,5 +168963,20 @@
 			"8c6c1cd3-f680-4314-bc8e-6e789570185c",
 			"6a4b66a4-829a-4fef-ac6c-6f67ec3b923d"
 		]
-	}
+	},
+	"262cd1b5-d3ec-4e4b-a42b-bc06d6cce0c2": {
+		"$CONTENT_262cd1b5-d3ec-4e4b-a42b-bc06d6cce0c2/Objects/Database/ShapeSets/molten_orb_spawners.shapeset": [
+			"008d3f17-3bef-439d-8111-13a8c35c8787",
+			"b8982b4d-1deb-47c8-932e-622a0c8889f3",
+			"26768efb-a090-44ce-9397-6a295b73eaf8",
+			"0bdbde72-41a4-4295-b31d-5de814b9ed62",
+			"6c4072a2-3260-4042-8a16-b4f257869d3a",
+			"6a08ae49-3d8d-4a6d-828f-f70b6c99ea54",
+			"bd325134-615b-449c-8289-5ff98eb3668f",
+			"18473fb4-9174-4476-a640-d5cc44a5d47a",
+			"f3c7a629-0314-469c-951b-b828ff87f9b7",
+			"f055ce63-1b85-4420-bcf3-895071d602ae"
+		]
+	},
+	"41c87a07-626b-4580-9567-117f82664554": {}
 }
