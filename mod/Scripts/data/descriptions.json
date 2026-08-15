@@ -16368,13 +16368,13 @@
 	},
 	"a898c2c4-de95-4899-9442-697ced66b832": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "[h1]This mod adds 4 new items which use lasers to unleash total annihilation![/h1]\nAll of these items use Plasma Batteries as a power source, which can be crafted in the craftbot.\n\n[b]Thanks to [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Questionable Mark's Modded Craftbot Recipes[/url], they're also craftable in survival![/b]\n\n[h1]Credits[/h1]\n[list]\n    [*][b]Vajdani[/b] - Scripting, animation\n    [*][b]Dart Frog[/b] - Handheld Laser Cutter model, thumbnail help\n    [*][b]DriVer[/b] - Laser Pistol model\n[/list]",
 		"fileId": 2843905833,
 		"localId": "a898c2c4-de95-4899-9442-697ced66b832",
 		"name": "Laser Tools",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"3e40285b-5967-4a2b-b6ea-50c1583ccc19": {
 		"allow_add_mods": true,
@@ -49446,7 +49446,7 @@
 	"8824141a-b109-4174-a00d-f3cb3450f051": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This is my Modpack :3[h2][b]Blocks and Wedges:[/b][/h2]- Scraprooms Wallpaper 1 Block- Scraprooms Wallpaper 1 Wedge- Furry Block- Smooth Planks 1 Block- Smooth Planks 1 Wedge- Mirror Block- Greenscreen Block- Neon Block- Invisible Block- Strange Stone Block- Strange Stone Wedge- PLAGA Block- PLAGA  Wedge[h2][b]Parts:[/b][/h2]- Wooden Small Wheel- Dice- Human Head- Long Pipe x6- Small Wheel 1- Wheel 1- Big Wheel 1- Very Big Wheel 1[h2][b]Interactive Parts:[/b][/h2]- Door Handle Block- Scraprooms Big Lamp[i][b]More Blocks and Parts coming soon![/b][/i]",
+		"description": "This is my Modpack :3\r\n[h2][b]Blocks and Wedges:[/b][/h2]\r\n- Scraprooms Wallpaper 1 Block\r\n- Scraprooms Wallpaper 1 Wedge\r\n- Furry Block\r\n- Smooth Planks 1 Block\r\n- Smooth Planks 1 Wedge\r\n- Mirror Block\r\n- Greenscreen Block\r\n- Neon Block\r\n- Invisible Block\r\n- Strange Stone Block\r\n- Strange Stone Wedge\r\n- PLAGA Block\r\n- PLAGA  Wedge\r\n[h2][b]Parts:[/b][/h2]\r\n- Wooden Small Wheel\r\n- Dice\r\n- Human Head\r\n- Long Pipe x6\r\n- Small Wheel 1\r\n- Wheel 1\r\n- Big Wheel 1\r\n- Very Big Wheel 1\r\n[h2][b]Interactive Parts:[/b][/h2]\r\n- Door Handle Block\r\n- Scraprooms Big Lamp\r\n[i][b]More Blocks and Parts coming soon![/b][/i]",
 		"fileId": 3778586185,
 		"localId": "8824141a-b109-4174-a00d-f3cb3450f051",
 		"name": "The Adamo Pack",
@@ -49826,7 +49826,7 @@
 	"badd6654-2fb1-44a9-a596-ddb1a48d55af": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Tired of trying to line up a growbed on a flat concrete roof, only to be told the soil has nowhere to go? This small quality-of-life mod lets you place soil on top of flat build blocks, not just bare terrain.Once installed, the Soil Bag can drop soil onto Metal (Scrap Metal & Metal 1), Concrete (Concrete 2, Concrete 3, Cracked Concrete & Concrete Tiles) and Drywall blocks - the perfect foundation for raised planters, rooftop farms and clean, organized growing setups.Features:*Place soil on flat blocks as easily as on the ground*Snap-perfect alignment on the block grid - no more floating edges*Works with the normal Soil Bag tool, no new items or crafting*Steam and Creative Mode friendlyPerfect for builders who like their farms tidy, their roofs green, and their soil exactly where they put it.",
+		"description": "Tired of trying to line up a growbed on a flat concrete roof, only to be told the soil has nowhere to go? \r\n\r\nThis small quality-of-life mod lets you place soil on top of flat build blocks, not just bare terrain.\r\n\r\nOnce installed, the Soil Bag can drop soil onto Metal (Metal 1 & Metal 2), Concrete (Concrete 2, Concrete 3, Cracked Concrete & Concrete Tiles) and Drywall blocks. \r\n\r\nThe perfect foundation for raised planters, rooftop farms and clean, organized growing setups.\r\n\r\nFeatures:\r\n\r\nPlace soil on flat blocks as easily as on the ground\r\n\r\nSnap-perfect alignment on the block grid \r\n\r\nNo more floating edges\r\n\r\nWorks with the normal Soil Bag tool, no new items or crafting.\r\n\r\nSteam and Creative Mode friendly!\r\n\r\nPerfect for builders who like their farms tidy, their roofs green, and their soil exactly where they put it.",
 		"fileId": 3782016900,
 		"localId": "badd6654-2fb1-44a9-a596-ddb1a48d55af",
 		"name": "Soil on flat surface",
@@ -49846,12 +49846,12 @@
 	"3af72c94-a30d-4c61-bd5e-0cb2ac826cc5": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Adds an upgradeable Sorter Gate that organizes items between chests on a shared vacuum-pipe network. Connect Large Chests to the Sorter Gate and trigger it with a logic signal (e.g. a Button). Items placed directly against a chest act as pull signs; items already inside a chest act as secondary pull signs.",
-		"fileId": 3782784058,
+		"description": "Place a matching block, stack, or part against a Large Chest to choose where that item should be stored. Connect the destination chests and a button to the upgradeable Sorter Gate, link all storage with vacuum pipes, then press the button to sort the network.",
 		"localId": "3af72c94-a30d-4c61-bd5e-0cb2ac826cc5",
 		"name": "Sorter Gate",
 		"type": "Blocks and Parts",
-		"version": 2
+		"version": 2,
+		"fileId": 3782784058
 	},
 	"5483ba57-269c-4a8e-8053-af0a3e6b1c24": {
 		"allow_add_mods": true,
@@ -49908,5 +49908,36 @@
 		"localId": "a0ef7fb3-8e56-414a-982c-cf101e82a059",
 		"name": "MetalAlu",
 		"type": "Blocks and Parts"
+	},
+	"cfef38d0-96f0-4a9d-9e46-9655edd1876f": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3709598448,
+		"localId": "cfef38d0-96f0-4a9d-9e46-9655edd1876f",
+		"name": "Legend Parts Fix",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"58df2b8e-a86f-44ed-b4f9-aa5b00b44162": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "Every survival game has a map. Every exploration game has a map. Scrap Mechanic gives you miles of island in every direction and nothing to find your way around it with.\r\n\r\nWorld Map is the missing piece. No new content, no new mechanics, nothing that changes how you play - just the quality of life feature the game should have come with.\r\n\r\n[b]Is it perfect? Not even close. Is it better than no map at all? 100%. Enjoy![/b]\r\n\r\n[h1]THE MINIMAP[/h1]\r\nA circular minimap sits above your health bar and scrolls with you as you walk, with an arrow for the way you are facing. Five zoom levels, from the ground at your feet to the country around you.\r\n\r\n[h1]THE BIG MAP[/h1]\r\nPull out the GPS and open the full world map. Pan across it and zoom in. Roads, lakes, forests, farmland and the places worth remembering - all of it drawn from real aerial imagery, thousands of captures taken from above tile by tile, so what you are looking at is what you are standing in.\r\n\r\n[h1]WAYPOINTS[/h1]\r\nClick the map to drop a waypoint. Hold and drag to place it exactly where you want it. Pick one of five colors and the minimap ring and the compass marker both change to match.\r\n\r\nThen close the map and just walk. Your waypoint rides along the compass bar with a live distance readout, counting down as you close in.\r\n\r\n[h1]ANY SEED. ANY WORLD.[/h1]\r\nThe map is drawn from your world's own terrain data. Every seed, every custom game, first time, no setup.\r\n\r\n[h1]CONTROLS[/h1]\r\nThe GPS turns up in your inventory. Lose it and it finds its way back.\r\n[list]\r\n[*]GPS in hand: left click opens the world map, right click cycles the minimap zoom\r\n[*]On the map: arrow buttons pan, mouse wheel zooms\r\n[*]Click to set a waypoint, hold and drag to place it precisely, click a waypoint to remove it\r\n[*][E] or CLOSE exits the map\r\n[/list]\r\n\r\nWorks in multiplayer.\r\n\r\n[h1]KNOWN ISSUES[/h1]\r\nThe map imagery is still being finished, and I would rather you had it now than in six months.\r\n[list]\r\n[*]Some tile types have no captured imagery yet and show as flat color instead of terrain. A few hundred of the game's tile variants are still to be photographed.\r\n[*]Neighboring tiles do not always line up perfectly, and the brightness can jump from one tile to the next.\r\n[*]The minimap ring draws on top of chat text. The game gives mods no layer underneath it.\r\n[/list]\r\n\r\nFound something else? Leave a comment.",
+		"fileId": 3780282057,
+		"localId": "58df2b8e-a86f-44ed-b4f9-aa5b00b44162",
+		"name": "World Map",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"182d072d-0120-462b-bfd6-bc2796cbb784": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "s",
+		"fileId": 3783397615,
+		"localId": "182d072d-0120-462b-bfd6-bc2796cbb784",
+		"name": "Overclocked Interactables",
+		"type": "Blocks and Parts",
+		"version": 2
 	}
 }
