@@ -1464,7 +1464,9 @@
 		"$CONTENT_be752a0e-a2a9-4b12-bbfa-e0855c72b8be/ScriptableObjects/ScriptableObjectSets/example.sobset": []
 	},
 	"191b36a9-7735-4776-b28b-5153645c7793": {
-		"$CONTENT_191b36a9-7735-4776-b28b-5153645c7793/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+		"$CONTENT_191b36a9-7735-4776-b28b-5153645c7793/ScriptableObjects/ScriptableObjectSets/fantmod3.sobset": [
+			"9ba03b98-e820-4bd8-bcaa-47ccf4bd4ee1"
+		]
 	},
 	"395647cf-452d-4c7f-a6e1-540df4722073": {
 		"$CONTENT_395647cf-452d-4c7f-a6e1-540df4722073/ScriptableObjects/ScriptableObjectSets/example.sobset": []
@@ -1520,5 +1522,6 @@
 		"$CONTENT_c46d8175-9434-471c-8c0d-9d94da8c384d/ScriptableObjects/ScriptableObjectSets/example.sobset": []
 	},
 	"f0886488-2072-40a5-96d1-b470d00869df": {},
-	"41c87a07-626b-4580-9567-117f82664554": {}
+	"41c87a07-626b-4580-9567-117f82664554": {},
+	"29c99287-1213-48c7-9471-19a4a5c12247": {}
 }
