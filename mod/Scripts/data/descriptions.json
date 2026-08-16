@@ -33279,7 +33279,7 @@
 	"61d4b3e3-c5f7-454c-87fb-7a0fff5d91d0": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds alot of Parts for Storage and Automation.\r\n\r\n-Vacuumpipes in all variations\r\n-Vacuumpipe PUMP\r\n-3 way Vacuumpump\r\n-Recycler\r\n-Pumpjack ( long distance fluid transfer )\r\n-Trashbin\r\n-Teleporter Itempipes ( in renderdistance item transport )\r\n-Container and Chests, all with Filter and the Item Collection from the Vanilla Large Chest\r\n-Seed Press ( to make out of seeds Scrapwood or Oil, temp disabled )\r\n-Stationary Auto Miner that uses gas to slowly gather stone and metal.\r\n-Inline Refinery. a symetrical refinery variant.\r\n-5x5x8 Resource Collector, fitting for the inline refinery\r\n-chest fill detector to check the fill amount of container\r\n\r\n[h1] IMPORTENT  [/h1]\r\n For the recycler is the ModDatabase needed to let it see other modded recipes.\r\nyou only need to Subscribe to it, not add the Moddatabase to your world!.\r\n\r\n\r\n\r\nHelper:\r\nPuduku - Thin Chest Model\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This mod adds alot of Parts for Storage and Automation.\r\n\r\n-Vacuumpipes in all variations\r\n-Vacuumpipe PUMP\r\n-3 way Vacuumpump\r\n( Vacuumpumps have a Filter Inventory, Whitelist/Blacklist option, a Second (RED)\r\npainted Input can Switch the Direction\r\nIf you paint the Vacuumpump (Pink/Magenta) it can pickup block and parts.\r\nVacuumpumps can also Suck out items from Container they are facing\r\nand also push items in them.\r\nSucktion = Stack\r\nPush = 1 Single Item\r\n\r\n-Recycler\r\n-Pumpjack ( long distance fluid transfer )\r\n-Trashbin\r\n-Teleporter Itempipes ( in renderdistance item transport )\r\n-Container and Chests, all with Filter and the Item Collection from the Vanilla Large Chest\r\n-Seed Press ( to make out of seeds Scrapwood or Oil, temp disabled )\r\n-Stationary Auto Miner that uses gas to slowly gather stone and metal.\r\n-Inline Refinery. a symetrical refinery variant.\r\n-5x5x8 Resource Collector, fitting for the inline refinery\r\n-chest fill detector to check the fill amount of container\r\n\r\n[h1] IMPORTENT  [/h1]\r\n For the recycler is the ModDatabase needed to let it see other modded recipes.\r\nyou only need to Subscribe to it, not add the Moddatabase to your world!.\r\n\r\n\r\n\r\nHelper:\r\nPuduku - Thin Chest Model\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2963115530,
 		"localId": "61d4b3e3-c5f7-454c-87fb-7a0fff5d91d0",
 		"name": "Fants Pipes Container Pumps Recycler",
@@ -48963,7 +48963,7 @@
 	"191b36a9-7735-4776-b28b-5153645c7793": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]FANT MOD 3 – CUSTOM GAMEMODE [/h1]\r\n[h1]Base Mode for Additional Mods[/h1]\r\nGame Version: 1.0\r\n\r\n[h1]CURRENT WORKSHOP AUTOUPDATE ISSUE AND WORKAROUND[/h1]\r\nif you have issues, its related to the Workshop / Game not Auto Updating\r\nMods, because of the CACHE.\r\nUntil Steam or Axolot fixes it, you have to MANUALY delete the \"cache\" folder in each mod you have subbscribed to, to make it Update.\r\n(EVERYTIME!)\r\nThis is not my Fault. And i cant do anything about it. Only Steam or Axolot.\r\nAgain. Mod Works 100%. ANY Issue you may have is related to that Not Updating.\r\nMore Infos if you need in my Discord.\r\n\r\n[hr][/hr]\r\n[b]Features:[/b] \r\n- full Vanilla Survival\r\n- wocs can eat stacks of corn.\r\n- corn is placable in stacks.\r\n- added \"/cleanup\" command and \"/cleanup 123\". It >DELETES< Everything in that radius.\r\n- added \"/clearinv\" to clearout the inventory.\r\n- added \"/fly\" to fly\r\n- added the basic dev commands like /unlimited /limited /god...\r\n- all variants of totebots drop there head as item and not as part anymore.\r\n- added modded hud\r\n- ammo display for all weapons\r\n- recipe loading of mods that got added to the world loot table. (in loot crates)\r\n- weather commnd\r\n- vacuumpumps can pull and push item in and out of container, and drop them.\r\n  also they have a Item Filter.\r\n... and more\r\n\r\n[h1]Requiemented Mod[/h1]\r\n- Mod Database. Only Sub to it, dont add that to your world!\r\n\r\n\r\n[h1]Mods i personaly like to use[/h1]\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3773844861\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3327429421\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3228431919\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3012082374\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3011575610\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2980339404\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2965553955\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2963115530\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2949730799\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2947206586\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2851449097\r\n\r\n[h1]How to make your mod compatible with this custom game[/h1]\r\nStep 1: Add a folder named \"CraftingRecipes\" into your root mod folder\r\nStep 2: Add a file named \"craftbot.json\" into the \"CraftingRecipes\" folder\r\nStep 3: Add your own crafting recipes into \"craftbot.json\" file\r\n\r\n[h1]LINKS & COMMUNITY[/h1]\r\n[b]YouTube:[/b]  \r\nhttps://www.youtube.com/c/00FantMod  \r\n\r\n[b]Discord:[/b]  \r\nhttps://discord.gg/zTZjyrB5nh  \r\n\r\nSubscribe & join the Discord to get updates, features previews and support.\r\n\r\n[hr][/hr]\r\n\r\n[b]Known Issue:[/b]  \r\nalot.. please gimme time to improve and fix everything.\r\nthank you.\r\n\r\n[hr][/hr]\r\n\r\nFant Mod made by  \r\n[h1]00Fant[/h1]\r\n\r\nI do NOT give permission to reuse any content from this mod.\r\n\r\n[h1]MODDING GUIDELINES[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#\r\n",
+		"description": "[h1]FANT MOD 3 – CUSTOM GAMEMODE [/h1]\r\n[h1]Base Mode for Additional Mods[/h1]\r\nGame Version: 1.0\r\n\r\n[h1]CURRENT WORKSHOP AUTOUPDATE ISSUE AND WORKAROUND[/h1]\r\nif you have issues, its related to the Workshop / Game not Auto Updating\r\nMods, because of the CACHE.\r\nUntil Steam or Axolot fixes it, you have to MANUALY delete the \"cache\" folder in each mod you have subbscribed to, to make it Update.\r\n(EVERYTIME!)\r\nThis is not my Fault. And i cant do anything about it. Only Steam or Axolot.\r\nAgain. Mod Works 100%. ANY Issue you may have is related to that Not Updating.\r\nMore Infos if you need in my Discord.\r\n\r\n[hr][/hr]\r\n[b]Features:[/b] \r\n- full Vanilla Survival\r\n- wocs can eat stacks of corn.\r\n- corn is placable in stacks.\r\n- added \"/cleanup\" command and \"/cleanup 123\". It >DELETES< Everything in that radius.\r\n- added \"/clearinv\" to clearout the inventory.\r\n- added \"/fly\" to fly\r\n- added the basic dev commands like /unlimited /limited /god...\r\n- all variants of totebots drop there head as item and not as part anymore.\r\n- added modded hud\r\n- ammo display for all weapons\r\n- recipe loading of mods that got added to the world loot table. (in loot crates)\r\n- weather commnd\r\n\r\n... and more\r\n\r\n[h1]Requiemented Mod[/h1]\r\n- Mod Database. Only Sub to it, dont add that to your world!\r\n\r\n\r\n[h1]Mods i personaly like to use[/h1]\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3773844861\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3327429421\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3228431919\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3012082374\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3011575610\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2980339404\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2965553955\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2963115530\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2949730799\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2947206586\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2851449097\r\n\r\n[h1]How to make your mod compatible with this custom game[/h1]\r\nStep 1: Add a folder named \"CraftingRecipes\" into your root mod folder\r\nStep 2: Add a file named \"craftbot.json\" into the \"CraftingRecipes\" folder\r\nStep 3: Add your own crafting recipes into \"craftbot.json\" file\r\n\r\n[h1]LINKS & COMMUNITY[/h1]\r\n[b]YouTube:[/b]  \r\nhttps://www.youtube.com/c/00FantMod  \r\n\r\n[b]Discord:[/b]  \r\nhttps://discord.gg/zTZjyrB5nh  \r\n\r\nSubscribe & join the Discord to get updates, features previews and support.\r\n\r\n[hr][/hr]\r\n\r\n[b]Known Issue:[/b]  \r\nalot.. please gimme time to improve and fix everything.\r\nthank you.\r\n\r\n[hr][/hr]\r\n\r\nFant Mod made by  \r\n[h1]00Fant[/h1]\r\n\r\nI do NOT give permission to reuse any content from this mod.\r\n\r\n[h1]MODDING GUIDELINES[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#\r\n",
 		"fileId": 3772903275,
 		"localId": "191b36a9-7735-4776-b28b-5153645c7793",
 		"name": "Fant Mod 3 Custom Gamemode",
@@ -49075,7 +49075,7 @@
 	"77b26909-49c9-46a4-8fed-cf8156f81581": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[b]创造模式的生存[/b]，适合试验和研究各种生存机械，兼容 1.0 正式版。\r\n\r\n[b]支持语言：[/b]简体中文、英文、俄语\r\n\r\n[i]自用模组，可能不怎么维护。[/i]\r\n\r\n[h2]目前的功能[/h2]\r\n[list]\r\n[*] 无敌模式和创造模式背包等一系列功能，也就是把原版生存开发者模式的指令和原版创造模式的指令都做成了图形界面\r\n[*] 开关飞行模式\r\n[*] 尽量还原了创造模式千斤顶的用途\r\n[*] 一键完成任务（还比较实验性，可能会有一些小毛病）\r\n[*] 传送到其他玩家身边，也可以传送到指定地点，支持自定义传送点\r\n[*] 以及一些更多的实用功能，都是为了“适合试验和研究各种生存机械”这个目标而服务的\r\n[/list]\r\n不支持解锁服装和成就（按道理来说应该是这样）。\r\n\r\n按[b]换弹键[/b]打开菜单（默认是 [b]R[/b] 键）。",
+		"description": "[b]创造模式的生存[/b]，适合试验和研究各种生存机械，兼容 1.0 正式版。\r\n\r\n[b]支持语言：[/b]简体中文、英文、俄语\r\n[i]自用模组，可能不怎么维护。[/i]\r\n\r\n[h2]目前的功能[/h2]\r\n[list]\r\n[*] 无敌模式和创造模式背包等一系列功能，也就是把原版生存开发者模式的指令和原版创造模式的指令都做成了图形界面\r\n[*] 开关飞行模式\r\n[*] 尽量还原了创造模式千斤顶的用途\r\n[*] 一键完成任务（还比较实验性，可能会有一些小毛病）\r\n[*] 传送到其他玩家身边，也可以传送到指定地点，支持自定义传送点\r\n[*] 支持自定义和客制化角色和NPC（暂时还是较为基础的功能）\r\n[*] 以及一些更多的实用功能，都是为了“适合试验和研究各种生存机械”这个目标而服务的\r\n[/list]\r\n\r\n不支持解锁服装和成就（按道理来说应该是这样）。\r\n\r\n按[b]换弹键[/b]打开菜单（默认是 [b]R[/b] 键）。\r\n使用焊接工具时，按[b]交互键[/b]打开自定义角色菜单（默认是 [b]E[/b] 键）。",
 		"fileId": 3774231932,
 		"localId": "77b26909-49c9-46a4-8fed-cf8156f81581",
 		"name": "FreeBuild Survival",
@@ -49987,5 +49987,52 @@
 		"name": "Silent Freezer",
 		"type": "Blocks and Parts",
 		"version": 2
+	},
+	"583bb9ce-76c7-4741-b221-3dec420d2ca6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3782677728,
+				"localId": "569f4240-9add-40b0-ab51-09f7de546372",
+				"name": "Hijack Lib"
+			}
+		],
+		"description": "HijackLib 借壳库演示 Mod：把创造模式未注册的官方 Missile（导弹）借壳到 TotebotSmash，附带导弹制导工具（右键选目标/左键发射/高空投弹/位置与角色双制导）。启用前需同时启用 HijackLib 基础库。",
+		"fileId": 3784284138,
+		"localId": "583bb9ce-76c7-4741-b221-3dec420d2ca6",
+		"name": "MissileDemo",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"bb0b263e-c33b-4cd9-bf9b-c08c3c24cbb9": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Z 高度、X 坐标和 Y 坐标整数保持器。\n白色输入捕获当前坐标；三级绿色/红色输入按 1/10/100 米调节目标；其他颜色输入启用保持。\n保持器直接输出 +1/-1 Power，可驱动引擎或方向逻辑门。\n附带分色输出继电器，用于将正负方向拆分为普通逻辑信号。\n\nInteger Z-height, X-position, and Y-position holders.\nWhite captures the current coordinate; three green/red shades adjust the target by 1/10/100 m; other colors enable holding.\nHolders output +1/-1 Power directly for engines or directional logic gates.\nIncludes a color-routed relay for separate positive and negative logic outputs.",
+		"fileId": 3784440660,
+		"localId": "bb0b263e-c33b-4cd9-bf9b-c08c3c24cbb9",
+		"name": "X/Y/Z坐标保持器",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"975814b5-f608-46a4-8388-5fceb7fdad81": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "逻辑控制的选择性地面锚。\n开启信号时，仅固定锚点所在刚体；关闭信号后恢复动态。轴承和活塞另一侧的刚体仍可正常运动。\n锚定期间拆装零件不会解除固定。切换后会恢复座椅乘员；造物位于千斤顶上时延后执行。每个造物限装一个。",
+		"fileId": 3784441210,
+		"localId": "975814b5-f608-46a4-8388-5fceb7fdad81",
+		"name": "选择性地面锚",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"84c3ec63-fbd2-4552-9463-21174e583d95": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1]Loot x5 (5000 Stack) - Survival 1.0[/h1]\n\n[b]¡Actualizado y optimizado para la NUEVA VERSION 1.0 de Scrap Mechanic![/b]\n[i]Updated and optimized for Scrap Mechanic NEW VERSION 1.0![/i]\n\nDisfruta del modo Survival al maximo sin el farmeo tedioso y repetitivo.\n\n[hr][/hr]\n\n[h2]CARACTERISTICAS PRINCIPALES / FEATURES[/h2]\n\n[list]\n[*][b]Stacks de Materiales a 5000 / 5000 Material Stacks:[/b] Todos los materiales, componentes, consumibles, semillas, cultivos y bloques de construccion se apilan hasta [b]5000 unidades[/b] por ranura en inventario y cofres.\n[*][b]Inventario (60 huecos) / Inventory Slots:[/b] Mantiene los 60 huecos de Survival para una interfaz limpia, sin listas gigantes ni scroll innecesario.\n[*][b]Loot x5 Multiplicador:[/b] x5 de cantidad en todos los drops de objetos apilables y x3 tiradas de botin en cofres, cajas, robots y almacenes.\n[*][b]Tala y Mineria en 1 Golpe / One-Hit Harvest:[/b] Arboles, troncos, piedras y rocas se destruyen de un solo golpe.\n[*][b]Recoleccion x5 / 5x Gathering:[/b] Algodon, flores, petroleo y cosechas dan 5 veces mas recursos al recolectar.\n[*][b]Refinado Instantaneo x5 / Instant 5x Refining:[/b] Refinado a mano instantaneo (sin espera) con x5 de produccion y el bot refinador funciona ultra rapido.\n[*][b]Crafteo Rapido / Fast Crafting (5s):[/b] Todas las recetas tardan solo 5 segundos en craftearse, manteniendo los costes de materiales vanilla.\n[*][b]Combate x5 / 5x Combat Damage:[/b] El mazo hace 100 de dano (x5) y todas las armas de patatas hacen 5 veces mas dano manteniendo su balance.\n[*][b]Almacenes Edificables / Buildable Warehouses:[/b] Posibilidad de construir bases, pintar, conectar y usar el lift dentro de los almacenes.\n[/list]\n\n[hr][/hr]\n\n[h2]COMPATIBILIDAD / COMPATIBILITY[/h2]\nDisenado y testeado para la [b]Version 1.0 (Version Nueva)[/b] de Scrap Mechanic.\nTotalmente configurable desde: [b]Scripts/Config.lua[/b].",
+		"fileId": 3784458376,
+		"localId": "84c3ec63-fbd2-4552-9463-21174e583d95",
+		"name": "Loot x5 - 5000 Stacks (Survival 1.0)",
+		"type": "Custom Game",
+		"version": 0
 	}
 }

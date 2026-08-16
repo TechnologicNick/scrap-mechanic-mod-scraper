@@ -8074,5 +8074,16 @@
 	"262cd1b5-d3ec-4e4b-a42b-bc06d6cce0c2": {},
 	"41c87a07-626b-4580-9567-117f82664554": {},
 	"29c99287-1213-48c7-9471-19a4a5c12247": {},
-	"402cd46e-5010-459c-936f-6f9ccfe94b64": {}
+	"402cd46e-5010-459c-936f-6f9ccfe94b64": {},
+	"583bb9ce-76c7-4741-b221-3dec420d2ca6": {
+		"$CONTENT_583bb9ce-76c7-4741-b221-3dec420d2ca6/Tools/Database/ToolSets/missile_demo.toolset": [
+			"cef0fb6a-0b9c-405c-9be1-9f8f59cafa7f",
+			"a1f0c33e-5b7d-4a6e-9d5f-8c2b1e0a9d3f"
+		]
+	},
+	"bb0b263e-c33b-4cd9-bf9b-c08c3c24cbb9": {},
+	"975814b5-f608-46a4-8388-5fceb7fdad81": {},
+	"84c3ec63-fbd2-4552-9463-21174e583d95": {
+		"$CONTENT_84c3ec63-fbd2-4552-9463-21174e583d95/Tools/Database/ToolSets/example.toolset": []
+	}
 }

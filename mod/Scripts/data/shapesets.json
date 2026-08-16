@@ -70676,7 +70676,8 @@
 			"e88fd8f4-b6d8-484c-825f-d29cb252b021",
 			"79b509e0-3070-40ac-a6df-e29c3605b234",
 			"03bcc79d-622e-45c4-a353-29203d7e09c0",
-			"e2365e4f-27e7-4f54-b961-4b4eb371b2bd"
+			"e2365e4f-27e7-4f54-b961-4b4eb371b2bd",
+			"97f449b6-c948-448b-b8b3-4448e3f6b956"
 		]
 	},
 	"884e88ba-5951-4160-9467-c1a9ad4cd097": {
@@ -161208,7 +161209,7 @@
 			"1c83675f-7c77-4cbb-875b-79d4bd46100d",
 			"c69a7855-d915-4784-af81-d0a8849e458f",
 			"4fcb4cb8-7623-11ea-bc55-0242ac130003",
-			"97f449b6-c948-448b-b8b3-4448e3f6b956"
+			"614c3193-13da-40f4-9b03-37f26e760fd6"
 		],
 		"$CONTENT_191b36a9-7735-4776-b28b-5153645c7793/Objects/Database/ShapeSets/castedpart.shapeset": [
 			"127f5ce0-09d1-4e3a-b1ac-a89f6340ddc8",
@@ -169517,5 +169518,19 @@
 			"fe8bfeba-850b-4827-9785-10e2468c9c23"
 		]
 	},
-	"402cd46e-5010-459c-936f-6f9ccfe94b64": {}
+	"402cd46e-5010-459c-936f-6f9ccfe94b64": {},
+	"583bb9ce-76c7-4741-b221-3dec420d2ca6": {},
+	"bb0b263e-c33b-4cd9-bf9b-c08c3c24cbb9": {
+		"$CONTENT_bb0b263e-c33b-4cd9-bf9b-c08c3c24cbb9/Objects/Database/ShapeSets/hover_height_controller.json": [
+			"0ecd6eb9-731d-4198-b550-50dff26490c8",
+			"8d7b0d31-3fd9-4d44-b97e-cf681f4c9f17",
+			"db762ccd-113b-407d-a8af-15c5665d5349",
+			"767a1318-fb3d-4e35-a11f-02bb6ec108a6"
+		]
+	},
+	"975814b5-f608-46a4-8388-5fceb7fdad81": {
+		"$CONTENT_975814b5-f608-46a4-8388-5fceb7fdad81/Objects/Database/ShapeSets/anchor.json": [
+			"7a6782bf-8a23-46f7-b615-0c7d75306ea5"
+		]
+	}
 }
