@@ -44941,13 +44941,14 @@
 	},
 	"e82651da-3eb5-4dc2-ba0e-f6c75ebdc8ff": {
 		"allow_add_mods": true,
+		"auther": "Chris Hobart",
 		"custom_icons": false,
 		"description": "This mod contains armoured blocks & decorations.",
 		"fileId": 3565558818,
 		"localId": "e82651da-3eb5-4dc2-ba0e-f6c75ebdc8ff",
-		"name": "Armoured Blox & Stuff",
+		"name": "Armoured Blocks & Stuff",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"0d655e27-16e3-4c17-8b8e-1a55959e7452": {
 		"allow_add_mods": true,
@@ -48843,7 +48844,7 @@
 	"e8b1c589-8fe4-4f05-8923-6870e2b854a4": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This is a personal mod that allows to regrow trees and rock, fixes issues with vacuum and also allows vacuum and refinery to work when not in render range getting water and oil. \r\nAlso fixes the issue with the Drill and SawBlade when they get laggy. Provided AS IS.\r\n\r\nParts included:\r\n- Fishing rod: You can fish in water and get surprised.\r\n- Vacuum Pipes: 3, 4, 5 and 6 ways pies.\r\n- Seat Logic: Allows to convert inputs to logic ones.\r\n- Flip-flop Logic: Reduce all the logic needed for one button activate/deactivate.\r\n- Electric Generator: Generates electricity from gas.\r\n- Tractor Beam: Pulls locked targets to the creation keeping them up to 8 blocks away.\r\n- Gyroscope: Provides torque to stabilize creations (for flying creations, but i guess can be used to steer a car too).\r\n- Stabilizer: Antigravity and linear damping impulse to stabilize creations (for flying creations).\r\n- Helicopter Propeller: Provides lift to flying creations allowing to change the blade's tilt.\r\n- Impulse Thruster: Applies impulse to the whole creation at its center of mass.\r\n- Parking Pad: Pad to park creations preventing lag.\r\n- Rail tracks: Allows to create rail tracks with curves.",
+		"description": "v1.0.22 - This is a personal mod that allows to regrow trees and rock, fixes issues with vacuum and also allows vacuum and refinery to work when not in render range getting water and oil. \nAlso fixes the issue with the Drill and SawBlade when they get laggy. Provided AS IS.\n\nParts included:\n- Fishing rod: You can fish in water and get surprised.\n- Vacuum Pipes: 3, 4, 5 and 6 ways pies.\n- Seat Logic: Allows to convert inputs to logic ones.\n- Flip-flop Logic: Reduce all the logic needed for one button activate/deactivate.\n- Electric Generator: Generates electricity from gas.\n- Tractor Beam: Pulls locked targets to the creation keeping them up to 8 blocks away.\n- Gyroscope: Provides torque to stabilize creations (for flying creations, but i guess can be used to steer a car too).\n- Stabilizer: Antigravity and linear damping impulse to stabilize creations (for flying creations).\n- Helicopter Propeller: Provides lift to flying creations allowing to change the blade's tilt.\n- Impulse Thruster: Applies impulse to the whole creation at its center of mass.\n- Parking Pad: Pad to park creations preventing lag.\n- Rail tracks: Allows to create rail tracks with curves.",
 		"fileId": 2970690456,
 		"localId": "e8b1c589-8fe4-4f05-8923-6870e2b854a4",
 		"name": "LTs Mod",
@@ -49446,7 +49447,7 @@
 	"8824141a-b109-4174-a00d-f3cb3450f051": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This is my Modpack :3\r\n[h2][b]Blocks and Wedges:[/b][/h2]\r\n- Scraprooms Wallpaper 1 Block\r\n- Scraprooms Wallpaper 1 Wedge\r\n- Furry Block\r\n- Smooth Planks 1 Block\r\n- Smooth Planks 1 Wedge\r\n- Mirror Block\r\n- Greenscreen Block\r\n- Neon Block\r\n- Invisible Block\r\n- Strange Stone Block\r\n- Strange Stone Wedge\r\n- PLAGA Block\r\n- PLAGA  Wedge\r\n- Glass (Pattern 1) Block\r\n- Glass (Pattern 1) Wedge\r\n- Metal Block 1\r\n- Grass Block\r\n- Ground Block\r\n- Rock Block\r\n[h2][b]Parts:[/b][/h2]\r\n- Wooden Small Wheel\r\n- Dice\r\n- Human Head\r\n- Long Pipe x6\r\n- Small Wheel 1\r\n- Wheel 1\r\n- Big Wheel 1\r\n- Very Big Wheel 1\r\n- Metal Platform 4x4\r\n[h2][b]Interactive Parts:[/b][/h2]\r\n- Door Handle Block\r\n- Scraprooms Big Lamp\r\n- Metal Door\r\n- Numpad Switch\r\n[i][b]More Blocks and Parts coming soon![/b][/i]",
+		"description": "This is my Modpack :3\r\n\r\n[h2][b]Blocks and Wedges:[/b][/h2]\r\n- Scraprooms Wallpaper 1 Block\r\n- Scraprooms Wallpaper 1 Wedge\r\n- Furry Block\r\n- Smooth Planks 1 Block\r\n- Smooth Planks 1 Wedge\r\n- Mirror Block\r\n- Greenscreen Block\r\n- Neon Block\r\n- Invisible Block\r\n- Strange Stone Block\r\n- Strange Stone Wedge\r\n- PLAGA Block\r\n- PLAGA  Wedge\r\n- Glass (Pattern 1) Block\r\n- Glass (Pattern 1) Wedge\r\n- Metal Block 1\r\n- Grass Block\r\n- Ground Block\r\n- Rock Block\r\n- Rubber Block\r\n\r\n[h2][b]Parts:[/b][/h2]\r\n- Wooden Small Wheel\r\n- Dice\r\n- Human Head\r\n- Long Pipe x6\r\n- Small Wheel 1\r\n- Wheel 1\r\n- Big Wheel 1\r\n- Very Big Wheel 1\r\n- Metal Platform 4x4\r\n\r\n[h2][b]Interactive Parts:[/b][/h2]\r\n- Door Handle Block\r\n- Scraprooms Big Lamp\r\n- Metal Door\r\n- Numpad Switch\r\n- Small Thruster\r\n\r\n[i][b]More Blocks and Parts coming soon![/b][/i]",
 		"fileId": 3778586185,
 		"localId": "8824141a-b109-4174-a00d-f3cb3450f051",
 		"name": "The Adamo Pack",
@@ -49969,9 +49970,14 @@
 				"fileId": 2504530003,
 				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
 				"name": "ModDatabase"
+			},
+			{
+				"fileId": 3780282057,
+				"localId": "58df2b8e-a86f-44ed-b4f9-aa5b00b44162",
+				"name": "World Map"
 			}
 		],
-		"description": "[h1]Remastered Framework Survival[/h1]A Survival Custom Game and modder framework: bot hijack gameplay plus store / quest hooks for Blocks & Parts mods.[b]Key Features[/b][list][*]Host /setup, player /menu, host /gensettings (MAIN / FEATURES / STREAMERS / DISCORD)[*]Custom menus, expanded inventory, advanced farming, and host dev tools[*]Bot hijack - Hack/Control/Infection beacons (Hideout 20/50/120 Farmers with RFS Beacons B&P); chain convert; /unhijack; beacon E Orders: Rest/Defend, Hay Farm, Tote Collect, Waterbot Collect Oil[*]Anchor / tile loaders (WARNING: performance impact if loading many tiles)[*]Faster loads / quieter console (recipe scan fix)[*]Store hooks - craftbot.json, hideout_trades.json, mininghub_trades.json via ModDatabase[*]Unlockable schematic progression (not a vault-tree editor)[*]RfsQuest API around Survival QuestManager (see MODDER_API.txt)[*]frameworkOnly flag in rfs_settings.json for baseline / framework-only mode[/list][b]Install[/b][list][*]Subscribe to ModDatabase (keep installed; do not enable as a world mod)[*]Create a new world with [b]Remastered Framework Survival[/b][*]Enable your Blocks & Parts mods (e.g. Intelligentia, RFS Beacons)[/list][b]Links[/b] GitHub: https://github.com/zernon916/Remastered-Framework-Systems - Discord: https://discord.gg/DfjDMRx9ab[b]Discord / Streamer companion (optional)[/b]In-game Streamer votes use %USER_DATA%/rfs_discord_bridge file drops. The Discord/Streamer companion is not bundled - clone discord-bridge/ from GitHub (https://github.com/zernon916/Remastered-Framework-Systems) and run separately; community Discord: https://discord.gg/DfjDMRx9ab[b]For mod authors[/b]See AUTHOR_GUIDE.txt and MODDER_API.txt in the mod folder.[b]Author:[/b] Zernon916",
+		"description": "[h1]Remastered Framework Survival[/h1]A Survival Custom Game and modder framework: bot hijack gameplay plus store / quest hooks for Blocks & Parts mods.[b]Key Features[/b][list][*]Host /setup, player /menu, host /gensettings (MAIN / FEATURES / STREAMERS / DISCORD)[*]Custom menus, expanded inventory, advanced farming, and host dev tools[*]Bot hijack - Hack/Control/Infection beacons (Hideout 20/50/120 Farmers with RFS Beacons B&P); chain convert; /unhijack; beacon E Orders: Rest/Defend, Hay Farm, Tote Collect, Waterbot Collect Oil[*][b]Map[/b] - Always-on MiniMap HUD (upper-left). Research/craft Nutt's GPS (Metal Block + Circuit + Component Kit + Glass), then LMB to open the full atlas. Terrain map by [b]Nutt[/b] (Steam Workshop [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3780282057]World Map 3780282057[/url]). Subscribe to World Map; do not enable it as a world mod. Weapon ammo stays on the HUD[*]Anchor / tile loaders (WARNING: performance impact if loading many tiles)[*]Faster loads / quieter console (recipe scan fix)[*]Store hooks - craftbot.json, hideout_trades.json, mininghub_trades.json via ModDatabase[*]Unlockable schematic progression (not a vault-tree editor)[*]RfsQuest API around Survival QuestManager (see MODDER_API.txt)[*]frameworkOnly flag in rfs_settings.json for baseline / framework-only mode[/list][b]Install[/b][list][*]Subscribe to ModDatabase (keep installed; do not enable as a world mod)[*]Subscribe to [b]World Map[/b] by Nutt (keep installed; do not enable as a world mod)[*]Create a new world with [b]Remastered Framework Survival[/b][*]Enable your Blocks & Parts mods (e.g. Intelligentia, RFS Beacons)[/list][b]Links[/b] GitHub: https://github.com/zernon916/Remastered-Framework-Systems - Discord: https://discord.gg/DfjDMRx9ab[b]Discord / Streamer companion (optional)[/b]In-game Streamer votes use %USER_DATA%/rfs_discord_bridge file drops. The Discord/Streamer companion is not bundled - clone discord-bridge/ from GitHub (https://github.com/zernon916/Remastered-Framework-Systems) and run separately; community Discord: https://discord.gg/DfjDMRx9ab[b]For mod authors[/b]See AUTHOR_GUIDE.txt and MODDER_API.txt in the mod folder.[b]Author:[/b] Zernon916  [b]Map / MiniMap:[/b] Nutt (World Map)",
 		"fileId": 3782487760,
 		"localId": "29c99287-1213-48c7-9471-19a4a5c12247",
 		"name": "Remastered Framework Survival",
@@ -50038,10 +50044,10 @@
 	"0165a68a-deee-4d9e-84ab-541aa91c39ce": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Collection+ + RPG++ (Survival Mechanics) combines the complete Collection+ survival overhaul with RPG++ experience, levels, stat points, and character progression.\n\nCollection+ features:\n• QoL+ faster crafting, refining, gathering, and expanded ruin-chest loot\n• Stacks+ larger stack sizes with stacked-bucket compatibility\n• Gas+ improved fuel efficiency\n• Components+ craftable Component Kits\n• Survival+ hunger and thirst, including Tea and classic Woc Milk restoration\n• Drinkable Water restores 5 thirst per item\n• Hunger and thirst drain pause while seated in any chair or bed\n\nRPG++ features:\n• Levels 0-100 with normal saved progression\n• Health, damage, damage reduction, run speed, and loot-gain skills\n• Hunger Drain and Thirst Drain reduction skills\n• Passive EXP and robot-defeat EXP\n• Health value centered inside the native green health bar\n• Character window: crouch + Reload (R), or type /rpg\n\nThis is a separate Custom Game from standalone Collection+, so both versions can be installed side by side.",
+		"description": "Collection+ +Survival combines the complete Collection+ survival overhaul with RPG++ experience, levels, stat points, and character progression.\n\nCollection+ features:\n• QoL+ faster crafting, refining, gathering, and expanded ruin-chest loot\n• Stacks+ larger stack sizes with stacked-bucket compatibility\n• Gas+ improved fuel efficiency\n• Components+ craftable Component Kits\n• Survival+ hunger and thirst, including Tea and classic Woc Milk restoration\n• Drinkable Water restores 10 thirst per item\n• All food and drinks take half the normal time to consume\n• Hunger and thirst drain pause while seated in any chair or bed\n\nRPG++ features:\n• Levels 0-100 with normal saved progression\n• Health, damage, damage reduction, run speed, and loot-gain skills\n• Hunger Drain and Thirst Drain reduction skills\n• Passive EXP and robot-defeat EXP\n• Health value centered inside the native green health bar\n• Character window: crouch + Reload (R), or type /rpg\n\nThis is a separate Custom Game from standalone Collection+, so both versions can be installed side by side.",
 		"localId": "0165a68a-deee-4d9e-84ab-541aa91c39ce",
 		"fileId": 3774096372,
-		"name": "Collection+ + RPG++ (Survival Mechanics)",
+		"name": "Collection+ +Survival",
 		"type": "Custom Game",
 		"version": 1
 	},
@@ -50062,6 +50068,26 @@
 		"fileId": 3784207479,
 		"localId": "cc3b4578-001b-486d-8182-157574734b24",
 		"name": "Survival Additions",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"479872d6-10c9-4c94-9423-db7bf92bae05": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "v2.0 - optimized terrain generation (faster loading, same desert).\n\nA vast procedural desert world for off-road driving. Endless dunes, dry riverbeds, rocky hills and a hidden oasis - every new world is a new desert.\n\n[b]/timeset [0-1][/b] - Set the time of day\n[b]/timeprogress[/b] - Toggle time progression\n[b]/seed[/b] - Show current world seed\n[b]/regenerate [seed][/b] - Generate a new desert (host)\n[b]/tp [player_id][/b] - Teleport to a player\n[b]/fly[/b] - Toggle fly mode\n[b]/spawnpoint[/b] - Set respawn point\n[b]/clear[/b] - Remove all loaded bodies",
+		"localId": "479872d6-10c9-4c94-9423-db7bf92bae05",
+		"name": "Desert Baha",
+		"type": "Custom Game",
+		"version": 1,
+		"fileId": 3784306352
+	},
+	"f68a9e67-5d86-4e3c-9d8a-5b591458295c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Random parts, when placing menu car it is advised to place it on the lift and then take it off of the lift, if placed on the ground, well, your game is bricked. This mod is WIP still.",
+		"fileId": 3784989023,
+		"localId": "f68a9e67-5d86-4e3c-9d8a-5b591458295c",
+		"name": "Random Parts",
 		"type": "Blocks and Parts",
 		"version": 2
 	}

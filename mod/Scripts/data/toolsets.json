@@ -8074,7 +8074,12 @@
 	"182d072d-0120-462b-bfd6-bc2796cbb784": {},
 	"262cd1b5-d3ec-4e4b-a42b-bc06d6cce0c2": {},
 	"41c87a07-626b-4580-9567-117f82664554": {},
-	"29c99287-1213-48c7-9471-19a4a5c12247": {},
+	"29c99287-1213-48c7-9471-19a4a5c12247": {
+		"$CONTENT_29c99287-1213-48c7-9471-19a4a5c12247/Tools/Database/ToolSets/rfs_minimap.toolset": [
+			"7c4e9b21-6a8d-4f03-b5e1-92c0d8a47f16",
+			"d96c2fe4-177b-49bb-be40-e4b1bcdd8f76"
+		]
+	},
 	"402cd46e-5010-459c-936f-6f9ccfe94b64": {},
 	"583bb9ce-76c7-4741-b221-3dec420d2ca6": {
 		"$CONTENT_583bb9ce-76c7-4741-b221-3dec420d2ca6/Tools/Database/ToolSets/missile_demo.toolset": [
@@ -8100,5 +8105,7 @@
 			"d01ec7f6-baee-4b06-9205-2f24862ca0ff",
 			"bdd0736f-425d-4031-8dbc-5f7677e704a0"
 		]
-	}
+	},
+	"479872d6-10c9-4c94-9423-db7bf92bae05": {},
+	"f68a9e67-5d86-4e3c-9d8a-5b591458295c": {}
 }
