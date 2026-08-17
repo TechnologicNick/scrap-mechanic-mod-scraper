@@ -4424,7 +4424,7 @@
 	"b7a9231a-9e30-41ea-a09c-7d30fde81c68": {},
 	"4d7755b8-223d-4fd2-85a2-3b8345df32dd": {
 		"$CONTENT_4d7755b8-223d-4fd2-85a2-3b8345df32dd/Tools/Database/ToolSets/SoilOnBlocks.toolset": [
-			"303fc93e-c228-489f-9bf4-0fe61ce10b39"
+			"3ef5412a-7044-45ae-9592-9ce86bd99081"
 		]
 	},
 	"8528c2f6-0e93-4f31-8bd1-005563cee443": {},
@@ -5662,6 +5662,7 @@
 		"$CONTENT_962afb13-362f-4b24-8f35-99dfdb10a7b0/Tools/Database/ToolSets/tools.toolset": [
 			"8fe7b724-98cb-4708-bb0c-7315ce4659b2",
 			"82cae590-fdb0-422b-bbaa-c88ef2182f91",
+			"f9ec35a8-dd18-4fb9-8b48-02be137559bb",
 			"e719ca22-c998-4f43-8068-b6aea08caa52",
 			"415a8929-bd38-403e-a1b3-a8f3382b4c46",
 			"78bbb18c-f5e3-459f-a163-7b5dbe9dfa4a"
@@ -8085,5 +8086,19 @@
 	"975814b5-f608-46a4-8388-5fceb7fdad81": {},
 	"84c3ec63-fbd2-4552-9463-21174e583d95": {
 		"$CONTENT_84c3ec63-fbd2-4552-9463-21174e583d95/Tools/Database/ToolSets/example.toolset": []
+	},
+	"0165a68a-deee-4d9e-84ab-541aa91c39ce": {
+		"$CONTENT_0165a68a-deee-4d9e-84ab-541aa91c39ce/Tools/Database/ToolSets/example.toolset": []
+	},
+	"3527a266-a254-437d-9f53-36ef6e1b7ec3": {
+		"$CONTENT_3527a266-a254-437d-9f53-36ef6e1b7ec3/Tools/Database/Toolsets/magnet_tool.toolset": [
+			"a804ada8-b992-43c0-8956-13abca82ee90"
+		]
+	},
+	"cc3b4578-001b-486d-8182-157574734b24": {
+		"$CONTENT_cc3b4578-001b-486d-8182-157574734b24/Tools/Database/ToolSets/tools.toolset": [
+			"d01ec7f6-baee-4b06-9205-2f24862ca0ff",
+			"bdd0736f-425d-4031-8dbc-5f7677e704a0"
+		]
 	}
 }
