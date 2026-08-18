@@ -30749,12 +30749,12 @@
 	"80c05737-3c57-4b92-90d1-35569b94235b": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds Different Types of Weapons. \r\nI will add much more Over Time.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/Z2qty5E [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.",
+		"description": "This mod adds Different Types of Weapons. \r\nI will add much more Over Time.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nThe Comments are Deactivated to focus all Infos and Help Requests otherwise i will be not able to keep up with everything. sorry in regard.. see at the top for more infos.\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2890560807,
 		"localId": "80c05737-3c57-4b92-90d1-35569b94235b",
 		"name": "Weapon Pack",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"f6f1e4f4-bc91-4e52-85fa-9b52d7b83183": {
 		"allow_add_mods": true,
@@ -49970,14 +49970,9 @@
 				"fileId": 2504530003,
 				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
 				"name": "ModDatabase"
-			},
-			{
-				"fileId": 3780282057,
-				"localId": "58df2b8e-a86f-44ed-b4f9-aa5b00b44162",
-				"name": "World Map"
 			}
 		],
-		"description": "[h1]Remastered Framework Survival[/h1]A Survival Custom Game and modder framework: bot hijack gameplay plus store / quest hooks for Blocks & Parts mods.[b]Key Features[/b][list][*]Host /setup, player /menu, host /gensettings (MAIN / FEATURES / STREAMERS / DISCORD)[*]Custom menus, expanded inventory, advanced farming, and host dev tools[*]Bot hijack - Hack/Control/Infection beacons (Hideout 20/50/120 Farmers with RFS Beacons B&P); chain convert; /unhijack; beacon E Orders: Rest/Defend, Hay Farm, Tote Collect, Waterbot Collect Oil[*][b]Map[/b] - Always-on MiniMap HUD (upper-left). Research/craft Nutt's GPS (Metal Block + Circuit + Component Kit + Glass), then LMB to open the full atlas. Terrain map by [b]Nutt[/b] (Steam Workshop [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3780282057]World Map 3780282057[/url]). Subscribe to World Map; do not enable it as a world mod. Weapon ammo stays on the HUD[*]Anchor / tile loaders (WARNING: performance impact if loading many tiles)[*]Faster loads / quieter console (recipe scan fix)[*]Store hooks - craftbot.json, hideout_trades.json, mininghub_trades.json via ModDatabase[*]Unlockable schematic progression (not a vault-tree editor)[*]RfsQuest API around Survival QuestManager (see MODDER_API.txt)[*]frameworkOnly flag in rfs_settings.json for baseline / framework-only mode[/list][b]Install[/b][list][*]Subscribe to ModDatabase (keep installed; do not enable as a world mod)[*]Subscribe to [b]World Map[/b] by Nutt (keep installed; do not enable as a world mod)[*]Create a new world with [b]Remastered Framework Survival[/b][*]Enable your Blocks & Parts mods (e.g. Intelligentia, RFS Beacons)[/list][b]Links[/b] GitHub: https://github.com/zernon916/Remastered-Framework-Systems - Discord: https://discord.gg/DfjDMRx9ab[b]Discord / Streamer companion (optional)[/b]In-game Streamer votes use %USER_DATA%/rfs_discord_bridge file drops. The Discord/Streamer companion is not bundled - clone discord-bridge/ from GitHub (https://github.com/zernon916/Remastered-Framework-Systems) and run separately; community Discord: https://discord.gg/DfjDMRx9ab[b]For mod authors[/b]See AUTHOR_GUIDE.txt and MODDER_API.txt in the mod folder.[b]Author:[/b] Zernon916  [b]Map / MiniMap:[/b] Nutt (World Map)",
+		"description": "[h1]Remastered Framework Survival[/h1]A Survival Custom Game and modder framework: bot hijack gameplay plus store / quest hooks for Blocks & Parts mods.[b]Key Features[/b][list][*]Host /setup, player /menu, host /gensettings (MAIN / FEATURES / STREAMERS / DISCORD)[*]Custom menus, expanded inventory, advanced farming, and host dev tools[*]Bot hijack - Hack/Control/Infection beacons (Hideout 20/50/120 Farmers with RFS Beacons B&P); chain convert; /unhijack; beacon E Orders: Rest/Defend, Hay Farm, Tote Collect, Waterbot Collect Oil[*][b]Map[/b] - Always-on MiniMap HUD (upper-left). Research/craft Nutt's GPS (Metal Block + Circuit + Component Kit + Glass), then LMB to open the full atlas. Terrain/atlas map by [b]Nutt[/b] (Steam Workshop World Map [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3780282057]3780282057[/url]). Do not enable World Map as a world mod if you already have it (double HUD). Weapon ammo stays on the HUD[*]Anchor / tile loaders (WARNING: performance impact if loading many tiles)[*]Faster loads / quieter console (recipe scan fix)[*]Store hooks - craftbot.json, hideout_trades.json, mininghub_trades.json via ModDatabase[*]Unlockable schematic progression (not a vault-tree editor)[*]RfsQuest API around Survival QuestManager (see MODDER_API.txt)[*]frameworkOnly flag in rfs_settings.json for baseline / framework-only mode[/list][b]Install[/b][list][*]Subscribe to ModDatabase (keep installed; do not enable as a world mod)[*]Create a new world with [b]Remastered Framework Survival[/b][*]If you already have [b]World Map[/b] by Nutt, do not enable it as a world mod (double HUD)[*]Enable your Blocks & Parts mods (e.g. Intelligentia, RFS Beacons)[/list][b]Links[/b] GitHub: https://github.com/zernon916/Remastered-Framework-Systems - Discord: https://discord.gg/DfjDMRx9ab[b]Discord / Streamer companion (optional)[/b]In-game Streamer votes use %USER_DATA%/rfs_discord_bridge file drops. The Discord/Streamer companion is not bundled - clone discord-bridge/ from GitHub (https://github.com/zernon916/Remastered-Framework-Systems) and run separately; community Discord: https://discord.gg/DfjDMRx9ab[b]For mod authors[/b]See AUTHOR_GUIDE.txt and MODDER_API.txt in the mod folder.[b]Credits[/b] MiniMap and atlas terrain by [b]Nutt[/b] (Steam Workshop [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3780282057]World Map 3780282057[/url]). Do not enable World Map as a world mod if you already have it (double HUD). [b]Author:[/b] Zernon916",
 		"fileId": 3782487760,
 		"localId": "29c99287-1213-48c7-9471-19a4a5c12247",
 		"name": "Remastered Framework Survival",
@@ -50088,6 +50083,26 @@
 		"fileId": 3784989023,
 		"localId": "f68a9e67-5d86-4e3c-9d8a-5b591458295c",
 		"name": "Random Parts",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"e87c695c-1f28-4cc2-83ad-84085d30f65c": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Small Beacon great for vehicles",
+		"fileId": 3785124185,
+		"localId": "e87c695c-1f28-4cc2-83ad-84085d30f65c",
+		"name": "Small Beacon",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"9f918de4-b1c1-4cf2-965f-9e7482a22528": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[b]A dependency that brings back Lua script hot reloading to Scrap Mechanic, which was removed in Update 1.0[/b]\r\n\r\n[b]NOTE: This is a developer tool/dependency.[/b] It does not automatically enable hot reload for all your mods. You must manually add code to your scripts and run an external Python watcher script as described on GitHub.\r\n\r\nSource code and usage instructions can be found in the [url=https://github.com/MistGo/scrap-mechanic-hot-reload]GitHub repository[/url].\r\n",
+		"fileId": 3785131593,
+		"localId": "9f918de4-b1c1-4cf2-965f-9e7482a22528",
+		"name": "SM Lua Hot Reload",
 		"type": "Blocks and Parts",
 		"version": 2
 	}

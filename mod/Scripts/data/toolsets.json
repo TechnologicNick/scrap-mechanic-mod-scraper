@@ -8078,6 +8078,10 @@
 		"$CONTENT_29c99287-1213-48c7-9471-19a4a5c12247/Tools/Database/ToolSets/rfs_minimap.toolset": [
 			"7c4e9b21-6a8d-4f03-b5e1-92c0d8a47f16",
 			"d96c2fe4-177b-49bb-be40-e4b1bcdd8f76"
+		],
+		"$CONTENT_29c99287-1213-48c7-9471-19a4a5c12247/Objects/Database/ToolSets/rfs_minimap.toolset": [
+			"7c4e9b21-6a8d-4f03-b5e1-92c0d8a47f16",
+			"d96c2fe4-177b-49bb-be40-e4b1bcdd8f76"
 		]
 	},
 	"402cd46e-5010-459c-936f-6f9ccfe94b64": {},
@@ -8107,5 +8111,7 @@
 		]
 	},
 	"479872d6-10c9-4c94-9423-db7bf92bae05": {},
-	"f68a9e67-5d86-4e3c-9d8a-5b591458295c": {}
+	"f68a9e67-5d86-4e3c-9d8a-5b591458295c": {},
+	"e87c695c-1f28-4cc2-83ad-84085d30f65c": {},
+	"9f918de4-b1c1-4cf2-965f-9e7482a22528": {}
 }
