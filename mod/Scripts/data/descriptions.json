@@ -30285,12 +30285,12 @@
 				"name": "ModDatabase"
 			}
 		],
-		"description": "UnknownUnit's Arsenal\r\nInclude:\r\n-Craftable Circuit Boards and Component Kits\r\n-Chem Spud Gun and Ammo\r\n-Utility Gun (No ammo required)\r\n-Experimental Gun (No ammo required)\r\n-Explosive Spawner\r\n-More Trading Deals\r\n\r\nAll available in survival either through crafting og trading\r\n\r\n\r\nDependencies:\r\n-ModDatabase (By TechnologicNick and The Guild)[https://steamcommunity.com/sharedfiles/filedetails/?id=2504530003]\r\n\r\nBig up to:\r\n-TechnologicNick and The Guild for creating ModDatabase\r\n-QuestionableM for creating Modded Craftbot Recipes [https://github.com/QuestionableM/Modded-Craftbot-Recipes]",
+		"description": "UnknownUnit's ArsenalInclude:-Craftable Circuit Boards and Component Kits-Circuit Boards and Component Kits Trading DealsDependencies:-ModDatabase (By TechnologicNick and The Guild)[https://steamcommunity.com/sharedfiles/filedetails/?id=2504530003]Big up to:-TechnologicNick and The Guild for creating ModDatabase-QuestionableM for creating Modded Craftbot Recipes [https://github.com/QuestionableM/Modded-Craftbot-Recipes]",
 		"fileId": 2875099653,
 		"localId": "97fea750-1f4e-4130-94fb-05b1d9bce4ff",
 		"name": "UnknownUnitsArsenal",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"fa44ebc5-7131-4a58-aa24-6f2fb86f2084": {
 		"allow_add_mods": true,
@@ -44943,6 +44943,7 @@
 		"allow_add_mods": true,
 		"auther": "Chris Hobart",
 		"custom_icons": false,
+		"dependencies": null,
 		"description": "This mod contains armoured blocks & decorations.",
 		"fileId": 3565558818,
 		"localId": "e82651da-3eb5-4dc2-ba0e-f6c75ebdc8ff",
@@ -46729,7 +46730,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "load",
+		"description": "a",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -49509,10 +49510,10 @@
 	"3bb270fb-fe8c-49ba-9b13-d70d7c972149": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h1]Descrição[/h1]\r\n\r\nEste mod substitui o item [b]\"Microondas Quebrado\"[/b], colocando o [b]\"Terminal\"[/b] em seu lugar.\r\n\r\n[h1]Como criar e usar o Terminal[/h1]\r\n\r\nPara criar o Terminal, basta pesquisar por [b]\"Terminal\"[/b] no CraftBot e fabricá-lo.\r\n\r\nO Terminal é utilizado [b]apenas para realizar saques[/b].\r\n\r\nO depósito de itens continua sendo feito manualmente.\r\n\r\n[h1]Reuso do código em outros modpacks ou gamemodes[/h1]\r\n\r\nNão me importo que o código deste mod seja reutilizado, modificado ou adaptado para melhorias, outros modpacks ou gamemodes.\r\n\r\nPeço apenas que [b]os devidos créditos sejam mantidos[/b], informando que o projeto foi originado a partir deste mod ou que utiliza o meu código-fonte.\r\n",
+		"description": "[h1]Description[/h1]This modpack adds a set of utility blocks focused on storage, item management, and crafting automation.Some blocks replace unused or decorative vanilla items so they can be used as functional custom blocks in Survival.[h1]Included Blocks[/h1][b]Storage Terminal[/b]Allows players to browse and withdraw items from containers connected through Vacuum Pipes.Items are grouped by UUID, which means the system does not depend on item names or game language.The terminal is used [b]only for withdrawing items[/b].Deposits are still made manually by placing items inside the connected containers.[b]Trash Bin[/b]Allows players to deposit unwanted items into the Trash Bin and permanently delete them after confirmation.Items are only destroyed after the player explicitly confirms the action.[b]Craft Terminal[/b]Allows crafting custom recipes using ingredients stored in containers connected through Vacuum Pipes.Recipes are configured through JSON files, making it easier to expand the system with new crafts in the future.[h1]How to Craft and Use[/h1]Search for the desired block in the CraftBot and craft it normally.Connect storage-related blocks to containers using Vacuum Pipes when required.[h1]Code Reuse in Other Modpacks or Gamemodes[/h1]I do not mind if the code from this mod is reused, modified, or adapted for improvements, other modpacks, or gamemodes.I only ask that [b]proper credits are kept[/b], mentioning that the project originated from this mod or uses my source code.",
 		"fileId": 3779234695,
 		"localId": "3bb270fb-fe8c-49ba-9b13-d70d7c972149",
-		"name": "Terminal Bloco",
+		"name": "Storage Utilities for Scrap Mechanic 1.0",
 		"type": "Blocks and Parts",
 		"version": 2
 	},
@@ -49895,7 +49896,7 @@
 				"name": "Hijack Lib"
 			}
 		],
-		"description": "[h1]NPC Control - 附身控制任意 NPC[/h1]\r\n[quote]本模组为原版 [b]NPC Control[/b]（作者 [b]crackx[/b]）的[b]修复增强版[/b]：https://steamcommunity.com/sharedfiles/filedetails/?id=2969977254 —— 感谢原作者。[/quote]\r\n[hr]\r\n[b]在 Scrap Mechanic 中附身控制任意 NPC！[/b]瞄准机器人按 [b]E[/b] 接管其控制权——移动、攻击、飞行、视角全归你管。或用 [b]变身器工具[/b] 在准星前生成任意角色并自动附身。摆烂机器人也能被你玩出花样。\r\n\r\n[hr]\r\n[h2]功能特性[/h2]\r\n[list]\r\n[*]附身 [b]全部 15 种官方单位[/b]：Farmbot、Totebot（绿/红/黄/蓝/叶）、Haybot、Tapebot（普通/红/绿/黄）、Woc（牛）、Glob（荧光虫）、Lootbot、Seedbot、Cablebot、Minerbot（矿工）、Scannerbot（扫描机器人）\r\n[*]WASD 移动、Shift 冲刺；[b]飞行单位[/b]（矿工/扫描机器人）空格上升、CTRL 下降，Shift 冲刺加速升降\r\n[*]每角色独立攻击系统：Farmbot 近战连招+农药喷射；Scannerbot 慢射导弹/弹仓齐射+[b]目标锁定与扫描模式[/b]（跟踪导弹）；红 Totebot 自爆；矿工钻头/弹幕等\r\n[*][b]变身器工具[/b]：Q 打开选角界面，在准星前 4m 生成任意角色并自动附身；临时单位分离即销毁\r\n[*]瞄准高亮 + 交互提示，第三人称跟随相机（滚轮缩放 4-100）\r\n[*]借壳机制注册全部 15 类单位，[b]不修改任何官方文件[/b]\r\n[*]支持[b]单人与多人[/b]（同一单位同时只允许一名玩家附身）\r\n[/list]\r\n\r\n[hr]\r\n[h2]操作指南[/h2]\r\n[list]\r\n[*][b]E[/b]：附身 / 分离（分离变身器生成的临时单位=自动销毁）\r\n[*][b]W/A/S/D[/b] 移动；[b]Shift[/b] 冲刺；[b]空格[/b] 跳跃（飞行单位=上升）；[b]CTRL[/b] 下降（飞行单位）\r\n[*][b]0-4[/b] 切换攻击招式；[b]左键/右键[/b] 攻击；[b]5/6[/b]（Scannerbot）锁定目标 / 扫描模式\r\n[*][b]Q[/b]（装备变身器时）打开选角界面，选中角色后按左键生成并自动附身\r\n[/list]\r\n\r\n[hr]\r\n[h2]依赖[/h2]\r\n[quote][b]必装：HijackLib 基础库</b>（同作者）。本模组使用 HijackLib 的借壳机制实现附身，缺少该库时模组完全无效。将 [i]HijackLib[/i] 文件夹置于本模组旁，两者同时启用。[/quote]\r\n\r\n[hr]\r\n[h2]注意事项[/h2]\r\n[list]\r\n[*]隐形 Morph 工具自动装备；[b]变身器在物品栏中[/b]（工具栏）\r\n[*]单位类型在真正生成时才完成注册——从未出现过的类型会先提示 \"The character does not exist (try respawning it)\"，该类型首次生成后即可附身\r\n[*]部分动画观感怪异（机器人本非为人控设计），不影响功能\r\n[*]附身期间玩家角色原地待机\r\n[*]启用模组后需重启游戏；首次启动会重建缓存，属正常现象\r\n[*]多人联机：主机模组对加入的玩家生效，所有客户端都需启用本模组才能附身\r\n[/list]\r\n\r\n[hr]\r\n[h2]更新日志[/h2]\r\n[list]\r\n[*][b]v2（2026-08）[/b]：15/15 单位类全部注册；新增变身器工具与选角界面；Scannerbot 导弹+开仓动画、目标锁定与扫描模式、冲刺加速垂直飞行；矿工飞行与攻击；红 Totebot 自爆；三语本地化\r\n[/list]",
+		"description": "[h1]NPC Control - Possess & Control Any NPC[/h1][quote]This is a [b]fixed and enhanced version[/b] of the original [b]NPC Control[/b] mod by [b]crackx[/b]: https://steamcommunity.com/sharedfiles/filedetails/?id=2969977254 - full credit to the original author.[/quote][hr][b]Take control of any NPC in Scrap Mechanic![/b] Aim at a bot and press [b]E[/b] to attach to its controls - full control over movement, attacks, flying and camera. Or use the [b]Morph Tool[/b] to spawn any character in front of you and get possessed automatically. Even the laziest bots become your puppets.[hr][h2]Features[/h2][list][*]Possess [b]all 15 official unit types[/b]: Farmbot, Totebot (green/red/yellow/blue/leaf), Haybot, Tapebot (standard/red/green/yellow), Woc, Glob, Lootbot, Seedbot, Cablebot, Minerbot, Scannerbot[*]WASD movement, Shift sprint; [b]flying units[/b] (Minerbot/Scannerbot) ascend with Space, descend with CTRL, Shift sprint boosts vertical speed[*]Unique attack kit per character: Farmbot melee combo + pesticide, Scannerbot slow missiles / missile salvo + [b]target lock & scan mode[/b] (homing missiles), red Totebot self-destruct, Minerbot drill / barrage and more[*][b]Morph Tool[/b]: open the character picker with Q, spawn any character 4m in front of you and auto-possess it; temporary units are destroyed on detach[*]Aim highlight + interaction prompt, third-person follow camera with mouse-wheel zoom (4-100)[*]All 15 unit classes registered via the hijack mechanism - no official files are modified[*]Works in [b]single-player and multiplayer[/b] (a unit can only be possessed by one player at a time)[/list][hr][h2]Controls[/h2][list][*][b]E[/b] - attach / detach (detaching a Morph Tool spawn destroys it)[*][b]W/A/S/D[/b] - move | [b]Shift[/b] - sprint | [b]Space[/b] - jump (ascend if flying) | [b]CTRL[/b] - descend (flying)[*][b]0-4[/b] - switch attack moves | [b]LMB/RMB[/b] - attacks | [b]5/6[/b] (Scannerbot) - lock target / scan mode[*][b]Q[/b] (with Morph Tool equipped) - open the character picker,",
 		"fileId": 3783087774,
 		"localId": "dc8dd5ed-8fa9-4054-b00a-737def294c49",
 		"name": "NPC Controller (Fix)",
@@ -49972,7 +49973,7 @@
 				"name": "ModDatabase"
 			}
 		],
-		"description": "[h1]Remastered Framework Survival[/h1]A Survival Custom Game and modder framework: bot hijack gameplay plus store / quest hooks for Blocks & Parts mods.[b]Key Features[/b][list][*]Host /setup, player /menu, host /gensettings (MAIN / FEATURES / STREAMERS / DISCORD)[*]Custom menus, expanded inventory, advanced farming, and host dev tools[*]Bot hijack - Hack/Control/Infection beacons (Hideout 20/50/120 Farmers with RFS Beacons B&P); chain convert; /unhijack; beacon E Orders: Rest/Defend, Hay Farm, Tote Collect, Waterbot Collect Oil[*][b]Map[/b] - Always-on MiniMap HUD (upper-left). Research/craft Nutt's GPS (Metal Block + Circuit + Component Kit + Glass), then LMB to open the full atlas. Terrain/atlas map by [b]Nutt[/b] (Steam Workshop World Map [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3780282057]3780282057[/url]). Do not enable World Map as a world mod if you already have it (double HUD). Weapon ammo stays on the HUD[*]Anchor / tile loaders (WARNING: performance impact if loading many tiles)[*]Faster loads / quieter console (recipe scan fix)[*]Store hooks - craftbot.json, hideout_trades.json, mininghub_trades.json via ModDatabase[*]Unlockable schematic progression (not a vault-tree editor)[*]RfsQuest API around Survival QuestManager (see MODDER_API.txt)[*]frameworkOnly flag in rfs_settings.json for baseline / framework-only mode[/list][b]Install[/b][list][*]Subscribe to ModDatabase (keep installed; do not enable as a world mod)[*]Create a new world with [b]Remastered Framework Survival[/b][*]If you already have [b]World Map[/b] by Nutt, do not enable it as a world mod (double HUD)[*]Enable your Blocks & Parts mods (e.g. Intelligentia, RFS Beacons)[/list][b]Links[/b] GitHub: https://github.com/zernon916/Remastered-Framework-Systems - Discord: https://discord.gg/DfjDMRx9ab[b]Discord / Streamer companion (optional)[/b]In-game Streamer votes use %USER_DATA%/rfs_discord_bridge file drops. The Discord/Streamer companion is not bundled - clone discord-bridge/ from GitHub (https://github.com/zernon916/Remastered-Framework-Systems) and run separately; community Discord: https://discord.gg/DfjDMRx9ab[b]For mod authors[/b]See AUTHOR_GUIDE.txt and MODDER_API.txt in the mod folder.[b]Credits[/b] MiniMap and atlas terrain by [b]Nutt[/b] (Steam Workshop [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3780282057]World Map 3780282057[/url]). Do not enable World Map as a world mod if you already have it (double HUD). [b]Author:[/b] Zernon916",
+		"description": "[h1]Remastered Framework Survival[/h1]A Survival Custom Game and modder framework: bot hijack gameplay plus store / quest hooks for Blocks & Parts mods.[b]Key Features[/b][list][*]Host /setup, player /menu, host /gensettings (MAIN / FEATURES / STREAMERS / DISCORD)[*]Custom menus, expanded inventory, advanced farming, and host dev tools[*]Bot hijack - Hack/Control/Infection beacons (Hideout 20/50/120 Farmers with RFS Beacons B&P); chain convert; /unhijack; beacon E Orders: Rest/Defend, Hay Farm, Tote Collect, Waterbot Collect Oil[*][b]Map[/b] - Always-on MiniMap HUD (upper-left). Research/craft Nutt's GPS (Metal Block + Circuit + Component Kit + Glass), then LMB to open the full atlas. Terrain/atlas map by [b]Nutt[/b] (Steam Workshop World Map [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3780282057]3780282057[/url]). Do not enable World Map as a world mod if you already have it (double HUD). Weapon ammo stays on the HUD[*]Anchor / tile loaders (WARNING: performance impact if loading many tiles)[*]Faster loads / quieter console (recipe scan fix)[*]Store hooks - craftbot.json, hideout_trades.json, mininghub_trades.json via ModDatabase[*]Unlockable schematic progression (not a vault-tree editor)[*]RfsQuest API around Survival QuestManager (see MODDER_API.txt)[*]frameworkOnly flag in rfs_settings.json for baseline / framework-only mode[/list][b]Install[/b][list][*]Subscribe to ModDatabase (keep installed; do not enable as a world mod)[*]Create a new world with [b]Remastered Framework Survival[/b][*]If you already have [b]World Map[/b] by Nutt, do not enable it as a world mod (double HUD)[*]Enable your Blocks & Parts mods (e.g. Intelligentia, RFS Beacons)[/list][b]Links[/b] GitHub: https://github.com/zernon916/Remastered-Framework-Systems - Discord: https://discord.gg/DfjDMRx9ab[b]Discord / Streamer companion (optional)[/b]In-game Streamer votes use %USER_DATA%/rfs_discord_bridge file drops. The Discord/Streamer companion is not bundled - clone discord-bridge/ from GitHub (https://github.com/zernon916/Remastered-Framework-Systems) and run separately; community Discord: https://discord.gg/DfjDMRx9ab[b]For mod authors[/b]See AUTHOR_GUIDE.txt and MODDER_API.txt in the mod folder.[b]Credits[/b] MiniMap and atlas terrain by [b]Nutt[/b] (Steam Workshop [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3780282057]World Map 3780282057[/url]). Do not enable World Map as a world mod if you already have it (double HUD). Deep Sleep Pod mesh: [b]Sci fi incubator[/b] by [b]A9908244[/b] ([url=https://sketchfab.com/3d-models/sci-fi-incubator-63f6bee67df14292b8c9a952b568cc96]Sketchfab[/url], CC BY 4.0). Solar Panel mesh: [b]Solar Panel[/b] by [b]EdwinCGStudio[/b] ([url=https://sketchfab.com/3d-models/solar-panel-0f444052d1e64ccfb065fb8d00405f19]Sketchfab[/url], CC BY 4.0). [b]Author:[/b] Zernon916",
 		"fileId": 3782487760,
 		"localId": "29c99287-1213-48c7-9471-19a4a5c12247",
 		"name": "Remastered Framework Survival",
@@ -50059,10 +50060,10 @@
 	"cc3b4578-001b-486d-8182-157574734b24": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Adds a battery generator (fuel -> battery), as well as making stumps regrow, and drop themselves if they are broken",
+		"description": "Features:- Adds a battery generator (fuel -> battery)- Stumps regrow into trees after 2 hours, and will drop themselves when destroyed- Adds some commands to assist in transferring things betweens saves- Adds a Static Rotation Block which allows you to create static object at any rotation, not just the main world grid. uses a command to set rotationCommands:/growStump - instantly grows the stump you're currently looking at/setStaticRotatorRotation - detaches and sets the rotation of the targeted Static Rotation BlockWorld Transfer:note: these world transfer commands are somewhat untested, I wrote them once, and then used them once, and after that I lost some of the code before moving them into this mod. remember to make backups of your save before using these. transfer data is stored in the mod folder of the host, you can manually trim or add to the file if you want before running importWTCommands:/clearWT - clears the transfer data/listWT - prints the transfer data to console (-dev needed)/exportWT - exports soil, player inventorys/exportWT C - adds the creation you are currently looking at to the transfer data/importWT - loads all stored creations into the world in the same state and location as they were in the previous world, as well as loading stored harvestables (currently only soil)/importWT P - currently broken, can't remember what I did to fix it last time and I might not work on this unless asked, but would create a death bag for all players from the transfer data at your positionit is also worth noting that transferring creations will only really work well when transferring between worlds with the same seed. to do so with fant survival (and other custom games that don't alter terrain gen), I believe I grabbed the seed from the save file, edited one (or more?) of the files to force the seed to be it, and then had to also edit the seed in the new save file (might have been unneccessary, idk)",
 		"fileId": 3784207479,
 		"localId": "cc3b4578-001b-486d-8182-157574734b24",
-		"name": "Survival Additions",
+		"name": "RT0405's Survival Tweaks",
 		"type": "Blocks and Parts",
 		"version": 2
 	},
@@ -50103,6 +50104,16 @@
 		"fileId": 3785131593,
 		"localId": "9f918de4-b1c1-4cf2-965f-9e7482a22528",
 		"name": "SM Lua Hot Reload",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"d0b98b9e-bcd9-4228-b360-3e9728998a6b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Shows a floating growth emblem above farmed crops - percentage while growing, DONE when ready to harvest. Enable the mod for your world and walk to your farm; no parts need to be placed.",
+		"fileId": 3785554443,
+		"localId": "d0b98b9e-bcd9-4228-b360-3e9728998a6b",
+		"name": "Reaperz Harvest HUD",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
