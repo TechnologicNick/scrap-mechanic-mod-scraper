@@ -15120,8 +15120,14 @@
 	"e3d52333-57a7-4289-b737-ade78347cd12": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": null,
-		"description": "[h1]Survial Less Cost ![/h1]\r\nThis is the main branch. Updated after 4 years. Prepared for chapter 2.\r\n\r\n[h1]Resources boosted and costs reduced[/h1]\r\n____________________________________________\r\n\r\n[h3]Balance and quality of life[/h3]\r\n[list]\r\n[*]Boosted inventory slots and items stacks\r\n[*]Mob loot boosted\r\n[*]Grow speed boosted\r\n[*]Bigger stacks on most items\r\n[*]Refine speed boosted\r\n[*]Chest slots boosted; wood / stone / metal containers up to 100 slots\r\n[*]Loot boxes x2\r\n[*]Max HP 200\r\n[*]Lower water and food consumption, and lots more oxygen\r\n[*]Lower gas consumption in gas engines\r\n[*]Super fast vacuum\r\n[*]Trader boosted with new trades\r\n[/list]\r\n\r\n[h3]Crafting[/h3]\r\n[list]\r\n[*]Reduced crafting costs at every station\r\n[*]Craftable components\r\n[*]Staircase wedge and concave wedge craftable at the craft bot\r\n[*]Totebot head can be crafted into component kits\r\n[*]Modded crafting recipes are supported (finally after 4 years)\r\n[/list]\r\n\r\n[h3]Commands[/h3]\r\n[list]\r\n[*]/die - kill your character when you are stuck\r\n[*]/craftreload - reload the crafting recipes live\r\n[*]/craftmodded [on|off] - toggle cross-mod crafting\r\n[*]/gdev ([spoiler]25565[/spoiler]) - unlock the dev commands\r\n[/list]\r\n\r\n[h3]Notes[/h3]\r\nOverstacks incompatibility: Overstacks blocks and parts may cause storage capacity issues in containers.\r\n____________________________________________\r\n\r\nThanks everyone for all the feedback! If you have any suggestions ideas or questions feel free to ask!",
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
+				"name": "ModDatabase"
+			}
+		],
+		"description": "[h1]Survival Less Cost[/h1]\r\n[b]Rebuilt from the ground up for Chapter 2.[/b]\r\n\r\nThe mod is not ready since scrap can't compile anything at the time.\r\n\r\n[h1]Gather faster, carry more, grow quicker[/h1]\r\n____________________________________________\r\n\r\n[h3]Player[/h3]\r\n[list]\r\n[*]50 inventory slots\r\n[*]Max health 150 instead of 100\r\n[*]The food buff adds 50 health instead of 25, so up to 200\r\n[*]You wake up at 75 health instead of 30\r\n[/list]\r\n\r\n[h3]Stacks[/h3]\r\n[list]\r\n[*]Most items stacks are boosted.\r\n[/list]\r\n\r\n[h3]Harvesting[/h3]\r\n[list]\r\n[*]Tree trunks and logs take half the health and cut 2 to 3 times faster with a saw\r\n[*]A trunk now falls in one hit instead of three\r\n[*]Burnt trees: 25 health and 2 hits instead of 100 and 4\r\n[*]Stone chunks: half the health, double the damage per hit\r\n[*]Crystals: 25 health instead of 100, and the plasma drill hits them 2.5 times harder\r\n[*]Refining by hand gives 40 blocks instead of 20 (80 for scrap wood) and takes 1 second instead of 2.8\r\n[/list]\r\n\r\n[h3]Farming[/h3]\r\n[list]\r\n[*]Every crop grows in half a day instead of 0.875, in the ground and in growbeds\r\n[*]Cotton grows 5 times faster, pigment flowers and corn nearly twice\r\n[*]Soil holds water twice as long\r\n[*]Beehives regrow in half a day instead of 2.5, and drop 2 to 6 stacks of 1 to 3 wax instead of 2 to 4 single ones\r\n[*]Oil geysers refill in 15 seconds instead of 30\r\n[*]Seed loot comes in bigger bundles\r\n[/list]\r\n\r\n[h3]Machines[/h3]\r\n[list]\r\n[*]Refinery: double output, 3 seconds per craft instead of 7, shorter animations\r\n[*]Interactive beehive: produces twice as fast and stores 60 honey instead of 20\r\n[*]Plasma drill: 2 to 3 times more drilling per battery\r\n[*]Ore crusher and pipes run much faster\r\n[*]Vacuum pipes: 5 times quicker suction, double projectile speed\r\n[*]Flat vacuum: 4 times quicker, stronger pull\r\n[*]Sticky wheels grip harder\r\n[/list]\r\n\r\n[h3]Storage[/h3]\r\n[list]\r\n[*]Food containers: 500 slots instead of 20\r\n[*]Freezer: 3 slots of 50 instead of 1 of 20\r\n[*]Garage chest: 60 slots with 1000 per stack\r\n[*]Resource collector: 100 items instead of 25, and it reaches further\r\n[*]Gravel collector: 100 items instead of 36\r\n[/list]\r\n\r\n[h3]Commands[/h3]\r\n[list]\r\n[*]/gdev ([spoiler]25565[/spoiler]) - unlocks Chapter 2's full set of dev commands. Saved with your world, so you only type it once.\r\n[/list]\r\n\r\n[h3]Left at vanilla for now, on purpose[/h3]\r\nChapter 2 reworked a lot of the game. Rather than port the old numbers blindly, these are staying untouched until I have played enough of it and heard from you:\r\n[list]\r\n[*][b]Crafting costs[/b] - the new recipes already look fairly balanced\r\n[*][b]Loot tables[/b] - I have not even met every new robot yet\r\n[*][b]Chest capacity[/b] - the game added a bigger chest of its own\r\n[*][b]Cross-mod crafting[/b] (/craftmodded) and /craftreload are not back yet\r\n[/list]\r\nTell me in the comments what feels off and it goes on the list.\r\n\r\n____________________________________________\r\n\r\nThanks everyone for the feedback over the years, and for the patience through the Chapter 2 wait. Keep it coming!",
 		"fileId": 2816326647,
 		"localId": "e3d52333-57a7-4289-b737-ade78347cd12",
 		"name": "Survival Less Cost",
@@ -34289,12 +34295,12 @@
 	"c48f17fd-c82c-4ece-bab8-13fc1c9fe581": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This Mod Adds The Growing Sensor from my Main Fant Mod as a Standalone Part.\r\nIt can Detect if a Plant ( Soil ) needs Seeds, Water, Fertilizer or is Ready to Harvest.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This Mod Adds The Growing Sensor from my Main Fant Mod as a Standalone Part.\r\nIt can Detect if a Plant ( Soil ) needs Seeds, Water, Fertilizer or is Ready to Harvest.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2998826573,
 		"localId": "c48f17fd-c82c-4ece-bab8-13fc1c9fe581",
-		"name": "Plant Growing Sensor",
+		"name": "Fants Growing Sensor",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"94caf1eb-3f7b-4d3e-ab50-e53602b228f2": {
 		"allow_add_mods": true,
@@ -48845,7 +48851,7 @@
 	"e8b1c589-8fe4-4f05-8923-6870e2b854a4": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "v1.0.22 - This is a personal mod that allows to regrow trees and rock, fixes issues with vacuum and also allows vacuum and refinery to work when not in render range getting water and oil. \nAlso fixes the issue with the Drill and SawBlade when they get laggy. Provided AS IS.\n\nParts included:\n- Fishing rod: You can fish in water and get surprised.\n- Vacuum Pipes: 3, 4, 5 and 6 ways pies.\n- Seat Logic: Allows to convert inputs to logic ones.\n- Flip-flop Logic: Reduce all the logic needed for one button activate/deactivate.\n- Electric Generator: Generates electricity from gas.\n- Tractor Beam: Pulls locked targets to the creation keeping them up to 8 blocks away.\n- Gyroscope: Provides torque to stabilize creations (for flying creations, but i guess can be used to steer a car too).\n- Stabilizer: Antigravity and linear damping impulse to stabilize creations (for flying creations).\n- Helicopter Propeller: Provides lift to flying creations allowing to change the blade's tilt.\n- Impulse Thruster: Applies impulse to the whole creation at its center of mass.\n- Parking Pad: Pad to park creations preventing lag.\n- Rail tracks: Allows to create rail tracks with curves.",
+		"description": "v1.0.23 - This is a personal mod that allows to regrow trees and rock, fixes issues with vacuum and also allows vacuum and refinery to work when not in render range getting water and oil. \nAlso fixes the issue with the Drill and SawBlade when they get laggy. Provided AS IS.\n\nParts included:\n- Fishing rod: You can fish in water and get surprised.\n- Vacuum Pipes: 3, 4, 5 and 6 ways pies.\n- Seat Logic: Allows to convert inputs to logic ones.\n- Flip-flop Logic: Reduce all the logic needed for one button activate/deactivate.\n- Electric Generator: Generates electricity from gas.\n- Tractor Beam: Pulls locked targets to the creation keeping them up to 8 blocks away.\n- Gyroscope: Provides torque to stabilize creations (for flying creations, but i guess can be used to steer a car too).\n- Stabilizer: Antigravity and linear damping impulse to stabilize creations (for flying creations).\n- Helicopter Propeller: Provides lift to flying creations allowing to change the blade's tilt.\n- Impulse Thruster: Applies impulse to the whole creation at its center of mass.\n- Parking Pad: Pad to park creations preventing lag.\n- Rail tracks: Allows to create rail tracks with curves.",
 		"fileId": 2970690456,
 		"localId": "e8b1c589-8fe4-4f05-8923-6870e2b854a4",
 		"name": "LTs Mod",
@@ -49448,7 +49454,7 @@
 	"8824141a-b109-4174-a00d-f3cb3450f051": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This is my Modpack :3\r\n\r\n[h2][b]Blocks and Wedges:[/b][/h2]\r\n- Scraprooms Wallpaper 1 Block\r\n- Scraprooms Wallpaper 1 Wedge\r\n- Furry Block\r\n- Smooth Planks 1 Block\r\n- Smooth Planks 1 Wedge\r\n- Mirror Block\r\n- Greenscreen Block\r\n- Neon Block\r\n- Invisible Block\r\n- Strange Stone Block\r\n- Strange Stone Wedge\r\n- PLAGA Block\r\n- PLAGA  Wedge\r\n- Glass (Pattern 1) Block\r\n- Glass (Pattern 1) Wedge\r\n- Metal Block 1\r\n- Grass Block\r\n- Ground Block\r\n- Rock Block\r\n- Rubber Block\r\n\r\n[h2][b]Parts:[/b][/h2]\r\n- Wooden Small Wheel\r\n- Dice\r\n- Human Head\r\n- Long Pipe x6\r\n- Small Wheel 1\r\n- Wheel 1\r\n- Big Wheel 1\r\n- Very Big Wheel 1\r\n- Metal Platform 4x4\r\n\r\n[h2][b]Interactive Parts:[/b][/h2]\r\n- Door Handle Block\r\n- Scraprooms Big Lamp\r\n- Metal Door\r\n- Numpad Switch\r\n- Small Thruster\r\n\r\n[i][b]More Blocks and Parts coming soon![/b][/i]",
+		"description": "This is my Modpack :3\r\n\r\n[h2][b]Blocks and Wedges:[/b][/h2]\r\n- Scraprooms Wallpaper 1 Block\r\n- Scraprooms Wallpaper 1 Wedge\r\n- Furry Block\r\n- Smooth Planks 1 Block\r\n- Smooth Planks 1 Wedge\r\n- Mirror Block\r\n- Greenscreen Block\r\n- Neon Block\r\n- Invisible Block\r\n- Strange Stone Block\r\n- Strange Stone Wedge\r\n- PLAGA Block\r\n- PLAGA  Wedge\r\n- Glass (Pattern 1) Block\r\n- Glass (Pattern 1) Wedge\r\n- Metal Block 1\r\n- Grass Block\r\n- Ground Block\r\n- Rock Block\r\n- Rubber Block\r\n\r\n[h2][b]Parts:[/b][/h2]\r\n- Wooden Small Wheel\r\n- Dice\r\n- Human Head\r\n- Long Pipe x6\r\n- Small Wheel 1\r\n- Wheel 1\r\n- Big Wheel 1\r\n- Very Big Wheel 1\r\n- Metal Platform 4x4\r\n\r\n[h2][b]Interactive Parts:[/b][/h2]\r\n- Door Handle Block\r\n- Scraprooms Big Lamp\r\n- Metal Door\r\n- Numpad Switch\r\n- Small Thruster\r\n- Powerful Thruster\r\n\r\n[i][b]More Blocks and Parts coming soon![/b][/i]",
 		"fileId": 3778586185,
 		"localId": "8824141a-b109-4174-a00d-f3cb3450f051",
 		"name": "The Adamo Pack",
@@ -50114,6 +50120,45 @@
 		"fileId": 3785554443,
 		"localId": "d0b98b9e-bcd9-4228-b360-3e9728998a6b",
 		"name": "Reaperz Harvest HUD",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"dc0d20bd-6402-4aa6-ab72-263cfd6040d5": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Mod zwykły",
+		"fileId": 3785732781,
+		"localId": "dc0d20bd-6402-4aa6-ab72-263cfd6040d5",
+		"localizations": [
+			{
+				"resource": "Gui/Language/Polish/InventoryDescriptions.json"
+			},
+			{
+				"resource": "Gui/Language/English/InventoryDescriptions.json"
+			}
+		],
+		"name": "Szymox - Logos and more",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"7c8f4633-e789-4a85-ae0e-c2643e5c40bc": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3785746803,
+		"localId": "7c8f4633-e789-4a85-ae0e-c2643e5c40bc",
+		"name": "jk",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"45ff9c50-5612-4f66-9e4a-5d8f761f23bd": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [],
+		"description": "",
+		"fileId": 3786007407,
+		"localId": "45ff9c50-5612-4f66-9e4a-5d8f761f23bd",
+		"name": "Seekerbot Takedown",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
