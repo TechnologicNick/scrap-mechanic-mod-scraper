@@ -170668,5 +170668,29 @@
 		"$CONTENT_31a96843-06d5-49f8-9490-c14ce29f6c87/Objects/Database/ShapeSets/example.shapeset": [
 			"8a976d0c-c43d-4204-8183-486c46efda47"
 		]
+	},
+	"cc3b4578-001b-486d-8182-157574734b24": {
+		"$CONTENT_cc3b4578-001b-486d-8182-157574734b24/Objects/Database/ShapeSets/trees.shapeset": [
+			"5a508601-485f-4db6-8134-69a4d3d02bc1",
+			"4126d267-c8df-4c3c-98c7-9cb17f87f770",
+			"f708c190-6155-4769-ae0e-884cc8c21300",
+			"ef7115ea-a497-4a4a-a1ec-44b810094ef1",
+			"55b19e7f-e45b-48b2-8f7c-d9e84fed0736",
+			"89ca09da-4e7c-404f-99eb-beb275cfc217",
+			"b7756219-75f2-4eb8-93d1-262e8ddded27",
+			"fe1d102e-992a-4a24-a942-5fb37e8879d3",
+			"46a78456-aa4f-409d-98d2-d1fdeac94e41",
+			"737a5987-a586-4a06-9e9d-3661ab8d69d2"
+		],
+		"$CONTENT_cc3b4578-001b-486d-8182-157574734b24/Objects/Database/ShapeSets/interactables.shapeset": [
+			"435ca6d2-7fc0-4dc8-a060-5da08d429270",
+			"3ea96cf8-2bb4-44c8-b3e8-5f517b4bf690"
+		]
+	},
+	"7fab72d0-6a1e-4238-a5cc-c9f245b87757": {},
+	"afa6b7a4-561b-4f69-a0a8-e15d8c82b7b1": {
+		"$CONTENT_afa6b7a4-561b-4f69-a0a8-e15d8c82b7b1/Objects/Database/ShapeSets/cornvacuum.shapeset": [
+			"faa2eda8-6914-4450-8fd8-71e5dd8de094"
+		]
 	}
 }
