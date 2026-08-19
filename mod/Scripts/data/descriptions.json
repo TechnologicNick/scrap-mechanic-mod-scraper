@@ -46736,7 +46736,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "a",
+		"description": "lo9ad",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -49355,7 +49355,7 @@
 	"7dca9a40-35d2-4e4e-b19f-b52897ad7461": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h1]ЛАЗЕРНЫЙ ДОБЫТЧИК[/h1]\r\n\r\n[b]Автономный многофункциональный инструмент для быстрой добычи, переработки ресурсов, работы с фермой и восстановления деревьев.[/b]\r\n\r\nЛазерный добытчик значительно ускоряет заготовку материалов и работу с огородом, но сохраняет игровой прогресс благодаря системе из 10 уровней, перегреву и постепенно открывающимся режимам.\r\n\r\n[h2]ОСНОВНЫЕ ВОЗМОЖНОСТИ[/h2]\r\n\r\n[list]\r\n[*]Разрушает большие и маленькие деревья.\r\n[*]Обрабатывает отделившиеся части стволов и сразу помещает древесину в инвентарь.\r\n[*]Добывает каменные залежи и перерабатывает отдельные части камней в готовые блоки.\r\n[*]Собирает пчелиный воск со скал.\r\n[*]Собирает янтарь со сгоревших деревьев.\r\n[*]Собирает кукурузу.\r\n[*]Собирает созревший урожай.\r\n[*]Открывает ящики со случайной добычей и отправляет содержимое прямо в инвентарь.\r\n[*]Перерабатывает поддерживаемые части уничтоженных роботов в полезные материалы.\r\n[*]Не наносит урон живым противникам и постройкам игрока.\r\n[/list]\r\n\r\n[h2]ВОССТАНОВЛЕНИЕ ДЕРЕВЬЕВ[/h2]\r\n\r\nЕсли после добычи дерева оставить пень, дерево сможет вырасти заново через [b]3 игровых дня[/b].\r\n\r\nПень не защищён инструментом и может быть уничтожен игроком. Если пень будет разрушен, дерево больше не восстановится.\r\n\r\nТаймер роста работает только пока мир запущен.\r\n\r\n[h2]РАБОТА С ФЕРМОЙ[/h2]\r\n\r\nLaser Harvester теперь может выполнять практически весь основной цикл работы с огородом.\r\n\r\n[h3]Полив[/h3]\r\n\r\nДля полива в инвентаре игрока должна находиться вода.\r\n\r\n[list]\r\n[*][b]Обычный полив[/b] — поливает одну выбранную грядку.\r\n[*][b]Быстрый полив[/b] — работает по области и поливает несколько расположенных рядом сухих грядок.\r\n[/list]\r\n\r\nНа каждую политую грядку расходуется отдельная единица воды.\r\n\r\nБыстрый полив открывается на [b]5 уровне[/b].\r\n\r\n[h3]Удобрение[/h3]\r\n\r\nДля работы в инвентаре игрока должно находиться удобрение.\r\n\r\n[list]\r\n[*][b]Обычное удобрение[/b] — удобряет одну выбранную грядку.\r\n[*][b]Массовое удобрение[/b] — удобряет несколько грядок в области.\r\n[/list]\r\n\r\nУже удобренные грядки автоматически пропускаются.\r\n\r\nМассовое удобрение открывается на [b]5 уровне[/b].\r\n\r\n[h3]Посадка семян[/h3]\r\n\r\nЕсли в инвентаре игрока есть поддерживаемые семена, инструмент может автоматически высаживать их на пустую почву.\r\n\r\n[list]\r\n[*][b]Обычная посадка[/b] — высаживает одно семя на выбранную пустую грядку.\r\n[*][b]Массовая посадка[/b] — засаживает несколько пустых грядок в области.\r\n[/list]\r\n\r\nМассовая посадка открывается на [b]5 уровне[/b].\r\n\r\n[h3]Массовый сбор урожая[/h3]\r\n\r\nВ режиме большой добычи созревшие растения могут собираться сразу по области вокруг выбранной грядки.\r\n\r\n[h2]10 УРОВНЕЙ УЛУЧШЕНИЯ[/h2]\r\n\r\nНовый инструмент специально начинается слабым: он имеет небольшую дальность, медленно добывает ресурсы, быстро нагревается и медленно охлаждается.\r\n\r\nКаждый новый уровень:\r\n\r\n[list]\r\n[*]увеличивает дальность действия;\r\n[*]повышает скорость обработки ресурсов;\r\n[*]уменьшает количество выделяемого тепла;\r\n[*]ускоряет охлаждение инструмента.\r\n[/list]\r\n\r\n[b]Стоимость уровней 1–10:[/b]\r\n5, 10, 15, 20, 25, 30, 35, 40, 45 и 50 компонентов.\r\n\r\n[b]Уровень 5:[/b]\r\nБыстрый полив, массовое удобрение и массовая посадка.\r\n\r\n[b]Уровень 10:[/b]\r\nБольшая добыча.\r\n\r\n[h2]БОЛЬШАЯ ДОБЫЧА[/h2]\r\n\r\nНа [b]10 уровне[/b] открывается специальный режим большой добычи.\r\n\r\nОн позволяет обрабатывать крупные ресурсные объекты значительно быстрее, а также использовать массовый сбор созревшего урожая.\r\n\r\n[h2]ПЕРЕГРЕВ[/h2]\r\n\r\nПродолжительная работа повышает температуру лазера.\r\n\r\nКогда шкала полностью заполняется, инструмент временно прекращает работу и должен остыть.\r\n\r\nС каждым улучшением лазер нагревается медленнее и охлаждается быстрее, поэтому прокачанный инструмент можно использовать значительно дольше.\r\n\r\n[h2]УПРАВЛЕНИЕ[/h2]\r\n\r\n[list]\r\n[*][b]ЛКМ[/b] — использовать выбранный режим.\r\n[*][b]ПКМ[/b] — открыть панель быстрого выбора режима.\r\n[*][b]R[/b] — открыть меню настроек и улучшений.\r\n[/list]\r\n\r\n[h2]РАЗВИТИЕ МОДА[/h2]\r\n\r\nМод продолжает разрабатываться и будет получать новые функции, режимы, улучшения и исправления.\r\n\r\nПишите в комментариях свои идеи и предложения — интересные варианты могут появиться в будущих обновлениях.\r\n\r\nЕсли вы нашли ошибку, пожалуйста, укажите, что произошло, какой режим использовался и при каких условиях появилась проблема.",
+		"description": "",
 		"fileId": 3776850249,
 		"localId": "7dca9a40-35d2-4e4e-b19f-b52897ad7461",
 		"name": "Laser Harvester",
@@ -50155,11 +50155,31 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": [],
-		"description": "",
+		"description": "This mod finally allows you to [b]take down[/b] the Seekerbot!\r\n\r\nThe Seekerbot will respawn after 20 in-game days (can be changed with [b]/seeker_respawndays[/b]).\r\nYou can track the Seekerbot on your compass with [b]/seeker_trackcompass[/b].\r\nThis mod also adds an alert for when the Seekerbot is approaching your location. No surprises!\r\n\r\n[h2]How to damage the Seekerbot:[/h2]\r\n- [b]Small Explosive Canister[/b] (can be shot with a Vacuum Pump)\r\n- [b]Large Explosive Canister[/b]\r\n- [b]Fireworks[/b]\r\n- [b]Fire Launcher[/b]\r\n- [b]Cornade[/b]\r\n\r\n[h2]Added Commands:[/h2]\r\n- [b]/seeker_respawndays <days>[/b]  -  Sets the amount of days until the Seekerbot respawns after being destroyed. (default: 20)\r\n- [b]/seeker_trackcompass[/b]  -  Toggles whether the Seekerbot is tracked on the compass. (default: disabled)\r\n\r\n[h2]How to use in Survival:[/h2]\r\n(note that using mods will disable achievements and garment unlocks)\r\n[olist]\r\n[*] Locate your survival save file in this folder\r\n[code]%appdata%/Axolot Games/Scrap Mechanic/User/User_#######/Save/Survival[/code]\r\n[*] (optional) Make a backup\r\n[*] Move the save file into\r\n[code]%appdata%/Axolot Games/Scrap Mechanic/User/User_#######/Save[/code]\r\n[*] Relaunch the game\r\n[*] Your survival world will now appear in the [b]Creative world selection screen[/b], select it\r\n[*] Click the \"Mods\" button and enable this mod\r\n[*] (optional) You can now move the save file back into\r\n[code]%appdata%/Axolot Games/Scrap Mechanic/User/User_#######/Save/Survival[/code]\r\n[*] (mandatory) Enjoy\r\n[/olist]\r\n\r\n[h2]How to use in a Custom Game:[/h2]\r\n[list]\r\n[*] Simply enable it like any other Blocks and Parts mod\r\n[*] Note that [b]some Custom Games may not be compatible[/b]\r\n[/list]\r\n\r\n[hr]\r\nIf you like this, feel free to like, favourite and give an award!",
 		"fileId": 3786007407,
 		"localId": "45ff9c50-5612-4f66-9e4a-5d8f761f23bd",
 		"name": "Seekerbot Takedown",
 		"type": "Blocks and Parts",
 		"version": 2
+	},
+	"541c8fe7-322d-4dbd-b55f-badf381e79fd": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "A compact 1x1 display sign. Mount it on any chest and it shows a slowly rotating 3D model of the first item inside - ideal for labelling the output chests of a filter network.\r\n\r\nWorks on every container in the game, on any face, in any orientation. The frame is paintable; the screws stay grey.\r\n\r\nCrafting: 5 x Metal Block Level 1 + 1 x Circuit Board.\r\nThe recipe requires Fant Mod 3 - in other game modes the part is creative-only.",
+		"fileId": 3786057086,
+		"localId": "541c8fe7-322d-4dbd-b55f-badf381e79fd",
+		"name": "Item Sign",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"31a96843-06d5-49f8-9490-c14ce29f6c87": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "this is uomo pallina\nuomo che cammina [comming soon]",
+		"fileId": 3786282046,
+		"localId": "31a96843-06d5-49f8-9490-c14ce29f6c87",
+		"name": "uomo pallina",
+		"type": "Blocks and Parts",
+		"version": 1
 	}
 }
