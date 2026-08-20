@@ -8116,5 +8116,12 @@
 	"541c8fe7-322d-4dbd-b55f-badf381e79fd": {},
 	"31a96843-06d5-49f8-9490-c14ce29f6c87": {},
 	"7fab72d0-6a1e-4238-a5cc-c9f245b87757": {},
-	"afa6b7a4-561b-4f69-a0a8-e15d8c82b7b1": {}
+	"afa6b7a4-561b-4f69-a0a8-e15d8c82b7b1": {},
+	"c61484c8-0d15-4995-964e-79001b9a2bb2": {},
+	"47a68a84-c7c3-4248-a6d4-cb558431b9ea": {
+		"$CONTENT_47a68a84-c7c3-4248-a6d4-cb558431b9ea/Tools/Database/ToolSets/modcraftmenu.toolset": [
+			"d9bdf23a-817c-4c15-9d23-4bbc3565466e"
+		]
+	},
+	"96d928a8-1fef-4028-9ba7-550984fbff3a": {}
 }

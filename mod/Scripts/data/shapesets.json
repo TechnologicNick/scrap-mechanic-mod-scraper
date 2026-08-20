@@ -170692,5 +170692,15 @@
 		"$CONTENT_afa6b7a4-561b-4f69-a0a8-e15d8c82b7b1/Objects/Database/ShapeSets/cornvacuum.shapeset": [
 			"faa2eda8-6914-4450-8fd8-71e5dd8de094"
 		]
-	}
+	},
+	"c61484c8-0d15-4995-964e-79001b9a2bb2": {
+		"$CONTENT_c61484c8-0d15-4995-964e-79001b9a2bb2/Objects/Database/ShapeSets/wm_map_part.shapeset.json": [
+			"7f2a1109-7d88-4c74-9f0e-257a3e811bc3",
+			"a5985971-1f95-4373-a5d9-4ce0a3e74851"
+		]
+	},
+	"47a68a84-c7c3-4248-a6d4-cb558431b9ea": {
+		"$CONTENT_47a68a84-c7c3-4248-a6d4-cb558431b9ea/Objects/Database/ShapeSets/empty.shapeset": []
+	},
+	"96d928a8-1fef-4028-9ba7-550984fbff3a": {}
 }
