@@ -16453,12 +16453,12 @@
 	"61dfaa2e-041d-4e6b-82a1-54185a7d0cfe": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "allows you to place the lift ANYWHERE\ninfinite reach (not length!)\n\ncant use a creation with keybinds:\nforce build button: go down\nreload button: go up\n\n[h1]discord.gg/6r46PkYr9s[/h1]\n\nI hate the devs",
+		"description": "allows you to place the lift ANYWHERE\r\ninfinite reach (not length!)\r\n\r\ncant use a creation with keybinds:\r\nforce build button: resourcefully go down\r\nreload button: resourcefully go up\r\n\r\n[h1]discord.gg/6r46PkYr9s[/h1]\r\n\r\n\r\nI am the OG creator, someone reported the old one that had upwards of 5k subs, then it got removed without warning. This isnt the first time one of my mods have gotten taken down for no reason at all.\r\n\r\n8/19/2026\r\nadded /lifttoggle for host\r\n\r\nI hate the devs.",
 		"fileId": 3340222404,
 		"localId": "61dfaa2e-041d-4e6b-82a1-54185a7d0cfe",
 		"name": "Better Lift",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"667c49f9-a873-4646-aa27-033d9606ce32": {
 		"allow_add_mods": true,
@@ -33285,10 +33285,10 @@
 	"61d4b3e3-c5f7-454c-87fb-7a0fff5d91d0": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds alot of Parts for Storage and Automation.\r\n\r\n-Vacuumpipes in all variations\r\n-Vacuumpipe PUMP\r\n-3 way Vacuumpump\r\n( Vacuumpumps have a Filter Inventory, Whitelist/Blacklist option, a Second (RED)\r\npainted Input can Switch the Direction\r\nIf you paint the Vacuumpump (Pink/Magenta) it can pickup block and parts.\r\nVacuumpumps can also Suck out items from Container they are facing\r\nand also push items in them.\r\nSucktion = Stack\r\nPush = 1 Single Item\r\n\r\n-Recycler\r\n-Pumpjack ( long distance fluid transfer )\r\n-Trashbin\r\n-Teleporter Itempipes ( in renderdistance item transport )\r\n-Container and Chests, all with Filter and the Item Collection from the Vanilla Large Chest\r\n-Seed Press to make out of seeds Scrapwood\r\n-Stationary Auto Miner that uses gas to slowly gather stone and metal.\r\n-Inline Refinery. a symetrical refinery variant.\r\n-5x5x8 Resource Collector, fitting for the inline refinery\r\n-chest fill detector to check the fill amount of container\r\n\r\n[h1] IMPORTENT  [/h1]\r\n For the recycler is the ModDatabase needed to let it see other modded recipes.\r\nyou only need to Subscribe to it, not add the Moddatabase to your world!.\r\n\r\n\r\n\r\nHelper:\r\nPuduku - Thin Chest Model\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This mod adds alot of Parts for Storage and Automation.\r\n\r\n-Vacuumpipes in all variations\r\n-Vacuumpipe PUMP\r\n-3 way Vacuumpump\r\n( Vacuumpumps have a Filter Inventory, Whitelist/Blacklist option, a Second (RED)\r\npainted Input can Switch the Direction\r\nIf you paint the Vacuumpump (Pink/Magenta) it can pickup block and parts.\r\nVacuumpumps can also Suck out items from Container they are facing\r\nand also push items in them.\r\nSucktion = Stack\r\nPush = 1 Single Item\r\nGrowbeds can be also harvested with vacuumpumps\r\n\r\n-Recycler\r\n-Pumpjack ( long distance fluid transfer )\r\n-Trashbin\r\n-Teleporter Itempipes ( in renderdistance item transport )\r\n-Container and Chests, all with Filter and the Item Collection from the Vanilla Large Chest\r\n-Seed Press to make out of seeds Scrapwood\r\n-Stationary Auto Miner that uses gas to slowly gather stone and metal.\r\n-Inline Refinery. a symetrical refinery variant.\r\n-5x5x8 Resource Collector, fitting for the inline refinery\r\n-chest fill detector to check the fill amount of container\r\n\r\n[h1] IMPORTENT  [/h1]\r\n For the recycler is the ModDatabase needed to let it see other modded recipes.\r\nyou only need to Subscribe to it, not add the Moddatabase to your world!.\r\n\r\n\r\n\r\nHelper:\r\nPuduku - Thin Chest Model\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2963115530,
 		"localId": "61d4b3e3-c5f7-454c-87fb-7a0fff5d91d0",
-		"name": "Fants Pipes Container Pumps Recycler",
+		"name": "Fants Vacuum System Extention",
 		"type": "Blocks and Parts",
 		"version": 2
 	},
@@ -50076,7 +50076,7 @@
 	"479872d6-10c9-4c94-9423-db7bf92bae05": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "v2.0 - optimized terrain generation (faster loading, same desert).\n\nA vast procedural desert world for off-road driving. Endless dunes, dry riverbeds, rocky hills and a hidden oasis - every new world is a new desert.\n\n[b]/timeset [0-1][/b] - Set the time of day\n[b]/timeprogress[/b] - Toggle time progression\n[b]/seed[/b] - Show current world seed\n[b]/regenerate [seed][/b] - Generate a new desert (host)\n[b]/tp [player_id][/b] - Teleport to a player\n[b]/fly[/b] - Toggle fly mode\n[b]/spawnpoint[/b] - Set respawn point\n[b]/clear[/b] - Remove all loaded bodies",
+		"description": "v2.1 - 256x256 world (16.4km, engine max) + multi-point height cache + shared factor cache.\n\nA vast procedural desert world for off-road driving. Endless dunes, dry riverbeds, rocky hills and a hidden oasis - every new world is a new desert.\n\n[b]/timeset [0-1][/b] - Set the time of day\n[b]/timeprogress[/b] - Toggle time progression\n[b]/seed[/b] - Show current world seed\n[b]/regenerate [seed][/b] - Generate a new desert (host)\n[b]/tp [player_id][/b] - Teleport to a player\n[b]/fly[/b] - Toggle fly mode\n[b]/spawnpoint[/b] - Set respawn point\n[b]/clear[/b] - Remove all loaded bodies",
 		"localId": "479872d6-10c9-4c94-9423-db7bf92bae05",
 		"name": "Desert Baha",
 		"type": "Custom Game",
@@ -50229,6 +50229,16 @@
 		"fileId": 3786556616,
 		"localId": "96d928a8-1fef-4028-9ba7-550984fbff3a",
 		"name": "Goofy blue totebot walking sounds",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"e266e3a9-9450-43a9-a9bb-493c45059c00": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds the Recycler - a machine that breaks crafted items back down into their crafting ingredients. Drop items in, parts come out. Craft it at the Mechanic Station (5 metal + 2 circuit boards). Fully lossless: multi-quantity recipes recycle in full batches.",
+		"fileId": 3786718078,
+		"localId": "e266e3a9-9450-43a9-a9bb-493c45059c00",
+		"name": "Reaperz Recycler",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
