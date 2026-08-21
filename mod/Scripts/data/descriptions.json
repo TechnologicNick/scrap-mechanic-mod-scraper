@@ -33284,8 +33284,8 @@
 	},
 	"61d4b3e3-c5f7-454c-87fb-7a0fff5d91d0": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "This mod adds alot of Parts for Storage and Automation.\r\n\r\n-Vacuumpipes in all variations\r\n-Vacuumpipe PUMP\r\n-3 way Vacuumpump\r\n( Vacuumpumps have a Filter Inventory, Whitelist/Blacklist option, a Second (RED)\r\npainted Input can Switch the Direction\r\nIf you paint the Vacuumpump (Pink/Magenta) it can pickup block and parts.\r\nVacuumpumps can also Suck out items from Container they are facing\r\nand also push items in them.\r\nSucktion = Stack\r\nPush = 1 Single Item\r\nGrowbeds can be also harvested with vacuumpumps\r\n\r\n-Recycler\r\n-Pumpjack ( long distance fluid transfer )\r\n-Trashbin\r\n-Teleporter Itempipes ( in renderdistance item transport )\r\n-Container and Chests, all with Filter and the Item Collection from the Vanilla Large Chest\r\n-Seed Press to make out of seeds Scrapwood\r\n-Stationary Auto Miner that uses gas to slowly gather stone and metal.\r\n-Inline Refinery. a symetrical refinery variant.\r\n-5x5x8 Resource Collector, fitting for the inline refinery\r\n-chest fill detector to check the fill amount of container\r\n\r\n[h1] IMPORTENT  [/h1]\r\n For the recycler is the ModDatabase needed to let it see other modded recipes.\r\nyou only need to Subscribe to it, not add the Moddatabase to your world!.\r\n\r\n\r\n\r\nHelper:\r\nPuduku - Thin Chest Model\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"custom_icons": true,
+		"description": "This mod adds alot of Parts for Storage and Automation.\r\n\r\n-Vacuumpipes in all variations\r\n-Vacuumpipe PUMP\r\n- Autocrafter\r\n-3 way Vacuumpump\r\n( Vacuumpumps have a Filter Inventory, Whitelist/Blacklist option, a Second (RED)\r\npainted Input can Switch the Direction\r\nIf you paint the Vacuumpump (Pink/Magenta) it can pickup block and parts.\r\nVacuumpumps can also Suck out items from Container they are facing\r\nand also push items in them.\r\nSucktion = Stack\r\nPush = 1 Single Item\r\nGrowbeds can be also harvested with vacuumpumps\r\n\r\n-Recycler\r\n-Pumpjack ( long distance fluid transfer )\r\n-Trashbin\r\n-Teleporter Itempipes ( in renderdistance item transport )\r\n-Container and Chests, all with Filter and the Item Collection from the Vanilla Large Chest\r\n-Seed Press to make out of seeds Scrapwood\r\n-Stationary Auto Miner that uses gas to slowly gather stone and metal.\r\n-Inline Refinery. a symetrical refinery variant.\r\n-5x5x8 Resource Collector, fitting for the inline refinery\r\n-chest fill detector to check the fill amount of container\r\n\r\n[h1] IMPORTENT  [/h1]\r\n For the recycler is the ModDatabase needed to let it see other modded recipes.\r\nyou only need to Subscribe to it, not add the Moddatabase to your world!.\r\n\r\n\r\n\r\nHelper:\r\nPuduku - Thin Chest Model\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2963115530,
 		"localId": "61d4b3e3-c5f7-454c-87fb-7a0fff5d91d0",
 		"name": "Fants Vacuum System Extention",
@@ -42624,11 +42624,6 @@
 				"name": "Creation Summoner"
 			},
 			{
-				"fileId": 3312373135,
-				"localId": "2514bebf-db4a-4d53-b2ba-57a6b291226b",
-				"name": "Seats++"
-			},
-			{
 				"fileId": 3340095265,
 				"localId": "0d079c85-2b7a-4424-8d1b-5a9da6a4d59e",
 				"name": "Logic Gate Visibility Fix"
@@ -42637,14 +42632,9 @@
 				"fileId": 3467700096,
 				"localId": "60e85f5c-3957-4085-8fb8-7af5a8ed51d8",
 				"name": "Bingo's Gravity Gun"
-			},
-			{
-				"fileId": 3482030467,
-				"localId": "31e5574b-e4e8-4871-aaf8-57cb02638811",
-				"name": "Sledgehammer Lag Fix"
 			}
 		],
-		"description": "This is a list of all of SMTC's endorsed tool mods for advanced vanilla building, this modpack includes:\r\n[list]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2916542549] Player Teleporter [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3443881450] Better Lift V2 [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2963669827] Duplicator Tool [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2121803790] Advanced X-O-Meter [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2022198450] OP Tools [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2987476458] Bingo's Block Editor [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2910423207] Player Name Tag Hider [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3415417597] Invalid Joint Position Fixer [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3363279912] Centre Of Mass Finder [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3305867921] Zero Width Block Viewer [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3306069786] The Flattener [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3307178455] Creation Summoner [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3312373135] Seats++ [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340095265] Logic Gate Visibility Fix[/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3467700096] Bingo's Gravity Gun[/url]\r\n[/list]\r\n\r\nWe hope you find this useful. Any suggestions, feel free to leave a comment.",
+		"description": "This is a list of all of SMTC's endorsed tool mods for advanced vanilla building, this modpack includes:\r\n[list]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2916542549] Player Teleporter [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3443881450] Better Lift V2 [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2963669827] Duplicator Tool [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2121803790] Advanced X-O-Meter [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2022198450] OP Tools [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2987476458] Bingo's Block Editor [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2910423207] Player Name Tag Hider [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3415417597] Invalid Joint Position Fixer [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3363279912] Centre Of Mass Finder [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3305867921] Zero Width Block Viewer [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3306069786] The Flattener [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3307178455] Creation Summoner [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3312373135] Seats++ [/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340095265] Logic Gate Visibility Fix[/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3467700096] Bingo's Gravity Gun[/url]\r\n[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3482030467] Sledgehammer Lag Fix[/url]\r\n[/list]\r\n\r\nWe hope you find this useful. Any suggestions, feel free to leave a comment.",
 		"fileId": 3304245465,
 		"localId": "31440574-2e66-417a-b77d-b02f8f1e4306",
 		"name": "SMTC Tool Pack",
@@ -46736,7 +46726,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "lo9ad",
+		"description": "laod",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -49318,7 +49308,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": [],
-		"description": "Progression boost for Survival: normal crafting outputs, including Bearings and Suspensions, are multiplied by 5. Engines, Seats, Controllers, Pistons, Thrusters, Craftbots, and Weapons remain at x1. All regular crafting processes take only one-third of the normal time. Bot death loot produces at least two stacks, each containing five times the normal quantity, while regular inventory stack limits are multiplied by 10. Refining by hand or with the Refinery Bot yields 200/400 resources at twice the normal speed. Normal loot crates and large Drillbot loot crates provide x8 total loot. Crude Oil, Beeswax, Cotton, Corn, Pigment Flowers, Glue Clams, and Embers from burnt trees yield x5 resources. Planted crops also yield x5: regular field crops increase from 1 to 5, Potatoes from 10 to 50, and Growbed crops from 5 to 25. Seed quantities remain unchanged. Built for Scrap Mechanic 1.0.4.874 / Steam Build 24499589.",
+		"description": "Progression boost for Survival: normal crafting outputs, including Bearings and Suspensions, are multiplied by 5. Engines, Seats, Controllers, Pistons, Thrusters, Craftbots, and Weapons remain at x1. All regular crafting processes take only one-third of the normal time. Bot death loot produces at least two stacks, each containing five times the normal quantity, while regular inventory stack limits are multiplied by 10. Refining by hand or with the Refinery Bot yields 200/400 resources at twice the normal speed. Normal loot crates and large Drillbot loot crates provide x8 total loot. Direct Drilling Thunder resource drops and outputs from the Ore Crusher and Prospector are multiplied by 5; the Ore Crusher also runs at twice the normal speed, while Clay already uses the regular x5 crafting rule. Crude Oil, Beeswax, Cotton, Corn, Pigment Flowers, Glue Clams, and Embers from burnt trees yield x5 resources. Planted crops also yield x5: regular field crops increase from 1 to 5, Potatoes from 10 to 50, and Growbed crops from 5 to 25. Seed quantities remain unchanged. Built for Scrap Mechanic 1.0.5.876 / Steam Build 24529696.",
 		"fileId": 3776413011,
 		"localId": "bc0d0e7e-2284-4088-b1f5-d01695e2baea",
 		"name": "Progression Boost (x5)",
@@ -50263,5 +50253,53 @@
 		"name": "Logic MOD",
 		"type": "Blocks and Parts",
 		"version": 2
+	},
+	"4212ea90-0a36-4908-acd8-9a9b915a828e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This is the continuation of unknowns better lift mod which was having some issues with the workshop, the mod has a bit cleaner code with an added command: '/togglelift' to enable/disable the lift cheats whenever you want (only avaliable to hosts)",
+		"fileId": 3443881450,
+		"localId": "4212ea90-0a36-4908-acd8-9a9b915a828e",
+		"name": "Better Lift V2",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"e7ca4a83-74b0-4a75-ab18-e62021fad28e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds the Gravity and Physics guns from Gmod to scrap mechanic!\r\n\r\n[h1]How to use the Gravity gun:[/h1]\r\n[olist]\r\n[*]Point the operational end of the device at a creation\r\n[*]Pull the primary trigger\r\n[*]Point the operational end somewhere else\r\n[*]Pull the primary trigger again to release\r\n[*]Be happy that the creation is somewhere better\r\n[/olist]\r\n[h1]How to use the Physics gun:[/h1]\r\n[olist]\r\n[*]Point the operational end of the device at a creations joint\r\n[*]Pull the primary trigger\r\n[*]Point the operational end somewhere else\r\n[*]Pull the primary trigger again to release\r\n[/olist]\r\n\r\n[h2]List of controls:[/h2]\r\n[table]\r\n    [tr]\r\n        [th]Control[/th]\r\n        [th]Gravity[/th]\r\n        [th]Physics[/th]\r\n    [/tr]\r\n    [tr]\r\n        [td]Primary[/td]\r\n        [td]Grab/Release[/td]\r\n        [td]Grab/Release[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Rotate[/td]\r\n        [td]Modify Distance[/td]\r\n        [td]Modify Distance[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Secondary[/td]\r\n        [td]Launch/Push[/td]\r\n        [td]None[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Reload[/td]\r\n        [td]Rotate[/td]\r\n        [td]None[/td]\r\n    [/tr]\r\n[/table]",
+		"fileId": 3786534027,
+		"localId": "e7ca4a83-74b0-4a75-ab18-e62021fad28e",
+		"name": "Scrap Mod",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"c6890b9c-0f11-47b3-903a-2fbc87e2e552": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
+				"name": "ModDatabase"
+			}
+		],
+		"description": "[h1]Scrap Factory Survival[/h1]An accelerated, quality-of-life Custom Game mode designed for fast-paced building, crafting, and automation.[h2]IMPORTANT SETUP NOTICE[/h2][b]Required Dependency:[/b] You MUST subscribe to [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2504530003]ModDatabase[/url] for this mod to work.[b]DO NOT[/b] activate or select ModDatabase in your custom game mod list when creating or loading the world. This game mode accesses it automatically in the background.[h2]Core Features[/h2][list][*]Massive Inventory: 500 scrollable backpack slots.[*]Boosted Yields: 5x more resources when hand-refining and gathering.[*]High Loot Multipliers: 3x loot rolls and 5x item quantity drops.[*]Instant Harvesting: 50x harvest damage for 1-hit trees/rocks.[*]Accelerated Processing: 2x faster refinery animations and 5-second Craftbot times.[*]Increased Combat Power: 2x damage for Sledgehammer and Potato projectiles.[*]Warehouse Modding: Warehouse structures can be modified, lifted, and connected.[/list]",
+		"fileId": 3787266187,
+		"localId": "c6890b9c-0f11-47b3-903a-2fbc87e2e552",
+		"name": "Scrap Factory Survival",
+		"type": "Custom Game",
+		"version": 1
+	},
+	"d29440d8-dcef-46a6-ab69-84c068ab9f81": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [],
+		"description": "[h1]Scrap Factory Survival Plus[/h1]The hardcore variant of Scrap Factory Survival. Same factory pace, tighter survival pressure. This is a separate Custom Game and does not replace the original.[h2]Core Features[/h2][list][*]Hunger & Thirst: Food and water bars are back.[*]Compact Inventory: 100 backpack slots.[*]Vanilla Harvest & Refine: 20 blocks per harvest core, 2.8s hand refine.[*]2x Loot: Chests and bots drop 2x loot rolls and 2x item quantity.[*]Vanilla Combat: Standard Survival damage.[*]Warehouse Modding: Warehouse structures can be modified, lifted, and connected.[/list]",
+		"fileId": 3787266246,
+		"localId": "d29440d8-dcef-46a6-ab69-84c068ab9f81",
+		"name": "Scrap Factory Survival Plus",
+		"type": "Custom Game",
+		"version": 1
 	}
 }
