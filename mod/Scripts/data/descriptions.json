@@ -48881,10 +48881,10 @@
 	"1b84268f-1a96-4ec9-9f8c-56f4d1824ef3": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h1] --- FUNKTIONIERT  MIT DEM NEUEM V1 UPDATE! --- [/h1]\r\n\r\n[B] 1022 originale deutsche Verkehrszeichengrafiken in Stadt- und Autobahngröße.[7B]\r\n\r\n[u]Version 1.4.1[/u] nutzt das im Spiel bestätigte V1.2-Mesh-, Icon- und Kollisionssystem.\r\n\r\n[url=vantanet.de]Mod erstellt von VantaNet[/url] - Inoffizielles Fanprojekt – keine Verbindung zu Behörden, SEVAS NRW, Axolot Games oder Valve.\r\n\r\nBei Anzeigefehlern, Beschwerden oder Änderungen, bitte im Steam Workshop melden.\r\n\r\nEnthält deutsche Verkehrszeichen in verschiedenen Größen für Scrap Mechanic.\r\n\r\nGrafikquelle: SEVAS NRW\r\nTechnische Umsetzung und 3D-Modelle: VantaNet",
+		"description": "[h1] --- FUNKTIONIERT  MIT DEM NEUEM V1 UPDATE! --- [/h1]\r\n\r\n[B] 1022 originale deutsche Verkehrszeichengrafiken in Stadt- und Autobahngröße.[/B]\r\n\r\n[u]Version 1.5.0[/u] nutzt das im Spiel bestätigte V1.2-Mesh-, Icon- und Kollisionssystem.\r\n\r\n[url=https://vantanet.net]Mod erstellt von VantaNet[/url] - Inoffizielles Fanprojekt – keine Verbindung zu Behörden, SEVAS NRW, Axolot Games oder Valve.\r\n\r\nBei Anzeigefehlern, Beschwerden oder Änderungen, bitte im Steam Workshop melden.\r\n\r\nEnthält deutsche Verkehrszeichen in verschiedenen Größen für Scrap Mechanic.\r\n\r\nGrafikquelle: SEVAS NRW\r\nTechnische Umsetzung und 3D-Modelle: VantaNet",
 		"fileId": 3772014497,
 		"localId": "1b84268f-1a96-4ec9-9f8c-56f4d1824ef3",
-		"name": "VantaNet Deutsche Verkehrsschilder V1.4.2",
+		"name": "VantaNet Deutsche Verkehrsschilder V1.5.0",
 		"type": "Blocks and Parts",
 		"version": 2
 	},
@@ -50301,5 +50301,15 @@
 		"name": "Scrap Factory Survival Plus",
 		"type": "Custom Game",
 		"version": 1
+	},
+	"44eb93b6-9ae0-423e-b8f6-1dccb8951384": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3787501722,
+		"localId": "44eb93b6-9ae0-423e-b8f6-1dccb8951384",
+		"name": "Survival Improved+",
+		"type": "Custom Game",
+		"version": 0
 	}
 }
