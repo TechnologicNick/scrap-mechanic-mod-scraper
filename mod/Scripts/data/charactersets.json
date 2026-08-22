@@ -1969,5 +1969,10 @@
 	},
 	"44eb93b6-9ae0-423e-b8f6-1dccb8951384": {
 		"$CONTENT_44eb93b6-9ae0-423e-b8f6-1dccb8951384/Characters/Database/CharacterSets/example.characterset": []
+	},
+	"2ba5b8b1-551f-4fdc-a3d8-8d04efd2fd26": {
+		"$CONTENT_2ba5b8b1-551f-4fdc-a3d8-8d04efd2fd26/Characters/Database/CharacterSets/replacement.characterset": [
+			"00000000-0000-0000-0000-000000000000"
+		]
 	}
 }

@@ -43396,12 +43396,12 @@
 				"name": "Survival Mode Assets Fix"
 			}
 		],
-		"description": "This mod adds new part models that improve upon outdated visuals, this mod can be used both in Creative mode and Survival mode.\r\nPreviously a part of Survival Parts Fix now seperate.\r\n(NOT A FILE MOD)",
+		"description": "[NOT YET UPDATED TO 1.0 RELEASE]\r\nThis mod adds new part models that improve upon outdated visuals, this mod can be used both in Creative mode and Survival mode.\r\nPreviously a part of Survival Parts Fix now seperate.\r\n(NOT A FILE MOD)",
 		"fileId": 3479326910,
 		"localId": "68459649-dda2-4dac-aa33-64522bf56ad5",
 		"name": "Scrap Mechanic Parts Remake",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"e47d0474-55e1-432a-a6b7-295592d09d33": {
 		"allow_add_mods": true,
@@ -47452,12 +47452,12 @@
 	"c73f7f43-bbaa-415b-80cd-b7ede03a5894": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Modular Propulsion answers a simple question: what if the upgrade system was different, more flexible, more … modular?\r\n\r\nWith Modular Propulsion, you can create your own engines, thrusters and propellers from a wide range of modules that can be connected in practically infinite configurations. This gives you control over how powerful or efficient your propulsion method is. You can make the engine more powerful or efficient, or both, at the cost of efficiency, power or space. They have the potential to outperform the vanilla counterparts in both categories at a lower component kit price, but this comes at the cost of space.\r\n\r\nAll methods of propulsion work like this:\r\nThe controller is the main part of the engine, jet or propeller. It connects to bearings, seats and logic. It is the place where you do the things you know well.\r\n\r\nModules augment the properties of the controller by either attaching directly to it or to other modules. For example, cylinders can be attached directly to the controller or to a crankshaft connected to the controller.\r\n\r\nModulators can affect the performance of the modules they are placed next to (up to six modules for some), making them more powerful or efficient. This allows for more compact or efficient engines. For example, superchargers increase the efficiency of all the cylinders they touch, but reduce the engine's maximum speed.\r\n\r\nPropellers are unique compared to other methods of propulsion. They need to be placed directly on the bearing they connect to, as well as connect to a modular engine. Propellers have a maximum speed and variable acceleration, which depends on the number of blades connected and the engine powering them. A larger propeller requires a larger engine to achieve good acceleration. Propellers can also change their spin direction to go upwards (from clockwise to counter-clockwise and vice versa). Counter-rotating propellers (where the bottom propeller spins clockwise and the top propeller spins counter-clockwise) are also possible. Please note that changing the propeller setting does not alter the bearing's spin direction. You still need to do that the old-fashioned way. In addition, propellers spinning faster than the maximum speed do NOT produce more thrust — the maximum speed exists for a reason!\r\n\r\nTested compatability:\r\n- Fant mod\r\n- Modded craft bot recipes\r\n- Anything that doesn't use the same UUIDs\r\n\r\nExample vehicles:\r\n\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702445936\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702446421\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702446635\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702446848\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702447120\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3703296089\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3703297167\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3704381254\r\n",
+		"description": "Modular Propulsion answers a simple question: what if the upgrade system was different, more flexible, more … modular?\r\n\r\nInfo on 1.0: Mods will break once Drilling Thunder is released. This one included. It will take me some time to update the mod, and I want to enjoy the release of the 1.0 version of my most-played game, which I have been waiting to play for around seven years, so please be patient with me.\r\n\r\nWith Modular Propulsion, you can create your own engines, thrusters and propellers from a wide range of modules that can be connected in practically infinite configurations. This gives you control over how powerful or efficient your propulsion method is. You can make the engine more powerful or efficient, or both, at the cost of efficiency, power or space. They have the potential to outperform the vanilla counterparts in both categories at a lower component kit price, but this comes at the cost of space.\r\n\r\nAll methods of propulsion work like this:\r\nThe controller is the main part of the engine, jet or propeller. It connects to bearings, seats and logic. It is the place where you do the things you know well.\r\n\r\nModules augment the properties of the controller by either attaching directly to it or to other modules. For example, cylinders can be attached directly to the controller or to a crankshaft connected to the controller.\r\n\r\nModulators can affect the performance of the modules they are placed next to (up to six modules for some), making them more powerful or efficient. This allows for more compact or efficient engines. For example, superchargers increase the efficiency of all the cylinders they touch, but reduce the engine's maximum speed.\r\n\r\nPropellers are unique compared to other methods of propulsion. They need to be placed directly on the bearing they connect to, as well as connect to a modular engine. Propellers have a maximum speed and variable acceleration, which depends on the number of blades connected and the engine powering them. A larger propeller requires a larger engine to achieve good acceleration. Propellers can also change their spin direction to go upwards (from clockwise to counter-clockwise and vice versa). Counter-rotating propellers (where the bottom propeller spins clockwise and the top propeller spins counter-clockwise) are also possible. Please note that changing the propeller setting does not alter the bearing's spin direction. You still need to do that the old-fashioned way. In addition, propellers spinning faster than the maximum speed do NOT produce more thrust — the maximum speed exists for a reason!\r\n\r\nTested compatability:\r\n- Fant mod\r\n- Modded craft bot recipes\r\n- Anything that doesn't use the same UUIDs\r\n\r\nExample vehicles:\r\n\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702445936\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702446421\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702446635\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702446848\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702447120\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3703296089\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3703297167\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3704381254\r\n",
 		"fileId": 3704385833,
 		"localId": "c73f7f43-bbaa-415b-80cd-b7ede03a5894",
 		"name": "Modular Propulsion",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"04ff0181-2812-411f-b511-f3bfa7d14f5e": {
 		"allow_add_mods": true,
@@ -48722,7 +48722,7 @@
 	},
 	"e0984429-1af9-44da-9e19-b1f11283a4ac": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"dependencies": [
 			{
 				"fileId": 3412705644,
@@ -49073,7 +49073,7 @@
 	"77b26909-49c9-46a4-8fed-cf8156f81581": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[b]创造模式的生存[/b]，适合试验和研究各种生存机械，兼容 1.0 正式版。\r\n\r\n[b]支持语言：[/b]简体中文、英文、俄语\r\n[i]自用模组，可能不怎么维护。[/i]\r\n\r\n[h2]目前的功能[/h2]\r\n[list]\r\n[*] 无敌模式和创造模式背包等一系列功能，也就是把原版生存开发者模式的指令和原版创造模式的指令都做成了图形界面\r\n[*] 开关飞行模式\r\n[*] 尽量还原了创造模式千斤顶的用途\r\n[*] 一键完成任务（还比较实验性，可能会有一些小毛病）\r\n[*] 传送到其他玩家身边，也可以传送到指定地点，支持自定义传送点\r\n[*] 支持自定义和客制化角色和NPC（暂时还是较为基础的功能）\r\n[*] 以及一些更多的实用功能，都是为了“适合试验和研究各种生存机械”这个目标而服务的\r\n[/list]\r\n\r\n不支持解锁服装和成就（按道理来说应该是这样）。\r\n\r\n按[b]换弹键[/b]打开菜单（默认是 [b]R[/b] 键）。\r\n使用焊接工具时，按[b]交互键[/b]打开自定义角色菜单（默认是 [b]E[/b] 键）。",
+		"description": "[b]创造模式的生存[/b]，适合试验和研究各种生存机械，兼容 1.0 正式版\r\n\r\n[b]支持语言：[/b]简体中文、英文、俄语\r\n[i]自用模组，可能不怎么维护[/i]\r\n\r\n[h2]目前的功能[/h2]\r\n[list]\r\n[*] 无敌模式和创造模式背包等一系列功能，也就是把原版生存开发者模式的指令和原版创造模式的指令都做成了图形界面\r\n[*] 开关飞行模式\r\n[*] 尽量还原了创造模式千斤顶的用途\r\n[*] 一键完成任务（还比较实验性，可能会有一些小毛病）\r\n[*] 传送到其他玩家身边，也可以传送到指定地点，支持自定义传送点\r\n[*] 支持自定义和客制化角色和NPC（暂时还是较为基础的功能）\r\n[*] 以及一些更多的实用功能，都是为了“适合试验和研究各种生存机械”这个目标而服务的\r\n[/list]\r\n\r\n不支持解锁服装和成就（按道理来说应该是这样）\r\n支持加载其他模组的配方\r\n\r\n按[b]换弹键[/b]打开菜单（默认是 [b]R[/b] 键）\r\n使用焊接工具时，按[b]交互键[/b]打开自定义角色菜单（默认是 [b]E[/b] 键）",
 		"fileId": 3774231932,
 		"localId": "77b26909-49c9-46a4-8fed-cf8156f81581",
 		"name": "FreeBuild Survival",
@@ -50311,5 +50311,25 @@
 		"name": "Survival Improved+",
 		"type": "Custom Game",
 		"version": 0
+	},
+	"2ba5b8b1-551f-4fdc-a3d8-8d04efd2fd26": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "First : I am NOT the original creator of this mod.\\n\\n\\nThis mod is an improved version\\nThe Scrap Drive  => Wilohm\\nof an improved version                      => Made by Cloudiam & Questionnable Mark\\nof the mod \\\"Drive\\\".                             => Made by Woukie & ExpertSalad\\nThere are just a few improvements to make the game easier:\\n\\nInfinite respawns (hello casual players)\\n\\nDeveloper mode is enabled, you can use /unlimited /limited, which helps restart the game with your vehicles.\\n\\nThe Scrap Drive by \\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3263187579\\n\\nOriginal Mod - By Woukie & ExpertSalad:\\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3238463364\\nhttps://github.com/FoilFields/Drive\\n\\nFirst Modified Version - By Cloudiam & Questionable Mark:\\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3260534142\\n\\nTo harvest vegetables on vehicles, we use the mod \\\"Useful Utilities\\\" made by MasterKratos12:\\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3158847150\\n\\nThe buggy in the thumbnail is made by Spark\\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3262550851",
+		"fileId": 3547957177,
+		"localId": "2ba5b8b1-551f-4fdc-a3d8-8d04efd2fd26",
+		"name": "Long Drive Glyk's EASY Super Giper Ultra HD mod pre-pre-pre ALPHA version because i'm dump",
+		"type": "Custom Game",
+		"version": 0
+	},
+	"0306b386-908c-40dd-97a3-dbbc1833ac1c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3787893542,
+		"localId": "0306b386-908c-40dd-97a3-dbbc1833ac1c",
+		"name": "Old Blocks",
+		"type": "Blocks and Parts",
+		"version": 2
 	}
 }
