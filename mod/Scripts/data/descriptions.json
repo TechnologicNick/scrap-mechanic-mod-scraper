@@ -37985,7 +37985,7 @@
 		"localId": "7ac8cfb8-0d95-471a-9e34-04e7e854a16a",
 		"name": "Regrowing Trees",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"a8b08226-151a-44a0-868c-7d550390d228": {
 		"allow_add_mods": true,
@@ -41210,7 +41210,7 @@
 	"7a10d694-cc65-413b-a090-c2f69572d3c9": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "RU:Это мод на блоки и детали дополняющие ванильные элементы. Главная цель мода: Мод создан для моего проекта по боям в SM он добавляет детали которые не хватает в ваниле а так же делает данные детали на 9 прочностей для возможности реализации брони.Кто может использовать этот мод? Данный мод есть в открытом доступе и вы можете его использовать в обычных целях, НО ЗНАЙТЕ, мы обновляем мод от своей нужды в деталях, в случае если будут какие либо глобальные изменения которые могут существенно заменить детали или их удалить, и ваша постройка перестанет спавниться, мы рекомендуем быть на нашем Дискорд сервере чтобы мы могли вам помочь.Feedback:Если вам нужны правки деталей или добавление чего либо нового обращайтесь к нам в Discord!Discord server: https://discord.gg/T8VEJtEMtvEN:This mod introduces blocks and parts that complement vanilla elements. The main goal of the mod: It was created for my SM project to add parts missing in the vanilla game, as well as to give these parts 9 durability levels to make armor implementation possible.Who Can Use This Mod? This mod is publicly available, and you are free to use it for regular purposes. HOWEVER, PLEASE NOTE: we update the mod based on our own need for parts. In the event of global updates that drastically change or remove parts—which might prevent your creation from spawning—we highly recommend joining our Discord server so we can assist you.Feedback: If you need any part adjustments or want something new to be added, please contact us on Discord!",
+		"description": "RU:\r\nЭто мод на блоки и детали дополняющие ванильные элементы. Главная цель мода: Мод создан для моего проекта по боям в SM он добавляет детали которые не хватает в ваниле а так же делает данные детали на 9 прочностей для возможности реализации брони.\r\n\r\nКто может использовать этот мод?\r\n Данный мод есть в открытом доступе и вы можете его использовать в обычных целях, НО ЗНАЙТЕ, мы обновляем мод от своей нужды в деталях, в случае если будут какие либо глобальные изменения которые могут существенно заменить детали или их удалить, и ваша постройка перестанет спавниться, мы рекомендуем быть на нашем Дискорд сервере чтобы мы могли вам помочь.\r\n\r\nFeedback:\r\nЕсли вам нужны правки деталей или добавление чего либо нового обращайтесь к нам в Discord!\r\nDiscord server: https://discord.gg/T8VEJtEMtv\r\n\r\nEN:\r\n\r\nThis mod introduces blocks and parts that complement vanilla elements. The main goal of the mod: It was created for my SM project to add parts missing in the vanilla game, as well as to give these parts 9 durability levels to make armor implementation possible.\r\n\r\nWho Can Use This Mod?\r\n This mod is publicly available, and you are free to use it for regular purposes. HOWEVER, PLEASE NOTE: we update the mod based on our own need for parts. In the event of global updates that drastically change or remove parts—which might prevent your creation from spawning—we highly recommend joining our Discord server so we can assist you.\r\n\r\nFeedback:\r\n If you need any part adjustments or want something new to be added, please contact us on Discord!",
 		"fileId": 3306388787,
 		"localId": "7a10d694-cc65-413b-a090-c2f69572d3c9",
 		"name": "Modern War Parts +",
@@ -42433,13 +42433,13 @@
 	},
 	"1d304802-8d1d-40a8-9258-d641d5d02fc4": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "This mod makes totebots drop their heads as items instead of physical parts.\r\n\r\n[h1]Note: This mod will work for both [u]Survival games[/u] and [u]Survival Custom games[/u].[/h1]\r\n\r\n[h1]Installation: [/h1]\r\n     [h2][u]1. Survival Games: (Needs to be installed manually) [/u][/h2]\r\n     1. Subscribe to this mod\r\n     2. Navigate to [i]'SteamLibrary/steamapps/workshop/content/387990/3435256071'[/i]\r\n     3. Open the folder named [i]\"COPY THE CONTENT INSIDE THIS FOLDER\"[/i] and copy the contents inside it.\r\n     4. Navigate to your game's local files, [i]'SteamLibrary/steamapps/common/Scrap Mechanic'[/i] and paste the copied contents inside and make sure to replace the existing files.\r\n     5. Go to your Survival game and play!\r\n\r\n\r\n     [h2][u]2. Survival Custom Games: (Does not require manual installation)[/u][/h2]\r\n     Just go to your Survival Custom Game and enable the mod from the mod browser and play!\r\n\r\n[hr][/hr]\r\n\r\nTo use this mod, i recommend a survival custom game such as [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Modded Craftbot Recipes[/url]",
 		"fileId": 3435256071,
 		"localId": "1d304802-8d1d-40a8-9258-d641d5d02fc4",
 		"name": "Totebot Head Drops As Item",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"391084de-79ff-46fe-845c-cd8a4c734a13": {
 		"allow_add_mods": true,
@@ -48881,10 +48881,10 @@
 	"1b84268f-1a96-4ec9-9f8c-56f4d1824ef3": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h1] --- FUNKTIONIERT  MIT DEM NEUEM V1 UPDATE! --- [/h1]\r\n\r\n[B] 1022 originale deutsche Verkehrszeichengrafiken in Stadt- und Autobahngröße.[/B]\r\n\r\n[u]Version 1.5.0[/u] nutzt das im Spiel bestätigte V1.2-Mesh-, Icon- und Kollisionssystem.\r\n\r\n[url=https://vantanet.net]Mod erstellt von VantaNet[/url] - Inoffizielles Fanprojekt – keine Verbindung zu Behörden, SEVAS NRW, Axolot Games oder Valve.\r\n\r\nBei Anzeigefehlern, Beschwerden oder Änderungen, bitte im Steam Workshop melden.\r\n\r\nEnthält deutsche Verkehrszeichen in verschiedenen Größen für Scrap Mechanic.\r\n\r\nGrafikquelle: SEVAS NRW\r\nTechnische Umsetzung und 3D-Modelle: VantaNet",
+		"description": "[h1]--- FUNKTIONIERT MIT DEM NEUEN V1-UPDATE! ---[/h1]\r\n\r\n[b]1.022 originale deutsche Verkehrszeichen in Stadt- und Autobahngröße.[/b]\r\n\r\n[h2]V1.5.1[/h2]\r\n\r\n[list]\r\n[*]Die Platzierung der neuen Autobahnvarianten wurde korrigiert. Der bisherige Versatz um einen Block ist behoben.\r\n[*]Neu platzierte V1.5-Schilder verwenden weiterhin die vollständige Kollisionserkennung über die jeweilige Schildgröße.\r\n[*]Bereits verbaute Schilder verwenden weiterhin ihre Legacy-Teile und werden durch das Update nicht verschoben.\r\n[*]Doppelseitige Varianten bleiben aus dem Inventar entfernt; ihre alten IDs bleiben ausschließlich zur Kompatibilität bestehender Welten erhalten.\r\n[/list]\r\n\r\n[h2]Wichtig für bestehende Welten[/h2]\r\n\r\nBereits platzierte Schilder bleiben an ihrer bisherigen Position und behalten ihre bisherigen Teile.\r\n\r\nNeu platzierte Schilder aus dem Inventar verwenden die aktuellen V1.5-Teile mit vollständiger Kollisionserkennung.\r\n\r\n[h2]Technik & Quellen[/h2]\r\n\r\n[b]Version 1.5.1[/b] verwendet das im Spiel bestätigte V1.2-Mesh-, Icon- und Kollisionssystem.\r\n\r\n[url=https://vantanet.net]Mod erstellt von VantaNet[/url] – Inoffizielles Fanprojekt. Keine Verbindung zu Behörden, SEVAS NRW, Axolot Games oder Valve.\r\n\r\nBei Darstellungsfehlern, Beschwerden oder Änderungswünschen bitte im Steam Workshop melden.\r\n\r\n[b]Bildquelle:[/b] SEVAS NRW  \r\n[b]Technische Umsetzung und 3D-Modelle:[/b] VantaNet",
 		"fileId": 3772014497,
 		"localId": "1b84268f-1a96-4ec9-9f8c-56f4d1824ef3",
-		"name": "VantaNet Deutsche Verkehrsschilder V1.5.0",
+		"name": "Deutsche Verkehrsschilder V1.5.2",
 		"type": "Blocks and Parts",
 		"version": 2
 	},
@@ -50105,7 +50105,7 @@
 	},
 	"d0b98b9e-bcd9-4228-b360-3e9728998a6b": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "Shows a floating growth emblem above farmed crops - percentage while growing, DONE when ready to harvest. Enable the mod for your world and walk to your farm; no parts need to be placed.",
 		"fileId": 3785554443,
 		"localId": "d0b98b9e-bcd9-4228-b360-3e9728998a6b",
@@ -50224,7 +50224,7 @@
 	},
 	"e266e3a9-9450-43a9-a9bb-493c45059c00": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"description": "Adds the Recycler - a machine that breaks crafted items back down into their crafting ingredients. Drop items in, parts come out. Craft it at the Mechanic Station (5 metal + 2 circuit boards). Fully lossless: multi-quantity recipes recycle in full batches.",
 		"fileId": 3786718078,
 		"localId": "e266e3a9-9450-43a9-a9bb-493c45059c00",
@@ -50284,7 +50284,7 @@
 				"name": "ModDatabase"
 			}
 		],
-		"description": "[h1]Scrap Factory Survival[/h1]An accelerated, quality-of-life Custom Game mode designed for fast-paced building, crafting, and automation.[h2]IMPORTANT SETUP NOTICE[/h2][b]Required Dependency:[/b] You MUST subscribe to [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2504530003]ModDatabase[/url] for this mod to work.[b]DO NOT[/b] activate or select ModDatabase in your custom game mod list when creating or loading the world. This game mode accesses it automatically in the background.[h2]Core Features[/h2][list][*]Massive Inventory: 500 scrollable backpack slots.[*]Boosted Yields: 5x more resources when hand-refining and gathering.[*]High Loot Multipliers: 3x loot rolls and 5x item quantity drops.[*]Instant Harvesting: 50x harvest damage for 1-hit trees/rocks.[*]Accelerated Processing: 2x faster refinery animations and 5-second Craftbot times.[*]Increased Combat Power: 2x damage for Sledgehammer and Potato projectiles.[*]Warehouse Modding: Warehouse structures can be modified, lifted, and connected.[/list]",
+		"description": "[h1]Scrap Factory Survival[/h1]An accelerated, quality-of-life Custom Game mode designed for fast-paced building, crafting, and automation.[h2]Community[/h2]Join the Discord: [url=https://discord.gg/jZfCtEsTxx]https://discord.gg/jZfCtEsTxx[/url][h2]IMPORTANT SETUP NOTICE[/h2][b]Required Dependency:[/b] You MUST subscribe to [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2504530003]ModDatabase[/url] for this mod to work.[b]DO NOT[/b] activate or select ModDatabase in your custom game mod list when creating or loading the world. This game mode accesses it automatically in the background.[h2]Core Features[/h2][list][*]Massive Inventory: 500 scrollable backpack slots.[*]Boosted Yields: 5x more resources when hand-refining and gathering.[*]High Loot Multipliers: 3x loot rolls and 5x item quantity drops.[*]Instant Harvesting: 50x harvest damage for 1-hit trees/rocks.[*]Accelerated Processing: 2x faster refinery animations and 5-second Craftbot times.[*]Increased Combat Power: 2x damage for Sledgehammer and Potato projectiles.[*]Warehouse Modding: Warehouse structures can be modified, lifted, and connected.[/list][h2]Chat Commands[/h2][list][*]/fly : Toggle flight. Use /fly off to walk again.[*]/allrecipes : Reloads, synchronizes, and unlocks all custom mod recipes.[*]/unlimited : Toggles unlimited inventory. Use /unlimited off to restore Survival inventory.[*]/limited : Restores the standard limited Survival inventory.[*]/scrapgod : Activates test mode (flight, ultra speed, unlimited inventory).[*]/scrapnormal : Hard-resets test mode and restores standard Survival parameters.[/list]",
 		"fileId": 3787266187,
 		"localId": "c6890b9c-0f11-47b3-903a-2fbc87e2e552",
 		"name": "Scrap Factory Survival",
@@ -50295,7 +50295,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": [],
-		"description": "[h1]Scrap Factory Survival Plus[/h1]The hardcore variant of Scrap Factory Survival. Same factory pace, tighter survival pressure. This is a separate Custom Game and does not replace the original.[h2]Core Features[/h2][list][*]Hunger & Thirst: Food and water bars are back.[*]Compact Inventory: 100 backpack slots.[*]Vanilla Harvest & Refine: 20 blocks per harvest core, 2.8s hand refine.[*]2x Loot: Chests and bots drop 2x loot rolls and 2x item quantity.[*]Vanilla Combat: Standard Survival damage.[*]Warehouse Modding: Warehouse structures can be modified, lifted, and connected.[/list]",
+		"description": "[h1]Scrap Factory Survival Plus[/h1]The hardcore variant of Scrap Factory Survival. Same factory pace, tighter survival pressure. This is a separate Custom Game and does not replace the original.[h2]Community[/h2]Join the Discord: [url=https://discord.gg/jZfCtEsTxx]https://discord.gg/jZfCtEsTxx[/url][h2]Core Features[/h2][list][*]Hunger & Thirst: Food and water bars are back.[*]Compact Inventory: 100 backpack slots.[*]Vanilla Harvest & Refine: 20 blocks per harvest core, 2.8s hand refine.[*]2x Loot: Chests and bots drop 2x loot rolls and 2x item quantity.[*]Vanilla Combat: Standard Survival damage.[*]Warehouse Modding: Warehouse structures can be modified, lifted, and connected.[/list][h2]Chat Commands[/h2][list][*]/fly : Toggle flight. Use /fly off to walk again.[*]/allrecipes : Reloads, synchronizes, and unlocks all custom mod recipes.[*]/unlimited : Toggles unlimited inventory. Use /unlimited off to restore Survival inventory.[*]/limited : Restores the standard limited Survival inventory.[*]/scrapgod : Activates test mode (flight, ultra speed, unlimited inventory).[*]/scrapnormal : Hard-resets test mode and restores standard Survival parameters.[/list]",
 		"fileId": 3787266246,
 		"localId": "d29440d8-dcef-46a6-ab69-84c068ab9f81",
 		"name": "Scrap Factory Survival Plus",
@@ -50305,7 +50305,7 @@
 	"44eb93b6-9ae0-423e-b8f6-1dccb8951384": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "[h1][b]Customizable survival mode[/b][/h1]\r\n\r\nThe goal of the mod was to create a more relaxed start to the game and speed it up so that the progression rate was relatively consistent throughout. At the same time, I wanted to leave the ability to modify these values ​​during gameplay if I felt something was amiss.\r\n\r\nTo modify the values, simply run the \"Config.lua\" file in the \"Scripts\" folder using Notepad. I tried to use comments to make it easier to decide what does what.\r\n\r\n[h2][b]Note on the version warning[/b][/h2]\r\n\r\nScrap Mechanic may warn you that this mod was built with an older mod compiler. That is expected and safe to ignore. The current 1.0 mod compiler crashes when building custom games, so this is compiled with the previous version instead. The mod itself is written for Scrap Mechanic 1.0 and is played on it.\r\n[hr][/hr]\r\n[h2]What this mod add:[/h2]\r\n[list]\r\n[*][b]Customize inventory size -[/b] ability to change the size of the backpack (Vanilla = 40. Mod = 60).\r\n[*][b]Melee damage multipiler over vanilla -[/b] 1 mean vanilla value, 2 mean 2x more dmg.\r\n[*][b]Potato damage multipiler over vanilla -[/b] 1 mean vanilla value, 2 mean 2x more dmg.\r\n[*][b]Harvest damage multipiler -[/b] melee damage multipiler aganist trees, logs etc. 1 mean vanilla, 2 mean 2x more dmg.\r\n[*][b]Refine yield multipiler -[/b] hand refinery bonus. 1 mean vanilla amount, more mean random value between vanilla value and new value (exampe, 2 means random value between 10 (vanilla value) and 20 (modded value)).\r\n[*][b]Refinery bonus -[/b] added bonus for automatic refinery. Now its better to transport resources over hand refining (in this mod with standard options, hand refine is immediate) for more resources (1 is vanilla amount, 2 is 2x vanilla amount).\r\n[*][b]Gather multipiler -[/b] multipiler added for collect items from crops or oil geysers (1 mean vanilla value, 2 mean random value between vanilla value nad 2x vanilla value)\r\n[*][b]Loot roll multiplier and roll chances -[/b] this values changes chances for additional loot items (types, not quantities).\r\n[*][b]Loot quantity multipiler and chances -[/b] this values changes amounts of items in loot.\r\n[*][b]Seeds from crops chances -[/b] this change chances for seeds (amounts) while collecting crops.\r\n[*][b]Change craft time -[/b] if you wanna, you can change craft time for all items to the specified value.\r\n[*][b]Refinery anim time -[/b] determine how fast is animation (so is production) in seconds\r\n[/list]\r\n[h3][b]Development plans[/b][/h3]\r\n\r\nIn future versions, I would like to add more options for exchanging crops in the hideout to make farming more sensible than growing 60 of each plant to complete the deposit and goodbye.\r\n\r\nI am also working on introducing additional recipes, such as components kits or giving the option to use excess seeds and process them into fertilizers (but I am working on balancing this).\r\n\r\nI am also thinking about modifying the size of the chests (number of slots) and the size of the stacks.\r\n\r\nI do not intend to modify the gameplay plot or map generation.",
 		"fileId": 3787501722,
 		"localId": "44eb93b6-9ae0-423e-b8f6-1dccb8951384",
 		"name": "Survival Improved+",
@@ -50329,6 +50329,63 @@
 		"fileId": 3787893542,
 		"localId": "0306b386-908c-40dd-97a3-dbbc1833ac1c",
 		"name": "Old Blocks",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"203dfb9f-8346-42da-ae4b-131e014a5651": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 3787996056,
+		"localId": "203dfb9f-8346-42da-ae4b-131e014a5651",
+		"name": "Combat Spanner",
+		"type": "Blocks and Parts",
+		"version": 1
+	},
+	"e3a98aa5-a57d-4c86-800d-19b1f410e8c3": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
+				"name": "ModDatabase"
+			}
+		],
+		"description": "Portable, upgradeable potato storage for Survival-compatible Custom Games. Carry up to 1000 potatoes in one inventory slot and automatically refill loose ammo when it runs out.",
+		"localId": "e3a98aa5-a57d-4c86-800d-19b1f410e8c3",
+		"name": "Spud Tin",
+		"type": "Blocks and Parts",
+		"version": 2,
+		"fileId": 3788148021
+	},
+	"2f6e2e60-7447-4d67-9cf1-ba8e02fba3a1": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3788269909,
+		"localId": "2f6e2e60-7447-4d67-9cf1-ba8e02fba3a1",
+		"name": "Mini Turret",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"f1662efe-9e99-4feb-b929-421acb176147": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3788329182,
+		"localId": "f1662efe-9e99-4feb-b929-421acb176147",
+		"name": "Tablice Relacyjne",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"77167c00-9e45-4b78-a38e-86d0ee04a988": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Adds the Blueprint - a handheld planner. Hold it and right-click to open the parts list: set an amount, click items to track them (up to 4), and a HUD checklist shows every part you still need, filling in live as you gather materials. Search bar, mouse-wheel scrolling, and tabs for base-game and installed mod items included. Craft the Blueprint at the Craftbot (2 circuit boards). Some say a well-worn Blueprint hides more than plans...",
+		"fileId": 3788337776,
+		"localId": "77167c00-9e45-4b78-a38e-86d0ee04a988",
+		"name": "Reaperz Blueprint HUD",
 		"type": "Blocks and Parts",
 		"version": 2
 	}

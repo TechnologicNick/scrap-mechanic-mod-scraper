@@ -8155,5 +8155,22 @@
 			"3ef5412a-7044-45ae-9592-9ce86bd99081"
 		]
 	},
-	"0306b386-908c-40dd-97a3-dbbc1833ac1c": {}
+	"0306b386-908c-40dd-97a3-dbbc1833ac1c": {},
+	"203dfb9f-8346-42da-ae4b-131e014a5651": {
+		"$CONTENT_203dfb9f-8346-42da-ae4b-131e014a5651/Tools/Database/ToolSets/cs.toolset": [
+			"42a17396-5826-44cd-a541-4b0c101c8bc6"
+		]
+	},
+	"e3a98aa5-a57d-4c86-800d-19b1f410e8c3": {
+		"$CONTENT_e3a98aa5-a57d-4c86-800d-19b1f410e8c3/Tools/Database/ToolSets/spudtin_runtime.toolset": [
+			"e6e42227-f046-402f-a464-d6aaa6b25d4c"
+		]
+	},
+	"2f6e2e60-7447-4d67-9cf1-ba8e02fba3a1": {},
+	"f1662efe-9e99-4feb-b929-421acb176147": {},
+	"77167c00-9e45-4b78-a38e-86d0ee04a988": {
+		"$CONTENT_77167c00-9e45-4b78-a38e-86d0ee04a988/Tools/Database/ToolSets/blueprint.toolset": [
+			"9116e49e-a6c5-413b-8a28-70bee04b94c9"
+		]
+	}
 }
