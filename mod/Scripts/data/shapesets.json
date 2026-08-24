@@ -147845,7 +147845,7 @@
 		]
 	},
 	"e086d8e2-0c64-4a99-a973-4ac9deb29db4": {
-		"$CONTENT_e086d8e2-0c64-4a99-a973-4ac9deb29db4/Objects/Database/ShapeSets/breeches.jsonc": [
+		"$CONTENT_e086d8e2-0c64-4a99-a973-4ac9deb29db4/Objects/Database/ShapeSets/breeches.json": [
 			"bb19cdbf-865e-401c-9c5e-f111bad25839",
 			"bb19cdbf-865e-401c-9c5e-f111bad25842",
 			"bb19cdbf-865e-401c-9c5e-f111bad25843",
@@ -147861,33 +147861,7 @@
 			"1cb8fd1e-ed24-4eab-98e4-e4cca2d99b5b",
 			"886bbfe6-129a-463b-9bba-cc8b4af0206a"
 		],
-		"$CONTENT_e086d8e2-0c64-4a99-a973-4ac9deb29db4/Objects/Database/ShapeSets/shells.jsonc": [
-			"ec19cdbf-865e-401c-9c5e-f111bad25840",
-			"ec19cdbf-865e-401c-9c5e-f111bad25841",
-			"c6c071b9-eb8b-4fea-af79-27781272aebb",
-			"ec18cdbf-865e-122c-9c5e-f111bad25840",
-			"ec18cdbf-865e-122c-9c5e-f111bad25841",
-			"ec18cdbf-865e-122c-5c2e-f111bad25842",
-			"ec18cdbf-865e-122c-9c5e-f111bad25842",
-			"58f3b1cd-187d-4d61-bcaf-a69a53d1e57b",
-			"58f3b1cd-187d-4d61-bcaf-a69a53d1e57c",
-			"87d27add-3284-4005-8648-f84f404350ca",
-			"9a261482-b89a-490d-9ac9-fb827b54d47a",
-			"a01b60fd-7d77-4c20-a1d3-d19cce0a5216",
-			"6ac63e27-89a2-4259-b102-3cf3324711da",
-			"31660af8-ec14-4c3b-8590-559315937018",
-			"bb01be63-7a2c-4671-a434-d06f8c231bd1",
-			"ad36f078-7d06-47a7-b7ea-5c9bfa61a8f2",
-			"f0bb7ce9-f6c8-4182-8fa6-a04602a06bc8",
-			"c7201b58-5d86-4be9-b83a-6757d8b3d0a6",
-			"a067f00c-ec16-421b-bbcc-82df6f01c448",
-			"e20f23e8-c4aa-4bdd-a5ce-388aba69e9ba",
-			"ff7b4634-237b-4e68-8c54-ae61bc5f9bb9",
-			"35ca2783-6a02-440c-8633-a84e7f9c8067",
-			"9416f557-f12c-4a3c-8a83-6615feedbf94",
-			"e53a9f68-64e1-432f-904b-dfa8fed440f1"
-		],
-		"$CONTENT_e086d8e2-0c64-4a99-a973-4ac9deb29db4/Objects/Database/ShapeSets/bullets.jsonc": [
+		"$CONTENT_e086d8e2-0c64-4a99-a973-4ac9deb29db4/Objects/Database/ShapeSets/bullets.json": [
 			"ec19cdbf-865e-401c-9c5e-f122bed25800",
 			"ec19cdbf-865e-401c-9c5e-f122bed25801",
 			"c6c071b9-eb8b-4fea-af79-27781272aabb",
@@ -147919,7 +147893,7 @@
 			"55bdb3fc-e70b-4861-89b1-a217a38e8434",
 			"875d6145-d3cd-48a1-a7db-29255850c869"
 		],
-		"$CONTENT_e086d8e2-0c64-4a99-a973-4ac9deb29db4/Objects/Database/ShapeSets/cartridges.jsonc": [
+		"$CONTENT_e086d8e2-0c64-4a99-a973-4ac9deb29db4/Objects/Database/ShapeSets/cartridges.json": [
 			"cc19cdbf-865e-401c-9c5e-f111ccc25800",
 			"cc19cdbf-865e-122c-9c5e-f111ccc25800",
 			"cc19cdbf-865e-401c-9c5e-f111ccc25801",
@@ -147936,7 +147910,7 @@
 			"d4122545-0fb9-4fdc-a8ed-34d004fdbfe7",
 			"1fcd0f8c-3653-4e3a-a7e3-3a2cff68f77a"
 		],
-		"$CONTENT_e086d8e2-0c64-4a99-a973-4ac9deb29db4/Objects/Database/ShapeSets/other.jsonc": [
+		"$CONTENT_e086d8e2-0c64-4a99-a973-4ac9deb29db4/Objects/Database/ShapeSets/other.json": [
 			"55a069ad-4512-421d-b46b-7d14fb7f3b00",
 			"55a069ad-4512-421d-b46b-7d14fb7f3b01",
 			"66a069ab-4512-421d-b46b-7d14fb7f3b22",
@@ -147966,6 +147940,32 @@
 			"38820aa9-2fbe-4bda-a42a-f641d3f16baf",
 			"a3bc451a-2836-4591-bfe1-b464dc25380d",
 			"3a019362-d50c-4ffe-a92d-3ee5030dc4fd"
+		],
+		"$CONTENT_e086d8e2-0c64-4a99-a973-4ac9deb29db4/Objects/Database/ShapeSets/shells.json": [
+			"ec19cdbf-865e-401c-9c5e-f111bad25840",
+			"ec19cdbf-865e-401c-9c5e-f111bad25841",
+			"c6c071b9-eb8b-4fea-af79-27781272aebb",
+			"ec18cdbf-865e-122c-9c5e-f111bad25840",
+			"ec18cdbf-865e-122c-9c5e-f111bad25841",
+			"ec18cdbf-865e-122c-5c2e-f111bad25842",
+			"ec18cdbf-865e-122c-9c5e-f111bad25842",
+			"58f3b1cd-187d-4d61-bcaf-a69a53d1e57b",
+			"58f3b1cd-187d-4d61-bcaf-a69a53d1e57c",
+			"87d27add-3284-4005-8648-f84f404350ca",
+			"9a261482-b89a-490d-9ac9-fb827b54d47a",
+			"a01b60fd-7d77-4c20-a1d3-d19cce0a5216",
+			"6ac63e27-89a2-4259-b102-3cf3324711da",
+			"31660af8-ec14-4c3b-8590-559315937018",
+			"bb01be63-7a2c-4671-a434-d06f8c231bd1",
+			"ad36f078-7d06-47a7-b7ea-5c9bfa61a8f2",
+			"f0bb7ce9-f6c8-4182-8fa6-a04602a06bc8",
+			"c7201b58-5d86-4be9-b83a-6757d8b3d0a6",
+			"a067f00c-ec16-421b-bbcc-82df6f01c448",
+			"e20f23e8-c4aa-4bdd-a5ce-388aba69e9ba",
+			"ff7b4634-237b-4e68-8c54-ae61bc5f9bb9",
+			"35ca2783-6a02-440c-8633-a84e7f9c8067",
+			"9416f557-f12c-4a3c-8a83-6615feedbf94",
+			"e53a9f68-64e1-432f-904b-dfa8fed440f1"
 		]
 	},
 	"da4a6dc0-b21d-495c-a18a-f99e2d4ddb87": {
@@ -148260,6 +148260,7 @@
 			"4b9f0a0e-a0e7-4e8c-bc71-f7232ab320f6",
 			"60369a47-c0e9-4018-85a3-3a278440eb92",
 			"d8db66b6-8aaa-4891-87e8-4c56857b5396",
+			"c85ddafd-cddc-4f3c-91b4-7495407642c3",
 			"f7c2598a-bb60-4fd7-a2f2-b76b88e756e1",
 			"a1dff4f0-1ac8-40dc-b832-3dc3260cdc69",
 			"005ab5d9-f557-4136-80ea-390fedc9b257",
@@ -173736,7 +173737,11 @@
 			"6943461b-8ca0-4923-90f9-5949a53dff99"
 		]
 	},
-	"203dfb9f-8346-42da-ae4b-131e014a5651": {},
+	"203dfb9f-8346-42da-ae4b-131e014a5651": {
+		"$CONTENT_203dfb9f-8346-42da-ae4b-131e014a5651/Objects/Database/ShapeSets/cs.shapeset": [
+			"6fc77cbc-2bc1-429f-8cfe-d1d1fba74d31"
+		]
+	},
 	"e3a98aa5-a57d-4c86-800d-19b1f410e8c3": {
 		"$CONTENT_e3a98aa5-a57d-4c86-800d-19b1f410e8c3/Objects/Database/ShapeSets/spudtin.shapeset": [
 			"7b11bb08-9eed-4633-a120-70db0f0d39dd",
@@ -173804,6 +173809,23 @@
 	"1f1c7ce6-463d-445a-9dd9-d53ff5b7eaea": {
 		"$CONTENT_1f1c7ce6-463d-445a-9dd9-d53ff5b7eaea/Objects/Database/ShapeSets/gps.shapeset": [
 			"fce3dfa7-d17e-41cd-9a67-e361558dc207"
+		]
+	},
+	"72d10786-7ad1-4ecd-960d-31918094e87f": {
+		"$CONTENT_72d10786-7ad1-4ecd-960d-31918094e87f/Objects/Database/ShapeSets/logic.shapeset": [
+			"7fe4b2ad-74bd-4e70-a721-e688408698eb",
+			"0133837f-4713-4040-aeed-bd2d4ca3a365",
+			"870ba537-62b8-4ad1-b6b5-504a03a2b717"
+		]
+	},
+	"3e7b66c1-4062-48d2-b4df-299c2af6f7de": {
+		"$CONTENT_3e7b66c1-4062-48d2-b4df-299c2af6f7de/Objects/Database/ShapeSets/example.shapeset": [
+			"5cb15c93-4fa9-48da-9974-2e95ca6c9e1c"
+		]
+	},
+	"09cef29e-bc82-4ee2-bfc3-ab59de3d8942": {
+		"$CONTENT_09cef29e-bc82-4ee2-bfc3-ab59de3d8942/Objects/Database/ShapeSets/XXLWaterContainer.shapeset": [
+			"16d9cc10-6f87-48ff-8c6e-db8c5ffc6038"
 		]
 	}
 }

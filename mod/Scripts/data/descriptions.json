@@ -46580,7 +46580,7 @@
 		"localId": "e086d8e2-0c64-4a99-a973-4ac9deb29db4",
 		"name": "ФИКС ХАРАКТЕРИСТИК Tank Parts",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"da4a6dc0-b21d-495c-a18a-f99e2d4ddb87": {
 		"allow_add_mods": true,
@@ -46726,7 +46726,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "laod",
+		"description": "load",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -48730,9 +48730,9 @@
 				"name": "[Shturman_PARTS]"
 			},
 			{
-				"fileId": 3745632742,
-				"localId": "72575fa6-36d7-40d3-a5ec-98b3927cf27c",
-				"name": "[Shturman_PVP_LOOT]"
+				"fileId": 3789042533,
+				"localId": "7a10d694-cc65-413b-a090-c2f69572d3c9",
+				"name": "[Shturman_PVP_UTIL]"
 			},
 			{
 				"fileId": 3761359084,
@@ -48841,7 +48841,7 @@
 	"e8b1c589-8fe4-4f05-8923-6870e2b854a4": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "v1.0.24 - This is a personal mod that allows to regrow trees and rock, fixes issues with vacuum and also allows vacuum and refinery to work when not in render range getting water and oil. \nAlso fixes the issue with the Drill and SawBlade when they get laggy. Provided AS IS.\n\nParts included:\n- Fishing rod: You can fish in water and get surprised.\n- Vacuum Pipes: 3, 4, 5 and 6 ways pies.\n- Seat Logic: Allows to convert inputs to logic ones.\n- Flip-flop Logic: Reduce all the logic needed for one button activate/deactivate.\n- Electric Generator: Generates electricity from gas.\n- Tractor Beam: Pulls locked targets to the creation keeping them up to 8 blocks away.\n- Gyroscope: Provides torque to stabilize creations (for flying creations, but i guess can be used to steer a car too).\n- Stabilizer: Antigravity and linear damping impulse to stabilize creations (for flying creations).\n- Helicopter Propeller: Provides lift to flying creations allowing to change the blade's tilt.\n- Impulse Thruster: Applies impulse to the whole creation at its center of mass.\n- Parking Pad: Pad to park creations preventing lag.\n- Rail tracks: Allows to create rail tracks with curves.",
+		"description": "v1.0.25 - This is a personal mod that allows to regrow trees and rock, fixes issues with vacuum and also allows vacuum and refinery to work when not in render range getting water and oil. \nAlso fixes the issue with the Drill and SawBlade when they get laggy. Provided AS IS.\n\nParts included:\n- Fishing rod: You can fish in water and get surprised.\n- Vacuum Pipes: 3, 4, 5 and 6 ways pies.\n- Seat Logic: Allows to convert inputs to logic ones.\n- Flip-flop Logic: Reduce all the logic needed for one button activate/deactivate.\n- Electric Generator: Generates electricity from gas.\n- Tractor Beam: Pulls locked targets to the creation keeping them up to 8 blocks away.\n- Gyroscope: Provides torque to stabilize creations (for flying creations, but i guess can be used to steer a car too).\n- Stabilizer: Antigravity and linear damping impulse to stabilize creations (for flying creations).\n- Helicopter Propeller: Provides lift to flying creations allowing to change the blade's tilt.\n- Impulse Thruster: Applies impulse to the whole creation at its center of mass.\n- Parking Pad: Pad to park creations preventing lag.\n- Rail tracks: Allows to create rail tracks with curves.",
 		"fileId": 2970690456,
 		"localId": "e8b1c589-8fe4-4f05-8923-6870e2b854a4",
 		"name": "LTs Mod",
@@ -49250,7 +49250,7 @@
 	"258861e0-55db-4f09-8d1c-f4ea3081848c": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Shows the game's blue research icon next to your crosshair when you look at a part you have not researched yet, so you know before you pick it up. Type /tnuc for research progress.",
+		"description": "Adds a research indicator and a compact contextual carried-ammo HUD to normal Survival. Ammo appears beside the hotbar only when relevant; Cornades and Glowsticks remain visible while carried. Type /tnuc for status and controls.",
 		"fileId": 3775733862,
 		"localId": "258861e0-55db-4f09-8d1c-f4ea3081848c",
 		"name": "TnUC-Vision-Lite",
@@ -50335,7 +50335,7 @@
 	"203dfb9f-8346-42da-ae4b-131e014a5651": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "A Weapon with different stats.\r\n\r\nHave fun with it.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "A Weapon with different stats.\r\n\r\nHave fun with it.\r\n\r\n[h1] MORE INFO  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]Subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the content of this mod anywhere else.\r\n[h1]Modding guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 3787996056,
 		"localId": "203dfb9f-8346-42da-ae4b-131e014a5651",
 		"name": "Combat Spanner",
@@ -50406,6 +50406,36 @@
 		"fileId": 3788406022,
 		"localId": "1f1c7ce6-463d-445a-9dd9-d53ff5b7eaea",
 		"name": "GPS",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"72d10786-7ad1-4ecd-960d-31918094e87f": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 3785939530,
+		"localId": "72d10786-7ad1-4ecd-960d-31918094e87f",
+		"name": "Micro-Logic Mod",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"3e7b66c1-4062-48d2-b4df-299c2af6f7de": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Refinebot now transfers items first to containers and only then to the internal buffer",
+		"fileId": 3788697194,
+		"localId": "3e7b66c1-4062-48d2-b4df-299c2af6f7de",
+		"name": "Refinebot fix",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"09cef29e-bc82-4ee2-bfc3-ab59de3d8942": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1]XXL Water Container[/h1]\r\nTired of needing a dozen of Water Canisters? This Mod adds a bigger water container that holds 8x the water of the vanilla one.\r\n\r\n[hr][/hr]\r\n[h2]Details[/h2]\r\n[list]\r\n[*] Same connection type as the vanilla ammo container\r\n[*] Same water filter\r\n[*] 8x the Storage of the Normal Water container\r\n[*] 1.0 (Drilling Thunder) compatible\r\n[/list]",
+		"fileId": 3788758316,
+		"localId": "09cef29e-bc82-4ee2-bfc3-ab59de3d8942",
+		"name": "XXL Water Container",
 		"type": "Blocks and Parts",
 		"version": 2
 	}

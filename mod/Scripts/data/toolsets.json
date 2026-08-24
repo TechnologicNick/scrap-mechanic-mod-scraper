@@ -8182,5 +8182,12 @@
 			"2d6910e3-959d-4f63-b5a4-92511e0309c3",
 			"47ca043a-9072-4314-94b8-dddc1c4ab350"
 		]
-	}
+	},
+	"72d10786-7ad1-4ecd-960d-31918094e87f": {
+		"$CONTENT_72d10786-7ad1-4ecd-960d-31918094e87f/Tools/Database/ToolSets/Tools.toolset": [
+			"5560403f-bb7c-4278-923b-50f5d7cb1880"
+		]
+	},
+	"3e7b66c1-4062-48d2-b4df-299c2af6f7de": {},
+	"09cef29e-bc82-4ee2-bfc3-ab59de3d8942": {}
 }
