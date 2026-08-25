@@ -31735,7 +31735,7 @@
 		"localId": "ce945d06-0174-4834-8471-f2161cb39a95",
 		"name": "Forcefield Generator",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"b127f6fc-67ca-4771-916d-89d7e3b37b77": {
 		"allow_add_mods": true,
@@ -36794,7 +36794,7 @@
 		"localId": "55f31406-c587-4a13-a070-d99123e2a376",
 		"name": "Vanilla pipes extension + warehouse key block",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"ad2623fe-dfaa-404c-a535-ce2e6bd6936d": {
 		"allow_add_mods": true,
@@ -39270,7 +39270,7 @@
 	"5e308f63-63d3-46b6-adf2-f8ebfc976f4d": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Discord: https://discord.gg/9NwK65xe2G\r\n\r\n[h1]Fast Logic [/h1]\r\nWith great optimization, comes great speed. Fast logic provides significant acceleration compared to vanilla logic gates and makes the use of logic for practical purposes much more viable.\r\n[list]\r\n[*][b]Fast Logic Gate[/b]\r\nBehaves just like a vanilla logic gate, until you hover over it and press U. This will significantly increase the speed at which your logic runs. On top of this, fast logic gates allow you to change the color of their connection dot with the help of the multitool.\r\n[*][b]Single Tick Step Button[/b]\r\nThis button can be used to stop the simulation of Fast Logic. When pressing it the first time the simulation speed will be set to 0. Every time you press it after that it will step the simulation one tick. This is useful when debugging a creation because you can see exactly what happens on every tick.\r\n[*][b]End Tick Button[/b]\r\nThis block is used to end the current simulation tick. By powering it by with a logic input it makes the creation only run one more simulation tick till the next game tick. This can be used to automatically synchronize displays to the tickspeed of the game.\r\n[/list]\r\n\r\n[h1]Silicon[/h1]\r\nLogic gates cause lag due to their existence, the calculation of physics, and the updating of logic states. The solution to this is to consolidate cuboids of logic into \"silicon\" blocks, which internally store all the data that the logic gates inside would have had and behave exactly the same. These silicon blocks are much better for game performance. A side effect of consolidating blocks together is that we can perform data compression on the logic blocks stored inside the silicon blocks, leading to significantly smaller file sizes. This means you can save much larger logic creations on your lift without needing to worry about spawning them.\r\n\r\n[h1]Multitool[/h1]\r\nThe multitool is a new tool that allows players to easily manipulate logic efficiently. It has functions that work with the rest of the mod such as converting to fast logic or silicon and colorizing the fast logic connection dots. It also has functions that let you quickly and effortlessly manufacture logic by creating large amounts of connections quickly. Many tools allow you to shorten the time it takes to create logic from hours to minutes. On top of that, many helper tools are present that allow you to debug your logic quickly.\r\n\r\n[h3]Here are just a few of the tools this mod adds[/h3]\r\n\r\n[h2]Connection Shower[/h2]\r\nAllows you to see the inputs and outputs of any gate (Even inside of a silicon block). This is great when you have a mess of wires.\r\n[img]https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFsODRtMDIxMmNwcnB5aTdsYWVtcGZjdjBtMGV5cHBvcDJ3YndwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Txbf3zPT7py96SI8os/giphy.gif[/img]\r\n\r\n[h2]Parallel Connect[/h2]\r\nConnects rows of gates in parallel very quickly. Great for wiring up complex circuits.\r\n[img]https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZ4NnZsNnF0emZnaDA3d3dsbXA4ZXUwc3J6dDRkNmEycnIwb3Q3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nm4MDReXKguzcfhPc7/giphy.gif[/img]\r\n\r\n[h2]Tensor Connect[/h2]\r\nParallel connect's big brother. Makes orders of magnitude more connections than parallel connect efficiently.\r\n[img]https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenY0emY4d3d1MG95Z3B1eDQwb2NoeXZxMGw1djd6YXI3ZGFmbnRoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A0CuwesGXJfCwTvoEt/giphy.gif[/img]\r\n\r\n[h2]Volume Placer[/h2]\r\nHave you ever needed [b]a lot[/b] of logic gates in a cube? This is the tool for you!\r\n[img]https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJlMXE4bXl0NXNyemp4ZGM4ZGFoc2lzazZqMTNnc3IwaXVweXA3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NEm5yO91VaoXUi0qA/giphy.gif[/img]\r\n\r\n[h2]One Tick Hammer[/h2]\r\nYou can hit a fast logic gate with a hammer to pulse it for one tick.\r\n[img]https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR1NmY1MnVja3Zsbm94MnJ3OGVndjZvYjVibTUwbG1vZzVqbDAzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JuiP8UJhrinbzLtztC/giphy.gif[/img]\r\n\r\n[h2]Colored Connection Dots[/h2]\r\nYou can change the connection dot color of fast logic gates to allow for better clarity within your circuits.\r\n[img]https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhqemVjb3hqdGxiZXB2dXVseXZtMWxib2t4cDI1ZHdwMTZibHFzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2QWxev1dP3207uun4p/giphy.gif[/img]\r\n\r\nScrapComputers integration example: https://steamcommunity.com/sharedfiles/filedetails/?id=3475355478\r\nSComputers integration example: https://steamcommunity.com/sharedfiles/filedetails/?id=3474640436\r\n\r\nInitial Russian translation provided by Gegs and Anegelar.",
+		"description": "(Updated for Scrap Mechanic 1.0!)\r\n\r\nDiscord: https://discord.gg/9NwK65xe2G\r\n\r\n[h1]Fast Logic [/h1]\r\nWith great optimization, comes great speed. Fast logic provides significant acceleration compared to vanilla logic gates and makes the use of logic for practical purposes much more viable.\r\n[list]\r\n[*][b]Fast Logic Gate[/b]\r\nBehaves just like a vanilla logic gate, until you hover over it and press U. This will significantly increase the speed at which your logic runs. On top of this, fast logic gates allow you to change the color of their connection dot with the help of the multitool.\r\n[*][b]Single Tick Step Button[/b]\r\nThis button can be used to stop the simulation of Fast Logic. When pressing it the first time the simulation speed will be set to 0. Every time you press it after that it will step the simulation one tick. This is useful when debugging a creation because you can see exactly what happens on every tick.\r\n[*][b]End Tick Button[/b]\r\nThis block is used to end the current simulation tick. By powering it by with a logic input it makes the creation only run one more simulation tick till the next game tick. This can be used to automatically synchronize displays to the tickspeed of the game.\r\n[/list]\r\n\r\n[h1]Silicon[/h1]\r\nLogic gates cause lag due to their existence, the calculation of physics, and the updating of logic states. The solution to this is to consolidate cuboids of logic into \"silicon\" blocks, which internally store all the data that the logic gates inside would have had and behave exactly the same. These silicon blocks are much better for game performance. A side effect of consolidating blocks together is that we can perform data compression on the logic blocks stored inside the silicon blocks, leading to significantly smaller file sizes. This means you can save much larger logic creations on your lift without needing to worry about spawning them.\r\n\r\n[h1]Multitool[/h1]\r\nThe multitool is a new tool that allows players to easily manipulate logic efficiently. It has functions that work with the rest of the mod such as converting to fast logic or silicon and colorizing the fast logic connection dots. It also has functions that let you quickly and effortlessly manufacture logic by creating large amounts of connections quickly. Many tools allow you to shorten the time it takes to create logic from hours to minutes. On top of that, many helper tools are present that allow you to debug your logic quickly.\r\n\r\n[h3]Here are just a few of the tools this mod adds[/h3]\r\n\r\n[h2]Connection Shower[/h2]\r\nAllows you to see the inputs and outputs of any gate (Even inside of a silicon block). This is great when you have a mess of wires.\r\n[img]https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFsODRtMDIxMmNwcnB5aTdsYWVtcGZjdjBtMGV5cHBvcDJ3YndwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Txbf3zPT7py96SI8os/giphy.gif[/img]\r\n\r\n[h2]Parallel Connect[/h2]\r\nConnects rows of gates in parallel very quickly. Great for wiring up complex circuits.\r\n[img]https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZ4NnZsNnF0emZnaDA3d3dsbXA4ZXUwc3J6dDRkNmEycnIwb3Q3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nm4MDReXKguzcfhPc7/giphy.gif[/img]\r\n\r\n[h2]Tensor Connect[/h2]\r\nParallel connect's big brother. Makes orders of magnitude more connections than parallel connect efficiently.\r\n[img]https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenY0emY4d3d1MG95Z3B1eDQwb2NoeXZxMGw1djd6YXI3ZGFmbnRoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A0CuwesGXJfCwTvoEt/giphy.gif[/img]\r\n\r\n[h2]Volume Placer[/h2]\r\nHave you ever needed [b]a lot[/b] of logic gates in a cube? This is the tool for you!\r\n[img]https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJlMXE4bXl0NXNyemp4ZGM4ZGFoc2lzazZqMTNnc3IwaXVweXA3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NEm5yO91VaoXUi0qA/giphy.gif[/img]\r\n\r\n[h2]One Tick Hammer[/h2]\r\nYou can hit a fast logic gate with a hammer to pulse it for one tick.\r\n[img]https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR1NmY1MnVja3Zsbm94MnJ3OGVndjZvYjVibTUwbG1vZzVqbDAzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JuiP8UJhrinbzLtztC/giphy.gif[/img]\r\n\r\n[h2]Colored Connection Dots[/h2]\r\nYou can change the connection dot color of fast logic gates to allow for better clarity within your circuits.\r\n[img]https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhqemVjb3hqdGxiZXB2dXVseXZtMWxib2t4cDI1ZHdwMTZibHFzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2QWxev1dP3207uun4p/giphy.gif[/img]\r\n\r\nScrapComputers integration example: https://steamcommunity.com/sharedfiles/filedetails/?id=3475355478\r\nSComputers integration example: https://steamcommunity.com/sharedfiles/filedetails/?id=3474640436\r\n\r\nInitial Russian translation provided by Gegs and Anegelar.",
 		"fileId": 3100500975,
 		"localId": "5e308f63-63d3-46b6-adf2-f8ebfc976f4d",
 		"name": "MT Fast Logic",
@@ -44419,14 +44419,14 @@
 	},
 	"eaaba16d-5da4-4091-9591-4323b7720ec2": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"dependencies": null,
-		"description": "This mod is my NEW official mod for Train Parts!",
+		"description": "This mod is my NEW official mod for Train Parts!\r\n\r\nATTENTION: This mod requires 'PKP Train Parts And Infrastructure' by Kat Voxel to function correctly.\r\n\r\nSpecial thanks to:\r\n\r\n- Kat_Voxel\r\n- kubeczek2604 (Ziom)\r\n\r\nfor helping me with this mod!",
 		"fileId": 3542241591,
 		"localId": "eaaba16d-5da4-4091-9591-4323b7720ec2",
-		"name": "Train Parts by Trembusek",
+		"name": "Trembusek Railway Infrastructure Parts",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"7825945e-df3e-433f-9a83-a41862d2de9e": {
 		"allow_add_mods": true,
@@ -46726,7 +46726,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "loads",
+		"description": "load",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -48722,13 +48722,8 @@
 	},
 	"e0984429-1af9-44da-9e19-b1f11283a4ac": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"dependencies": [
-			{
-				"fileId": 3412705644,
-				"localId": "962afb13-362f-4b24-8f35-99dfdb10a7b0",
-				"name": "[Shturman_PARTS]"
-			},
 			{
 				"fileId": 3789042533,
 				"localId": "7a10d694-cc65-413b-a090-c2f69572d3c9",
@@ -48738,6 +48733,11 @@
 				"fileId": 3761359084,
 				"localId": "21ebef41-96a1-49b0-95cd-a33fc162fa5b",
 				"name": "[Shturman_USER_DATABASE]"
+			},
+			{
+				"fileId": 3745632742,
+				"localId": "72575fa6-36d7-40d3-a5ec-98b3927cf27c",
+				"name": "[Shturman_PVP_LOOT]"
 			}
 		],
 		"description": "[hr][/hr][h1]МОД УСПЕШНО РАБОТАЕТ НА ВСЕХ ВЕРСИЯХ ИГРЫ![/h1][hr][/hr]\r\n\r\n\r\n[hr][/hr][h1]/PVP - МЕНЮ УПРАВЛЕНИЯ, ТАМ ЕСТЬ ВСЁ![/h1][hr][/hr]\r\n\r\n\r\n[hr][/hr][h1][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3758872947]ПОЛНОЕ РУКОВОДСТВО ЗДЕСЬ![/url][/h1][hr][/hr]\r\n\r\n\r\n[hr][/hr][h1][url=https://discord.gg/JUDkXbkc2Q]Discord сервер КБ \"РУБЕЖ\", проводим бои![/url][/h1][hr][/hr]\r\n\r\n\r\n[hr][/hr]\r\n[h2]\r\nСтабильное отображение ников.\r\n\r\nВозможность заблокировать обычным игрокам доступ к командам.\r\n\r\nАдминистратор может назначать другим игрокам команды/наборы снаряжения/точки возрождения а также телепортировать их и проводить другие манипуляции.\r\n\r\nХост может назначать администраторов сервера.\r\n\r\nЗащита от использования посторонних чат команд другими игроками, использовать команды из ванилы или других модов может только хост.\r\n\r\nСамописный бан который никак невозможно обойти, банить можно даже ливнувших игроков и есть возможность разбана.\r\n\r\nВозможность настроить урон от всех источников.\r\n\r\nБезопасные зоны для команд, больше никакого спавнкемпа.\r\n\r\nНаборы снаряжения, отображаются в нике и выдаются после каждой смерти.\r\n\r\nСоздания жёстких наборов снаряжения, игрок не сможет ничего взять в инвентарь кроме своего набора даже в креатив режиме.\r\n\r\nВыбор базовой команды и набора снаряжения, выдаются человеку сразу при заходе на мир.\r\n\r\nВозможность включить выносливость.\r\n\r\nВозможность ограничения камеры от третьего лица у пехоты и техники отдельно.\r\n\r\nМод адаптирован под работу с множеством миров на сервере.\r\n[/h2]\r\n\r\n[hr][/hr]\r\n[img]https://images.steamusercontent.com/ugc/14506269548224321635/8719920DE26F3ED163203E1F08FDDFBEE47EEE16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img]",
@@ -48961,7 +48961,7 @@
 	"191b36a9-7735-4776-b28b-5153645c7793": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]FANT MOD 3 – CUSTOM GAMEMODE [/h1]\r\n[h1]Base Mode for Additional Mods[/h1]\r\nGame Version: 1.0\r\n[hr][/hr]\r\n[h1]NOW WITH LEVEL RESET COMMAND SO YOU CAN KEEP MINING![/h1]\r\n/resetmininglevel\r\n[hr][/hr]\r\n[h1]CURRENT WORKSHOP AUTOUPDATE ISSUE AND WORKAROUND[/h1]\r\nif you have issues, its related to the Workshop / Game not Auto Updating\r\nMods, because of the CACHE.\r\nUntil Steam or Axolot fixes it, you have to MANUALY delete the \"cache\" folder in each mod you have subbscribed to, to make it Update.\r\n(EVERYTIME!)\r\nThis is not my Fault. And i cant do anything about it. Only Steam or Axolot.\r\nAgain. Mod Works 100%. ANY Issue you may have is related to that Not Updating.\r\nMore Infos if you need in my Discord.\r\n\r\n[hr][/hr]\r\n[b]Features:[/b] \r\n- full Vanilla Survival\r\n\r\n!\r\n- added /resetmininglevel\r\n  it fully resets the Drill Level 2 ( or Mining Level 5 ) so you can continue playing \r\n  and mining.\r\n!\r\n\r\n- wocs can eat stacks of corn.\r\n- corn is placable in stacks.\r\n- added \"/cleanup\" command and \"/cleanup 123\". It >DELETES< Everything in that radius.\r\n- added \"/clearinv\" to clearout the inventory.\r\n- added \"/fly\" to fly\r\n- added the basic dev commands like /unlimited /limited /god...\r\n- all variants of totebots drop there head as item and not as part anymore.\r\n- added modded hud\r\n- ammo display for all weapons\r\n- recipe loading of mods that got added to the world loot table. (in loot crates)\r\n- weather commnd\r\n\r\n... and more\r\n\r\n[h1]Requiemented Mod[/h1]\r\n- Mod Database. Only Sub to it, dont add that to your world!\r\n\r\n\r\n[h1]Mods i personaly like to use[/h1]\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3773844861\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3327429421\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3228431919\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3012082374\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3011575610\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2980339404\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2965553955\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2963115530\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2949730799\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2947206586\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2851449097\r\n\r\n[h1]How to make your mod compatible with this custom game[/h1]\r\nStep 1: Add a folder named \"CraftingRecipes\" into your root mod folder\r\nStep 2: Add a file named \"craftbot.json\" into the \"CraftingRecipes\" folder\r\nStep 3: Add your own crafting recipes into \"craftbot.json\" file\r\n\r\n[h1]LINKS & COMMUNITY[/h1]\r\n[b]YouTube:[/b]  \r\nhttps://www.youtube.com/c/00FantMod  \r\n\r\n[b]Discord:[/b]  \r\nhttps://discord.gg/zTZjyrB5nh  \r\n\r\nSubscribe & join the Discord to get updates, features previews and support.\r\n\r\n[hr][/hr]\r\n\r\n[b]Known Issue:[/b]  \r\nalot.. please gimme time to improve and fix everything.\r\nthank you.\r\n\r\n[hr][/hr]\r\n\r\nFant Mod made by  \r\n[h1]00Fant[/h1]\r\n\r\nI do NOT give permission to reuse any content from this mod.\r\n\r\n[h1]MODDING GUIDELINES[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#\r\n",
+		"description": "[h1]FANT MOD 3 – CUSTOM GAMEMODE [/h1]\r\n[h1]Base Mode for Additional Mods[/h1]\r\nGame Version: 1.0\r\n[hr][/hr]\r\n[h1]NOW WITH LEVEL RESET COMMAND SO YOU CAN KEEP MINING![/h1]\r\n/resetmininglevel\r\n[hr][/hr]\r\n[h1]CURRENT WORKSHOP AUTOUPDATE ISSUE AND WORKAROUND[/h1]\r\nif you have issues, its related to the Workshop / Game not Auto Updating\r\nMods, because of the CACHE.\r\nUntil Steam or Axolot fixes it, you have to MANUALY delete the \"cache\" folder in each mod you have subbscribed to, to make it Update.\r\n(EVERYTIME!)\r\nThis is not my Fault. And i cant do anything about it. Only Steam or Axolot.\r\nAgain. Mod Works 100%. ANY Issue you may have is related to that Not Updating.\r\nMore Infos if you need in my Discord.\r\n\r\n[hr][/hr]\r\n[b]Features:[/b] \r\n- full Vanilla Survival\r\n\r\n!\r\n- added /resetmininglevel\r\n  it fully resets the Drill Level 2 ( or Mining Level 5 ) so you can continue playing \r\n  and mining.\r\n!\r\n\r\n- wocs can eat stacks of corn.\r\n- corn is placable in stacks.\r\n- added \"/cleanup\" command and \"/cleanup 123\". It >DELETES< Everything in that radius.\r\n- added \"/clearinv\" to clearout the inventory.\r\n- added \"/fly\" to fly\r\n- added the basic dev commands like /unlimited /limited /god...\r\n- all variants of totebots drop there head as item and not as part anymore.\r\n- added modded hud\r\n- ammo display for all weapons\r\n- recipe loading of mods that got added to Trader Schematic Unlock. \r\n so if you want the modded parts to craft. buy them at the trader.\r\n- weather commnd\r\n\r\n... and more\r\n\r\n[h1]Requiemented Mod[/h1]\r\n- Mod Database. Only Sub to it, dont add that to your world!\r\n\r\n\r\n[h1]Mods i personaly like to use[/h1]\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3773844861\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3327429421\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3228431919\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3012082374\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3011575610\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2980339404\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2965553955\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2963115530\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2949730799\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2947206586\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2851449097\r\n\r\n[h1]How to make your mod compatible with this custom game[/h1]\r\nStep 1: Add a folder named \"CraftingRecipes\" into your root mod folder\r\nStep 2: Add a file named \"craftbot.json\" into the \"CraftingRecipes\" folder\r\nStep 3: Add your own crafting recipes into \"craftbot.json\" file\r\n\r\n[h1]LINKS & COMMUNITY[/h1]\r\n[b]YouTube:[/b]  \r\nhttps://www.youtube.com/c/00FantMod  \r\n\r\n[b]Discord:[/b]  \r\nhttps://discord.gg/zTZjyrB5nh  \r\n\r\nSubscribe & join the Discord to get updates, features previews and support.\r\n\r\n[hr][/hr]\r\n\r\n[b]Known Issue:[/b]  \r\nalot.. please gimme time to improve and fix everything.\r\nthank you.\r\n\r\n[hr][/hr]\r\n\r\nFant Mod made by  \r\n[h1]00Fant[/h1]\r\n\r\nI do NOT give permission to reuse any content from this mod.\r\n\r\n[h1]MODDING GUIDELINES[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#\r\n",
 		"fileId": 3772903275,
 		"localId": "191b36a9-7735-4776-b28b-5153645c7793",
 		"name": "Fant Mod 3 Custom Gamemode",
@@ -50245,7 +50245,7 @@
 	},
 	"00edb1ec-d169-4b3d-b608-30a461e846b6": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"dependencies": null,
 		"description": "This mod expands the world of Scrap Mechanic with two highly useful logic devices, allowing you to build much more compact and intelligent circuits!",
 		"fileId": 3787010782,
@@ -50442,13 +50442,33 @@
 	"e7cdf432-f67b-428d-9d43-76247ce71b62": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "A mod that adds universal and ball joints to Scrap Mechanic.",
+		"description": "A mod that adds universal and ball joints using the new multishape system added in 1.0.",
 		"fileId": 3789251292,
 		"localId": "e7cdf432-f67b-428d-9d43-76247ce71b62",
 		"name": "Universal & Ball Joints",
 		"supports": [
 			"1.0.0"
 		],
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"67c351df-7219-4cf1-aa9f-5916abe5eef9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "",
+		"fileId": 3786760903,
+		"localId": "67c351df-7219-4cf1-aa9f-5916abe5eef9",
+		"name": "sharlotka",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"aaf2bdb5-7303-4c50-bc5e-88e0592e818d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds the new Drilling Thunder! (Chapter 2) Bots to the Creative Menu",
+		"fileId": 3789390956,
+		"localId": "aaf2bdb5-7303-4c50-bc5e-88e0592e818d",
+		"name": "All the Bots - Creative",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
