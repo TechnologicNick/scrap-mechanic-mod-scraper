@@ -50245,9 +50245,9 @@
 	},
 	"00edb1ec-d169-4b3d-b608-30a461e846b6": {
 		"allow_add_mods": true,
-		"custom_icons": false,
+		"custom_icons": true,
 		"dependencies": null,
-		"description": "This mod expands the world of Scrap Mechanic with two highly useful logic devices, allowing you to build much more compact and intelligent circuits!",
+		"description": "This mod expands the world of Scrap Mechanic with two highly useful logic devices, allowing you to build much more compact and intelligent circuits!\r\n\r\nUnder development",
 		"fileId": 3787010782,
 		"localId": "00edb1ec-d169-4b3d-b608-30a461e846b6",
 		"name": "Logic MOD",
@@ -50469,6 +50469,16 @@
 		"fileId": 3789390956,
 		"localId": "aaf2bdb5-7303-4c50-bc5e-88e0592e818d",
 		"name": "All the Bots - Creative",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"03edc0b0-5bff-49a5-b6e7-6c20d2cf9636": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "The Mod banner provides a tool that the host can use to ban items with then removes literally all items from every inventory (except for the host's) and from every creations!\n\nThe host will need to have that tool in their hotbar for the ban system to function.",
+		"fileId": 3789733078,
+		"localId": "03edc0b0-5bff-49a5-b6e7-6c20d2cf9636",
+		"name": "Item Banner",
 		"type": "Blocks and Parts",
 		"version": 2
 	}

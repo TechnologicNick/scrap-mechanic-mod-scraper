@@ -8185,5 +8185,10 @@
 	"09cef29e-bc82-4ee2-bfc3-ab59de3d8942": {},
 	"e7cdf432-f67b-428d-9d43-76247ce71b62": {},
 	"67c351df-7219-4cf1-aa9f-5916abe5eef9": {},
-	"aaf2bdb5-7303-4c50-bc5e-88e0592e818d": {}
+	"aaf2bdb5-7303-4c50-bc5e-88e0592e818d": {},
+	"03edc0b0-5bff-49a5-b6e7-6c20d2cf9636": {
+		"$CONTENT_03edc0b0-5bff-49a5-b6e7-6c20d2cf9636/Tools/Database/ToolSets/banner.toolset": [
+			"8a7d0a41-24ad-4784-8197-035966976716"
+		]
+	}
 }
