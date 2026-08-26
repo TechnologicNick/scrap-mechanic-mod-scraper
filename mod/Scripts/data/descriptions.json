@@ -50625,5 +50625,15 @@
 		"name": "Battery Bags",
 		"type": "Blocks and Parts",
 		"version": 2
+	},
+	"1f603e97-5a65-4bfc-86ee-bfadd681c0fb": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 3790343114,
+		"localId": "1f603e97-5a65-4bfc-86ee-bfadd681c0fb",
+		"name": "Fants Infobox",
+		"type": "Blocks and Parts",
+		"version": 2
 	}
 }

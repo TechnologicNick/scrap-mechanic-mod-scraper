@@ -3403,7 +3403,8 @@
 	"8ab670a1-667b-40f0-bd7c-c60b02e68750": {},
 	"61d4b3e3-c5f7-454c-87fb-7a0fff5d91d0": {
 		"$CONTENT_61d4b3e3-c5f7-454c-87fb-7a0fff5d91d0/Tools/Database/ToolSets/fvse.toolset": [
-			"a37ad687-30e4-405a-89b5-c12b2f3a2f02"
+			"a37ad687-30e4-405a-89b5-c12b2f3a2f02",
+			"6da8ec35-efdd-4df0-8132-43939cb2b21f"
 		]
 	},
 	"884e88ba-5951-4160-9467-c1a9ad4cd097": {},
@@ -8199,5 +8200,10 @@
 	"ff293aee-2e1b-476d-8c65-c4318bd50383": {},
 	"c2d58ce1-e95d-4dc1-bd0d-5e69a373c5d8": {},
 	"b241d452-c4d9-4a96-95de-5ef6d9bb6202": {},
-	"069b0966-f0e4-47ba-b85d-48d81094c03c": {}
+	"069b0966-f0e4-47ba-b85d-48d81094c03c": {},
+	"1f603e97-5a65-4bfc-86ee-bfadd681c0fb": {
+		"$CONTENT_1f603e97-5a65-4bfc-86ee-bfadd681c0fb/Tools/Database/ToolSets/infoboxManager.toolset": [
+			"feb66b6b-801e-49d0-bf48-25644ee9105f"
+		]
+	}
 }

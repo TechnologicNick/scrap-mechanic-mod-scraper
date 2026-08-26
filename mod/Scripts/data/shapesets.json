@@ -174078,5 +174078,10 @@
 			"7c519745-cc46-4ebe-a738-ae7f0af5bf94",
 			"6ed50c1e-091d-4ed6-a865-c7bf178ecf7b"
 		]
+	},
+	"1f603e97-5a65-4bfc-86ee-bfadd681c0fb": {
+		"$CONTENT_1f603e97-5a65-4bfc-86ee-bfadd681c0fb/Objects/Database/ShapeSets/infobox.shapeset": [
+			"4febc380-26c0-44a9-bf40-538b1db50426"
+		]
 	}
 }
