@@ -50481,5 +50481,149 @@
 		"name": "Item Banner",
 		"type": "Blocks and Parts",
 		"version": 2
+	},
+	"d3da11c7-4d8e-46a7-9030-a2f5e15bd1aa": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1]ModLoader[/h1]\nAn experimental modular runtime for Scrap Mechanic Survival Custom Games.\n\n[h2]What it provides[/h2]\n• Mounted-module discovery for participating scripted mods\n• Deterministic module loading and dependency ordering\n• Shared lifecycle events, hook chains, and versioned APIs\n• Clear ownership for engine-level patches\n\n[h2]Use[/h2]\nThis is a core dependency. Select Survival With ModLoader as the Custom Game, then add gameplay modules and API providers as required.\n\n[h2]Compatibility[/h2]\nDesigned for Scrap Mechanic Survival 1.0.5.",
+		"fileId": 3789845997,
+		"localId": "d3da11c7-4d8e-46a7-9030-a2f5e15bd1aa",
+		"name": "ModLoader",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"26d1d7c8-7100-4df4-bf16-00d4b184e202": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 3789845997,
+				"localId": "d3da11c7-4d8e-46a7-9030-a2f5e15bd1aa"
+			}
+		],
+		"description": "[h1]ModLoader Item API[/h1]\nShared item and resource-yield hooks for ModLoader Survival modules.\n\n[h2]Provides[/h2]\n• Controlled edible-item hooks\n• Controlled collection hooks\n• Survival harvest and refinery yield integration\n\n[h2]For mod authors[/h2]\nDepend on this API instead of patching item, container, harvestable, or refinery functions directly.",
+		"fileId": 3789851442,
+		"localId": "26d1d7c8-7100-4df4-bf16-00d4b184e202",
+		"name": "ModLoader Item API",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"4f7c4a47-2017-4800-9c70-5ad92f77e101": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 3789845997,
+				"localId": "d3da11c7-4d8e-46a7-9030-a2f5e15bd1aa"
+			}
+		],
+		"description": "[h1]ModLoader Player API[/h1]\nShared player lifecycle and persistent-data API for ModLoader modules.\n\n[h2]Provides[/h2]\n• Server and client player lifecycle listeners\n• Persistent per-player module data\n• Health damage, restoration, and missing-health helpers\n\n[h2]For mod authors[/h2]\nDepend on this API instead of directly replacing SurvivalPlayer callbacks.",
+		"fileId": 3789852620,
+		"localId": "4f7c4a47-2017-4800-9c70-5ad92f77e101",
+		"name": "ModLoader Player API",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"35c38f6a-a7ca-4d0a-9844-4e777baf3011": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 3789845997,
+				"localId": "d3da11c7-4d8e-46a7-9030-a2f5e15bd1aa"
+			}
+		],
+		"description": "[h1]ModLoader Recipe API[/h1]\nDeterministic crafting-recipe registration for ModLoader Survival modules.\n\n[h2]Provides[/h2]\n• Recipe registration for named machine targets\n• Recipe-set ordering and reconciliation\n• Manual registered-recipe unlock support\n• Integration with Survival's recipe manager and schematic pool\n\n[h2]For mod authors[/h2]\nRegister recipes through this API rather than editing or replacing vanilla recipe-manager code.",
+		"fileId": 3789854569,
+		"localId": "35c38f6a-a7ca-4d0a-9844-4e777baf3011",
+		"name": "ModLoader Recipe API",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"a19ce341-b3c8-4985-84cd-4de5c8aa5101": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 3789845997,
+				"localId": "d3da11c7-4d8e-46a7-9030-a2f5e15bd1aa"
+			}
+		],
+		"description": "[h1]ModLoader Game API[/h1]\nShared game-command integration for ModLoader modules.\n\n[h2]Provides[/h2]\n• Client chat-command registration\n• Client-to-server development commands\n• Safe item-giving helpers for development tools\n\n[h2]For mod authors[/h2]\nDepend on this API instead of competing to replace SurvivalGame command callbacks.",
+		"fileId": 3789855483,
+		"localId": "a19ce341-b3c8-4985-84cd-4de5c8aa5101",
+		"name": "ModLoader Game API",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"ff293aee-2e1b-476d-8c65-c4318bd50383": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3789845997,
+				"localId": "d3da11c7-4d8e-46a7-9030-a2f5e15bd1aa"
+			},
+			{
+				"fileId": 3789852620,
+				"localId": "4f7c4a47-2017-4800-9c70-5ad92f77e101"
+			}
+		],
+		"description": "[h1]ModLoader Survival Player API[/h1]\nThe ModLoader-owned SurvivalPlayer fork and status-panel extension point.\n\n[h2]Provides[/h2]\n• The playerScript selected by Survival With ModLoader\n• Player lifecycle dispatch after vanilla player callbacks\n• Declarative status-panel meter registration\n\n[h2]For mod authors[/h2]\nRegister meters through the status-panel API. Do not create a separate HUD or choose absolute screen coordinates.",
+		"fileId": 3789859721,
+		"localId": "ff293aee-2e1b-476d-8c65-c4318bd50383",
+		"name": "ModLoader Survival Player API",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"c2d58ce1-e95d-4dc1-bd0d-5e69a373c5d8": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3789845997,
+				"localId": "d3da11c7-4d8e-46a7-9030-a2f5e15bd1aa"
+			},
+			{
+				"fileId": 3789854569,
+				"localId": "35c38f6a-a7ca-4d0a-9844-4e777baf3011"
+			}
+		],
+		"description": "[h1]ModLoader Craftbot API[/h1]\nHost-owned Craftbot integration for ModLoader recipes.\n\n[h2]Provides[/h2]\n• Craftbot recipe-set registration\n• Static Custom Game adapters for vanilla Craftbot classes\n• A clean target for Recipe API recipe sets\n\n[h2]For mod authors[/h2]\nUse ModLoader Recipe API to register recipes; this package supplies the Craftbot-side bridge.",
+		"fileId": 3789862955,
+		"localId": "c2d58ce1-e95d-4dc1-bd0d-5e69a373c5d8",
+		"name": "ModLoader Craftbot API",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"b241d452-c4d9-4a96-95de-5ef6d9bb6202": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 3789855483,
+				"localId": "a19ce341-b3c8-4985-84cd-4de5c8aa5101"
+			},
+			{
+				"fileId": 3789854569,
+				"localId": "35c38f6a-a7ca-4d0a-9844-4e777baf3011"
+			}
+		],
+		"description": "[h1]ModLoader Dev Tools[/h1]\nDevelopment and test commands for Survival With ModLoader.\n\n[h2]Commands[/h2]\n• /mltestkit — gives a Craftbot, Part Unlock Station, and materials\n• /ml-schematics — gives schematic boxes for recipe-unlock testing\n• /mountedMods — lists mounted scripted-content packages\n• /ml-unlock-all-recipes — unlocks recipes registered through ModLoader\n\n[h2]Use[/h2]\nIntended for development worlds and ModLoader API testing.",
+		"fileId": 3789864322,
+		"localId": "b241d452-c4d9-4a96-95de-5ef6d9bb6202",
+		"name": "ModLoader Dev Tools",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"069b0966-f0e4-47ba-b85d-48d81094c03c": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Test",
+		"fileId": 3790004508,
+		"localId": "069b0966-f0e4-47ba-b85d-48d81094c03c",
+		"name": "Battery Bags",
+		"type": "Blocks and Parts",
+		"version": 2
 	}
 }
