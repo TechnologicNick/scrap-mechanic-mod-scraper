@@ -8160,7 +8160,39 @@
 	},
 	"e3a98aa5-a57d-4c86-800d-19b1f410e8c3": {
 		"$CONTENT_e3a98aa5-a57d-4c86-800d-19b1f410e8c3/Tools/Database/ToolSets/spudtin_runtime.toolset": [
-			"e6e42227-f046-402f-a464-d6aaa6b25d4c"
+			"e6e42227-f046-402f-a464-d6aaa6b25d4c",
+			"8582a1dc-2f54-4578-9d8e-f072ed7574b5",
+			"873ac1f2-5957-42c5-a311-ce60e4e912d3",
+			"3244a25b-2678-4028-9dac-ad06a7021f14",
+			"3b736584-9f07-4f05-9485-494a97501b32",
+			"593bbd1b-4aee-467f-8ec5-eca953a8c2f1",
+			"2e0a7c7d-8197-4701-920c-8950fc3c5ff9",
+			"c860e94e-40c7-4a03-b667-862cb0930113",
+			"6db4d5bf-7bfd-49ef-a304-e831e95fa261",
+			"a393a7ae-b5c3-47c0-9aad-c029f115b665",
+			"359827cf-0045-4136-b465-a553d6923ae8",
+			"0d921e3a-b24b-4d24-b425-1bcff858578f",
+			"604a5bc9-8769-463f-8075-d7710fc7ae7a",
+			"61824d9e-4517-4d7c-92c4-954c44da097f",
+			"8124b19e-9eb2-4c82-8f99-ae0accd092ca",
+			"c3efadaa-f841-48e4-b11a-e750176c5cba",
+			"b088e6a5-2772-4cc1-97e7-428355f68b9f",
+			"f7d51b28-dbd6-4490-99eb-3a8c087cf0f8",
+			"a1232019-c44e-428a-89bf-328742687590",
+			"06d8b0bd-94b3-4365-888f-9f2c981ea2c5",
+			"06954500-a82c-4acf-a539-c1f65e3ae6ac",
+			"8e479ca0-8196-4767-b937-78b995253529",
+			"fd220bad-adbb-4bdc-80a1-ecfcae3d67e9",
+			"1e6c5496-e9c4-4602-b55c-7986d79fc437",
+			"a6ee400f-a76c-4b65-9ad8-a048a11f7d2f",
+			"e2a3552b-5c17-4fe8-baac-b111e94298b1",
+			"25843988-f1a8-44ee-b7f1-8c6fd21f852c",
+			"03f9a378-ad45-4a2e-956c-df6ba1635d7f",
+			"83065434-d2bc-4824-b7ff-cb8c336d933e",
+			"ed120b9d-f423-4382-9155-2368a89f1adc",
+			"75ad95c8-214b-4780-8ef9-e487d0468f9c",
+			"910ed476-5e6d-462b-b252-2d2d45377c46",
+			"ee626953-7266-4133-a584-b2b819df66f0"
 		]
 	},
 	"2f6e2e60-7447-4d67-9cf1-ba8e02fba3a1": {},
@@ -8205,5 +8237,8 @@
 		"$CONTENT_1f603e97-5a65-4bfc-86ee-bfadd681c0fb/Tools/Database/ToolSets/infoboxManager.toolset": [
 			"feb66b6b-801e-49d0-bf48-25644ee9105f"
 		]
-	}
+	},
+	"c75554b9-a6c6-4c6d-a3b2-6193eae3ab70": {},
+	"44042adc-668a-4995-9b5f-740746d7418a": {},
+	"290e8cee-f6a6-47a2-943f-007f4019bd40": {}
 }

@@ -49308,7 +49308,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": [],
-		"description": "Progression boost for Survival: normal crafting outputs, including Bearings and Suspensions, are multiplied by 5. Engines, Seats, Controllers, Pistons, Thrusters, Craftbots, and Weapons remain at x1. All regular crafting processes take only one-third of the normal time. Bot death loot produces at least two stacks, each containing five times the normal quantity, while regular inventory stack limits are multiplied by 10. Refining by hand or with the Refinery Bot yields 200/400 resources at twice the normal speed. Normal loot crates and large Drillbot loot crates provide x8 total loot. Direct Drilling Thunder resource drops and outputs from the Ore Crusher and Prospector are multiplied by 5; the Ore Crusher also runs at twice the normal speed, while Clay already uses the regular x5 crafting rule. Crude Oil, Beeswax, Cotton, Corn, Pigment Flowers, Glue Clams, and Embers from burnt trees yield x5 resources. Planted crops also yield x5: regular field crops increase from 1 to 5, Potatoes from 10 to 50, and Growbed crops from 5 to 25. Seed quantities remain unchanged. Built for Scrap Mechanic 1.0.5.876 / Steam Build 24529696.",
+		"description": "Progression boost for Survival: normal crafting outputs, including Bearings and Suspensions, are multiplied by 5. Engines, Seats, Controllers, Pistons, Thrusters, Craftbots, and Weapons remain at x1. All regular crafting processes take only one-third of the normal time. Bot death loot produces at least two stacks, each containing five times the normal quantity, while regular inventory stack limits are multiplied by 10. Refining by hand or with the Refinery Bot yields 200/400 resources at twice the normal speed. Normal loot crates and large Drillbot loot crates provide x8 total loot. Crude Oil, Beeswax, Cotton, Corn, Pigment Flowers, Glue Clams, and Embers from burnt trees yield x5 resources. Planted crops also yield x5: regular field crops increase from 1 to 5, Potatoes from 10 to 50, and Growbed crops from 5 to 25. Seed quantities remain unchanged. Built for Scrap Mechanic 1.0.4.874 / Steam Build 24499589.",
 		"fileId": 3776413011,
 		"localId": "bc0d0e7e-2284-4088-b1f5-d01695e2baea",
 		"name": "Progression Boost (x5)",
@@ -50295,7 +50295,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": [],
-		"description": "[h1]Scrap Factory Survival Plus[/h1]The hardcore variant of Scrap Factory Survival. Same factory pace, tighter survival pressure. This is a separate Custom Game and does not replace the original.[h2]Community[/h2]Join the Discord: [url=https://discord.gg/jZfCtEsTxx]https://discord.gg/jZfCtEsTxx[/url][h2]Core Features[/h2][list][*]Hunger & Thirst: Food and water bars are back.[*]Compact Inventory: 100 backpack slots.[*]Vanilla Harvest & Refine: 20 blocks per harvest core, 2.8s hand refine.[*]2x Loot: Chests and bots drop 2x loot rolls and 2x item quantity.[*]Vanilla Combat: Standard Survival damage.[*]Warehouse Modding: Warehouse structures can be modified, lifted, and connected.[/list][h2]Chat Commands[/h2][list][*]/fly : Toggle flight. Use /fly off to walk again.[*]/allrecipes : Reloads, synchronizes, and unlocks all custom mod recipes.[*]/unlimited : Toggles unlimited inventory. Use /unlimited off to restore Survival inventory.[*]/limited : Restores the standard limited Survival inventory.[*]/scrapgod : Activates test mode (flight, ultra speed, unlimited inventory).[*]/scrapnormal : Hard-resets test mode and restores standard Survival parameters.[/list]",
+		"description": "[h1]Scrap Factory Survival Plus[/h1]The hardcore variant of Scrap Factory Survival. Same factory pace, tighter survival pressure. This is a separate Custom Game and does not replace the original.[h2]Community[/h2]Join the Discord: [url=https://discord.gg/jZfCtEsTxx]https://discord.gg/jZfCtEsTxx[/url][h2]Core Features[/h2][list][*]Hunger & Thirst: Food and water bars are back.[*]Compact Inventory: 100 backpack slots.[*]Vanilla Harvest & Refine: 20 blocks per harvest core, 2.8s hand refine.[*]2x Loot: Chests and bots drop 2x loot rolls and 2x item quantity.[*]Vanilla Combat: Standard Survival damage.[*]Warehouse Modding: Warehouse structures can be modified, lifted, and connected.[/list][h2]Chat Commands[/h2][list][*]/fly : Toggle flight. Use /fly off to walk again.[*]/allrecipes : Reloads, synchronizes, and unlocks all custom mod recipes.[*]/unlimited : Toggles unlimited inventory. Use /unlimited off to restore Survival inventory.[*]/limited : Restores the standard limited Survival inventory.[*]/hunger : Toggle hunger and thirst. Use /hunger off to disable.[*]/scrapgod : Activates test mode (flight, ultra speed, unlimited inventory).[*]/scrapnormal : Hard-resets test mode and restores standard Survival parameters.[/list]",
 		"fileId": 3787266246,
 		"localId": "d29440d8-dcef-46a6-ab69-84c068ab9f81",
 		"name": "Scrap Factory Survival Plus",
@@ -50619,10 +50619,10 @@
 	"069b0966-f0e4-47ba-b85d-48d81094c03c": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Test",
+		"description": "[h1]Power Cell Energy System[/h1]A portable power cell you slot into a dock, the way a warehouse keycard goes into a reader. The level of blue electrolyte in the cell's glass tank IS its charge - in your hand, on the ground, and seated in a dock. No hidden state and no menus: you read a cell by looking at it.[h1]The parts[/h1][b]Battery Cell[/b] - 2x2x1The thing everything else exists for. A full cell holds the equivalent of 50 batteries, and its charge is baked into the item itself, so it survives pockets, chests, blueprints and multiplayer with nothing tracking it behind the scenes. Paint one and it remembers the colour - pick it up, charge it, carry it across the map, and it comes back the colour you painted it.[b]Battery Dock[/b] - 3x3x3A front-loading bay for one cell. Hold a cell and press E to slide it in, E again to take it back out with whatever charge is left. Wire the dock to an Electric Engine and your creation runs off the cell. Docks chain: wire dock to dock and charge trickles downstream at 1% per second.[b]Battery Panel[/b] - 3x3x1The same bay, flat against a wall and open at the front. The cell stands upright in it, so the level in the glass reads as the charge directly, and a bar along the top says the same thing at a glance. Wires and chains exactly like a Battery Dock.[b]Cell Charger[/b] - 3x5x3Fills a cell from gas. Wire a Gas Container to it, load a cell with E, and it charges at 1% per second for 1 gas per percent. It only charges - to run a creation off a cell, use a dock.[b]Bank Meter[/b] - 2x1x1Reads every dock wired into it and shows the whole bank as one number. It averages rather than totals, so six docks holding half a cell each read 50%, not 300% - and every wired bay counts, so an empty dock pulls the reading down. Press E to cycle the readout through eight colours; the case takes paint separately, so a black meter can still have a blue number.[b]Powered Locker[/b] - 2x1x1Ten slots that only open while it is wired to a dock with charge in it. Costs nothing to ke",
 		"fileId": 3790004508,
 		"localId": "069b0966-f0e4-47ba-b85d-48d81094c03c",
-		"name": "Battery Bags",
+		"name": "Power Cell Energy System",
 		"type": "Blocks and Parts",
 		"version": 2
 	},
@@ -50633,6 +50633,36 @@
 		"fileId": 3790343114,
 		"localId": "1f603e97-5a65-4bfc-86ee-bfadd681c0fb",
 		"name": "Fants Infobox",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"c75554b9-a6c6-4c6d-a3b2-6193eae3ab70": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1]XXL Containers[/h1]Adds bigger versions of every container in the game same connections, same filters, just way more capacity. No more chaining a row of them together to keep something fed.[hr][/hr][h2]Adds XXL versions of[/h2][list][*] Ammo Container[*] Water Container[*] Chemical Container[*] Battery Container[*] Gasoline Container[*] Seed Container[/list][i]1.0 (Drilling Thunder) compatible[/i][hr][/hr][h2]Compatibility[/h2]This mod replaces the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3780806735]XXL Ammo Container[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3788758316]XXL Water Container[/url] mods you can safely swap over to this one without breaking existing builds or losing anything.You can keep running the old mods alongside this one too if you'd rather not switch, they just become redundant.",
+		"fileId": 3790118848,
+		"localId": "c75554b9-a6c6-4c6d-a3b2-6193eae3ab70",
+		"name": "XXL Containers - Complete Set",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"44042adc-668a-4995-9b5f-740746d7418a": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 3790491068,
+		"localId": "44042adc-668a-4995-9b5f-740746d7418a",
+		"name": "Fants Robot Detector",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"290e8cee-f6a6-47a2-943f-007f4019bd40": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "",
+		"fileId": 3790790690,
+		"localId": "290e8cee-f6a6-47a2-943f-007f4019bd40",
+		"name": "Official Enhanced Mod: Ammunition",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
