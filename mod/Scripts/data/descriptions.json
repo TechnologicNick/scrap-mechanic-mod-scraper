@@ -39817,7 +39817,7 @@
 		"localId": "3014aacc-83cd-45fc-8dea-d161b42862b6",
 		"name": "Floating Metal",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"6e47e1da-f0a7-4f8c-80bc-b6f7f547cb6c": {
 		"allow_add_mods": true,
@@ -50619,7 +50619,7 @@
 	"069b0966-f0e4-47ba-b85d-48d81094c03c": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h1]Power Cell Energy System[/h1]A portable power cell you slot into a dock, the way a warehouse keycard goes into a reader. The level of blue electrolyte in the cell's glass tank IS its charge - in your hand, on the ground, and seated in a dock. No hidden state and no menus: you read a cell by looking at it.[h1]The parts[/h1][b]Battery Cell[/b] - 2x2x1The thing everything else exists for. A full cell holds the equivalent of 50 batteries, and its charge is baked into the item itself, so it survives pockets, chests, blueprints and multiplayer with nothing tracking it behind the scenes. Paint one and it remembers the colour - pick it up, charge it, carry it across the map, and it comes back the colour you painted it.[b]Battery Dock[/b] - 3x3x3A front-loading bay for one cell. Hold a cell and press E to slide it in, E again to take it back out with whatever charge is left. Wire the dock to an Electric Engine and your creation runs off the cell. Docks chain: wire dock to dock and charge trickles downstream at 1% per second.[b]Battery Panel[/b] - 3x3x1The same bay, flat against a wall and open at the front. The cell stands upright in it, so the level in the glass reads as the charge directly, and a bar along the top says the same thing at a glance. Wires and chains exactly like a Battery Dock.[b]Cell Charger[/b] - 3x5x3Fills a cell from gas. Wire a Gas Container to it, load a cell with E, and it charges at 1% per second for 1 gas per percent. It only charges - to run a creation off a cell, use a dock.[b]Bank Meter[/b] - 2x1x1Reads every dock wired into it and shows the whole bank as one number. It averages rather than totals, so six docks holding half a cell each read 50%, not 300% - and every wired bay counts, so an empty dock pulls the reading down. Press E to cycle the readout through eight colours; the case takes paint separately, so a black meter can still have a blue number.[b]Powered Locker[/b] - 2x1x1Ten slots that only open while it is wired to a dock with charge in it. Costs nothing to ke",
+		"description": "[h1]Power Cell Energy System[/h1]\r\nA portable power cell you slot into a dock, the way a warehouse keycard goes into a reader. The level of blue electrolyte in the cell's glass tank IS its charge - in your hand, on the ground, and seated in a dock. No hidden state and no menus: you read a cell by looking at it.\r\n\r\n[h1]The parts[/h1]\r\n[b]Battery Cell[/b] - 2x2x1\r\nThe thing everything else exists for. A full cell holds the equivalent of 50 batteries, and its charge is baked into the item itself, so it survives pockets, chests, blueprints and multiplayer with nothing tracking it behind the scenes. Paint one and it remembers the colour - pick it up, charge it, carry it across the map, and it comes back the colour you painted it.\r\n\r\n[b]Battery Dock[/b] - 3x3x3\r\nA front-loading bay for one cell. Hold a cell and press E to slide it in, E again to take it back out with whatever charge is left. Wire the dock to an Electric Engine and your creation runs off the cell. Docks chain: wire dock to dock and charge trickles downstream at 1% per second.\r\n\r\n[b]Battery Panel[/b] - 3x3x1\r\nThe same bay, flat against a wall and open at the front. The cell stands upright in it, so the level in the glass reads as the charge directly, and a bar along the top says the same thing at a glance. Wires and chains exactly like a Battery Dock.\r\n\r\n[b]Cell Charger[/b] - 3x5x3\r\nFills a cell from gas. Wire a Gas Container to it, load a cell with E, and it charges at 1% per second for 1 gas per percent. It only charges - to run a creation off a cell, use a dock.\r\n\r\n[b]Bank Meter[/b] - 2x1x1\r\nReads every dock wired into it and shows the whole bank as one number. It averages rather than totals, so six docks holding half a cell each read 50%, not 300% - and every wired bay counts, so an empty dock pulls the reading down. Press E to cycle the readout through eight colours; the case takes paint separately, so a black meter can still have a blue number.\r\n\r\n[b]Powered Locker[/b] - 2x1x1\r\nTen slots that only open while it is wired to a dock with charge in it. Costs nothing to keep running and nothing to open. Flatten the bank and the strips go dark and the lid stays shut - nothing inside is lost, it just waits for the power to come back.\r\n\r\n[h1]Getting started[/h1]\r\nCraft an empty cell and a Cell Charger at the Craftbot, wire the charger to a Gas Container, and load the cell. Once it is full, move it to a Battery Dock wired to an Electric Engine. Everything is researchable with Fant Mod 3 installed.",
 		"fileId": 3790004508,
 		"localId": "069b0966-f0e4-47ba-b85d-48d81094c03c",
 		"name": "Power Cell Energy System",
@@ -50629,7 +50629,7 @@
 	"1f603e97-5a65-4bfc-86ee-bfadd681c0fb": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod doesn't have a description",
+		"description": "This mod add a 1x1x1 block that works like a beacon but with Text and Color.\r\nSo now you can Label and Mark locations with actual Text!\r\n\r\n( is a thing since 5 years in fant mods... )\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 3790343114,
 		"localId": "1f603e97-5a65-4bfc-86ee-bfadd681c0fb",
 		"name": "Fants Infobox",
@@ -50649,7 +50649,7 @@
 	"44042adc-668a-4995-9b5f-740746d7418a": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod doesn't have a description",
+		"description": "This mod add a Detector that will display the name and if activated also the distance to units.\r\n\r\nit also outputs a On signal when something is in view distance.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 3790491068,
 		"localId": "44042adc-668a-4995-9b5f-740746d7418a",
 		"name": "Fants Robot Detector",
@@ -50660,9 +50660,49 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"description": "",
-		"fileId": 3790790690,
+		"fileId": 3790850324,
 		"localId": "290e8cee-f6a6-47a2-943f-007f4019bd40",
 		"name": "Official Enhanced Mod: Ammunition",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"52d72bd6-d926-4c73-afd3-697102dfefdd": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Stable camera controller mod. Includes:- Camera Turret controller + Traverse motor - for controlling turrets with camera- Third person camera controller - configurable way of changing your camera positionIt is more optimised than other camera controllers and created specifically for creating tank turretsLast version: 0.87",
+		"fileId": 3775606269,
+		"localId": "52d72bd6-d926-4c73-afd3-697102dfefdd",
+		"name": "Definite Turret Camera Controller",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"e9b201f2-62bf-4864-8ed1-c1955b18c159": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Adds the Storage Terminal - an AE2-style sorting network over vacuum pipes. Connect chests with pipes and drop items into the Terminal; they sort themselves into chests that already hold that item type. Mark any chest as OVERFLOW for items with no home. Press E for the one screen: NETWORK shows and withdraws everything on the network, BUFFER CHEST takes drag-and-drop deposits, SETTINGS holds the overflow toggles. Also adds the Bulk Chest (deep single-item storage, upgradeable) and the Vacuum Pipe Hub. Craft them at the Craftbot.",
+		"fileId": 3790813448,
+		"localId": "e9b201f2-62bf-4864-8ed1-c1955b18c159",
+		"name": "Reaperz Storage Network",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"f071440d-8ca8-4317-b8ef-bd7e1173b604": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h1]Med Bay[/h1]\nA treatment pod you get inside. Stand it against a wall or lay it on the floor, wire it to a battery container, and climb in - it lays you flat behind a wrapped glass canopy and treats you at five health a second for as long as it has charge.\n\n[h2]Power[/h2]\nIt takes an electricity connection, exactly like an Electric Engine - run a cable to it from a battery container.\n\n[b]Idle it draws nothing. Occupied it draws heavily[/b] - about one battery every two seconds, and it keeps drawing even if you are already at full health, because a part cannot see your health to know. Patching up from nearly dead costs around ten batteries. Charge it has already taken stays banked in the machine, so an interrupted treatment is not wasted.\n\n[h2]Crafting[/h2]\nCraftbot - 30 Metal Blocks (level 2), 20 Circuit Boards, 10 Component Kits and 10 Flower Tea, 40 seconds. Flower Tea is not craftable in vanilla - it comes out of ruin chests, loot crates and the starting area - so the pod is gated behind looting rather than farming.\n\n[h2]Using it[/h2]\nLook at it and press Use to get in, Use or Jump to get out. The prompt on the part tells you how much treatment is banked before you commit to it.\n\n[h2]What it will not do[/h2]\nA part cannot read a player's health - the game does not expose it to scripts - so the pod cannot stop when you are full and it cannot show you a bar. It treats you for as long as you lie in it and leaves the judgement to you.\n\n[h2]Compatibility[/h2]\nSurvival and custom gamemodes. Gamemodes with their own crafting, Fant Mod 3 among them, pick a mod's recipe up through the ModDatabase index, so the recipe appears there once this mod has been indexed - the part itself is in the build menu either way.",
+		"fileId": 3790993421,
+		"localId": "f071440d-8ca8-4317-b8ef-bd7e1173b604",
+		"name": "Med Bay",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"6137ef1f-9b52-4cb8-91e9-0b666d485d89": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h1]Gauge Cluster[/h1]\r\nSeventeen dashboard readouts in the shape of a bedside alarm clock. Bolt one to a vehicle and it tells you what the vehicle is doing, in numbers you can read from the seat. Each gauge is its own part, so you pick the reading in the build menu rather than fiddling with a mode selector.\r\n\r\n[h2]Every gauge shows what it is[/h2]\r\nThe big number is the reading; the line under it always names both the reading and the unit it is in - SPEED KM/H, ALTITUDE METRES, BATTERY %. A gauge with nothing to measure shows dashes rather than a zero, because zero is a reading and nothing is not.\r\n\r\n[h2]Press to swap units[/h2]\r\nEvery gauge cycles through the sensible units for its own reading, and only those - a speedometer swaps km/h for mph for m/s, an odometer swaps kilometres for miles for metres, a compass swaps degrees for a sixteen-point bearing. A speedometer never turns into a clock. The choice is saved with the part.\r\n\r\n[h2]Hold to reset[/h2]\r\nFour of them accumulate rather than measure - odometer, trip meter, top speed and stopwatch - and holding the use key clears whichever one you are looking at. They keep their numbers across a reload.\r\n\r\n[h2]The seventeen[/h2]\r\n[b]Speedometer[/b] - how fast the creation is moving. Swaps km/h, mph, m/s.\r\n[b]Vertical Speed[/b] - rate of climb or descent. Swaps metres per second and cells per second.\r\n[b]Accelerometer[/b] - acceleration along the direction of travel, smoothed. Swaps m/s2 and g.\r\n[b]Spin Rate[/b] - how fast the body is rotating, on any axis. Swaps degrees per second and rpm.\r\n[b]Altimeter[/b] - height above the world's zero. Swaps metres and build cells.\r\n[b]Coordinates[/b] - where it is, in build cells. Swaps the X, Y and Z axes.\r\n[b]Compass[/b] - which way the part is facing. Swaps degrees and a sixteen-point bearing.\r\n[b]Attitude[/b] - pitch angle from level - whether you are about to tip over.\r\n[b]Odometer[/b] - total distance travelled, kept across reloads. Swaps km, miles, metres. Hold to reset.\r\n[b]Trip Meter[/b] - distance since you last cleared it. Swaps km, miles, metres. Hold to reset.\r\n[b]Top Speed[/b] - the highest speed reached since the last reset. Swaps km/h and mph. Hold to reset.\r\n[b]Stopwatch[/b] - counts up. Swaps minutes:seconds and plain seconds. Hold to reset, which is what makes it a lap timer.\r\n[b]Power Meter[/b] - what the creation is actually putting out, measured off the body. Swaps kW and hp.\r\n[b]Tank Gauge[/b] - how full the containers wired to it are, together. Swaps a percentage and a raw count.\r\n[b]Battery Gauge[/b] - the charge left in the battery containers wired to it. Swaps a percentage and a battery count.\r\n[b]Mass Gauge[/b] - how heavy the creation is. Swaps kilograms and tonnes.\r\n[b]Clock[/b] - the time of day. Swaps the 24 hour clock and the 12 hour one.\r\n\r\n[h2]About the power meter[/h2]\r\nIt measures mass times acceleration times speed, so it reports what the creation is actually putting out rather than an engine's rating. That is not a shortcut: a vanilla engine is an engine-side component with no script surface at all, so its power, torque and gear cannot be read by any part.\r\n\r\n[h2]Crafting[/h2]\r\nEvery gauge costs the same at the craftbot - 10 Glass Blocks, 2 Circuit Boards and 1 Component Kit, 15 seconds - so the choice is which reading you want, not which one you can afford.\r\n\r\n[h2]Compatibility[/h2]\r\nCustom gamemodes. Gamemodes with their own crafting, Fant Mod 3 among them, pick a mod's recipe up through the ModDatabase index, so the recipes appear there once this mod has been indexed",
+		"fileId": 3791091995,
+		"localId": "6137ef1f-9b52-4cb8-91e9-0b666d485d89",
+		"name": "Gauge Cluster",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
