@@ -34295,7 +34295,7 @@
 	"c48f17fd-c82c-4ece-bab8-13fc1c9fe581": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This Mod Adds The Growing Sensor.\r\nThe Growing Sensor can detect stats of Plants on Soils and Growbeds.\r\n\r\nNormal Modes:\r\nGrown = When a Plant is ready to Harvest\r\nPlanted = if a Soil has a Plant\r\n\r\nFant Mod 3 Additional Modes:\r\nWater = if a plant needs water\r\nFertilizer = if a plant needs Fertilizer\r\n\r\n\r\nThe Full Functionality is only Given in \"Fant Mod 3 Custom Gamemode\".\r\nin Creative and other modes only \"Grown\" and \"Planted\" will work. \r\nBecause Soils normaly have the data Public available to read out.\r\nIn my Custom Gamemode i made this Possible.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This Mod Adds The Growing Sensor.\r\nThe Growing Sensor can detect stats of Plants on Soils and Growbeds.\r\n\r\nNormal Modes:\r\nGrown = When a Plant is ready to Harvest\r\nPlanted = if a Soil has a Plant\r\n\r\nFant Mod 3 Additional Modes:\r\nWater = if a plant needs water\r\nFertilizer = if a plant needs Fertilizer\r\n\r\n\r\nThe Full Functionality is only Given in \"Custom Gamemodes\".\r\nin Creative only \"Grown\" and \"Planted\" will work. \r\nBecause Soils normaly have the data Public available to read out.\r\nIn Custom Gamemodes this Possible.\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2998826573,
 		"localId": "c48f17fd-c82c-4ece-bab8-13fc1c9fe581",
 		"name": "Fants Growing Sensor",
@@ -41330,12 +41330,12 @@
 	"51b51b9a-d01b-4300-94ac-c60c654d289b": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Reimplements sm.debugDraw and more!\r\n\r\nAll new functions can be found in the [b]debugDraw.lua[/b] located in the script folder of the mod\r\n\r\nAlso adds 3 new commands!\r\n[list]\r\n    [*]/cleardebug remove all debug draw objects\r\n    [*]/displaytriggers display all new areatriggers\r\n    [*]/characterdebug display the characters AIState debug text\r\n[/list]\r\n\r\nThis mod has absolutely not been tested so it has bugs for sure!",
+		"description": "Reimplements sm.debugDraw!\r\n\r\nAlso adds 2 new commands!\r\n[list]\r\n    [*]/cleardebug remove all debug draw objects\r\n    [*]/displaytriggers display all new areatriggers\r\n[/list]\r\n\r\nThis mod has absolutely not been tested so it has bugs for sure!",
 		"fileId": 3390916442,
 		"localId": "51b51b9a-d01b-4300-94ac-c60c654d289b",
 		"name": "Debug Draw Reimplemented",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"0497e8ec-1d3e-4bed-a62a-77bafe435ad6": {
 		"allow_add_mods": true,
@@ -48484,7 +48484,7 @@
 		"localId": "1a8ec070-587c-486f-9dbe-7eb6958219db",
 		"name": "STEPPER MOTOR MOD",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"029fd68e-0a38-436d-a57b-fb0204fe02c4": {
 		"allow_add_mods": true,
@@ -50723,6 +50723,16 @@
 		"fileId": 3791310106,
 		"localId": "7e4f1a23-bc99-4d8e-9f12-8e3b4a5d6001",
 		"name": "wm-treadsofwar",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"9c78e77e-d34c-400f-80e8-118a766b9623": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Concise Block Textures",
+		"fileId": 3791587489,
+		"localId": "9c78e77e-d34c-400f-80e8-118a766b9623",
+		"name": "Concise Block Textures",
 		"type": "Blocks and Parts",
 		"version": 2
 	}

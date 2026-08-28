@@ -122240,8 +122240,11 @@
 		"$CONTENT_51b51b9a-d01b-4300-94ac-c60c654d289b/Objects/Database/ShapeSets/example.shapeset": [
 			"fc3c760d-eb20-4bb9-8029-f77fea9ded64",
 			"806c02ad-25fb-48c6-9018-a59755fbe005",
+			"3fb9bd9c-4e4e-4483-aef4-ecf75785c43f",
 			"31c7ee01-6ee9-4e39-ba31-1b14001e6ec8",
 			"b5357942-18f8-4a2e-a289-be4efc6142e4",
+			"364786c3-e8d2-4cec-aed4-bbbfc1689941",
+			"c2779940-e8ae-4827-b00a-cab92c1ccebe",
 			"174c36ab-adad-47d4-aa06-5df6d77ece31",
 			"bb4ce749-8df8-43a5-8cdf-7678f2377baa",
 			"6eae9262-d497-4a9f-85f9-b1ce4ee2bb9d"
@@ -148184,6 +148187,7 @@
 			"d6d6b28e-b01a-43c7-ab38-eae81ac1ad5c",
 			"7957d9ce-399f-4df8-adf7-4390329afe42",
 			"d1044f16-0f57-4c0b-a041-cee49b24938f",
+			"dc18d209-5abd-416f-b9cf-d357c40c534a",
 			"51566e4e-2d76-42f9-aea4-c558930d26f3",
 			"43e2b727-c734-457b-bb6e-87b579afe27e",
 			"c51858d1-5be9-4a7a-bdcb-f4df5d26950e",
@@ -148271,6 +148275,7 @@
 			"60369a47-c0e9-4018-85a3-3a278440eb92",
 			"d8db66b6-8aaa-4891-87e8-4c56857b5396",
 			"c85ddafd-cddc-4f3c-91b4-7495407642c3",
+			"327a49ab-8e0a-42ff-b7a3-6cbaddbeaf60",
 			"f7c2598a-bb60-4fd7-a2f2-b76b88e756e1",
 			"a1dff4f0-1ac8-40dc-b832-3dc3260cdc69",
 			"005ab5d9-f557-4136-80ea-390fedc9b257",
@@ -153523,7 +153528,9 @@
 		"$CONTENT_1a8ec070-587c-486f-9dbe-7eb6958219db/Objects/Database/ShapeSets/part.json": [
 			"427ca02e-69f3-4506-ae39-18c1e1263102",
 			"427ca02e-69f3-4506-ae39-18c1e1263103",
-			"427ca02e-69f3-4506-ae39-18c1e1263104"
+			"427ca02e-69f3-4506-ae39-18c1e1263104",
+			"427ca02e-69f3-4506-ae39-18c1e1263105",
+			"427ca02e-69f3-4506-ae39-18c1e1263106"
 		]
 	},
 	"029fd68e-0a38-436d-a57b-fb0204fe02c4": {
@@ -175937,6 +175944,12 @@
 			"7e4f1a23-bc99-4d8e-9f12-8e3b4a5d6023",
 			"7e4f1a23-bc99-4d8e-9f12-8e3b4a5d6030",
 			"7e4f1a23-bc99-4d8e-9f12-8e3b4a5d6031"
+		]
+	},
+	"9c78e77e-d34c-400f-80e8-118a766b9623": {
+		"$CONTENT_9c78e77e-d34c-400f-80e8-118a766b9623/Objects/Database/ShapeSets/blocks.json": [
+			"628b2d61-5ceb-43e9-8334-a4135566df7a",
+			"8aedf6c2-94e1-4506-89d4-a0227c552f1e"
 		]
 	}
 }
