@@ -175951,5 +175951,10 @@
 			"628b2d61-5ceb-43e9-8334-a4135566df7a",
 			"8aedf6c2-94e1-4506-89d4-a0227c552f1e"
 		]
+	},
+	"e2c7b18a-9f34-4d6e-b0a5-71d8c4396f2b": {
+		"$CONTENT_e2c7b18a-9f34-4d6e-b0a5-71d8c4396f2b/Objects/Database/ShapeSets/plasmacutter.shapeset": [
+			"5c1e9f43-8a70-4d62-bf59-0d3ab6c4e711"
+		]
 	}
 }

@@ -50735,5 +50735,15 @@
 		"name": "Concise Block Textures",
 		"type": "Blocks and Parts",
 		"version": 2
+	},
+	"e2c7b18a-9f34-4d6e-b0a5-71d8c4396f2b": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h1]Plasma Miner[/h1]\n\nA handheld plasma drill. On foot, underground, the sledgehammer is the only thing that shifts terrain - and the game deliberately restricts it to the softest material down there. This is the vehicle drill's cutting beam, scaled down to something you carry.\n\n[h2]Using it[/h2]\n\nHold the fire button to cut, out to twelve metres. Q swaps the beam width between normal at 1.6 metres and wide at 2.4. A row of twelve lights on the miner's own casing goes out as the cell drains, and the screen shows the charge left and how many spares you are carrying.\n\n[h2]Power[/h2]\n\nIt runs on Plasma Cells, crafted two at a time from 5 quartz and 20 batteries. One cell is sixty seconds of continuous cutting on normal and forty-five on wide, and the next cell loads itself the moment the last one empties. Run out of cells and it will not fire at all. In creative it never runs out.\n\n[h2]What it will not do[/h2]\n\nIt removes terrain rather than mining it: nothing drops and no ore is collected, so it is a shaping and tunnelling tool, not a way to hand-mine a seam. Bedrock is off limits at every setting. A creation in the beam stops it, so you cannot cut the ground out from under your own build by accident.\n\n[h2]Crafting[/h2]\n\nBoth the miner and its cells are made at the craftbot. The miner costs exactly what a Plasma Drill costs - 100 Metal Block Level 2, 10 Component Kits and 10 Circuit Boards - because it is the drill's beam in your hands, not a cheaper way to have one.\n\nVanilla survival cannot show modded recipes at all. To craft these you need [b]ModDatabase[/b] plus a custom gamemode that reads it - [b]Fant Mod 3[/b] and [b]Modded Craftbot Recipes[/b] both do. The tool and the cells themselves work in any world; it is only the craftbot entries that need the gamemode. If you have no modded gamemode, spawn them from the creative inventory.\n\nUnder Fant Mod 3 they also show up at the hideout trader as schematics - that mod lists every modded recipe there by itself, so there is nothing extra to install.\n\nMade with the game's own drilling call, at the drill's level one material settings - so what it can and cannot cut is decided by the same table the vanilla plasma drill uses.",
+		"fileId": 3791809239,
+		"localId": "e2c7b18a-9f34-4d6e-b0a5-71d8c4396f2b",
+		"name": "Plasma Miner",
+		"type": "Blocks and Parts",
+		"version": 2
 	}
 }

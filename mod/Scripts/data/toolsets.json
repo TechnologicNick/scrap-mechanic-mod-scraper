@@ -8248,5 +8248,10 @@
 	"6137ef1f-9b52-4cb8-91e9-0b666d485d89": {},
 	"c58d7e10-4a93-4f27-b6d1-2e8305c9af64": {},
 	"7e4f1a23-bc99-4d8e-9f12-8e3b4a5d6001": {},
-	"9c78e77e-d34c-400f-80e8-118a766b9623": {}
+	"9c78e77e-d34c-400f-80e8-118a766b9623": {},
+	"e2c7b18a-9f34-4d6e-b0a5-71d8c4396f2b": {
+		"$CONTENT_e2c7b18a-9f34-4d6e-b0a5-71d8c4396f2b/Tools/Database/ToolSets/plasmacutter.toolset": [
+			"9d4a6e21-3c58-4f77-8b12-a6e05d7c4839"
+		]
+	}
 }
