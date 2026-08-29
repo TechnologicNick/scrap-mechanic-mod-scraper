@@ -8253,5 +8253,14 @@
 		"$CONTENT_e2c7b18a-9f34-4d6e-b0a5-71d8c4396f2b/Tools/Database/ToolSets/plasmacutter.toolset": [
 			"9d4a6e21-3c58-4f77-8b12-a6e05d7c4839"
 		]
-	}
+	},
+	"87dafc95-db17-4a64-a7c6-a7ada69652cf": {},
+	"b592bf12-408f-4c29-a751-a5c5e0015ced": {},
+	"14e3aed2-d29c-4e0d-af61-106bd21953c2": {},
+	"72ad1818-09b5-4912-9921-61ea542654d9": {
+		"$CONTENT_72ad1818-09b5-4912-9921-61ea542654d9/Tools/Database/ToolSets/canteen.toolset": [
+			"8ec25c34-fe2e-4242-b863-d699b7d4d5c7"
+		]
+	},
+	"b5b4e765-f0fc-4a44-aac3-f92e0a2d7f91": {}
 }

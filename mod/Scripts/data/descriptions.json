@@ -33285,7 +33285,7 @@
 	"61d4b3e3-c5f7-454c-87fb-7a0fff5d91d0": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This mod adds alot of Parts for Storage and Automation.\r\n\r\n-Vacuumpipes in all variations\r\n-Vacuumpipe PUMP\r\n- Autocrafter\r\n-3 way Vacuumpump\r\n( Vacuumpumps have a Filter Inventory, Whitelist/Blacklist option, a Second (RED)\r\npainted Input can Switch the Direction\r\nIf you paint the Vacuumpump (Pink/Magenta) it can pickup block and parts.\r\nVacuumpumps can also Suck out items from Container they are facing\r\nand also push items in them.\r\nSucktion = Stack\r\nPush = 1 Single Item\r\nGrowbeds can be also harvested with vacuumpumps\r\n\r\n-Recycler\r\n-Pumpjack ( long distance fluid transfer )\r\n-Trashbin\r\n-Teleporter Itempipes ( in renderdistance item transport )\r\n-Container and Chests, all with Filter and the Item Collection from the Vanilla Large Chest\r\n-Seed Press to make out of seeds Scrapwood\r\n-Stationary Auto Miner that uses gas to slowly gather stone and metal.\r\n-Inline Refinery. a symetrical refinery variant.\r\n-5x5x8 Resource Collector, fitting for the inline refinery\r\n-chest fill detector to check the fill amount of container\r\n\r\n[h1] IMPORTENT  [/h1]\r\n For the recycler is the ModDatabase needed to let it see other modded recipes.\r\nyou only need to Subscribe to it, not add the Moddatabase to your world!.\r\n\r\n\r\n\r\nHelper:\r\nPuduku - Thin Chest Model\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This mod adds alot of Parts for Storage and Automation.\r\n\r\n-Vacuumpipes in all variations\r\n-Vacuumpipe PUMP\r\n- Autocrafter\r\n-3 way Vacuumpump\r\n( Vacuumpumps have a Filter Inventory, Whitelist/Blacklist option, a Second (RED)\r\npainted Input can Switch the Direction\r\nIf you paint the Vacuumpump (Pink/Magenta) it can pickup block and parts.\r\nVacuumpumps can also Suck out items from Container they are facing\r\nand also push items in them.\r\nSucktion = Stack\r\nPush = 1 Single Item\r\nGrowbeds can be also harvested with vacuumpumps\r\n\r\n-Recycler\r\n-Pumpjack ( long distance fluid transfer )\r\n-Trashbin\r\n-Teleporter Itempipes ( in renderdistance item transport )\r\n-Container and Chests, all with Filter and the Item Collection from the Vanilla Large Chest\r\n-Seed Press to make out of seeds Scrapwood\r\n-Stationary Auto Miner that uses gas to slowly gather stone and metal.\r\n-Inline Refinery. a symetrical refinery variant.\r\n-5x5x8 Resource Collector, fitting for the inline refinery\r\n-chest fill detector to check the fill amount of container\r\n\r\n[h1] IMPORTENT  [/h1]\r\n For the recycler is the ModDatabase needed to let it see other modded recipes.\r\nyou only need to Subscribe to it, not add the Moddatabase to your world!.\r\n\r\n\r\nExample:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3791417868\r\n\r\n\r\nHelper:\r\nPuduku - Thin Chest Model\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2963115530,
 		"localId": "61d4b3e3-c5f7-454c-87fb-7a0fff5d91d0",
 		"name": "Fants Vacuum System Extention",
@@ -36895,14 +36895,14 @@
 	},
 	"64f51e7e-487a-452f-8811-ef64adb5ae7b": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"dependencies": null,
 		"description": "Mod on a solar panel that generates energy during daylight hours and can power various mechanisms",
 		"fileId": 3144588737,
 		"localId": "64f51e7e-487a-452f-8811-ef64adb5ae7b",
 		"name": "Solar Panel",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"66207467-8f35-462b-8429-3add52b51ced": {
 		"allow_add_mods": true,
@@ -42741,7 +42741,7 @@
 		"localId": "e5024e0f-a97c-4b80-bcb4-42bb3cc8cc1d",
 		"name": "Faster Refining Speed",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"e080d505-bf93-4ab2-b916-233484b77c90": {
 		"allow_add_mods": true,
@@ -50639,7 +50639,7 @@
 	"c75554b9-a6c6-4c6d-a3b2-6193eae3ab70": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]XXL Containers[/h1]Adds bigger versions of every container in the game same connections, same filters, just way more capacity. No more chaining a row of them together to keep something fed.[hr][/hr][h2]Adds XXL versions of[/h2][list][*] Ammo Container[*] Water Container[*] Chemical Container[*] Battery Container[*] Gasoline Container[*] Seed Container[/list][i]1.0 (Drilling Thunder) compatible[/i][hr][/hr][h2]Compatibility[/h2]This mod replaces the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3780806735]XXL Ammo Container[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3788758316]XXL Water Container[/url] mods you can safely swap over to this one without breaking existing builds or losing anything.You can keep running the old mods alongside this one too if you'd rather not switch, they just become redundant.",
+		"description": "[h1]XXL Containers[/h1]Adds bigger versions of every container in the game same connections, same filters, just way more capacity. No more chaining a row of them together to keep something fed.[hr][/hr][h2]Adds XXL versions of[/h2][list][*] Ammo Container[*] Water Container[*] Gasoline Container[*] Battery Container[*] Chemical Container[/list][i]1.0 (Drilling Thunder) compatible[/i][hr][/hr][h2]Compatibility[/h2]This mod replaces the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3780806735]XXL Ammo Container[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3788758316]XXL Water Container[/url] mods you can safely swap over to this one without breaking existing builds or losing anything.You can keep running the old mods alongside this one too if you'd rather not switch, they just become redundant.",
 		"fileId": 3790118848,
 		"localId": "c75554b9-a6c6-4c6d-a3b2-6193eae3ab70",
 		"name": "XXL Containers - Complete Set",
@@ -50743,6 +50743,63 @@
 		"fileId": 3791809239,
 		"localId": "e2c7b18a-9f34-4d6e-b0a5-71d8c4396f2b",
 		"name": "Plasma Miner",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"87dafc95-db17-4a64-a7c6-a7ada69652cf": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 3791966305,
+		"localId": "87dafc95-db17-4a64-a7c6-a7ada69652cf",
+		"name": "Fants Glowbugbox",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"b592bf12-408f-4c29-a751-a5c5e0015ced": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3791971054,
+		"localId": "b592bf12-408f-4c29-a751-a5c5e0015ced",
+		"name": "shlakablock",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"14e3aed2-d29c-4e0d-af61-106bd21953c2": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 3792031737,
+		"localId": "14e3aed2-d29c-4e0d-af61-106bd21953c2",
+		"name": "Fants Anchor",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"72ad1818-09b5-4912-9921-61ea542654d9": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
+				"name": "ModDatabase"
+			}
+		],
+		"description": "[h1]Brewworks[/h1]\nTwo machines and a flask. Grow it, brew it, carry it.\n\n[b]Juicer[/b] takes any farmable and a plumbed-in water tank and brews on its own - no crafting step, nothing to press. A lit bar on the front tells you whether it is brewing or waiting on water or crops, and what it has made is standing behind the glass where you can see it. Crops go in by hand.\n\n[b]Dispenser[/b] fills your flask from what you put in it and lists every brew and how much of it on the screen on its front - so you know before you walk over. Twenty sips, and it tops up from whatever is left rather than making you start again.\n\nBoth machines take vacuum pipes on their flanks, back and floor, and the dispenser is the end that does the pulling: pipe a juicer or a chest into it and the brews walk themselves over.\n\nEvery farmable in the game has a brew, and a sip heals exactly what eating that crop heals - the numbers are the game's own, not made up. Brews are not drinkable on their own; they are what a flask gets filled with. Chili is in there too, and chili heals for -100 in vanilla. Watch what you fill from.",
+		"fileId": 3792144346,
+		"localId": "72ad1818-09b5-4912-9921-61ea542654d9",
+		"name": "Brewworks - Flask and Brewing System",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"b5b4e765-f0fc-4a44-aac3-f92e0a2d7f91": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "RV32IMA LuaJIT implementation. ~10 MIPS max. Just connect it to the terminal. Pressing [E] resets. credits: https://github.com/misaalanshori/mini-rv32ima_lua https://github.com/cnlohr/mini-rv32ima",
+		"fileId": 3792181101,
+		"localId": "b5b4e765-f0fc-4a44-aac3-f92e0a2d7f91",
+		"name": "RV32IMA Computer",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
