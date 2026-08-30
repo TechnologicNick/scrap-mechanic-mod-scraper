@@ -7798,9 +7798,7 @@
 	"be752a0e-a2a9-4b12-bbfa-e0855c72b8be": {
 		"$CONTENT_be752a0e-a2a9-4b12-bbfa-e0855c72b8be/Tools/Database/ToolSets/example.toolset": []
 	},
-	"191b36a9-7735-4776-b28b-5153645c7793": {
-		"$CONTENT_191b36a9-7735-4776-b28b-5153645c7793/Tools/Database/ToolSets/fantmod.toolset": []
-	},
+	"191b36a9-7735-4776-b28b-5153645c7793": {},
 	"d8d65e32-2bd0-495c-a8e9-b378630e151a": {},
 	"ad287752-d910-470e-9fe5-bcbf5d02d632": {},
 	"395647cf-452d-4c7f-a6e1-540df4722073": {
@@ -8072,9 +8070,7 @@
 		"$CONTENT_29c99287-1213-48c7-9471-19a4a5c12247/Tools/Database/ToolSets/rfs_minimap.toolset": [
 			"7c4e9b21-6a8d-4f03-b5e1-92c0d8a47f16",
 			"d96c2fe4-177b-49bb-be40-e4b1bcdd8f76",
-			"e8f4a2b1-3c7d-4e9f-8a2b-1d5e6f7a8b9c",
-			"f0e9d8c7-b6a5-4321-9c8d-7e6f5a4b3c2d",
-			"b7c8d9e0-1f2a-4b3c-8d5e-6f7a8b9c0d1e"
+			"e8f4a2b1-3c7d-4e9f-8a2b-1d5e6f7a8b9c"
 		]
 	},
 	"402cd46e-5010-459c-936f-6f9ccfe94b64": {},
@@ -8107,7 +8103,11 @@
 	"f68a9e67-5d86-4e3c-9d8a-5b591458295c": {},
 	"e87c695c-1f28-4cc2-83ad-84085d30f65c": {},
 	"9f918de4-b1c1-4cf2-965f-9e7482a22528": {},
-	"d0b98b9e-bcd9-4228-b360-3e9728998a6b": {},
+	"d0b98b9e-bcd9-4228-b360-3e9728998a6b": {
+		"$CONTENT_d0b98b9e-bcd9-4228-b360-3e9728998a6b/Tools/Database/ToolSets/rz_tools.toolset": [
+			"711132e9-c61b-439a-9609-884d709531bf"
+		]
+	},
 	"dc0d20bd-6402-4aa6-ab72-263cfd6040d5": {},
 	"7c8f4633-e789-4a85-ae0e-c2643e5c40bc": {},
 	"45ff9c50-5612-4f66-9e4a-5d8f761f23bd": {
@@ -8268,5 +8268,6 @@
 	"01db5139-ccde-4321-9888-47e0b87b0013": {},
 	"dd1c2443-8895-4692-8294-158b1f9ef250": {},
 	"3b229cbd-f0c4-4e7c-94b4-df50326c8b13": {},
-	"3f8a1c2d-5e6b-47a9-9c0d-1b2e3f4a5c6d": {}
+	"3f8a1c2d-5e6b-47a9-9c0d-1b2e3f4a5c6d": {},
+	"0465bad5-2d9e-4fc6-9864-11139f276802": {}
 }
