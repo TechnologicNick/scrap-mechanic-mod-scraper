@@ -49383,7 +49383,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "Mod that improves gameplay in some aspects that I didn't like in vanilla.\r\nFeatures:\r\n-Trades have been improved as well as farming progression so farming is useful in late game\r\n-Added difficulty settings, to access them press R\r\n Easy - 0.5x damage to player/raid difficulty \r\n Normal - standard values \r\n Hard - 1.5x damage to player/raid difficulty \r\n Ultra hard - 3x damage to player and 999x raid difficulty (not recommended, it was made just for fun)\r\n-The flamethrower's stats have been improved - it is now more powerful\r\n-Added sawbot to the mechanic station, also sawbot now can be upgraded with regular components\r\n-Increased player's inventory\r\n-Changed some recipes in craftbot\r\n-Added tea, seed container and fertilizer container recipes\r\n-Buffed green tapebot, yellow tapebot and minerbot\r\n-Added mounted firethrower\r\n-Increased the capacity of the small chest with a tube and the XXL chest.\r\n-Refiner bot is now faster and outputs 1.5x more resources\r\n\r\nIf you spot any bugs or have any suggestions, point them out in the comments please!\r\n\r\nP.S. Please do not use any code from my mod without my permisson. \r\n",
+		"description": "Mod that improves gameplay in some aspects that I didn't like in vanilla.\r\nFeatures:\r\n-Trades have been improved as well as farming progression so farming is useful in late game\r\n-Added custom difficulty settings, open them with R:\r\n Raid difficulty 0.1-10\r\n Damage 0.1-10\r\n Loot multiplier 1-10 (whole numbers)\r\n Hunger and thirst (off by default)\r\n Seekerbot AI toggle\r\n-The flamethrower's stats have been improved - it is now more powerful\r\n-Added sawbot to the mechanic station, also sawbot now can be upgraded with regular components\r\n-Increased player's inventory\r\n-Changed some recipes in craftbot\r\n-Added tea, seed container and fertilizer container recipes\r\n-Buffed green tapebot, yellow tapebot and minerbot\r\n-Added mounted firethrower\r\n-Increased the capacity of the small chest with a tube and the XXL chest.\r\n-Refiner bot is now faster and outputs 1.5x more resources\r\n\r\nIf you spot any bugs or have any suggestions, point them out in the comments please!\r\n\r\nP.S. Please do not use any code from my mod without my permisson.",
 		"fileId": 3777689376,
 		"localId": "35971f1e-2b72-49cf-838b-2d1bf411b0a7",
 		"name": "Survival+",
@@ -50312,7 +50312,7 @@
 	"44eb93b6-9ae0-423e-b8f6-1dccb8951384": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1][b]Customizable survival mode[/b][/h1]\r\n\r\nThe goal of the mod was to create a more relaxed start to the game and speed it up so that the progression rate was relatively consistent throughout. At the same time, I wanted to leave the ability to modify these values ​​during gameplay if I felt something was amiss.\r\n\r\nTo modify the values, simply run the \"Config.lua\" file in the \"Scripts\" folder using Notepad. I tried to use comments to make it easier to decide what does what.\r\n\r\n[h2][b]Note on the version warning[/b][/h2]\r\n\r\nScrap Mechanic may warn you that this mod was built with an older mod compiler. That is expected and safe to ignore. The current 1.0 mod compiler crashes when building custom games, so this is compiled with the previous version instead. The mod itself is written for Scrap Mechanic 1.0 and is played on it.\r\n[hr][/hr]\r\n[h2]What this mod add:[/h2]\r\n[list]\r\n[*][b]Customize inventory size -[/b] ability to change the size of the backpack (Vanilla = 40. Mod = 60).\r\n[*][b]Melee damage multipiler over vanilla -[/b] 1 mean vanilla value, 2 mean 2x more dmg.\r\n[*][b]Potato damage multipiler over vanilla -[/b] 1 mean vanilla value, 2 mean 2x more dmg.\r\n[*][b]Harvest damage multipiler -[/b] melee damage multipiler aganist trees, logs etc. 1 mean vanilla, 2 mean 2x more dmg.\r\n[*][b]Refine yield multipiler -[/b] hand refinery bonus. 1 mean vanilla amount, more mean random value between vanilla value and new value (exampe, 2 means random value between 10 (vanilla value) and 20 (modded value)).\r\n[*][b]Refinery bonus -[/b] added bonus for automatic refinery. Now its better to transport resources over hand refining (in this mod with standard options, hand refine is immediate) for more resources (1 is vanilla amount, 2 is 2x vanilla amount).\r\n[*][b]Gather multipiler -[/b] multipiler added for collect items from crops or oil geysers (1 mean vanilla value, 2 mean random value between vanilla value nad 2x vanilla value)\r\n[*][b]Loot roll multiplier and roll chances -[/b] this values changes chances for additional loot items (types, not quantities).\r\n[*][b]Loot quantity multipiler and chances -[/b] this values changes amounts of items in loot.\r\n[*][b]Seeds from crops chances -[/b] this change chances for seeds (amounts) while collecting crops.\r\n[*][b]Change craft time -[/b] if you wanna, you can change craft time for all items to the specified value.\r\n[*][b]Refinery anim time -[/b] determine how fast is animation (so is production) in seconds\r\n[/list]\r\n\r\n[h2][b]22.08.2026 Update:[/b][/h2]\r\n[list]\r\n[*][b]Player max HP -[/b] added option to change player max HP (vanilla 100, modded 150)\r\n[*][b]New recipes -[/b] added new recipes for fertilizer (3 seeds + 1 water = 1 fertilizer)\r\n[*][b]New transactions in hideout -[/b] added new transactions in hideout.\r\n[/list]\r\n\r\n[h2][b]Known bugs:[/b][/h2]\r\n[list]\r\n[*]Transactions for plants that are not yet unlocked are immediately unlocked.\r\n[*]Small chest size is not changing\r\n[*]Paintgun dont use ammo\r\n[*]Vanilla recipe for fertilizer is not working\r\n[/list]",
+		"description": "[h1][b]Customizable survival mode[/b][/h1]\r\n\r\nThe goal of the mod was to create a more relaxed start to the game and speed it up so that the progression rate was relatively consistent throughout. At the same time, I wanted to leave the ability to modify these values ​​during gameplay if I felt something was amiss.\r\n\r\nTo modify the values, simply run the \"Config.lua\" file in the \"Scripts\" folder using Notepad. I tried to use comments to make it easier to decide what does what.\r\n\r\n[h2][b]Note on the version warning[/b][/h2]\r\n\r\nScrap Mechanic may warn you that this mod was built with an older mod compiler. That is expected and safe to ignore. The current 1.0 mod compiler crashes when building custom games, so this is compiled with the previous version instead. The mod itself is written for Scrap Mechanic 1.0 and is played on it.\r\n[hr][/hr]\r\n[h2]What this mod add:[/h2]\r\n[list]\r\n[*][b]Customize inventory size -[/b] ability to change the size of the backpack (Vanilla = 40. Mod = 60).\r\n[*][b]Melee damage multipiler over vanilla -[/b] 1 mean vanilla value, 2 mean 2x more dmg.\r\n[*][b]Potato damage multipiler over vanilla -[/b] 1 mean vanilla value, 2 mean 2x more dmg.\r\n[*][b]Harvest damage multipiler -[/b] melee damage multipiler aganist trees, logs etc. 1 mean vanilla, 2 mean 2x more dmg.\r\n[*][b]Refine yield multipiler -[/b] hand refinery bonus. 1 mean vanilla amount, more mean random value between vanilla value and new value (exampe, 2 means random value between 10 (vanilla value) and 20 (modded value)).\r\n[*][b]Refinery bonus -[/b] added bonus for automatic refinery. Now its better to transport resources over hand refining (in this mod with standard options, hand refine is immediate) for more resources (1 is vanilla amount, 2 is 2x vanilla amount).\r\n[*][b]Gather multipiler -[/b] multipiler added for collect items from crops or oil geysers (1 mean vanilla value, 2 mean random value between vanilla value nad 2x vanilla value)\r\n[*][b]Loot roll multiplier and roll chances -[/b] this values changes chances for additional loot items (types, not quantities).\r\n[*][b]Loot quantity multipiler and chances -[/b] this values changes amounts of items in loot.\r\n[*][b]Seeds from crops chances -[/b] this change chances for seeds (amounts) while collecting crops.\r\n[*][b]Change craft time -[/b] if you wanna, you can change craft time for all items to the specified value.\r\n[*][b]Refinery anim time -[/b] determine how fast is animation (so is production) in seconds.\r\n[*][b]Player max HP -[/b] added option to change player max HP (vanilla 100, modded 150).\r\n[*][b]New recipes -[/b] added the ability to create additional recipes under the path: Steam\\steamapps\\workshop\\content\\387990\\3787501722\\CraftingRecipes\\craftbot\\craftbot_core. The mod already includes several additional recipes.\r\n[*][b]New transactions in hideout -[/b] added new transactions in hideout.\r\n[/list]\r\n\r\n[h2][b]22.08.2026 Update:[/b][/h2]\r\n[list]\r\n[*][b]NEW[/b] - added max hp modding.\r\n[*][b]NEW[/b] - added new recipes for fertilizer (3 seeds + 1 water = 1 fertilizer).\r\n[*][b]NEW[/b] - new transactions in hideout for some blocks.\r\n[/list]\r\n\r\n[h2][b]28.08.2026 Update:[/b][/h2]\r\n[list]\r\n[*][b]FIX[/b] - fixed a bug in the recipe system that prevented items from being crafted if they had more than one recipe (additional recipes for fertilizer should work now).\r\n[*][b]FIX[/b] - fixed a bug that caused crates to not have the custom number of slots (any change in the config regarding the number of slots requires rebuilding the box empty for the system to work).\r\n\r\n[h2][b]Known bugs:[/b][/h2]\r\n[list]\r\n[*]Transactions for plants that are not yet unlocked are immediately unlocked.\r\n[*]Paintgun dont use ammo\r\n[/list]",
 		"fileId": 3787501722,
 		"localId": "44eb93b6-9ae0-423e-b8f6-1dccb8951384",
 		"name": "Survival Improved+",
@@ -50392,7 +50392,7 @@
 		"description": "Adds the Blueprint - a handheld planner. Hold it and right-click to open the parts list: set an amount, click items to track them (up to 4), and a HUD checklist shows every part you still need, filling in live as you gather materials. Search bar, mouse-wheel scrolling, and tabs for base-game and installed mod items included. Craft the Blueprint at the Craftbot (2 circuit boards). Some say a well-worn Blueprint hides more than plans...",
 		"fileId": 3788337776,
 		"localId": "77167c00-9e45-4b78-a38e-86d0ee04a988",
-		"name": "Reaperz Blueprint HUD",
+		"name": "Reaperz Parts Checklist",
 		"type": "Blocks and Parts",
 		"version": 2
 	},
@@ -50766,7 +50766,7 @@
 	"b592bf12-408f-4c29-a751-a5c5e0015ced": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "gear block",
 		"fileId": 3791971054,
 		"localId": "b592bf12-408f-4c29-a751-a5c5e0015ced",
 		"name": "shlakablock",
@@ -50872,6 +50872,66 @@
 		"fileId": 3792987887,
 		"localId": "e4470a01-4e9f-466f-8b46-e73b5e54959b",
 		"name": "Component kits",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"bcc7f2e2-455f-4ff0-9551-a0ac3c993697": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Two survival stations shrunk down, for builds that cannot spare a full-size bot.\r\n\r\nMINI COLLECTOR - 3x4x3 blocks, one eighth the volume of a Resource Collector, holding exactly the same 25 stacks. The harvestables it displays are shrunk to match, so a packed mini collector reads the same as the vanilla one, just smaller. It also reaches further than the part it shrinks: 5m of suction beyond its own surface against the vanilla collector's 3m.\r\n\r\nMINI REFINERY - 3x3x4 blocks, with the same cross-section so the two sit together as a set. Same recipes and containers as the Refinebot, with animated grinding gears on the front, a vacuum port on the back for piping output into a chest, and a front face that cannot be welded to so the gears stay clear.\r\n\r\nBoth behave like the stock parts otherwise. Drop harvestables near the collector and it vacuums them up; park it against the refinery, or against a vanilla Refinebot or Crushbot, and they pull from it exactly as they would from a full-size collector.\r\n\r\nOne difference worth knowing: you cannot deposit into the collector by aiming at it while carrying a log. That shortcut is a hardcoded list inside the game's own carry tool script, which an add-on mod cannot extend. Drop the harvestable anywhere in range instead.\r\n\r\nCRAFTING - Mini Collector is 40 x Metal Block Level 1 + 2 x Component Kit; Mini Refinery is 40 x Metal Block Level 1 + 7 x Component Kit + 5 x Circuit Board. Priced to match what the full-size parts cost, so the compact versions are a trade in space rather than a discount. Recipes require Fant Mod 3 - in other game modes both parts are creative-only.",
+		"fileId": 3793234034,
+		"localId": "bcc7f2e2-455f-4ff0-9551-a0ac3c993697",
+		"name": "Mini Collector & Refinery",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"8d41f6b3-2a97-4c15-9e83-70b5c2a1d648": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Every national flag plus the pride flags, on one placeable banner. Right-click to pick a flag from a searchable list.",
+		"fileId": 3793243243,
+		"localId": "8d41f6b3-2a97-4c15-9e83-70b5c2a1d648",
+		"name": "Reaperz Flags",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"e3e40a51-589d-49dd-98f1-e67a9a209859": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 3793321765,
+		"localId": "e3e40a51-589d-49dd-98f1-e67a9a209859",
+		"name": "Fants Terrain Hoe",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"e34d0cfd-e70e-4a08-bf23-b8f68f8ff75a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Replantez la foret.\r\n\r\n[b]Recuperer une graine[/b]\r\nAbattez un arbre et debitez sa souche : vous obtenez une graine de son espece, a coup sur, ainsi qu'un bac a arbre. Un arbre abattu rend donc de quoi en replanter un. Les quatre especes du jeu sont couvertes : bouleau, feuillu, pin et epicea.\r\n\r\n[b]Semer[/b]\r\nLe bac est une auge de planches de trois metres, assez large pour qu'un arbre y tienne. Selectionnez la graine : le sachet apparait dans votre main. Visez le bac et cliquez, ou utilisez la touche Utiliser. C'est l'espece tenue en main qui est semee.\r\n\r\n[b]Automatiser[/b]\r\nBraquez une pompe a vide sur le bac, a moins de quatre metres, et reliez-lui un coffre de graines par des tuyaux : le bac se sert tout seul. Si la pompe est branchee a un interrupteur, celui-ci commande le semis.\r\n\r\n[b]Faire pousser l'arbre[/b]\r\nGardez la terre humide, a l'arrosoir ou en laissant faire la pluie : l'arbrisseau grandit au milieu du bac, en deux jours de jeu, ramenes a moins d'un avec de l'engrais. A maturite l'arbre prend sa place, et le bac reste pour le suivant. Un coup de marteau arrache une pousse en cours.\r\n\r\n[b]Compatibilite[/b]\r\nLe mod remplace les 10 parts de souche du jeu : il est incompatible avec un autre mod qui modifierait ces memes parts. Rien d'autre du jeu n'est touche.\r\n\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"fileId": 3793495719,
+		"localId": "e34d0cfd-e70e-4a08-bf23-b8f68f8ff75a",
+		"name": "Arbres Plantables",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"fae9fa59-471c-4474-b9c9-5038e2b99e31": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "A filter that sits in the line and does the moving itself.\r\n\r\nScrap Mechanic's vacuum network does not carry items on its own: two chests joined by pipes never exchange anything, because only machines move goods. So the Sorter Gate moves them. Build it against the chest you want to fill, amber face touching it, and plug whatever should feed it into the green face. Drop up to ten items into the gate and it keeps pulling exactly those into that chest, four times a second, while the chest itself refuses everything else.\r\n\r\nThe items you drop in are samples, handed straight back to your inventory, so marking a chest costs you nothing.\r\n\r\n[h1]Features[/h1]\r\n[list]\r\n[*]Moves the goods itself: no button, no wiring, no recharge delay\r\n[*]A marked inlet face and a marked outlet face\r\n[*]Up to ten accepted items per gate, chosen by dropping them in\r\n[*]Samples cost nothing: the item is handed back the moment it lands in the gate\r\n[*]Pulls from every container touching the gate and from anything on its pipe run\r\n[*]The outlet chest is whitelisted to the same list, so nothing else lands there\r\n[*]An empty gate moves nothing and filters nothing: it is off\r\n[*]Removing the gate hands the chest back unfiltered\r\n[/list]\r\n\r\n[h1]How to use[/h1]\r\n1. Build the gate against the chest you want to fill, amber face touching the chest.\r\n2. Put the source storage against the green face, or run the vacuum line into it.\r\n3. Interact with the gate and drop one of each item that should be carried across.\r\n4. That is all. The gate starts moving them straight away.\r\n\r\n[h1]FAQ[/h1]\r\n[b]Does the gate eat the items I put in it?[/b]\r\nNo. Whatever lands in a gate slot is returned to your inventory on the spot; the slot keeps only the picture. Taking a sample back out costs you one of that item in return, so the gate can never be used to duplicate anything.\r\n\r\n[b]Nothing moves. Why?[/b]\r\nAn empty gate is off by design. Drop at least one item in it. Then check that the chest you want filled is on the amber side: that is the one the gate feeds.\r\n\r\n[b]Where does it pull from?[/b]\r\nEvery container it touches, plus anything reachable through the pipes plugged into it, minus the outlet chest itself.\r\n\r\n[b]The chest has its own filter panel. Which one wins?[/b]\r\nThe gate. It re-applies its list once a second, so a gate built against a chest takes that chest's filtering over for as long as it is there.\r\n\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"fileId": 3793496378,
+		"localId": "fae9fa59-471c-4474-b9c9-5038e2b99e31",
+		"name": "Sorter Gate",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"311f65df-1663-42d1-b308-f833bc88945a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Deux ameliorations du growbed vanilla, pour automatiser une ferme de bout en bout.\r\n\r\n[b]1. Recolte a la pompe a vide[/b]\r\nBraquez une pompe a vide (mode aspiration, reliee a un coffre par des tuyaux) sur un growbed dont la plante a fini de pousser : la recolte et les graines partent directement dans le reseau, et le bac repasse en terre prete a etre replantee. Meme cadence et memes effets que l'aspiration vanilla.\r\n\r\n[b]2. Detection par capteur[/b]\r\nUn bac dont la plante est arrivee a maturite prend une couleur de signal jaune. Un capteur regle en Color Mode sur ce jaune ne se declenche donc qu'une fois la pousse terminee, et reste allume jusqu'a la recolte. La peinture d'origine du bac est memorisee puis restauree automatiquement apres la recolte.\r\n\r\nDe quoi boucler la chaine : capteur -> pompe a vide -> coffre.\r\n\r\n[b]Compatibilite[/b]\r\nCe mod remplace les parts vanilla du growbed et de la pompe a vide : il est incompatible avec un autre mod qui modifierait ces memes parts. Aucun nouvel objet n'est ajoute et aucun UUID n'est cree, les mondes et constructions existants restent compatibles.\r\n\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"fileId": 3793496832,
+		"localId": "311f65df-1663-42d1-b308-f833bc88945a",
+		"name": "Growbed Amélioré",
 		"type": "Blocks and Parts",
 		"version": 2
 	}

@@ -7913,7 +7913,12 @@
 	"35971f1e-2b72-49cf-838b-2d1bf411b0a7": {
 		"$CONTENT_35971f1e-2b72-49cf-838b-2d1bf411b0a7/Tools/Database/ToolSets/example.toolset": [],
 		"$CONTENT_35971f1e-2b72-49cf-838b-2d1bf411b0a7/Tools/Database/ToolSets/spudguns.json": [
-			"a2a2bb33-a841-4b23-88da-b758063d9206"
+			"a2a2bb33-a841-4b23-88da-b758063d9206",
+			"9fde0601-c2ba-4c70-8d5c-2a7a9fdd122b"
+		],
+		"$CONTENT_35971f1e-2b72-49cf-838b-2d1bf411b0a7/Tools/Database/ToolSets/tools.json": [
+			"8f190ce2-3a59-423e-8483-a7aa67bd5bc0",
+			"2bff990a-0e74-43c7-b7dc-889b3a086fa3"
 		]
 	},
 	"7834c74c-3a44-4ccd-9005-340f8e5477c9": {
@@ -8258,7 +8263,11 @@
 		]
 	},
 	"87dafc95-db17-4a64-a7c6-a7ada69652cf": {},
-	"b592bf12-408f-4c29-a751-a5c5e0015ced": {},
+	"b592bf12-408f-4c29-a751-a5c5e0015ced": {
+		"$CONTENT_b592bf12-408f-4c29-a751-a5c5e0015ced/Tools/Database/ToolSets/carry.toolset": [
+			"75e122f6-20a3-4081-a267-bfc12d255370"
+		]
+	},
 	"14e3aed2-d29c-4e0d-af61-106bd21953c2": {},
 	"72ad1818-09b5-4912-9921-61ea542654d9": {
 		"$CONTENT_72ad1818-09b5-4912-9921-61ea542654d9/Tools/Database/ToolSets/canteen.toolset": [
@@ -8271,5 +8280,19 @@
 	"3b229cbd-f0c4-4e7c-94b4-df50326c8b13": {},
 	"3f8a1c2d-5e6b-47a9-9c0d-1b2e3f4a5c6d": {},
 	"0465bad5-2d9e-4fc6-9864-11139f276802": {},
-	"e4470a01-4e9f-466f-8b46-e73b5e54959b": {}
+	"e4470a01-4e9f-466f-8b46-e73b5e54959b": {},
+	"bcc7f2e2-455f-4ff0-9551-a0ac3c993697": {},
+	"8d41f6b3-2a97-4c15-9e83-70b5c2a1d648": {},
+	"e3e40a51-589d-49dd-98f1-e67a9a209859": {
+		"$CONTENT_e3e40a51-589d-49dd-98f1-e67a9a209859/Tools/Database/ToolSets/fth.toolset": [
+			"97c7ced3-4496-42a4-8a6f-47e9268a785d"
+		]
+	},
+	"e34d0cfd-e70e-4a08-bf23-b8f68f8ff75a": {
+		"$CONTENT_e34d0cfd-e70e-4a08-bf23-b8f68f8ff75a/Tools/Database/ToolSets/tree_seeds.toolset": [
+			"3a1c7e40-9b52-4d18-a7c1-51e0d4a90020"
+		]
+	},
+	"fae9fa59-471c-4474-b9c9-5038e2b99e31": {},
+	"311f65df-1663-42d1-b308-f833bc88945a": {}
 }
