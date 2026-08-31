@@ -14543,13 +14543,15 @@
 		"version": 0
 	},
 	"a7346d8a-f874-41fc-bbca-0caff36ec6b7": {
+		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "developer mode with commands in Survival !\r\nCommand list:\r\nhttps://scrapmechanic.fandom.com/wiki/Commands\r\n",
+		"dependencies": [],
+		"description": "[b] INSTALLATION: SUBSCRIBE, RESTART THE GAME, OPEN PLAY > CUSTOM GAME, SELECT \"Developer Mode - Chapter 2!\", AND CREATE A WORLD. [/b]\r\n\r\nDeveloper mode with commands in Survival, [u] without having to change any game files [/u].\r\n+ friends without this mod can join\r\n+ unrestricted inventory, fuel, ammo and upgrades\r\n+ developer starter inventory for new players\r\n+ normal survival lift with creative blueprint access anywhere\r\n\r\nUse /help in chat for the in-game command list.\r\n\r\n[i] Command list:\r\n/god\r\n/day\r\n/night\r\n/heal\r\n/ammo [quantity]\r\n/spudgun\r\n/gatling\r\n/shotgun\r\n/sunshake\r\n/baguette\r\n/keycard\r\n/powercore\r\n/components [quantity]\r\n/glowsticks [quantity]\r\n/tumble [true/false]\r\n/respawn\r\n/encrypt\r\n/decrypt\r\n/limited\r\n/unlimited\r\n/ambush [magnitude] [wave]\r\n/timeofday [value]\r\n/timeprogress [true/false]\r\n/spawn [name]\r\n/harvestable [name]\r\n/cleardebug\r\n/export <name>\r\n/import <name>\r\n/devkit\r\n/unlockgarments\r\n/unlocklocations (host)\r\n/fly\r\n/devprogress\r\n/pos or /position\r\n/tp <x> <y> <z>\r\n/give <uuid> [amount]\r\n/printtilevalues\r\n/freeelevator <true/false> (host)\r\n/devencounter <warehouse|scrapyard|boss> (host)\r\n/starterkit\r\n/mechanicstartkit\r\n/pipekit\r\n/foodkit\r\n/seedkit\r\n/die\r\n/sethp <value>\r\n/setwater <value>\r\n/setfood <value>\r\n/aggroall\r\n/goto <name>\r\n/raid <level> [wave] [hours]\r\n/stopraid\r\n/disableraids <true/false]\r\n/camera\r\n/noaggro [true/false]\r\n/killall\r\n/printglobals\r\n/clearpathnodes\r\n/enablepathpotatoes [true/false]\r\n/activatequest [id]\r\n/completequest [id] [/i]",
 		"fileId": 2806106101,
 		"localId": "a7346d8a-f874-41fc-bbca-0caff36ec6b7",
-		"name": "1 click Dev-Mode (Finally!)",
+		"name": "Developer Mode - Chapter 2!",
 		"type": "Custom Game",
-		"version": 0
+		"version": 1
 	},
 	"23aee415-5c93-4c2e-91a9-f4753eab3f9f": {
 		"custom_icons": false,
@@ -50051,7 +50053,7 @@
 	"3527a266-a254-437d-9f53-36ef6e1b7ec3": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Adds Magnet Tool and Magnet Tool Charging Station, Magnet Tool holds a charge and pulls items into inventory. WIP",
+		"description": "Adds a Magnet Tool and Magnet Tool Charging Station, Magnet Tool pulls items into inventory consuming batteries as the source of power.\r\n\r\nNote: The Magnet Tool does not need to be equipped just needs to be active to pull items.\r\n\r\nThere are 2 ways to charge the magnet tool\r\n\r\n1. Use the tools menu by pressing right click and inserting batteries that are in your inventory.\r\n\r\n2. Put the tool into the first slot of the magnet tool charging station while having batteries in the second slot, or a connected battery container.",
 		"fileId": 3782919981,
 		"localId": "3527a266-a254-437d-9f53-36ef6e1b7ec3",
 		"name": "Magnet Tool",
@@ -50674,7 +50676,7 @@
 	"52d72bd6-d926-4c73-afd3-697102dfefdd": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Stable camera controller mod. Includes:- Camera Turret controller + Traverse motor - for controlling turrets with camera- Third person camera controller - configurable way of changing your camera positionIt is more optimised than other camera controllers and created specifically for creating tank turretsLast version: 0.87",
+		"description": "Stable camera controller mod. \r\n\r\nIncludes:\r\n- Camera Turret controller + Traverse motor - for controlling turrets with camera\r\n- Third person camera controller - configurable way of changing your camera position\r\n\r\nThis mode works differently than other camera turret controllers from other mods. It is optimased for using it for turrets\r\n\r\nLast version: 0.87",
 		"fileId": 3775606269,
 		"localId": "52d72bd6-d926-4c73-afd3-697102dfefdd",
 		"name": "Definite Turret Camera Controller",
@@ -50791,7 +50793,7 @@
 				"name": "ModDatabase"
 			}
 		],
-		"description": "[h1]Brewworks[/h1]\r\nTwo machines and a flask. Grow it, brew it, carry it.\r\n\r\n[b]Juicer[/b] takes any farmable and a plumbed-in water tank and brews on its own - no crafting step, nothing to press. A lit bar on the front tells you whether it is brewing or waiting on water or crops, and what it has made is standing behind the glass where you can see it. Crops go in by hand.\r\n\r\n[b]Dispenser[/b] fills your flask from what you put in it and lists every brew and how much of it on the screen on its front - so you know before you walk over. Twenty sips, and it tops up from whatever is left rather than making you start again.\r\n\r\nBoth machines take vacuum pipes on their flanks, back and floor, and the dispenser is the end that does the pulling: pipe a juicer or a chest into it and the brews walk themselves over.\r\n\r\nEvery farmable in the game has a brew, and a sip heals exactly what eating that crop heals - the numbers are the game's own, not made up. Brews are not drinkable on their own; they are what a flask gets filled with. Chili is in there too, and chili heals for -100 in vanilla. Watch what you fill from.\r\n\r\n[b]if you dont see the blocks[/b], clear the caches. Delete the [i]Cache[/i] folder from this mod, from your recipe mod such as Fant 3 and from Mod Database, then relaunch - they rebuild on the next load. The Mod Database takes time to index the mod so be patient if your using a custom gamemode with recipe support.  ",
+		"description": "**Fixed a bug that would prevent you from filling the flask from empty but still take your brews.  \r\n\r\n[h1]Brewworks[/h1]\r\nTwo machines and a flask. Grow it, brew it, carry it.\r\n\r\n[b]Juicer[/b] takes any farmable and a plumbed-in water tank and brews on its own - no crafting step, nothing to press. A lit bar on the front tells you whether it is brewing or waiting on water or crops, and what it has made is standing behind the glass where you can see it. Crops go in by hand.\r\n\r\n[b]Dispenser[/b] fills your flask from what you put in it and lists every brew and how much of it on the screen on its front - so you know before you walk over. Twenty sips, and it tops up from whatever is left rather than making you start again.\r\n\r\nBoth machines take vacuum pipes on their flanks, back and floor, and the dispenser is the end that does the pulling: pipe a juicer or a chest into it and the brews walk themselves over.\r\n\r\nEvery farmable in the game has a brew, and a sip heals exactly what eating that crop heals - the numbers are the game's own, not made up. Brews are not drinkable on their own; they are what a flask gets filled with. Chili is in there too, and chili heals for -100 in vanilla. Watch what you fill from.\r\n\r\n[b]if you dont see the blocks[/b], clear the caches. Delete the [i]Cache[/i] folder from this mod, from your recipe mod such as Fant 3 and from Mod Database, then relaunch - they rebuild on the next load. The Mod Database takes time to index the mod so be patient if your using a custom gamemode with recipe support.  ",
 		"fileId": 3792144346,
 		"localId": "72ad1818-09b5-4912-9921-61ea542654d9",
 		"name": "Brewworks - Flask and Brewing System",
@@ -50860,6 +50862,16 @@
 		"fileId": 2833408941,
 		"localId": "0465bad5-2d9e-4fc6-9864-11139f276802",
 		"name": "sebik Block",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"e4470a01-4e9f-466f-8b46-e73b5e54959b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "U can now craft component kits ",
+		"fileId": 3792987887,
+		"localId": "e4470a01-4e9f-466f-8b46-e73b5e54959b",
+		"name": "Component kits",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
