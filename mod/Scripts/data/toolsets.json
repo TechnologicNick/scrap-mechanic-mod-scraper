@@ -8294,5 +8294,19 @@
 		]
 	},
 	"fae9fa59-471c-4474-b9c9-5038e2b99e31": {},
-	"311f65df-1663-42d1-b308-f833bc88945a": {}
+	"311f65df-1663-42d1-b308-f833bc88945a": {},
+	"ee1a88b6-e591-4d9d-b12c-1c71fac3a567": {},
+	"429bb639-e1bd-43a0-9769-69d96cb0a0be": {
+		"$CONTENT_429bb639-e1bd-43a0-9769-69d96cb0a0be/Tools/Database/ToolSets/tools.toolset": [
+			"1b974992-dcf1-4f1a-9bd4-97d9b25628e6",
+			"d850f4b5-13f9-4b39-bec6-996b0b85a5c5"
+		]
+	},
+	"9f9644d3-5cdb-49c8-a500-e097552bd48e": {
+		"$CONTENT_9f9644d3-5cdb-49c8-a500-e097552bd48e/Tools/Database/ToolSets/lunapark.toolset": [
+			"a1f3c8d2-4e70-4b19-9c56-8d0e2f7a3b41",
+			"7d2b5e94-1a63-48cf-b0e7-3f96c48d5a20",
+			"c6d9a145-38e2-4f70-b91d-7a04e3c58f26"
+		]
+	}
 }

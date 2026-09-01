@@ -50676,7 +50676,7 @@
 	"52d72bd6-d926-4c73-afd3-697102dfefdd": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Stable camera controller mod. \r\n\r\nIncludes:\r\n- Camera Turret controller + Traverse motor - for controlling turrets with camera\r\n- Third person camera controller - configurable way of changing your camera position\r\n\r\nThis mode works differently than other camera turret controllers from other mods. It is optimased for using it for turrets\r\n\r\nLast version: 0.87",
+		"description": "Stable camera controller mod. \r\n\r\nIncludes:\r\n- Camera Turret controller + Traverse motor - for controlling turrets with camera\r\n- Third person camera +  First person camera - configurable way of changing your camera position\r\n\r\nThis mode works differently than other camera turret controllers from other mods. It is optimased for using it for turrets\r\n\r\nLast version: 0.8.9",
 		"fileId": 3775606269,
 		"localId": "52d72bd6-d926-4c73-afd3-697102dfefdd",
 		"name": "Definite Turret Camera Controller",
@@ -50886,8 +50886,6 @@
 		"version": 2
 	},
 	"8d41f6b3-2a97-4c15-9e83-70b5c2a1d648": {
-		"allow_add_mods": true,
-		"custom_icons": true,
 		"description": "Every national flag plus the pride flags, on one placeable banner. Right-click to pick a flag from a searchable list.",
 		"fileId": 3793243243,
 		"localId": "8d41f6b3-2a97-4c15-9e83-70b5c2a1d648",
@@ -50932,6 +50930,34 @@
 		"fileId": 3793496832,
 		"localId": "311f65df-1663-42d1-b308-f833bc88945a",
 		"name": "Growbed Amélioré",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"ee1a88b6-e591-4d9d-b12c-1c71fac3a567": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "hello everyone! i've decided to make this mod in order to make plane constructing A LOT easier!\r\nmost of the blocks presented in this mod are flammable, so beware or use it to your advantage!\r\nmany blocks were borrowed from other mods such as:\r\n- New Legend Mod\r\n- (this list is to updated)\r\n\r\nthis is a WIP (work in progress if anybody doesn't know) mod, so many changes and upgrades are to come!\r\nmay this mod bring joy to you!\r\nwith love, Logix.\r\n\r\ntips and hints:\r\nplane controller tutorial:\r\nAn aircraft flight-control hub that follows the seated pilot's camera and drives control-surface bearings. Connect an occupied driver seat; without one, all bearings lock at 0 degrees. Paint bearings red for ailerons, blue for elevators, yellow for rudders, purple for elevons, or white for flaps; reverse bearing direction with the Connect Tool. A/D controls roll and W/S controls pitch, temporarily overriding the camera. Active white logic disables camera input, black logic overrides flight inputs and levels roll and pitch while preserving offsets, and blue logic moves white flap bearings to the configured Flaps angle or returns them to 0 degrees when inactive. The standard logic output activates above 650 blocks per second squared of acceleration. Interact to configure the degree limit, sensitivity, roll/pitch/yaw offsets, damping, and Flaps angle.",
+		"fileId": 3792897230,
+		"localId": "ee1a88b6-e591-4d9d-b12c-1c71fac3a567",
+		"name": "Plane Construct",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"429bb639-e1bd-43a0-9769-69d96cb0a0be": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds quest related commands.",
+		"fileId": 3793384981,
+		"localId": "429bb639-e1bd-43a0-9769-69d96cb0a0be",
+		"name": "Quest Locator",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"9f9644d3-5cdb-49c8-a500-e097552bd48e": {
+		"description": "[h1]LUNA PARK UTILITIES[/h1]\nEverything you need to build a funfair ride that actually runs a light show - not a pile of blocks you switch on and off by hand.\n\nThe lights work out where they are and play together. Wire them to a controller, press one painted button, and the whole rig runs a synchronised show across every fixture you own.\n\n[h1]SEE IT WORKING[/h1]\n[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3793603290]TAGADA - Working Funfair Ride[/url][/b]\nA complete ride built with this mod: 853 spotlights, 666 LED wall panels, lasers, moving heads, smoke and flames, all driven live from the seat. Spawn it if you want to see what the parts do before you build your own.\n\n[h1]LIGHTS[/h1]\n[list]\n[*] [b]Funfair Spotlight[/b] and [b]Spotlight 45[/b] - the 45 finishes a row on top of a wedge with the lens still parallel to the ground\n[*] [b]LED Wall[/b] in 2x2, 4x4, 8x8 and 16x16, plus matching wedges - every pixel is its own light\n[*] [b]Laser Projector[/b] - a fan of eight thin beams with six fast figures\n[*] [b]LED Signs[/b] - letter-shaped signs where each pixel of each letter lights on its own, and joins the spotlight show instead of doing its own thing\n[/list]\n\n[h1]CONTROLLERS[/h1]\nYou do not program anything. You paint a button, wire it in, and press it.\n[list]\n[*] [b]Light Controller[/b] - up to 40 buttons in, any number of lights out. It splits the lights into groups by looking at where they physically are, so waves travel across your build instead of everything flashing at once.\n[*] [b]Laser Controller[/b] - the same idea for the projectors, but it also decides [i]which figure[/i] each one sweeps, which is the thing a light controller cannot do. In auto mode the beams borrow the colours the Light Controller is using right then, so lasers and lights read as one rig.\n[*] [b]Motor Controller[/b] - speed, direction and an auto-park that brings the ride back to a chosen spot.\n[/list]\n\n[h1]THE BUTTON COLOURS[/h1]\nThe colour you paint a button with is the command. One rule for every controller.\n[list]\n[*] [b]Grey[/b] - run the automatic shows. Two grey buttons: double speed.\n[*] [b]Any colour[/b] - everything that colour. Two buttons of the same colour: strobe.\n[*] [b]Black[/b] - continuous RGB sweep.\n[*] [b]Brown[/b] - master switch. Off means everything off, whatever else is pressed. On its own it gives power and waits for you to choose.\n[/list]\nColours are rounded to fifteen tones picked to read as light: a blue button gives blue, not a washed-out pale blue.\n\n[h1]THE RIDE[/h1]\n[list]\n[*] [b]Funfair Motor[/b] and [b]Extra Long Piston[/b] to build the machine\n[*] [b]Ride Control Seat[/b] - arrow keys for speed and direction, P for auto-park. Every switch you wire to it lands in your hotbar the moment you sit down, in its real colour.\n[*] [b]Hidden Ride Seat[/b] - the same controls for the passenger seats, invisible, and it picks up the main seat's switches by itself with nothing to wire.\n[*] [b]Seat Label Panel[/b] - name every key so you know what you are pressing.\n[/list]\n\n[h1]ATMOSPHERE[/h1]\n[list]\n[*] [b]Smoke Machine[/b] - fills an area with haze that takes the colour of your lights\n[*] [b]Smoke Jet[/b] - the same smoke fired in a narrow jet, for chimneys and vents\n[*] [b]Flame Jet[/b] - a column of fire over eight blocks tall\n[/list]\n\n[h1]TOOLS[/h1]\n[list]\n[*] [b]Luna Park Brush[/b] - pick any colour with R, G and B sliders, with a live preview and the hex value. Right click puts a part back to the colour it came with.\n[*] [b]Mirror Tool[/b] - copy a creation and place it mirrored, bearings and pistons included\n[*] [b]Fly Tool[/b] - free flight for building\n[*] Chat commands [b]/fly[/b], [b]/day[/b] and [b]/night[/b]\n[/list]\n\n[h1]GOOD TO KNOW[/h1]\n[list]\n[*] All the shows run off the game clock, so every player sees exactly the same thing with nothing sent over the network.\n[*] The lights only write their colour when it actually changes, which is what keeps a ride covered in hundreds of them playable.\n[*] Works in Creative and in multiplayer.\n[/list]",
+		"fileId": 3793606905,
+		"localId": "9f9644d3-5cdb-49c8-a500-e097552bd48e",
+		"name": "Luna Park Utilities",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
