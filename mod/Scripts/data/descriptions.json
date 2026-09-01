@@ -50878,10 +50878,10 @@
 	"bcc7f2e2-455f-4ff0-9551-a0ac3c993697": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Two survival stations shrunk down, for builds that cannot spare a full-size bot.\r\n\r\nMINI COLLECTOR - 3x4x3 blocks, one eighth the volume of a Resource Collector, holding exactly the same 25 stacks. The harvestables it displays are shrunk to match, so a packed mini collector reads the same as the vanilla one, just smaller. It also reaches further than the part it shrinks: 5m of suction beyond its own surface against the vanilla collector's 3m.\r\n\r\nMINI REFINERY - 3x3x4 blocks, with the same cross-section so the two sit together as a set. Same recipes and containers as the Refinebot, with animated grinding gears on the front, a vacuum port on the back for piping output into a chest, and a front face that cannot be welded to so the gears stay clear.\r\n\r\nBoth behave like the stock parts otherwise. Drop harvestables near the collector and it vacuums them up; park it against the refinery, or against a vanilla Refinebot or Crushbot, and they pull from it exactly as they would from a full-size collector.\r\n\r\nOne difference worth knowing: you cannot deposit into the collector by aiming at it while carrying a log. That shortcut is a hardcoded list inside the game's own carry tool script, which an add-on mod cannot extend. Drop the harvestable anywhere in range instead.\r\n\r\nCRAFTING - Mini Collector is 40 x Metal Block Level 1 + 2 x Component Kit; Mini Refinery is 40 x Metal Block Level 1 + 7 x Component Kit + 5 x Circuit Board. Priced to match what the full-size parts cost, so the compact versions are a trade in space rather than a discount. Recipes require Fant Mod 3 - in other game modes both parts are creative-only.",
+		"description": "Four survival stations shrunk down, for builds that cannot spare a full-size bot.MINI COLLECTOR - 3x4x3 blocks, one eighth the volume of a Resource Collector, holding exactly the same 25 stacks. The harvestables it displays are shrunk to match, so a packed mini collector reads the same as the vanilla one, just smaller. It also reaches further than the part it shrinks: 5m of suction beyond its own surface against the vanilla collector's 3m.MINI ORE COLLECTOR - 3x4x3 blocks, the same footprint as the Mini Collector, holding all 36 drill capsules with the capsules on its shell shrunk to match. Same 5m reach. Crushbots pull from it exactly as they would from a full-size Ore Collector, and it takes the same logic signal to offload into another one.MINI REFINERY - 3x3x4 blocks, with the same cross-section so they all sit together as a set. Same recipes and containers as the Refinebot, with animated grinding gears on the front, a vacuum port on the back for piping output into a chest, and a front face that cannot be welded to so the gears stay clear.MINI CRUSHER - 3x3x4 blocks, sharing the Mini Refinery's body, with the Crushbot's chomping teeth on the front and its own animation. Same recipes and containers as the full-size bot, and a vacuum port on the back. Park an ore collector against any side and it crushes straight from that.They behave like the stock parts otherwicollector and it vacuums them up; parkone against a mini bot, or against a vanilla Refinebot or Crushbot, and they pull from it exactly as theywould from a full-size collector.BUG:You cannot deposit into these parts by aiming at one while carrying a log. Drop the harvestable anywhere inrange instead.CRAFTINGMini Collector - 40 x Metal Block Level 1 + 2 x Component KitMini Refinery - 40 x Metal Block Level 1rcuit BoardMini Ore Collector - 30 x Metal Block Level 2 + 10 x Quartz + 1 x Multi Component Kit + 2 x Component KitMini Crusher - 50 x Metal Block Level 2 oard + 1 x Multi Component Kit + 4 xComponent Kit          ",
 		"fileId": 3793234034,
 		"localId": "bcc7f2e2-455f-4ff0-9551-a0ac3c993697",
-		"name": "Mini Collector & Refinery",
+		"name": "Mini Processing Bots",
 		"type": "Blocks and Parts",
 		"version": 2
 	},
@@ -50958,6 +50958,16 @@
 		"fileId": 3793606905,
 		"localId": "9f9644d3-5cdb-49c8-a500-e097552bd48e",
 		"name": "Luna Park Utilities",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"c31b5ff1-dfda-484b-b7cc-aa46d005ae8f": {
+		"custom_icons": true,
+		"description": "There is an ocean in this game and the only thing it has ever done is drown you.\n\nAim at water, cast, and wait. When something takes it you get about a second to strike - miss, and it takes the bait with it. Bait is any seed, or corn, so the farm finally has a second customer.\n\n[b]Depth is the whole progression.[/b] Cast off the bank and you pull up silt, scrap wheels and mud. Find a drop-off and the same rod pulls up clams, coral, circuit boards and sapphire. Nobody has to tell you this - you notice it.\n\n[b]It will not fish for you.[/b] Every catch costs bait and needs a click inside a narrow window, so there is no way to leave it running. A machine that fishes while you are away would just be printing items.\n\nChemicals, oil and lava are not water, and the rod says so rather than sitting there.",
+		"fileId": 3794007542,
+		"localId": "c31b5ff1-dfda-484b-b7cc-aa46d005ae8f",
+		"name": "Fishing Rod - Something To Do With All That Water",
+		"tags": "Blocks and Parts",
 		"type": "Blocks and Parts",
 		"version": 2
 	}

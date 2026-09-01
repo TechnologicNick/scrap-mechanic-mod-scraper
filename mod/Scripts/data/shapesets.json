@@ -178012,6 +178012,12 @@
 		],
 		"$CONTENT_bcc7f2e2-455f-4ff0-9551-a0ac3c993697/Objects/Database/ShapeSets/minirefinery.shapeset": [
 			"e2915214-f6b5-4501-83eb-0a254482fe25"
+		],
+		"$CONTENT_bcc7f2e2-455f-4ff0-9551-a0ac3c993697/Objects/Database/ShapeSets/miniorecollector.shapeset": [
+			"f921f9fe-b773-45bc-9a25-5a57c417334c"
+		],
+		"$CONTENT_bcc7f2e2-455f-4ff0-9551-a0ac3c993697/Objects/Database/ShapeSets/minicrusher.shapeset": [
+			"696039d0-af0b-4e58-a5d6-91f0ae3fb21c"
 		]
 	},
 	"8d41f6b3-2a97-4c15-9e83-70b5c2a1d648": {
@@ -178460,6 +178466,11 @@
 			"d4b81e69-2a37-4c05-b7f8-e61c3d90a5f2",
 			"c0a75f38-91d4-42be-8e16-7b3fd0c5a924",
 			"3ea6b7c2-5d19-4c83-9f40-8b21e6d5407a"
+		]
+	},
+	"c31b5ff1-dfda-484b-b7cc-aa46d005ae8f": {
+		"$CONTENT_c31b5ff1-dfda-484b-b7cc-aa46d005ae8f/Objects/Database/ShapeSets/sunkenchest.shapeset": [
+			"0fe88532-7477-4d17-a7f0-e7b698cfcae7"
 		]
 	}
 }

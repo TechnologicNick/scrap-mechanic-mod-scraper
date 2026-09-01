@@ -8308,5 +8308,11 @@
 			"7d2b5e94-1a63-48cf-b0e7-3f96c48d5a20",
 			"c6d9a145-38e2-4f70-b91d-7a04e3c58f26"
 		]
+	},
+	"c31b5ff1-dfda-484b-b7cc-aa46d005ae8f": {
+		"$CONTENT_c31b5ff1-dfda-484b-b7cc-aa46d005ae8f/Tools/Database/ToolSets/fishingrod.toolset": [
+			"1c22d515-d604-4f8e-8a72-fc4c501a4332",
+			"6deccba7-2d82-431b-be33-c0dec8d320d3"
+		]
 	}
 }
