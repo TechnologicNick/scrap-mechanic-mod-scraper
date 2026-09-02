@@ -178087,10 +178087,7 @@
 		]
 	},
 	"ee1a88b6-e591-4d9d-b12c-1c71fac3a567": {
-		"$CONTENT_ee1a88b6-e591-4d9d-b12c-1c71fac3a567/Objects/Database/ShapeSets/AircraftHalfParts.json": [
-			"c915a30c-7ea5-4f4f-9c53-94ef15cf0401",
-			"c915a30c-7ea5-4f4f-9c53-94ef15cf0402"
-		],
+		"$CONTENT_ee1a88b6-e591-4d9d-b12c-1c71fac3a567/Objects/Database/ShapeSets/AircraftHalfParts.json": [],
 		"$CONTENT_ee1a88b6-e591-4d9d-b12c-1c71fac3a567/Objects/Database/ShapeSets/NewLegendGeometry.json": [
 			"5a8c9754-c661-5cac-80d2-b36540b98c99",
 			"1f87b733-c731-5a36-9140-4385ee59d967",
@@ -178367,6 +178364,8 @@
 			"93bd308f-fd46-537a-8129-c03a5b0f346e"
 		],
 		"$CONTENT_ee1a88b6-e591-4d9d-b12c-1c71fac3a567/Objects/Database/ShapeSets/NewWingVariants.json": [
+			"d28f337c-87d0-43f0-bb66-67f75b405e50",
+			"3e4f9ea3-5fc4-4d60-8b67-94b6b0408ef1",
 			"10c8439e-c8bc-41e4-896b-b0fb1802bd55",
 			"a5a27827-71d4-420d-b24c-c19fa75bccad",
 			"f8463888-870e-4110-b625-d9f0191a0c10",
@@ -178388,6 +178387,14 @@
 			"6854ed2d-e1f2-4350-bd95-69795e7a04d6",
 			"da1713ce-80a4-433f-8a23-9d6652d1f732",
 			"4e219f93-0672-46ed-adea-0df57c202afb"
+		],
+		"$CONTENT_ee1a88b6-e591-4d9d-b12c-1c71fac3a567/Objects/Database/ShapeSets/PlaneRadarScreen.json": [
+			"0307d97e-1016-4131-9ca2-7c1d653d3f69",
+			"fe538133-1a7c-4698-8410-377fdd68824a",
+			"6bd47f9b-4b9f-4fe0-8f6a-8acb1a54c9a2"
+		],
+		"$CONTENT_ee1a88b6-e591-4d9d-b12c-1c71fac3a567/Objects/Database/ShapeSets/PlayerPresence.json": [
+			"99b23ad3-42a8-45fb-8156-9140430b7377"
 		],
 		"$CONTENT_ee1a88b6-e591-4d9d-b12c-1c71fac3a567/Objects/Database/ShapeSets/WingVariants.json": [
 			"0c62c00a-bb5e-4fa6-94df-38cfb51fa101",
@@ -178425,14 +178432,13 @@
 			"f8a03829-27d9-4158-b153-b9b179479140"
 		],
 		"$CONTENT_ee1a88b6-e591-4d9d-b12c-1c71fac3a567/Objects/Database/ShapeSets/parts.json": [
+			"f0a5db28-26f9-4cf9-a3d9-d75d5a0bf8c8",
 			"7de2c122-1734-45fb-90e0-9b535587eb06",
 			"55b0b50e-8cb9-4d2d-ba52-95a71a8c2e9d",
 			"e4ad98f3-f9c7-48f9-bd2a-da16f9da8ee9",
 			"6f25cb72-bf72-42b6-b3b0-c27c5e6e770d",
 			"0b49d3cb-afd8-4c64-a842-129c2169f7c5",
-			"d0f6745d-c925-4783-819d-178123463b71",
-			"d28f337c-87d0-43f0-bb66-67f75b405e50",
-			"3e4f9ea3-5fc4-4d60-8b67-94b6b0408ef1"
+			"d0f6745d-c925-4783-819d-178123463b71"
 		],
 		"$CONTENT_ee1a88b6-e591-4d9d-b12c-1c71fac3a567/Objects/Database/ShapeSets/wedges.json": [
 			"7c57f4a2-4878-4da4-a7e8-4bf4d1420abe"
