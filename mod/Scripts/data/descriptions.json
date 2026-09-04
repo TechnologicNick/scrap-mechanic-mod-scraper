@@ -43961,7 +43961,7 @@
 	"629a51e4-a0f5-407f-b157-f53caedb17c7": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "В роботе данного мода виновен: Sporling",
+		"description": "Этот мод блокирует отдаление камеры персонажа.В работе данного мода виновен: SporlingUPD: 03/09/2026-  Обновление дизайна мода.-  Добавлено описание моду.This mod prevents the character camera from zooming out.Assisted by: SporlingUPD: 09/03/2026 -  Mod design updated.-  Mod description added.",
 		"fileId": 3462565695,
 		"localId": "629a51e4-a0f5-407f-b157-f53caedb17c7",
 		"name": "Scroll lock",
@@ -48952,7 +48952,7 @@
 	"be752a0e-a2a9-4b12-bbfa-e0855c72b8be": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[b]Build Your Own Hardcore Experience[/b]\r\n\r\nHardcore Mechanic lets the host choose exactly how punishing Survival should be. Enable only the challenges you want, combine them freely, and configure the world before the opening cinematic. The settings can be opened again at any time with [b]/hardcore[/b].\r\n\r\n[b]One Chance[/b]\r\nDisables respawning. Once your mechanic is knocked out, that character cannot return.\r\n\r\n[b]Hunger and Thirst[/b]\r\n\r\n[img]https://i.imgur.com/jI94lqv.png[/img]\r\nRestores the classic hunger and thirst systems. Food and drinks refill their respective needs, while health recovers gradually when hunger is high enough.\r\n\r\n[b]Block Surface Oil Pumping[/b]\r\nPrevents Vacuum Pumps from collecting Crude Oil from surface pools. Slow underwater oil sources remain available.\r\n\r\n[b]Double Player Damage[/b]\r\nDoubles every source of damage taken by players, including bot attacks, explosions, and falls.\r\n\r\n[b]Reduced Dungeon Loot[/b]\r\nDungeon chests contain fewer items and offer slightly lower-quality rewards.\r\n\r\n[b]Tornadoes in Every Biome[/b]\r\nAllows tornadoes to spawn throughout the world instead of only in deserts. They affect players and creations, but ignore bots.\r\n\r\n[b]Explosive Red Totebots[/b]\r\nReplaces every Green Totebot spawn with an explosive Red Totebot.\r\n\r\nNOTE:\r\nThe original Difficulty slider in the world settings has no effect in this Custom Game. All challenge rules are controlled through the HARDCORE menu.\r\n\r\nHave an idea for another challenge? Share it in the comments — your suggestion may become part of a future update!\r\n\r\n[b]Version 1.0[/b]",
+		"description": "",
 		"fileId": 3773662301,
 		"localId": "be752a0e-a2a9-4b12-bbfa-e0855c72b8be",
 		"name": "Hardcore Mechanic",
@@ -50946,7 +50946,7 @@
 	"429bb639-e1bd-43a0-9769-69d96cb0a0be": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Adds quest related commands.",
+		"description": "Can't find every builder (side) quest on the map? This mod got you.\r\n\r\n[h2]How to install?[/h2]\r\n[olist]\r\n[*] Close Scrap Mechanic\r\n[*] Open File Explorer.\r\n[*] Navigate to %AppData%/Roaming/Axolot Games/Scrap Mechanic/User/User_<SteamId>/Save/Survival/.\r\n[*] Copy or move your save file (the .db file) one folder above (%AppData%/Roaming/Axolot Games/Scrap Mechanic/User/User_<SteamId>/Save)\r\n[*] Open Scrap Mechanic, find your save but now in the \"Creative\" tab.\r\n[*] Add this mod as usual under \"Mods\" tab.\r\n[*] Copy or move the save file from Save back to Save/Survival. Depending on whether you copied or moved the file you might need to restart Scrap Mechanic again.\r\n[*] The mod should now be active.\r\n[/olist]\r\n\r\n[h2]How to use?[/h2]\r\n[h3]/qlist Command[/h3]\r\nAt first you need to know the internal name of a quest. For example the Timber! quest is \"builder_quest_15\". Type \"/qlist\" in the chat to list all quests with their keyword description. You may scroll up a little bit to display see quests.\r\n\r\n[h3]/qshow Command[/h3]\r\n[olist]\r\n[*] Type \"/qshow\" in the chat to show all builder quests on the compass.\r\n[*] Type \"/qshow <quest_name>\" to show a specific quest <quest_name> on the compass.\r\n[*] For example:\r\n[code]/qshow builder_quest_15[/code]\r\n[code]/qshow  builder_quest_advanced_car[/code]\r\n[/olist]\r\n\r\n[h3]/qhide Command[/h3]\r\nThe exact opposite of /qshow. Uses the same syntax.\r\n\r\n[h3]/qgoto Command[/h3]\r\nGoto a specific quest. For example [code]/qgoto builder_quest_harvest_car[/code]",
 		"fileId": 3793384981,
 		"localId": "429bb639-e1bd-43a0-9769-69d96cb0a0be",
 		"name": "Quest Locator",
@@ -50963,11 +50963,41 @@
 	},
 	"c31b5ff1-dfda-484b-b7cc-aa46d005ae8f": {
 		"custom_icons": true,
-		"description": "[h1]Fishing Rod[/h1]\r\n\r\nAim at water. Cast. Wait.\r\n\r\nSomething takes it, and you get about a second to answer. Miss, and it leaves with your bait. An on screen prompt lets you know whats happening.    \r\n\r\n[h2]What comes up[/h2]\r\nEach seed and depth is tiered.  Deeper water and better seeds gives better rewards.   Each Seed has a unique reward associated with it.  \r\n\r\n[h2]Bait[/h2]\r\nSeeds are the bait, every seed, including corn can be used.  \r\n\r\n[h2]Not everything is water[/h2]\r\nChemicals and oil are fishable as well, needing a different rod with different rewards.  \r\n\r\nThis is a proof of concept more than a finished thing. There is a real reward and it doesnt waste your time.  You can pull up component kits and circuit boards as well as a few other thing that your always needing, and there are bigger rewards and jackpot rewards.  \r\n\r\nIf something in there feels wrong, or obviously missing, say so - that is the feedback worth having.\r\n\r\n**Worth mentioning, no actual fish.  Those require a bit of modeling and time.  If there is enough demand i'll work on it.  \r\n\r\n[h1]Before you start[/h1]\r\n\r\n[b]You need a custom gamemode for the crafting recipes.[/b] Fant Mod 3 and the like go looking for a mod's recipes and list them at a craftbot like anything else. Plain vanilla survival does not - the rod is still there and still works, nothing will offer to build it for you.\r\n\r\n[b]A newly published mod is not indexed straight away.[/b] Custom gamemodes read modded recipes out of Mod Database, which its author rebuilds every so often. If the rod is in your build menu but missing from your craftbot, nothing is broken and there is nothing to fix - it has not been indexed yet, and it will appear on its own once that catches up.\r\n\r\n[b]If an update seems to change nothing[/b], delete the [i]Cache[/i] folder from this mod, from Mod Database and from your gamemode, then relaunch. They rebuild on load.",
+		"description": "Added Fish, 1 fish type per seed type minus cotton and flower.  \r\n\r\nShifted odds of rewards to compensate for new fish.  \r\n\r\nFish should be grilled before eaten...find the grill, hook it to a gas container and enjoy.  \r\n\r\n[h1]Fishing Rod[/h1]\r\n\r\nAim at water. Cast. Wait.\r\n\r\nSomething takes it, and you get about a second to answer. Miss, and it leaves with your bait. An on screen prompt lets you know whats happening.    \r\n\r\n[h2]What comes up[/h2]\r\nEach seed and depth is tiered.  Deeper water and better seeds gives better rewards.   Each Seed has a unique reward associated with it.  \r\n\r\n[h2]Bait[/h2]\r\nSeeds are the bait, every seed, including corn can be used.  \r\n\r\n[h2]Not everything is water[/h2]\r\nChemicals and oil are fishable as well, needing a different rod with different rewards.  \r\n\r\nThis is a proof of concept more than a finished thing. There is a real reward and it doesnt waste your time.  You can pull up component kits and circuit boards as well as a few other thing that your always needing, and there are bigger rewards and jackpot rewards.  \r\n\r\nIf something in there feels wrong, or obviously missing, say so - that is the feedback worth having.\r\n\r\n\r\n\r\n[h1]Before you start[/h1]\r\n\r\n[b]You need a custom gamemode for the crafting recipes.[/b] Fant Mod 3 and the like go looking for a mod's recipes and list them at a craftbot like anything else. Plain vanilla survival does not - the rod is still there and still works, nothing will offer to build it for you.\r\n\r\n[b]A newly published mod is not indexed straight away.[/b] Custom gamemodes read modded recipes out of Mod Database, which its author rebuilds every so often. If the rod is in your build menu but missing from your craftbot, nothing is broken and there is nothing to fix - it has not been indexed yet, and it will appear on its own once that catches up.\r\n\r\n[b]If an update seems to change nothing[/b], delete the [i]Cache[/i] folder from this mod, from Mod Database and from your gamemode, then relaunch. They rebuild on load.",
 		"fileId": 3794007542,
 		"localId": "c31b5ff1-dfda-484b-b7cc-aa46d005ae8f",
 		"name": "Fishing Rod - Something To Do With All That Water",
 		"tags": "Blocks and Parts",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"4cab3ca1-c187-4a29-b5f5-5194272d1fc8": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h1] WORK IN PROGRESS  [/h1]\r\n\r\nThis mod add Excavator Buckets and a Dumpster Container.\r\nWith the Buckets you can load up Mod(terrain) and it will fill the Buckets.\r\nYou can tip the Buckets and they will dump out the mud.\r\nYou can unload the mud into the Dumpster. \r\nConnect a Switch (logic) to the dumpster to Open the hatch at the back.\r\nIt will then start to drop out the mud.\r\n\r\nDropped mud build terrain. like the normal Mud tool.\r\nSome Conditions and Restrictions / Limitations.\r\n\r\n\r\nKeep in mind this mod is in test phase. \r\n\r\nHappy Terraforming\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"fileId": 3794437375,
+		"localId": "4cab3ca1-c187-4a29-b5f5-5194272d1fc8",
+		"name": "Fants Excavator Buckets",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"09488865-5027-4335-bec3-3f1b74c7df16": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3794968893,
+		"localId": "09488865-5027-4335-bec3-3f1b74c7df16",
+		"name": "Fix collision of bombs",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"0657692a-25d1-4fe4-a964-30f018ebdc5d": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Blueprint loading lift for fant mod-WIP",
+		"fileId": 3794972105,
+		"localId": "0657692a-25d1-4fe4-a964-30f018ebdc5d",
+		"name": "wmf-blueprintlift",
 		"type": "Blocks and Parts",
 		"version": 2
 	}

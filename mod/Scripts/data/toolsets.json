@@ -8312,7 +8312,15 @@
 	"c31b5ff1-dfda-484b-b7cc-aa46d005ae8f": {
 		"$CONTENT_c31b5ff1-dfda-484b-b7cc-aa46d005ae8f/Tools/Database/ToolSets/fishingrod.toolset": [
 			"1c22d515-d604-4f8e-8a72-fc4c501a4332",
-			"6deccba7-2d82-431b-be33-c0dec8d320d3"
+			"6deccba7-2d82-431b-be33-c0dec8d320d3",
+			"a2de5c86-7be0-45d3-88e7-14eb77e8649e"
+		]
+	},
+	"4cab3ca1-c187-4a29-b5f5-5194272d1fc8": {},
+	"09488865-5027-4335-bec3-3f1b74c7df16": {},
+	"0657692a-25d1-4fe4-a964-30f018ebdc5d": {
+		"$CONTENT_0657692a-25d1-4fe4-a964-30f018ebdc5d/Tools/Database/ToolSets/BlueprintLift.toolset": [
+			"24076dd0-2f5c-4d4c-a0f6-b86de2f706ef"
 		]
 	}
 }
