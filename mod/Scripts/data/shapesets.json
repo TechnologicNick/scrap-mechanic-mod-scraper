@@ -68233,12 +68233,15 @@
 		]
 	},
 	"43a593be-676b-40fd-a5d4-167c7da7396b": {
-		"$CONTENT_43a593be-676b-40fd-a5d4-167c7da7396b/Objects/Database/ShapeSets/blocks.json": [
+		"$CONTENT_43a593be-676b-40fd-a5d4-167c7da7396b/Objects/Database/ShapeSets/blocks.shapeset": [
 			"f7881097-9320-4667-b2ba-4101c72b8730",
 			"b372a9fb-ce9d-4f6e-bf81-6f556d6c498c",
-			"3bef3ffa-ce85-411c-b0ee-fdb1f02f3711"
+			"3bef3ffa-ce85-411c-b0ee-fdb1f02f3711",
+			"16379900-91a6-4b37-9027-f235b81bc31d",
+			"371e0464-a742-4ef7-8407-73c3ba8e7489",
+			"b2ef8a30-1ab3-4c7f-b88a-93b26f76a492"
 		],
-		"$CONTENT_43a593be-676b-40fd-a5d4-167c7da7396b/Objects/Database/ShapeSets/construction.json": [
+		"$CONTENT_43a593be-676b-40fd-a5d4-167c7da7396b/Objects/Database/ShapeSets/construction.shapeset": [
 			"2343987a-1272-4f80-8f80-f09f4814e337",
 			"0528e821-17d4-4bb5-9b6c-33670f6edb1b",
 			"04244360-adf8-410e-b095-5f1ed223dd3e",
@@ -68322,11 +68325,6 @@
 			"40edb816-8675-40df-9c87-69ab92b78731",
 			"2c268b26-362c-424b-9a49-7815de4d1a27",
 			"f5a6eba1-df2a-46de-ac92-1a98135f1820"
-		],
-		"$CONTENT_43a593be-676b-40fd-a5d4-167c7da7396b/Objects/Database/ShapeSets/wedges.json": [
-			"16379900-91a6-4b37-9027-f235b81bc31d",
-			"371e0464-a742-4ef7-8407-73c3ba8e7489",
-			"b2ef8a30-1ab3-4c7f-b88a-93b26f76a492"
 		]
 	},
 	"bdc769c1-87f4-4d84-b396-8dc91a42a800": {
@@ -178527,5 +178525,28 @@
 	},
 	"0657692a-25d1-4fe4-a964-30f018ebdc5d": {
 		"$CONTENT_0657692a-25d1-4fe4-a964-30f018ebdc5d/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"7eaab968-edc7-4c65-bc25-2758492cb845": {
+		"$CONTENT_7eaab968-edc7-4c65-bc25-2758492cb845/Objects/Database/ShapeSets/example.shapeset": [
+			"9a3e478c-2224-44fa-887c-239965bd05ad",
+			"ac0b5b0a-14e1-4b31-8944-0a351fbfcc67",
+			"22beade5-38ca-47b4-a2ee-32403f58a862",
+			"4b6d2bee-d0f1-4e56-96f0-d2596388cad2",
+			"bee966b0-b5e5-41da-b992-5d363ab85ae4",
+			"9edb6f7c-fb44-4348-a1c4-8afb41b92d8a",
+			"9c82a525-8a8b-4483-9595-505aaa042486",
+			"64051718-a3f1-422b-bda3-277efa0c4545",
+			"38e41fb5-dd50-4294-829d-a517f0282fed",
+			"1c6756ca-3a60-4dcb-a5d1-353edf818308",
+			"eb1ef696-5c05-4662-9e47-fe1e0875ff84",
+			"93c27ab2-4930-4654-ba1c-bcfe35e966f6",
+			"8883e0ee-8a6e-423a-a4e0-583d9bf105bd",
+			"c44b27da-88cf-4e17-b872-6236a1172688"
+		]
+	},
+	"dfce5a5f-6a87-4b95-a6c5-3417221d6651": {
+		"$CONTENT_dfce5a5f-6a87-4b95-a6c5-3417221d6651/Objects/Database/ShapeSets/minerbot_thruster.shapeset": [
+			"cbc842e2-bfcb-42f4-9806-55be6b2c94f9"
+		]
 	}
 }

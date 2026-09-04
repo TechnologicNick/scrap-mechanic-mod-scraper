@@ -50993,11 +50993,38 @@
 	},
 	"0657692a-25d1-4fe4-a964-30f018ebdc5d": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "Blueprint loading lift for fant mod-WIP",
+		"custom_icons": true,
+		"description": "Blueprint Lift lets you load a saved blueprint onto your empty lift. Aim at the lift and press Use to open the blueprint importer. It scans your backpack and nearby storage boxes for the materials needed to build the blueprint.\r\n\r\n[h1]PREREQUISITES[/h1]\r\n[olist]\r\n[*] Drilling Thunder patch\r\n[*] Fant Mod 3 (Workshop ID 3772903275): https://steamcommunity.com/sharedfiles/filedetails/?id=3772903275\r\n[*] Subscription (no load required) to Mod Database (Workshop ID 2504530003): https://steamcommunity.com/sharedfiles/filedetails/?id=2504530003\r\n[/olist]\r\n\r\n\r\n[h1]FREE LIFT BUILDS[/h1]\r\nFant Mod 3 must be installed and the host must enable cheat mode. In chat, type /cheat, then type /unlimited to enable the unlimited backpack for free lift builds.\r\n\r\nTo turn unlimited builds off and restore the normal backpack limit, type /limited.\r\n\r\n[h1]WORKSHOP UPDATE INSTRUCTIONS[/h1]\r\nThe Scrap Mechanic Steam Workshop seems bugged after 1.0 and the Drilling Thunder patch may prevent this mod from updating automatically.\r\n\r\nTo update, close Scrap Mechanic first. Delete the Cache folders listed below, then restart the game.\r\nWorkshop ID 3772903275 = Fant Mod 3\r\nWorkshop ID 3794972105 = this Blueprint Lift mod\r\n\r\nThe cache folders are located at:\r\n\r\nSteam\\steamapps\\workshop\\content\\387990\\3772903275\\Cache\r\nSteam\\steamapps\\workshop\\content\\387990\\3794972105\\Cache\r\n\r\nExample: open cmd.exe and run \r\n[code]if exist \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\3772903275\\Cache\" rmdir /s /q \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\3772903275\\Cache\"\r\nif exist \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\3794972105\\Cache\" rmdir /s /q \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\3794972105\\Cache\"[/code]",
 		"fileId": 3794972105,
 		"localId": "0657692a-25d1-4fe4-a964-30f018ebdc5d",
 		"name": "wmf-blueprintlift",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"7eaab968-edc7-4c65-bc25-2758492cb845": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"fileId": 3795466346,
+				"localId": "ae18dd38-136d-4069-9b07-ff9b14f7e56c",
+				"name": "Raids in Creative [ASSETS]"
+			}
+		],
+		"description": "This mod enables [b]raids[/b] (and farming) in Creative Mode!\r\n\r\n[h2]Having issues?[/h2]\r\nMake sure you are playing [b]CREATIVE MODE[/b] and try [b]DISABLING[/b] other mods, since a lot of old mods are now broken and cause other mods to break by having them enabled.\r\n\r\n[hr]\r\nIf you like this, feel free to like, favourite and give an award!",
+		"fileId": 3795467090,
+		"localId": "7eaab968-edc7-4c65-bc25-2758492cb845",
+		"name": "Raids in Creative",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"dfce5a5f-6a87-4b95-a6c5-3417221d6651": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 3795494699,
+		"localId": "dfce5a5f-6a87-4b95-a6c5-3417221d6651",
+		"name": "Minerbot Thruster",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
