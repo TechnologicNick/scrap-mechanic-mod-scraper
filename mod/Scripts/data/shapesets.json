@@ -167395,7 +167395,8 @@
 			"7d3c0a52-91bf-4ef5-b6d1-4475476a6007",
 			"7d3c0a52-91bf-4ef5-b6d1-4475476a6008",
 			"24f32d87-79e7-4560-9e99-30e362d556f8",
-			"87f2d9d5-d63f-4330-9e56-7cb76f187d8f"
+			"87f2d9d5-d63f-4330-9e56-7cb76f187d8f",
+			"6c585e97-bf71-438a-b1c6-396f5cac34fc"
 		],
 		"$CONTENT_8cfeedb3-6f06-4536-9334-1e4b0bfbe88a/Objects/Database/ShapeSets/scrap_tweaks_stack_overrides.shapeset": [
 			"22beade5-38ca-47b4-a2ee-32403f58a862",
@@ -167441,7 +167442,8 @@
 			"c9396a42-67c3-4fa3-b682-31428ff9eced",
 			"ac0b5b0a-14e1-4b31-8944-0a351fbfcc67",
 			"98a85002-3b45-4fe8-b2fb-390a9953e877",
-			"fe8bfeba-850b-4827-9785-10e2468c9c23"
+			"fe8bfeba-850b-4827-9785-10e2468c9c23",
+			"267e0c93-62e3-45ad-9470-a14035cb9ca4"
 		],
 		"$CONTENT_8cfeedb3-6f06-4536-9334-1e4b0bfbe88a/Objects/Database/ShapeSets/scrap_tweaks_gyroseat_override.shapeset": [
 			"1786e265-cebe-4ef1-9d13-02c104c6207b",
@@ -168325,6 +168327,9 @@
 			"1fcd1665-869f-4507-a100-a1cc7d86f167",
 			"5e73bb8b-2e77-4d17-b8ee-b1e234dc224c",
 			"1609f742-0294-4bc9-b365-8cf254d8c74f"
+		],
+		"$CONTENT_3175f905-b288-4832-bb0d-4dec4d8a92bb/Objects/Database/ShapeSets/overdrive_skills.shapeset": [
+			"3c74e62d-408d-476e-ad30-9a21c98f7331"
 		],
 		"$CONTENT_3175f905-b288-4832-bb0d-4dec4d8a92bb/Objects/Database/ShapeSets/overdrive_vanilla_overrides.shapeset": [
 			"a930a42f-63ed-4fb0-933e-56ce8a889cc5",
@@ -175888,7 +175893,14 @@
 			"6ed50c1e-091d-4ed6-a865-c7bf178ecf7b",
 			"30034338-8074-4d4d-aaff-1ebbe0a96661",
 			"f4b2fd07-039c-4c25-8f64-84fd4bdba3f9",
-			"65405502-fc89-42a4-a40d-979f778a2a00"
+			"65405502-fc89-42a4-a40d-979f778a2a00",
+			"a24490a0-66d0-4c7c-823c-2b94c6db912a",
+			"798dc25c-b085-41d1-8847-812c8793b6c4",
+			"6717db16-11ee-4ad0-9c88-f6816ebbbc5c",
+			"caad8ef7-a5d7-4949-9294-cf872af2c63c",
+			"4cb2bfbd-053b-4a25-8b77-7aeaf76404a2",
+			"f146de6e-b4c8-44bc-bf1a-cff5700ac85f",
+			"fd5a224d-d11e-42e0-aa02-90984defa4a3"
 		]
 	},
 	"1f603e97-5a65-4bfc-86ee-bfadd681c0fb": {
@@ -177382,6 +177394,9 @@
 			"038f764b-9554-4c59-aa7a-4f3fb4007dd3",
 			"eab77b10-ad95-4306-a843-de14d314c2f2"
 		],
+		"$CONTENT_ee1a88b6-e591-4d9d-b12c-1c71fac3a567/Objects/Database/ShapeSets/PlayerLockDetector.json": [
+			"939a5048-b7d9-4c01-96bc-22337f4d9e08"
+		],
 		"$CONTENT_ee1a88b6-e591-4d9d-b12c-1c71fac3a567/Objects/Database/ShapeSets/PlayerPresence.json": [
 			"99b23ad3-42a8-45fb-8156-9140430b7377"
 		],
@@ -177563,6 +177578,29 @@
 			"720eceaa-1d4c-401e-8c35-e478fbf27b24",
 			"a42194fd-99db-4ce0-9788-c4cef40dfb12",
 			"7741a7bc-ee4a-4eac-92f0-c162215239df"
+		]
+	},
+	"d5eb1331-aba8-4901-9cbe-b34e4eda9d14": {
+		"$CONTENT_d5eb1331-aba8-4901-9cbe-b34e4eda9d14/Objects/Database/ShapeSets/interactive_shared.shapeset": [
+			"4c474cff-3f6a-4306-93d1-c4c74578afd2",
+			"e9efc008-8fae-4391-9ad1-6a62dbab5760",
+			"9601f2ca-9552-48b0-afc1-b0f200461114"
+		]
+	},
+	"0805cde5-be62-4912-aee9-ad0ba17d06fa": {
+		"$CONTENT_0805cde5-be62-4912-aee9-ad0ba17d06fa/Objects/Database/ShapeSets/interactive.shapeset": [
+			"98a85002-3b45-4fe8-b2fb-390a9953e877"
+		]
+	},
+	"b343cfaf-b31f-49b5-bba2-457307764b8b": {
+		"$CONTENT_b343cfaf-b31f-49b5-bba2-457307764b8b/Objects/Database/ShapeSets/interactive.shapeset": [
+			"479e8131-cc76-48e1-9979-8053a7295d1f"
+		]
+	},
+	"88ca42e8-d7ba-4399-aacf-345413d67d21": {
+		"$CONTENT_88ca42e8-d7ba-4399-aacf-345413d67d21/Objects/Database/ShapeSets/piston_decoupler.shapeset": [
+			"99456480-d050-42d4-abdc-6215647e1294",
+			"570ba6b1-ea3d-48c8-ac43-1ea009f717d6"
 		]
 	}
 }
