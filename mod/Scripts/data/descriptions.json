@@ -32834,7 +32834,7 @@
 	"990d2f1b-deb3-4c03-ac9c-63df8eeded6e": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "This Mod add Parts from my Main Mod ( Fant Mod ) as Seperated Mod usable in Creative.\r\n\r\n-Gyro 1x1   ( To Spin your Creation around )\r\n-Gyro 2x2   ( To Spin your Creation around )\r\n-Gyro 3x3   ( To Spin your Creation around )\r\n-Angle Sensor  ( To Detect if the Creation is Tilted in a certain Direction )\r\n-Altimeter   ( To Detect the Height )\r\n-Simple Controller ( do the same like with a Seat but with Logic inputs. Let a Engine Spin Forward/Backwards for example )\r\n-Smooth Piston\r\n-W A S D Q R and In Seat Detector\r\n-Wireless Gate - Logic Transmitter with Color Channels\r\n-Velocity Direction Detector\r\n-Daylight Sensor\r\n-Fluid Sensor\r\n- the big piston from challange mode\r\n\r\n[h1] IMPORTENT IMPORTENT  IMPORTENT   [/h1]\r\nAll These Parts are INCLUDED In the \"Fant Mod\", Dont Use this Mod if you have allready the \"Fant Mod\" running.\r\n\r\nMore Blocks will be Added over Time\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
+		"description": "This Mod add Parts from my Main Mod ( Fant Mod ) as Seperated Mod usable in Creative.\r\n\r\n-Gyro 1x1   ( To Spin your Creation around )\r\n-Gyro 2x2   ( To Spin your Creation around )\r\n-Gyro 3x3   ( To Spin your Creation around )\r\n-Angle Sensor  ( To Detect if the Creation is Tilted in a certain Direction )\r\n-Altimeter   ( To Detect the Height )\r\n-Simple Controller ( do the same like with a Seat but with Logic inputs. Let a Engine Spin Forward/Backwards for example )\r\n-Smooth Piston\r\n-W A S D Q R and In Seat Detector\r\n-Wireless Gate - Logic Transmitter with Color Channels\r\n-Velocity Direction Detector ( code Improved by Linus )\r\n-Daylight Sensor\r\n-Fluid Sensor\r\n- the big piston from challange mode\r\n\r\n[h1] IMPORTENT IMPORTENT  IMPORTENT   [/h1]\r\nAll These Parts are INCLUDED In the \"Fant Mod\", Dont Use this Mod if you have allready the \"Fant Mod\" running.\r\n\r\nMore Blocks will be Added over Time\r\n\r\n[h1] MORE INFOS  [/h1]\r\nYoutube Channel 00Fant:\r\n[h1] https://www.youtube.com/c/00FantMod [/h1]\r\n[u]subscribe to get the Newest Feature and Update Infos[/u]\r\nor\r\nDiscord link \r\n[h1] https://discord.gg/zTZjyrB5nh [/h1]\r\n\r\nMod made by 00Fant\r\n\r\nI give no permission to use any of the contents from this mod somewhere else.\r\n[h1]modding-guidelines[/h1]\r\nhttps://scrapmechanic.com/modding-guidelines#",
 		"fileId": 2947206586,
 		"localId": "990d2f1b-deb3-4c03-ac9c-63df8eeded6e",
 		"name": "Fants Logic Stuff",
@@ -51104,6 +51104,23 @@
 		"fileId": 3796243841,
 		"localId": "88ca42e8-d7ba-4399-aacf-345413d67d21",
 		"name": "Piston Decoupler - Addon",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"bb24ff2c-1136-4cbe-a47f-a483d0f05fe6": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
+				"name": "ModDatabase"
+			}
+		],
+		"description": "[h1]Vehicle Cassettes[/h1]\nA vehicle you can put in your pocket. Bolt a blank cassette anywhere on a creation and press E - the whole build is written to the tape and taken off the world. Put the tape down wherever you want it later, press E, and the creation comes back around it.\n\nIt rebuilds at the same height off the ground it was recorded at, so a vehicle comes back on its wheels rather than through the floor.\n\nA tape holds one creation, and holds it only while it is stored. Deploying leaves the tape blank again.\n\n[h1]What it will not do[/h1]\nIt refuses to record while somebody is sitting in the build. And nothing is destroyed until the recording has been written to the tape and read back off it - a deck that refuses to record is an annoyance, a deck that records badly is somebody's afternoon.\n\n[h1]Eight tapes[/h1]\nThere are eight lettered tapes in a world, so eight creations can be in storage at once. They are coloured so a pocket of them is readable at a glance, and a recorded tape does not stack - each one is a different vehicle.\n\n[h1]Before you start[/h1]\n[b]Mod Database[/b] is required and registers the parts - on a fresh install give the game a load or two to pick them up.\n\n[b]Fant 3[/b] reads the craftbot recipes. On plain vanilla survival the parts still work, they just will not be listed at a craftbot.\n\n[b]If an update seems to change nothing[/b], clear the caches. Delete the [i]Cache[/i] folder from this mod, from Fant 3 and from Mod Database, then relaunch - they rebuild on the next load.",
+		"fileId": 3796546493,
+		"localId": "bb24ff2c-1136-4cbe-a47f-a483d0f05fe6",
+		"name": "Vehicle Cassettes",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
