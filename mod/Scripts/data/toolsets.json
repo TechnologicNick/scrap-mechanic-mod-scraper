@@ -3652,6 +3652,7 @@
 	"646793f6-e344-4a01-aafc-1e78a02ebe54": {},
 	"8dce5730-a409-4340-9c0e-210109460136": {
 		"$CONTENT_8dce5730-a409-4340-9c0e-210109460136/Tools/Database/ToolSets/UF.toolset": [
+			"1fd57b7b-168e-4209-b0e2-9285ff0ca0af",
 			"049a55ee-caf4-45c0-bd62-6cdfbe131f29"
 		]
 	},
@@ -8349,5 +8350,11 @@
 		]
 	},
 	"1d1ebebf-305d-4b94-85ff-e6159bbcdec1": {},
-	"9e5c0a42-67b4-4357-a3ee-9c9f924f8611": {}
+	"9e5c0a42-67b4-4357-a3ee-9c9f924f8611": {},
+	"28437828-d512-4823-a543-fce8a6f97dc2": {
+		"$CONTENT_28437828-d512-4823-a543-fce8a6f97dc2/Tools/Database/ToolSets/WmfSledgehammer.toolset": [
+			"bb641a4f-e391-441c-bc6d-0ae21a069476"
+		]
+	},
+	"42c2de83-82e9-411b-a8aa-1d4d46aa907d": {}
 }
