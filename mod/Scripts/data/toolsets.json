@@ -8342,5 +8342,12 @@
 	"0805cde5-be62-4912-aee9-ad0ba17d06fa": {},
 	"b343cfaf-b31f-49b5-bba2-457307764b8b": {},
 	"88ca42e8-d7ba-4399-aacf-345413d67d21": {},
-	"bb24ff2c-1136-4cbe-a47f-a483d0f05fe6": {}
+	"bb24ff2c-1136-4cbe-a47f-a483d0f05fe6": {},
+	"a9f8bb70-9304-4f50-b268-bd819c890c1a": {
+		"$CONTENT_a9f8bb70-9304-4f50-b268-bd819c890c1a/Tools/Database/ToolSets/nextbots.toolset": [
+			"052590a7-1d05-4f68-92a6-c6e56719e357"
+		]
+	},
+	"1d1ebebf-305d-4b94-85ff-e6159bbcdec1": {},
+	"9e5c0a42-67b4-4357-a3ee-9c9f924f8611": {}
 }

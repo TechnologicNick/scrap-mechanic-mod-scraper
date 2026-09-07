@@ -7790,7 +7790,7 @@
 		"localId": "b7443f95-67b7-4f1e-82f4-9bef0c62c4b3",
 		"name": "The Modpack Continuation",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 2
 	},
 	"5b2b410d-e15f-4a96-ba5b-ae670cbac57f": {
 		"description": "This mod adds a 3d printer nozzle that can place blocks up to 16 blocks distance. Using a white number input you can specify the block type that you want to place and with a black logic input you place a block.",
@@ -43397,7 +43397,7 @@
 				"name": "Survival Mode Assets Fix"
 			}
 		],
-		"description": "[NOT YET UPDATED TO 1.0 RELEASE]\r\nThis mod adds new part models that improve upon outdated visuals, this mod can be used both in Creative mode and Survival mode.\r\nPreviously a part of Survival Parts Fix now seperate.\r\n(NOT A FILE MOD)",
+		"description": "This mod adds new part models that improve upon outdated visuals, this mod can be used both in Creative mode and Survival mode.\r\nPreviously a part of Survival Parts Fix now seperate.\r\n(NOT A FILE MOD)",
 		"fileId": 3479326910,
 		"localId": "68459649-dda2-4dac-aa33-64522bf56ad5",
 		"name": "Scrap Mechanic Parts Remake",
@@ -51117,10 +51117,40 @@
 				"name": "ModDatabase"
 			}
 		],
-		"description": "[h1]Vehicle Cassettes[/h1]\nA vehicle you can put in your pocket. Bolt a blank cassette anywhere on a creation and press E - the whole build is written to the tape and taken off the world. Put the tape down wherever you want it later, press E, and the creation comes back around it.\n\nIt rebuilds at the same height off the ground it was recorded at, so a vehicle comes back on its wheels rather than through the floor.\n\nA tape holds one creation, and holds it only while it is stored. Deploying leaves the tape blank again.\n\n[h1]What it will not do[/h1]\nIt refuses to record while somebody is sitting in the build. And nothing is destroyed until the recording has been written to the tape and read back off it - a deck that refuses to record is an annoyance, a deck that records badly is somebody's afternoon.\n\n[h1]Eight tapes[/h1]\nThere are eight lettered tapes in a world, so eight creations can be in storage at once. They are coloured so a pocket of them is readable at a glance, and a recorded tape does not stack - each one is a different vehicle.\n\n[h1]Before you start[/h1]\n[b]Mod Database[/b] is required and registers the parts - on a fresh install give the game a load or two to pick them up.\n\n[b]Fant 3[/b] reads the craftbot recipes. On plain vanilla survival the parts still work, they just will not be listed at a craftbot.\n\n[b]If an update seems to change nothing[/b], clear the caches. Delete the [i]Cache[/i] folder from this mod, from Fant 3 and from Mod Database, then relaunch - they rebuild on the next load.",
+		"description": "Do not use in creative or with a creative inventory, you will lose your creations.  \r\nWorking out several bugs.  \r\n\r\nTHIS DOES NOT SAVE BLUEPRINTS OF YOUR CREATIONS\r\nthis only stores a local copy inside a block.  block goes away, so does the creation inside it.  \r\n\r\n[h1]Vehicle Cassettes[/h1]\r\nA vehicle you can put in your pocket. Bolt a blank cassette anywhere on a creation and press E - the whole build is written to the tape and taken off the world. Put the tape down wherever you want it later, press E, and the creation comes back around it.\r\n\r\nThe tape itself drops to the ground upon recording the creation, dont leave it behind.  \r\n\r\nIt rebuilds at the same height off the ground it was recorded at, so a vehicle comes back on its wheels rather than through the floor.\r\n\r\nA tape holds one creation, and holds it only while it is stored. Deploying leaves the tape blank again.\r\n\r\n[h1]What it will not do[/h1]\r\nIt refuses to record while somebody is sitting in the build. And nothing is destroyed until the recording has been written to the tape and read back off it \r\n\r\n\r\n[h1]Before you start[/h1]\r\n[b]Mod Database[/b] is required and registers the parts - on a fresh install give the game a load or two to pick them up.\r\n\r\n\r\n[b]If an update seems to change nothing[/b], clear the caches. Delete the [i]Cache[/i] folder from this mod, from Fant 3 and from Mod Database, then relaunch - they rebuild on the next load.",
 		"fileId": 3796546493,
 		"localId": "bb24ff2c-1136-4cbe-a47f-a483d0f05fe6",
 		"name": "Vehicle Cassettes",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"a9f8bb70-9304-4f50-b268-bd819c890c1a": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "",
+		"fileId": 3797136674,
+		"localId": "a9f8bb70-9304-4f50-b268-bd819c890c1a",
+		"name": "Nextbots",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"1d1ebebf-305d-4b94-85ff-e6159bbcdec1": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "CREATION SPAWNERThis mod adds a functional saved-creation spawner and a dedicated resource storage box.Creation Spawner allows you to select any saved blueprint and automatically spawn it when the spawner receives a logic signal.The required blocks and parts are consumed from a connected Chest for Parts, which makes the system suitable for automated factories, bases, drone launch systems and other logic-controlled creations.",
+		"fileId": 3797158461,
+		"localId": "1d1ebebf-305d-4b94-85ff-e6159bbcdec1",
+		"name": "Creation Spawner",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"9e5c0a42-67b4-4357-a3ee-9c9f924f8611": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds a solar panel and a solar panel connector that acts as a battery storage/connection point for the solar panels!",
+		"fileId": 3797205508,
+		"localId": "9e5c0a42-67b4-4357-a3ee-9c9f924f8611",
+		"name": "Flat Solar Panel",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
