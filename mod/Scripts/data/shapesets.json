@@ -177687,8 +177687,9 @@
 		]
 	},
 	"9e5c0a42-67b4-4357-a3ee-9c9f924f8611": {
-		"$CONTENT_9e5c0a42-67b4-4357-a3ee-9c9f924f8611/Objects/Database/ShapeSets/example.shapeset": [
+		"$CONTENT_9e5c0a42-67b4-4357-a3ee-9c9f924f8611/Objects/Database/ShapeSets/ElectricalParts.ShapeSet": [
 			"29ec5ea2-f5b1-4910-bd05-6bba80643152",
+			"78473152-1644-46ad-b05f-b10205434caa",
 			"5953997b-20b4-425b-8bb4-bf3a35b32246"
 		]
 	},
@@ -177698,6 +177699,20 @@
 	"42c2de83-82e9-411b-a8aa-1d4d46aa907d": {
 		"$CONTENT_42c2de83-82e9-411b-a8aa-1d4d46aa907d/Objects/Database/ShapeSets/shapeset.shapeset": [
 			"599f6d99-daf6-4116-ace9-0e24dbf71658"
+		]
+	},
+	"c3d02c15-8c73-40b7-918f-f9e20816601c": {
+		"$CONTENT_c3d02c15-8c73-40b7-918f-f9e20816601c/Objects/Database/ShapeSets/haybotspines.shapeset": [
+			"5cb39ea5-554d-4c40-9d9a-6b2dd59de953"
+		]
+	},
+	"26e5e879-1fc4-4669-8b8e-bf68b8bd9f73": {
+		"$CONTENT_26e5e879-1fc4-4669-8b8e-bf68b8bd9f73/Objects/Database/ShapeSets/plasmadrill.shapeset": [
+			"d7195c8f-43fb-4638-a2cb-10f5b4009e01",
+			"d7195c8f-43fb-4638-a2cb-10f5b4009e02",
+			"d7195c8f-43fb-4638-a2cb-10f5b4009e03",
+			"d7195c8f-43fb-4638-a2cb-10f5b4009e04",
+			"d7195c8f-43fb-4638-a2cb-10f5b4009e05"
 		]
 	}
 }

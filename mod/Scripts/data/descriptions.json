@@ -51146,11 +51146,11 @@
 	},
 	"9e5c0a42-67b4-4357-a3ee-9c9f924f8611": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "This mod adds a solar panel and a solar panel connector that acts as a battery storage/connection point for the solar panels! (THIS MOD IS WIP AND CRAFTING RECIPES WILL COME LATER)",
-		"fileId": 3797205508,
+		"custom_icons": true,
+		"description": "This mod adds a solar panel and a solar panel connector that acts as a battery storage/connection point for the solar panels, and lastly, it adds a generator that when you hook a battery to it and hook the generator up to a bearing and spin an attatched object on the said bearing, it generates electricity!",
+		"fileId": 3797852693,
 		"localId": "9e5c0a42-67b4-4357-a3ee-9c9f924f8611",
-		"name": "Flat Solar Panel",
+		"name": "Electrical Parts",
 		"type": "Blocks and Parts",
 		"version": 2
 	},
@@ -51171,6 +51171,26 @@
 		"fileId": 3797356511,
 		"localId": "42c2de83-82e9-411b-a8aa-1d4d46aa907d",
 		"name": "Upgrader Items",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"c3d02c15-8c73-40b7-918f-f9e20816601c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Haybot Spines replaces Haybot spine debris with 20 Scrap Metal loot drops. It keeps Haybot deaths lightweight and inventory-friendly while using vanilla Scrap Mechanic loot behavior.\r\n\r\n[h1]FEATURES[/h1]\r\n[olist]\r\n[*] Replaces physical Haybot spine debris with Scrap Metal loot\r\n[*] Drops 20 Scrap Metal per Haybot death\r\n[*] Uses vanilla Haybot unit and loot behavior\r\n[/olist]\r\n\r\n[h1]PREREQUISITES[/h1]\r\n[olist]\r\n[*] Drilling Thunder patch\r\n[*] Fant Mod 3 (Workshop ID 3772903275): https://steamcommunity.com/sharedfiles/filedetails/?id=3772903275\r\n[*] Subscription (no load required) to Mod Database (Workshop ID 2504530003): https://steamcommunity.com/sharedfiles/filedetails/?id=2504530003\r\n[/olist]\r\n\r\n[h1]WORKSHOP UPDATE INSTRUCTIONS[/h1]\r\nThe Scrap Mechanic Steam Workshop seems bugged after 1.0 and the Drilling Thunder patch may prevent this mod from updating automatically.\r\n\r\nTo update, close Scrap Mechanic first. Delete the Cache folders listed below, then restart the game.\r\nWorkshop ID 3772903275 = Fant Mod 3\r\nWorkshop ID 3795707021 = this mod's Steam Workshop page ID\r\n\r\nThe cache folders are located at:\r\n\r\nSteam\\steamapps\\workshop\\content\\387990\\3772903275\\Cache\r\nSteam\\steamapps\\workshop\\content\\387990\\3795707021\\Cache\r\n\r\nExample: open cmd.exe and run \r\n[code]if exist \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\3772903275\\Cache\" rmdir /s /q \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\3772903275\\Cache\"\r\nif exist \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\3795707021\\Cache\" rmdir /s /q \"C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\387990\\3795707021\\Cache\"[/code]",
+		"fileId": 3795707021,
+		"localId": "c3d02c15-8c73-40b7-918f-f9e20816601c",
+		"name": "wmf-haybotspines",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"26e5e879-1fc4-4669-8b8e-bf68b8bd9f73": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "WM Plasma Drill with smooth bidirectional terrain flattening, 5 upgrade tiers, and dual-switch control.",
+		"fileId": 3797699020,
+		"localId": "26e5e879-1fc4-4669-8b8e-bf68b8bd9f73",
+		"name": "wmf-plasmadrill",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
