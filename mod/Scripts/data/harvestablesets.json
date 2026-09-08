@@ -4405,6 +4405,23 @@
 		"$CONTENT_3175f905-b288-4832-bb0d-4dec4d8a92bb/Harvestables/Database/HarvestableSets/soil_cleanup.harvestableset": [
 			"b39349ae-9b7e-48e2-8e9d-6f9dc6472fd6",
 			"2e39af7c-235c-40ee-9cc7-43c7cd87f155"
+		],
+		"$CONTENT_3175f905-b288-4832-bb0d-4dec4d8a92bb/Harvestables/Database/HarvestableSets/crop_progression_overrides.harvestableset": [
+			"80cd6e60-154f-46da-8f26-ff30f2961fa2",
+			"9b031ec3-bc91-47b9-93fb-df79a8ef3026",
+			"133ae17a-c038-4a55-ab79-f40f6840ab2b",
+			"2cedbc23-92c5-4fba-8a08-ecbae23a28e5",
+			"18990ae9-62d1-41f7-aab9-5199b31e3e89",
+			"1a167796-8162-4990-97a7-b3810b3f94ca",
+			"534b13a0-3ec1-4558-a77a-cfccf6c3cb3e",
+			"b166b142-792a-4c8f-9d06-f277dab6dba6",
+			"c42ad18d-797b-4196-ab79-86e222d8f767",
+			"4d923a91-0c98-40f9-ae3f-ef386362ab1c",
+			"4ef9170e-c57b-4b76-9a39-4a111eb5cc0d",
+			"bd35a291-3ea6-4c89-ab05-606ce1399251",
+			"f68f163d-d4c1-448c-865d-4ebb2826b6ce",
+			"c591d94b-d7d1-4305-a9dd-76ef06d6fb49",
+			"f7567939-d170-437e-b5c4-352ee9d5850d"
 		]
 	},
 	"c46d8175-9434-471c-8c0d-9d94da8c384d": {

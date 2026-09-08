@@ -167398,7 +167398,23 @@
 			"7d3c0a52-91bf-4ef5-b6d1-4475476a6008",
 			"24f32d87-79e7-4560-9e99-30e362d556f8",
 			"87f2d9d5-d63f-4330-9e56-7cb76f187d8f",
-			"6c585e97-bf71-438a-b1c6-396f5cac34fc"
+			"6c585e97-bf71-438a-b1c6-396f5cac34fc",
+			"47930717-9ceb-4cd6-9de0-08e7087d8512",
+			"de638799-eef2-4bd7-ab1c-3872ab0676ee",
+			"6e11efe4-98a9-4bee-af38-0e838425811b",
+			"67e26d75-2fb5-4b91-bb2e-a49f9121fea1",
+			"c130e882-c3cd-4fd9-b606-a74fbae79613",
+			"0ecb0aaf-b742-45f9-9874-0dbf0e06394e",
+			"5b512817-9c91-414a-9926-501ed1c3fb68",
+			"f39b3cfb-2178-4245-9e79-f09fd3da2beb",
+			"5f5bb75f-0a56-4430-8d77-fc064818fc00",
+			"ec7b1249-4734-4120-91a7-1b68fe9f1e6e",
+			"dbbcf7e0-43ba-4011-9cf3-3ca693c76482",
+			"0663cb69-8c4f-497b-99ac-a3ccf2b8a680",
+			"8e0c8323-5ecf-46b8-ae94-982642e31dd5",
+			"7e83c485-3c74-4dc3-b437-fcd6713528aa",
+			"a4774f8b-9307-4758-b634-73f9e46f926f",
+			"2c726268-565c-429e-bae5-968987087525"
 		],
 		"$CONTENT_8cfeedb3-6f06-4536-9334-1e4b0bfbe88a/Objects/Database/ShapeSets/scrap_tweaks_stack_overrides.shapeset": [
 			"22beade5-38ca-47b4-a2ee-32403f58a862",
@@ -167424,6 +167440,7 @@
 			"ba3fbedc-1802-4406-852d-3f3a7ddc4be2",
 			"bfcfac34-db0f-42d6-bd0c-74a7a5c95e82",
 			"5530e6a0-4748-4926-b134-50ca9ecb9dcf",
+			"b41de15e-a136-425a-a730-889b58cf4466",
 			"161786c1-1290-4817-8f8b-7f80de755a06",
 			"4c6e27a2-4c35-4df3-9794-5e206fef9012",
 			"a052e116-f273-4d73-872c-924a97b86720",
@@ -167434,6 +167451,7 @@
 			"660c50e1-081d-449c-a405-785d4c26328d",
 			"4a3d40d4-ce86-4a68-b042-8d107ea39d78",
 			"8e61a423-5aa6-4dd3-ac57-ecac313f82f5",
+			"fb0f128c-e607-4c52-9c25-f44dfd2dd95e",
 			"1147e59d-6940-42b4-840b-07f05054f5e0",
 			"f152e4df-bc40-44fb-8d20-3b3ff70cdfe3",
 			"c108d189-87ff-41d1-8d61-667769924a34",
@@ -167444,8 +167462,7 @@
 			"c9396a42-67c3-4fa3-b682-31428ff9eced",
 			"ac0b5b0a-14e1-4b31-8944-0a351fbfcc67",
 			"98a85002-3b45-4fe8-b2fb-390a9953e877",
-			"fe8bfeba-850b-4827-9785-10e2468c9c23",
-			"267e0c93-62e3-45ad-9470-a14035cb9ca4"
+			"fe8bfeba-850b-4827-9785-10e2468c9c23"
 		],
 		"$CONTENT_8cfeedb3-6f06-4536-9334-1e4b0bfbe88a/Objects/Database/ShapeSets/scrap_tweaks_gyroseat_override.shapeset": [
 			"1786e265-cebe-4ef1-9d13-02c104c6207b",
@@ -168336,6 +168353,10 @@
 		"$CONTENT_3175f905-b288-4832-bb0d-4dec4d8a92bb/Objects/Database/ShapeSets/overdrive_vanilla_overrides.shapeset": [
 			"a930a42f-63ed-4fb0-933e-56ce8a889cc5",
 			"5cb15c93-4fa9-48da-9974-2e95ca6c9e1c",
+			"05dfa680-a342-4ff5-9a3c-c0529957177b",
+			"24bce824-e472-4933-b60e-861b42358acb",
+			"fc5fd8d1-27db-4d2f-9d1a-b1dc94d8d622",
+			"f94d29ab-9c1e-4551-b76e-fa2146344cf4",
 			"97f449b6-c948-448b-b8b3-4448e3f6b956",
 			"ea10d1af-b97a-46fb-8895-dfd1becb53bb",
 			"096d4daf-639e-4947-a1a6-1890eaa94464",
