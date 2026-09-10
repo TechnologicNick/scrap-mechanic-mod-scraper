@@ -49093,7 +49093,7 @@
 	},
 	"2b954e96-2fba-4bb0-a77b-37384b050832": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"description": "This mod adds custom thrusters to creative mode! - Enjoy :3",
 		"fileId": 3774726306,
 		"localId": "2b954e96-2fba-4bb0-a77b-37384b050832",
@@ -49450,8 +49450,8 @@
 	},
 	"8824141a-b109-4174-a00d-f3cb3450f051": {
 		"allow_add_mods": true,
-		"custom_icons": true,
-		"description": "This is my Modpack :3\r\n\r\n[h2][b]Blocks and Wedges:[/b][/h2]\r\n- Scraprooms Wallpaper 1 Block\r\n- Scraprooms Wallpaper 1 Wedge\r\n- Furry Block\r\n- Smooth Planks 1 Block\r\n- Smooth Planks 1 Wedge\r\n- Mirror Block\r\n- Greenscreen Block\r\n- Neon Block\r\n- Invisible Block\r\n- Strange Stone Block\r\n- Strange Stone Wedge\r\n- PLAGA Block\r\n- PLAGA  Wedge\r\n- Glass (Pattern 1) Block\r\n- Glass (Pattern 1) Wedge\r\n- Metal Block 1\r\n- Grass Block\r\n- Ground Block\r\n- Rock Block\r\n- Rubber Block\r\n\r\n[h2][b]Parts:[/b][/h2]\r\n- Wooden Small Wheel\r\n- Dice\r\n- Human Head\r\n- Long Pipe x6\r\n- Small Wheel\r\n- Wheel\r\n- Big Wheel\r\n- Very Big Wheel\r\n- Metal Platform 4x4\r\n\r\n[h2][b]Interactive Parts:[/b][/h2]\r\n- Door Handle Block\r\n- Scraprooms Big Lamp\r\n- Metal Door\r\n- Numpad Switch\r\n- Small Thruster\r\n- Powerful Thruster\r\n\r\n[i][b]More Blocks and Parts coming soon![/b][/i]",
+		"custom_icons": false,
+		"description": "This is my Modpack :3\r\n\r\n[h2][b]Blocks and Wedges:[/b][/h2]\r\n- Scraprooms wallpaper 1 block\r\n- Scraprooms wallpaper 1 wedge\r\n- Furry block\r\n- Smooth planks 1 block\r\n- Smooth planks 1 wedge\r\n- Mirror block\r\n- Greenscreen block\r\n- Neon block\r\n- Invisible block\r\n- Strange stone block\r\n- Strange stone wedge\r\n- PLAGA block\r\n- PLAGA  wedge\r\n- Glass (pattern 1) block\r\n- Glass (pattern 1) wedge\r\n- Metal block 1\r\n- Grass block\r\n- Ground block\r\n- Rock block\r\n- Rubber block\r\n\r\n[h2][b]Parts:[/b][/h2]\r\n- Wooden small wheel\r\n- dice\r\n- Human head\r\n- Long pipe x6\r\n- Small wheel\r\n- Wheel\r\n- Big wheel\r\n- Very big wheel\r\n- Metal platform 4x4\r\n\r\n[h2][b]Interactive Parts:[/b][/h2]\r\n- Door handle block\r\n- Scraprooms big lamp\r\n- Metal door\r\n- Numpad switch\r\n- Small thruster\r\n- Powerful thruster\r\n- Medium button\r\n\r\n[i][b]More Blocks and Parts coming soon![/b][/i]",
 		"fileId": 3778586185,
 		"localId": "8824141a-b109-4174-a00d-f3cb3450f051",
 		"name": "The Adamo Pack",
@@ -51187,7 +51187,7 @@
 	"26e5e879-1fc4-4669-8b8e-bf68b8bd9f73": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "WM Plasma Drill with smooth bidirectional terrain flattening, 5 upgrade tiers, and dual-switch control.",
+		"description": "WM Plasma Drill with smooth bidirectional terrain flattening, 5 upgrade tiers, and dual-switch control.\r\n\r\nWork in progress, it wont work until 9/10/2026.",
 		"fileId": 3797699020,
 		"localId": "26e5e879-1fc4-4669-8b8e-bf68b8bd9f73",
 		"name": "wmf-plasmadrill",
@@ -51201,6 +51201,26 @@
 		"fileId": 3798659234,
 		"localId": "6fa7d115-0db6-43ac-9078-e8b65c839920",
 		"name": "REW",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"3677e2d3-908a-48d0-b25d-89f853e2c7a5": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "With a flare cannon, heavy glide bombs, and a mutated vacuum pump, you can automate the launching of fire bombs, dirt, foam fire suppressant, and other items, rather than relying only on manual handheld tools. There is also a powerful glide bomb. This enhances the gameplay: it not only supplements the game's weapons and items but also completes the game logic.",
+		"fileId": 3798970591,
+		"localId": "3677e2d3-908a-48d0-b25d-89f853e2c7a5",
+		"name": "Combat and Logic Enhancement Mod",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"b3caf6dd-ade0-49c1-b0e9-82d6167c45e0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Wireless Camera's With Seats WASD Function and more!",
+		"fileId": 3798989404,
+		"localId": "b3caf6dd-ade0-49c1-b0e9-82d6167c45e0",
+		"name": "Transmitter and Reciever Cameras",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
