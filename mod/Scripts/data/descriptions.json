@@ -46727,7 +46727,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "loads",
+		"description": "load",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -51117,7 +51117,7 @@
 				"name": "ModDatabase"
 			}
 		],
-		"description": "[h1]Vehicle Cassettes[/h1]\r\nA vehicle you can put in your pocket.\r\n\r\nBolt a blank cassette anywhere on a creation and press E. The whole build is written to the tape and taken off the world, and you are left holding one lettered cassette. Push that tape into a Cassette Dock to build it again.\r\n\r\nNothing to park on and nothing to line up - the cassette records the creation it is attached to.\r\n\r\n[h1]The parts[/h1]\r\n[b]Blank Cassette[/b] - bolt it on, press E, it records.\r\n[b]Cassette Dock[/b] - the only thing that builds. E loads a tape, E again plays it, U ejects. The creation appears in the bay behind the machine, standing upright on whatever floor is there.\r\n[b]Cassette Rack[/b] - eight pockets. E files the tapes you are carrying; U opens it to see what is on one, give it a name, or take it back.\r\n[b]Cassette Recovery Bench[/b] - copies a lost tape's recording onto a fresh blank.\r\n\r\n[h1]Twenty-four tapes[/h1]\r\n24 lettered tapes per world, so 24 creations can be in storage at once. They do not stack - each one is a different vehicle - and they are coloured so a pocketful is readable at a glance.\r\n\r\nRecording spends a blank. Playing a tape gives one back.\r\n\r\n[h1]Before you start[/h1]\r\n[b]Mod Database[/b] is required and registers the parts - on a fresh install give the game a load or two to pick them up.\r\n\r\n[b]Fant 3[/b] reads the craftbot recipes. On plain vanilla survival the parts still work, they just will not be listed at a craftbot.\r\n\r\n[b]If an update seems to change nothing[/b], clear the caches. Delete the [i]Cache[/i] folder from this mod, from Fant 3 and from Mod Database, then relaunch - they rebuild on the next load.",
+		"description": "==Fixed a bug where a cassette showed a preview for a previous creation in the dock.  \r\n\r\n[h1]Vehicle Cassettes[/h1]\r\nA vehicle you can put in your pocket.\r\n\r\nBolt a blank cassette anywhere on a creation and press E. The whole build is written to the tape and taken off the world, and you are left holding one lettered cassette. Push that tape into a Cassette Dock to build it again.\r\n\r\nNothing to park on and nothing to line up - the cassette records the creation it is attached to.\r\n\r\n[h1]The parts[/h1]\r\n[b]Blank Cassette[/b] - bolt it on, press E, it records.\r\n[b]Cassette Dock[/b] - the only thing that builds. E loads a tape, E again plays it, U ejects. The creation appears in the bay behind the machine, standing upright on whatever floor is there.\r\n[b]Cassette Rack[/b] - eight pockets. E files the tapes you are carrying; U opens it to see what is on one, give it a name, or take it back.\r\n[b]Cassette Recovery Bench[/b] - copies a lost tape's recording onto a fresh blank.\r\n\r\n[h1]Twenty-four tapes[/h1]\r\n24 lettered tapes per world, so 24 creations can be in storage at once. They do not stack - each one is a different vehicle - and they are coloured so a pocketful is readable at a glance.\r\n\r\nRecording spends a blank. Playing a tape gives one back.\r\n\r\n[h1]Before you start[/h1]\r\n[b]Mod Database[/b] is required and registers the parts - on a fresh install give the game a load or two to pick them up.\r\n\r\n[b]Fant 3[/b] reads the craftbot recipes. On plain vanilla survival the parts still work, they just will not be listed at a craftbot.\r\n\r\n[b]If an update seems to change nothing[/b], clear the caches. Delete the [i]Cache[/i] folder from this mod, from Fant 3 and from Mod Database, then relaunch - they rebuild on the next load.",
 		"fileId": 3796546493,
 		"localId": "bb24ff2c-1136-4cbe-a47f-a483d0f05fe6",
 		"name": "Vehicle Cassettes",
@@ -51191,6 +51191,16 @@
 		"fileId": 3797699020,
 		"localId": "26e5e879-1fc4-4669-8b8e-bf68b8bd9f73",
 		"name": "wmf-plasmadrill",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"6fa7d115-0db6-43ac-9078-e8b65c839920": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "ORIGINAL MOD MADE BY 00FANT,FIX MADE BY NEKTARINContent:[list] [*]Block Editor             ( Like Glitch Weld but Better ) [*]Paint Bucket            ( THIS MF DONT WORK ) [*]Multi Connect Tool   ( Connect Multiple Things at Once ) [*]Measurement Tool   ( Check the Size and Mass Center of your Creation ) [*]Woc Brusher/Gravity Gun   ( To Move Around your stuff )[/list][h1] MORE INFOS  [/h1]Youtube Channel 00Fant:[h1] https://www.youtube.com/c/00FantMod [/h1][u]subscribe to get the Newest Feature and Update Infos[/u]orDiscord link [h1] https://discord.gg/zTZjyrB5nh [/h1]",
+		"fileId": 3798659234,
+		"localId": "6fa7d115-0db6-43ac-9078-e8b65c839920",
+		"name": "REW",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
