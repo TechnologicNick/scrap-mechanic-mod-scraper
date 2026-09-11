@@ -8347,7 +8347,11 @@
 	"0805cde5-be62-4912-aee9-ad0ba17d06fa": {},
 	"b343cfaf-b31f-49b5-bba2-457307764b8b": {},
 	"88ca42e8-d7ba-4399-aacf-345413d67d21": {},
-	"bb24ff2c-1136-4cbe-a47f-a483d0f05fe6": {},
+	"bb24ff2c-1136-4cbe-a47f-a483d0f05fe6": {
+		"$CONTENT_bb24ff2c-1136-4cbe-a47f-a483d0f05fe6/Tools/Database/ToolSets/cassettes.toolset": [
+			"07b612ec-2f8c-4153-88d0-c60884ea505b"
+		]
+	},
 	"a9f8bb70-9304-4f50-b268-bd819c890c1a": {
 		"$CONTENT_a9f8bb70-9304-4f50-b268-bd819c890c1a/Tools/Database/ToolSets/nextbots.toolset": [
 			"052590a7-1d05-4f68-92a6-c6e56719e357"
@@ -8375,5 +8379,6 @@
 		]
 	},
 	"3677e2d3-908a-48d0-b25d-89f853e2c7a5": {},
-	"b3caf6dd-ade0-49c1-b0e9-82d6167c45e0": {}
+	"b3caf6dd-ade0-49c1-b0e9-82d6167c45e0": {},
+	"1ba077a5-fa4f-49f9-b37d-370da995647b": {}
 }

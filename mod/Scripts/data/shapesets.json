@@ -177776,5 +177776,13 @@
 			"ebf9570c-657d-4363-b7a9-b75f230ca840",
 			"bb8775bd-95a5-4f57-9bb4-f7a60aa0d384"
 		]
+	},
+	"1ba077a5-fa4f-49f9-b37d-370da995647b": {
+		"$CONTENT_1ba077a5-fa4f-49f9-b37d-370da995647b/Objects/Database/ShapeSets/example.shapeset": [
+			"c9e2b1b3-4f9b-4e8c-8c7a-9a8b7c6d5e4f",
+			"188d229e-24d7-4033-9d81-510f0dffe0bf",
+			"0066004c-5ff6-40c6-9531-6a2f5022ab04",
+			"b7e4c2a9-6f31-4d85-9a2c-3e8f1d7b50a4"
+		]
 	}
 }
