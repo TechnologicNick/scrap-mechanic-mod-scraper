@@ -8380,5 +8380,16 @@
 	},
 	"3677e2d3-908a-48d0-b25d-89f853e2c7a5": {},
 	"b3caf6dd-ade0-49c1-b0e9-82d6167c45e0": {},
-	"1ba077a5-fa4f-49f9-b37d-370da995647b": {}
+	"1ba077a5-fa4f-49f9-b37d-370da995647b": {},
+	"05220010-affa-4c85-a27b-9f79c6e61007": {
+		"$CONTENT_05220010-affa-4c85-a27b-9f79c6e61007/Tools/Database/ToolSets/example.toolset": [
+			"9c28e6b1-89b4-4d0f-9cd1-6df7a298ece9",
+			"16f9b9b2-4893-45a3-878b-5881ef9f07a9"
+		]
+	},
+	"6d594e30-6ce0-4a69-9d08-03a848645b4c": {
+		"$CONTENT_6d594e30-6ce0-4a69-9d08-03a848645b4c/Tools/Database/ToolSets/nightmod.toolset": [
+			"3f7a1d92-6c4b-4e8d-9a10-2b3c4d5e6f70"
+		]
+	}
 }
