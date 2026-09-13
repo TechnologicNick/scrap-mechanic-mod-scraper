@@ -44073,7 +44073,7 @@
 	"e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[En]-------------------------------------------------------------------------------------------------|\r\n\r\nCONFLICTS WITH:\r\nsledgehammer lag fix\r\n\r\nIf you have any questions about the mod, feel free to leave them in the comments, I(#d4af37T) will answer them as soon as possible. Leave any suggestions in the comments, I can add most of what you can probably think of.\r\n\r\nPlease report any issues with the mod in the comments, I will probably answer and fix them.\r\n\r\nYou can copy any scripts from this mod, if you change them in any meaningfull way.\r\n\r\nIn game name of the monster with procedural legs is Big parasite.\r\n\r\nThis mod adds 1 tool, \"T power\", it has many functions: \"Gravity gun\", \"Tug\", \"Movement tool\", \"Force field\", \"Returner\", \"Cleaner\", \"Manual\", \"Part gun\", \"Delayed Movement\", \"Newtonian Gravity Gun\", \"Zoom\", \"Immortality\", \"Grab\", \"Console\", \"Freecamera\", \"Volumetric brush (add)\", \"Volumetric brush (substract)\", \"Volume creation redactor\", \"Logic block clicker\", \"Manipulator\", \"Web gun\", \"Web\"\r\n\r\nIf mod is causing lag and/or world crashes, I recommend using one of those chat commands for auto cleaning world :\r\n\r\n/tmod autoclear_set_30_loose for loose bodies\r\n/tmod autoclear_set_30_single for single parasites, like big parasite, simple parasite, snarky parasite, wasps and any other single loose block parasites.\r\n/tmod autoclear_set_30_normal for general clean\r\n\r\n/tmod clear_c to remove strong parasite\r\n\r\n#d4af37T - Mod\r\nᴢɛηχɛʀ - model of the T blocks\r\nDr. Evil - translation and front page\r\n\r\n[RU]-------------------------------------------------------------------------------------------------|\r\n\r\nКОНФЛИКТЫ МОДОВ:\r\nsledgehammer lag fix\r\n\r\nЕсли у вас есть какие-либо вопросы по поводу мода, не стесняйтесь оставлять их в комментариях, я (#d4af37T) отвечу на них, как только смогу. Оставляйте любые предложения в комментариях, я могу добавить большую часть того, что вам, вероятно, придет в голову.\r\n\r\nПожалуйста, сообщайте обо всех ошибках или недочетах в комментариях, с вероятностью 93% я отвечу и исправлю их.\r\n\r\nВы можете использовать любые скрипты из этого мода для копирования в свой мод, если вы каким-либо значительным образом измените их функциональность.\r\n\r\nИгровое имя монстра с процедурными ногами - Big parasite.\r\n\r\nЭтот мод добавляет 1 инструмент, \"Т Сила\", у него много функций: \"Gravity gun\", \"Tug\", \"Movement tool\", \"Force field\", \"Returner\", \"Cleaner\", \"Manual\", \"Part gun\", \"Delayed Movement\", \"Newtonian Gravity Gun\", \"Zoom\", \"Immortality\", \"Grab\", \"Console\", \"Freecamera\", \"Volumetric brush (add)\", \"Volumetric brush (substract)\", \"Volume creation redactor\", \"Logic block clicker\", \"Manipulator\", \"Web gun\", \"Web\"\r\n\r\nЕсли мод вызывает лаги и/или краши, рекомендуется использовать одну из этих комманд для авто отчиски:\r\n\r\n/tmod autoclear_set_30_loose для отцепленых тел\r\n/tmod autoclear_set_30_single для паразитов сотоящих из 1 блока таких как большой паразит, простой паразит, паразит снарк, осы и другие.\r\n/tmod autoclear_set_30_normal для общей очистки\r\n\r\n/tmod clear_c чтобы убрать сильного паразита\r\n\r\n#d4af37T - Создание мода\r\nᴢɛηχɛʀ - модель Т блоков\r\nDr. Evil - перевод и обложка\r\n",
+		"description": "[En]-------------------------------------------------------------------------------------------------|\r\n\r\nCONFLICTS WITH:\r\nsledgehammer lag fix\r\n\r\nIf you have any questions about the mod, feel free to leave them in the comments, I(#d4af37T) will answer them as soon as possible. Leave any suggestions in the comments, I can add most of what you can probably think of.\r\n\r\nPlease report any issues with the mod in the comments, I will probably answer and fix them.\r\n\r\nYou can copy any scripts from this mod, if you change them in any meaningfull way.\r\n\r\nIn game name of the monster with procedural legs is Big parasite.\r\n\r\nThis mod adds 1 tool, \"T power\", it has many functions: \"Gravity gun\", \"Tug\", \"Movement tool\", \"Force field\", \"Returner\", \"Cleaner\", \"Manual\", \"Part gun\", \"Delayed Movement\", \"Newtonian Gravity Gun\", \"Zoom\", \"Immortality\", \"Grab\", \"Console\", \"Freecamera\", \"Volumetric brush (add)\", \"Volumetric brush (substract)\", \"Volume creation redactor\", \"Logic block clicker\", \"Manipulator\", \"Web gun\", \"Web\"\r\n\r\nIf mod is causing lag and/or world crashes, I recommend using one of those chat commands for auto cleaning world :\r\n\r\n/tmod autoclear_set_30_loose for loose bodies\r\n/tmod autoclear_set_30_single for single parasites, like big parasite, simple parasite, snarky parasite, wasps and any other single loose block parasites.\r\n/tmod autoclear_set_30_normal for general clean\r\n\r\n/tmod clear_c to remove strong parasite\r\n\r\nᴢɛηχɛʀ - some models, some scripts, some translation, new ideas\r\nopenxe - t power translator, main modeller, some new ideas\r\n#d4af37T - did literally everything else in the mod\r\n\r\n/t help\r\n\r\n[RU]-------------------------------------------------------------------------------------------------|\r\n\r\nКОНФЛИКТЫ МОДОВ:\r\nsledgehammer lag fix\r\n\r\nЕсли у вас есть какие-либо вопросы по поводу мода, не стесняйтесь оставлять их в комментариях, я (#d4af37T) отвечу на них, как только смогу. Оставляйте любые предложения в комментариях, я могу добавить большую часть того, что вам, вероятно, придет в голову.\r\n\r\nПожалуйста, сообщайте обо всех ошибках или недочетах в комментариях, с вероятностью 93,147% я отвечу и исправлю их.\r\n\r\nВы можете использовать любые скрипты из этого мода для копирования в свой мод, если вы каким-либо значительным образом измените их функциональность.\r\n\r\nИгровое имя монстра с процедурными ногами - Big parasite.\r\n\r\nЭтот мод добавляет 1 инструмент, \"Т Сила\", у него много функций: \"Gravity gun\", \"Tug\", \"Movement tool\", \"Force field\", \"Returner\", \"Cleaner\", \"Manual\", \"Part gun\", \"Delayed Movement\", \"Newtonian Gravity Gun\", \"Zoom\", \"Immortality\", \"Grab\", \"Console\", \"Freecamera\", \"Volumetric brush (add)\", \"Volumetric brush (substract)\", \"Volume creation redactor\", \"Logic block clicker\", \"Manipulator\", \"Web gun\", \"Web\"\r\n\r\nЕсли мод вызывает лаги и/или краши, рекомендуется использовать одну из этих комманд для авто отчиски:\r\n\r\n/tmod autoclear_set_30_loose для отцепленых тел\r\n/tmod autoclear_set_30_single для паразитов сотоящих из 1 блока таких как большой паразит, простой паразит, паразит снарк, осы и другие.\r\n/tmod autoclear_set_30_normal для общей очистки\r\n\r\n/tmod clear_c чтобы убрать сильного паразита\r\n\r\nᴢɛηχɛʀ - немного скриптов, перевода, моделей и идей\r\nopenxe - главный моделлер, немного идей, переводчик Т силы\r\n#d4af37T - сделал буквально все остальное\r\n\r\n/t help",
 		"fileId": 3438987478,
 		"localId": "e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5",
 		"name": "T mod",
@@ -51252,6 +51252,53 @@
 		"fileId": 3800260086,
 		"localId": "6d594e30-6ce0-4a69-9d08-03a848645b4c",
 		"name": "Night Mod",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"9a2a8f43-6f74-4fc3-b25c-3e139b710001": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Shared keybind runtime, in-game bindings menu, Keybind Logic and Hold/Toggle/Pulse Mode Controller.\r\n\r\nDownload and install:\r\nhttps://github.com/QuestionableM/SM-DLL-Injector/releases/tag/v1.8\r\n\r\nDownload and put in a folder \"Steam\\steamapps\\common\\Scrap Mechanic\\Release\\DLLModules\" \"keybind_bridge.dll\"  and \"KeybindBridge.diagnostics.ini\"\r\nhttps://github.com/oxydrive99-design/KeybindBridge/releases/tag/1.0.0\r\n\r\nBindings Menu\r\n\r\nPress `End` while in a world:\r\n\r\n- `Up/Down` selects an action;\r\n- `Enter` starts key capture;\r\n- `Delete` restores the default key;\r\n- `Esc` or `End` closes the menu.\r\n\r\nKeybind Logic\r\n\r\n1. Connect a specific seat to the blue block.\r\n2. Interact with the block using `E`, then press the desired key.\r\n3. Press `U` to cycle `HOLD -> TOGGLE -> PULSE`.\r\n4. Connect the output to logic, lights, controllers, bearings or another\r\n   compatible consumer.\r\n\r\nThe block responds only to the player occupying the connected seat. A passenger\r\nneeds a separate Keybind Logic connected to their own seat. Keys pressed outside\r\nthe seat are consumed and are not replayed after sitting down.\r\n\r\nMode Controller\r\n\r\nThe orange block changes the mode of connected Keybind Logic blocks. It can be\r\ntriggered by:\r\n\r\n- the rising edge of a regular button, gate or sensor;\r\n- `U` while interacting with it;\r\n- an assigned key from a connected seat.\r\n\r\nOne Mode Controller can drive several Keybind Logic blocks.",
+		"fileId": 3800264910,
+		"localId": "9a2a8f43-6f74-4fc3-b25c-3e139b710001",
+		"name": "KeybindBridge Core",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"9a2a8f43-6f74-4fc3-b25c-3e139b710020": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 3800264910,
+				"localId": "9a2a8f43-6f74-4fc3-b25c-3e139b710001",
+				"name": "KeybindBridge Core"
+			}
+		],
+		"description": "Optional blockless character flashlight with camera aiming.\r\n\r\nDownload and install:\r\nhttps://github.com/QuestionableM/SM-DLL-Injector/releases/tag/v1.8\r\n\r\nDownload and put in a folder \"Steam\\steamapps\\common\\Scrap Mechanic\\Release\\DLLModules\" \"keybind_bridge.dll\"  and \"KeybindBridge.diagnostics.ini\"\r\nhttps://github.com/oxydrive99-design/KeybindBridge/releases/tag/1.0.0\r\n\r\nPress \"F\" to turn flashlight\r\n\r\nYou can also change the key assignment through the binds menu.\r\n\r\nPress `End` while in a world:\r\n\r\n- `Up/Down` selects an action;\r\n- `Enter` starts key capture;\r\n- `Delete` restores the default key;\r\n- `Esc` or `End` closes the menu.\r\n\r\n",
+		"fileId": 3800281199,
+		"localId": "9a2a8f43-6f74-4fc3-b25c-3e139b710020",
+		"name": "KeybindBridge Flashlight",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"e48eeb55-0d3f-4d08-8690-605715b4cf68": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Lets sticky wheels stick to dynamic bodies.[h1]This mod does not add any modded parts[/h1]This mod only changes the sticky wheel script to remove checks if the body is static.Vinilla creations with sticky wheels will stick to dynamic bodies, and creations made with this mod can be loaded in vanilla.",
+		"fileId": 3800309232,
+		"localId": "e48eeb55-0d3f-4d08-8690-605715b4cf68",
+		"name": "Better Sticky Wheels",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"c748f205-da7a-448b-bebf-befd102cd9d9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3800527803,
+		"localId": "c748f205-da7a-448b-bebf-befd102cd9d9",
+		"name": "Seat Controlled Motion Controller",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
