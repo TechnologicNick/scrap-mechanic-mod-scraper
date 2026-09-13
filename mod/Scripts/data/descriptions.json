@@ -46817,7 +46817,7 @@
 	"f1914704-dadf-4363-814f-fd7d940afa6e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod will add various weapons to the Scrap Mechanic world. Be careful when using these weapons!// Weapons- Glock [ Silencer and sight ]-- 20 ammo- AS Val [ Sight ]-- 25 ammo- USP [ Silencer ]-- 12 ammo- AK-74M [ Silencer and sight ]-- 30 ammo- M4A1 [ Silencer and sight ]-- 30 ammo- PKM [ Silencer ]-- 200 ammo- AT4 [ None modules]- MP5 [ Silencer and sight ]-- 30 ammo// = Sights- OKP-3 [ AK-74M, AS Val, M4A1 ]- Red Dot Pistols [ Glock 17 ]- Red Dot MP5 [ MP5 ]// Silencers- WN Silencer Universal [ AK-74M, AS Val, M4A1, USP, Glock 17, PKM ]// Costumezation modules on \"F\" key// Me in Discord! https:https://discord.gg/bTjs5rSU// Tags: Military, Weapons, Guns, Cannons, Tools, Modern",
+		"description": "This mod will add various weapons to the Scrap Mechanic world. Be careful when using these weapons!\r\n\r\n// Weapons\r\n-- Glock [ Silencer and sight ]\r\n-- 20 ammo\r\n\r\n- AS Val [ Sight ]\r\n-- 25 ammo\r\n\r\n- USP [ Silencer ]\r\n-- 12 ammo\r\n\r\n- AK-74M [ Silencer and sight ]\r\n-- 30 ammo\r\n\r\n- M4A1 [ Silencer and sight ]\r\n-- 30 ammo\r\n\r\n- PKM [ Silencer ]\r\n-- 200 ammo\r\n\r\n- AT4 [ None modules]\r\n\r\n-- MP5 [ Silencer and sight ]\r\n-- 30 ammo\r\n\r\n// Sights\r\n- OKP-3 [ AK-74M, AS Val, M4A1 ]\r\n- Red Dot Pistols [ Glock 17 ]\r\n- Red Dot MP5 [ MP5 ]\r\n\r\n// Silencers\r\n- WN Silencer Universal [ AK-74M, AS Val, M4A1, USP, Glock 17, PKM ]\r\n\r\n// Costumezation modules on \"F\" key\r\n\r\n// Me in Discord! https:https://discord.gg/bTjs5rSU// \r\n\r\nTags: Military, Weapons, Guns, Cannons, Tools, Modern",
 		"fileId": 3670073323,
 		"localId": "f1914704-dadf-4363-814f-fd7d940afa6e",
 		"name": "Technical Guns",
@@ -51137,7 +51137,7 @@
 	"1d1ebebf-305d-4b94-85ff-e6159bbcdec1": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "CREATION SPAWNER\r\nThis mod adds a functional saved-creation spawner and a dedicated resource storage box.\r\n\r\nCreation Spawner allows you to select any saved blueprint and automatically spawn it when the spawner receives a logic signal.The required blocks and parts are consumed from a connected Chest for Parts, which makes the system suitable for automated factories, bases, drone launch systems and other logic-controlled creations.",
+		"description": "CREATION SPAWNERThis mod adds a functional saved-creation spawner and a dedicated resource storage box.Creation Spawner allows you to select any saved blueprint and automatically spawn it when the spawner receives a logic signal.The required blocks and parts are consumed from a connected Chest for Parts, which makes the system suitable for automated factories, bases, drone launch systems and other logic-controlled creations.Yea Scrap Garage 2))",
 		"fileId": 3797158461,
 		"localId": "1d1ebebf-305d-4b94-85ff-e6159bbcdec1",
 		"name": "Creation Spawner",
@@ -51248,10 +51248,10 @@
 	"6d594e30-6ce0-4a69-9d08-03a848645b4c": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Horror night. No ambient light, no player light, 100% black sky. Only the lights you build illuminate. Smooth dusk/dawn transition. Does not modify game files.",
+		"description": "This mod finally makes the night in scrap mechanic dark, before it was like \"i mean yea its darker but still its like daytime\", now its actually dark in here, theres no ambient light, no camera light. only the light that you create or is on the map already.\r\n\r\nmods use cases:\r\n-a horror ARG\r\n-just playing the game at night completely dark\r\n-Analog Horror\r\n-making the light in your house better\r\n-removing the camera light and making black actually black\r\n\r\nCommands:\r\n/nightmod 1/0 turns the mod off and on (default 1)\r\n/nightstars 1/0 turn the stars on the sky on and off (default 0)\r\n/nightambient 1/0 makes the night silent, (default 0)\r\n/nightmoon (Work In Progress, prob wont add it but idk)\r\n\r\nTell me in the comments what more would you guys like in the mod and MAYBE i will add those features. i love reading steam comments\r\n\r\nTHE MOD MIGHT NOT WORK ON CUSTOM GAMES YET, IM FIXING IT RIGHT NOW BUT JUST BEWARE OF THIS\r\n\r\n\r\nps: yes ai was helping me make it, since i was testing the new DeepSeek V4.1 Flash and it turned into this, so too bad if you say \"Ai Slop buahaha\" cuz idgaf, its good, it works. ",
 		"fileId": 3800260086,
 		"localId": "6d594e30-6ce0-4a69-9d08-03a848645b4c",
-		"name": "Night Mod",
+		"name": "Completely Dark Night Mod",
 		"type": "Blocks and Parts",
 		"version": 2
 	},
