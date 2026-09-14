@@ -145742,10 +145742,10 @@
 			"878aaaf5-2269-4010-b788-085c8e984dfc",
 			"c7858bf3-af40-4db0-b849-7343c4844c39",
 			"1fc74dc3-081b-450e-86da-2e935077141f",
+			"6575c22b-1591-4d9c-a68e-48bfbbc60d40",
 			"7f7879c7-5ac7-46ec-8a1d-c9fa6b3e3be5",
 			"30674c46-9ab7-43e4-8fca-8dd5c1dbe07e",
 			"4b658997-eadf-4da3-b0a9-582f9ff51e99",
-			"6575c22b-1591-4d9c-a68e-48bfbbc60d40",
 			"eac3389d-e668-46c8-861a-369db0639df4",
 			"dfd0e4b9-1c4e-44af-a29f-0b6fafce5466",
 			"b509dfe6-bd6d-4214-830f-45d911b6b07d",
@@ -145790,8 +145790,8 @@
 			"2d28fc56-becc-42fb-b1c6-d60bcf119886"
 		],
 		"$CONTENT_73e08ad2-3916-453e-82bb-f3cabfd21433/Objects/Database/ShapeSets/Ammo.shapeset": [
-			"0740880a-df36-4d4f-8d8a-fa94eeafe1de",
 			"268dedea-c69b-4896-80c7-47edd977b15b",
+			"0740880a-df36-4d4f-8d8a-fa94eeafe1de",
 			"21ce8925-c16e-4bdd-9ed4-ab40bd793cf1",
 			"85ae6e60-6e5b-4636-b6bf-7bf261f5081e",
 			"03816326-5315-47d7-8a9c-72150e3152de",
@@ -167434,7 +167434,9 @@
 			"8e0c8323-5ecf-46b8-ae94-982642e31dd5",
 			"7e83c485-3c74-4dc3-b437-fcd6713528aa",
 			"a4774f8b-9307-4758-b634-73f9e46f926f",
-			"2c726268-565c-429e-bae5-968987087525"
+			"2c726268-565c-429e-bae5-968987087525",
+			"3f4f8be1-8e3b-49ad-8a7f-3d84db3e5a21",
+			"9a908c3a-d9e4-49f3-a4dc-ae39971516fb"
 		],
 		"$CONTENT_8cfeedb3-6f06-4536-9334-1e4b0bfbe88a/Objects/Database/ShapeSets/scrap_tweaks_stack_overrides.shapeset": [
 			"22beade5-38ca-47b4-a2ee-32403f58a862",
@@ -167490,6 +167492,19 @@
 			"c227ba7c-171c-4a7c-b5e4-faa84d44f03a",
 			"7f3eae8d-3dd1-47f6-94de-0450c86e4af0",
 			"42b4c02e-2de5-431e-981a-f42cb7829e68"
+		],
+		"$CONTENT_8cfeedb3-6f06-4536-9334-1e4b0bfbe88a/Objects/Database/ShapeSets/scrap_tweaks_driverseat_override.shapeset": [
+			"bd597ac9-6640-43ba-9bd8-ed584a794f13",
+			"77c2687c-2e13-4df8-996a-96fb26d75ee0",
+			"efbf45f8-62ec-4541-9eb1-d529966f6a29",
+			"c3ef3008-9367-4ab7-813a-24195d63e5a3",
+			"d30dcd12-ec39-43b9-a115-44c08e1b9091",
+			"ffa3a47e-fc0d-4977-802f-bd15683bbe5c",
+			"7d601a5a-796d-4cae-be88-b47479d38d11",
+			"bb2ed406-f0d3-4fd6-b3f9-7caadfa8e4e4",
+			"6953b17e-0a38-4107-8c56-5ee97e68bee3",
+			"41960868-6245-47b5-97c4-f446e199812f",
+			"9dd1ccea-1e44-430d-b706-3ff45416583e"
 		]
 	},
 	"4efde3ed-8008-417f-8794-d3672a5cf3eb": {
@@ -177001,7 +177016,8 @@
 		"$CONTENT_0465bad5-2d9e-4fc6-9864-11139f276802/Objects/Database/ShapeSets/example.shapeset": [
 			"d14785b2-e1c3-4ab9-9a54-fd705fcc3401",
 			"ba567155-65b3-46e6-be04-f542d69ab5ad",
-			"a1c57a9a-7791-442c-b04a-b34b81596e6c"
+			"a1c57a9a-7791-442c-b04a-b34b81596e6c",
+			"a0398dbd-744e-4ead-af0a-9bbf7c75aff8"
 		]
 	},
 	"e4470a01-4e9f-466f-8b46-e73b5e54959b": {
@@ -177821,6 +177837,35 @@
 	"c748f205-da7a-448b-bebf-befd102cd9d9": {
 		"$CONTENT_c748f205-da7a-448b-bebf-befd102cd9d9/Objects/Database/ShapeSets/example.shapeset": [
 			"3121ced5-3c48-490c-a1f2-aa8a2b8e553b"
+		]
+	},
+	"748c5163-2da2-4235-b805-58d183593434": {
+		"$CONTENT_748c5163-2da2-4235-b805-58d183593434/Objects/Database/ShapeSets/example.shapeset": [
+			"08a4dca5-6503-4977-b2b2-8836fee7723c",
+			"1d188df6-f7b6-409d-9097-b32dbe821adc",
+			"a9a63f2e-fb4e-4b1a-9f3f-9a7d4f8ff5c5",
+			"e882740a-7918-45cd-b462-dcfda87ceb0b",
+			"50bd7418-2e63-4dfd-89f0-34d772e646a4",
+			"7f1610b5-e4c7-4964-9db1-f06937e68c92",
+			"733a5349-049e-4eec-9abe-26140f62d090",
+			"13669858-cedd-4e85-86d3-9986e03e9d9c",
+			"f39fbaf1-4d1e-45ce-b215-b6e6abe9aa42",
+			"c2522819-ef9b-475e-bbd2-c853c5b9bbb1",
+			"9c9d9125-9417-4316-9ec9-79cd2f2ecd62",
+			"e4e84479-314d-47a3-9bf6-fd39773edf20",
+			"f7d88ae5-f51e-403b-a6c3-7c50c1d7d720",
+			"d6944c9e-a18a-45c6-b8da-210d23e65214",
+			"0b9352c5-0f6a-4d41-9442-f80ab1af15df",
+			"7853dcd3-be04-47ee-bbe4-78cf14ad273e",
+			"eb42f805-65bf-411d-aab0-6bd30e731a55",
+			"cd863512-64ff-47f3-a7e0-89e62148a9b9"
+		]
+	},
+	"c5b0dbb5-6e03-450b-acb1-03fe5909ecc0": {
+		"$CONTENT_c5b0dbb5-6e03-450b-acb1-03fe5909ecc0/Objects/Database/ShapeSets/shapeset.shapeset": [
+			"e40b3e04-b433-4581-a2b8-59b5088cf27e",
+			"689a5481-ae07-435d-aef7-bfd92a4183e2",
+			"29987ffe-59fd-45f0-81f2-481d8572b10b"
 		]
 	}
 }
