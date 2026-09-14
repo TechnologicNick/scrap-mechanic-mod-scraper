@@ -4516,5 +4516,13 @@
 	},
 	"05220010-affa-4c85-a27b-9f79c6e61007": {
 		"$CONTENT_05220010-affa-4c85-a27b-9f79c6e61007/Harvestables/Database/HarvestableSets/example.harvestableset": []
+	},
+	"70870961-515a-41b4-9c44-eb9175fe5c0b": {
+		"$CONTENT_70870961-515a-41b4-9c44-eb9175fe5c0b/Harvestables/Database/HarvestableSets/burgwars_farming.harvestableset": [
+			"b39349ae-9b7e-48e2-8e9d-6f9dc6472fd6",
+			"ec1cf82f-e8f3-4ca6-8e35-a4bdf0e8e259",
+			"81f76937-af88-4882-a64c-bc86a4092c20",
+			"1ebfd7c2-89df-4455-a0cc-2a43a718125b"
+		]
 	}
 }
