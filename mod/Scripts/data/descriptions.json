@@ -51285,10 +51285,10 @@
 	"e48eeb55-0d3f-4d08-8690-605715b4cf68": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Lets sticky wheels stick to dynamic bodies.[h1]This mod does not add any modded parts[/h1]This mod only changes the sticky wheel script to remove checks if the body is static.Vinilla creations with sticky wheels will stick to dynamic bodies, and creations made with this mod can be loaded in vanilla.",
+		"description": "Lets sticky wheels stick to dynamic bodies.\r\n[h1]This mod does not add any modded parts[/h1]\r\nThis mod only changes the sticky wheel script to remove checks if the body is static.\r\nVanilla creations with sticky wheels will stick to dynamic bodies, and creations made with this mod can be loaded in vanilla.",
 		"fileId": 3800309232,
 		"localId": "e48eeb55-0d3f-4d08-8690-605715b4cf68",
-		"name": "Better Sticky Wheels",
+		"name": "Stickier Sticky Wheels",
 		"type": "Blocks and Parts",
 		"version": 2
 	},
@@ -51339,6 +51339,37 @@
 		"fileId": 3800466053,
 		"localId": "22ccef83-5999-4e49-806a-56b8f0934024",
 		"name": "Improved Shotgun Aim",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"27baad35-7e73-43bd-8ad6-98e981dabc12": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "Automatically routes items from a buffer to connected chests using customizable filters.",
+		"fileId": 3800195091,
+		"localId": "27baad35-7e73-43bd-8ad6-98e981dabc12",
+		"name": "Smart Chest Sorter",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"8a4041db-121a-4b77-adc8-35689c7c58f3": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h3]Creation Shield v1.0[/h3]\r\n\r\nREQUIRES:\r\n  CreationShieldBridge.dll\r\n\r\nhttps://github.com/oxydrive99-design/Creation-Shield-Bridge/releases/tag/0.7\r\n\r\nDLL INSTALLATION:\r\n  Copy creation_shield_bridge.dll to:\r\n  Scrap Mechanic\\Release\\DLLModules\\\r\n\r\n[h3]MAIN FEATURES:[/h3]\r\n[list]\r\n  [*]Protects the entire connected creation from projectile, melee and explosion damage.\r\n  [*]Powered by vanilla Battery Containers.\r\n  [*]5 upgrade levels using Component Kits.\r\n [*]Higher levels increase shield capacity, shorten recovery delay and increase passive battery drain.\r\n [*]Gradual shield recovery after taking no damage.\r\n [*]Overload still disables the shield when capacity reaches zero.\r\n [*]Maximum 2 shield generators per complete creation.\r\n [*]Separate Shield Status Display with ONLINE %, OFFLINE, OVERLOAD and LIMIT states.\r\n [*]Vanilla barrier lightning and barrierLoop sound while ONLINE.\r\n [*]Normal logic input can control shield ON/OFF.\r\n [*]Active RED logic input enables disassembly lock while the shield is ONLINE.\r\n[/list]\r\n\r\n[h3]NOTE:[/h3]\r\n  If a logic source is painted one of the red colors above, it is treated as the erase-lock input,\r\n  not as the normal shield ON/OFF control.",
+		"fileId": 3802255754,
+		"localId": "8a4041db-121a-4b77-adc8-35689c7c58f3",
+		"name": "Creation Shield",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"bf27e1b7-559a-4773-a11e-41fe159432c7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3802331822,
+		"localId": "bf27e1b7-559a-4773-a11e-41fe159432c7",
+		"name": "A lot of Teto Stuff",
 		"type": "Blocks and Parts",
 		"version": 2
 	}

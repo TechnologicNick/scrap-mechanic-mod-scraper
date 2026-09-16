@@ -177904,5 +177904,21 @@
 		]
 	},
 	"70870961-515a-41b4-9c44-eb9175fe5c0b": {},
-	"22ccef83-5999-4e49-806a-56b8f0934024": {}
+	"22ccef83-5999-4e49-806a-56b8f0934024": {},
+	"27baad35-7e73-43bd-8ad6-98e981dabc12": {
+		"$CONTENT_27baad35-7e73-43bd-8ad6-98e981dabc12/Objects/Database/ShapeSets/chest_sorter.shapeset": [
+			"d91df3a7-c2e2-42e2-9ba4-dc26497c89fd"
+		]
+	},
+	"8a4041db-121a-4b77-adc8-35689c7c58f3": {
+		"$CONTENT_8a4041db-121a-4b77-adc8-35689c7c58f3/Objects/Database/ShapeSets/CreationShield.shapeset": [
+			"5b0f32ca-dc97-411a-9090-5839cf2b3d89",
+			"265b982c-61e4-4946-8545-bb0c62556273"
+		]
+	},
+	"bf27e1b7-559a-4773-a11e-41fe159432c7": {
+		"$CONTENT_bf27e1b7-559a-4773-a11e-41fe159432c7/Objects/Database/ShapeSets/tetos.shapeset": [
+			"0ad08a43-6dcb-4899-89cc-e552c6eff109"
+		]
+	}
 }
