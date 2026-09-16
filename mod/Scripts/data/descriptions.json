@@ -51207,10 +51207,10 @@
 	"3677e2d3-908a-48d0-b25d-89f853e2c7a5": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "With a flare cannon, heavy glide bombs, and a mutated vacuum pump, you can automate the launching of fire bombs, dirt, foam fire suppressant, and other items, rather than relying only on manual handheld tools. There is also a powerful glide bomb. This enhances the gameplay: it not only supplements the game's weapons and items but also completes the game logic.\r\n\r\n1、Multifunctional Fluorescent Cannon: It fills the gap that the official game only has a fluorescent gun but no fluorescent cannon. It is very unreasonable that the official game does not have a cannon. The good news is that now there is one. It has multiple modes and comes with huge recoil, so I hope you can make it a vehicle-mounted weapon. The first mode is Steel Pipe Mode, which can penetrate everything and occasionally ricochets. Firing continuously will cause overheating, so you can connect the Multifunctional Fluorescent Cannon to a water tank. After water is put into the water tank, the Multifunctional Fluorescent Cannon will no longer overheat and will keep firing rounds. You can combine multiple Multifunctional Fluorescent Cannons into a Gatling Multifunctional Fluorescent Cannon. At the same time, by using the feature that ammo boxes can be connected to switches, make it feed a fluorescent round after every certain number of steel pipes to serve as a tracer round. The second mode is White Phosphorus Incendiary Mode, which can also melt any block. The third mode is Corn Grenade Mode, which can be used as a grenade launcher/howitzer. Other functions will not be introduced; each mode has different muzzle smoke, vibration, and recoil for players to explore.\r\n\r\n2、Mod Ammo Box: One Multifunctional Fluorescent Cannon can be connected to multiple ammo boxes, but one ammo box can only be connected to one Multifunctional Fluorescent Cannon. Switches can be connected to Mod Ammo Boxes. When that switch is turned on, the Multifunctional Fluorescent Cannon will prioritize firing the ammunition from that Mod Ammo Box. Mod Ammo Boxes can undergo sympathetic detonation; the more ammunition inside, the more violent the sympathetic detonation.\r\n\r\n3、Heavy Glide Bomb: It is recommended to detonate it at a distance of 200 meters to see the full effect.\r\n\r\n4、Mutated Vacuum Pump: It can spray dirt and fire suppressant, and can serve as a vehicle-mounted fire-suppression system and automated terrain-building device. It can also spray small blocks.\r\n\r\nOther items will not be introduced; I hope you will explore them yourself.\r\n\r\n1、多功能荧光炮：补充了官方只有荧光枪没有荧光炮的问题。官方居然没有炮，很不合理；好消息是现在有了。它有多个模式，同时伴随巨大的后坐力，所以希望你把它做成车载武器，或装到载具上使用。第一个模式是钢管模式，可以击穿一切，偶尔会跳弹。连发会导致过热，所以你可以将多功能荧光炮连接水箱；水箱放入水后，多功能荧光炮就不会过热了，它会一直打出子弹。你可以把多支多功能荧光炮组合成加特林多功能荧光炮，同时利用弹药箱可以连接开关的特性，让它每射若干颗钢管后补充一发荧光弹来充当曳光弹。第二个模式为白磷燃烧弹模式，同样可以融化任何方块。第三个模式为玉米手雷模式，可以充当榴弹炮使用。其他功能不做介绍，每种模式都有不同的枪口烟雾、震动、后坐力供玩家探索。\r\n\r\n2、Mod弹药箱：一个多功能荧光炮可以连接多个弹药箱，但是一个弹药箱只能连接一个多功能荧光炮。开关可以连接 Mod 弹药箱；当该开关打开时，多功能荧光炮就会优先发射那个 Mod 弹药箱里的弹药。Mod 弹药箱可以殉爆，内部弹药越多，殉爆越剧烈。\r\n\r\n3、重型滑翔炸弹：建议距离 200 米引爆，可以观看完整效果。\r\n\r\n4、变异的真空泵：可以喷射泥土、灭火剂，可以充当车载灭火设备和自动化建造地形设备，同时可以喷射小方块。\r\n\r\n其他物品不做介绍，希望你自己探索。",
+		"description": "Fully-Featured Creative Mode: all meaningful Survival Mode items can be used in Creative Mode. You can plant crops, plant trees, change the time, change the sky color, etc. To provide a better experience, I have added some game items and made a few adjustments. The adjustments are as follows.1.Changed ItemsScrap Garage: Press E to adjust the weather now.Freezer: It now needs to be connected to a Battery Box and a Switch to work, and its capacity has been increased.Beehive: Capacity increased.Protector: It needs to be connected to a Switch and a Battery Box to work. For balance, its power consumption is very high.Connection Hider: It needs to be connected to a Switch and a Battery Box to work.2.Added ItemsWith a flare cannon, heavy glide bombs, and a mutated vacuum pump, you can automate the launching of fire bombs, dirt, foam fire suppressant, and other items, rather than relying only on manual handheld tools. There is also a powerful glide bomb. This enhances the gameplay: it not only supplements the game's weapons and items but also completes the game logic.1.Multifunctional Fluorescent Cannon: It fills the gap that the official game only has a fluorescent gun but no fluorescent cannon. It is very unreasonable that the official game does not have a cannon. The good news is that now there is one. It has multiple modes and comes with huge recoil, so I hope you can make it a vehicle-mounted weapon. The first mode is Steel Pipe Mode, which can penetrate everything and occasionally ricochets. Firing continuously will cause overheating, so you can connect the Multifunctional Fluorescent Cannon to a water tank. After water is put into the water tank, the Multifunctional Fluorescent Cannon will no longer overheat and will keep firing rounds. You can combine multiple Multifunctional Fluorescent Cannons into a Gatling Multifunctional Fluorescent Cannon. At the same time, by using the feature that ammo boxes can be connected to switches, make it feed a fluorescent round after every certain number of steel pipes to ",
 		"fileId": 3798970591,
 		"localId": "3677e2d3-908a-48d0-b25d-89f853e2c7a5",
-		"name": "Combat and Logic Enhancement Mod",
+		"name": "Full-Featured Creative Mode & Logic Enhancement Mod",
 		"type": "Blocks and Parts",
 		"version": 2
 	},
@@ -51305,7 +51305,7 @@
 	"748c5163-2da2-4235-b805-58d183593434": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "A pack of usefull totebots turrets that works like the turret seat\r\nGreen turret tracks the closest player\r\nBlue turret tracks the player camera\r\nRed turret tracks the closest player\r\nYellow turret... tracks... whatever it can\r\n\r\nTurrets will output a signal if they are tracking something",
+		"description": "A pack of usefull totebots turrets that works like the turret seat\r\nGreen turret tracks the closest player\r\nBlue turret tracks the player camera\r\nRed turret tracks the closest player\r\nYellow turret... tracks... whatever it can\r\n\r\nTurrets will output a signal if they are tracking something\r\n\r\nHere are some exemples created using this mod\r\n[list]\r\n    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=3801486476]robot attacking tank[/url]\r\n    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=3802649070]player following car[/url]\r\n[/list] \r\n\r\nThe mod does currently have crafts for survival\r\n\r\n",
 		"fileId": 3797966494,
 		"localId": "748c5163-2da2-4235-b805-58d183593434",
 		"name": "Totebot Turret Pack",
@@ -51335,7 +51335,7 @@
 	"22ccef83-5999-4e49-806a-56b8f0934024": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Improved accuracy and range, use the scope to gain a little extra control on longer distances.",
+		"description": "Improved accuracy and range, use the scope to gain a little extra control on longer distances.\r\n\r\nNo image yet, too lazy bruh. Enjoy!",
 		"fileId": 3800466053,
 		"localId": "22ccef83-5999-4e49-806a-56b8f0934024",
 		"name": "Improved Shotgun Aim",
@@ -51366,10 +51366,30 @@
 	"bf27e1b7-559a-4773-a11e-41fe159432c7": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "More content soon!Pearto added",
 		"fileId": 3802331822,
 		"localId": "bf27e1b7-559a-4773-a11e-41fe159432c7",
 		"name": "A lot of Teto Stuff",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"2c7a5ec7-7363-4200-b5e6-21e380917c87": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Yandex\r\n\r\nmod on poligons and somethings....\r\nidk, want your poligon group? comment!",
+		"fileId": 3792348303,
+		"localId": "2c7a5ec7-7363-4200-b5e6-21e380917c87",
+		"name": "Yparts",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"7e9d7b2a-79e9-45fe-a2b4-11b693ebfcd6": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod doesn't have a description",
+		"fileId": 3802598015,
+		"localId": "7e9d7b2a-79e9-45fe-a2b4-11b693ebfcd6",
+		"name": "All Game Content in Creative",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
