@@ -45614,17 +45614,17 @@
 		"custom_icons": false,
 		"dependencies": [
 			{
-				"fileId": 3535050367,
-				"localId": "3d56e303-8aa6-434e-bd21-cf6f20555287",
-				"name": "at2sm"
+				"fileId": 3800269749,
+				"localId": "9ec648d4-095c-4dc1-a97e-cd5b5bdfa798",
+				"name": "ClassHook"
 			}
 		],
-		"description": "[h2]NOT A FILE MOD[/h2]\r\n\r\nChanged the entry point on [code]sm.game.bindChatCommand[/code]\r\n\r\nThis mod extends the size of default worlds.\r\n\r\nIt does not work with custom worlds or custom game modes.\r\n\r\nIt only affects [b]new worlds[/b][i](existing saves will not be expanded)[/i].\r\n\r\n[h2]If you disable this mod, you will not be able to enter the world.[/h2]",
+		"description": "[b]WorldExtender[/b] allows you to change the size of any world.To change the world size, use the following chat command:[code]/we.setWorldSize <size>[/code][h3]Limitations:[/h3][i]Does not support creative custom terrain world.[/i][i]Affects only the worlds of the \"main mod\"(Custom Game or Vanilla)[/i]",
 		"fileId": 3607187014,
 		"localId": "95302406-dc90-45dd-bed9-06d7cb586eee",
 		"name": "World Extender",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"308fdff8-0e27-4640-b9bf-27b3ef98c09a": {
 		"allow_add_mods": true,
@@ -46727,7 +46727,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "load",
+		"description": "load fab500 and s24b!",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -51275,7 +51275,7 @@
 				"name": "KeybindBridge Core"
 			}
 		],
-		"description": "Optional blockless character flashlight with camera aiming.\r\n\r\nDownload and install:\r\nhttps://github.com/QuestionableM/SM-DLL-Injector/releases/tag/v1.8\r\n\r\nDownload and put in a folder \"Steam\\steamapps\\common\\Scrap Mechanic\\Release\\DLLModules\" \"keybind_bridge.dll\"  and \"KeybindBridge.diagnostics.ini\"\r\nhttps://github.com/oxydrive99-design/KeybindBridge/releases/tag/1.0.0\r\n\r\nPress \"F\" to turn flashlight\r\n\r\nYou can also change the key assignment through the binds menu.\r\n\r\nPress `End` while in a world:\r\n\r\n- `Up/Down` selects an action;\r\n- `Enter` starts key capture;\r\n- `Delete` restores the default key;\r\n- `Esc` or `End` closes the menu.\r\n\r\n",
+		"description": "Optional blockless character flashlight with camera aiming.\r\n\r\nDownload and install:\r\nhttps://github.com/QuestionableM/SM-DLL-Injector/releases/tag/v1.8\r\n\r\nDownload and put in a folder \"Steam\\steamapps\\common\\Scrap Mechanic\\Release\\DLLModules\" \"keybind_bridge.dll\"\r\nhttps://github.com/oxydrive99-design/KeybindBridge/releases/tag/1.0.0\r\n\r\nPress \"F\" to turn flashlight\r\n\r\nYou can also change the key assignment through the binds menu.\r\n\r\nPress `End` while in a world:\r\n\r\n- `Up/Down` selects an action;\r\n- `Enter` starts key capture;\r\n- `Delete` restores the default key;\r\n- `Esc` or `End` closes the menu.\r\n\r\n",
 		"fileId": 3800281199,
 		"localId": "9a2a8f43-6f74-4fc3-b25c-3e139b710020",
 		"name": "KeybindBridge Flashlight",
@@ -51355,8 +51355,8 @@
 	},
 	"8a4041db-121a-4b77-adc8-35689c7c58f3": {
 		"allow_add_mods": true,
-		"custom_icons": true,
-		"description": "[h3]Creation Shield v1.0[/h3]\r\n\r\nREQUIRES:\r\n  CreationShieldBridge.dll\r\n\r\nhttps://github.com/oxydrive99-design/Creation-Shield-Bridge/releases/tag/0.7\r\n\r\nDLL INSTALLATION:\r\n  Copy creation_shield_bridge.dll to:\r\n  Scrap Mechanic\\Release\\DLLModules\\\r\n\r\n[h3]MAIN FEATURES:[/h3]\r\n[list]\r\n  [*]Protects the entire connected creation from projectile, melee and explosion damage.\r\n  [*]Powered by vanilla Battery Containers.\r\n  [*]5 upgrade levels using Component Kits.\r\n [*]Higher levels increase shield capacity, shorten recovery delay and increase passive battery drain.\r\n [*]Gradual shield recovery after taking no damage.\r\n [*]Overload still disables the shield when capacity reaches zero.\r\n [*]Maximum 2 shield generators per complete creation.\r\n [*]Separate Shield Status Display with ONLINE %, OFFLINE, OVERLOAD and LIMIT states.\r\n [*]Vanilla barrier lightning and barrierLoop sound while ONLINE.\r\n [*]Normal logic input can control shield ON/OFF.\r\n [*]Active RED logic input enables disassembly lock while the shield is ONLINE.\r\n[/list]\r\n\r\n[h3]NOTE:[/h3]\r\n  If a logic source is painted one of the red colors above, it is treated as the erase-lock input,\r\n  not as the normal shield ON/OFF control.",
+		"custom_icons": false,
+		"description": "[h1]Creation Shield v1.0[/h1]\r\n\r\nAdds an energy shield system for your creations.\r\n\r\nWhen active, the shield protects the entire connected creation from destruction while consuming Batteries. Shield Generators can also be upgraded to improve their performance.\r\n\r\n[h3]REQUIRES:[/h3]\r\n  creationshieldbridge.dll\r\n\r\n[h3]Download and install:[/h3]\r\nhttps://github.com/QuestionableM/SM-DLL-Injector/releases/tag/v1.8\r\n\r\n[h3]DLL INSTALLATION:[/h3]\r\n  Copy creation_shield_bridge.dll to:\r\n  Scrap Mechanic\\Release\\DLLModules\\\r\n\r\nhttps://github.com/oxydrive99-design/Creation-Shield-Bridge/releases/tag/0.7\r\n\r\n[h3]MAIN FEATURES:[/h3]\r\n[list]\r\n  [*]Protects the entire connected creation from projectile, melee and explosion damage.\r\n [*]Powered by vanilla Battery Containers.\r\n [*]5 upgrade levels using Component Kits.\r\n [*]Higher levels increase shield capacity, shorten recovery delay and increase passive battery drain.\r\n [*]Gradual shield recovery after taking no damage.\r\n [*]Overload still disables the shield when capacity reaches zero.\r\n [*]Maximum 2 shield generators per complete creation.\r\n [*]Separate Shield Status Display with ONLINE %, OFFLINE, OVERLOAD and LIMIT states.\r\n [*]Vanilla barrier lightning and barrierLoop sound while ONLINE.\r\n [*]Normal logic input can control shield ON/OFF.\r\n [*]Active RED logic input enables disassembly lock while the shield is ONLINE.\r\n[/list]\r\n\r\n[h3]CreationShieldBridge Plugin[/h3]\r\n\r\nThe mod can be used without the DLL plugin, but some features are limited.\r\n\r\n[h3]Without CreationShieldBridge:[/h3]\r\n[list]\r\n[*]Maximum of 1 Shield Generator per creation\r\n[*]The shield uses a fallback overload system\r\n[*]The shield gradually loses its protection capacity while active\r\n[*]When the fallback reaches 0%, the shield enters Overload and the creation becomes vulnerable for a short time\r\n[/list]\r\n[h3]With CreationShieldBridge installed:[/h3]\r\n[list]\r\n[*]Maximum of 2 Shield Generators per creation\r\n[*]The shield can detect actual damage, hits and explosions\r\n[*]Damage directly affects the shield's overload system\r\n[*]Shield behaviour becomes much more dynamic and accurate\r\n[/list]\r\nSo the DLL plugin is not required to use the mod, but it is highly recommended if you want the full Creation Shield experience.\r\n\r\nWithout the plugin, the mod is still fully usable — it simply runs in a simplified fallback mode.\r\n\r\n[h3]Important[/h3]\r\n\r\nThe shield is not intended to provide permanent invincibility.\r\n\r\nBattery consumption, overload, generator limits and temporary vulnerability are all part of the balancing system.\r\n\r\nFor the complete damage-based shield system, install CreationShieldBridge.\r\n\r\n[h3]NOTE:[/h3]\r\n  If a logic source is painted one of the red colors above, it is treated as the erase-lock input,\r\n  not as the normal shield ON/OFF control.",
 		"fileId": 3802255754,
 		"localId": "8a4041db-121a-4b77-adc8-35689c7c58f3",
 		"name": "Creation Shield",
@@ -51390,6 +51390,26 @@
 		"fileId": 3802598015,
 		"localId": "7e9d7b2a-79e9-45fe-a2b4-11b693ebfcd6",
 		"name": "All Game Content in Creative",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"8df0ea56-1bcf-40fc-8190-d9dbeecdadfb": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "adds a flower tea recipe needs mod data base to work",
+		"fileId": 3802726121,
+		"localId": "8df0ea56-1bcf-40fc-8190-d9dbeecdadfb",
+		"name": "Flower Tea Mod",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"20a88ab4-06b2-4e50-a10e-a1f05e34e29c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Fork of Universal PVP updated to Scrap Mechanic 1.0.Nothing changed.There may be some updates with fixes and new features in the future.",
+		"fileId": 3802754942,
+		"localId": "20a88ab4-06b2-4e50-a10e-a1f05e34e29c",
+		"name": "Creative Health Bar",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
