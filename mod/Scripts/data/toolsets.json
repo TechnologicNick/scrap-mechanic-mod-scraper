@@ -8415,5 +8415,15 @@
 		"$CONTENT_20a88ab4-06b2-4e50-a10e-a1f05e34e29c/Tools/Database/ToolSets/example.toolset": [
 			"3de81be1-885e-475a-8d37-4945beb0b1c2"
 		]
+	},
+	"e48a31e2-8f5e-4cf5-8dfc-927c2f318de7": {
+		"$CONTENT_e48a31e2-8f5e-4cf5-8dfc-927c2f318de7/Tools/Database/ToolSets/tools.toolset": [
+			"aef7ba93-d8dc-4b5b-91f9-8da74a98e5fa"
+		]
+	},
+	"2e15c08f-423d-41d5-9a90-0c0202585770": {
+		"$CONTENT_2e15c08f-423d-41d5-9a90-0c0202585770/Tools/Database/ToolSets/example.toolset": [
+			"7a35e4d2-3c12-4211-9a74-6ef259b15234"
+		]
 	}
 }

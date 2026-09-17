@@ -46727,7 +46727,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "load fab500 and s24b!",
+		"description": "load",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -51410,6 +51410,26 @@
 		"fileId": 3802754942,
 		"localId": "20a88ab4-06b2-4e50-a10e-a1f05e34e29c",
 		"name": "Creative Health Bar",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"e48a31e2-8f5e-4cf5-8dfc-927c2f318de7": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Thunderation!welcome to my insanity, and this too, insanity...Q and CTRL + Q for setting the number, R for setting what setting is editable, left click for destroy voxels, and right click to add voxels! (WIP)",
+		"fileId": 3801417305,
+		"localId": "e48a31e2-8f5e-4cf5-8dfc-927c2f318de7",
+		"name": "Thunderation Driller",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"2e15c08f-423d-41d5-9a90-0c0202585770": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Enables survival developer commands without file modifications.",
+		"fileId": 3803119693,
+		"localId": "2e15c08f-423d-41d5-9a90-0c0202585770",
+		"name": "Dev Commands",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
