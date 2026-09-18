@@ -50865,7 +50865,7 @@
 	"0465bad5-2d9e-4fc6-9864-11139f276802": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "priv  2833408941",
+		"description": "op Block/wedge\r\nchest 500 slots\r\n\r\n\r\n",
 		"fileId": 2833408941,
 		"localId": "0465bad5-2d9e-4fc6-9864-11139f276802",
 		"name": "sebik Block",
@@ -51228,7 +51228,7 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"description": "Fly a drone in true first person. Your mechanic stands at a transmitter on the ground while you fly from the drone's own camera - three aircraft, from a forgiving camera drone to a one-way kamikaze.",
-		"fileId": 3799630861,
+		"fileId": 3803749604,
 		"localId": "1ba077a5-fa4f-49f9-b37d-370da995647b",
 		"name": "VSFPV PROJECT",
 		"type": "Blocks and Parts",
