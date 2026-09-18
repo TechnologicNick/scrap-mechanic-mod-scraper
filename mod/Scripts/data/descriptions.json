@@ -41877,12 +41877,12 @@
 	},
 	"962afb13-362f-4b24-8f35-99dfdb10a7b0": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"dependencies": [
 			{
-				"fileId": 3761359084,
-				"localId": "21ebef41-96a1-49b0-95cd-a33fc162fa5b",
-				"name": "[Shturman_USER_DATABASE]"
+				"fileId": 3803149856,
+				"localId": "5a8b5709-4532-4839-9ae0-95e07c4f4881",
+				"name": "[Shturman_STORAGE]"
 			}
 		],
 		"description": "[h1][url=https://discord.gg/JUDkXbkc2Q]Discord сервер КБ \"РУБЕЖ\", проводим бои![/url][/h1]\r\n\r\n[h1]Этот мод является дополнением для Scrap Computers, но также включает независимые интерактивные компоненты, которые можно использовать отдельно.\r\n\r\nДокументация находится в разработке и скоро будет опубликована.[/h1]\r\n\r\n[h1][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3582505824]Нажмите чтобы перейти на коллекцию техники НАТО[/url][/h1]\r\n[img]https://steamuserimages-a.akamaihd.net/ugc/54707509772356001/A24FC129173C0473C77C95E8AEE5F68114464A0F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img]\r\n\r\n[h1][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3582507114]Нажмите чтобы перейти на коллекцию техники Востока[/url][/h1]",
@@ -48731,9 +48731,9 @@
 				"name": "[Shturman_PVP_UTIL]"
 			},
 			{
-				"fileId": 3761359084,
-				"localId": "21ebef41-96a1-49b0-95cd-a33fc162fa5b",
-				"name": "[Shturman_USER_DATABASE]"
+				"fileId": 3803149856,
+				"localId": "5a8b5709-4532-4839-9ae0-95e07c4f4881",
+				"name": "[Shturman_STORAGE]"
 			},
 			{
 				"fileId": 3745632742,
@@ -51334,13 +51334,13 @@
 	},
 	"22ccef83-5999-4e49-806a-56b8f0934024": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "Improved accuracy and range, use the scope to gain a little extra control on longer distances.\r\n\r\nNo image yet, too lazy bruh. Enjoy!",
+		"custom_icons": true,
+		"description": "Improved accuracy and range, use the scope to gain a little extra control on longer distances.\r\n\r\nEnjoy!",
 		"fileId": 3800466053,
 		"localId": "22ccef83-5999-4e49-806a-56b8f0934024",
 		"name": "Improved Shotgun Aim",
 		"type": "Blocks and Parts",
-		"version": 2
+		"version": 1
 	},
 	"27baad35-7e73-43bd-8ad6-98e981dabc12": {
 		"allow_add_mods": true,
