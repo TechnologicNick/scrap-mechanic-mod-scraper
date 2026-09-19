@@ -1978,5 +1978,25 @@
 	"05220010-affa-4c85-a27b-9f79c6e61007": {
 		"$CONTENT_05220010-affa-4c85-a27b-9f79c6e61007/Characters/Database/CharacterSets/example.characterset": []
 	},
-	"70870961-515a-41b4-9c44-eb9175fe5c0b": {}
+	"70870961-515a-41b4-9c44-eb9175fe5c0b": {},
+	"4296ef38-d4a7-4705-a14f-1ae156b54aae": {
+		"$CONTENT_4296ef38-d4a7-4705-a14f-1ae156b54aae/Characters/Database/CharacterSets/scrap_expanded_seedbot.characterset": [
+			"4fbefe2d-83c7-4859-982e-1720f04079a3"
+		],
+		"$CONTENT_4296ef38-d4a7-4705-a14f-1ae156b54aae/Characters/Database/CharacterSets/hardcore_babywoc.characterset": [
+			"4895b33a-ce8f-43d0-8c59-e406d37d8d6b"
+		],
+		"$CONTENT_4296ef38-d4a7-4705-a14f-1ae156b54aae/Characters/Database/CharacterSets/example.characterset": [],
+		"$CONTENT_4296ef38-d4a7-4705-a14f-1ae156b54aae/Characters/Database/CharacterSets/scrap_expanded_runner.characterset": [
+			"412a67d5-7dd2-424e-887e-22f1bb2b09c1"
+		],
+		"$CONTENT_4296ef38-d4a7-4705-a14f-1ae156b54aae/Characters/Database/CharacterSets/scrap_expanded_survivalist.characterset": [
+			"6f4c8d1a-6a2c-4f90-9a61-4e52b063bd11",
+			"805b9e2b-7b3d-40a1-ab72-5f63c174ce22",
+			"916caf3c-8c4e-41b2-bc83-6074d285df33",
+			"a27db04d-9d5f-42c3-cd94-7185e396e044",
+			"b7c2d4e1-5a6f-4c8b-9d01-23456789abcd",
+			"264a563a-e304-430f-a462-9963c77624e9"
+		]
+	}
 }

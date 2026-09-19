@@ -41883,6 +41883,11 @@
 				"fileId": 3803149856,
 				"localId": "5a8b5709-4532-4839-9ae0-95e07c4f4881",
 				"name": "[Shturman_STORAGE]"
+			},
+			{
+				"fileId": 3789042533,
+				"localId": "7a10d694-cc65-413b-a090-c2f69572d3c9",
+				"name": "[Shturman_UTILS]"
 			}
 		],
 		"description": "[h1][url=https://discord.gg/JUDkXbkc2Q]Discord сервер КБ \"РУБЕЖ\", проводим бои![/url][/h1]\r\n\r\n[h1]Этот мод является дополнением для Scrap Computers, но также включает независимые интерактивные компоненты, которые можно использовать отдельно.\r\n\r\nДокументация находится в разработке и скоро будет опубликована.[/h1]\r\n\r\n[h1][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3582505824]Нажмите чтобы перейти на коллекцию техники НАТО[/url][/h1]\r\n[img]https://steamuserimages-a.akamaihd.net/ugc/54707509772356001/A24FC129173C0473C77C95E8AEE5F68114464A0F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img]\r\n\r\n[h1][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3582507114]Нажмите чтобы перейти на коллекцию техники Востока[/url][/h1]",
@@ -48728,7 +48733,7 @@
 			{
 				"fileId": 3789042533,
 				"localId": "7a10d694-cc65-413b-a090-c2f69572d3c9",
-				"name": "[Shturman_PVP_UTIL]"
+				"name": "[Shturman_UTILS]"
 			},
 			{
 				"fileId": 3803149856,
@@ -49134,7 +49139,7 @@
 	"aa520f6b-9f01-4579-acdd-dda878b82d5e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Is the max quantity count for each block and/or part too little? In this Blocks and Parts mod, all vanilla items are too large. All items are capped at 65535.\r\n\r\nWarning: There won't be any Item icons, because I'm unable to genererate icons. If there's no icon of any item you want, it means the current game originally don't use those items. I prefer the 0.7.4 variant of generating icons.\r\n\r\nNote: I had uploaded this mod a while ago, The mod tools has crashed (With Bugsplat), and I was unaware that it was uploaded for a while. Axolot, please fix the Mod tools\r\n\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3775344717]Click here for the Custom Game variant.[/url]\r\n\r\n[h2]Custom Game Warning:[/h2]\r\nBe careful when using this with custom games. Some custom Games have default items that this mod cannot override. If nothing looks overstacked, that's the Custom Game. I can only overstack default items.\r\n\r\nYou can test the overstack in Creative Mode before complaining.",
+		"description": "Is the max quantity count for each block and/or part too little? In this Blocks and Parts mod, all vanilla items are too large. All items are capped at 65535.\r\n\r\nWarning: There won't be any Item icons, because I'm unable to genererate icons. If there's no icon of any item you want, it means the current game originally don't use those items. I prefer the 0.7.4 variant of generating icons.\r\n\r\nNote: I had uploaded this mod a while ago, The mod tools has crashed (With Bugsplat), and I was unaware that it was uploaded for a while. Axolot, please fix the Mod tools\r\n\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3775344717]Click here for the Custom Game variant.[/url]\r\n\r\n[h2]Custom Game Warning:[/h2]\r\nBe careful when using this with custom games. Some custom Games have default items that this mod cannot override. If nothing looks overstacked, that's the Custom Game. I can only overstack default items.\r\n\r\nYou can test the overstack in Creative Mode before complaining.\r\n\r\n[h2]Blocks and Parts Warning:[/h2]\r\nBe careful when setting up Blocks and Parts that involved vanilla items ([url=https://steamcommunity.com/sharedfiles/filedetails/?id=3228431919]Fant's Sun Shake Machine Plus[/url] for example) as the item may break. Mod order matters, and it has to be in this order for the other mod's items to work.\r\n\r\nMod Order:\r\n[olist]\r\n[*]Item Overstack 2 - Blocks and Parts\r\n[*]Sun Shake Machine Plus\r\n[/olist]\r\n[b]Edit:[/b] Even though I don't recommend this mod with other Block and Parts that modified vanilla items, Let me ask this question: Why does Scrap Mechanic's UI have to be vague about its mod load order system?",
 		"fileId": 3774217548,
 		"localId": "aa520f6b-9f01-4579-acdd-dda878b82d5e",
 		"name": "Item Overstack 2 - Blocks and Parts",
@@ -51432,5 +51437,25 @@
 		"name": "Dev Commands",
 		"type": "Blocks and Parts",
 		"version": 2
+	},
+	"192bb895-ad0e-4743-b3ce-b220d6331fd9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Lil mod that adds survival health bar into creative\r\n\r\n/health - turns on/off health bar\r\n/pvp - turns on/off pvp\r\n\r\nP.S. Please do not use any code from my mod without my permisson.",
+		"fileId": 3803923856,
+		"localId": "192bb895-ad0e-4743-b3ce-b220d6331fd9",
+		"name": "HP in creative",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"4296ef38-d4a7-4705-a14f-1ae156b54aae": {
+		"allow_add_mods": false,
+		"custom_icons": true,
+		"description": "[h1]Per Scrap Ad Astra — Hardcore Survival[/h1]\r\n\r\nScrap Mechanic is a game about building, exploring and surviving.\r\n\r\nPer Scrap Ad Astra makes the survival part matter again.\r\n\r\nFood, water, exhaustion and death are no longer background mechanics. You have to plan your trips, carry supplies, choose when to fight and decide whether the next abandoned building is really worth the risk.\r\n\r\nThis is the first public test version of the mod — v0.1.\r\n\r\n[h2]HARDCORE SURVIVAL[/h2]\r\n\r\n[list]\r\n[*][b]Hunger[/b] — food is once again something you actually need.\r\n[*][b]Thirst[/b] — long trips require preparation.\r\n[*][b]Fatigue[/b] — a new survival stat that gradually builds up over time. Now beds restore fatigue and become an important part of survival.\r\n[*][b]No passive health regeneration[/b] — damage has consequences.\r\n[*][b]Rebalanced food[/b] — consumables have been adjusted around the new survival system.\r\n[*][b]New consumables[/b] — more new plantables, recipes and food.\r\n[*][b]Permanent death[/b] — in Hardcore, dying can mean the end of that character. You can move in the World but do nothing. You can be resurected your friend or BabyWoc\r\n[*][b]Now you can hide bushes and small trees under your base\r\n[/list]\r\n\r\n[h2]THE IDEA[/h2]\r\n\r\nPer Scrap Ad Astra is not meant to turn Scrap Mechanic into a completely different game.\r\n\r\nThe goal is to expand what is already there.\r\n\r\nMore reasons to explore.\r\nMore reasons to prepare.\r\nMore things to discover.\r\nMore consequences when something goes wrong.\r\n\r\nAnd eventually — much more life in the world.\r\n\r\n[h2]VERSION 0.1[/h2]\r\n\r\nThis is an early public test build.\r\n\r\nSome systems are still being balanced, some content is still being expanded, and bugs are possible.\r\n\r\nThe current release is focused primarily on the Hardcore survival foundation.\r\n\r\nFuture versions will continue expanding the world, progression, creatures, crafting and exploration.\r\n\r\n[h2]FEEDBACK[/h2]\r\n\r\nIf something feels too easy, too punishing, broken or simply strange — leave a comment.\r\n\r\nEspecially useful:\r\n[list]\r\n[*]How long you survived\r\n[*]What killed you\r\n[*]Which resources were too easy or too hard to obtain\r\n[*]Any bugs or unexpected behaviour\r\n[/list]\r\n\r\nEvery test helps shape the next version.\r\n\r\n[b]Survive. Build. Explore. Go further.[/b]\r\n\r\n[b]Per Scrap Ad Astra.[/b]\r\n\r\n[h2]More information[/h2]\r\n\r\non my YouTube https://www.youtube.com/@ReitorDIYdev\r\n\r\nor Boosty https://boosty.to/scrapreitor\r\n\r\n\r\nThanks to the authors of the Crushlander mod for their help. \r\n\r\nThe mod is not compatible with others, for now.\r\n",
+		"fileId": 3803996496,
+		"localId": "4296ef38-d4a7-4705-a14f-1ae156b54aae",
+		"name": "Per Scrap Ad Astra",
+		"type": "Custom Game",
+		"version": 1
 	}
 }

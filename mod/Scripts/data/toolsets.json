@@ -5662,7 +5662,6 @@
 		"$CONTENT_962afb13-362f-4b24-8f35-99dfdb10a7b0/Tools/Database/ToolSets/tools.toolset": [
 			"8fe7b724-98cb-4708-bb0c-7315ce4659b2",
 			"82cae590-fdb0-422b-bbaa-c88ef2182f91",
-			"f9ec35a8-dd18-4fb9-8b48-02be137559bb",
 			"961fc115-0ff0-489f-bc60-71c845943577"
 		]
 	},
@@ -8424,6 +8423,20 @@
 	"2e15c08f-423d-41d5-9a90-0c0202585770": {
 		"$CONTENT_2e15c08f-423d-41d5-9a90-0c0202585770/Tools/Database/ToolSets/example.toolset": [
 			"7a35e4d2-3c12-4211-9a74-6ef259b15234"
+		]
+	},
+	"192bb895-ad0e-4743-b3ce-b220d6331fd9": {
+		"$CONTENT_192bb895-ad0e-4743-b3ce-b220d6331fd9/Tools/Database/ToolSets/health.toolset": [
+			"863302ed-931e-45f7-a6a0-20eca12c7a38"
+		]
+	},
+	"4296ef38-d4a7-4705-a14f-1ae156b54aae": {
+		"$CONTENT_4296ef38-d4a7-4705-a14f-1ae156b54aae/Tools/Database/ToolSets/example.toolset": [],
+		"$CONTENT_4296ef38-d4a7-4705-a14f-1ae156b54aae/Tools/Database/ToolSets/garment_effect_tools.toolset": [
+			"87cf94fa-a52a-47bd-8d62-47a2e10fe2af",
+			"f26a26bf-b9be-4e59-83e4-da2e9e6dd285",
+			"fa1b499e-c40e-4e55-9f73-27ae1cba6c15",
+			"2bff990a-0e74-43c7-b7dc-889b3a086fa3"
 		]
 	}
 }
