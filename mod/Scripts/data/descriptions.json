@@ -50718,6 +50718,13 @@
 	"6137ef1f-9b52-4cb8-91e9-0b666d485d89": {
 		"allow_add_mods": true,
 		"custom_icons": true,
+		"dependencies": [
+			{
+				"fileId": 2504530003,
+				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
+				"name": "ModDatabase"
+			}
+		],
 		"description": "[h1]Gauge Cluster[/h1]\r\nSeventeen dashboard readouts in the shape of a bedside alarm clock. Bolt one to a vehicle and it tells you what the vehicle is doing, in numbers you can read from the seat. Each gauge is its own part, so you pick the reading in the build menu rather than fiddling with a mode selector.\r\n\r\n[h2]Every gauge shows what it is[/h2]\r\nThe big number is the reading; the line under it always names both the reading and the unit it is in - SPEED KM/H, ALTITUDE METRES, BATTERY %. A gauge with nothing to measure shows dashes rather than a zero, because zero is a reading and nothing is not.\r\n\r\n[h2]Press to swap units[/h2]\r\nEvery gauge cycles through the sensible units for its own reading, and only those - a speedometer swaps km/h for mph for m/s, an odometer swaps kilometres for miles for metres, a compass swaps degrees for a sixteen-point bearing. A speedometer never turns into a clock. The choice is saved with the part.\r\n\r\n[h2]Hold to reset[/h2]\r\nFour of them accumulate rather than measure - odometer, trip meter, top speed and stopwatch - and holding the use key clears whichever one you are looking at. They keep their numbers across a reload.\r\n\r\n[h2]The seventeen[/h2]\r\n[b]Speedometer[/b] - how fast the creation is moving. Swaps km/h, mph, m/s.\r\n[b]Vertical Speed[/b] - rate of climb or descent. Swaps metres per second and cells per second.\r\n[b]Accelerometer[/b] - acceleration along the direction of travel, smoothed. Swaps m/s2 and g.\r\n[b]Spin Rate[/b] - how fast the body is rotating, on any axis. Swaps degrees per second and rpm.\r\n[b]Altimeter[/b] - height above the world's zero. Swaps metres and build cells.\r\n[b]Coordinates[/b] - where it is, in build cells. Swaps the X, Y and Z axes.\r\n[b]Compass[/b] - which way the part is facing. Swaps degrees and a sixteen-point bearing.\r\n[b]Attitude[/b] - pitch angle from level - whether you are about to tip over.\r\n[b]Odometer[/b] - total distance travelled, kept across reloads. Swaps km, miles, metres. Hold to reset.\r\n[b]Trip Meter[/b] - distance since you last cleared it. Swaps km, miles, metres. Hold to reset.\r\n[b]Top Speed[/b] - the highest speed reached since the last reset. Swaps km/h and mph. Hold to reset.\r\n[b]Stopwatch[/b] - counts up. Swaps minutes:seconds and plain seconds. Hold to reset, which is what makes it a lap timer.\r\n[b]Power Meter[/b] - what the creation is actually putting out, measured off the body. Swaps kW and hp.\r\n[b]Tank Gauge[/b] - how full the containers wired to it are, together. Swaps a percentage and a raw count.\r\n[b]Battery Gauge[/b] - the charge left in the battery containers wired to it. Swaps a percentage and a battery count.\r\n[b]Mass Gauge[/b] - how heavy the creation is. Swaps kilograms and tonnes.\r\n[b]Clock[/b] - the time of day. Swaps the 24 hour clock and the 12 hour one.\r\n\r\n[h2]About the power meter[/h2]\r\nIt measures mass times acceleration times speed, so it reports what the creation is actually putting out rather than an engine's rating. That is not a shortcut: a vanilla engine is an engine-side component with no script surface at all, so its power, torque and gear cannot be read by any part.\r\n\r\n[h2]Crafting[/h2]\r\nEvery gauge costs the same at the craftbot - 10 Glass Blocks, 2 Circuit Boards and 1 Component Kit, 15 seconds - so the choice is which reading you want, not which one you can afford.\r\n\r\n[h2]Compatibility[/h2]\r\nCustom gamemodes. Gamemodes with their own crafting, Fant Mod 3 among them, pick a mod's recipe up through the ModDatabase index, so the recipes appear there once this mod has been indexed",
 		"fileId": 3791091995,
 		"localId": "6137ef1f-9b52-4cb8-91e9-0b666d485d89",
@@ -51465,6 +51472,16 @@
 		"fileId": 3804101638,
 		"localId": "4ab88d37-096e-4c56-b238-0113b969f247",
 		"name": "Better Signs",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"1aacfb60-47ed-4404-a3f1-79107a401f4a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Replaces the purple goo with classic green goo.",
+		"fileId": 3804497361,
+		"localId": "1aacfb60-47ed-4404-a3f1-79107a401f4a",
+		"name": "green sticky wheel",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
