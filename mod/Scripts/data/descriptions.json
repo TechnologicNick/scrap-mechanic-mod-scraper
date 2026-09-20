@@ -39207,7 +39207,7 @@
 		"localId": "f9e6dc5a-911f-4297-9970-884e7e75a091",
 		"name": "VP+ ADDON",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"e635598d-ac72-49eb-993c-24ff4dac6e4c": {
 		"description": "This mod doesn't have a description",
@@ -40983,13 +40983,13 @@
 	},
 	"a694680f-2adb-4cf8-a5d4-b0c60bc8ad2c": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "[h1]Build much faster with this mod![/h1]\nNo more opening your inventory and searching for the right block. Just press the [b]reload[/b] key (R by default), and the block will instantly appear in your [b]active hotbar slot[/b].\n\n[h2]I recommend binding the reload action to the middle mouse button for convenience.[/h2]\n\n[h1][b]Important[/b][/h1]\n[list]\n    [*]This is [b]NOT a file mod![/b] Just subscribe, enable it, and it works.\n[/list]\n\n[h2]Please rate my mod and add it to your favorites. Thank you![/h2]",
+		"custom_icons": true,
+		"description": "[h1]Build much faster with this mod![/h1]No more opening your inventory and searching for the right block. Just press the [b]reload[/b] key (R by default), and the block will instantly appear in your [b]active hotbar slot[/b].[h2]I recommend binding the reload action to the middle mouse button for convenience.[/h2][h1][b]Important[/b][/h1][list]    [*]This is [b]NOT a file mod![/b] Just subscribe, enable it, and it works.[/list][h2]Please rate my mod and add it to your favorites. Thank you![/h2]",
 		"fileId": 3376671009,
 		"localId": "a694680f-2adb-4cf8-a5d4-b0c60bc8ad2c",
-		"name": "Middle Mouse Feature from Minecraft",
+		"name": "Pick Block Feature",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"46a378ec-d7b2-490a-a85a-cd0163a5ff0b": {
 		"allow_add_mods": true,
@@ -47458,7 +47458,7 @@
 	"c73f7f43-bbaa-415b-80cd-b7ede03a5894": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Modular Propulsion answers a simple question: what if the upgrade system was different, more flexible, more … modular?\r\n\r\nInfo on 1.0: Mods will break once Drilling Thunder is released. This one included. It will take me some time to update the mod, and I want to enjoy the release of the 1.0 version of my most-played game, which I have been waiting to play for around seven years, so please be patient with me.\r\n\r\nWith Modular Propulsion, you can create your own engines, thrusters and propellers from a wide range of modules that can be connected in practically infinite configurations. This gives you control over how powerful or efficient your propulsion method is. You can make the engine more powerful or efficient, or both, at the cost of efficiency, power or space. They have the potential to outperform the vanilla counterparts in both categories at a lower component kit price, but this comes at the cost of space.\r\n\r\nAll methods of propulsion work like this:\r\nThe controller is the main part of the engine, jet or propeller. It connects to bearings, seats and logic. It is the place where you do the things you know well.\r\n\r\nModules augment the properties of the controller by either attaching directly to it or to other modules. For example, cylinders can be attached directly to the controller or to a crankshaft connected to the controller.\r\n\r\nModulators can affect the performance of the modules they are placed next to (up to six modules for some), making them more powerful or efficient. This allows for more compact or efficient engines. For example, superchargers increase the efficiency of all the cylinders they touch, but reduce the engine's maximum speed.\r\n\r\nPropellers are unique compared to other methods of propulsion. They need to be placed directly on the bearing they connect to, as well as connect to a modular engine. Propellers have a maximum speed and variable acceleration, which depends on the number of blades connected and the engine powering them. A larger propeller requires a larger engine to achieve good acceleration. Propellers can also change their spin direction to go upwards (from clockwise to counter-clockwise and vice versa). Counter-rotating propellers (where the bottom propeller spins clockwise and the top propeller spins counter-clockwise) are also possible. Please note that changing the propeller setting does not alter the bearing's spin direction. You still need to do that the old-fashioned way. In addition, propellers spinning faster than the maximum speed do NOT produce more thrust — the maximum speed exists for a reason!\r\n\r\nTested compatability:\r\n- Fant mod\r\n- Modded craft bot recipes\r\n- Anything that doesn't use the same UUIDs\r\n\r\nExample vehicles:\r\n\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702445936\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702446421\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702446635\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702446848\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702447120\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3703296089\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3703297167\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3704381254\r\n",
+		"description": "Modular Propulsion answers a simple question: what if the upgrade system was different, more flexible, more … modular?\r\n\r\nNow compatible with Drilling Thunder!\r\n\r\nWith Modular Propulsion, you can create your own engines, thrusters and propellers from a wide range of modules that can be connected in practically infinite configurations. This gives you control over how powerful or efficient your propulsion method is. You can make the engine more powerful or efficient, or both, at the cost of efficiency, power or space. They have the potential to outperform the vanilla counterparts in both categories at a lower component kit price, but this comes at the cost of space.\r\n\r\nAll methods of propulsion work like this:\r\nThe controller is the main part of the engine, jet or propeller. It connects to bearings, seats and logic. It is the place where you do the things you know well.\r\n\r\nModules augment the properties of the controller by either attaching directly to it or to other modules. For example, cylinders can be attached directly to the controller or to a crankshaft connected to the controller.\r\n\r\nModulators can affect the performance of the modules they are placed next to (up to six modules for some), making them more powerful or efficient. This allows for more compact or efficient engines. For example, superchargers increase the efficiency of all the cylinders they touch, but reduce the engine's maximum speed.\r\n\r\nPropellers are unique compared to other methods of propulsion. They need to be placed directly on the bearing they connect to, as well as connect to a modular engine. Propellers have a maximum speed and variable acceleration, which depends on the number of blades connected and the engine powering them. A larger propeller requires a larger engine to achieve good acceleration. Propellers can also change their spin direction to go upwards (from clockwise to counter-clockwise and vice versa). Counter-rotating propellers (where the bottom propeller spins clockwise and the top propeller spins counter-clockwise) are also possible. Please note that changing the propeller setting does not alter the bearing's spin direction. You still need to do that the old-fashioned way. In addition, propellers spinning faster than the maximum speed do NOT produce more thrust — the maximum speed exists for a reason!\r\n\r\nTested compatability:\r\n- Fant mod\r\n- Modded craft bot recipes\r\n- Anything that doesn't use the same UUIDs\r\n\r\nExample vehicles:\r\n\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702445936\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702446421\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702446635\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702446848\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3702447120\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3703296089\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3703297167\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3704381254\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3787888586\r\n\r\nThunderous Turbine:\r\nUpdated to Drilling Thunder\r\nAdded turbine engine\r\nReworked a lot of code (it was pinful)\r\nAdded differential drive to the electric engine\r\n",
 		"fileId": 3704385833,
 		"localId": "c73f7f43-bbaa-415b-80cd-b7ede03a5894",
 		"name": "Modular Propulsion",
@@ -50384,7 +50384,7 @@
 	"f1662efe-9e99-4feb-b929-421acb176147": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"description": "Mod który dodaje tablice relacyjne na Złom RP",
 		"fileId": 3788329182,
 		"localId": "f1662efe-9e99-4feb-b929-421acb176147",
 		"name": "Tablice Relacyjne",
@@ -51219,7 +51219,7 @@
 	"3677e2d3-908a-48d0-b25d-89f853e2c7a5": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "Fully-Featured Creative Mode: all meaningful Survival Mode items can be used in Creative Mode. You can plant crops, plant trees, change the time, change the sky color, etc. To provide a better experience, I have added some game items and made a few adjustments. The adjustments are as follows.1.Changed ItemsScrap Garage: Press E to adjust the weather now.Freezer: It now needs to be connected to a Battery Box and a Switch to work, and its capacity has been increased.Beehive: Capacity increased.Protector: It needs to be connected to a Switch and a Battery Box to work. For balance, its power consumption is very high.Connection Hider: It needs to be connected to a Switch and a Battery Box to work.2.Added ItemsWith a flare cannon, heavy glide bombs, and a mutated vacuum pump, you can automate the launching of fire bombs, dirt, foam fire suppressant, and other items, rather than relying only on manual handheld tools. There is also a powerful glide bomb. This enhances the gameplay: it not only supplements the game's weapons and items but also completes the game logic.1.Multifunctional Fluorescent Cannon: It fills the gap that the official game only has a fluorescent gun but no fluorescent cannon. It is very unreasonable that the official game does not have a cannon. The good news is that now there is one. It has multiple modes and comes with huge recoil, so I hope you can make it a vehicle-mounted weapon. The first mode is Steel Pipe Mode, which can penetrate everything and occasionally ricochets. Firing continuously will cause overheating, so you can connect the Multifunctional Fluorescent Cannon to a water tank. After water is put into the water tank, the Multifunctional Fluorescent Cannon will no longer overheat and will keep firing rounds. You can combine multiple Multifunctional Fluorescent Cannons into a Gatling Multifunctional Fluorescent Cannon. At the same time, by using the feature that ammo boxes can be connected to switches, make it feed a fluorescent round after every certain number of steel pipes to ",
+		"description": "Fully-Featured Creative Mode: all meaningful Survival Mode items can be used in Creative Mode. You can plant crops, plant trees, change the time, change the sky color, etc. To provide a better experience, I have added some game items and made a few adjustments. The adjustments are as follows.\r\n\r\n1.Changed Items\r\nScrap Garage: Press E to adjust the weather now.\r\nFreezer: It now needs to be connected to a Battery Box and a Switch to work, and its capacity has been increased.\r\nBeehive: Capacity increased.\r\nProtector: It needs to be connected to a Switch and a Battery Box to work. For balance, its power consumption is very high.\r\nConnection Hider: It needs to be connected to a Switch and a Battery Box to work.\r\n\r\n\r\n2.Added Items\r\nMulti-Function Fluorescent Cannon: Connect it to Mod Ammo Boxes to fire multiple types of ammunition!\r\n\r\nMod Ammo: One Multi-Function Fluorescent Cannon can be connected to multiple ammo boxes. The ammo boxes can be connected to switches, and ammo boxes whose switches are turned on will be fired first.\r\n\r\nHeavy Glide Bomb: Aerial bomb. It is recommended to observe the effect from at least 200 meters away.\r\n\r\nLight Glide Bomb: Aerial bomb. It is recommended to observe the effect from at least 100 meters away.\r\nFor specific functions, please refer to the in-game item descriptions!\r\n\r\n满血版创造模式，所有有意义的生存模式物品全部可以在创造模式游玩，可以种植、植树、改变时间、改变天空颜色等等。为了有更好的体验，本人补充了游戏物品做了一些调整，调整如下。\r\n一、更改的物品\r\n废品车库：目前按E可以调整天气。\r\n冷冻柜：现在要连接电池箱和开关才能使用，并且增加了容量。\r\n蜂箱：增加了容量。\r\n保护器：连接开关和电池箱才能使用，为了平衡，它的耗电量非常大。\r\n\r\n二、增加的物品\r\n1.多功能荧光炮：连接Mod弹药箱可发射多种弹药！\r\n2.Mod弹药：一个.多功能荧光炮可连接多个弹药箱，弹药箱可连接开关，优先发射开关开启的弹药箱。\r\n3.重型滑翔炸弹：航弹，建议在200米外观看效果。\r\n4.轻型滑翔炸弹：航弹，建议在100米外观看效果。\r\n",
 		"fileId": 3798970591,
 		"localId": "3677e2d3-908a-48d0-b25d-89f853e2c7a5",
 		"name": "Full-Featured Creative Mode & Logic Enhancement Mod",
@@ -51482,6 +51482,26 @@
 		"fileId": 3804497361,
 		"localId": "1aacfb60-47ed-4404-a3f1-79107a401f4a",
 		"name": "green sticky wheel",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"67a3c6b8-3f48-458c-acc8-5b697b3cfff0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Fast Breaker is a mod that attempts to detect when the player is removing an item and removes the part when 500ms pases by to replicate the old universal removal time.",
+		"fileId": 3804847283,
+		"localId": "67a3c6b8-3f48-458c-acc8-5b697b3cfff0",
+		"name": "fast breaker",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"0d90710f-b8a8-43a1-8e29-31ad509a1653": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "NOT, Memory (toggle), Rising/Falling/Both tick gates, Duration Timer (green), and Repeater (yellow). Press E on timers to set the time.",
+		"fileId": 3805021531,
+		"localId": "0d90710f-b8a8-43a1-8e29-31ad509a1653",
+		"name": "Logic Gates Pack",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
