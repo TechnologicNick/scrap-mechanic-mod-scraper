@@ -44078,7 +44078,7 @@
 	"e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[En]-------------------------------------------------------------------------------------------------|\r\n\r\nCONFLICTS WITH:\r\nsledgehammer lag fix\r\n\r\nIf you have any questions about the mod, feel free to leave them in the comments, I(#d4af37T) will answer them as soon as possible. Leave any suggestions in the comments, I can add most of what you can probably think of.\r\n\r\nPlease report any issues with the mod in the comments, I will probably answer and fix them.\r\n\r\nYou can copy any scripts from this mod, if you change them in any meaningfull way.\r\n\r\nIn game name of the monster with procedural legs is Big parasite.\r\n\r\nThis mod adds 1 tool, \"T power\", it has many functions: \"Gravity gun\", \"Tug\", \"Movement tool\", \"Force field\", \"Returner\", \"Cleaner\", \"Manual\", \"Part gun\", \"Delayed Movement\", \"Newtonian Gravity Gun\", \"Zoom\", \"Immortality\", \"Grab\", \"Console\", \"Freecamera\", \"Volumetric brush (add)\", \"Volumetric brush (substract)\", \"Volume creation redactor\", \"Logic block clicker\", \"Manipulator\", \"Web gun\", \"Web\"\r\n\r\nIf mod is causing lag and/or world crashes, I recommend using one of those chat commands for auto cleaning world :\r\n\r\n/tmod autoclear_set_30_loose for loose bodies\r\n/tmod autoclear_set_30_single for single parasites, like big parasite, simple parasite, snarky parasite, wasps and any other single loose block parasites.\r\n/tmod autoclear_set_30_normal for general clean\r\n\r\n/tmod clear_c to remove strong parasite\r\n\r\nᴢɛηχɛʀ - some models, some scripts, some translation, new ideas\r\nopenxe - t power translator, main modeller, some new ideas\r\n#d4af37T - did literally everything else in the mod\r\n\r\n/t help\r\n\r\n[RU]-------------------------------------------------------------------------------------------------|\r\n\r\nКОНФЛИКТЫ МОДОВ:\r\nsledgehammer lag fix\r\n\r\nЕсли у вас есть какие-либо вопросы по поводу мода, не стесняйтесь оставлять их в комментариях, я (#d4af37T) отвечу на них, как только смогу. Оставляйте любые предложения в комментариях, я могу добавить большую часть того, что вам, вероятно, придет в голову.\r\n\r\nПожалуйста, сообщайте обо всех ошибках или недочетах в комментариях, с вероятностью 93,147% я отвечу и исправлю их.\r\n\r\nВы можете использовать любые скрипты из этого мода для копирования в свой мод, если вы каким-либо значительным образом измените их функциональность.\r\n\r\nИгровое имя монстра с процедурными ногами - Big parasite.\r\n\r\nЭтот мод добавляет 1 инструмент, \"Т Сила\", у него много функций: \"Gravity gun\", \"Tug\", \"Movement tool\", \"Force field\", \"Returner\", \"Cleaner\", \"Manual\", \"Part gun\", \"Delayed Movement\", \"Newtonian Gravity Gun\", \"Zoom\", \"Immortality\", \"Grab\", \"Console\", \"Freecamera\", \"Volumetric brush (add)\", \"Volumetric brush (substract)\", \"Volume creation redactor\", \"Logic block clicker\", \"Manipulator\", \"Web gun\", \"Web\"\r\n\r\nЕсли мод вызывает лаги и/или краши, рекомендуется использовать одну из этих комманд для авто отчиски:\r\n\r\n/tmod autoclear_set_30_loose для отцепленых тел\r\n/tmod autoclear_set_30_single для паразитов сотоящих из 1 блока таких как большой паразит, простой паразит, паразит снарк, осы и другие.\r\n/tmod autoclear_set_30_normal для общей очистки\r\n\r\n/tmod clear_c чтобы убрать сильного паразита\r\n\r\nᴢɛηχɛʀ - немного скриптов, перевода, моделей и идей\r\nopenxe - главный моделлер, немного идей, переводчик Т силы\r\n#d4af37T - сделал буквально все остальное\r\n\r\n/t help",
+		"description": "[En]-------------------------------------------------------------------------------------------------|\r\n\r\nCONFLICTS WITH:\r\nsledgehammer lag fix\r\noverhaul creative terrain\r\n\r\nIf you have any questions about the mod, feel free to leave them in the comments, I(#d4af37T) will answer them as soon as possible. Leave any suggestions in the comments, I can add most of what you can probably think of.\r\n\r\nPlease report any issues with the mod in the comments, I will probably answer and fix them.\r\n\r\nYou can copy any scripts from this mod, if you change them in any meaningfull way.\r\n\r\nIn game name of the monster with procedural legs is Big parasite.\r\n\r\nThis mod adds 1 tool, \"T power\", it has many functions: \"Gravity gun\", \"Tug\", \"Movement tool\", \"Force field\", \"Returner\", \"Cleaner\", \"Manual\", \"Part gun\", \"Delayed Movement\", \"Newtonian Gravity Gun\", \"Zoom\", \"Immortality\", \"Grab\", \"Console\", \"Freecamera\", \"Volumetric brush (add)\", \"Volumetric brush (substract)\", \"Volume creation redactor\", \"Logic block clicker\", \"Manipulator\", \"Web gun\", \"Web\"\r\n\r\nIf mod is causing lag and/or world crashes, I recommend using one of those chat commands for auto cleaning world :\r\n\r\n/tmod autoclear_set_30_loose for loose bodies\r\n/tmod autoclear_set_30_single for single parasites, like big parasite, simple parasite, snarky parasite, wasps and any other single loose block parasites.\r\n/tmod autoclear_set_30_normal for general clean\r\n\r\n/tmod clear_c to remove strong parasite\r\n\r\nᴢɛηχɛʀ - some models, some scripts, some translation, new ideas\r\nopenxe - t power translator, main modeller, some new ideas\r\n#d4af37T - did literally everything else in the mod\r\n\r\n/t help\r\n\r\n[RU]-------------------------------------------------------------------------------------------------|\r\n\r\nКОНФЛИКТЫ МОДОВ:\r\nsledgehammer lag fix\r\noverhaul creative terrain\r\n\r\nЕсли у вас есть какие-либо вопросы по поводу мода, не стесняйтесь оставлять их в комментариях, я (#d4af37T) отвечу на них, как только смогу. Оставляйте любые предложения в комментариях, я могу добавить большую часть того, что вам, вероятно, придет в голову.\r\n\r\nПожалуйста, сообщайте обо всех ошибках или недочетах в комментариях, с вероятностью 93,147% я отвечу и исправлю их.\r\n\r\nВы можете использовать любые скрипты из этого мода для копирования в свой мод, если вы каким-либо значительным образом измените их функциональность.\r\n\r\nИгровое имя монстра с процедурными ногами - Big parasite.\r\n\r\nЭтот мод добавляет 1 инструмент, \"Т Сила\", у него много функций: \"Gravity gun\", \"Tug\", \"Movement tool\", \"Force field\", \"Returner\", \"Cleaner\", \"Manual\", \"Part gun\", \"Delayed Movement\", \"Newtonian Gravity Gun\", \"Zoom\", \"Immortality\", \"Grab\", \"Console\", \"Freecamera\", \"Volumetric brush (add)\", \"Volumetric brush (substract)\", \"Volume creation redactor\", \"Logic block clicker\", \"Manipulator\", \"Web gun\", \"Web\"\r\n\r\nЕсли мод вызывает лаги и/или краши, рекомендуется использовать одну из этих комманд для авто отчиски:\r\n\r\n/tmod autoclear_set_30_loose для отцепленых тел\r\n/tmod autoclear_set_30_single для паразитов сотоящих из 1 блока таких как большой паразит, простой паразит, паразит снарк, осы и другие.\r\n/tmod autoclear_set_30_normal для общей очистки\r\n\r\n/tmod clear_c чтобы убрать сильного паразита\r\n\r\nᴢɛηχɛʀ - немного скриптов, перевода, моделей и идей\r\nopenxe - главный моделлер, немного идей, переводчик Т силы\r\n#d4af37T - сделал буквально все остальное\r\n\r\n/t help",
 		"fileId": 3438987478,
 		"localId": "e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5",
 		"name": "T mod",
@@ -51280,13 +51280,6 @@
 	"9a2a8f43-6f74-4fc3-b25c-3e139b710020": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"dependencies": [
-			{
-				"fileId": 3800264910,
-				"localId": "9a2a8f43-6f74-4fc3-b25c-3e139b710001",
-				"name": "KeybindBridge Core"
-			}
-		],
 		"description": "Optional blockless character flashlight with camera aiming.\r\n\r\nDownload and install:\r\nhttps://github.com/QuestionableM/SM-DLL-Injector/releases/tag/v1.8\r\n\r\nDownload and put in a folder \"Steam\\steamapps\\common\\Scrap Mechanic\\Release\\DLLModules\" \"keybind_bridge.dll\"\r\nhttps://github.com/oxydrive99-design/KeybindBridge/releases/tag/1.0.0\r\n\r\nPress \"F\" to turn flashlight\r\n\r\nYou can also change the key assignment through the binds menu.\r\n\r\nPress `End` while in a world:\r\n\r\n- `Up/Down` selects an action;\r\n- `Enter` starts key capture;\r\n- `Delete` restores the default key;\r\n- `Esc` or `End` closes the menu.\r\n\r\n",
 		"fileId": 3800281199,
 		"localId": "9a2a8f43-6f74-4fc3-b25c-3e139b710020",
@@ -51378,7 +51371,7 @@
 	"bf27e1b7-559a-4773-a11e-41fe159432c7": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "More content soon!Pearto added",
+		"description": "More content soon!\r\n\r\nCHANGES:\r\n\r\nVER 0.1:\r\n- Teto Plush added\r\n- Mod Released\r\nVER 0.2:\r\n- Pearto added\r\nVER 0.3:\r\n- Combat Teto Plus added\r\n- Descriptions and normal titles added\r\nVER 0.4:\r\n- Combat Teto bugfix and improvement",
 		"fileId": 3802331822,
 		"localId": "bf27e1b7-559a-4773-a11e-41fe159432c7",
 		"name": "A lot of Teto Stuff",
@@ -51504,5 +51497,36 @@
 		"name": "Logic Gates Pack",
 		"type": "Blocks and Parts",
 		"version": 2
+	},
+	"a3d79e80-fbd9-49a0-88ca-e7e1b1b89134": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [],
+		"description": "",
+		"fileId": 3805112051,
+		"localId": "a3d79e80-fbd9-49a0-88ca-e7e1b1b89134",
+		"name": "Damage Numbers",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"29a301d3-6e17-416c-b143-2544d40de615": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds every object from survival to creative, some you cant see in your inventory. I will work on that part later.",
+		"fileId": 3805299334,
+		"localId": "29a301d3-6e17-416c-b143-2544d40de615",
+		"name": "All Survival Parts",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"920acd7e-4199-4284-aa1f-cfddbba1ca03": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Drilling Thunder with peaceful enemies, Use /commands in chat for a full list of customization and debugging.",
+		"fileId": 3805365080,
+		"localId": "920acd7e-4199-4284-aa1f-cfddbba1ca03",
+		"name": "Peaceful Thunder",
+		"type": "Custom Game",
+		"version": 1
 	}
 }
