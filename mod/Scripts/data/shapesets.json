@@ -171502,7 +171502,8 @@
 	"41c87a07-626b-4580-9567-117f82664554": {},
 	"29c99287-1213-48c7-9471-19a4a5c12247": {
 		"$CONTENT_29c99287-1213-48c7-9471-19a4a5c12247/Objects/Database/ShapeSets/rfs_overrides.shapeset": [
-			"fe8bfeba-850b-4827-9785-10e2468c9c23"
+			"fe8bfeba-850b-4827-9785-10e2468c9c23",
+			"9eead4cf-4743-486e-99be-a553c4c10740"
 		],
 		"$CONTENT_29c99287-1213-48c7-9471-19a4a5c12247/Objects/Database/ShapeSets/rfs_traders.shapeset": [
 			"614c3193-13da-40f4-9b03-37f26e760fd6",
@@ -181085,6 +181086,10 @@
 	},
 	"29a301d3-6e17-416c-b143-2544d40de615": {},
 	"920acd7e-4199-4284-aa1f-cfddbba1ca03": {
-		"$CONTENT_920acd7e-4199-4284-aa1f-cfddbba1ca03/Objects/Database/ShapeSets/example.shapeset": []
+		"$CONTENT_920acd7e-4199-4284-aa1f-cfddbba1ca03/Objects/Database/ShapeSets/example.shapeset": [],
+		"$CONTENT_920acd7e-4199-4284-aa1f-cfddbba1ca03/Objects/Database/ShapeSets/peaceful_elevator_overrides.shapeset": [
+			"39f68574-c85b-41d0-a579-ac7d7a71281d",
+			"c410fd4e-2224-4ca6-bc70-c726b9a593a5"
+		]
 	}
 }
