@@ -1593,5 +1593,8 @@
 	"70870961-515a-41b4-9c44-eb9175fe5c0b": {},
 	"920acd7e-4199-4284-aa1f-cfddbba1ca03": {
 		"$CONTENT_920acd7e-4199-4284-aa1f-cfddbba1ca03/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"0795ef38-8063-4f32-97d2-fc502719b916": {
+		"$CONTENT_0795ef38-8063-4f32-97d2-fc502719b916/ScriptableObjects/ScriptableObjectSets/example.sobset": []
 	}
 }

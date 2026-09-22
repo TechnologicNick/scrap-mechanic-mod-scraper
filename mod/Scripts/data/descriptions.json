@@ -7453,12 +7453,14 @@
 		"version": 0
 	},
 	"d9d0c45a-bc80-45a3-a75d-905f8d0b0e4e": {
-		"description": "This mod changes Original Scrap Mechanic Radio to Scrap Mechanics Reggae Radio\n\n\nnavigate to Steam \\ steamapps \\ workshop \\ content \\ 387990 \\ 2413067931\n\nunzip Master Bank.zip\n\ncopy Master Bank.bank to Steam \\ steamapps \\ common \\ Scrap Mechanic \\ Data \\ Audio \\ Banks\n\nand overwrite original (make a backup from your original Master Bank.bank )\n\n\nBig thanks to Divinus https://steamcommunity.com/sharedfiles/filedetails/?id=2410001428\n",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod changes Original Scrap Mechanic Radio to Scrap Mechanics Reggae Radio and Boombox in PsyBoomboxnavigate to Steam \\ steamapps \\ workshop \\ content \\ 387990 \\ 2413067931unzip Master Bank.7zcopy Master Bank.bank to Steam \\ steamapps \\ common \\ Scrap Mechanic \\ Data \\ Audio \\ Banksand overwrite original (make a backup from your original Master Bank.bank )Big thanks to Divinus https://steamcommunity.com/sharedfiles/filedetails/?id=2410001428",
 		"fileId": 2413067931,
 		"localId": "d9d0c45a-bc80-45a3-a75d-905f8d0b0e4e",
 		"name": "Scrap Mechanics Reggae Radio",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 2
 	},
 	"1d18b46b-2102-4a8f-b23a-93aecfc12a21": {
 		"description": "",
@@ -46732,7 +46734,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "[h1]Мод для себя — и для вас![/h1]\r\n\r\nЕсли у вас есть идеи, что ещё прикольного можно добавить, пишите в комментариях, а лучше — в обсуждениях!\r\n\r\n[h2]Что уже есть в моде:[/h2]\r\n\r\n[list]\r\n[*][b]ФПВ дрон[/b] - можете красиво облетать разные постройки делая футажи или поражайте их! сбивается выстрелом в него, также есть РЭБ для защиты\r\n[*][b]Самонаводящийся магнит с упреждением + ГСН[/b] – магнитный захват с расчётом точки встречи и головкой самонаведения.\r\n[*][b]Авиа радар[/b] - радар для самолета! посзволяет находить воздушные цели, а также наводить ПАРЛ ракеты\r\n[*][b]Кастомные урвв ИК/ПАРЛ[/b] - можно легко превратить ваш визуал в опасную ракету с вашими настройками\r\n[*][b]ЛТЦ (ложные тепловые цели)[/b] – сбрасывайте ловушки, чтобы сбить с толку ракеты с тепловым наведением.\r\n[*][b]След от ракеты[/b] – видимый инверсионный или дымный след для всех ракет.\r\n[*][b]Бомба с настройкой чувствительности[/b] – точная регулировка порога срабатывания для управляемого подрыва.\r\n[*][b]Блоки инерции[/b] – позволяют сделать постройки более массивными и реалистичными по поведению.\r\n[*][b]Настраиваемое крыло[/b] – изменяйте подъёмную силу и характеристики управляющих поверхностей.\r\n[*][b]Одноблочные самостоятельные ракеты[/b] – специализированные боеприпасы для поражения самолётов и других целей.\r\n[*][b]НСЦ (Нашлемная система целеуказания) для ракеты[/b] – головка самонаведения ракеты следует за направлением вашего взгляда.\r\n[*][b]Бесконечный пол[/b] – спокойно гуляйте или ездите далеко за границами карты, не проваливаясь.\r\n[*][b]Дельта мыши для управления[/b] – точное управление вашими постройками с помощью перемещений мыши.\r\n[*][b]Однотиковая кнопка[/b] – активируется один раз и тут же исчезает. Идеально для действий «включил и забыл».\r\n[*][b]Камера постройки[/b] – позволяет увидеть всю конструкцию целиком. Крайне полезно для больших самолётов и кораблей.\r\n[*][b]Ракета и бомба с лазерным наведением + подвесной контейнер целеуказания[/b] – позволяет рассматривать противника на больших расстояниях и дарить подарки\r\n[*][b] Улучшенный логический гейт с настройкой выходного сигнала[/b]\r\n[*][b] Трастер с регулируемой мощностью, временем работы и стабильностью, а также эффектом[/b]\r\n[*][b] Бочки с настраиваемой плавучестью[/b] - есть несколько вариаций с разной прочностью, можно делать корабли тонущие от повреждений\r\n[*][b] Парашют с настройкой[/b] - используйте как воздушный тормоз для техники или десантируйте её!\r\n[/list]\r\n\r\nПриятного пользования!",
+		"description": "load",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -51526,6 +51528,16 @@
 		"fileId": 3805960558,
 		"localId": "920acd7e-4199-4284-aa1f-cfddbba1ca03",
 		"name": "Peaceful Thunder",
+		"type": "Custom Game",
+		"version": 1
+	},
+	"0795ef38-8063-4f32-97d2-fc502719b916": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Welcome to Totebot Madness! This Custom Game completely overhauls the world spawns by mixing up the standard green Totebots with their rare and dangerous variants. Now, every time a Totebot spawns, you have a random chance to encounter Blue, Yellow, or Red variants right in the wild! Are you ready for a colorful challenge?",
+		"fileId": 3806059389,
+		"localId": "0795ef38-8063-4f32-97d2-fc502719b916",
+		"name": "Totebot Madness",
 		"type": "Custom Game",
 		"version": 1
 	}
