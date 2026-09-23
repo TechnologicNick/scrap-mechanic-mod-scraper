@@ -47408,7 +47408,7 @@
 		"localId": "7b4eecc7-a707-4937-a9c9-3e2047e1ef76",
 		"name": "CatRush F1 Parts mod",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"b1442a40-8a35-4b8b-a840-2bf1a3f245e0": {
 		"allow_add_mods": true,
@@ -51366,7 +51366,7 @@
 	"bf27e1b7-559a-4773-a11e-41fe159432c7": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "More content soon!\r\n\r\nCHANGES:\r\n\r\nVER 0.1:\r\n- Teto Plush added\r\n- Mod Released\r\nVER 0.2:\r\n- Pearto added\r\nVER 0.3:\r\n- Combat Teto Plus added\r\n- Descriptions and normal titles added\r\nVER 0.4:\r\n- Combat Teto bugfix and improvement",
+		"description": "More content soon!\r\n\r\nCHANGES:\r\n\r\nVER 0.1:\r\n- Teto Plush added\r\n- Mod Released\r\nVER 0.2:\r\n- Pearto added\r\nVER 0.3:\r\n- Combat Teto Plus added\r\n- Descriptions and normal titles added\r\nVER 0.3.1:\r\n- Combat Teto bugfix and improvement\r\nVER 0.3.2:\r\n- Combat Teto now have recoil",
 		"fileId": 3802331822,
 		"localId": "bf27e1b7-559a-4773-a11e-41fe159432c7",
 		"name": "A lot of Teto Stuff",
