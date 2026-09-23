@@ -8458,5 +8458,14 @@
 	},
 	"0795ef38-8063-4f32-97d2-fc502719b916": {
 		"$CONTENT_0795ef38-8063-4f32-97d2-fc502719b916/Tools/Database/ToolSets/example.toolset": []
-	}
+	},
+	"8db42f93-7476-4e4b-b751-2c15552d1f23": {},
+	"645907fd-8f27-4bce-a686-fbdb8e38d183": {
+		"$CONTENT_645907fd-8f27-4bce-a686-fbdb8e38d183/Tools/Database/ToolSets/hooker.toolset": [
+			"0231b040-2610-4d67-a4e7-b77b223c5fc6",
+			"6c22d553-c3d9-4842-bd74-9c7f6d0a209f"
+		]
+	},
+	"2b86f2ba-9458-4bfa-95a5-1541f09b8913": {},
+	"afc3066a-54f8-46ec-a106-31ba984ef33b": {}
 }

@@ -15124,19 +15124,12 @@
 	"e3d52333-57a7-4289-b737-ade78347cd12": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"dependencies": [
-			{
-				"fileId": 2504530003,
-				"localId": "40639a2c-bb9f-4d4f-b88c-41bfe264ffa8",
-				"name": "ModDatabase"
-			}
-		],
-		"description": "[h1]Survival Less Cost[/h1]\r\n[b]Rebuilt from the ground up for Chapter 2.[/b]\r\n\r\nThe mod is not ready since scrap can't compile anything at the time.\r\n\r\n[h1]Gather faster, carry more, grow quicker[/h1]\r\n____________________________________________\r\n\r\n[h3]Player[/h3]\r\n[list]\r\n[*]50 inventory slots\r\n[*]Max health 150 instead of 100\r\n[*]The food buff adds 50 health instead of 25, so up to 200\r\n[*]You wake up at 75 health instead of 30\r\n[/list]\r\n\r\n[h3]Stacks[/h3]\r\n[list]\r\n[*]Most items stacks are boosted.\r\n[/list]\r\n\r\n[h3]Harvesting[/h3]\r\n[list]\r\n[*]Tree trunks and logs take half the health and cut 2 to 3 times faster with a saw\r\n[*]A trunk now falls in one hit instead of three\r\n[*]Burnt trees: 25 health and 2 hits instead of 100 and 4\r\n[*]Stone chunks: half the health, double the damage per hit\r\n[*]Crystals: 25 health instead of 100, and the plasma drill hits them 2.5 times harder\r\n[*]Refining by hand gives 40 blocks instead of 20 (80 for scrap wood) and takes 1 second instead of 2.8\r\n[/list]\r\n\r\n[h3]Farming[/h3]\r\n[list]\r\n[*]Every crop grows in half a day instead of 0.875, in the ground and in growbeds\r\n[*]Cotton grows 5 times faster, pigment flowers and corn nearly twice\r\n[*]Soil holds water twice as long\r\n[*]Beehives regrow in half a day instead of 2.5, and drop 2 to 6 stacks of 1 to 3 wax instead of 2 to 4 single ones\r\n[*]Oil geysers refill in 15 seconds instead of 30\r\n[*]Seed loot comes in bigger bundles\r\n[/list]\r\n\r\n[h3]Machines[/h3]\r\n[list]\r\n[*]Refinery: double output, 3 seconds per craft instead of 7, shorter animations\r\n[*]Interactive beehive: produces twice as fast and stores 60 honey instead of 20\r\n[*]Plasma drill: 2 to 3 times more drilling per battery\r\n[*]Ore crusher and pipes run much faster\r\n[*]Vacuum pipes: 5 times quicker suction, double projectile speed\r\n[*]Flat vacuum: 4 times quicker, stronger pull\r\n[*]Sticky wheels grip harder\r\n[/list]\r\n\r\n[h3]Storage[/h3]\r\n[list]\r\n[*]Food containers: 500 slots instead of 20\r\n[*]Freezer: 3 slots of 50 instead of 1 of 20\r\n[*]Garage chest: 60 slots with 1000 per stack\r\n[*]Resource collector: 100 items instead of 25, and it reaches further\r\n[*]Gravel collector: 100 items instead of 36\r\n[/list]\r\n\r\n[h3]Commands[/h3]\r\n[list]\r\n[*]/gdev ([spoiler]25565[/spoiler]) - unlocks Chapter 2's full set of dev commands. Saved with your world, so you only type it once.\r\n[/list]\r\n\r\n[h3]Left at vanilla for now, on purpose[/h3]\r\nChapter 2 reworked a lot of the game. Rather than port the old numbers blindly, these are staying untouched until I have played enough of it and heard from you:\r\n[list]\r\n[*][b]Crafting costs[/b] - the new recipes already look fairly balanced\r\n[*][b]Loot tables[/b] - I have not even met every new robot yet\r\n[*][b]Chest capacity[/b] - the game added a bigger chest of its own\r\n[*][b]Cross-mod crafting[/b] (/craftmodded) and /craftreload are not back yet\r\n[/list]\r\nTell me in the comments what feels off and it goes on the list.\r\n\r\n____________________________________________\r\n\r\nThanks everyone for the feedback over the years, and for the patience through the Chapter 2 wait. Keep it coming!",
+		"description": "[h1]Survival Less Cost[/h1]\r\n[b]Rebuilt from the ground up for Chapter 2.[/b]\r\n\r\n[h1]IMPORTANT\r\nThe mod tool is still broken. Until it’s fixed, anything related to caves (Chapter 2) will most likely break your save.[/h1]\r\n\r\n[h1]Gather faster, carry more, grow quicker[/h1]\r\n____________________________________________\r\n\r\n[h3]Player[/h3]\r\n[list]\r\n[*]50 inventory slots\r\n[*]Max health 150 instead of 100\r\n[*]The food buff adds 50 health instead of 25, so up to 200\r\n[*]You wake up at 75 health instead of 30\r\n[/list]\r\n\r\n[h3]Stacks[/h3]\r\n[list]\r\n[*]Most items stacks are boosted.\r\n[/list]\r\n\r\n[h3]Harvesting[/h3]\r\n[list]\r\n[*]Tree trunks and logs take half the health and cut 2 to 3 times faster with a saw\r\n[*]A trunk now falls in one hit instead of three\r\n[*]Burnt trees: 25 health and 2 hits instead of 100 and 4\r\n[*]Stone chunks: half the health, double the damage per hit\r\n[*]Crystals: 25 health instead of 100, and the plasma drill hits them 2.5 times harder\r\n[*]Refining by hand gives 40 blocks instead of 20 (80 for scrap wood) and takes 1 second instead of 2.8\r\n[/list]\r\n\r\n[h3]Farming[/h3]\r\n[list]\r\n[*]Every crop grows in half a day instead of 0.875, in the ground and in growbeds\r\n[*]Cotton grows 5 times faster, pigment flowers and corn nearly twice\r\n[*]Soil holds water twice as long\r\n[*]Beehives regrow in half a day instead of 2.5, and drop 2 to 6 stacks of 1 to 3 wax instead of 2 to 4 single ones\r\n[*]Oil geysers refill in 15 seconds instead of 30\r\n[*]Seed loot comes in bigger bundles\r\n[/list]\r\n\r\n[h3]Machines[/h3]\r\n[list]\r\n[*]Refinery: double output, 3 seconds per craft instead of 7, shorter animations\r\n[*]Interactive beehive: produces twice as fast and stores 60 honey instead of 20\r\n[*]Plasma drill: 2 to 3 times more drilling per battery\r\n[*]Ore crusher and pipes run much faster\r\n[*]Vacuum pipes: 5 times quicker suction, double projectile speed\r\n[*]Flat vacuum: 4 times quicker, stronger pull\r\n[*]Sticky wheels grip harder\r\n[/list]\r\n\r\n[h3]Storage[/h3]\r\n[list]\r\n[*]Food containers: 500 slots instead of 20\r\n[*]Freezer: 3 slots of 50 instead of 1 of 20\r\n[*]Garage chest: 60 slots with 1000 per stack\r\n[*]Resource collector: 100 items instead of 25, and it reaches further\r\n[*]Gravel collector: 100 items instead of 36\r\n[/list]\r\n\r\n[h3]Commands[/h3]\r\n[list]\r\n[*]/gdev ([spoiler]25565[/spoiler]) - unlocks Chapter 2's full set of dev commands. Saved with your world, so you only type it once.\r\n[/list]\r\n\r\n[h3]Left at vanilla for now, on purpose[/h3]\r\nChapter 2 reworked a lot of the game. Rather than port the old numbers blindly, these are staying untouched until I have played enough of it and heard from you:\r\n[list]\r\n[*][b]Crafting costs[/b] - the new recipes already look fairly balanced\r\n[*][b]Loot tables[/b] - I have not even met every new robot yet\r\n[*][b]Chest capacity[/b] - the game added a bigger chest of its own\r\n[*][b]Cross-mod crafting[/b] (/craftmodded) and /craftreload are not back yet\r\n[/list]\r\nTell me in the comments what feels off and it goes on the list.\r\n\r\n____________________________________________\r\n\r\nThanks everyone for the feedback over the years, and for the patience through the Chapter 2 wait. Keep it coming!",
 		"fileId": 2816326647,
 		"localId": "e3d52333-57a7-4289-b737-ade78347cd12",
 		"name": "Survival Less Cost",
 		"type": "Custom Game",
-		"version": 0
+		"version": 1
 	},
 	"88cad533-ae50-4ead-b07f-48158071b146": {
 		"allow_add_mods": true,
@@ -50281,7 +50274,7 @@
 	"e7ca4a83-74b0-4a75-ab18-e62021fad28e": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod a Gravity and Physics gun to scrap mechanic!\r\n\r\n[h1]How to use the Gravity gun:[/h1]\r\n[olist]\r\n[*]Point the operational end of the device at a creation\r\n[*]Pull the primary trigger\r\n[*]Point the operational end somewhere else\r\n[*]Pull the primary trigger again to release\r\n[*]Be happy that the creation is somewhere better\r\n[/olist]\r\n[h1]How to use the Physics gun:[/h1]\r\n[olist]\r\n[*]Point the operational end of the device at a creations joint\r\n[*]Pull the primary trigger\r\n[*]Point the operational end somewhere else\r\n[*]Pull the primary trigger again to release\r\n[/olist]\r\n\r\n[h2]List of controls:[/h2]\r\n[table]\r\n    [tr]\r\n        [th]Control[/th]\r\n        [th]Gravity[/th]\r\n        [th]Physics[/th]\r\n    [/tr]\r\n    [tr]\r\n        [td]Primary[/td]\r\n        [td]Grab/Release[/td]\r\n        [td]Grab/Release[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Rotate[/td]\r\n        [td]Modify Distance[/td]\r\n        [td]Modify Distance[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Secondary[/td]\r\n        [td]Launch/Push[/td]\r\n        [td]None[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Reload[/td]\r\n        [td]Rotate[/td]\r\n        [td]None[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Shift + Reload[/td]\r\n        [td]Reorient[/td]\r\n        [td]Swap modes[/td]\r\n    [/tr]\r\n[/table]",
+		"description": "This mod adds a Toolgun, Gravity Gun and Physics Gun to Scrap Mechanic!\r\n\r\n\r\n[h1]How to use the Gravity and Physics Guns:[/h1]\r\n[olist]\r\n[*]Aim the operational end of the device at a creation\r\n[*]Pull the primary trigger\r\n[*]Aim the operational end somewhere else\r\n[*]Pull the primary trigger again to release\r\n[/olist]\r\n\r\n\r\n[h2]List of controls:[/h2]\r\n[table]\r\n    [tr]\r\n        [th]Control[/th]\r\n        [th]Gravity[/th]\r\n        [th]Physics[/th]\r\n    [/tr]\r\n    [tr]\r\n        [td]Primary[/td]\r\n        [td]Grab/Release[/td]\r\n        [td]Grab/Release[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Secondary[/td]\r\n        [td]Launch/Push[/td]\r\n        [td]None[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Rotate[/td]\r\n        [td]Modify Distance[/td]\r\n        [td]Modify Distance[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Reload[/td]\r\n        [td]Rotate[/td]\r\n        [td]None[/td]\r\n    [/tr]\r\n    [tr]\r\n        [td]Sprint + Reload[/td]\r\n        [td]Reorient[/td]\r\n        [td]Swap modes[/td]\r\n    [/tr]\r\n[/table]\r\n\r\n\r\n[h1]Toolgun:[/h1]\r\nThe Toolgun has multiple different modes:\r\n[h3]Creation modes:[/h3]\r\n[list]\r\n[*]Copy: Copy and paste creations, rotate to change distance\r\n[*]Move: Cut and paste creations, rotate to change distance\r\n[*]Delete: Delete creations\r\n[/list]\r\n[h3]Character modes:[/h3]\r\n[list]\r\n[*]Teleport: Teleport wherever you're looking\r\n[*]Fly: Fly around the map, rotate to change a speed modifier\r\n[*]Zoom: Zoom in on far away things, rotate to change FOV\r\n[*]Unit Spawner: Spawn bots, rotate to change ammount spawned\r\n[/list]\r\n[h3]Mode menus:[/h3]\r\nSome modes have menus that can be opened with the secondary trigger\r\n[list]\r\n[*]Delete: World clear options ( only works for the host )\r\n[*]Teleport: Choose a spesific location to teleport to\r\n[*]Unit Spawner: Choose the unit to spawn\r\n[/list]",
 		"fileId": 3786534027,
 		"localId": "e7ca4a83-74b0-4a75-ab18-e62021fad28e",
 		"name": "Scrap Mod",
@@ -51540,5 +51533,45 @@
 		"name": "Totebot Madness",
 		"type": "Custom Game",
 		"version": 1
+	},
+	"8db42f93-7476-4e4b-b751-2c15552d1f23": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3806340703,
+		"localId": "8db42f93-7476-4e4b-b751-2c15552d1f23",
+		"name": "Part Tracker",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"645907fd-8f27-4bce-a686-fbdb8e38d183": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h2]A Blocks & Parts mod that adds a Cell Loader that can keep any area or creation loaded at all times![/h2] If you love automation or you just hate waiting for your farm/craftbot/glowbugs, this mod is for you! Also great for making trains that run all the time and whatever else you come up with! [h3]Note: keeping an area loaded HEAVILY impacts performance![/h3] [hr][/hr] [h1]Important![/h1] [list] [*]This is [b]NOT[/b] a file mod! [*]Just enable this mod and enjoy! [/list] [hr][/hr] [h1]Features[/h1] [list] [*]A Cell Loader part available in the Craftbot [/list] [hr][/hr] [h2]How to use in Creative or Custom Games:[/h2] [olist] [*] Enable it normally from the mods menu [*] Some Custom Games may not work [/olist] [h2]How to use in Survival:[/h2] (note that using mods may disable achievements and some garment unlocks) [olist] [*] Locate your survival save file in this folder [code]%appdata%/Axolot Games/Scrap Mechanic/User/User_#######/Save/Survival[/code] [*] (optional) Make a backup [*] Move the save file into [code]%appdata%/Axolot Games/Scrap Mechanic/User/User_#######/Save[/code] [*] Relaunch the game [*] Your survival world will now appear in the [b]Creative world selection screen[/b], select it [*] Click the \"Mods\" button and enable this mod [*] (optional) You can now move the save file back into [code]%appdata%/Axolot Games/Scrap Mechanic/User/User_#######/Save/Survival[/code] [/olist] [hr][/hr] [h2]Support:[/h2] [*]Rate, Favorite, Share and Award! [img]https://fagiano0.github.io/CrashlanderAPI/images/workshop/ratefavourite.gif[/img]",
+		"fileId": 3806419525,
+		"localId": "645907fd-8f27-4bce-a686-fbdb8e38d183",
+		"name": "Cell Loader",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"2b86f2ba-9458-4bfa-95a5-1541f09b8913": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "\"Wake up and cry, pissant!\"only experiment, no crafting recipes yet",
+		"fileId": 3806476246,
+		"localId": "2b86f2ba-9458-4bfa-95a5-1541f09b8913",
+		"name": "PotatoSniper",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"afc3066a-54f8-46ec-a106-31ba984ef33b": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Adds Portal Part, color two or more a specific color for different frequencies. (TEST MOD)",
+		"fileId": 3806537278,
+		"localId": "afc3066a-54f8-46ec-a106-31ba984ef33b",
+		"name": "Portal Part",
+		"type": "Blocks and Parts",
+		"version": 2
 	}
 }

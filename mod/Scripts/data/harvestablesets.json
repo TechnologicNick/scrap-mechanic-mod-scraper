@@ -319,7 +319,20 @@
 			"c6f80a93-5b16-45ef-a478-ca56a50f61ae",
 			"1675314b-0dfc-4d34-b854-0bdf0476221d",
 			"ec1cf82f-e8f3-4ca6-8e35-a4bdf0e8e259",
-			"779b5e09-7ce7-4a16-9817-02f5cb8e11f6"
+			"779b5e09-7ce7-4a16-9817-02f5cb8e11f6",
+			"81f76937-af88-4882-a64c-bc86a4092c20",
+			"1ebfd7c2-89df-4455-a0cc-2a43a718125b"
+		],
+		"$CONTENT_e3d52333-57a7-4289-b737-ade78347cd12/Harvestables/Database/HarvestableSets/slc/survival/loot.harvestableset": [
+			"b8eb68ca-25a0-47aa-8745-12f2dd13d873",
+			"a6b9fa26-df80-4f5b-9679-418f4567e5ca",
+			"3bb80384-1f4c-4c1f-803d-6d1838882029",
+			"58ae6c48-bd59-4311-acda-45c0b3d9233b"
+		],
+		"$CONTENT_e3d52333-57a7-4289-b737-ade78347cd12/Harvestables/Database/HarvestableSets/slc/survival/crystal.harvestableset": [
+			"da59296e-9c61-4ab0-a5ee-ee1715e57128",
+			"22b5db6c-d7d7-4635-8b9d-c700e282e41b",
+			"4c05950e-31e5-4cfe-a746-f2f6fe65f07f"
 		]
 	},
 	"88cad533-ae50-4ead-b07f-48158071b146": {
