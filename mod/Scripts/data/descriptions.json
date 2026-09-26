@@ -48811,8 +48811,8 @@
 	},
 	"2aa0bc3e-75ec-4b6e-840d-73910c332d50": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "A complete wireless logic tools! Features 10 color-coded Wi-fi Remotes, each with 5 input modes (LBM, RBM, Q, R, F). Just paint the Universal Receiver block to match your remote's color and instantly link them on dedicated wireless channels.",
+		"custom_icons": true,
+		"description": "A complete wireless logic tools! Features 10 color-coded Wi-fi Remotes, each with 5 input modes (LBM, RBM, Q, R, F). Just paint the Universal Receiver block to match your remote's color and instantly link them on dedicated wireless channels.\r\n\r\nApologies, the Thunder Update broke inventory icons! You can play the previous stable version here until it's fixed:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3384885533",
 		"fileId": 3770265505,
 		"localId": "2aa0bc3e-75ec-4b6e-840d-73910c332d50",
 		"name": "Color-Coded Wi-fi Remotes",
@@ -51356,7 +51356,7 @@
 	"8a4041db-121a-4b77-adc8-35689c7c58f3": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]Creation Shield v1.0[/h1]\r\n\r\nAdds an energy shield system for your creations.\r\n\r\nWhen active, the shield protects the entire connected creation from destruction while consuming Batteries. Shield Generators can also be upgraded to improve their performance.\r\n\r\n[h3]REQUIRES:[/h3]\r\n  creationshieldbridge.dll\r\n\r\n[h3]Download and install:[/h3]\r\nhttps://github.com/QuestionableM/SM-DLL-Injector/releases/tag/v1.8\r\n\r\n[h3]DLL INSTALLATION:[/h3]\r\n  Copy creation_shield_bridge.dll to:\r\n  Scrap Mechanic\\Release\\DLLModules\\\r\n\r\nhttps://github.com/oxydrive99-design/Creation-Shield-Bridge/releases/tag/0.7\r\n\r\n[h3]MAIN FEATURES:[/h3]\r\n[list]\r\n  [*]Protects the entire connected creation from projectile, melee and explosion damage.\r\n [*]Powered by vanilla Battery Containers.\r\n [*]5 upgrade levels using Component Kits.\r\n [*]Higher levels increase shield capacity, shorten recovery delay and increase passive battery drain.\r\n [*]Gradual shield recovery after taking no damage.\r\n [*]Overload still disables the shield when capacity reaches zero.\r\n [*]Maximum 2 shield generators per complete creation.\r\n [*]Separate Shield Status Display with ONLINE %, OFFLINE, OVERLOAD and LIMIT states.\r\n [*]Vanilla barrier lightning and barrierLoop sound while ONLINE.\r\n [*]Normal logic input can control shield ON/OFF.\r\n [*]Active RED logic input enables disassembly lock while the shield is ONLINE.\r\n[/list]\r\n\r\n[h3]CreationShieldBridge Plugin[/h3]\r\n\r\nThe mod can be used without the DLL plugin, but some features are limited.\r\n\r\n[h3]Without CreationShieldBridge:[/h3]\r\n[list]\r\n[*]Maximum of 1 Shield Generator per creation\r\n[*]The shield uses a fallback overload system\r\n[*]The shield gradually loses its protection capacity while active\r\n[*]When the fallback reaches 0%, the shield enters Overload and the creation becomes vulnerable for a short time\r\n[/list]\r\n[h3]With CreationShieldBridge installed:[/h3]\r\n[list]\r\n[*]Maximum of 2 Shield Generators per creation\r\n[*]The shield can detect actual damage, hits and explosions\r\n[*]Damage directly affects the shield's overload system\r\n[*]Shield behaviour becomes much more dynamic and accurate\r\n[/list]\r\nSo the DLL plugin is not required to use the mod, but it is highly recommended if you want the full Creation Shield experience.\r\n\r\nWithout the plugin, the mod is still fully usable — it simply runs in a simplified fallback mode.\r\n\r\n[h3]Important[/h3]\r\n\r\nThe shield is not intended to provide permanent invincibility.\r\n\r\nBattery consumption, overload, generator limits and temporary vulnerability are all part of the balancing system.\r\n\r\nFor the complete damage-based shield system, install CreationShieldBridge.\r\n\r\n[h3]NOTE:[/h3]\r\n  If a logic source is painted one of the red colors above, it is treated as the erase-lock input,\r\n  not as the normal shield ON/OFF control.",
+		"description": "[h1]Creation Shield v1.0[/h1]\r\n\r\nAdds an energy shield system for your creations.\r\n\r\nWhen active, the shield protects the entire connected creation from destruction while consuming Batteries. Shield Generators can also be upgraded to improve their performance.\r\n\r\n[h3]Download and install Universal Plugin Loadder Installer (UPL):[/h3]\r\nhttps://github.com/oxydrive99-design/Universal-Plugin-Loader-UPL-/releases/tag/0.4.0\r\n\r\n[h3]MAIN FEATURES:[/h3]\r\n[list]\r\n  [*]Protects the entire connected creation from projectile, melee and explosion damage.\r\n [*]Powered by vanilla Battery Containers.\r\n [*]5 upgrade levels using Component Kits.\r\n [*]Higher levels increase shield capacity, shorten recovery delay and increase passive battery drain.\r\n [*]Gradual shield recovery after taking no damage.\r\n [*]Overload still disables the shield when capacity reaches zero.\r\n [*]Maximum 2 shield generators per complete creation.\r\n [*]Separate Shield Status Display with ONLINE %, OFFLINE, OVERLOAD and LIMIT states.\r\n [*]Vanilla barrier lightning and barrierLoop sound while ONLINE.\r\n [*]Normal logic input can control shield ON/OFF.\r\n [*]Active RED logic input enables disassembly lock while the shield is ONLINE.\r\n[/list]\r\n\r\n[h3]CreationShieldBridge Plugin[/h3]\r\n\r\nThe mod can be used without the DLL plugin, but some features are limited.\r\n\r\n[h3]Without CreationShieldBridge:[/h3]\r\n[list]\r\n[*]Maximum of 1 Shield Generator per creation\r\n[*]The shield uses a fallback overload system\r\n[*]The shield gradually loses its protection capacity while active\r\n[*]When the fallback reaches 0%, the shield enters Overload and the creation becomes vulnerable for a short time\r\n[/list]\r\n[h3]With CreationShieldBridge installed:[/h3]\r\n[list]\r\n[*]Maximum of 2 Shield Generators per creation\r\n[*]The shield can detect actual damage, hits and explosions\r\n[*]Damage directly affects the shield's overload system\r\n[*]Shield behaviour becomes much more dynamic and accurate\r\n[/list]\r\nSo the DLL plugin is not required to use the mod, but it is highly recommended if you want the full Creation Shield experience.\r\n\r\nWithout the plugin, the mod is still fully usable — it simply runs in a simplified fallback mode.\r\n\r\n[h3]Important[/h3]\r\n\r\nThe shield is not intended to provide permanent invincibility.\r\n\r\nBattery consumption, overload, generator limits and temporary vulnerability are all part of the balancing system.\r\n\r\nFor the complete damage-based shield system, install CreationShieldBridge.\r\n\r\n[h3]NOTE:[/h3]\r\n  If a logic source is painted one of the red colors above, it is treated as the erase-lock input,\r\n  not as the normal shield ON/OFF control.",
 		"fileId": 3802255754,
 		"localId": "8a4041db-121a-4b77-adc8-35689c7c58f3",
 		"name": "Creation Shield",
@@ -51577,10 +51577,20 @@
 	"9029573a-7c24-42af-bad3-52a4b9944683": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Generation 1 Dodge Dakota pick-up truck body.1 block collision, made to cover the frame of a full vehicle.Working HEADLIGHTS! connect a switch or logic and light up your way!",
+		"description": "Generation 1 Dodge Dakota pick-up truck body. 1 block collision, made to cover the frame of a full vehicle. Working HEADLIGHTS! connect a switch or logic and light up your way!",
 		"fileId": 3807530912,
 		"localId": "9029573a-7c24-42af-bad3-52a4b9944683",
 		"name": "1995 Dodge Dakota",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"c887f4ef-6118-47e5-9feb-719685bbe363": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod contains mountable fire launcher, thats pretty much all",
+		"fileId": 3807907236,
+		"localId": "c887f4ef-6118-47e5-9feb-719685bbe363",
+		"name": "Mountable fire launcher",
 		"type": "Blocks and Parts",
 		"version": 2
 	}

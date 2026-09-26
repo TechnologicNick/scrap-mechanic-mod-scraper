@@ -157609,7 +157609,7 @@
 		]
 	},
 	"2aa0bc3e-75ec-4b6e-840d-73910c332d50": {
-		"$CONTENT_2aa0bc3e-75ec-4b6e-840d-73910c332d50/Objects/Database/ShapeSets/example.shapeset": [
+		"$CONTENT_2aa0bc3e-75ec-4b6e-840d-73910c332d50/Objects/Database/ShapeSets/example - Copy.shapeset": [
 			"d3ad8ed8-c13c-4a03-8f6f-4ef2f7ebfc83",
 			"5cdcc16d-a9b2-41a5-bede-a7d8263fc0d1",
 			"7ec97795-8e79-4fda-8446-55802dac9775",
@@ -181304,6 +181304,11 @@
 	"9029573a-7c24-42af-bad3-52a4b9944683": {
 		"$CONTENT_9029573a-7c24-42af-bad3-52a4b9944683/Objects/Database/ShapeSets/dakotapickup.shapeset": [
 			"b453e3ef-3d25-46c1-9550-75ed9863437e"
+		]
+	},
+	"c887f4ef-6118-47e5-9feb-719685bbe363": {
+		"$CONTENT_c887f4ef-6118-47e5-9feb-719685bbe363/Objects/Database/ShapeSets/example.shapeset": [
+			"8abed9a9-abe1-46d1-ab19-e8a7230927b2"
 		]
 	}
 }
