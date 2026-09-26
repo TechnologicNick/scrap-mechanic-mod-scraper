@@ -97436,6 +97436,7 @@
 			"b521dc38-8e76-4b95-9566-6b705cb336cd",
 			"9c334a25-4dbf-4acb-ba54-08f21b274422",
 			"a91419f0-daeb-4ece-9aa2-7df67b76cc50",
+			"cbc818c7-1db2-4ff7-bff8-878c9c33d7cd",
 			"27491e10-6cfb-11ed-a1eb-0242ac120002",
 			"006a9e0e-6aa8-11ed-a1eb-0242ac120002",
 			"2654b956-62c9-11ed-9b6a-0242ac120002",
@@ -107446,7 +107447,8 @@
 			"e7778e42-2fd8-11ee-be56-0242ac120002",
 			"34e448f2-7ff2-41a4-8322-6af2e523b361",
 			"3caab7ae-15a8-434d-ab91-a35684476a55",
-			"70541410-ebfa-11ed-a05b-0242ac120003"
+			"70541410-ebfa-11ed-a05b-0242ac120003",
+			"358a03eb-ef8d-45ed-88fb-90856b73f186"
 		],
 		"$CONTENT_f39bf3d6-b31e-4aee-9ead-1b73c547ba08/Objects/Database/ShapeSets/wedges.shapeset": [
 			"7dab4ae1-3a4e-4a62-9de3-604656e227ba",
@@ -181297,6 +181299,11 @@
 	"afc3066a-54f8-46ec-a106-31ba984ef33b": {
 		"$CONTENT_afc3066a-54f8-46ec-a106-31ba984ef33b/Objects/Database/ShapeSets/TeleporterPart.shapeset": [
 			"08e27b42-b5b7-426e-a9fc-5b1871a21b7a"
+		]
+	},
+	"9029573a-7c24-42af-bad3-52a4b9944683": {
+		"$CONTENT_9029573a-7c24-42af-bad3-52a4b9944683/Objects/Database/ShapeSets/dakotapickup.shapeset": [
+			"b453e3ef-3d25-46c1-9550-75ed9863437e"
 		]
 	}
 }
