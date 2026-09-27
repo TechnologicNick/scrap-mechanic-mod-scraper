@@ -8400,8 +8400,14 @@
 	"c5b0dbb5-6e03-450b-acb1-03fe5909ecc0": {},
 	"70870961-515a-41b4-9c44-eb9175fe5c0b": {},
 	"22ccef83-5999-4e49-806a-56b8f0934024": {
-		"$CONTENT_22ccef83-5999-4e49-806a-56b8f0934024/Tools/Database/ToolSets/spudguns.json": [
-			"f6250bf4-9726-406f-a29a-945c06e460e5"
+		"$CONTENT_22ccef83-5999-4e49-806a-56b8f0934024/Tools/Database/ToolSets/spudguns.toolset": [
+			"c5ea0c2f-185b-48d6-b4df-45c386a575cc",
+			"f6250bf4-9726-406f-a29a-945c06e460e5",
+			"9fde0601-c2ba-4c70-8d5c-2a7a9fdd122b",
+			"a2a2bb33-a841-4b23-88da-b758063d9206",
+			"d51ec758-057b-4263-bd16-7a731e149480",
+			"2c7e0586-2534-44cc-9f4b-e28c436446b6",
+			"6993e5df-6852-4e84-88ae-df49f765e784"
 		]
 	},
 	"27baad35-7e73-43bd-8ad6-98e981dabc12": {},
