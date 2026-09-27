@@ -51593,5 +51593,15 @@
 		"name": "Mountable fire launcher",
 		"type": "Blocks and Parts",
 		"version": 2
+	},
+	"463f50a3-cf9e-46b9-854a-8a182f7a53dc": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Enhanced Survival is a custom game mod that combines the following mods:\r\n\r\n• Collection+\r\n- QoL+ faster crafting, refining, gathering, and expanded ruin-chest loot\r\n- Stacks+ larger stack sizes with stacked-bucket compatibility\r\n- Gas+ improved fuel efficiency\r\n- Components+ craftable Component Kits\r\n- Survival+ hunger and thirst, including Tea and classic Woc Milk restoration\r\n- Drinkable Water restores 10 thirst per item\r\n- All food and drinks take half the normal time to consume\r\n- Hunger and thirst drain pause while seated in any chair or bed\r\n\r\n• RPG+\r\n- Levels 0-300 with normal saved progression\r\n- Health, damage, damage reduction, run speed, and loot-gain skills\r\n- Hunger Drain and Thirst Drain reduction skills\r\n- Passive EXP and robot-defeat EXP\r\n- Health value centered inside the native green health bar\r\n- Character window: crouch + Reload (R), or type /rpg\r\n\r\n• Fant Mod 3\r\n- wocs can eat stacks of corn\r\n- corn is placable in stacks\r\n- all variants of totebots drop there head as item and not as part anymore\r\n- recipe loading of mods that got added to your World\r\n- recipes / schematics are Unlockable at the Hideout Trader, Mininghub Trader or via the Schematic Unlock Stations!\r\n\r\nChat Commands:\r\n- /god\r\n- /unlockVanilla\r\n- /unlockModded\r\n- /completequests\r\n- /givekeys\r\n- /give\r\n- /killall\r\n- /resetmininglevel\r\n- /cheat (enables/disables the use of these commands)\r\n\r\n• Further improvements:\r\n- the inventory size is 60 slots\r\n- the stack size for all items is 65535\r\n- an older or better appearance is used for some blocks. For example, concrete, glass, and ice\r\n- all types of concrete have a durability of 10\r\n- ice has a durability of 10 and floats excellently on water\r\n- bulletproof glass now has a durability of 7, like T2 metal\r\n- the RPG mode has been modified to allow earning 2 points per level. The entire RPG system makes progressing through the game significantly easier, and it is up to each player to decide how much to utilize it\r\n- all drops are doubled (trees, metal, seeds, etc.)\r\n- the collector's range is approximately 2–3 times greater\r\n- you can buy everything from other mods from the trader for one crate of oranges (no need to look for the farmer in the cage)\r\n\r\nAnd surely something else I can't think of right now.\r\n\r\nIt’s a merge of several mods combined with custom tweaks for a more fun and relaxed survival experience.\r\n\r\nUnless there’s a bug somewhere, I don’t plan on releasing regular updates.\r\nHave fun!",
+		"fileId": 3808507209,
+		"localId": "463f50a3-cf9e-46b9-854a-8a182f7a53dc",
+		"name": "Enhanced Survival",
+		"type": "Custom Game",
+		"version": 1
 	}
 }

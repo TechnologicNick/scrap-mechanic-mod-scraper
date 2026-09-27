@@ -1596,5 +1596,10 @@
 	},
 	"0795ef38-8063-4f32-97d2-fc502719b916": {
 		"$CONTENT_0795ef38-8063-4f32-97d2-fc502719b916/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"463f50a3-cf9e-46b9-854a-8a182f7a53dc": {
+		"$CONTENT_463f50a3-cf9e-46b9-854a-8a182f7a53dc/ScriptableObjects/ScriptableObjectSets/fantmod3.sobset": [
+			"9ba03b98-e820-4bd8-bcaa-47ccf4bd4ee1"
+		]
 	}
 }
