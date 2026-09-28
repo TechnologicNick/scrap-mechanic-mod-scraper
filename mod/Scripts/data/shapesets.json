@@ -137934,6 +137934,7 @@
 			"8ba81ec9-d870-4524-9d20-a750791d9368",
 			"f2058590-880c-4d44-95fc-5adc633ebe5a",
 			"35f5fa22-f661-4e96-b4e6-05310ba8970d",
+			"678e2fef-35e8-40d2-9542-17b9903de992",
 			"499653f6-a055-4d72-b0ed-d3be915a3540",
 			"fc033152-c2ba-48d7-8563-2ece87c05673",
 			"b5d3a6f5-1473-4554-89df-5eeba7e57d13",
@@ -138118,6 +138119,9 @@
 		],
 		"$CONTENT_e653ddc4-9b43-46ec-b4c8-ecbc5aedc9c5/Objects/Database/ShapeSets/Technologal.shapeset": [
 			"3d90712a-8d54-49d9-851e-f2c6afb4065f",
+			"0b13ac9b-84ff-49ab-be15-d425c352cbf5",
+			"0e479cd9-31e2-4d68-ab3f-17b5332aeb94",
+			"7aa091b1-a9f1-42ef-a071-7fbd8fd56052",
 			"d9232b6c-5b53-4545-a212-248b6b28726a",
 			"36fe1f4f-1cbf-4013-9da8-b3eb93139fbf",
 			"d26f8c0e-c487-48f3-ac28-2fad4e770df5",
@@ -138145,13 +138149,15 @@
 			"5a084e31-a9de-44d3-a07e-7ac656a6fb71",
 			"3ddae7c7-191e-4037-8cd7-53f6ccd472fc",
 			"6bc2a6b3-a679-4452-af9d-14bf7bf1fa33",
+			"05bbc3d5-63da-4a61-818b-b2d4c95ecffa",
 			"91dc417a-08cf-43bb-8d1e-c9f47ea60465",
 			"c4f52e6e-897d-41cc-9b24-9626d040cce3",
 			"1658c2da-7d43-4631-bb90-85506cb07a32",
 			"c184db5d-2ef0-4405-b743-1c8241114a17",
 			"0cb36568-edd9-476c-b01b-e063def51b0f",
 			"c590a986-e1ee-4813-b375-47ab7054d2a7",
-			"b07f1f3b-46bc-4b23-ab8d-194e3aa3ff0a"
+			"b07f1f3b-46bc-4b23-ab8d-194e3aa3ff0a",
+			"a201ea84-c90d-45df-8dc1-3643bb00bdf8"
 		]
 	},
 	"cc074c82-c93d-411e-9890-3486ad61d1fe": {},
@@ -148492,6 +148498,7 @@
 			"341628c5-5a23-48bd-ae71-e49e45a1fa7c",
 			"d5a0a83e-4490-4c3a-9acb-e7460f104482",
 			"d5003d28-4473-4b55-b88c-bd372df811e6",
+			"92b65a20-06f8-451a-81a9-fae522ee172e",
 			"518133f1-e4f1-4972-ad95-35c3ffc03bd6",
 			"034dae15-9baa-43d6-bedf-9930137888ff",
 			"29715944-88c3-46f0-8d28-d9f93617c6ca",
@@ -182946,5 +182953,15 @@
 			"9f9cd82f-8a5a-406b-b26d-d1adc289c8b4",
 			"cb3dc4fc-603b-4919-9a71-7ce7cb1593bb"
 		]
+	},
+	"8c527220-1892-40db-b1f0-a3ba0029d4cb": {},
+	"a0cf2145-0a82-4ce0-9055-ac7af024821d": {
+		"$CONTENT_a0cf2145-0a82-4ce0-9055-ac7af024821d/Objects/Database/ShapeSets/example.shapeset": [],
+		"$CONTENT_a0cf2145-0a82-4ce0-9055-ac7af024821d/Objects/Database/ShapeSets/relaybearing.shapeset": [
+			"8c7582c1-2639-4f41-a3f7-16449d9bacd5"
+		]
+	},
+	"eef8a4cc-ec66-4576-9ccf-294138690ffd": {
+		"$CONTENT_eef8a4cc-ec66-4576-9ccf-294138690ffd/Objects/Database/ShapeSets/example.shapeset": []
 	}
 }
