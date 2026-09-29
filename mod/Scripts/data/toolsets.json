@@ -8483,5 +8483,10 @@
 	},
 	"8c527220-1892-40db-b1f0-a3ba0029d4cb": {},
 	"a0cf2145-0a82-4ce0-9055-ac7af024821d": {},
-	"eef8a4cc-ec66-4576-9ccf-294138690ffd": {}
+	"eef8a4cc-ec66-4576-9ccf-294138690ffd": {},
+	"e38b127d-95ab-4ae8-8412-ebf2289ecef0": {
+		"$CONTENT_e38b127d-95ab-4ae8-8412-ebf2289ecef0/Tools/Database/ToolSets/SmRtx.toolset": [
+			"33b6175c-8de6-4c48-a11c-b1734042140b"
+		]
+	}
 }
