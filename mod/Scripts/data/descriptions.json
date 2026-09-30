@@ -49271,7 +49271,8 @@
 	"de9f1a24-8f1a-40e9-9032-cfb699bce179": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]Scrap Mechanic DirectX 兼容性修复补丁[/h1]让所有支持 DirectX 10.1 及以上的显卡都能顺利进入游戏！[hr][/hr][h2]简介[/h2]本补丁用于解决《废品机械师》（Scrap Mechanic）启动时报错 [b]\"DirectX feature level 10.1 or higher is required\"[/b] 的问题。本 DLL 仅作为转发层，不修改任何游戏逻辑，不涉及作弊功能。整个过程无需修改游戏原文件，移除该 DLL 即可恢复原始状态，安全、无侵入。[hr][/hr][h2]解决的问题[/h2][list][*][b]现象：[/b]游戏启动时弹窗报错 [i]DirectX feature level 10.1 or higher is required[/i]，无法进入游戏。[*][b]原因：[/b]游戏在检测显卡时存在兼容性 Bug，某些实际支持 Feature Level 10.1 / 11.0 的显卡（如 GTX 750 Ti 等老款型号）被误判为不达标，从而导致启动失败。[/list][hr][/hr][h2]文件地址/h2]~\\steamapps\\workshop\\content\\387990\\{modid}\\Objects\\d3d11.dll[hr][/hr][h2]使用方法[/h2][olist][*]下载 [b]d3d11.dll[/b] 文件。[*]将 [b]d3d11.dll[/b] 复制到游戏安装目录下的 [b]Release[/b] 文件夹中：[code]~\\steamapps\\common\\Scrap Mechanic\\Release[/code]例如：[code]C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\\Release[/code][*]正常启动游戏即可。[/olist][hr][/hr][h2]卸载 / 还原[/h2]如需还原游戏至原始状态，只需[b]删除游戏 Release 目录下的 d3d11.dll[/b] 即可。游戏不会留下任何残留，因为：[list][*]原始游戏目录中没有 [i]d3d11.dll[/i][*]代理 DLL 不会修改任何游戏文件[*]日志文件 [i]dxhook.log[/i] 可以保留或删除（不影响游戏）[/list][hr][/hr][h2]适用性说明[/h2][list][*]适用于所有因上述报错而无法启动游戏的玩家。[*]无论你的显卡驱动版本新旧（即使已更新至较新版本），本补丁均可生效，无需回滚驱动。[*]已测试通过的环境：NVIDIA GeForce GTX 750 Ti 及同级别显卡。[/list][hr][/hr][h2]注意事项[/h2][list][*]本补丁为[b]社区自制修复工具[/b]，并非官方补丁，请自行决定是否使用。[*]如游戏后续更新官方修复，建议移除本补丁，使用官方版本。[*]首次加载补丁会等待较长时间！！！[/list][hr][/hr]如果这个补丁帮到了你，欢迎分享给遇到同样问题的朋友！祝游戏愉快！ 🚀",
+		"dependencies": null,
+		"description": "[h1][中文][/h1]\r\n\r\n[h1]Scrap Mechanic DirectX 兼容性修复补丁[/h1]\r\n\r\n让所有支持 DirectX 10.1 及以上的显卡都能顺利进入游戏！\r\n\r\n[hr][/hr]\r\n\r\n[h2]简介[/h2]\r\n\r\n本补丁用于解决《废品机械师》（Scrap Mechanic）启动时报错 [b]\"DirectX feature level 10.1 or higher is required\"[/b] 的问题。\r\n\r\n本 DLL 仅作为转发层，不修改任何游戏逻辑，不涉及作弊功能。整个过程无需修改游戏原文件，移除该 DLL 即可恢复原始状态，安全、无侵入。\r\n\r\n[hr][/hr]\r\n\r\n[h2]解决的问题[/h2]\r\n\r\n[list]\r\n[*][b]现象：[/b]游戏启动时弹窗报错 [i]DirectX feature level 10.1 or higher is required[/i]，无法进入游戏。\r\n[*][b]原因：[/b]游戏在检测显卡时存在兼容性 Bug，某些实际支持 Feature Level 10.1 / 11.0 的显卡（如 GTX 750 Ti 等老款型号）被误判为不达标，从而导致启动失败。\r\n[/list]\r\n\r\n[hr][/hr]\r\n\r\n[h2]文件地址[/h2]\r\n\r\n~\\steamapps\\workshop\\content\\387990\\3775749811\\Objects\\d3d11.dll\r\n\r\n[hr][/hr]\r\n\r\n[h2]使用方法[/h2]\r\n\r\n[olist]\r\n[*]下载 [b]d3d11.dll[/b] 文件。\r\n[*]将 [b]d3d11.dll[/b] 复制到游戏安装目录下的 [b]Release[/b] 文件夹中：\r\n[code]~\\steamapps\\common\\Scrap Mechanic\\Release[/code]\r\n例如：\r\n[code]C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\\Release[/code]\r\n[*]正常启动游戏即可。\r\n[/olist]\r\n\r\n[hr][/hr]\r\n\r\n[h2]卸载 / 还原[/h2]\r\n\r\n如需还原游戏至原始状态，只需[b]删除游戏 Release 目录下的 d3d11.dll[/b] 即可。\r\n\r\n游戏不会留下任何残留，因为：\r\n[list]\r\n[*]原始游戏目录中没有 [i]d3d11.dll[/i]\r\n[*]代理 DLL 不会修改任何游戏文件\r\n[*]日志文件 [i]dxhook.log[/i] 可以保留或删除（不影响游戏）\r\n[/list]\r\n\r\n[hr][/hr]\r\n\r\n[h2]适用性说明[/h2]\r\n\r\n[list]\r\n[*]适用于所有因上述报错而无法启动游戏的玩家。\r\n[*]无论你的显卡驱动版本新旧（即使已更新至较新版本），本补丁均可生效，无需回滚驱动。\r\n[*]已测试通过的环境：NVIDIA GeForce GTX 750 Ti 及同级别显卡。\r\n[/list]\r\n\r\n[hr][/hr]\r\n\r\n[h2]注意事项[/h2]\r\n\r\n[list]\r\n[*]本补丁为[b]社区自制修复工具[/b]，并非官方补丁，请自行决定是否使用。\r\n[*]如游戏后续更新官方修复，建议移除本补丁，使用官方版本。\r\n[*]首次加载补丁会等待较长时间！！！\r\n[*]加载后你应该取消订阅这个mod\r\n[/list]\r\n\r\n[hr][/hr]\r\n\r\n如果这个补丁帮到了你，欢迎分享给遇到同样问题的朋友！\r\n祝游戏愉快！ 🚀",
 		"fileId": 3775749811,
 		"localId": "de9f1a24-8f1a-40e9-9032-cfb699bce179",
 		"name": "DirectX_Fix",
@@ -51366,10 +51367,10 @@
 	"bf27e1b7-559a-4773-a11e-41fe159432c7": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "More content soon!\r\n\r\nCHANGES:\r\n\r\nVER 0.1:\r\n- Teto Plush added\r\n- Mod Released\r\nVER 0.2:\r\n- Pearto added\r\nVER 0.3:\r\n- Combat Teto Plus added\r\n- Descriptions and normal titles added\r\nVER 0.3.1:\r\n- Combat Teto bugfix and improvement\r\nVER 0.3.2:\r\n- Combat Teto now have recoil",
+		"description": "More content soon!\r\n\r\nCHANGES:\r\n\r\nVER 0.1:\r\n- Teto Plush added\r\n- Mod Released\r\nVER 0.2:\r\n- Pearto added\r\nVER 0.3:\r\n- Combat Teto Plus added\r\n- Descriptions and normal titles added\r\nVER 0.3.1:\r\n- Combat Teto bugfix and improvement\r\nVER 0.3.2:\r\n- Combat Teto now have recoil\r\nVER 0.4.0\r\n- Pearto now exploding after 10 bounces",
 		"fileId": 3802331822,
 		"localId": "bf27e1b7-559a-4773-a11e-41fe159432c7",
-		"name": "A lot of Teto Stuff",
+		"name": "A Lot of Teto Stuff",
 		"type": "Blocks and Parts",
 		"version": 2
 	},
