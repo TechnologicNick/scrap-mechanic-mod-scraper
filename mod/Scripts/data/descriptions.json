@@ -51638,11 +51638,33 @@
 		"allow_add_mods": true,
 		"custom_icons": false,
 		"dependencies": null,
-		"description": "",
+		"description": "[h1]SM RTX Alpha 1[/h1]\r\n\r\nSM RTX 是《废品机械师》的画质模组，用英伟达的实时路径追踪技术重新绘制游戏的三维画面，玩法和界面都保持原样。它以一个 dxgi.dll 的形式装进游戏，只负责绘制画面，不改动游戏自己的文件和存档，删掉就回到原版\r\n\r\n[b]这是 Alpha 1 测试版。[/b]游戏里的内容都已经能画出来，但有些地方还与原版不一样，或者显示得不对，性能优化和画面精修也才刚开始。\r\n\r\n[h3]配置要求[/h3]\r\n\r\n[list]\r\n[*]英伟达 RTX 显卡，驱动更新到最新版本\r\n[*]《废品机械师》1.0.6.889 版。游戏更新之后 SM RTX 会自动停用、回到原版画面，请等待它的新版本\r\n[*]大约 8 GB 的磁盘空间，用来存放缓存\r\n[/list]\r\n\r\n[h3]安装[/h3]\r\n\r\n订阅之后，还要手动把它装进游戏目录才会生效，只在世界里勾选这个模组是不够的。\r\n[olist]\r\n[*]在 Steam 库里右键《废品机械师》，选择「管理」里的「浏览本地文件」，打开游戏目录。\r\n[*]在同一个 steamapps 文件夹下找到 SM RTX 的下载目录 workshop\\content\\387990\\3810075045。\r\n[*]把下载目录里的 Release 文件夹复制到游戏目录，与游戏自己的 Release 文件夹合并。如果游戏的 Release 里原来就有别的 dxgi.dll（例如 ReShade 的），它会被替换，请先移到别处保存。\r\n[*]重新启动游戏。按 F10 开关设置面板，按 F9 开关路径追踪。\r\n[/olist]\r\n装好之后不需要把这个模组勾选进世界。如果勾选了，进入世界时会弹出一次安装说明。\r\n\r\n[h3]更新与卸载[/h3]\r\n创意工坊会自动下载新版本，但已经复制进游戏目录的文件不会跟着更新。更新时先退出游戏，删掉游戏 Release 里的 dxgi.dll 和 SM-RTX\\\\Deployment 文件夹，再照安装的步骤复制一遍。卸载时删掉 Release 里的 dxgi.dll 和 SM-RTX 文件夹即可。\r\n\r\n[h3]其他[/h3]\r\n[list]\r\n[*]dxgi.dll 没有数字签名，可能被 Windows Defender 误报成木马，处理办法见下载目录里的「使用说明.txt」。\r\n[*]完整的源代码在下载目录的 Source 文件夹里，可以自行查看。\r\n[*]遇到问题请在评论区反馈，附上显卡型号、驱动版本，以及游戏 Release\\SM-RTX\\Logs 里的日志。\r\n[*]SM RTX 本身保留所有权利，可以免费使用，不得修改之后再分发，也不得用于商业用途。它是独立的社区项目，与英伟达和 Axolot Games 都没有从属关系。\r\n[/list]\r\n\r\n如果觉得不错的话可以为模组点赞支持",
 		"fileId": 3810075045,
 		"localId": "e38b127d-95ab-4ae8-8412-ebf2289ecef0",
 		"name": "SM RTX",
 		"type": "Blocks and Parts",
 		"version": 2
+	},
+	"0988b490-ba6d-47de-bea4-343d2c3f6144": {
+		"allow_add_mods": true,
+		"creatorId": "",
+		"custom_icons": true,
+		"dependencies": [],
+		"description": "Harder survival: bots spawn in groups of 3-10, 3x raid budget, 30% ambient spawn rate, 4x larger island with 21 warehouses, and warehouse interiors reset every 7 in-game days.",
+		"fileId": 3810338908,
+		"localId": "0988b490-ba6d-47de-bea4-343d2c3f6144",
+		"name": "Brutal Survival",
+		"type": "Custom Game",
+		"version": 1
+	},
+	"d3ca2a5a-b401-413e-bb88-2dc2853aded6": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": " this has nothing in it so you can mod survival easly",
+		"fileId": 3810339203,
+		"localId": "d3ca2a5a-b401-413e-bb88-2dc2853aded6",
+		"name": "for moding",
+		"type": "Custom Game",
+		"version": 1
 	}
 }
