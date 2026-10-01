@@ -49534,7 +49534,7 @@
 	"76ba6b04-6ff3-4309-8a63-599679cef9c7": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h1]控雨核心 (Rain Core)[/h1]\r\n\r\n[h2]一个能改变创造模式天气的小部件[/h2]\r\n\r\n放置一个 [b]控雨核心[/b]，按下 [b]E[/b] 打开控制面板，雨雪阴晴尽在掌握。\r\n\r\n[hr]\r\n\r\n[h3]功能特性[/h3]\r\n[list]\r\n[*][b]三档降雨[/b]：小雨 / 中雨 / 大雨，雨量、云量、天色全联动切换\r\n[*][b]60 秒平滑过渡[/b]：切换天气时天色、云层、雾霭缓缓渐变，不突兀\r\n[*][b]自动模式[/b]：我的世界式晴雨随机循环，阴晴交替更有生活感\r\n[*][b]停雨 / 关闭[/b]：停雨只停雨，天空仍由模组掌控；关闭则还原游戏官方天气\r\n[*][b]联机友好[/b]：全服玩家看到同一天气，中途加入自动同步，无需重复设置\r\n[*][b]状态保存[/b]：重进世界自动恢复上次的天气设置\r\n[/list]\r\n\r\n[h3]使用说明[/h3]\r\n[list]\r\n[*]在创造模式中放置部件，按 [b]E[/b] 打开面板\r\n[*]选择 [b]自动 / 停雨 / 关闭[/b]，或直接点击 [b]小雨 / 中雨 / 大雨[/b] 切换档位\r\n[/list]\r\n\r\n[h3]注意事项[/h3]\r\n[list]\r\n[*]目前仅在[b]创造模式[/b]中测试，其余模式尚未完整测试\r\n[*]如果您发现任何问题或错误，请在评论区说明。如果能附上游戏日志，我将能更快地定位问题。\r\n[/list]\r\n\r\n[hr]\r\n\r\n[h3]疑难解答 (FAQ)[/h3]\r\n[list]\r\n[*][b]我选择了下雨，但为何还没有出现雨？[/b]天气有 60 秒平滑过渡，雨粒子会在过渡中段才开始下落，请稍等片刻；若长时间仍无雨，可能是发生了 Bug，或当前游戏模式不兼容。\r\n[*][b]我点了停雨，为什么雨还在下？[/b]停雨同样是渐变过程，雨会在大约 36 秒内逐渐停止，这是正常现象。\r\n[*][b]切换天气后，天空和云层好像没变化？[/b]云量与天色同样跟随 60 秒过渡缓慢变化，请观察一段时间后确认。\r\n[*][b]多人联机时，为什么大家看到的天气不一致？[/b]请确认所有玩家都使用了相同版本的模组；天气由放置的部件全服同步，版本不一致可能导致不同步。\r\n[*][b]重进世界后，天气没有恢复？[/b]状态会自动保存并恢复；若未恢复，可能是部件已被拆除，或世界没有正常保存。\r\n[*][b]可以同时放置多个控制部件吗？[/b]建议一个世界只放一个；多个部件会互相覆盖天气设置，导致后放置的部件接管。\r\n[/list]\r\n\r\n[hr]\r\n\r\n[quote]祝你游戏玩得开心！[/quote]\r\n",
+		"description": "[h1]控雨核心 (Rain Core)[/h1]\r\n\r\n[h2]一个能改变创造模式天气的小部件[/h2]\r\n\r\n放置一个 [b]控雨核心[/b]，按下 [b]E[/b] 打开控制面板，雨雪阴晴尽在掌握。\r\n\r\n[hr]\r\n\r\n[h3]功能特性[/h3]\r\n[list]\r\n[*][b]三档降雨[/b]：小雨 / 中雨 / 大雨，雨量、云量、天色全联动切换\r\n[*][b]60 秒平滑过渡[/b]：切换天气时天色、云层、雾霭缓缓渐变，不突兀\r\n[*][b]自动模式[/b]：我的世界式晴雨随机循环，阴晴交替更有生活感\r\n[*][b]停雨 / 关闭[/b]：停雨只停雨，天空仍由模组掌控；关闭则还原游戏官方天气\r\n[*][b]联机友好[/b]：全服玩家看到同一天气，中途加入自动同步，无需重复设置\r\n[*][b]状态保存[/b]：重进世界自动恢复上次的天气设置\r\n[/list]\r\n\r\n[h3]使用说明[/h3]\r\n[list]\r\n[*]在创造模式中放置部件，按 [b]E[/b] 打开面板\r\n[*]选择 [b]自动 / 停雨 / 关闭[/b]，或直接点击 [b]小雨 / 中雨 / 大雨[/b] 切换档位\r\n[/list]\r\n\r\n[h3]注意事项[/h3]\r\n[list]\r\n[*]目前仅在[b]创造模式[/b]中测试，其余模式尚未完整测试\r\n[*]如发现 Bug，欢迎在下方评论区汇报，附上场景描述能更快定位问题\r\n[/list]\r\n\r\n[hr]\r\n\r\n[h3]疑难解答 (FAQ)[/h3]\r\n[list]\r\n[*][b]我选择了下雨，但为何还没有出现雨？[/b]天气有 60 秒平滑过渡，雨粒子会在过渡中段才开始下落，请稍等片刻；若长时间仍无雨，可能是发生了 Bug，或当前游戏模式不兼容。\r\n[*][b]我点了停雨，为什么雨还在下？[/b]停雨同样是渐变过程，雨会在大约 36 秒内逐渐停止，这是正常现象。\r\n[*][b]切换天气后，天空和云层好像没变化？[/b]云量与天色同样跟随 60 秒过渡缓慢变化，请观察一段时间后确认。\r\n[*][b]多人联机时，为什么大家看到的天气不一致？[/b]请确认所有玩家都使用了相同版本的模组；天气由放置的部件全服同步，版本不一致可能导致不同步。\r\n[*][b]重进世界后，天气没有恢复？[/b]状态会自动保存并恢复；若未恢复，可能是部件已被拆除，或世界没有正常保存。\r\n[*][b]可以同时放置多个控制部件吗？[/b]建议一个世界只放一个；多个部件会互相覆盖天气设置，导致后放置的部件接管。\r\n[/list]\r\n\r\n[hr]\r\n\r\n[quote]祝你游戏玩得开心！[/quote]\r\n",
 		"fileId": 3780704569,
 		"localId": "76ba6b04-6ff3-4309-8a63-599679cef9c7",
 		"name": "Weather Gate",
@@ -51667,5 +51667,41 @@
 		"name": "for moding",
 		"type": "Custom Game",
 		"version": 1
+	},
+	"cb8729f7-32ec-47a0-b907-73e705c0ee04": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[h1]Survival but... with COMMANDS![/h1]\r\n\r\n[h2]Features[/h2]\r\n[list]\r\n[*]Russian / English language support\r\n[*]Cheat commands\r\n[*]Administration system\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h2]Commands[/h2]\r\n[h3]Admin only[/h3]\r\n/creativeinv - Toggles creative inventory (affects all players)\r\n/restrictions - Toggles restrictions (affects all players)\r\n/noaggro - Toggles bot aggro (affects all players)\r\n\r\n/fly - Toggles fly-mode\r\n/godmode - Toggles invincibility\r\n/setadmin (player id) (true for make admin) - gives admin right to player\r\n[h3]All players[/h3]\r\n/playerlist - list of current playing players",
+		"fileId": 3801761169,
+		"localId": "cb8729f7-32ec-47a0-b907-73e705c0ee04",
+		"name": "Survival with commands",
+		"type": "Custom Game",
+		"version": 1
+	},
+	"b2b2c568-4247-483f-8b7c-cce6795481bf": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [
+			{
+				"localId": "7afa0981-d354-42ca-bdaa-749a043e797e",
+				"name": "railmaker_zav"
+			}
+		],
+		"description": "Инструмент для строительства рельсов.\r\nЛКМ: Построить\r\nПКМ: Удалить\r\n[F]: Соединить две рельсы плавной кривой\r\n[Q]: ВКЛ/ВЫКЛ привязку к сетке блоков\r\n[R]: Открыть меню настройки (угол, крен, количество)\r\n\r\nRail building tool.\r\nLMB: Build\r\nRMB: Remove\r\n[F]: Connect two rails with a smooth curve\r\n[Q]: Toggle grid snap\r\n[R]: Open settings menu (pitch, yaw, roll, count)\r\n\r\nAI used",
+		"fileId": 3811266281,
+		"localId": "b2b2c568-4247-483f-8b7c-cce6795481bf",
+		"name": "RailPlotter",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"7afa0981-d354-42ca-bdaa-749a043e797e": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3811267642,
+		"localId": "7afa0981-d354-42ca-bdaa-749a043e797e",
+		"name": "railmaker_zav",
+		"type": "Blocks and Parts",
+		"version": 2
 	}
 }
