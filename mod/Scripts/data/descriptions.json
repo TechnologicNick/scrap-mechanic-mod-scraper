@@ -7486,12 +7486,14 @@
 		"type": "Blocks and Parts"
 	},
 	"15458794-c2c8-435a-bb76-905538b97087": {
-		"description": "This mod changes Original Scrap Mechanic Radio to Scrap Mechanics Good Vibes Radio\n\n\nnavigate to Steam \\ steamapps \\ workshop \\ content \\ 387990 \\ 2416784718\n\nunzip Master Bank.zip\n\ncopy Master Bank.bank to Steam \\ steamapps \\ common \\ Scrap Mechanic \\ Data \\ Audio \\ Banks\n\nand overwrite original (make a backup from your original Master Bank.bank )\n\n\n",
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "This mod changes Original Scrap Mechanic Radio to Scrap Mechanics Good Vibes Radionavigate to Steam \\ steamapps \\ workshop \\ content \\ 387990 \\ 2416784718 unzip Master Bank.7z copy Master Bank.bank to Steam \\ steamapps \\ common \\ Scrap Mechanic \\ Data \\ Audio \\ Banksand overwrite original (make a backup from your original Master Bank.bank )",
 		"fileId": 2416784718,
 		"localId": "15458794-c2c8-435a-bb76-905538b97087",
 		"name": "Scrap Mechanic Good Vibes Radio",
 		"type": "Blocks and Parts",
-		"version": 0
+		"version": 2
 	},
 	"d88f4eb7-5783-4bd7-8014-efc4688c73ab": {
 		"description": "Whoooo",
@@ -45455,12 +45457,12 @@
 	"b24355bf-fdc4-464d-885c-121979aeabbd": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod changes Original Scrap Mechanic Radio to Scrap Mechanics WaterparkSimulator Radio\n\n\nnavigate to Steam \\ steamapps \\ workshop \\ content \\ 387990 \\ 3602021165\nunzip Master Bank.rar\n\ncopy Master Bank.bank to Steam \\ steamapps \\ common \\ Scrap Mechanic \\ Data \\ Audio \\ Banks\n\nand overwrite original (make a backup from your original Master Bank.bank )",
+		"description": "This mod changes Original Scrap Mechanic Radio to Scrap Mechanics WaterparkSimulator Radionavigate to Steam \\ steamapps \\ workshop \\ content \\ 387990 \\ 3602035934unpack Master Bank.7zcopy Master Bank.bank to Steam \\ steamapps \\ common \\ Scrap Mechanic \\ Data \\ Audio \\ Banksand overwrite original (make a backup from your original Master Bank.bank ",
 		"fileId": 3602035934,
 		"localId": "b24355bf-fdc4-464d-885c-121979aeabbd",
 		"name": "InGame-Music Waterparksimulator",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"57d9288b-c2bc-4019-8d7e-055a554e9e71": {
 		"allow_add_mods": true,
@@ -45791,12 +45793,12 @@
 	"054f3d5c-1c7f-4863-914e-a998a95e90eb": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "This mod changes Original Scrap Mechanic Radio to Scrap Mechanics Revengo odf the Savage Planret Radio, 7 of 14 titles were added\n\n\nnavigate to Steam \\ steamapps \\ workshop \\ content \\ 387990 \\ \n\n\ncopy Master Bank.bank to Steam \\ steamapps \\ common \\ Scrap Mechanic \\ Data \\ Audio \\ Banks\n\nand overwrite original (make a backup from your original Master Bank.bank )",
+		"description": "This mod changes Original Scrap Mechanic Radio to Scrap Mechanics Revenge of the Savage Planet Radio, 7 of 14 titles were addednavigate to Steam \\ steamapps \\ workshop \\ content \\ 387990 \\ 3621347017 unpack Master Bank.7z copy Master Bank.bank to Steam \\ steamapps \\ common \\ Scrap Mechanic \\ Data \\ Audio \\ Banksand overwrite original (make a backup from your original Master Bank.bank copy Master Bank.bank to Steam \\ steamapps \\ common \\ Scrap Mechanic \\ Data \\ Audio \\ Banksand overwrite original (make a backup from your original Master Bank.bank )",
 		"fileId": 3621347017,
 		"localId": "054f3d5c-1c7f-4863-914e-a998a95e90eb",
 		"name": "InGame-Music - Revenge of the Savage Planet",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"218089cd-0c7b-4245-8798-ab8d695919d6": {
 		"allow_add_mods": true,
@@ -48331,8 +48333,8 @@
 	},
 	"26810839-cec6-497d-8194-fa398c3d6c59": {
 		"allow_add_mods": true,
-		"custom_icons": false,
-		"description": "This mod doesn't have a description",
+		"custom_icons": true,
+		"description": "Мод убирает эффект блеска у брёвен.",
 		"fileId": 3741073266,
 		"localId": "26810839-cec6-497d-8194-fa398c3d6c59",
 		"name": "a log without shine",
