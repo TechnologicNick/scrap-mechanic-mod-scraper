@@ -148585,6 +148585,21 @@
 			"d52fcb15-b9ab-4b6c-90c0-30be01da3ce8",
 			"8692751b-3195-4fc7-9e26-bbcad635a8fb",
 			"403066aa-b519-4cb8-b29b-1b3a048d07c0"
+		],
+		"$CONTENT_9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4/Objects/Database/ShapeSets/alan.shapeset": [
+			"9a81ebca-15f7-40f1-acb6-2535a92fab4e",
+			"439c0e8e-3f9b-4dcb-8910-793b488d6a4a",
+			"55175fe4-6c53-429c-a949-699edf14e5f3",
+			"ec577cc8-a05c-42e2-9cb5-3327d3daf1a5",
+			"1edfc5bf-91a9-4a10-b00a-4abf0a39bfc8",
+			"08e38f92-e87e-44d0-b3c1-c2b87bb66df8",
+			"f34bedd8-e660-4537-9c3f-15638235eb9b",
+			"e5108d93-0f88-4383-bfa1-11557ae9128f",
+			"baea7887-8381-4741-affc-89fdb1296e61",
+			"53305848-2b25-474a-8f2b-b7ea20e94772",
+			"f3c958d6-cd80-4d1b-8d83-c6d86267c061",
+			"d1c281ea-9a34-470a-9c12-f5d599794c6f",
+			"28def333-015f-4ceb-b787-07714b1b8bde"
 		]
 	},
 	"38aaa37e-671c-4720-b734-8c32bd94292f": {
@@ -183262,5 +183277,15 @@
 	"b2b2c568-4247-483f-8b7c-cce6795481bf": {
 		"$CONTENT_b2b2c568-4247-483f-8b7c-cce6795481bf/Objects/Database/ShapeSets/example.shapeset": []
 	},
-	"7afa0981-d354-42ca-bdaa-749a043e797e": {}
+	"7afa0981-d354-42ca-bdaa-749a043e797e": {},
+	"573532b7-94ae-4b2f-b46c-f25cd94b9b43": {
+		"$CONTENT_573532b7-94ae-4b2f-b46c-f25cd94b9b43/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"695efc45-8ff6-492f-b718-1a000f04ede9": {
+		"$CONTENT_695efc45-8ff6-492f-b718-1a000f04ede9/Objects/Database/ShapeSets/SIGNS_PLUS.shapeset": [
+			"4908ecfb-ec05-42c5-a02a-7675ccc3eb19",
+			"a96232ef-2778-4c23-8a11-7cbc5b1de8b0",
+			"46d85e5b-353c-4f06-8fd8-b9ddd3443245"
+		]
+	}
 }

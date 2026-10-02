@@ -51703,5 +51703,25 @@
 		"name": "railmaker_zav",
 		"type": "Blocks and Parts",
 		"version": 2
+	},
+	"573532b7-94ae-4b2f-b46c-f25cd94b9b43": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod changes Original Scrap Mechanic Radio to Scrap Mechanics Smooth Radio and Boombox in PsyBoombox .Navigate to Steam \\ steamapps \\ workshop \\ content \\ 387990 \\ 2413067931 unzip Master Bank.7z copy Master Bank.bank to Steam \\ steamapps \\ common \\ Scrap Mechanic \\ Data \\ Audio \\ Banks and overwrite original (make a backup from your original Master Bank.bank ) ",
+		"fileId": 3811431186,
+		"localId": "573532b7-94ae-4b2f-b46c-f25cd94b9b43",
+		"name": "Smooth Radio",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"695efc45-8ff6-492f-b718-1a000f04ede9": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds the ability to type as much as you can in a single sign for all vanilla signs, text will stay even when you disable the mod and log back in to your world.",
+		"fileId": 3811611983,
+		"localId": "695efc45-8ff6-492f-b718-1a000f04ede9",
+		"name": "Signs++",
+		"type": "Blocks and Parts",
+		"version": 2
 	}
 }
