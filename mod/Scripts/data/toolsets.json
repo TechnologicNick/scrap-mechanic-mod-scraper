@@ -8445,6 +8445,14 @@
 			"f26a26bf-b9be-4e59-83e4-da2e9e6dd285",
 			"fa1b499e-c40e-4e55-9f73-27ae1cba6c15",
 			"2bff990a-0e74-43c7-b7dc-889b3a086fa3"
+		],
+		"$CONTENT_4296ef38-d4a7-4705-a14f-1ae156b54aae/Tools/Database/ToolSets/psaa_start.toolset": [
+			"dd7d7a2c-1ef7-4a75-bcf8-6d271a8dd950",
+			"d52739ff-e445-4920-a3ff-edb0afdcc5ad",
+			"a6113860-f4d4-42df-b8f9-129efdbaf777"
+		],
+		"$CONTENT_4296ef38-d4a7-4705-a14f-1ae156b54aae/Tools/Database/ToolSets/psaa_clawgun.toolset": [
+			"3a225d01-a4cb-4249-9aed-1e8c3479cb64"
 		]
 	},
 	"4ab88d37-096e-4c56-b238-0113b969f247": {},

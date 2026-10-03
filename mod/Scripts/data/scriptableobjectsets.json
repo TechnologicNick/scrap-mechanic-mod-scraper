@@ -1608,5 +1608,17 @@
 	},
 	"cb8729f7-32ec-47a0-b907-73e705c0ee04": {
 		"$CONTENT_cb8729f7-32ec-47a0-b907-73e705c0ee04/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"4296ef38-d4a7-4705-a14f-1ae156b54aae": {
+		"$CONTENT_4296ef38-d4a7-4705-a14f-1ae156b54aae/ScriptableObjects/ScriptableObjectSets/psaa_howler_test_spawn_bridge.sobset": [
+			"e1335154-4ccf-4acd-8d75-78ea767c5377"
+		],
+		"$CONTENT_4296ef38-d4a7-4705-a14f-1ae156b54aae/ScriptableObjects/ScriptableObjectSets/survivalist_spawn.sobset": [
+			"dc826e41-54b9-4f08-a602-65d0b847a391"
+		],
+		"$CONTENT_4296ef38-d4a7-4705-a14f-1ae156b54aae/ScriptableObjects/ScriptableObjectSets/example.sobset": [],
+		"$CONTENT_4296ef38-d4a7-4705-a14f-1ae156b54aae/ScriptableObjects/ScriptableObjectSets/scrap_expanded_runner_spawn_bridge.sobset": [
+			"a870fd33-b8f0-4678-8d5f-0d8fa9b4dcc4"
+		]
 	}
 }
