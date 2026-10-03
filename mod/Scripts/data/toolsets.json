@@ -8511,5 +8511,16 @@
 	},
 	"7afa0981-d354-42ca-bdaa-749a043e797e": {},
 	"573532b7-94ae-4b2f-b46c-f25cd94b9b43": {},
-	"695efc45-8ff6-492f-b718-1a000f04ede9": {}
+	"695efc45-8ff6-492f-b718-1a000f04ede9": {},
+	"7b4432b5-3739-4e3e-a702-b57cd0f61be9": {
+		"$CONTENT_7b4432b5-3739-4e3e-a702-b57cd0f61be9/Tools/Database/ToolSets/arsenal_tools.toolset": [
+			"3df7f2ff-ed08-4bd1-8245-8dc5af6731aa",
+			"327b1a7d-eb3a-4d01-9df2-9d0526b1b51b"
+		]
+	},
+	"7a9976c7-ee71-4d3e-8368-058760ea0cbf": {
+		"$CONTENT_7a9976c7-ee71-4d3e-8368-058760ea0cbf/Tools/Database/ToolSets/scp173.toolset": [
+			"5c9f13a7-4b21-4e8d-9f30-a61c7d2b8e01"
+		]
+	}
 }
