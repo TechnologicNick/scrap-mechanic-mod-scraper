@@ -7117,7 +7117,11 @@
 	"546f9f92-6a19-4f6d-b18f-98b18189b63e": {},
 	"91fa0033-2a81-44fd-bd98-8baf333744c4": {},
 	"7852fd31-40bc-4e68-adae-da2302a63343": {},
-	"3a9e1309-731d-43de-b6e0-c5f0ab32470a": {},
+	"3a9e1309-731d-43de-b6e0-c5f0ab32470a": {
+		"$CONTENT_3a9e1309-731d-43de-b6e0-c5f0ab32470a/Tools/Database/ToolSets/tools.toolset": [
+			"b88581d6-9f7b-4cb8-a74b-a7bb7af26cea"
+		]
+	},
 	"bb87a28f-7e4a-4e02-8f01-2b925eed3629": {},
 	"f1914704-dadf-4363-814f-fd7d940afa6e": {
 		"$CONTENT_f1914704-dadf-4363-814f-fd7d940afa6e/Tools/Database/ToolSets/NewToolSet1.toolset": [
@@ -8519,8 +8523,17 @@
 		]
 	},
 	"7a9976c7-ee71-4d3e-8368-058760ea0cbf": {
-		"$CONTENT_7a9976c7-ee71-4d3e-8368-058760ea0cbf/Tools/Database/ToolSets/scp173.toolset": [
-			"5c9f13a7-4b21-4e8d-9f30-a61c7d2b8e01"
+		"$CONTENT_7a9976c7-ee71-4d3e-8368-058760ea0cbf/Tools/Database/ToolSets/scp173gen.toolset": [
+			"5c9f13a7-4b21-4e8d-9f30-a61c7d2b8e03",
+			"5c9f13a7-4b21-4e8d-9f30-a61c7d2b8e04",
+			"5c9f13a7-4b21-4e8d-9f30-a61c7d2b8e05"
+		]
+	},
+	"db89ffd3-1dc7-4cd6-a4db-f29c77532173": {},
+	"40221ba0-21d2-4441-a68e-76339139f666": {
+		"$CONTENT_40221ba0-21d2-4441-a68e-76339139f666/Tools/Database/ToolSets/example.toolset": [],
+		"$CONTENT_40221ba0-21d2-4441-a68e-76339139f666/Tools/Database/ToolSets/nahg_darknight.toolset": [
+			"a9c4e2b1-7d55-4f08-9e3a-61b0c8d4f2a7"
 		]
 	}
 }

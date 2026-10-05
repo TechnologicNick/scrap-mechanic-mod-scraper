@@ -1620,5 +1620,16 @@
 		"$CONTENT_4296ef38-d4a7-4705-a14f-1ae156b54aae/ScriptableObjects/ScriptableObjectSets/scrap_expanded_runner_spawn_bridge.sobset": [
 			"a870fd33-b8f0-4678-8d5f-0d8fa9b4dcc4"
 		]
+	},
+	"40221ba0-21d2-4441-a68e-76339139f666": {
+		"$CONTENT_40221ba0-21d2-4441-a68e-76339139f666/ScriptableObjects/ScriptableObjectSets/example.sobset": [
+			"46e23051-c20b-4929-9df1-7f4f838a3802",
+			"54563daa-dd25-4f43-9e49-7e58bd59f66a",
+			"635b5d17-fa35-4591-82ec-358da595bac0",
+			"8504131e-8f58-4d25-beab-3bc996b7a95e",
+			"b87ed2da-397b-40cd-8d82-1c26e7e6ddbf",
+			"23823517-1fca-49a4-81ca-3822d2c9bd28",
+			"cd61bf99-2669-4961-8f8c-d09dadb65091"
+		]
 	}
 }
