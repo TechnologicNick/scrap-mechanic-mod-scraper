@@ -8534,6 +8534,10 @@
 		"$CONTENT_40221ba0-21d2-4441-a68e-76339139f666/Tools/Database/ToolSets/example.toolset": [],
 		"$CONTENT_40221ba0-21d2-4441-a68e-76339139f666/Tools/Database/ToolSets/nahg_darknight.toolset": [
 			"a9c4e2b1-7d55-4f08-9e3a-61b0c8d4f2a7"
+		],
+		"$CONTENT_40221ba0-21d2-4441-a68e-76339139f666/Tools/Database/ToolSets/nahg_glowstick.toolset": [
+			"9506abb9-e415-4229-a824-28a479cca788"
 		]
-	}
+	},
+	"1cf6b84a-2918-4819-aa08-c67763487118": {}
 }

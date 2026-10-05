@@ -127704,6 +127704,8 @@
 			"6886e8ef-e3d0-4b08-963b-0138c8ff1034",
 			"23c6246f-7c40-4705-8203-b63b2fbe32c6",
 			"d2dbd52f-634a-418d-8a92-464e98dec9fc",
+			"a93ef7d1-1cc7-4cc4-8083-8f617a5150b4",
+			"455301d0-27ff-4730-b683-c187ea2972fe",
 			"e5a2c88e-9a64-4057-afc0-4314ce4f60c8",
 			"a6e1784a-dac2-4554-af06-e07042ebf5ef",
 			"825d1c9d-2c3c-4ddb-ba05-1de657e480a0",
@@ -148638,8 +148640,6 @@
 	},
 	"3a9e1309-731d-43de-b6e0-c5f0ab32470a": {
 		"$CONTENT_3a9e1309-731d-43de-b6e0-c5f0ab32470a/Objects/Database/ShapeSets/parts.shapeset": [
-			"4ddc0730-dffc-49b0-b833-fbd94f764ec4",
-			"f1850c6c-d94f-4025-b6fb-345693a171ad",
 			"c9376285-5391-4c2d-b84a-a15b827a8d85",
 			"9d8c9384-0ba7-4429-baa3-960aaf8fd1e3",
 			"76a83e23-d7e0-4b9b-8d77-141c13d29e72",
@@ -183422,7 +183422,11 @@
 		"$CONTENT_40221ba0-21d2-4441-a68e-76339139f666/Objects/Database/ShapeSets/roomgen.shapeset": [
 			"1e8d7ced-57da-49a2-9d6c-b7c1435eacce",
 			"995c4aa6-7be0-444f-9793-aecb4570c4e4",
+			"02957fa5-ee71-4d62-94a1-427c6c65da96",
 			"e49af452-a354-44f1-a0dd-37a12432f24d"
 		]
+	},
+	"1cf6b84a-2918-4819-aa08-c67763487118": {
+		"$CONTENT_1cf6b84a-2918-4819-aa08-c67763487118/Objects/Database/ShapeSets/example.shapeset": []
 	}
 }

@@ -51673,7 +51673,7 @@
 	"cb8729f7-32ec-47a0-b907-73e705c0ee04": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]Survival but... with COMMANDS![/h1]\r\n\r\n[h2]Features[/h2]\r\n[list]\r\n[*]Russian / English language support\r\n[*]Cheat commands\r\n[*]Administration system\r\n[/list]\r\n\r\n[hr][/hr]\r\n[h2]Commands[/h2]\r\n[h3]Admin only[/h3]\r\n/creativeinv - Toggles creative inventory (affects all players)\r\n/restrictions - Toggles restrictions (affects all players)\r\n/noaggro - Toggles bot aggro (affects all players)\r\n\r\n/fly - Toggles fly-mode\r\n/godmode - Toggles invincibility\r\n/setadmin (player id) (true for make admin) - gives admin right to player\r\n[h3]All players[/h3]\r\n/playerlist - list of current playing players",
+		"description": "[h1]Survival but... with COMMANDS![/h1]\r\nSurvival, but with cheat commands!\r\n\r\nPlease leave your ideas and bug reports in the comments!\r\n\r\n[h2]Features[/h2]\r\n[list]\r\n[*]Russian / English language support\r\n[*]Cheat commands\r\n[*]Administration system\r\n[/list]\r\n\r\n[hr][/hr]\r\n\r\n[h2]Commands[/h2]\r\n\r\n[h3]Admin only[/h3]\r\n/creativeinv - Toggles the creative inventory for all players\r\n/restrictions - Toggles restrictions for all players\r\n/noaggro - Toggles bot aggro for all players\r\n\r\n/fly - Toggles fly mode\r\n/godmode - Toggles invincibility\r\n/setadmin (player id) (true/false) - Grants or revokes admin privileges for a player\r\n\r\n[h3]All players[/h3]\r\n/playerlist - Lists all currently playing players\r\n",
 		"fileId": 3801761169,
 		"localId": "cb8729f7-32ec-47a0-b907-73e705c0ee04",
 		"name": "Survival with commands",
@@ -51760,11 +51760,22 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "Don't worry. This not a Horror Game. Scrap mechanic was never meant to be a horror game.Note: This is currently in Beta, so it's mostly incomplete.Credit: I used the Completely Dark Night Mod by Warface so that it would be darker.",
+		"description": "Don't worry. This not a Horror Game. Scrap mechanic was never meant to be a horror game.\r\n\r\nNote: This is currently in Beta, so it's mostly incomplete (duh.)\r\n\r\nCredit: I used the Completely Dark Night Mod by Warface so that it would be darker.\r\n\r\nTags: Backrooms, Horror, Scary",
 		"fileId": 3813395648,
 		"localId": "40221ba0-21d2-4441-a68e-76339139f666",
 		"name": "Not a Horror Game",
 		"type": "Custom Game",
 		"version": 1
+	},
+	"1cf6b84a-2918-4819-aa08-c67763487118": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": null,
+		"description": "this is setka 1.0",
+		"fileId": 3814221094,
+		"localId": "1cf6b84a-2918-4819-aa08-c67763487118",
+		"name": "BLOCKS AND PARTS",
+		"type": "Blocks and Parts",
+		"version": 2
 	}
 }
