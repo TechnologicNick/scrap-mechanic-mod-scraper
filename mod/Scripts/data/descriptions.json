@@ -46729,7 +46729,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "load",
+		"description": "дщфв",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -51689,7 +51689,7 @@
 				"name": "railmaker_zav"
 			}
 		],
-		"description": "Инструмент для строительства рельсов.\r\nЛКМ: Построить\r\nПКМ: Удалить\r\n[F]: Соединить две рельсы плавной кривой\r\n[Q]: ВКЛ/ВЫКЛ привязку к сетке блоков\r\n[R]: Открыть меню настройки (угол, крен, количество)\r\n\r\nRail building tool.\r\nLMB: Build\r\nRMB: Remove\r\n[F]: Connect two rails with a smooth curve\r\n[Q]: Toggle grid snap\r\n[R]: Open settings menu (pitch, yaw, roll, count)\r\n\r\nAI used",
+		"description": "Инструмент для строительства рельсов.ЛКМ: ПостроитьПКМ: Удалить[F]: Соединить две рельсы плавной кривой[Q]: ВКЛ/ВЫКЛ привязку к сетке блоков[R]: Открыть меню настройки (угол, крен, количество)Rail building tool.LMB: BuildRMB: Remove[F]: Connect two rails with a smooth curve[Q]: Toggle grid snap[R]: Open settings menu (pitch, yaw, roll, count)Turnouts have been added to 7uAI used",
 		"fileId": 3811266281,
 		"localId": "b2b2c568-4247-483f-8b7c-cce6795481bf",
 		"name": "RailPlotter",
