@@ -51689,7 +51689,7 @@
 				"name": "railmaker_zav"
 			}
 		],
-		"description": "Инструмент для строительства рельсов.ЛКМ: ПостроитьПКМ: Удалить[F]: Соединить две рельсы плавной кривой[Q]: ВКЛ/ВЫКЛ привязку к сетке блоков[R]: Открыть меню настройки (угол, крен, количество)Rail building tool.LMB: BuildRMB: Remove[F]: Connect two rails with a smooth curve[Q]: Toggle grid snap[R]: Open settings menu (pitch, yaw, roll, count)\r\n\r\nTurnouts have been added to 7u\r\n\r\nAI used",
+		"description": "Инструмент для строительства рельсов.ЛКМ: ПостроитьПКМ: Удалить[F]: Соединить две рельсы плавной кривой[Q]: ВКЛ/ВЫКЛ привязку к сетке блоков[R]: Открыть меню настройки (угол, крен, количество)Rail building tool.LMB: BuildRMB: Remove[F]: Connect two rails with a smooth curve[Q]: Toggle grid snap[R]: Open settings menu (pitch, yaw, roll, count)\r\n\r\nTurnouts have been added to 7u\r\n\r\nfixed some bugs\r\n\r\nAI used",
 		"fileId": 3811266281,
 		"localId": "b2b2c568-4247-483f-8b7c-cce6795481bf",
 		"name": "RailPlotter",
