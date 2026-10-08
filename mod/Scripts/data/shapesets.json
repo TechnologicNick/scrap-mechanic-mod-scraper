@@ -183450,5 +183450,18 @@
 	},
 	"1cf6b84a-2918-4819-aa08-c67763487118": {
 		"$CONTENT_1cf6b84a-2918-4819-aa08-c67763487118/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"89764a77-3ec3-4482-b102-84f5b0a0b23a": {
+		"$CONTENT_89764a77-3ec3-4482-b102-84f5b0a0b23a/Objects/Database/ShapeSets/pipes_m3.shapeset": [
+			"f2e8cad0-d660-4108-9c43-ff1d5a23e709",
+			"fd543860-8b9c-4a30-b9a4-a32993f4c95a",
+			"ad15cecb-ce15-48d3-bc33-cfda35456bfa",
+			"04641219-7ae1-45e8-9c92-1767bc92daf1",
+			"0f062129-46eb-4b48-845c-b9b197a380c7",
+			"9be69d71-3e19-493f-abdb-d91b718c53ea",
+			"fa6c1371-6ebf-4a44-9ac2-1297627df6b4",
+			"48d85b1c-a4d2-464a-ae45-c009b45834c2",
+			"31e6b84a-3f1c-469e-ab41-7381ba6bb10b"
+		]
 	}
 }

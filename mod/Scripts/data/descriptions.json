@@ -51685,11 +51685,12 @@
 		"custom_icons": false,
 		"dependencies": [
 			{
+				"fileId": 3811267642,
 				"localId": "7afa0981-d354-42ca-bdaa-749a043e797e",
 				"name": "railmaker_zav"
 			}
 		],
-		"description": "Инструмент для строительства рельсов.ЛКМ: ПостроитьПКМ: Удалить[F]: Соединить две рельсы плавной кривой[Q]: ВКЛ/ВЫКЛ привязку к сетке блоков[R]: Открыть меню настройки (угол, крен, количество)Rail building tool.LMB: BuildRMB: Remove[F]: Connect two rails with a smooth curve[Q]: Toggle grid snap[R]: Open settings menu (pitch, yaw, roll, count)\r\n\r\nTurnouts have been added to 7u\r\n\r\nfixed some bugs\r\n\r\nAI used",
+		"description": "Инструмент для строительства рельсов.ЛКМ: ПостроитьПКМ: Удалить[F]: Соединить две рельсы плавной кривой[Q]: ВКЛ/ВЫКЛ привязку к сетке блоков[R]: Открыть меню настройки (угол, крен, количество)Rail building tool.LMB: BuildRMB: Remove[F]: Connect two rails with a smooth curve[Q]: Toggle grid snap[R]: Open settings menu (pitch, yaw, roll, count)\r\n\r\nTurnouts have been added to 7u\r\n\r\nfixed some bugs\r\n\r\n\r\nAdded the ability to add embankments under rails\r\n\r\nexcept for forks\r\n\r\n\r\n\r\nAI used",
 		"fileId": 3811266281,
 		"localId": "b2b2c568-4247-483f-8b7c-cce6795481bf",
 		"name": "RailPlotter",
@@ -51775,6 +51776,16 @@
 		"fileId": 3814221094,
 		"localId": "1cf6b84a-2918-4819-aa08-c67763487118",
 		"name": "BLOCKS AND PARTS",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"89764a77-3ec3-4482-b102-84f5b0a0b23a": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Same an ordinary pipe, but made of Meta Blocks lvl3. WIP",
+		"fileId": 3815855255,
+		"localId": "89764a77-3ec3-4482-b102-84f5b0a0b23a",
+		"name": "Pipes Metal3",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
