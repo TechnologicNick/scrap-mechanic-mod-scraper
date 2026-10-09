@@ -51788,5 +51788,25 @@
 		"name": "Pipes Metal3",
 		"type": "Blocks and Parts",
 		"version": 2
+	},
+	"c1e9cb11-1f55-4cc7-b38c-367462f57b02": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Same an ordinary pipe, but made of Ice Blocks. Vanilla textures were used. They support coloring. WIP ",
+		"fileId": 3816288660,
+		"localId": "c1e9cb11-1f55-4cc7-b38c-367462f57b02",
+		"name": "Ice Rods",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"e34dafcf-c197-4fb9-968f-1d084e3b9941": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Tired of bulky, heavy containers for fuel, batteries, water, chemicals, and ammo? Introducing Mini Containers!They are lighter and—thanks to sub-atomic compression technology—retain the same capacity as the originals!But that’s not all; I’m also adding Mini Plasma Drills.Lighter and smaller, yet more powerful! Not just 3 or 4 upgrade levels, but a full 5 levels for a superior drilling experience.WARNING: I accept no responsibility for the misuse of these products. If you crush your fingers or burn your tongue because you were too curious to find out what the plasma drill's plasma tastes like, don't come complaining to me.",
+		"fileId": 3816344307,
+		"localId": "e34dafcf-c197-4fb9-968f-1d084e3b9941",
+		"name": "Smaller Containers and Plasmadrills",
+		"type": "Blocks and Parts",
+		"version": 2
 	}
 }
