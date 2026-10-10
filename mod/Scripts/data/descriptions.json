@@ -51808,5 +51808,26 @@
 		"name": "Smaller Containers and Plasmadrills",
 		"type": "Blocks and Parts",
 		"version": 2
+	},
+	"4776c6dd-8698-4ce7-8a55-cd803e9ab9e0": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This is NOT a game mod. Do not attempt to add it to your worlds as it may break them. All the files are in the objects folder. ",
+		"fileId": 3817179364,
+		"localId": "4776c6dd-8698-4ce7-8a55-cd803e9ab9e0",
+		"name": "Blueprint Calculator and KitBuilder V1",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"9db7c372-573b-4a42-8639-f147c6e4d501": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": null,
+		"description": "mod for best working flashlight 2026 made 100% by me. ZERO ai was used in this mod",
+		"fileId": 3817185465,
+		"localId": "9db7c372-573b-4a42-8639-f147c6e4d501",
+		"name": "shit flashlight mod",
+		"type": "Blocks and Parts",
+		"version": 2
 	}
 }
