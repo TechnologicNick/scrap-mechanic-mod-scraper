@@ -51237,7 +51237,7 @@
 	"1ba077a5-fa4f-49f9-b37d-370da995647b": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Fly a drone in true first person. Your mechanic stands at a transmitter on the ground while you fly from the drone's own camera - three aircraft, from a forgiving camera drone to a one-way kamikaze.",
+		"description": "FPV drones. Put a transmitter on the ground and fly a drone from its own camera. Comes with a DJI FPV, a Mavic 3 Cine and a PG-7 kamikaze drone.",
 		"fileId": 3803749604,
 		"localId": "1ba077a5-fa4f-49f9-b37d-370da995647b",
 		"name": "VSFPV PROJECT",
@@ -51801,8 +51801,8 @@
 	},
 	"e34dafcf-c197-4fb9-968f-1d084e3b9941": {
 		"allow_add_mods": true,
-		"custom_icons": true,
-		"description": "Tired of bulky, heavy containers for fuel, batteries, water, chemicals, and ammo? Introducing Mini Containers!They are lighter and—thanks to sub-atomic compression technology—retain the same capacity as the originals!But that’s not all; I’m also adding Mini Plasma Drills.Lighter and smaller, yet more powerful! Not just 3 or 4 upgrade levels, but a full 5 levels for a superior drilling experience.WARNING: I accept no responsibility for the misuse of these products. If you crush your fingers or burn your tongue because you were too curious to find out what the plasma drill's plasma tastes like, don't come complaining to me.",
+		"custom_icons": false,
+		"description": "Tired of bulky, heavy containers for fuel, batteries, water, chemicals, and ammo? Introducing Mini Containers!They are lighter and—thanks to sub-atomic compression technology—retain the same capacity as the originals!And that’s not all; I’m also adding Mini Plasma Drills.Lighter and smaller, yet more powerful! Not just 3 or 4 upgrade levels, but a full 5 levels for a superior drilling experience.WARNING: I accept no responsibility for the misuse of these products. If you crush your fingers or burn your tongue because you were too curious to find out what the plasma drill's plasma tastes like, don't come complaining to me._________________________________________________________________KNOWN ISSUE:- [none]",
 		"fileId": 3816344307,
 		"localId": "e34dafcf-c197-4fb9-968f-1d084e3b9941",
 		"name": "Smaller Containers and Plasmadrills",
