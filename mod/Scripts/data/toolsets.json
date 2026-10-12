@@ -7130,8 +7130,13 @@
 			"56d04a33-338a-4d28-8ed5-3a7136dd3f11",
 			"fc96b224-9e1f-47df-8b54-7de76cc10071",
 			"133fc082-669c-4ec4-a3db-5f39e7f1657d",
+			"c4ebce36-14d9-4e6e-bee2-a28bc30a204f",
+			"8dfedd8c-eaa9-4b9f-925d-46aaf981dde5",
+			"fdf8491c-0fc8-42ea-b100-2a791449753f",
+			"35f0795e-ea76-4776-8e10-667e95c8a133",
 			"d8239752-0c8d-47d7-968c-1df909554343",
 			"3d5e95f9-ded2-4360-bb97-21573661f7aa",
+			"473dc353-ce8a-4545-9bc3-979cebb981b2",
 			"b9d88905-81a4-40b7-ba75-2aafcdce72e1",
 			"474a5f8c-1635-43b5-8b49-1218c501d1fb",
 			"d1c2854f-bb5e-48d6-bd71-edaa2d4fa8fe",
@@ -8552,5 +8557,36 @@
 		]
 	},
 	"8ca0845d-4bc2-462b-9785-fd30573254ea": {},
-	"cc76b0a9-17bc-4e62-8c70-9637c5280614": {}
+	"cc76b0a9-17bc-4e62-8c70-9637c5280614": {},
+	"9fa481f0-36c2-4134-b6d0-798c14aac47c": {},
+	"3c9f5e62-8d1a-4b7e-9a35-6f2d0c4e8b71": {
+		"$CONTENT_3c9f5e62-8d1a-4b7e-9a35-6f2d0c4e8b71/Tools/Database/ToolSets/example.toolset": []
+	},
+	"4ddb1bc3-7497-4f5a-8a70-ebac6526cdea": {},
+	"10292b22-27dc-455e-86a5-597a7428d5ed": {
+		"$CONTENT_10292b22-27dc-455e-86a5-597a7428d5ed/Tools/Database/ToolSets/tools.json": [
+			"a52cc4ae-c3f6-4eb1-8f8f-4206b931e60b"
+		]
+	},
+	"64b59eb6-0f73-43bb-9c10-566370e23320": {},
+	"aa56a886-c215-4887-bc9e-aeecc4c4484c": {
+		"$CONTENT_aa56a886-c215-4887-bc9e-aeecc4c4484c/Tools/Database/ToolSets/tiberium.toolset": [
+			"b4e2d395-7c06-4e18-9f32-6d8b0c4e1a57",
+			"ce9d8597-4c53-4904-a7a5-e2b2a32b920f",
+			"b5f6c2f7-183a-4c7a-964d-f94eefec4aca",
+			"c3e7b190-5a24-4d8f-9b61-7e0c2a4d5f83",
+			"e4d70d8c-deb2-4762-97f4-b87f5bc41c5d",
+			"d4a7c3e9-1b58-4f26-8e70-6c9a2d4b8f13",
+			"f83b0e87-9b82-4577-855f-ca660fb701d1",
+			"21cc684c-d559-4b84-9850-8c32e32f437a",
+			"a9c4e2f1-6b3d-4e57-8f12-3d7a5c9e0b84",
+			"e5a1b7c3-2d48-4f60-9b13-7c8d5e2f9a04",
+			"070bbd72-8a2c-45ed-81e8-9c4943647ae3",
+			"67b0b09f-457b-4577-b5cf-8d623ba0f5eb",
+			"d7f1a3b5-8c2e-4f60-9a31-5b8d0e2f4a71",
+			"c5f3a4e6-8d17-4f29-a043-7e9c1d5f2b68",
+			"c9d0e1f2-3a4b-4c5d-9e6f-8a9b0c1d2e3f"
+		]
+	},
+	"8f639df6-0f16-4bc9-9585-2f4668e86811": {}
 }

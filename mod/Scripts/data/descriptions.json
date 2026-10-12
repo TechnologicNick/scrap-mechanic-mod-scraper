@@ -46729,7 +46729,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "load",
+		"description": "dsd",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -51802,7 +51802,7 @@
 	"e34dafcf-c197-4fb9-968f-1d084e3b9941": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Tired of bulky, heavy containers for fuel, batteries, water, chemicals, and ammo? Introducing Mini Containers!They are lighter and—thanks to sub-atomic compression technology—retain the same capacity as the originals!And that’s not all; I’m also adding Mini Plasma Drills.Lighter and smaller, yet more powerful! Not just 3 or 4 upgrade levels, but a full 5 levels for a superior drilling experience.WARNING: I accept no responsibility for the misuse of these products. If you crush your fingers or burn your tongue because you were too curious to find out what the plasma drill's plasma tastes like, don't come complaining to me._________________________________________________________________KNOWN ISSUE:- [none]",
+		"description": "Tired of bulky, heavy containers for fuel, batteries, water, chemicals, and ammo? Introducing Mini Containers!They are lighter and, thanks to sub-atomic compression technology, retain the same capacity as the originals!\r\n\r\nAnd that’s not all; I’m also adding Mini Plasma Drills.\r\nLighter and smaller, yet more powerful! Not just 3 or 4 upgrade levels, but a full 5 levels for a superior drilling experience.\r\n\r\nWARNING: I accept no responsibility for the misuse of these products. If you crush your fingers or burn your tongue because you were too curious to find out what the plasma drill's plasma tastes like, don't come complaining to me.\r\n_________________________________________________________________\r\n\r\nKNOWN ISSUE:\r\n[none]",
 		"fileId": 3816344307,
 		"localId": "e34dafcf-c197-4fb9-968f-1d084e3b9941",
 		"name": "Smaller Containers and Plasmadrills",
@@ -51823,8 +51823,8 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "mod for best working flashlight 2026 made 100% by me. ZERO ai was used in this mod\r\n\r\nRELEASE: ver. 1.0 added the fleshlight\r\n\r\nUPDATE: ver. 1.4 added fixes, added changing tone with right click, added zooming with holding right click, added chaning lens size with Q and R\r\n\r\nnote: this mod is awful",
-		"fileId": 3817185465,
+		"description": "mod for best working flashlight 2026 made 100% by me. ZERO ai was used in this modRELEASE: ver. 1.0 added the fleshlightUPDATE: ver. 1.4 added fixes, added changing tone with right click, added zooming with holding right click, added chaning lens size with Q and Rnote: this mod is VERY GOOD",
+		"fileId": 3818594207,
 		"localId": "9db7c372-573b-4a42-8639-f147c6e4d501",
 		"name": "shit flashlight mod",
 		"type": "Blocks and Parts",
@@ -51856,6 +51856,80 @@
 		"name": "Violet Brain",
 		"supports": [
 			"1.0.6"
+		],
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"9fa481f0-36c2-4134-b6d0-798c14aac47c": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod doesn't have a description",
+		"fileId": 3816610284,
+		"localId": "9fa481f0-36c2-4134-b6d0-798c14aac47c",
+		"name": "draco malfoid mod",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"3c9f5e62-8d1a-4b7e-9a35-6f2d0c4e8b71": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"dependencies": [],
+		"description": "Pacific Scrap is a custom game that combines the core roguelike gameplay loop of the game Pacific Drive into Scrap Mechanic.\r\n\r\n[h1]Plan and Prepare[/h1]\r\nUse the Route Planner in your garage to plan out your journey, check for any conditions the junction has and set off when you are ready\r\n\r\n[h1]Explore the Zone[/h1]\r\nLoot and scavenge each junction, collect Energy Anchors along the way and be quick before the Zone collapses\r\n\r\n[h1]Escape the Zone[/h1]\r\nOpen up a Gateway with Energy Anchors to escape back home as fast as possible\r\n\r\n[h1]Upgrade and Research[/h1]\r\nUse the energy anchors collected to unlock different crafting recipes that will help you explore the Zone further\r\n\r\nPlease note that this is currently an alpha version, please report any issues you experience. Multiplayer has not been tested yet.\r\n\r\nAI disclosure: This custom game has been vibe coded using Claude AI. For more information look up the documentation in the mod folder.",
+		"fileId": 3817309637,
+		"localId": "3c9f5e62-8d1a-4b7e-9a35-6f2d0c4e8b71",
+		"name": "Pacific Scrap",
+		"type": "Custom Game",
+		"version": 1
+	},
+	"4ddb1bc3-7497-4f5a-8a70-ebac6526cdea": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Adds Hideout Trader schematics for 20 tools from 00Fant's mods (Fant Mod 3 collection) when playing Remastered Framework Survival (RFS).\r\n\r\nIn RFS these tools have Craftbot recipes but no way to unlock them, because the Part Unlock Station only accepts parts. This pack lists them in RFS's Hideout Trader as schematics (paid in Farmers), the same way Fant Mod 3 makes modded recipes unlockable at the trader.\r\n\r\nRequires: Remastered Framework Survival and ModDatabase. Only tools from mods that are enabled in the world show up.\r\nContains no assets from other mods, only a list of item ids and prices.",
+		"fileId": 3818417501,
+		"localId": "4ddb1bc3-7497-4f5a-8a70-ebac6526cdea",
+		"name": "RFS Fant Tool Schematics",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"10292b22-27dc-455e-86a5-597a7428d5ed": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "MY SECOND MAJOR MOD RELEASEwhat it does: it adds flyingwhat it does not do: it adds walkingZERO AI was used to make this mod, only real sweat and struggles inside the code",
+		"fileId": 3818475885,
+		"localId": "10292b22-27dc-455e-86a5-597a7428d5ed",
+		"name": "fly tool",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"64b59eb6-0f73-43bb-9c10-566370e23320": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Ingots from the survival mode mining hub in the creative mode inventory. Pretty simple.",
+		"fileId": 3818488453,
+		"localId": "64b59eb6-0f73-43bb-9c10-566370e23320",
+		"name": "Ingots in Creative Mode",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"aa56a886-c215-4887-bc9e-aeecc4c4484c": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "",
+		"fileId": 3818507002,
+		"localId": "aa56a886-c215-4887-bc9e-aeecc4c4484c",
+		"name": "Tiberian Sun",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"8f639df6-0f16-4bc9-9585-2f4668e86811": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Universal AI architecture for Scrap Mechanic creations: configurable personality, body profiles, ray-based eye sensors, bearing/piston modules, persistent per-world memory and optional shared mind through Gemini API bridge.",
+		"fileId": 3818576039,
+		"localId": "8f639df6-0f16-4bc9-9585-2f4668e86811",
+		"name": "RobotMind AI — Universal Robotics",
+		"supports": [
+			"0.7.3"
 		],
 		"type": "Blocks and Parts",
 		"version": 2
