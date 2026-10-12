@@ -183506,5 +183506,19 @@
 	},
 	"9db7c372-573b-4a42-8639-f147c6e4d501": {
 		"$CONTENT_9db7c372-573b-4a42-8639-f147c6e4d501/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"8ca0845d-4bc2-462b-9785-fd30573254ea": {
+		"$CONTENT_8ca0845d-4bc2-462b-9785-fd30573254ea/Objects/Database/ShapeSets/modblocks.shapeset": [
+			"1323a58b-1f3a-4199-9d8b-7a42796f4c9e"
+		]
+	},
+	"cc76b0a9-17bc-4e62-8c70-9637c5280614": {
+		"$CONTENT_cc76b0a9-17bc-4e62-8c70-9637c5280614/Objects/Database/ShapeSets/example.shapeset": [
+			"d5e60385-016e-43b5-9173-be5c69fc21c2",
+			"da6ee917-590b-42ea-a316-b3b13ea42e49",
+			"d00347a9-ec9d-44a1-86ef-fde69f4c50f1",
+			"80ba87e7-12c1-4b58-ad03-aeb439ac52e7",
+			"4e1a506d-158c-45d8-809f-fd9092811195"
+		]
 	}
 }
