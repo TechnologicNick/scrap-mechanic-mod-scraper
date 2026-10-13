@@ -46729,7 +46729,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "dsd",
+		"description": "фвы",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -51792,10 +51792,10 @@
 	"c1e9cb11-1f55-4cc7-b38c-367462f57b02": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Same an ordinary pipe, but made of Ice Blocks. Vanilla textures were used. They support coloring. WIP ",
+		"description": "Same an ordinary pipe, but made of Ice Blocks. \r\nVanilla textures were used. They support coloring. \r\nWIP",
 		"fileId": 3816288660,
 		"localId": "c1e9cb11-1f55-4cc7-b38c-367462f57b02",
-		"name": "Ice Rods",
+		"name": "Ice Parts",
 		"type": "Blocks and Parts",
 		"version": 2
 	},
@@ -51914,7 +51914,7 @@
 	"aa56a886-c215-4887-bc9e-aeecc4c4484c": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "",
+		"description": "[h1]A mysterious meteorite has landed here[/h1]No one knows where it came fromOnly a patch of green crystals —It grows, it spreads, it turns everything it touches into itself[h1]What it can do[/h1][*]Place crystal clusters and summon meteorites freely in Creative Mode, and watch them spread on their own[*]Construct Tiberium machinery to regulate Tiberium in Survival Mode[*]Equip protective gear to venture deep into radiation zones: mask, hazmat suit, power armor[*]Several formidable weapons have been added, capable of destroying that bothersome Seekerbot[*]Deploy sonic fences to contain the spread, use sensors to locate ore fields, and refer to the handbook for full information[h1]But you must be careful[/h1][*]It assimilates — trees, rocks. Anything it touches will ultimately become a part of it[*]It seeps into creatures’ bones and bloodstream, tiberium-mutating them step by step until death[*]It can initiate chain explosions under certain conditions, detonating one after another[*]It will transform the entire landscape into nothing but itself[*]A meteorite will impact every three in-game days[b]The Day of Tiberium is about to rise[/b][h1]In-game Commands[/h1][b]/tiberium help[/b] — List all commands and current status[b]/tiberium growth on | off[/b] — Whether new ore spawns as seedlings or directly mature[b]/tiberium spread on | off[/b] — Allow ore veins to spread automatically or not[b]/tiberium radius <meters> | off[/b] — Spread radius[b]/tiberium cap <number> | off[/b] — Global maximum count[b]/tiberium blast on | off[/b] — Chain explosion toggle[b]/tiberium blight on | off[/b] — Corrosion toggle[b]/tiberium clear -a[/b] — Clear all Tiberium in the world[b]/tiberium stations [now][/b] — Check meteorite site status, or trigger one immediately[b]/tiberium seeker <days> | off[/b] — Seekerbot respawn interval[b]/tick 1-100[/b] — Growth multiplier[b]/LV 0-10[/b] — Radiation zone toggle and keystroke interference intensity[b]One vision, one purpose.[/b][quote]This work is a lov",
 		"fileId": 3818507002,
 		"localId": "aa56a886-c215-4887-bc9e-aeecc4c4484c",
 		"name": "Tiberian Sun",
