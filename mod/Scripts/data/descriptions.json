@@ -15274,7 +15274,7 @@
 		"localId": "f6faf7cd-f761-40cb-b2ec-bc879307bfb1",
 		"name": "Creative Survival",
 		"type": "Custom Game",
-		"version": 0
+		"version": 1
 	},
 	"24669f86-6fda-4deb-8d96-2b741249d3eb": {
 		"allow_add_mods": true,
@@ -51802,7 +51802,7 @@
 	"e34dafcf-c197-4fb9-968f-1d084e3b9941": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "Tired of bulky, heavy containers for fuel, batteries, water, chemicals, and ammo? Introducing Mini Containers!They are lighter and, thanks to sub-atomic compression technology, retain the same capacity as the originals!\r\n\r\nAnd that’s not all; I’m also adding Mini Plasma Drills.\r\nLighter and smaller, yet more powerful! Not just 3 or 4 upgrade levels, but a full 5 levels for a superior drilling experience.\r\n\r\nWARNING: I accept no responsibility for the misuse of these products. If you crush your fingers or burn your tongue because you were too curious to find out what the plasma drill's plasma tastes like, don't come complaining to me.\r\n_________________________________________________________________\r\n\r\nKNOWN ISSUE:\r\n[none]",
+		"description": "Version: 2.1.0\r\n\r\nTired of bulky, heavy containers for fuel, batteries, water, chemicals, and ammo? Introducing Mini Containers!They are lighter and, thanks to sub-atomic compression technology, retain the same capacity as the originals!\r\n\r\nAnd that’s not all; I’m also adding Mini Plasma Drills.\r\nLighter and smaller, yet more powerful! Not just 3 or 4 upgrade levels, but a full 5 levels for a superior drilling experience.\r\n\r\nI’m also adding the Mini Chest and the XXXL Mini Chest:\r\n- Mini Chest: Thanks to the Atomic Compressor, this small unit can store up to 90 item slots while    occupying only 1 SMu³ (1x1x1). It is not compatible with vacuum tubes.\r\n\r\n- XXXL Mini Chest: Three times larger than the Mini Chest—but don't worry, this allows the XXXL Mini Chest to be compatible with vacuum tubes and store up to 270 item slots; it is also more durable and slightly heavier than the Mini Chest. Vacuum tubes can be connected to any side of    this chest.\r\n\r\nOnce activated, the chests will collect all gatherable items within a 60 SMu radius.\r\n\r\nWARNING: I accept no responsibility for the misuse of these products. If you crush your fingers or burn your tongue because you were too curious to find out what the plasma drill's plasma tastes like, don't come complaining to me.\r\n_________________________________________________________________\r\n\r\nKNOWN ISSUE:\r\n[none]",
 		"fileId": 3816344307,
 		"localId": "e34dafcf-c197-4fb9-968f-1d084e3b9941",
 		"name": "Smaller Containers and Plasmadrills",
