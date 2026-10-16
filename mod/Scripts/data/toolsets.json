@@ -8590,5 +8590,8 @@
 			"c9d0e1f2-3a4b-4c5d-9e6f-8a9b0c1d2e3f"
 		]
 	},
-	"8f639df6-0f16-4bc9-9585-2f4668e86811": {}
+	"8f639df6-0f16-4bc9-9585-2f4668e86811": {},
+	"98c3572c-18a2-4cda-8548-30582ed28aed": {
+		"$CONTENT_98c3572c-18a2-4cda-8548-30582ed28aed/Tools/Database/ToolSets/example.toolset": []
+	}
 }
