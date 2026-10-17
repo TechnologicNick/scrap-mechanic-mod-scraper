@@ -1625,11 +1625,15 @@
 		"$CONTENT_40221ba0-21d2-4441-a68e-76339139f666/ScriptableObjects/ScriptableObjectSets/example.sobset": [
 			"46e23051-c20b-4929-9df1-7f4f838a3802",
 			"54563daa-dd25-4f43-9e49-7e58bd59f66a",
+			"6923f55c-ce1f-414b-bd1d-3c5c94f703ff",
 			"635b5d17-fa35-4591-82ec-358da595bac0",
 			"8504131e-8f58-4d25-beab-3bc996b7a95e",
 			"b87ed2da-397b-40cd-8d82-1c26e7e6ddbf",
 			"23823517-1fca-49a4-81ca-3822d2c9bd28",
-			"cd61bf99-2669-4961-8f8c-d09dadb65091"
+			"cd61bf99-2669-4961-8f8c-d09dadb65091",
+			"f6b1b408-a893-4c3d-b482-0daecda6e0f9",
+			"3d0b7a61-5c2e-4f8a-9b14-6e2f0c9a7d55",
+			"8c720459-948b-4e8e-9ea4-a5eab2c3d05c"
 		]
 	},
 	"3c9f5e62-8d1a-4b7e-9a35-6f2d0c4e8b71": {
@@ -1653,5 +1657,8 @@
 	},
 	"98c3572c-18a2-4cda-8548-30582ed28aed": {
 		"$CONTENT_98c3572c-18a2-4cda-8548-30582ed28aed/ScriptableObjects/ScriptableObjectSets/example.sobset": []
+	},
+	"78ac8b34-8396-477a-9059-8a62fa5b30f3": {
+		"$CONTENT_78ac8b34-8396-477a-9059-8a62fa5b30f3/ScriptableObjects/ScriptableObjectSets/example.sobset": []
 	}
 }

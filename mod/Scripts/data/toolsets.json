@@ -8593,5 +8593,16 @@
 	"8f639df6-0f16-4bc9-9585-2f4668e86811": {},
 	"98c3572c-18a2-4cda-8548-30582ed28aed": {
 		"$CONTENT_98c3572c-18a2-4cda-8548-30582ed28aed/Tools/Database/ToolSets/example.toolset": []
-	}
+	},
+	"d484134b-6375-45df-928f-967d9ef4d10d": {
+		"$CONTENT_d484134b-6375-45df-928f-967d9ef4d10d/Tools/Database/ToolSets/tools.toolset": [
+			"0cb7270d-20c0-40be-acc1-fb03493bab41"
+		]
+	},
+	"78ac8b34-8396-477a-9059-8a62fa5b30f3": {
+		"$CONTENT_78ac8b34-8396-477a-9059-8a62fa5b30f3/Tools/Database/ToolSets/example.toolset": [
+			"2cd7e435-63e5-49ed-a0d2-450ecb9e779e"
+		]
+	},
+	"1495574a-a817-44fb-94d8-73c2e3a5ad93": {}
 }
