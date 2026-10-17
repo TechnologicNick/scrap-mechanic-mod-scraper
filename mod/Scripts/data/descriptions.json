@@ -29832,7 +29832,7 @@
 		"localId": "6a2e9817-686e-4373-8c32-4d4b9add6549",
 		"name": "The Mod (support)",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"667b4c22-cc1a-4a2b-bee8-66a6c748d40e": {
 		"allow_add_mods": true,
@@ -32854,9 +32854,9 @@
 		"description": "[Eng]\nthis mod adds speakers, turntables and records.\nbetterAPI game extensions are required for the mod to work.\nthe mod supports crafting, but the plates are not crafting.\nplates in survival mode spawn in peace on earth.\nthe chance of finding a record is extremely small, on average one record will spawn once every 30 minutes. and the probability of finding it for the average player is ~ 10%. which means that you will receive approximately one record at 5 o'clock\n\n[Rus]\nданный мод добавляет колонки, проигрыватели и пластинки.\nдля работы мода требуется расширения игры betterAPI.\nмод поддерживает крафты, но пластинки не крафтиться.\nпластинки в режиме выживания спавняться в мире на земле.\nшанс найти пластинку крайне мал, в среднем одна пластинка спавнится раз в 30 минут. и вероятность ее найти для среднестатистического игрока равна ~10%. что означает что вы будете получать примерно одну пластинку в 5 часов\n\nthis mod is distributed under the \"unlicense\" license.\nmore information in the \"LICENSE\" file",
 		"fileId": 2948210047,
 		"localId": "9fd09c44-c46a-45b9-a7b9-da6f115989c0",
-		"name": "sound mod",
+		"name": "Sound mod",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"2b9e7f4c-2ec2-4795-9468-188b0af0fdce": {
 		"allow_add_mods": true,
@@ -32900,7 +32900,7 @@
 	},
 	"3aeb81c2-71b9-45a1-9479-1f48f1e8ff21": {
 		"allow_add_mods": true,
-		"custom_icons": true,
+		"custom_icons": false,
 		"description": "this fork of ScriptableComputer\nfork creation was approved by the authors of the mod\nfor the mod to work correctly, there SHOULD BE NO \"ScriptableComputer\" and/or \"SCI\" in the world\nthis mod DOES NOT VIOLATE anyone's licenses, the author of the original does not mind that I am doing a fork\nthis mod DOES NOT CONTAIN SCI and ScrapComputers code and partial compatibility is implemented using a layer\n\n[url=https://igorkll.github.io/SComputers] DOCUMENTATION [/url]\n[url=https://discord.gg/uJrsmUjaMG] DISCORD SERVER [/url]\n\nadvantages of SComputers compared to any other computer mods:\n[list]\n  [*] bug fixes (critical filesystem bugs, bugs causing lags, bugs breaking code, and many other extremely unpleasant bugs have been fixed in SComputers)\n  [*] compatibility (this mod is fully compatible with the original and with SCI and may also be compatible with other mods in the future)\n  [*] responsive support (you can always write a comment to the mod and I will answer it, you can also write to me in the discord \"smlogic\")\n  [*] optimization (displays in SComputers almost do not cause lags)\n  [*] the presence of require and built-in libraries (image, midi, vdisplay, base64, utf8, ramfs, etc)\n  [*] code examples (code examples in mod will help you figure it out a bit)\n  [*] security (from SComputers it is much more difficult to cause bugsplat, game freezes, lags)\n  [*] availability of new components\n  [*] regular updates (about every month)\n  [*] support for crafting recipes\n  [*] radars are seen a robots/wocs/worms\n  [*] ability to use betterAPI to load code\n  [*] the mod has its own API for creating addons, which is described in the documentation\n  [*] fast luaVM - FiOne_lua\n[/list]\n\ntags: computer, computers, lua",
 		"fileId": 2949350596,
 		"localId": "3aeb81c2-71b9-45a1-9479-1f48f1e8ff21",
@@ -33104,7 +33104,7 @@
 		"localId": "6bc49594-9348-4970-871e-4b3fb98feb56",
 		"name": "Advanced Challenge Parts",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"ac5b6a73-4e82-4ed7-8aa3-4ac755691cf7": {
 		"allow_add_mods": true,
@@ -42947,7 +42947,7 @@
 		"localId": "23cd6e89-f0f4-4121-988a-e0208f343a21",
 		"name": "brainf_ck language [SComputers addon]",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"08fab1d5-e4b2-4d15-940d-2a311c36ca41": {
 		"allow_add_mods": true,
@@ -51971,6 +51971,16 @@
 		"fileId": 3820873101,
 		"localId": "1495574a-a817-44fb-94d8-73c2e3a5ad93",
 		"name": "The Russifier 1.0.5",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"898060a5-e07e-402e-8da7-2ed4053ceeab": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "[Eng]\nthis mod adds speakers, turntables and records.\nbetterAPI game extensions are required for the mod to work.\nthe mod supports crafting, but the plates are not crafting.\nplates in survival mode spawn in peace on earth.\nthe chance of finding a record is extremely small, on average one record will spawn once every 30 minutes. and the probability of finding it for the average player is ~ 10%. which means that you will receive approximately one record at 5 o'clock\n\n[Rus]\nданный мод добавляет колонки, проигрыватели и пластинки.\nдля работы мода требуется расширения игры betterAPI.\nмод поддерживает крафты, но пластинки не крафтиться.\nпластинки в режиме выживания спавняться в мире на земле.\nшанс найти пластинку крайне мал, в среднем одна пластинка спавнится раз в 30 минут. и вероятность ее найти для среднестатистического игрока равна ~10%. что означает что вы будете получать примерно одну пластинку в 5 часов\n\nthis mod is distributed under the \"unlicense\" license.\nmore information in the \"LICENSE\" file",
+		"fileId": 3821415001,
+		"localId": "898060a5-e07e-402e-8da7-2ed4053ceeab",
+		"name": "Sound mod [Without disk spawn]",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
