@@ -8613,5 +8613,12 @@
 		"$CONTENT_898060a5-e07e-402e-8da7-2ed4053ceeab/Tools/Database/ToolSets/thetools.toolset": [
 			"e4cce64f-6666-4780-8be3-bbe504f9f16b"
 		]
-	}
+	},
+	"e7ba1b38-1174-49ae-9130-553bfd27eb6b": {},
+	"68d98038-65e5-4473-bca0-de4d02a0998a": {
+		"$CONTENT_68d98038-65e5-4473-bca0-de4d02a0998a/Tools/Database/ToolSets/tapemeasure.toolset": [
+			"a99a4eff-a117-4e2c-93b6-5b7869837f98"
+		]
+	},
+	"aedfa931-1958-4663-81c6-3be63a617a77": {}
 }

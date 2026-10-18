@@ -47330,7 +47330,7 @@
 		"localId": "6a169e71-6733-40dc-90d9-bd916526a2aa",
 		"name": "Alternative respawn point",
 		"type": "Blocks and Parts",
-		"version": 1.1
+		"version": 2
 	},
 	"6b12813e-c905-49aa-b058-86025be95ba6": {
 		"allow_add_mods": true,
@@ -51914,7 +51914,7 @@
 	"aa56a886-c215-4887-bc9e-aeecc4c4484c": {
 		"allow_add_mods": true,
 		"custom_icons": true,
-		"description": "[h1]A mysterious meteorite has landed here[/h1]No one knows where it came fromOnly a patch of green crystals —It grows, it spreads, it turns everything it touches into itself[h1]What it can do[/h1][*]Place crystal clusters and summon meteorites freely in Creative Mode, and watch them spread on their own[*]Construct Tiberium machinery to regulate Tiberium in Survival Mode[*]Equip protective gear to venture deep into radiation zones: mask, hazmat suit, power armor[*]Several formidable weapons have been added, capable of destroying that bothersome Seekerbot[*]Deploy sonic fences to contain the spread, use sensors to locate ore fields, and refer to the handbook for full information[h1]But you must be careful[/h1][*]It assimilates — trees, rocks. Anything it touches will ultimately become a part of it[*]It seeps into creatures’ bones and bloodstream, tiberium-mutating them step by step until death[*]It can initiate chain explosions under certain conditions, detonating one after another[*]It will transform the entire landscape into nothing but itself[*]A meteorite will impact every three in-game days[b]The Day of Tiberium is about to rise[/b][h1]In-game Commands[/h1][b]/tiberium help[/b] — List all commands and current status[b]/tiberium growth on | off[/b] — Whether new ore spawns as seedlings or directly mature[b]/tiberium spread on | off[/b] — Allow ore veins to spread automatically or not[b]/tiberium radius <meters> | off[/b] — Spread radius[b]/tiberium cap <number> | off[/b] — Global maximum count[b]/tiberium blast on | off[/b] — Chain explosion toggle[b]/tiberium blight on | off[/b] — Corrosion toggle[b]/tiberium clear -a[/b] — Clear all Tiberium in the world[b]/tiberium stations [now][/b] — Check meteorite site status, or trigger one immediately[b]/tiberium seeker <days> | off[/b] — Seekerbot respawn interval[b]/tick 1-100[/b] — Growth multiplier[b]/LV 0-10[/b] — Radiation zone toggle and keystroke interference intensity[b]One vision, one purpose.[/b][quote]This work is a love ",
+		"description": "[h1]一颗神秘的陨石降落于此[/h1]\r\n没有人知道它从何而来\r\n只有一片绿色晶体——\r\n它生长，它蔓延，它把触碰的一切变成自己\r\n\r\n[h1]它能做什么[/h1]\r\n[*]在创造模式随意摆放晶簇、召唤陨石，看它自己长开\r\n[*]在生存模式制造泰伯利亚机器治理泰伯利亚\r\n[*]穿戴防具深入辐射区：面罩、防化服、动力甲\r\n[*]添加数把强大的武器，这些武器可以击毁那只烦人的搜寻者机器人\r\n[*]用声波围栏阻断蔓延，用感应器搜寻矿田，用手册了解一切\r\n\r\n[h1]但你要注意[/h1]\r\n[*]它会同化——树木、岩石，只要被它触碰，终将成为它的一部分\r\n[*]它会钻进生物的骨血，让它们泰化，一步一步，走向死亡\r\n[*]它会在某些时刻链式爆炸，此起彼伏\r\n[*]它会让整片土地只剩下它\r\n[*]每隔三个游戏日，会有一颗陨石降临\r\n[b]泰伯利亚之日即将升起[/b]\r\n\r\n[h1]游戏内指令[/h1]\r\n[b]/tiberium help[/b] — 列出全部指令与当前状态\r\n[b]/tiberium growth on | off[/b] — 新矿是幼苗还是直接成熟\r\n[b]/tiberium spread on | off[/b] — 是否允许矿脉自行蔓延\r\n[b]/tiberium radius <米> | off[/b] — 蔓延半径\r\n[b]/tiberium cap <数字> | off[/b] — 全场株数上限\r\n[b]/tiberium blast on | off[/b] — 殉爆开关\r\n[b]/tiberium blight on | off[/b] — 侵蚀开关\r\n[b]/tiberium clear -a[/b] — 清除全场泰伯利亚\r\n[b]/tiberium stations [now][/b] — 查看据点陨石状态，或立即触发一颗\r\n[b]/tiberium seeker <天数> | off[/b] — 搜寻者机器人复活间隔\r\n[b]/tick 1-100[/b] — 生长倍速\r\n[b]/LV 0-10[/b] — 辐射区开关与键位干扰强度\r\n[b]同一愿景，同一目标。[/b]\r\n\r\n[quote]本作是一封献给《命令与征服》系列的情书。\r\n[i]本 Mod 为玩家自制的非官方致敬作品，与 EA 及《命令与征服》系列版权方无任何关联。\r\n不使用任何原版素材，仅以原创资源表达敬意。[/i]\r\n[url=https://store.steampowered.com/bundle/39394/_/]《命令与征服》商店页面[/url]",
 		"fileId": 3818507002,
 		"localId": "aa56a886-c215-4887-bc9e-aeecc4c4484c",
 		"name": "Tiberian Sun",
@@ -51981,6 +51981,36 @@
 		"fileId": 3821415001,
 		"localId": "898060a5-e07e-402e-8da7-2ed4053ceeab",
 		"name": "Sound mod [Without disk spawn]",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"e7ba1b38-1174-49ae-9130-553bfd27eb6b": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Fly the FPV drone from its onboard camera with an analog USB radio. Includes a Windows controller bridge and calibration for the DJI FPV Remote Controller 3. Start FPV Controller.exe before flying. Creative / Blocks and Parts mod.",
+		"fileId": 3821630609,
+		"localId": "e7ba1b38-1174-49ae-9130-553bfd27eb6b",
+		"name": "FPV Mod",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"68d98038-65e5-4473-bca0-de4d02a0998a": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "[h1]Mechanic's Toolkit[/h1]\r\nParts and tools for Creative mode that the game is missing.\r\n[i]Русское описание ниже.[/i]\r\n\r\n[h2]Spawner Cube[/h2]\r\n[list]\r\n[*]Connect a button or any logic signal to the cube.\r\n[*]On each press it looks out of its lens and copies what it sees.\r\n[*]A separate creation is copied whole, a part of the cube's own build is copied alone.\r\n[*]Press E on the cube to change its range: 1, 2, 5, 10 or 20 m.\r\n[*]Blocks of the cube's own build are not copied yet.\r\n[/list]\r\n\r\n[h2]Spawn Pad[/h2]\r\n[list]\r\n[*]Wire the Spawner Cube to the pad.\r\n[*]Copies appear in the middle of the pad and stack on each other.\r\n[*]Press E on the pad to choose: Lay on top, or Glue (the part is attached to the pad).\r\n[*]Whole creations are always laid on top.\r\n[*]Without a pad the copy appears above the cube.\r\n[/list]\r\n\r\n[h2]Tape Measure[/h2]\r\n[list]\r\n[*]LMB sets the start cube, LMB again sets the end cube. Points snap to the block grid.\r\n[*]Length counts both end blocks: from block 1 to block 10 is 10 blocks, meters in brackets.\r\n[*]A ruler along one axis is green, a slanted one is yellow and shows its box size, like 10 x 3 x 4.\r\n[*]Place as many rulers as you like, each shows its length above it.\r\n[*]Aim at a cell of a ruler to see its number, like 5 of 10.\r\n[*]Aim at any block or part to see its size.\r\n[*]RMB on a ruler cube removes that ruler. Only you see your rulers, they are gone when you leave the world.\r\n[/list]\r\n\r\n[h2]Portal and Teleport Pad[/h2]\r\n[list]\r\n[*]Place a Portal block and a Teleport Pad and wire them together on the same build.\r\n[*]Press E on the Portal to set its ID and the ID to teleport to. A new Portal takes a free ID by itself.\r\n[*]Step onto the pad and you appear on the pad of the target Portal.\r\n[*]For the way back, set the other Portal's target to this one's ID. Step off the pad you arrived on and step on again.\r\n[*]Wire a lever or button into the Portal to switch it on and off.\r\n[*]Works for every player in the world.\r\n[/list]\r\n\r\n[h2]Notes[/h2]\r\n[list]\r\n[*]Made for Creative: the parts have no crafting recipes.\r\n[*]Uses models and textures from the game itself, nothing else to install.\r\n[/list]\r\n\r\n[hr][/hr]\r\n\r\n[h1]Набор механика[/h1]\r\nДетали и инструменты для творческого режима, которых не хватает в игре.\r\n\r\n[h2]Куб-копировщик[/h2]\r\n[list]\r\n[*]Подключите к кубу кнопку или любой логический сигнал.\r\n[*]При каждом нажатии куб смотрит из линзы и копирует то, что видит.\r\n[*]Отдельная постройка копируется целиком, деталь собственной постройки куба копируется одна.\r\n[*]Нажмите E на кубе, чтобы сменить дальность: 1, 2, 5, 10 или 20 м.\r\n[*]Блоки собственной постройки куба пока не копируются.\r\n[/list]\r\n\r\n[h2]Площадка спавна[/h2]\r\n[list]\r\n[*]Соедините куб-копировщик с площадкой проводом.\r\n[*]Копии появляются в центре площадки и ложатся друг на друга.\r\n[*]Нажмите E на площадке и выберите: «Положить» или «Приклеить» (деталь прикрепится к площадке).\r\n[*]Целые постройки всегда кладутся сверху.\r\n[*]Без площадки копия появляется над кубом.\r\n[/list]\r\n\r\n[h2]Рулетка[/h2]\r\n[list]\r\n[*]ЛКМ ставит куб начала, повторная ЛКМ ставит куб конца. Точки привязаны к сетке блоков.\r\n[*]Длина считается с обоими крайними блоками: от блока 1 до блока 10 будет 10 блоков, метры в скобках.\r\n[*]Линейка по одной оси зелёная, со сдвигом жёлтая и показывает размер коробки, например 10 x 3 x 4.\r\n[*]Линеек можно ставить сколько угодно, над каждой видна её длина.\r\n[*]Наведите куб на клетку линейки, чтобы увидеть её номер, например 5 из 10.\r\n[*]Наведите на любой блок или деталь, чтобы увидеть его размер.\r\n[*]ПКМ по кубу линейки удаляет её. Линейки видите только вы, при выходе из мира они исчезают.\r\n[/list]\r\n\r\n[h2]Портал и телепорт-площадка[/h2]\r\n[list]\r\n[*]Поставьте блок «Портал» и телепорт-площадку и соедините их проводом на одной постройке.\r\n[*]Нажмите E на портале и задайте его ID и ID портала назначения. Новый портал сам получает свободный ID.\r\n[*]Встаньте на площадку, и окажетесь на площадке портала назначения.\r\n[*]Для пути обратно укажите у второго портала ID первого. Сойдите с площадки прибытия и встаньте на неё снова.\r\n[*]Подключите к порталу рычаг или кнопку, чтобы включать и выключать его.\r\n[*]Работает для всех игроков в мире.\r\n[/list]\r\n\r\n[h2]Важно[/h2]\r\n[list]\r\n[*]Мод сделан для творческого режима: рецептов крафта у деталей нет.\r\n[*]Используются модели и текстуры самой игры, ничего дополнительно ставить не нужно.\r\n[/list]\r\n",
+		"fileId": 3821632055,
+		"localId": "68d98038-65e5-4473-bca0-de4d02a0998a",
+		"name": "Набор механика",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"aedfa931-1958-4663-81c6-3be63a617a77": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "Panels from the challenge mode, converted into SComputers displays.",
+		"fileId": 3821654759,
+		"localId": "aedfa931-1958-4663-81c6-3be63a617a77",
+		"name": "Challenge Displays [SComputers addon]",
 		"type": "Blocks and Parts",
 		"version": 2
 	}
