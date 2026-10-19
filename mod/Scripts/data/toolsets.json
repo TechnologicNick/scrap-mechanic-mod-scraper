@@ -7110,6 +7110,7 @@
 			"b73aaa9b-9d5d-4ab7-adea-35fb254069c6",
 			"de29d3a2-269b-4dd0-a1dd-136cc5f8f249",
 			"2dcceb67-0299-4ea7-a8d5-53f9736fbe3c",
+			"74997347-7663-4949-afae-13d99c33eecf",
 			"7bd4ce42-8412-43c0-a88d-0d1f89b683cc",
 			"e505668b-fb29-47f7-a716-30deffc854fc",
 			"017a61a9-b696-48b3-91e6-af699cfd6468",
@@ -8618,7 +8619,11 @@
 	"68d98038-65e5-4473-bca0-de4d02a0998a": {
 		"$CONTENT_68d98038-65e5-4473-bca0-de4d02a0998a/Tools/Database/ToolSets/tapemeasure.toolset": [
 			"a99a4eff-a117-4e2c-93b6-5b7869837f98"
+		],
+		"$CONTENT_68d98038-65e5-4473-bca0-de4d02a0998a/Tools/Database/ToolSets/mirror.toolset": [
+			"73c162a1-bd55-4c5b-bbf2-340d09fc4656"
 		]
 	},
-	"aedfa931-1958-4663-81c6-3be63a617a77": {}
+	"aedfa931-1958-4663-81c6-3be63a617a77": {},
+	"72d5b4a6-2ebe-4355-8771-1cea25d29325": {}
 }
