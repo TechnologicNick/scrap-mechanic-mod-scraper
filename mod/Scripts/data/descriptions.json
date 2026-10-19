@@ -44144,7 +44144,7 @@
 		"localId": "e9f688e9-49c4-4d1d-bd37-e14984875410",
 		"name": "More Disks [SComputers addon]",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"d18ecab6-3fa7-405d-a99a-9844d50198eb": {
 		"allow_add_mods": true,
@@ -44193,12 +44193,12 @@
 				"name": "SComputers [Fork]"
 			}
 		],
-		"description": "Adds more motors and creative motors variations",
+		"description": "Adds more motors and creative motors variations. Also have it's own new commands!\r\n\r\n[h2]Description of new commands:[/h2]\r\n\r\n[list]\r\n[*]motor.getBearingAngle(index:number):number\r\n[b]Returns the real angle at which the bearing at the specified index is currently positioned. Pass an index from 1 to motor.getBearingsCount(). Returns 0 if the index is invalid or the bearing does not exist.[/b]\r\n\r\n[*]motor.setBearingAngle(index:number, angle:number|nil)\r\n[b]Sets a specific angle for the bearing at the specified index. Pass an index from 1 to motor.getBearingsCount(). Pass nil to disable the angle binding for this bearing. The motor will attempt to rotate the bearing to the specified angle when active.[/b]\r\n\r\n[*]motor.getBearingVelocity(index:number):number\r\n[b]Returns the current angular velocity of the bearing at the specified index. Pass an index from 1 to motor.getBearingsCount(). Returns 0 if the index is invalid or the bearing does not exist.[/b]\r\n\r\n[*]motor.setBearingVelocity(index:number, velocity:number)\r\n[b]Sets the velocity for the bearing at the specified index. Pass an index from 1 to motor.getBearingsCount(). The motor will apply this velocity to the bearing when active, unless an angle is set.[/b]\r\n\r\n[*]motor.getBearingStrength(index:number):number\r\n[b]Returns the current applied strength (impulse) of the bearing at the specified index. Pass an index from 1 to motor.getBearingsCount(). Returns 0 if the index is invalid or the bearing does not exist.[/b]\r\n\r\n[*]motor.setBearingStrength(index:number, strength:number)\r\n[b]Sets the strength for the bearing at the specified index. Pass an index from 1 to motor.getBearingsCount(). The motor will apply this strength to the bearing when active.[/b]\r\n\r\n[*]motor.setBearingActive(index:number, active:boolean|number)\r\n[b]Activates or deactivates the bearing at the specified index. Pass an index from 1 to motor.getBearingsCount(). If active is a boolean, it directly sets the state (true for active, false for inactive). If active is a number, the bearing is active if active > 0, otherwise inactive. Inactive bearings do not rotate and receive zero velocity and strength.[/b]\r\n\r\n[*]motor.getBearingActive(index:number):boolean\r\n[b]Returns true if the bearing at the specified index is active, false otherwise. Pass an index from 1 to motor.getBearingsCount().[/b]\r\n[/list]\r\n\r\n[h3]Additional Notes[/h3]\r\n\r\n[list]\r\n[*][b]When the motor is deactivated (using setActive(false)), all bearing-specific settings (angle, velocity, strength, and active state) are cleared. Upon reactivation, all bearings are initialized as active by default.[/b]\r\n\r\n[*][b]Bearing-specific settings allow for individual control of each connected bearing, overriding the motor's global settings (setAngle, setVelocity, setStrength) for that bearing.[/b]\r\n\r\n[*][b]The motor's energy consumption is affected by the strength applied to active bearings, as reported by getChargeDelta.[/b]\r\n[/list]",
 		"fileId": 3527300061,
 		"localId": "c59d97d0-162c-4cc2-a65c-600292efbcfe",
 		"name": "More Motors [SComputers addon]",
 		"type": "Blocks and Parts",
-		"version": 1
+		"version": 2
 	},
 	"d650be8a-fefb-4315-8478-40866733fe98": {
 		"allow_add_mods": true,
@@ -46729,7 +46729,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "[h1]A Mod for Myself — and for You[/h1]If you have ideas for more cool stuff to add, drop them in the comments — or even better, in the discussions![h2]What's already in the mod:[/h2][list][*][b]FPV drone[/b] – fly it around structures for cinematic shots, or use it to strike! Gets taken down by a direct hit; ECM coming later.[*][b]Lead-computing homing magnet with seeker[/b] – magnetic lock with impact point prediction and a built-in seeker head.[*][b]Airborne radar[/b] – aircraft radar! Detects aerial targets and provides guidance for SARH missiles.[*][b]Custom IR/SARH missiles[/b] – easily turn your visuals into a dangerous missile with your own tuning.[*][b]Flares (decoy flares)[/b] – pop countermeasures to confuse heat-seeking missiles.[*][b]Missile contrail[/b] – visible vapor or smoke trail for all missiles.[*][b]Sensitivity-adjustable bomb[/b] – fine-tune the trigger threshold for controlled detonation.[*][b]Inertia blocks[/b] – add mass to your builds for more weighty, realistic handling.[*][b]Tunable wing[/b] – adjust lift and control surface response.[*][b]One block missiles[/b] – specialized ordnance for engaging aircraft and other targets.[*][b]HMS (Helmet-Mounted Sight) for missiles[/b] – the seeker tracks where you look.[*][b]Infinite floor[/b] – roam or drive far beyond map borders without falling through.[*][b]Mouse delta control[/b] – precise steering of your builds via mouse movement.[*][b]One-shot button[/b] – activates once and disappears immediately. Perfect for \"fire and forget\" actions.[*][b]Build camera[/b] – gives you a full view of your entire construction. Extremely handy for large aircraft and ships.[*][b]Laser-guided missile and bomb + targeting pod[/b] – scope out opponents from afar and deliver presents.[*][b]Enhanced logic gate with adjustable output signal[/b][*][b]Thruster with adjustable thrust, burn time, stability, and visual effects[/b][*][b]Buoyancy-tunable barrels[/b] – several variants with different durability; make ships that sink when damaged.",
+		"description": "ыв",
 		"fileId": 3664855539,
 		"localId": "9cc0fd70-8c87-4e5c-b574-b1d4ee6a6cc4",
 		"name": "Solid",
@@ -51673,7 +51673,7 @@
 	"cb8729f7-32ec-47a0-b907-73e705c0ee04": {
 		"allow_add_mods": true,
 		"custom_icons": false,
-		"description": "[h1]Survival but... with COMMANDS![/h1]\r\nSurvival, but with cheat commands!\r\n\r\nPlease leave your ideas and bug reports in the comments!\r\n\r\n[h2]Features[/h2]\r\n[list]\r\n[*]Russian / English language support\r\n[*]Cheat commands\r\n[*]Administration system\r\n[/list]\r\n\r\n[hr][/hr]\r\n\r\n[h2]Commands[/h2]\r\n\r\n[h3]Admin only[/h3]\r\n/creativeinv - Toggles the creative inventory for all players\r\n/restrictions - Toggles restrictions for all players\r\n/noaggro - Toggles bot aggro for all players\r\n\r\n/fly - Toggles fly mode\r\n/godmode - Toggles invincibility\r\n/setadmin (player id) (true/false) - Grants or revokes admin privileges for a player\r\n\r\n[h3]All players[/h3]\r\n/playerlist - Lists all currently playing players\r\n",
+		"description": "[h1]Survival but... with COMMANDS![/h1]\r\nSurvival, but with cheat commands!\r\n\r\nPlease leave your ideas and bug reports in the comments!\r\n\r\n[h2]Features[/h2]\r\n[list]\r\n[*]Russian / English language support\r\n[*]Cheat commands\r\n[*]Administration system\r\n[/list]\r\n\r\n[hr][/hr]\r\n\r\n[h2]Commands[/h2]\r\n\r\n[h3]Admin only[/h3]\r\n/creativeinv - Toggles the creative inventory for all players\r\n/restrictions - Toggles restrictions for all players\r\n/noaggro - Toggles bot aggro for all players\r\n/infinitefuel - Toggles infinite fuel\r\n\r\n/fly - Toggles fly mode\r\n/godmode - Toggles invincibility\r\n/setadmin (player id) (true/false) - Grants or revokes admin privileges for a player\r\n\r\n[h3]All players[/h3]\r\n/playerlist - Lists all currently playing players\r\n",
 		"fileId": 3801761169,
 		"localId": "cb8729f7-32ec-47a0-b907-73e705c0ee04",
 		"name": "Survival with commands",
@@ -52021,6 +52021,17 @@
 		"fileId": 3822151837,
 		"localId": "72d5b4a6-2ebe-4355-8771-1cea25d29325",
 		"name": "Bhop Survival",
+		"type": "Custom Game",
+		"version": 1
+	},
+	"37405022-35f6-403d-bf60-24c76b495e4c": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"dependencies": [],
+		"description": "Co-op survival expansion: explore new areas, unlock new machines, refine new resources. Includes the Remote Controller - drive and operate your creations from outside with a handheld Remote.",
+		"fileId": 3822729191,
+		"localId": "37405022-35f6-403d-bf60-24c76b495e4c",
+		"name": "Survival Frontier",
 		"type": "Custom Game",
 		"version": 1
 	}

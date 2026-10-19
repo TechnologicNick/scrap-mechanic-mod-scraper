@@ -8625,5 +8625,11 @@
 		]
 	},
 	"aedfa931-1958-4663-81c6-3be63a617a77": {},
-	"72d5b4a6-2ebe-4355-8771-1cea25d29325": {}
+	"72d5b4a6-2ebe-4355-8771-1cea25d29325": {},
+	"37405022-35f6-403d-bf60-24c76b495e4c": {
+		"$CONTENT_37405022-35f6-403d-bf60-24c76b495e4c/Tools/Database/ToolSets/example.toolset": [
+			"7992d2b8-1dc8-4fae-b4a9-671dc5fc5469",
+			"729404a2-87d5-453b-b022-c79ffd62bce9"
+		]
+	}
 }

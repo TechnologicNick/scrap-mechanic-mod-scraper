@@ -2028,5 +2028,8 @@
 	"78ac8b34-8396-477a-9059-8a62fa5b30f3": {
 		"$CONTENT_78ac8b34-8396-477a-9059-8a62fa5b30f3/Characters/Database/CharacterSets/example.characterset": []
 	},
-	"72d5b4a6-2ebe-4355-8771-1cea25d29325": {}
+	"72d5b4a6-2ebe-4355-8771-1cea25d29325": {},
+	"37405022-35f6-403d-bf60-24c76b495e4c": {
+		"$CONTENT_37405022-35f6-403d-bf60-24c76b495e4c/Characters/Database/CharacterSets/example.characterset": []
+	}
 }
