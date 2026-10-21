@@ -148512,6 +148512,8 @@
 			"5adf7180-415e-463d-9261-e4f8f21e2a75",
 			"0a2532d4-c1ce-4512-b687-2458f9969f01",
 			"b9274685-b1d9-43c7-924e-8ace4ad4278f",
+			"ec063400-604e-4b72-b066-12c0f7c82b04",
+			"2910c3af-62d4-4024-ace0-01bebcc20bc1",
 			"b402a9e8-8d7a-447c-baee-72c8cd95d146",
 			"961a3c78-8786-41cb-a534-48e009dc8f6e",
 			"de9465fb-020c-40b5-bc72-65471081e0e0",
@@ -183503,7 +183505,9 @@
 			"9a05120d-9109-40eb-b4a4-d07b7f5f62e2",
 			"a459a3b8-2202-499b-b52a-dc5f8b6857ed",
 			"a16f0627-b371-41a5-81fc-18ea31cc3c22",
-			"2a80ca1e-a2f7-463e-ba20-5d6d2865d59c"
+			"2a80ca1e-a2f7-463e-ba20-5d6d2865d59c",
+			"c0657115-641c-4f4f-8dbc-c7cb583c3808",
+			"d9aacebf-4e35-4e5c-8703-4079a644c92d"
 		],
 		"$CONTENT_e34dafcf-c197-4fb9-968f-1d084e3b9941/Objects/Database/ShapeSets/plasmadrills.shapeset": [
 			"ef6b72c6-c2f3-4c42-8419-a68ff6b33e11",
@@ -183521,7 +183525,12 @@
 			"ff6867ce-457c-4b4b-9cb2-f17a88ada6b3",
 			"e8f9120b-08d1-4320-bf65-16d2b1da7be4",
 			"113ff86a-7564-453f-854d-3a7564c546f1",
-			"e781a32a-9657-4b5f-9acc-c323b8cd93d0"
+			"e781a32a-9657-4b5f-9acc-c323b8cd93d0",
+			"83cc2e2c-41fc-4c2b-bfab-3974db61bb09",
+			"f656c6a6-7aa0-4a8c-b497-bd299826af2e",
+			"baaf3929-2dbe-46ca-a473-6d3e3bc1a3b0",
+			"bf52302e-3a36-45be-86ae-8c044bc58c20",
+			"30f6a43c-32f6-4d81-b2e9-5e2973fb2df2"
 		]
 	},
 	"4776c6dd-8698-4ce7-8a55-cd803e9ab9e0": {
@@ -183832,6 +183841,64 @@
 			"86f26d84-6bc7-4038-aa92-8e93d9c27963",
 			"56e1f267-1b5e-40db-a07c-fd2f07494a65",
 			"5e8206b5-6def-483e-ae63-cc2b72ad4306"
+		],
+		"$CONTENT_37405022-35f6-403d-bf60-24c76b495e4c/Objects/Database/ShapeSets/frontier_gyro.shapeset": [
+			"b85ad9ee-d61c-42ed-a106-8606f50c973b",
+			"c3a1e5f2-6b7d-4e0a-9f12-3d4b5a6c7e81",
+			"d4b2f6a3-7c8e-4f1b-8a23-4e5c6b7d8f92",
+			"4e49d1be-00cc-46cb-81a8-cd9314bade08",
+			"a76b152a-2316-4c30-9d2e-27242cf14542",
+			"177da057-57c3-460f-a216-e6b4df3ad562",
+			"b3151f94-d06c-4712-8d4b-08d240733e2f",
+			"28a10d49-66bc-4d0f-b2a4-4ebf268486a5",
+			"b1878339-44a2-4542-a911-0705c54c71c6",
+			"8ee5c5e2-c116-40c6-8162-55109fbfefae",
+			"ba4a1c90-2e1f-4009-95a0-c122e8ca2342",
+			"7120cda5-3a9b-4697-90a6-ad07aeeea4a2",
+			"f6d4b8c5-9eaf-4b3d-8c45-6a7e8d9fab14",
+			"a7e5c9d6-0fb1-4c4e-9d56-7b8f9eab0c25",
+			"b8f6dae7-1ac2-4d5f-8e67-8c9faebc1d36",
+			"c9a7ebf8-2bd3-4e6a-9f78-9dabfcdd2e47",
+			"dab8fc09-3ce4-4f7b-8a89-aebcadee3f58"
+		],
+		"$CONTENT_37405022-35f6-403d-bf60-24c76b495e4c/Objects/Database/ShapeSets/frontier_food.shapeset": [
+			"9efafca9-9299-4c4d-986a-c5f0f592be09",
+			"c0c8439b-33d8-4f04-850c-e5837d66ca1b",
+			"c8a243d4-7de4-4bdc-9d79-4896a2f1be1e",
+			"0af47993-6bb0-4800-8b7d-41bb7a8468a9",
+			"d2b439f0-c3bf-41db-a0e9-a567b3ff70a0",
+			"23d576ec-3b23-4690-9cef-74f22848c21d",
+			"e809d8e5-c582-48c2-9647-62d258db5183",
+			"06b84840-bb89-45ca-a5a5-52903ea2dea9",
+			"b3925448-4e3e-440c-98fc-5111aedbbcd6",
+			"b95f5b3c-5dcf-43dc-88d4-1d84b057944b",
+			"6cf35a83-9f73-4a45-8483-abc79a85218b",
+			"e1b2cf7c-cbd9-4a15-895b-7ed4389e2318",
+			"69af239b-4d6b-4e13-ab16-ec7f24537445",
+			"228c7ac0-f5ef-49c1-9123-f1eb91e938fc",
+			"dc2db338-3818-4bb4-b3c5-ac5419cd75a6",
+			"9b7415e2-a7f6-499f-8510-a83bbcd0bb89",
+			"622969b2-4b52-489e-92c4-fb064a286795",
+			"e9b32ac1-6197-4a54-a1bb-51281cefc05c",
+			"abb43c7d-b592-465e-bc12-79b90b1cb58e",
+			"6c355a83-d2a6-49fc-9bcc-793544a6a00f",
+			"ac411711-00a2-4ac4-9b0b-d823f5647d5c"
+		],
+		"$CONTENT_37405022-35f6-403d-bf60-24c76b495e4c/Objects/Database/ShapeSets/frontier_contracts.shapeset": [
+			"1de53ae2-585a-4151-b6ee-74791cabce4e",
+			"5d39dd15-9ecd-47da-81ab-a5f728797ffd",
+			"ea2d3427-9e94-4ac2-817b-fc47bafcfefb",
+			"62431138-6763-4657-bc68-c34495c951df",
+			"b7ec5125-d90b-4f15-b2bc-4a5c9b40ffeb",
+			"f68e14d7-1e3f-4a48-bfa7-afabafe419b0",
+			"b0dc4cc2-b013-4ed9-ad29-5467cb470641",
+			"c34c7211-c44a-4ab4-b7d1-bb21aeb0e848",
+			"9719fb89-930e-43e6-99f6-d100e97cabe4"
+		],
+		"$CONTENT_37405022-35f6-403d-bf60-24c76b495e4c/Objects/Database/ShapeSets/frontier_hud.shapeset": [
+			"a79e2532-dbde-4ea2-a0c8-86d0a6ad9298",
+			"cf06b105-1da2-41b5-96ee-72468f06e4d1",
+			"e3285bdb-32d2-48ff-a6c0-e188d73cf394"
 		]
 	},
 	"4c90a839-3fdf-4e2d-9e05-dabbe51c958c": {
