@@ -51761,7 +51761,7 @@
 		"allow_add_mods": true,
 		"custom_icons": true,
 		"dependencies": null,
-		"description": "Don't worry. This not a Horror Game. Scrap mechanic was never meant to be a horror game. Besides, how can a simple wave-based game be scary? Right?\"Not a Horror Game\" is a custom game that recreates the backrooms in Scrap mechanic. It currently has level 0 only, but I will add more levels later on.Roadmap:- Version 0.6.1: Will add a end exit to the first level. (Done)- Version 0.7: Adds Level 1 and a second enemy. (In Progress)- Version 0.8: Adds Level 2. - Version 0.9: Adds Level 3.- Version 1.0: Adds Level 37.Credit: I used the Completely Dark Night Mod by Warface so that night time is darker.Tags: Backrooms, Horror, Scary",
+		"description": "Don't worry. This not a Horror Game. Scrap mechanic was never meant to be a horror game. Besides, how can a simple wave-based game be scary? Right?\"Not a Horror Game\" is a custom game that recreates the backrooms in Scrap mechanic. It currently has level 0 only, but I will add more levels later on.Roadmap:- Version 0.6.1: Will add a end exit to the first level. (Done)- Version 0.7: Adds Level 1 and a second enemy. (Done)- Version 0.8: Adds Level 2. - Version 0.9: Adds Level 3.- Version 1.0: Adds Level 37.Credit: I used the Completely Dark Night Mod by Warface so that night time is darker.Tags: Backrooms, Horror, Scary",
 		"fileId": 3813395648,
 		"localId": "40221ba0-21d2-4441-a68e-76339139f666",
 		"name": "Not a Horror Game",
@@ -52036,9 +52036,9 @@
 		"version": 1
 	},
 	"4c90a839-3fdf-4e2d-9e05-dabbe51c958c": {
-		"allow_add_mods": true,
+		"allow_add_mods": false,
 		"custom_icons": true,
-		"description": "[h1]ULTRAMECHANIC[/h1][b]ULTRAKILL's player movement and combat, dropped into Scrap Mechanic.[/b]You get the full toolkit: slide, dash, slam, wall-kick, grapple, parry, coin-flip ricochets, and a style meter that rewards you for not standing still. Spawn in, grab your guns, and move fast.[i]Early version! Expect rough edges and bugs. Feedback in the comments is very welcome.[/i][h2]MOVEMENT[/h2][list][*][b]Slide[/b] – crouch while running to slide. Jump out of a slide to keep your speed.[*][b]Dash[/b] – press Shift for a burst of speed with brief invincibility. 3 charges, recharge over time. The dash goes where your WASD keys point.[*][b]Ground Slam[/b] – crouch in mid-air to dive. Landing hurts nearby enemies. Jump right after landing for a Slam Jump, boosted by how fast you fell.[*][b]Wall Kick[/b] – hit a wall in mid-air to bounce off it. Up to 3 kicks before you touch the ground.[*][b]Whiplash (Grapple)[/b] – press [b]R[/b] or [b]E[/b]. Hook terrain to pull yourself over, or yank enemies and light objects toward you.[*][b]Air control[/b], [b]higher jump[/b], and [b]no fall damage[/b].[/list][h2]WEAPONS[/h2]You start with the full set and infinite ammo.[list][*][b]Revolver[/b] – fast, accurate, high damage. [b]Right-click tosses a coin.[/b] Shoot near a coin to ricochet into the next coin, then into the nearest visible enemy. Longer chains deal more damage.[*][b]Shotgun[/b] – ten pellets per shot. Great up close.[*][b]Nailgun[/b] – rapid fire stream of small projectiles.[*][b]Launcher[/b] – fire at your feet for a rocket jump.[*][b]Feedbacker (fist)[/b] – a heavy punch with extra damage and knockback. It heals you when it hits an enemy.[/list][h2]PARRY[/h2]Swinging the Feedbacker opens a short parry window. If you get hit during it, the damage is blocked, you get healed, and you earn style. Parry on a cooldown, so you can't just spam it.[h2]STYLE METER[/h2]Every move earns style points, and repeating the same trick earns less. Mix it up to climb the ranks from [b]D[/b] up to [b]U",
+		"description": "",
 		"fileId": 3822403956,
 		"localId": "4c90a839-3fdf-4e2d-9e05-dabbe51c958c",
 		"name": "UltraMechanic",
@@ -52062,6 +52062,14 @@
 		"fileId": 3823474261,
 		"localId": "083aebc3-52e7-48e8-818c-fe408221abfd",
 		"name": "Profiles & Drives",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"7bb6167e-6082-4f96-9176-dc18db765381": {
+		"description": "Two guidance heads",
+		"fileId": 3821833930,
+		"localId": "7bb6167e-6082-4f96-9176-dc18db765381",
+		"name": "Rocket Equipment [TEST 0.4]",
 		"type": "Blocks and Parts",
 		"version": 2
 	}

@@ -183456,7 +183456,17 @@
 			"1e8d7ced-57da-49a2-9d6c-b7c1435eacce",
 			"995c4aa6-7be0-444f-9793-aecb4570c4e4",
 			"02957fa5-ee71-4d62-94a1-427c6c65da96",
-			"e49af452-a354-44f1-a0dd-37a12432f24d"
+			"e49af452-a354-44f1-a0dd-37a12432f24d",
+			"c4e8b271-6a0d-4f93-9b15-3d7e8a41c052"
+		],
+		"$CONTENT_40221ba0-21d2-4441-a68e-76339139f666/Objects/Database/ShapeSets/nahg_spider.shapeset": [
+			"f8771e69-46f7-5922-8acd-9487cd033e8c",
+			"f733b389-507c-591e-ae36-bd6d7e9fc415",
+			"4eb2d44d-d4cb-583f-9498-b099a1a60b99",
+			"374f7e73-8a0d-587b-8231-bdc6aca1c09f",
+			"04458f56-33da-5371-b9ca-5f55b9b61a40",
+			"509e7237-ecf1-59a6-ab59-ede756b36053",
+			"3cdc38d1-2005-56d1-bf1f-682a267ccac4"
 		]
 	},
 	"1cf6b84a-2918-4819-aa08-c67763487118": {
@@ -183959,6 +183969,15 @@
 			"52ca809e-cf47-401f-b70c-78f3c94805da",
 			"651fc9d8-fe4e-4b04-b270-58595b8e9e91",
 			"689c09d0-8d98-40f6-ad54-07451b47bcec"
+		]
+	},
+	"7bb6167e-6082-4f96-9176-dc18db765381": {
+		"$CONTENT_7bb6167e-6082-4f96-9176-dc18db765381/Objects/Database/ShapeSets/equipment.shapeset": [
+			"54c454bb-43f0-4fb2-8834-d52c7268010a",
+			"ad6e7841-d4bc-472d-a205-4411c94e9e0a",
+			"879f3ef4-23c4-43f0-87d6-b62c532a9b41",
+			"de71ad65-3542-4b33-a8a8-59c83a03f613",
+			"68d0a7ba-463f-4e80-9cbb-ae04e1b31a82"
 		]
 	}
 }
