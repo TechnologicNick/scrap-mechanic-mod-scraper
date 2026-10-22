@@ -52072,5 +52072,25 @@
 		"name": "Rocket Equipment [TEST 0.4]",
 		"type": "Blocks and Parts",
 		"version": 2
+	},
+	"bda05a4e-c518-4848-9f3d-5b550c652618": {
+		"allow_add_mods": true,
+		"custom_icons": false,
+		"description": "This mod adds a reworked spud gun that can be upgraded with various modules including sights, tanks, barrels, and stocks to make it more comfortable to use. Each module comes with its own unique perk to improve your shooting. Good luck, mechanics, and protect your crops!\r\n\r\nThe original idea came from Axolot Games.",
+		"fileId": 3820987467,
+		"localId": "bda05a4e-c518-4848-9f3d-5b550c652618",
+		"name": "Spudgun Remastered",
+		"type": "Blocks and Parts",
+		"version": 2
+	},
+	"80518d38-207e-4f83-9d53-476bfd7f5d9a": {
+		"allow_add_mods": true,
+		"custom_icons": true,
+		"description": "Working 3D attitude indicator (artificial horizon) for planes. 1x1 gauge with live pitch/roll display. No logic needed, just weld it to your creation.",
+		"fileId": 3824134142,
+		"localId": "80518d38-207e-4f83-9d53-476bfd7f5d9a",
+		"name": "Attitude Indicator",
+		"type": "Blocks and Parts",
+		"version": 2
 	}
 }

@@ -183979,5 +183979,13 @@
 			"de71ad65-3542-4b33-a8a8-59c83a03f613",
 			"68d0a7ba-463f-4e80-9cbb-ae04e1b31a82"
 		]
+	},
+	"bda05a4e-c518-4848-9f3d-5b550c652618": {
+		"$CONTENT_bda05a4e-c518-4848-9f3d-5b550c652618/Objects/Database/ShapeSets/example.shapeset": []
+	},
+	"80518d38-207e-4f83-9d53-476bfd7f5d9a": {
+		"$CONTENT_80518d38-207e-4f83-9d53-476bfd7f5d9a/Objects/Database/ShapeSets/attitude.shapeset": [
+			"9f9d42dd-3cc0-4056-8003-688ec1815beb"
+		]
 	}
 }
