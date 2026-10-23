@@ -183877,6 +183877,7 @@
 		"$CONTENT_37405022-35f6-403d-bf60-24c76b495e4c/Objects/Database/ShapeSets/frontier_food.shapeset": [
 			"9efafca9-9299-4c4d-986a-c5f0f592be09",
 			"c0c8439b-33d8-4f04-850c-e5837d66ca1b",
+			"cdf04470-4d41-4009-93c3-7d01b243703a",
 			"c8a243d4-7de4-4bdc-9d79-4896a2f1be1e",
 			"0af47993-6bb0-4800-8b7d-41bb7a8468a9",
 			"d2b439f0-c3bf-41db-a0e9-a567b3ff70a0",
@@ -183892,12 +183893,16 @@
 			"dc2db338-3818-4bb4-b3c5-ac5419cd75a6",
 			"9b7415e2-a7f6-499f-8510-a83bbcd0bb89",
 			"622969b2-4b52-489e-92c4-fb064a286795",
+			"f475c2bf-9044-4b1f-9093-357ed0975ea0",
+			"969aff7a-c3f4-4e58-a347-04ddca2f6784",
 			"e9b32ac1-6197-4a54-a1bb-51281cefc05c",
 			"abb43c7d-b592-465e-bc12-79b90b1cb58e",
 			"6c355a83-d2a6-49fc-9bcc-793544a6a00f",
+			"928f3e08-c30d-4272-81f3-9fbd15a6f8ce",
 			"ac411711-00a2-4ac4-9b0b-d823f5647d5c"
 		],
 		"$CONTENT_37405022-35f6-403d-bf60-24c76b495e4c/Objects/Database/ShapeSets/frontier_contracts.shapeset": [
+			"5d370fde-0008-4b0d-972b-2c7a2c69c33b",
 			"1de53ae2-585a-4151-b6ee-74791cabce4e",
 			"5d39dd15-9ecd-47da-81ab-a5f728797ffd",
 			"ea2d3427-9e94-4ac2-817b-fc47bafcfefb",
@@ -183912,6 +183917,30 @@
 			"a79e2532-dbde-4ea2-a0c8-86d0a6ad9298",
 			"cf06b105-1da2-41b5-96ee-72468f06e4d1",
 			"e3285bdb-32d2-48ff-a6c0-e188d73cf394"
+		],
+		"$CONTENT_37405022-35f6-403d-bf60-24c76b495e4c/Objects/Database/ShapeSets/frontier_fishing.shapeset": [
+			"e3138302-ab49-469b-8a8d-6036435ed1a7",
+			"efb42255-6dac-4e7f-aec5-7aaafe3807d3",
+			"08284473-05b9-40c4-b688-981042995f2b",
+			"ac02afaf-69bb-4ea3-befb-af86c4b35219",
+			"4e29bb3c-f510-4ba1-9abb-c9fd9b0f6368",
+			"8326629e-7205-4dab-bca8-fce5ee6f6351",
+			"f79a04f9-d570-44d8-b4a9-5a7e26e84d38",
+			"f26822a3-78ca-49de-b198-92d71b6e6eef",
+			"b94483da-0cba-415d-8ddf-90204432f4b0",
+			"e5e78f20-e451-4bab-aae0-665e9c48daa7",
+			"38eb8f8d-2fc6-463c-8f1a-8c8c91c978de",
+			"133af624-c062-4928-9191-c0552c8098ae",
+			"2088efd3-302a-4776-8512-a57b2291d63d",
+			"3e2d5f8f-b8b6-4d0d-9b29-8bd5dc364f8b",
+			"64dbb3ef-3961-4a5c-ac0f-4b1416d6cf0a",
+			"689c9a2e-64a6-4d04-a40f-0f7cf8a868c5",
+			"cee218ba-57dd-4396-b6a6-3b6b453b0def",
+			"a6f87692-2743-418e-b532-5f80d92e8827",
+			"628047c5-d953-4cfc-9b08-50702e74f113",
+			"2f271d63-91c4-4504-9900-f357d35bc6cb",
+			"18eb405a-bda8-4efa-9ac1-8a516455973d",
+			"23842c88-b4ae-444d-a49d-eb6f8e75901d"
 		]
 	},
 	"4c90a839-3fdf-4e2d-9e05-dabbe51c958c": {
@@ -183989,6 +184018,19 @@
 	"80518d38-207e-4f83-9d53-476bfd7f5d9a": {
 		"$CONTENT_80518d38-207e-4f83-9d53-476bfd7f5d9a/Objects/Database/ShapeSets/attitude.shapeset": [
 			"9f9d42dd-3cc0-4056-8003-688ec1815beb"
+		]
+	},
+	"e199dcd4-476f-40a8-8226-095f845dc0f9": {
+		"$CONTENT_e199dcd4-476f-40a8-8226-095f845dc0f9/Objects/Database/ShapeSets/example.shapeset": [],
+		"$CONTENT_e199dcd4-476f-40a8-8226-095f845dc0f9/Objects/Database/ShapeSets/nahg_spider.shapeset": [
+			"f8771e69-46f7-5922-8acd-9487cd033e8c",
+			"f733b389-507c-591e-ae36-bd6d7e9fc415",
+			"4eb2d44d-d4cb-583f-9498-b099a1a60b99",
+			"374f7e73-8a0d-587b-8231-bdc6aca1c09f",
+			"04458f56-33da-5371-b9ca-5f55b9b61a40",
+			"509e7237-ecf1-59a6-ab59-ede756b36053",
+			"3cdc38d1-2005-56d1-bf1f-682a267ccac4",
+			"ad0a035f-c7ed-4a3f-a050-050e885b65cb"
 		]
 	}
 }
