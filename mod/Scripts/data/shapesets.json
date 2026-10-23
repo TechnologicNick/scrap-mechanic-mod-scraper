@@ -68035,6 +68035,7 @@
 			"773d90ee-2f5e-4415-998c-90f4cfe12a77",
 			"126a5046-f203-438d-abd5-a9b2acfd1044",
 			"4427b780-9331-48cd-83eb-dc3646205cd6",
+			"a7d5075b-8140-454a-b8ca-9b24b192d72e",
 			"f3a2d5e3-70c9-4d76-bdb5-f5ccd2403a25",
 			"c83e0e11-6ac1-48fb-a2c6-256f8128b4a6",
 			"6f7bd3f2-1be2-47ad-a778-5be60778cfb2",
@@ -183515,9 +183516,7 @@
 			"9a05120d-9109-40eb-b4a4-d07b7f5f62e2",
 			"a459a3b8-2202-499b-b52a-dc5f8b6857ed",
 			"a16f0627-b371-41a5-81fc-18ea31cc3c22",
-			"2a80ca1e-a2f7-463e-ba20-5d6d2865d59c",
-			"c0657115-641c-4f4f-8dbc-c7cb583c3808",
-			"d9aacebf-4e35-4e5c-8703-4079a644c92d"
+			"2a80ca1e-a2f7-463e-ba20-5d6d2865d59c"
 		],
 		"$CONTENT_e34dafcf-c197-4fb9-968f-1d084e3b9941/Objects/Database/ShapeSets/plasmadrills.shapeset": [
 			"ef6b72c6-c2f3-4c42-8419-a68ff6b33e11",
@@ -183541,6 +183540,16 @@
 			"baaf3929-2dbe-46ca-a473-6d3e3bc1a3b0",
 			"bf52302e-3a36-45be-86ae-8c044bc58c20",
 			"30f6a43c-32f6-4d81-b2e9-5e2973fb2df2"
+		],
+		"$CONTENT_e34dafcf-c197-4fb9-968f-1d084e3b9941/Objects/Database/ShapeSets/mountables.shapeset": [
+			"62458a94-c67e-4892-9606-1a7cc46679cd"
+		],
+		"$CONTENT_e34dafcf-c197-4fb9-968f-1d084e3b9941/Objects/Database/ShapeSets/generators.shapeset": [
+			"c0657115-641c-4f4f-8dbc-c7cb583c3808",
+			"d9aacebf-4e35-4e5c-8703-4079a644c92d",
+			"49dfb0eb-5510-4e15-b1f5-ac86466743df",
+			"2cdd80f8-83c3-43e2-9d68-e373e52eae4b",
+			"3ba5b349-3352-4dbc-af6f-5ad84e487e96"
 		]
 	},
 	"4776c6dd-8698-4ce7-8a55-cd803e9ab9e0": {
@@ -183623,6 +183632,7 @@
 			"a2b3c4d5-6e7f-4801-9a2b-3c4d5e6f7081",
 			"1484866e-68d4-42ed-b434-1ba0b93f4688",
 			"3b7e1d94-6a25-4c8f-9e13-2d5f7a8b4c60",
+			"e0788d51-975c-4c91-8c28-98fba92bdef4",
 			"edeb3f02-f86f-4e02-8f18-d59387946f60",
 			"853cb0f3-e91a-4c5f-83ff-5f3ec68b004f",
 			"53fe7540-e628-4704-a945-64ff58bb1475",
@@ -183632,6 +183642,7 @@
 			"0f866810-97d8-478b-bab9-bc31b00ebcb1",
 			"aca63765-7fe8-49e4-bb9d-78dee1343b84",
 			"b8c51abc-9dff-4938-8471-f4839ad78150",
+			"23d57948-c8ea-495c-bb29-8a3bc8a06390",
 			"7c03ca59-c018-4e91-80a1-0f5d9e85c6d4",
 			"e570a835-d219-43eb-b128-3cf58ab91f3c",
 			"42f1521a-9393-40d6-9917-777b854d75ed",
